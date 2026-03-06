@@ -1,0 +1,172 @@
+{
+  "icao": "KLAX",
+  "iata": "LAX",
+  "name": "Los Angeles International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.9425,
+    "longitude": -118.4081,
+    "elevation_ft": 125,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Los Angeles"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Los_Angeles_International_Airport",
+  "keywords": ["LAX", "Los Angeles", "KLAX"],
+  "runways": [
+    {
+      "id": "06L/24R",
+      "length_ft": 8926,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06L",
+          "latitude": 33.9378,
+          "longitude": -118.4205,
+          "elevation_ft": 126,
+          "heading_true": 69,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24R",
+          "latitude": 33.9519,
+          "longitude": -118.3961,
+          "elevation_ft": 118,
+          "heading_true": 249,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06R/24L",
+      "length_ft": 11096,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06R",
+          "latitude": 33.9253,
+          "longitude": -118.4186,
+          "elevation_ft": 122,
+          "heading_true": 69,
+          "displaced_threshold_ft": 1020
+        },
+        "high": {
+          "ident": "24L",
+          "latitude": 33.9419,
+          "longitude": -118.3894,
+          "elevation_ft": 115,
+          "heading_true": 249,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07L/25R",
+      "length_ft": 12091,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07L",
+          "latitude": 33.9472,
+          "longitude": -118.4278,
+          "elevation_ft": 126,
+          "heading_true": 70,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25R",
+          "latitude": 33.9617,
+          "longitude": -118.3963,
+          "elevation_ft": 115,
+          "heading_true": 250,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07R/25L",
+      "length_ft": 11004,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07R",
+          "latitude": 33.9547,
+          "longitude": -118.4244,
+          "elevation_ft": 125,
+          "heading_true": 70,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25L",
+          "latitude": 33.9683,
+          "longitude": -118.3969,
+          "elevation_ft": 107,
+          "heading_true": 250,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "TWR",
+      "description": "Tower (south complex)",
+      "mhz": 133.9
+    },
+    {
+      "type": "TWR",
+      "description": "Tower (north complex)",
+      "mhz": 119.8
+    },
+    {
+      "type": "GND",
+      "description": "Ground (south)",
+      "mhz": 121.75
+    },
+    {
+      "type": "GND",
+      "description": "Ground (north)",
+      "mhz": 121.65
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 133.8
+    },
+    {
+      "type": "APP",
+      "description": "SoCal Approach",
+      "mhz": 124.5
+    },
+    {
+      "type": "DEP",
+      "description": "SoCal Departure",
+      "mhz": 135.4
+    },
+    {
+      "type": "CLNC DEL",
+      "description": "Clearance Delivery",
+      "mhz": 121.4
+    }
+  ],
+  "metadata": {
+    "created": "2024-01-01",
+    "updated": "2024-11-15",
+    "sources": ["ourairports", "faa"]
+  }
+}

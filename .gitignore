@@ -1,0 +1,16 @@
+# Generated export artifacts — do not commit
+exports/
+
+# Downloaded source CSVs used for import
+*.csv
+
+# Node
+node_modules/
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
