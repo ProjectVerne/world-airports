@@ -1,0 +1,72 @@
+{
+  "icao": "KPZQ",
+  "iata": null,
+  "name": "Presque Isle County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.407101,
+    "longitude": -83.812897,
+    "elevation_ft": 670,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Rogers City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Presque_Isle_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4106,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 45.4068985,
+          "longitude": -83.82089996,
+          "elevation_ft": 669,
+          "heading_true": 88,
+          "displaced_threshold_ft": 220
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 45.40729904,
+          "longitude": -83.80490112,
+          "elevation_ft": 670,
+          "heading_true": 268,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ALPENA APP/DEP",
+      "mhz": 128.425
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "LANSING RDO",
+      "mhz": 108.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

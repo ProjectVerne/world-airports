@@ -1,0 +1,123 @@
+{
+  "icao": "KMRB",
+  "iata": "MRB",
+  "name": "Eastern WV Regional Airport/Shepherd Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.40190125,
+    "longitude": -77.98459625,
+    "elevation_ft": 565,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Martinsburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eastern_WV_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 8815,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 39.39836121,
+          "longitude": -77.99771118,
+          "elevation_ft": 564,
+          "heading_true": 71,
+          "displaced_threshold_ft": 400
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 39.40546036,
+          "longitude": -77.97164917,
+          "elevation_ft": 547,
+          "heading_true": 251,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 39.407901763916016,
+          "longitude": -77.98930358886719,
+          "elevation_ft": 544,
+          "heading_true": 160.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 39.39500045776367,
+          "longitude": -77.9833984375,
+          "elevation_ft": 542,
+          "heading_true": 340.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POTOMAC APP/DEP",
+      "mhz": 126.1
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.925
+    },
+    {
+      "type": "OTHER",
+      "description": "POTOMAC CLNC DEL",
+      "mhz": 132.075
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "ELKINS RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "TWR",
+      "description": "MARTINSBURG TWR",
+      "mhz": 124.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

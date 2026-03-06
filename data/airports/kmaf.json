@@ -1,0 +1,177 @@
+{
+  "icao": "KMAF",
+  "iata": "MAF",
+  "name": "Midland International Air and Space Port",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.942499,
+    "longitude": -102.202003,
+    "elevation_ft": 2871,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Midland"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Midland_International_Airport",
+  "keywords": [
+    "Midland International Airport"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4605,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 31.931699752807617,
+          "longitude": -102.2040023803711,
+          "elevation_ft": 2850,
+          "heading_true": 54,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 31.939199447631836,
+          "longitude": -102.19200134277344,
+          "elevation_ft": 2853,
+          "heading_true": 234,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 8302,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 31.947599411010742,
+          "longitude": -102.21600341796875,
+          "elevation_ft": 2869,
+          "heading_true": 114,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 31.938499450683594,
+          "longitude": -102.19200134277344,
+          "elevation_ft": 2854,
+          "heading_true": 294,
+          "displaced_threshold_ft": 691
+        }
+      }
+    },
+    {
+      "id": "16L/34R",
+      "length_ft": 4247,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16L",
+          "latitude": 31.946500778198242,
+          "longitude": -102.1969985961914,
+          "elevation_ft": 2863,
+          "heading_true": 177,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34R",
+          "latitude": 31.934600830078125,
+          "longitude": -102.1969985961914,
+          "elevation_ft": 2846,
+          "heading_true": 357,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16R/34L",
+      "length_ft": 9501,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16R",
+          "latitude": 31.959400177001953,
+          "longitude": -102.20600128173828,
+          "elevation_ft": 2871,
+          "heading_true": 175,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34L",
+          "latitude": 31.933399200439453,
+          "longitude": -102.2030029296875,
+          "elevation_ft": 2850,
+          "heading_true": 355,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 121.1
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.8
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.05
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "SAN ANGELO RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

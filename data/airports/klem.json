@@ -1,0 +1,95 @@
+{
+  "icao": "KLEM",
+  "iata": "LEM",
+  "name": "Lemmon Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.9187011719,
+    "longitude": -102.106002808,
+    "elevation_ft": 2571,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Lemmon"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Ray Kolb Field"
+  ],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 4501,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 45.922698974609375,
+          "longitude": -102.11199951171875,
+          "elevation_ft": 2566,
+          "heading_true": 125.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 45.91550064086914,
+          "longitude": -102.0979995727539,
+          "elevation_ft": 2568,
+          "heading_true": 305.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 1900,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 45.91960144042969,
+          "longitude": -102.10800170898438,
+          "elevation_ft": 0,
+          "heading_true": 185,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 45.914398193359375,
+          "longitude": -102.10900115966797,
+          "elevation_ft": 0,
+          "heading_true": 5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 124.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

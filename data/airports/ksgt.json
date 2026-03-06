@@ -1,0 +1,105 @@
+{
+  "icao": "KSGT",
+  "iata": "SGT",
+  "name": "Stuttgart Municipal Airport / Carl Humphrey Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.599499,
+    "longitude": -91.574997,
+    "elevation_ft": 224,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Stuttgart"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Stuttgart_Municipal_Airport",
+  "keywords": [
+    "Stuttgart AAF"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5002,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 34.604000091552734,
+          "longitude": -91.57869720458984,
+          "elevation_ft": 219,
+          "heading_true": 92,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 34.60350036621094,
+          "longitude": -91.56210327148438,
+          "elevation_ft": 219,
+          "heading_true": 272,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6015,
+      "width_ft": 100,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 34.60419845581055,
+          "longitude": -91.57849884033203,
+          "elevation_ft": 220,
+          "heading_true": 182,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 34.58769989013672,
+          "longitude": -91.5791015625,
+          "elevation_ft": 223,
+          "heading_true": 2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "LITTLE ROCK APP/DEP",
+      "mhz": 135.4
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.025
+    },
+    {
+      "type": "OTHER",
+      "description": "LITTLE ROCK CLNC DEL",
+      "mhz": 123.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

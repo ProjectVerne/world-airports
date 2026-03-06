@@ -1,0 +1,144 @@
+{
+  "icao": "KTYR",
+  "iata": "TYR",
+  "name": "Tyler Pounds Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.35409927368164,
+    "longitude": -95.40239715576172,
+    "elevation_ft": 544,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Tyler"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tyler_Pounds_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 8334,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 32.34590149,
+          "longitude": -95.41069794,
+          "elevation_ft": 541,
+          "heading_true": 45.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 32.35990143,
+          "longitude": -95.39420319,
+          "elevation_ft": 525,
+          "heading_true": 225.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5198,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 32.36119843,
+          "longitude": -95.40540314,
+          "elevation_ft": 516,
+          "heading_true": 135.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 32.35110092,
+          "longitude": -95.39350128,
+          "elevation_ft": 542,
+          "heading_true": 315.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4832,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.360401,
+          "longitude": -95.405403,
+          "elevation_ft": 517,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.347099,
+          "longitude": -95.405502,
+          "elevation_ft": 544,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "LONGVIEW APP/DEP",
+      "mhz": 128.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.25
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

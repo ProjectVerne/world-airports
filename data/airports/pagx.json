@@ -1,0 +1,29 @@
+{
+  "icao": "PAGX",
+  "iata": "KGX",
+  "name": "Grayling Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.895187,
+    "longitude": -160.066289,
+    "elevation_ft": 99,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Grayling"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Grayling_Airport",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

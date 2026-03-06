@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": "USC",
+  "name": "Union County, Troy Shelton Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.687046,
+    "longitude": -81.64105,
+    "elevation_ft": 610,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Union"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Union_County_Airport_(South_Carolina)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3508,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 34.68370056152344,
+          "longitude": -81.64540100097656,
+          "elevation_ft": 573,
+          "heading_true": 47,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 34.69020080566406,
+          "longitude": -81.63690185546875,
+          "elevation_ft": 610,
+          "heading_true": 227,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "GREER APP/DEP",
+      "mhz": 119.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18652,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

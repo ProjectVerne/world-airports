@@ -1,0 +1,115 @@
+{
+  "icao": null,
+  "iata": "REE",
+  "name": "Reese Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.590301513672,
+    "longitude": -102.03700256348,
+    "elevation_ft": 3338,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lubbock"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Reese_Air_Force_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 6500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 33.583900451660156,
+          "longitude": -102.052001953125,
+          "elevation_ft": 0,
+          "heading_true": 85,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 33.58539962768555,
+          "longitude": -102.03099822998047,
+          "elevation_ft": 0,
+          "heading_true": 222,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17L/35R",
+      "length_ft": 6500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17L",
+          "latitude": 33.5989990234375,
+          "longitude": -102.03800201416016,
+          "elevation_ft": 3330,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35R",
+          "latitude": 33.581199645996094,
+          "longitude": -102.03700256347656,
+          "elevation_ft": 3325,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17R/35L",
+      "length_ft": 10500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17R",
+          "latitude": 33.61320114135742,
+          "longitude": -102.04199981689453,
+          "elevation_ft": 3333,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35L",
+          "latitude": 33.58430099487305,
+          "longitude": -102.04199981689453,
+          "elevation_ft": 3326,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 127.45
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 15267,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

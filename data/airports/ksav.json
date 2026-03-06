@@ -1,0 +1,128 @@
+{
+  "icao": "KSAV",
+  "iata": "SAV",
+  "name": "Savannah Hilton Head International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.126591,
+    "longitude": -81.19998,
+    "elevation_ft": 50,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Savannah"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Savannah/Hilton_Head_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 7002,
+      "width_ft": 150,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 32.116600036621094,
+          "longitude": -81.19999694824219,
+          "elevation_ft": 29,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 32.135799407958984,
+          "longitude": -81.20010375976562,
+          "elevation_ft": 42,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 9351,
+      "width_ft": 150,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 32.12879943847656,
+          "longitude": -81.21880340576172,
+          "elevation_ft": 17,
+          "heading_true": 91,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 32.128501892089844,
+          "longitude": -81.1885986328125,
+          "elevation_ft": 46,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 118.4
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 123.75
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.55
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 125.975
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ANDERSON RDO",
+      "mhz": 112.7
+    },
+    {
+      "type": "OTHER",
+      "description": "MACON RDO",
+      "mhz": 123.65
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 125.975
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

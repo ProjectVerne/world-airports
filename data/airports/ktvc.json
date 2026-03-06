@@ -1,0 +1,144 @@
+{
+  "icao": "KTVC",
+  "iata": "TVC",
+  "name": "Cherry Capital Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.741402,
+    "longitude": -85.582199,
+    "elevation_ft": 624,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Traverse City"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cherry_Capital_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3204,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 44.73569869995117,
+          "longitude": -85.58820343017578,
+          "elevation_ft": 624,
+          "heading_true": 50.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 44.74129867553711,
+          "longitude": -85.57879638671875,
+          "elevation_ft": 617,
+          "heading_true": 230.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 7016,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 44.74119949,
+          "longitude": -85.5904007,
+          "elevation_ft": 624,
+          "heading_true": 94,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 44.74000168,
+          "longitude": -85.56539917,
+          "elevation_ft": 608,
+          "heading_true": 274,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5378,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 44.75030136,
+          "longitude": -85.58769989,
+          "elevation_ft": 617,
+          "heading_true": 180,
+          "displaced_threshold_ft": 270
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 44.73550034,
+          "longitude": -85.58769989,
+          "elevation_ft": 624,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.175
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 132.9
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "LANSING RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 124.2
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

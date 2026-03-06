@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Westwind Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.920799255371094,
+    "longitude": -99.756103515625,
+    "elevation_ft": 686,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "La Pryor"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 5117,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 28.927400588989258,
+          "longitude": -99.75890350341797,
+          "elevation_ft": 0,
+          "heading_true": 160,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 28.914199829101562,
+          "longitude": -99.75340270996094,
+          "elevation_ft": 0,
+          "heading_true": 340,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 126.625
+    },
+    {
+      "type": "OTHER",
+      "description": "FOR LIRL/ROT BCN",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 24891,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

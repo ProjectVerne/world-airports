@@ -1,0 +1,98 @@
+{
+  "icao": "KCEV",
+  "iata": "CEV",
+  "name": "Mettel Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.6985015869,
+    "longitude": -85.129699707,
+    "elevation_ft": 867,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Connersville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mettel_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2601,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 39.69380188,
+          "longitude": -85.13529968,
+          "elevation_ft": 867,
+          "heading_true": 36.1,
+          "displaced_threshold_ft": 593
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 39.70009995,
+          "longitude": -85.12930298,
+          "elevation_ft": 867,
+          "heading_true": 216.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6503,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.70740128,
+          "longitude": -85.13069916,
+          "elevation_ft": 867,
+          "heading_true": 179.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.6896019,
+          "longitude": -85.13050079,
+          "elevation_ft": 861,
+          "heading_true": 359.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DAYTON APP/DEP",
+      "mhz": 134.45
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.325
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

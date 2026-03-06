@@ -1,0 +1,94 @@
+{
+  "icao": "KBCT",
+  "iata": "BCT",
+  "name": "Boca Raton Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.3785,
+    "longitude": -80.107697,
+    "elevation_ft": 13,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Boca Raton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Boca_Raton_Airport",
+  "keywords": [
+    "Boca Raton AAF"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 6276,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 26.372299194335938,
+          "longitude": -80.1144027709961,
+          "elevation_ft": 13,
+          "heading_true": 44,
+          "displaced_threshold_ft": 696
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 26.384700775146484,
+          "longitude": -80.10099792480469,
+          "elevation_ft": 13,
+          "heading_true": 224,
+          "displaced_threshold_ft": 378
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "PALM BEACH APP",
+      "mhz": 125.2
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 121.125
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.8
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.425
+    },
+    {
+      "type": "DEP",
+      "description": "PALM BEACH DEP",
+      "mhz": 127.35
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.425
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

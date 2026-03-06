@@ -1,0 +1,154 @@
+{
+  "icao": "KNEW",
+  "iata": "NEW",
+  "name": "Lakefront Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.042400360107,
+    "longitude": -90.028297424316,
+    "elevation_ft": 8,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "New Orleans"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Orleans_Lakefront_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3114,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 30.03709984,
+          "longitude": -90.0306015,
+          "elevation_ft": 5,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 30.03720093,
+          "longitude": -90.02079773,
+          "elevation_ft": 5,
+          "heading_true": 269,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18L/36R",
+      "length_ft": 3697,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18L",
+          "latitude": 30.050199508666992,
+          "longitude": -90.02770233154297,
+          "elevation_ft": 6,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36R",
+          "latitude": 30.040000915527344,
+          "longitude": -90.02749633789062,
+          "elevation_ft": 7,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18R/36L",
+      "length_ft": 6879,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18R",
+          "latitude": 30.05279922,
+          "longitude": -90.0298996,
+          "elevation_ft": 6,
+          "heading_true": 179,
+          "displaced_threshold_ft": 240
+        },
+        "high": {
+          "ident": "36L",
+          "latitude": 30.03389931,
+          "longitude": -90.02960205,
+          "elevation_ft": 7,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NEW ORLEANS APP/DEP",
+      "mhz": 123.85
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.9
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 127.4
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.95
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "ARNG OPS",
+      "mhz": 141.35
+    },
+    {
+      "type": "OTHER",
+      "description": "DE RIDDER RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.95
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

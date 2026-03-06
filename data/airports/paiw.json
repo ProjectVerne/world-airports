@@ -1,0 +1,56 @@
+{
+  "icao": "PAIW",
+  "iata": "WAA",
+  "name": "Wales Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.622593,
+    "longitude": -168.095,
+    "elevation_ft": 22,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Wales"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wales_Airport_(Alaska)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3990,
+      "width_ft": 75,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 65.62799835,
+          "longitude": -168.0930023,
+          "elevation_ft": 18,
+          "heading_true": 189,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 65.61720276,
+          "longitude": -168.0970001,
+          "elevation_ft": 17,
+          "heading_true": 9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

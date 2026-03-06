@@ -1,0 +1,98 @@
+{
+  "icao": "KCTY",
+  "iata": "CTY",
+  "name": "Cross City Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.6354999542,
+    "longitude": -83.10479736330001,
+    "elevation_ft": 42,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Cross City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cross_City_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5005,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 29.634000778198242,
+          "longitude": -83.10790252685547,
+          "elevation_ft": 42,
+          "heading_true": 44,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 29.643999099731445,
+          "longitude": -83.09700012207031,
+          "elevation_ft": 39,
+          "heading_true": 224,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 29.63680076599121,
+          "longitude": -83.11270141601562,
+          "elevation_ft": 41,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 29.627300262451172,
+          "longitude": -83.10130310058594,
+          "elevation_ft": 40,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE CNTR",
+      "mhz": 127.8
+    },
+    {
+      "type": "OTHER",
+      "description": "GAINESVILLE RDO",
+      "mhz": 112
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "icao": "KSEG",
+  "iata": "SEG",
+  "name": "Penn Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.820598602295,
+    "longitude": -76.863899230957,
+    "elevation_ft": 450,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Selinsgrove"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Penn_Valley_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 4760,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 40.825401306152344,
+          "longitude": -76.86630249023438,
+          "elevation_ft": 450,
+          "heading_true": 158.9,
+          "displaced_threshold_ft": 388
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 40.81570053100586,
+          "longitude": -76.86129760742188,
+          "elevation_ft": 443,
+          "heading_true": 338.9,
+          "displaced_threshold_ft": 250
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HARRISBURG APP/DEP",
+      "mhz": 118.25
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.275
+    },
+    {
+      "type": "OTHER",
+      "description": "WILLIAMSPORT RDO",
+      "mhz": 110.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

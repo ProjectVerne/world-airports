@@ -1,0 +1,62 @@
+{
+  "icao": "KMDA",
+  "iata": "MDA",
+  "name": "Martindale Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.4312992096,
+    "longitude": -98.3777999878,
+    "elevation_ft": 674,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "San Antonio"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 3000,
+      "width_ft": 700,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 29.434900283813477,
+          "longitude": -98.38259887695312,
+          "elevation_ft": 0,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 29.42919921875,
+          "longitude": -98.37580108642578,
+          "elevation_ft": 0,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 134.1
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

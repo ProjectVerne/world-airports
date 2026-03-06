@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Hopedale Industrial Park Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.106499,
+    "longitude": -71.510101,
+    "elevation_ft": 269,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Hopedale"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hopedale_Industrial_Park_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3172,
+      "width_ft": 90,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 42.11069869995117,
+          "longitude": -71.5114974975586,
+          "elevation_ft": 268,
+          "heading_true": 166,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 42.102298736572266,
+          "longitude": -71.50869750976562,
+          "elevation_ft": 237,
+          "heading_true": 346,
+          "displaced_threshold_ft": 110
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BRADLEY APP/DEP",
+      "mhz": 119
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18453,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

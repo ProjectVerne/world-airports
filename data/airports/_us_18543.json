@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Jackson County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.31740188598633,
+    "longitude": -83.20989990234375,
+    "elevation_ft": 2857,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Sylva"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Jackson_County_Airport_(North_Carolina)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3210,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 35.3207016,
+          "longitude": -83.21299744,
+          "elevation_ft": 2857,
+          "heading_true": 142,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 35.31420135,
+          "longitude": -83.20680237,
+          "elevation_ft": 2808,
+          "heading_true": 216,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 18543,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

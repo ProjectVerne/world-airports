@@ -1,0 +1,29 @@
+{
+  "icao": "PASO",
+  "iata": "SOV",
+  "name": "Seldovia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.442981,
+    "longitude": -151.705227,
+    "elevation_ft": 29,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Seldovia"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Seldovia_Airport",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

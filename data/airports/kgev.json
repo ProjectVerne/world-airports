@@ -1,0 +1,74 @@
+{
+  "icao": "KGEV",
+  "iata": null,
+  "name": "Ashe County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.432418,
+    "longitude": -81.418519,
+    "elevation_ft": 3180,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Jefferson"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ashe_County_Airport",
+  "keywords": [
+    "NC67"
+  ],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 5002,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 36.432301,
+          "longitude": -81.427002,
+          "elevation_ft": 3180,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 36.432598,
+          "longitude": -81.412399,
+          "elevation_ft": 3102,
+          "heading_true": 269,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 125.15
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120.675
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

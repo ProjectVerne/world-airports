@@ -1,0 +1,79 @@
+{
+  "icao": "KOKB",
+  "iata": "OCN",
+  "name": "Oceanside Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.217947,
+    "longitude": -117.351683,
+    "elevation_ft": 28,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Oceanside"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Oceanside_Municipal_Airport",
+  "keywords": [
+    "Bob Maxwell Field"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 2712,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 33.2169,
+          "longitude": -117.356003,
+          "elevation_ft": 25,
+          "heading_true": 74,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 33.219002,
+          "longitude": -117.347,
+          "elevation_ft": 28,
+          "heading_true": 254,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOCAL APP/DEP",
+      "mhz": 127.3
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 127.8
+    },
+    {
+      "type": "OTHER",
+      "description": "SAN DIEGO RDO",
+      "mhz": 115.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

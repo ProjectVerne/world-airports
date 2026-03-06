@@ -1,0 +1,67 @@
+{
+  "icao": "KGNB",
+  "iata": null,
+  "name": "Granby Grand County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.089698791503906,
+    "longitude": -105.91699981689453,
+    "elevation_ft": 8203,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Granby"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.0909996,
+          "longitude": -105.9260025,
+          "elevation_ft": 8162,
+          "heading_true": 100.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.08840179,
+          "longitude": -105.9079971,
+          "elevation_ft": 8203,
+          "heading_true": 280.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 1",
+      "mhz": 119.925
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

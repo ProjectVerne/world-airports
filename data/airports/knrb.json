@@ -1,0 +1,72 @@
+{
+  "icao": "KNRB",
+  "iata": "NRB",
+  "name": "Naval Station Mayport / Admiral David L McDonald Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.3911,
+    "longitude": -81.424698,
+    "elevation_ft": 15,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Station_Mayport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 8001,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 30.38330078125,
+          "longitude": -81.43319702148438,
+          "elevation_ft": 13,
+          "heading_true": 43,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 30.39940071105957,
+          "longitude": -81.41590118408203,
+          "elevation_ft": 14,
+          "heading_true": 223,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE APP/DEP",
+      "mhz": 124.9
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 126.5
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.75
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

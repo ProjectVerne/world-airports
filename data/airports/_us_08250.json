@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Melon Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.016229,
+    "longitude": -103.69464,
+    "elevation_ft": 4260,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Rocky Ford"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 3780,
+      "width_ft": 45,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 38.01580047607422,
+          "longitude": -103.70899963378906,
+          "elevation_ft": 4232,
+          "heading_true": 94.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 38.01499938964844,
+          "longitude": -103.69599914550781,
+          "elevation_ft": 4238,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2500,
+      "width_ft": 44,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 38.0182991027832,
+          "longitude": -103.697998046875,
+          "elevation_ft": 4252,
+          "heading_true": 193,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 38.01169967651367,
+          "longitude": -103.69999694824219,
+          "elevation_ft": 4240,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 8250,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

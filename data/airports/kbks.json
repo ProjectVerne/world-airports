@@ -1,0 +1,103 @@
+{
+  "icao": "KBKS",
+  "iata": null,
+  "name": "Brooks County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.20680046,
+    "longitude": -98.12120056,
+    "elevation_ft": 113,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Falfurrias"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3018,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 27.20899963,
+          "longitude": -98.12529755,
+          "elevation_ft": 109,
+          "heading_true": 149.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 27.20170021,
+          "longitude": -98.12049866,
+          "elevation_ft": 112,
+          "heading_true": 329.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 6006,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 27.21459961,
+          "longitude": -98.12010193,
+          "elevation_ft": 112,
+          "heading_true": 179.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 27.20089912,
+          "longitude": -98.12010193,
+          "elevation_ft": 112,
+          "heading_true": 359.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "KINGSVILLE APP",
+      "mhz": 119.9
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.125
+    },
+    {
+      "type": "DEP",
+      "description": "KINGSVILLE DEP",
+      "mhz": 119.9
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

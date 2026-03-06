@@ -1,0 +1,56 @@
+{
+  "icao": "PARS",
+  "iata": "RSH",
+  "name": "Russian Mission Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.775071,
+    "longitude": -161.319466,
+    "elevation_ft": 51,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Russian Mission"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Russian_Mission_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3600,
+      "width_ft": 100,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 61.77980041503906,
+          "longitude": -161.3179931640625,
+          "elevation_ft": 51,
+          "heading_true": 188,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 61.77000045776367,
+          "longitude": -161.3209991455078,
+          "elevation_ft": 51,
+          "heading_true": 8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

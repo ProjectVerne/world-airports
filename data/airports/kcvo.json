@@ -1,0 +1,100 @@
+{
+  "icao": "KCVO",
+  "iata": "CVO",
+  "name": "Corvallis Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.49720001,
+    "longitude": -123.2900009,
+    "elevation_ft": 250,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Corvallis"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Corvallis_Municipal_Airport",
+  "keywords": [
+    "Albany Oregon"
+  ],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 3100,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 44.501244,
+          "longitude": -123.289316,
+          "elevation_ft": 241,
+          "heading_true": 112,
+          "displaced_threshold_ft": 150
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 44.498294,
+          "longitude": -123.279107,
+          "elevation_ft": 244,
+          "heading_true": 292,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5900,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 44.503502,
+          "longitude": -123.291,
+          "elevation_ft": 241,
+          "heading_true": 187,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 44.4874,
+          "longitude": -123.293999,
+          "elevation_ft": 245,
+          "heading_true": 7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CASCADE APP/DEP",
+      "mhz": 127.5
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.775
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

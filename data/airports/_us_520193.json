@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "MHLC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.658592,
+    "longitude": -90.131006,
+    "elevation_ft": 986,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Darlington"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 520193,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

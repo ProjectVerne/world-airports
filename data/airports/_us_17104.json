@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "WHC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.929000854499996,
+    "longitude": -77.01640319820001,
+    "elevation_ft": 205,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "WHC"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17104,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

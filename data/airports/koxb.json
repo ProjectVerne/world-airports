@@ -1,0 +1,98 @@
+{
+  "icao": "KOXB",
+  "iata": "OCE",
+  "name": "Ocean City Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.310398,
+    "longitude": -75.124001,
+    "elevation_ft": 11,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Ocean City"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ocean_City_Municipal_Airport_(Maryland)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 3204,
+      "width_ft": 75,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 38.30649948,
+          "longitude": -75.12770081,
+          "elevation_ft": 9,
+          "heading_true": 10,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 38.31510162,
+          "longitude": -75.12580109,
+          "elevation_ft": 11,
+          "heading_true": 190,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4074,
+      "width_ft": 75,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 38.31399918,
+          "longitude": -75.1269989,
+          "elevation_ft": 11,
+          "heading_true": 133,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 38.3064003,
+          "longitude": -75.11660004,
+          "elevation_ft": 11,
+          "heading_true": 313,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PATUXENT APP/DEP",
+      "mhz": 127.95
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.025
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

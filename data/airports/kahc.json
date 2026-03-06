@@ -1,0 +1,67 @@
+{
+  "icao": "KAHC",
+  "iata": "AHC",
+  "name": "Amedee Army Air Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.26620102,
+    "longitude": -120.1529999,
+    "elevation_ft": 4012,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Herlong"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Amedee_Army_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 10000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.2677,
+          "longitude": -120.165001,
+          "elevation_ft": 4007,
+          "heading_true": 99,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.264599,
+          "longitude": -120.139999,
+          "elevation_ft": 4011,
+          "heading_true": 279,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "OAKLAND CNTR",
+      "mhz": 128.8
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126.1
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

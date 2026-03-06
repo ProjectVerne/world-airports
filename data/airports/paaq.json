@@ -1,0 +1,137 @@
+{
+  "icao": "PAAQ",
+  "iata": "PAQ",
+  "name": "Warren \"Bud\" Woods Palmer Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.594898,
+    "longitude": -149.08901,
+    "elevation_ft": 242,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Palmer"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Palmer_Municipal_Airport",
+  "keywords": [
+    "Palmer Muni",
+    "Palmer Buddy Woods Municipal"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3617,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 61.595001220703125,
+          "longitude": -149.1009979248047,
+          "elevation_ft": 230,
+          "heading_true": 113,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 61.59109878540039,
+          "longitude": -149.08200073242188,
+          "elevation_ft": 220,
+          "heading_true": 293,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 6006,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 61.60400009,
+          "longitude": -149.0870056,
+          "elevation_ft": 240,
+          "heading_true": 180,
+          "displaced_threshold_ft": 500
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 61.58760071,
+          "longitude": -149.0870056,
+          "elevation_ft": 215,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16S/34S",
+      "length_ft": 1560,
+      "width_ft": 60,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16S",
+          "latitude": 61.59809875488281,
+          "longitude": -149.08799743652344,
+          "elevation_ft": 0,
+          "heading_true": 179.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34S",
+          "latitude": 61.59379959106445,
+          "longitude": -149.08799743652344,
+          "elevation_ft": 0,
+          "heading_true": 359.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 118.6
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 134.75
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 123.6
+    },
+    {
+      "type": "FSS",
+      "description": "RDO",
+      "mhz": 123.6
+    },
+    {
+      "type": "OTHER",
+      "description": "KENAI RDO",
+      "mhz": 123.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

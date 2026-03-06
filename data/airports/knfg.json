@@ -1,0 +1,89 @@
+{
+  "icao": "KNFG",
+  "iata": null,
+  "name": "Camp Pendleton MCAS (Munn Field) Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.30130005,
+    "longitude": -117.3550034,
+    "elevation_ft": 78,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Oceanside"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marine_Corps_Air_Station_Camp_Pendleton",
+  "keywords": [
+    "Camp Pendleton MCAS"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 6005,
+      "width_ft": 221,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 33.29550171,
+          "longitude": -117.3619995,
+          "elevation_ft": 62,
+          "heading_true": 44.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 33.30720139,
+          "longitude": -117.3479996,
+          "elevation_ft": 78,
+          "heading_true": 224.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOCAL APP/DEP",
+      "mhz": 127.3
+    },
+    {
+      "type": "APP",
+      "description": "APP/DEP",
+      "mhz": 128.45
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 126.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 128.775
+    },
+    {
+      "type": "OTHER",
+      "description": "MCB RANGE CON",
+      "mhz": 123.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 128.775
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

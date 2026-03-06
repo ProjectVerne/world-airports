@@ -1,0 +1,72 @@
+{
+  "icao": "KCOI",
+  "iata": "COI",
+  "name": "Merritt Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.341600418099997,
+    "longitude": -80.6855010986,
+    "elevation_ft": 6,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Merritt Island"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Merritt_Island_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 3601,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 28.34320068359375,
+          "longitude": -80.69080352783203,
+          "elevation_ft": 6,
+          "heading_true": 109,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 28.34000015258789,
+          "longitude": -80.6801986694336,
+          "elevation_ft": 3,
+          "heading_true": 289,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ORLANDO APP/DEP",
+      "mhz": 134.95
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.025
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.975
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

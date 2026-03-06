@@ -1,0 +1,103 @@
+{
+  "icao": "KNIP",
+  "iata": "NIP",
+  "name": "Jacksonville Naval Air Station (Towers Field)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.2358,
+    "longitude": -81.680603,
+    "elevation_ft": 21,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Jacksonville",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 9003,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 30.23159981,
+          "longitude": -81.69300079,
+          "elevation_ft": 23,
+          "heading_true": 101,
+          "displaced_threshold_ft": 1000
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 30.2317009,
+          "longitude": -81.66439819,
+          "elevation_ft": 8,
+          "heading_true": 281,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5978,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 30.24259949,
+          "longitude": -81.67890167,
+          "elevation_ft": 12,
+          "heading_true": 135,
+          "displaced_threshold_ft": 2734
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 30.2310009,
+          "longitude": -81.66539764,
+          "elevation_ft": 9,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 123.8
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 134.775
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 128.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

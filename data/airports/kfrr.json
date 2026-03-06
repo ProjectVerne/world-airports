@@ -1,0 +1,62 @@
+{
+  "icao": "KFRR",
+  "iata": "FRR",
+  "name": "Front Royal Warren County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.9175,
+    "longitude": -78.253502,
+    "elevation_ft": 709,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Front Royal"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Front_Royal%E2%80%93Warren_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 3008,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 38.917301,
+          "longitude": -78.258698,
+          "elevation_ft": 694,
+          "heading_true": 87,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 38.917702,
+          "longitude": -78.2481,
+          "elevation_ft": 704,
+          "heading_true": 267,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

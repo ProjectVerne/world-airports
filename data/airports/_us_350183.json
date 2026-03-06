@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Barton Hall Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.274989,
+    "longitude": -76.724047,
+    "elevation_ft": 21,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Leonardtown"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "9/27",
+      "length_ft": 1800,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "9",
+          "latitude": 38.27483367919922,
+          "longitude": -76.7271728515625,
+          "elevation_ft": 21,
+          "heading_true": 86,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 38.27513885498047,
+          "longitude": -76.72091674804688,
+          "elevation_ft": 15,
+          "heading_true": 266,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 350183,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

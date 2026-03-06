@@ -1,0 +1,77 @@
+{
+  "icao": "KDRO",
+  "iata": "DRO",
+  "name": "Durango La Plata County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.151501,
+    "longitude": -107.753998,
+    "elevation_ft": 6685,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Durango"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Durango-La_Plata_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 9201,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 37.14149856567383,
+          "longitude": -107.76300048828125,
+          "elevation_ft": 6616,
+          "heading_true": 37,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 37.161598205566406,
+          "longitude": -107.74400329589844,
+          "elevation_ft": 6685,
+          "heading_true": 217,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 120.625
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 118.575
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER RDO",
+      "mhz": 122.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

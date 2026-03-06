@@ -1,0 +1,79 @@
+{
+  "icao": "KRSN",
+  "iata": "RSN",
+  "name": "Ruston Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.514187,
+    "longitude": -92.588517,
+    "elevation_ft": 311,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Ruston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ruston_Regional_Airport",
+  "keywords": [
+    "3L5"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 6002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.52149963,
+          "longitude": -92.58830261,
+          "elevation_ft": 276,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.50770187,
+          "longitude": -92.58830261,
+          "elevation_ft": 309,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MONROE APP/DEP",
+      "mhz": 126.9
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.525
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.8
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

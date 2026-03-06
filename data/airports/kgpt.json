@@ -1,0 +1,118 @@
+{
+  "icao": "KGPT",
+  "iata": "GPT",
+  "name": "Gulfport Biloxi International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.405582,
+    "longitude": -89.069836,
+    "elevation_ft": 28,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Gulfport"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gulfport-Biloxi_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 9002,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 30.415000915527344,
+          "longitude": -89.0822982788086,
+          "elevation_ft": 20,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 30.397499084472656,
+          "longitude": -89.06210327148438,
+          "elevation_ft": 22,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4935,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 30.416000366210938,
+          "longitude": -89.06629943847656,
+          "elevation_ft": 24,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 30.40239906311035,
+          "longitude": -89.06620025634766,
+          "elevation_ft": 26,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 124.6
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.45
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 123.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 120.4
+    },
+    {
+      "type": "OTHER",
+      "description": "GREENWOOD RDO",
+      "mhz": 109
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 123.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "icao": "KMEM",
+  "iata": "MEM",
+  "name": "Memphis International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.043845,
+    "longitude": -89.97634,
+    "elevation_ft": 341,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Memphis"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Memphis_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 8946,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 35.05860137939453,
+          "longitude": -89.98570251464844,
+          "elevation_ft": 253,
+          "heading_true": 92,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 35.05780029296875,
+          "longitude": -89.95590209960938,
+          "elevation_ft": 292,
+          "heading_true": 272,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18C/36C",
+      "length_ft": 11120,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18C",
+          "latitude": 35.05459976196289,
+          "longitude": -89.9761962890625,
+          "elevation_ft": 271,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36C",
+          "latitude": 35.02410125732422,
+          "longitude": -89.97550201416016,
+          "elevation_ft": 341,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18L/36R",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18L",
+          "latitude": 35.04880142211914,
+          "longitude": -89.9729995727539,
+          "elevation_ft": 278,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36R",
+          "latitude": 35.02410125732422,
+          "longitude": -89.97239685058594,
+          "elevation_ft": 335,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18R/36L",
+      "length_ft": 9320,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18R",
+          "latitude": 35.04949951171875,
+          "longitude": -89.98739624023438,
+          "elevation_ft": 288,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36L",
+          "latitude": 35.02389907836914,
+          "longitude": -89.98690032958984,
+          "elevation_ft": 321,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 119.1
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 127.75
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.2
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 124.15
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.65
+    },
+    {
+      "type": "OTHER",
+      "description": "ANG COMD POST",
+      "mhz": 138.95
+    },
+    {
+      "type": "OTHER",
+      "description": "JACKSON RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

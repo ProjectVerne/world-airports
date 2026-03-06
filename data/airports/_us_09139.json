@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Mecosta Morton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.63046,
+    "longitude": -85.261095,
+    "elevation_ft": 1022,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Mecosta"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mecosta_Morton_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2010,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 43.626800537109375,
+          "longitude": -85.26529693603516,
+          "elevation_ft": 1022,
+          "heading_true": 0,
+          "displaced_threshold_ft": 760
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 43.630001068115234,
+          "longitude": -85.26219940185547,
+          "elevation_ft": 1022,
+          "heading_true": 0,
+          "displaced_threshold_ft": 460
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 2027,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 43.62990188598633,
+          "longitude": -85.2654037475586,
+          "elevation_ft": 1022,
+          "heading_true": 0,
+          "displaced_threshold_ft": 546
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 43.62990188598633,
+          "longitude": -85.25769805908203,
+          "elevation_ft": 1022,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 9139,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

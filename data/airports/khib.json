@@ -1,0 +1,110 @@
+{
+  "icao": "KHIB",
+  "iata": "HIB",
+  "name": "Range Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.384831,
+    "longitude": -92.836905,
+    "elevation_ft": 1354,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Hibbing"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Range_Regional_Airport",
+  "keywords": [
+    "Chisholm Hibbing Airport"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3075,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 47.38629913330078,
+          "longitude": -92.84660339355469,
+          "elevation_ft": 1348,
+          "heading_true": 49,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 47.39179992675781,
+          "longitude": -92.83719635009766,
+          "elevation_ft": 1350,
+          "heading_true": 229,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 6758,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 47.391700744628906,
+          "longitude": -92.8478012084961,
+          "elevation_ft": 1353,
+          "heading_true": 132,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 47.37919998168945,
+          "longitude": -92.82759857177734,
+          "elevation_ft": 1337,
+          "heading_true": 312,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DULUTH APP/DEP",
+      "mhz": 125.45
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 126.425
+    },
+    {
+      "type": "OTHER",
+      "description": "DULUTH CLNC DEL",
+      "mhz": 127.4
+    },
+    {
+      "type": "OTHER",
+      "description": "PRINCETON RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

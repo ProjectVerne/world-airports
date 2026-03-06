@@ -1,0 +1,108 @@
+{
+  "icao": "KINS",
+  "iata": "INS",
+  "name": "Creech Air Force Base",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.587200164799995,
+    "longitude": -115.672996521,
+    "elevation_ft": 3133,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Indian Springs"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Creech_Air_Force_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 9002,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 36.58449935913086,
+          "longitude": -115.69599914550781,
+          "elevation_ft": 3133,
+          "heading_true": 92.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 36.583499908447266,
+          "longitude": -115.66500091552734,
+          "elevation_ft": 3102,
+          "heading_true": 272.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5476,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 36.59489822,
+          "longitude": -115.6780014,
+          "elevation_ft": 3096,
+          "heading_true": 144.9,
+          "displaced_threshold_ft": 400
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 36.58390045,
+          "longitude": -115.6679993,
+          "elevation_ft": 3106,
+          "heading_true": 324.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 121.125
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 118.3
+    },
+    {
+      "type": "OTHER",
+      "description": "NELLIS CON",
+      "mhz": 119.35
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 139.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.3
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

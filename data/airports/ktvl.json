@@ -1,0 +1,82 @@
+{
+  "icao": "KTVL",
+  "iata": "TVL",
+  "name": "Lake Tahoe Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.89390182495117,
+    "longitude": -119.99500274658203,
+    "elevation_ft": 6264,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "South Lake Tahoe"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lake_Tahoe_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 8541,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 38.90530014,
+          "longitude": -119.9919968,
+          "elevation_ft": 6251,
+          "heading_true": 192.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 38.88249969,
+          "longitude": -119.9990005,
+          "elevation_ft": 6259,
+          "heading_true": 12.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 124.725
+    },
+    {
+      "type": "OTHER",
+      "description": "OAKLAND CNTR",
+      "mhz": 127.95
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.85
+    },
+    {
+      "type": "OTHER",
+      "description": "RENO RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.85
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

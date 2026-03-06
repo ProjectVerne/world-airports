@@ -1,0 +1,98 @@
+{
+  "icao": "KCNC",
+  "iata": null,
+  "name": "Chariton Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.01959991455078,
+    "longitude": -93.35970306396484,
+    "elevation_ft": 1050,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Chariton"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 41.02080154418945,
+          "longitude": -93.3635025024414,
+          "elevation_ft": 1045,
+          "heading_true": 101.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 41.01850128173828,
+          "longitude": -93.34929656982422,
+          "elevation_ft": 1034,
+          "heading_true": 281.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 2800,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 41.023399353027344,
+          "longitude": -93.3644027709961,
+          "elevation_ft": 1038,
+          "heading_true": 180.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 41.01570129394531,
+          "longitude": -93.3644027709961,
+          "elevation_ft": 1050,
+          "heading_true": 0.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DES MOINES APP/DEP",
+      "mhz": 135.2
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 125.525
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

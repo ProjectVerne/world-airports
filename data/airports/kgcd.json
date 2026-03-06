@@ -1,0 +1,84 @@
+{
+  "icao": "KGCD",
+  "iata": "JDA",
+  "name": "Grant County Regional Airport / Ogilvie Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.404202,
+    "longitude": -118.962997,
+    "elevation_ft": 3703,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "John Day"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Grant_County_Regional_Airport",
+  "keywords": [
+    "5J0"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4100,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 44.40399933,
+          "longitude": -118.9810028,
+          "elevation_ft": 3648,
+          "heading_true": 110,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 44.39979935,
+          "longitude": -118.9639969,
+          "elevation_ft": 3695,
+          "heading_true": 290,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5224,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 44.41090012,
+          "longitude": -118.9639969,
+          "elevation_ft": 3675,
+          "heading_true": 182,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 44.39659882,
+          "longitude": -118.9639969,
+          "elevation_ft": 3703,
+          "heading_true": 2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

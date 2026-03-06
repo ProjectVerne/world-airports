@@ -1,0 +1,149 @@
+{
+  "icao": "KELM",
+  "iata": "ELM",
+  "name": "Elmira Corning Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.1599006652832,
+    "longitude": -76.8916015625,
+    "elevation_ft": 954,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Elmira/Corning"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Elmira-Corning_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2016,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 42.1604,
+          "longitude": -76.890404,
+          "elevation_ft": 944,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 42.163898,
+          "longitude": -76.884598,
+          "elevation_ft": 944,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06/24",
+      "length_ft": 8001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 42.15470123,
+          "longitude": -76.9016037,
+          "elevation_ft": 940,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 42.16690063,
+          "longitude": -76.88179779,
+          "elevation_ft": 954,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 5404,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 42.157798767089844,
+          "longitude": -76.90290069580078,
+          "elevation_ft": 934,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 42.15800094604492,
+          "longitude": -76.88300323486328,
+          "elevation_ft": 943,
+          "heading_true": 269,
+          "displaced_threshold_ft": 400
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.45
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.475
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.9
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.4
+    },
+    {
+      "type": "GND",
+      "description": "GND/CLNC DEL",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "BUFFALO RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 121.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

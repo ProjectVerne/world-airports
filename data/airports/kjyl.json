@@ -1,0 +1,101 @@
+{
+  "icao": "KJYL",
+  "iata": null,
+  "name": "Plantation Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.645302,
+    "longitude": -81.597099,
+    "elevation_ft": 188,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Sylvania"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Jump Georgia Skydiving",
+    "Sylvania Screven"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5501,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 32.63999939,
+          "longitude": -81.6006012,
+          "elevation_ft": 169,
+          "heading_true": 48,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 32.64929962,
+          "longitude": -81.58869934,
+          "elevation_ft": 187,
+          "heading_true": 228,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 3787,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 32.6505012512207,
+          "longitude": -81.60379791259766,
+          "elevation_ft": 175,
+          "heading_true": 145.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 32.64189910888672,
+          "longitude": -81.5968017578125,
+          "elevation_ft": 175,
+          "heading_true": 325.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.875
+    },
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE CNTR",
+      "mhz": 132.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "icao": "KSJX",
+  "iata": null,
+  "name": "Beaver Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.692299,
+    "longitude": -85.566597,
+    "elevation_ft": 669,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Beaver Island"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Beaver_Island_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2054,
+      "width_ft": 120,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 45.69179916,
+          "longitude": -85.56939697,
+          "elevation_ft": 0,
+          "heading_true": 42.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 45.69599915,
+          "longitude": -85.56390381,
+          "elevation_ft": 0,
+          "heading_true": 222.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 4299,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 45.69150162,
+          "longitude": -85.57769775,
+          "elevation_ft": 669,
+          "heading_true": 90.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 45.69150162,
+          "longitude": -85.56089783,
+          "elevation_ft": 667,
+          "heading_true": 270.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3278,
+      "width_ft": 120,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 45.69530106,
+          "longitude": -85.56800079,
+          "elevation_ft": 669,
+          "heading_true": 132,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 45.68920135,
+          "longitude": -85.55840302,
+          "elevation_ft": 669,
+          "heading_true": 312,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.075
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 134.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Piqua Airport-Hartzell Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.16469955,
+    "longitude": -84.30840302,
+    "elevation_ft": 994,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Piqua"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 3998,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 40.16329956,
+          "longitude": -84.31539917,
+          "elevation_ft": 993,
+          "heading_true": 75.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 40.16609955,
+          "longitude": -84.30149841,
+          "elevation_ft": 985,
+          "heading_true": 255.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DAYTON APP/DEP",
+      "mhz": 134.45
+    },
+    {
+      "type": "OTHER",
+      "description": "DAYTON RDO",
+      "mhz": 117.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20122,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

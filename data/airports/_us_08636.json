@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Eckert Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.162498,
+    "longitude": -119.050003,
+    "elevation_ft": 426,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Strathmore"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eckert_Field_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 2000,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 36.164798736572266,
+          "longitude": -119.052001953125,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 185
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 36.15999984741211,
+          "longitude": -119.04900360107422,
+          "elevation_ft": 0,
+          "heading_true": 218.7,
+          "displaced_threshold_ft": 265
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 8636,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

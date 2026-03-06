@@ -1,0 +1,77 @@
+{
+  "icao": "KOZW",
+  "iata": null,
+  "name": "Livingston County Spencer J. Hardy Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.62919998,
+    "longitude": -83.98210144,
+    "elevation_ft": 962,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Howell"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Livingston_County_Spencer_J._Hardy_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 42.63359832763672,
+          "longitude": -83.9896011352539,
+          "elevation_ft": 962,
+          "heading_true": 127.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 42.625301361083984,
+          "longitude": -83.97480010986328,
+          "elevation_ft": 943,
+          "heading_true": 307.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "DETROIT APP",
+      "mhz": 127.5
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.875
+    },
+    {
+      "type": "DEP",
+      "description": "DETROIT DEP",
+      "mhz": 127.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

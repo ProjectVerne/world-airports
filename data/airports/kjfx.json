@@ -1,0 +1,74 @@
+{
+  "icao": "KJFX",
+  "iata": null,
+  "name": "Walker County Airport Bevill Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.902,
+    "longitude": -87.314201,
+    "elevation_ft": 482,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Jasper"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Walker_County_Airport",
+  "keywords": [
+    "L02"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5004,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 33.90230179,
+          "longitude": -87.3219986,
+          "elevation_ft": 482,
+          "heading_true": 92,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 33.90179825,
+          "longitude": -87.30560303,
+          "elevation_ft": 473,
+          "heading_true": 272,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BIRMINGHAM APP/DEP",
+      "mhz": 127.675
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.225
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

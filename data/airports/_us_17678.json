@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Alexandria Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.232498,
+    "longitude": -85.637497,
+    "elevation_ft": 900,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Alexandria"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Alexandria_Airport_(Indiana)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2591,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.232601165771484,
+          "longitude": -85.64219665527344,
+          "elevation_ft": 894,
+          "heading_true": 91,
+          "displaced_threshold_ft": 195
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.232398986816406,
+          "longitude": -85.63289642333984,
+          "elevation_ft": 885,
+          "heading_true": 271,
+          "displaced_threshold_ft": 277
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17678,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

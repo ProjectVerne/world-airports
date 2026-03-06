@@ -1,0 +1,74 @@
+{
+  "icao": "KAXH",
+  "iata": null,
+  "name": "Houston Southwest Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.5061,
+    "longitude": -95.476898,
+    "elevation_ft": 68,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Rosharon"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Houston_Southwest_Airport",
+  "keywords": [
+    "Arcola"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 29.50659943,
+          "longitude": -95.48480225,
+          "elevation_ft": 68,
+          "heading_true": 94.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 29.50559998,
+          "longitude": -95.46910095,
+          "elevation_ft": 66,
+          "heading_true": 274.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON APP/DEP",
+      "mhz": 123.8
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

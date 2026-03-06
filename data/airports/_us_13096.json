@@ -1,0 +1,111 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Central County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.505501,
+    "longitude": -89.025101,
+    "elevation_ft": 876,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Ogdensburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Iola"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2530,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 44.50299835205078,
+          "longitude": -89.029296875,
+          "elevation_ft": 871,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 44.507198333740234,
+          "longitude": -89.02169799804688,
+          "elevation_ft": 870,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 1783,
+      "width_ft": 40,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 44.50439835,
+          "longitude": -89.02909851,
+          "elevation_ft": 871,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 44.50439835,
+          "longitude": -89.02230072,
+          "elevation_ft": 876,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 1745,
+      "width_ft": 130,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 44.50600051879883,
+          "longitude": -89.02799987792969,
+          "elevation_ft": 871,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 44.50379943847656,
+          "longitude": -89.02210235595703,
+          "elevation_ft": 876,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 13096,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

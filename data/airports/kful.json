@@ -1,0 +1,92 @@
+{
+  "icao": "KFUL",
+  "iata": "FUL",
+  "name": "Fullerton Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.8720016479,
+    "longitude": -117.980003357,
+    "elevation_ft": 96,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Fullerton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fullerton_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3121,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 33.87110137939453,
+          "longitude": -117.98500061035156,
+          "elevation_ft": 85,
+          "heading_true": 77,
+          "displaced_threshold_ft": 427
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 33.87300109863281,
+          "longitude": -117.9749984741211,
+          "elevation_ft": 95,
+          "heading_true": 257,
+          "displaced_threshold_ft": 253
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOCAL APP/DEP",
+      "mhz": 125.35
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.05
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "RIVERSIDE RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

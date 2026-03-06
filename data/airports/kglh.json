@@ -1,0 +1,113 @@
+{
+  "icao": "KGLH",
+  "iata": "GLH",
+  "name": "Mid Delta Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.482899,
+    "longitude": -90.985603,
+    "elevation_ft": 131,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Greenville"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Greenville_Mid-Delta_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18L/36R",
+      "length_ft": 8001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18L",
+          "latitude": 33.49689865112305,
+          "longitude": -90.98210144042969,
+          "elevation_ft": 129,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36R",
+          "latitude": 33.47489929199219,
+          "longitude": -90.98210144042969,
+          "elevation_ft": 129,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18R/36L",
+      "length_ft": 7019,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18R",
+          "latitude": 33.49420166015625,
+          "longitude": -90.98719787597656,
+          "elevation_ft": 128,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36L",
+          "latitude": 33.47489929199219,
+          "longitude": -90.98719787597656,
+          "elevation_ft": 130,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 125.525
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 135.875
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "TWR",
+      "description": "GREENVILLE TWR",
+      "mhz": 119
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

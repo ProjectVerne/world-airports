@@ -1,0 +1,159 @@
+{
+  "icao": "KLNK",
+  "iata": "LNK",
+  "name": "Lincoln Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.844882,
+    "longitude": -96.76178,
+    "elevation_ft": 1219,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Lincoln"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lincoln_Airport_%28Nebraska%29",
+  "keywords": [
+    "Lincoln Army Air Field",
+    "Lincoln Air Force Base",
+    "155th Air Refueling Wing",
+    "Lincoln Municpal"
+  ],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 8649,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 40.8672981262207,
+          "longitude": -96.76969909667969,
+          "elevation_ft": 1199,
+          "heading_true": 145,
+          "displaced_threshold_ft": 363
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 40.847900390625,
+          "longitude": -96.75180053710938,
+          "elevation_ft": 1179,
+          "heading_true": 325,
+          "displaced_threshold_ft": 470
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5801,
+      "width_ft": 100,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 40.861301,
+          "longitude": -96.750801,
+          "elevation_ft": 1219,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 40.8465,
+          "longitude": -96.750801,
+          "elevation_ft": 1176,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 12901,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.862998962402344,
+          "longitude": -96.76170349121094,
+          "elevation_ft": 1195,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.827598571777344,
+          "longitude": -96.76190185546875,
+          "elevation_ft": 1175,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 124
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.05
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.7
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ARNG OPS",
+      "mhz": 123.075
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS RDO",
+      "mhz": 122.65
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

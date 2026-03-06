@@ -1,0 +1,72 @@
+{
+  "icao": "KFKA",
+  "iata": null,
+  "name": "Fillmore County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.6768,
+    "longitude": -92.179703,
+    "elevation_ft": 1277,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Preston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fillmore_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 4001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 43.67829895,
+          "longitude": -92.18710327,
+          "elevation_ft": 1276,
+          "heading_true": 108,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 43.67499924,
+          "longitude": -92.17269897,
+          "elevation_ft": 1276,
+          "heading_true": 288,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ROCHESTER APP/DEP",
+      "mhz": 119.8
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.925
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

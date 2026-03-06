@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Yucca Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.129659,
+    "longitude": -116.407411,
+    "elevation_ft": 3224,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Yucca Valley"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Yucca_Valley_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 4363,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 34.12580108642578,
+          "longitude": -116.41500091552734,
+          "elevation_ft": 3199,
+          "heading_true": 71.3,
+          "displaced_threshold_ft": 360
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 34.12969970703125,
+          "longitude": -116.4010009765625,
+          "elevation_ft": 3224,
+          "heading_true": 251.3,
+          "displaced_threshold_ft": 330
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20289,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

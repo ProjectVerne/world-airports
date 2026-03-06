@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Braden Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.742199,
+    "longitude": -75.242897,
+    "elevation_ft": 399,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Easton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Braden_Airpark",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 1956,
+      "width_ft": 165,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.74480056762695,
+          "longitude": -75.2437973022461,
+          "elevation_ft": 395,
+          "heading_true": 166,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.739601135253906,
+          "longitude": -75.24210357666016,
+          "elevation_ft": 384,
+          "heading_true": 346,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 22677,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

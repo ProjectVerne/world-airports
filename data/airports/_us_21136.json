@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Kirbyville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.645795,
+    "longitude": -93.913643,
+    "elevation_ft": 121,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Kirbyville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 1983,
+      "width_ft": 45,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 30.643400192260742,
+          "longitude": -93.91629791259766,
+          "elevation_ft": 117,
+          "heading_true": 43.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 30.647300720214844,
+          "longitude": -93.91190338134766,
+          "elevation_ft": 117,
+          "heading_true": 223.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 3746,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 30.650699615478516,
+          "longitude": -93.9197006225586,
+          "elevation_ft": 120,
+          "heading_true": 133,
+          "displaced_threshold_ft": 326
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 30.643699645996094,
+          "longitude": -93.91100311279297,
+          "elevation_ft": 115,
+          "heading_true": 313,
+          "displaced_threshold_ft": 226
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 126.625
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21136,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

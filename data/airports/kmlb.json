@@ -1,0 +1,154 @@
+{
+  "icao": "KMLB",
+  "iata": "MLB",
+  "name": "Melbourne Orlando International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.102009,
+    "longitude": -80.641088,
+    "elevation_ft": 33,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Melbourne"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Melbourne_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 28.09589958190918,
+          "longitude": -80.63739776611328,
+          "elevation_ft": 25,
+          "heading_true": 42,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 28.101999282836914,
+          "longitude": -80.631103515625,
+          "elevation_ft": 21,
+          "heading_true": 222,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09L/27R",
+      "length_ft": 6000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09L",
+          "latitude": 28.10540008544922,
+          "longitude": -80.65989685058594,
+          "elevation_ft": 31,
+          "heading_true": 87,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27R",
+          "latitude": 28.106300354003906,
+          "longitude": -80.64129638671875,
+          "elevation_ft": 26,
+          "heading_true": 267,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09R/27L",
+      "length_ft": 10181,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09R",
+          "latitude": 28.101299285888672,
+          "longitude": -80.66110229492188,
+          "elevation_ft": 32,
+          "heading_true": 87,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27L",
+          "latitude": 28.102800369262695,
+          "longitude": -80.62960052490234,
+          "elevation_ft": 22,
+          "heading_true": 267,
+          "displaced_threshold_ft": 700
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ORLANDO APP/DEP",
+      "mhz": 132.65
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 132.55
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.9
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "GRUMMAN OPS",
+      "mhz": 123.2
+    },
+    {
+      "type": "OTHER",
+      "description": "ST PETERSBURG RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.2
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

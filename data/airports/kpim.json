@@ -1,0 +1,74 @@
+{
+  "icao": "KPIM",
+  "iata": "PIM",
+  "name": "Harris County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.8406982422,
+    "longitude": -84.8824005127,
+    "elevation_ft": 902,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Pine Mountain"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Harris_County_Airport",
+  "keywords": [
+    "Callaway Gardens-Harris County Airport"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 32.84049987792969,
+          "longitude": -84.8906021118164,
+          "elevation_ft": 902,
+          "heading_true": 88.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 32.84090042114258,
+          "longitude": -84.87429809570312,
+          "elevation_ft": 900,
+          "heading_true": 268.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.45
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

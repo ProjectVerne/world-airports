@@ -1,0 +1,67 @@
+{
+  "icao": "KLBR",
+  "iata": null,
+  "name": "Clarksville Red River City-J D Trissell Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.593201,
+    "longitude": -95.063599,
+    "elevation_ft": 440,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Clarksville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Clarksville/Red_River_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3000,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.5973014831543,
+          "longitude": -95.06410217285156,
+          "elevation_ft": 0,
+          "heading_true": 173.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.5890998840332,
+          "longitude": -95.06300354003906,
+          "elevation_ft": 0,
+          "heading_true": 353.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.925
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

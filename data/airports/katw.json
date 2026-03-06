@@ -1,0 +1,115 @@
+{
+  "icao": "KATW",
+  "iata": "ATW",
+  "name": "Appleton International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.258515,
+    "longitude": -88.519,
+    "elevation_ft": 918,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Appleton"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Outagamie_County_Regional_Airport",
+  "keywords": [
+    "Outagamie County Regional Airport"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 8003,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 44.24890137,
+          "longitude": -88.52619934,
+          "elevation_ft": 888,
+          "heading_true": 26,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 44.26860046,
+          "longitude": -88.51270294,
+          "elevation_ft": 878,
+          "heading_true": 206,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 6502,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 44.2612,
+          "longitude": -88.529701,
+          "elevation_ft": 918,
+          "heading_true": 116,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 44.2533,
+          "longitude": -88.507401,
+          "elevation_ft": 858,
+          "heading_true": 296,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY APP/DEP",
+      "mhz": 126.3
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 127.15
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.6
+    },
+    {
+      "type": "GND",
+      "description": "APPLETON GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "TWR",
+      "description": "APPLETON TWR",
+      "mhz": 119.6
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

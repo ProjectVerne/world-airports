@@ -1,0 +1,33 @@
+{
+  "icao": "KPCD",
+  "iata": null,
+  "name": "Perryville Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.868698,
+    "longitude": -89.862099,
+    "elevation_ft": 372,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Perryville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Perryville_Municipal_Airport",
+  "keywords": [
+    "K02",
+    "Perryville Municipal Airport",
+    "McBride Airport"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

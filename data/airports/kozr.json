@@ -1,0 +1,149 @@
+{
+  "icao": "KOZR",
+  "iata": "OZR",
+  "name": "Cairns AAF (Fort Rucker) Air Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.27569962,
+    "longitude": -85.71340179,
+    "elevation_ft": 301,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Fort Rucker/Ozark"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cairns_Army_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 4546,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 31.27059937,
+          "longitude": -85.72039795,
+          "elevation_ft": 296,
+          "heading_true": 61,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 31.27669907,
+          "longitude": -85.70770264,
+          "elevation_ft": 295,
+          "heading_true": 241,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 31.285400390625,
+          "longitude": -85.71800231933594,
+          "elevation_ft": 0,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 31.27669906616211,
+          "longitude": -85.70770263671875,
+          "elevation_ft": 0,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5025,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 31.2845993,
+          "longitude": -85.71260071,
+          "elevation_ft": 301,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 31.27079964,
+          "longitude": -85.71289825,
+          "elevation_ft": 296,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 121.1
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 111.2
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.075
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 135.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "OPS",
+      "mhz": 126.2
+    },
+    {
+      "type": "OTHER",
+      "description": "PMSV METRO",
+      "mhz": 134.1
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 135.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

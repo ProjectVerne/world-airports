@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Portage Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.560299,
+    "longitude": -89.482903,
+    "elevation_ft": 825,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Portage"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Portage_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2668,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 43.55730057,
+          "longitude": -89.4858017,
+          "elevation_ft": 824,
+          "heading_true": 43,
+          "displaced_threshold_ft": 60
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 43.56240082,
+          "longitude": -89.47920227,
+          "elevation_ft": 816,
+          "heading_true": 223,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 3775,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 43.565799713134766,
+          "longitude": -89.4833984375,
+          "elevation_ft": 811,
+          "heading_true": 178,
+          "displaced_threshold_ft": 103
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 43.55540084838867,
+          "longitude": -89.48280334472656,
+          "elevation_ft": 822,
+          "heading_true": 358,
+          "displaced_threshold_ft": 262
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MADISON APP/DEP",
+      "mhz": 120.1
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 117
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19446,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

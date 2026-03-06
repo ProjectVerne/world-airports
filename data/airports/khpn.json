@@ -1,0 +1,127 @@
+{
+  "icao": "KHPN",
+  "iata": "HPN",
+  "name": "Westchester County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.06700134277344,
+    "longitude": -73.70760345458984,
+    "elevation_ft": 439,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "White Plains"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Westchester_County_Airport",
+  "keywords": [
+    "Manhattan",
+    "New York City",
+    "NYC"
+  ],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 4451,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 41.067100524902344,
+          "longitude": -73.7157974243164,
+          "elevation_ft": 398,
+          "heading_true": 102,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 41.06439971923828,
+          "longitude": -73.69999694824219,
+          "elevation_ft": 387,
+          "heading_true": 282,
+          "displaced_threshold_ft": 1297
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 6549,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 41.07559967,
+          "longitude": -73.71330261,
+          "elevation_ft": 439,
+          "heading_true": 150,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 41.06000137,
+          "longitude": -73.70140076,
+          "elevation_ft": 380,
+          "heading_true": 330,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "NEW YORK APP",
+      "mhz": 120.8
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 133.8
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 127.25
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.575
+    },
+    {
+      "type": "DEP",
+      "description": "NEW YORK DEP",
+      "mhz": 120.55
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.825
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.575
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

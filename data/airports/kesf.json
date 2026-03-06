@@ -1,0 +1,106 @@
+{
+  "icao": "KESF",
+  "iata": "ESF",
+  "name": "Esler Army Airfield / Esler Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.394266,
+    "longitude": -92.294082,
+    "elevation_ft": 112,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Alexandria"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Esler_Airfield",
+  "keywords": [
+    "Camp Beauregard Army Field",
+    "Esler Army Airfield"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5998,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 31.3944,
+          "longitude": -92.306,
+          "elevation_ft": 96,
+          "heading_true": 91,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 31.394199,
+          "longitude": -92.286797,
+          "elevation_ft": 90,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5600,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 31.40180016,
+          "longitude": -92.3003006,
+          "elevation_ft": 112,
+          "heading_true": 145,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 31.38920021,
+          "longitude": -92.29000092,
+          "elevation_ft": 88,
+          "heading_true": 325,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POLK APP/DEP",
+      "mhz": 132.05
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    },
+    {
+      "type": "OTHER",
+      "description": "ARNG OPS",
+      "mhz": 141.45
+    },
+    {
+      "type": "OTHER",
+      "description": "DE RIDDER RDO",
+      "mhz": 122.55
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

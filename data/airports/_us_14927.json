@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Gum Creek Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.4212,
+    "longitude": -85.161903,
+    "elevation_ft": 1070,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Roopville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 2350,
+      "width_ft": 65,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 33.42129898071289,
+          "longitude": -85.16169738769531,
+          "elevation_ft": 1070,
+          "heading_true": 57,
+          "displaced_threshold_ft": 350
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 33.42129898071289,
+          "longitude": -85.16169738769531,
+          "elevation_ft": 1070,
+          "heading_true": 237,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 14927,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

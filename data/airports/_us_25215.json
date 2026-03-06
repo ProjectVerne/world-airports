@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Midway Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.45586,
+    "longitude": -112.805081,
+    "elevation_ft": 5017,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Atomic City"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Blackfoot"
+  ],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 3800,
+      "width_ft": 175,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 43.44940185546875,
+          "longitude": -112.81099700927734,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 43.457801818847656,
+          "longitude": -112.8030014038086,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 25215,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

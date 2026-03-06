@@ -1,0 +1,67 @@
+{
+  "icao": "KHWQ",
+  "iata": null,
+  "name": "Wheatland County Airport at Harlowton",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.448601,
+    "longitude": -109.852997,
+    "elevation_ft": 4311,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Harlowton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wheatland_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4200,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 46.4547,
+          "longitude": -109.862999,
+          "elevation_ft": 0,
+          "heading_true": 96,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 46.453602,
+          "longitude": -109.847,
+          "elevation_ft": 0,
+          "heading_true": 276,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "GREAT FALLS RDO",
+      "mhz": 122.4
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

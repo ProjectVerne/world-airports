@@ -1,0 +1,158 @@
+{
+  "icao": "KPAE",
+  "iata": "PAE",
+  "name": "Seattle Paine Field International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.9063,
+    "longitude": -122.281998,
+    "elevation_ft": 606,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Everett"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Paine_Field",
+  "keywords": [
+    "Snohomish County",
+    "Snohomish County Airport",
+    "Paine Field"
+  ],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 4514,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 47.9104,
+          "longitude": -122.287003,
+          "elevation_ft": 572,
+          "heading_true": 134,
+          "displaced_threshold_ft": 799
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 47.901798,
+          "longitude": -122.274002,
+          "elevation_ft": 600,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16L/34R",
+      "length_ft": 3004,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16L",
+          "latitude": 47.90639877,
+          "longitude": -122.2720032,
+          "elevation_ft": 597,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34R",
+          "latitude": 47.89820099,
+          "longitude": -122.2720032,
+          "elevation_ft": 596,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16R/34L",
+      "length_ft": 9010,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16R",
+          "latitude": 47.92129898071289,
+          "longitude": -122.28600311279297,
+          "elevation_ft": 558,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34L",
+          "latitude": 47.89659881591797,
+          "longitude": -122.28500366210938,
+          "elevation_ft": 579,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 128.65
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 126.75
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE CNTR",
+      "mhz": 128.5
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 132.95
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE RDO",
+      "mhz": 132.96
+    },
+    {
+      "type": "TWR",
+      "description": "ACFT ARR E OF CNTRLN ORRY 16L/34R",
+      "mhz": 120.2
+    },
+    {
+      "type": "TWR",
+      "description": "ACFT ARR W OF CNTRLN ORRY 16R/34L",
+      "mhz": 132.95
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

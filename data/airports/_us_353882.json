@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "USA Fed Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.686606,
+    "longitude": -88.188789,
+    "elevation_ft": 174,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Mobile"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 353882,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "icao": "KPUC",
+  "iata": "PUC",
+  "name": "Carbon County Regional Airport / Buck Davis Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.613899,
+    "longitude": -110.751,
+    "elevation_ft": 5957,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Price"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Carbon_County_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3631,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 39.6151008605957,
+          "longitude": -110.75700378417969,
+          "elevation_ft": 5855,
+          "heading_true": 90.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 39.6150016784668,
+          "longitude": -110.74400329589844,
+          "elevation_ft": 5885,
+          "heading_true": 270.4,
+          "displaced_threshold_ft": 228
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4520,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 39.61539840698242,
+          "longitude": -110.75700378417969,
+          "elevation_ft": 5857,
+          "heading_true": 158.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 39.60380172729492,
+          "longitude": -110.7509994506836,
+          "elevation_ft": 5809,
+          "heading_true": 338.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 8319,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.6265983581543,
+          "longitude": -110.74600219726562,
+          "elevation_ft": 5953,
+          "heading_true": 199,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.60490036010742,
+          "longitude": -110.75499725341797,
+          "elevation_ft": 5808,
+          "heading_true": 19,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.425
+    },
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CITY CNTR",
+      "mhz": 133.9
+    },
+    {
+      "type": "OTHER",
+      "description": "CEDAR CITY RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

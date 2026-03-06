@@ -1,0 +1,120 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Freeman Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.044452,
+    "longitude": -96.844566,
+    "elevation_ft": 1101,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Junction City"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 1834,
+      "width_ft": 200,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 39.04119873,
+          "longitude": -96.84490204,
+          "elevation_ft": 1095,
+          "heading_true": 56.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 39.04410172,
+          "longitude": -96.8391037,
+          "elevation_ft": 1085,
+          "heading_true": 236.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 1903,
+      "width_ft": 140,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 39.04370117,
+          "longitude": -96.84380341,
+          "elevation_ft": 1090,
+          "heading_true": 139.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 39.03979874,
+          "longitude": -96.83950043,
+          "elevation_ft": 1091,
+          "heading_true": 319.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 3498,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.04909897,
+          "longitude": -96.8431015,
+          "elevation_ft": 1082,
+          "heading_true": 193.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.03979874,
+          "longitude": -96.84600067,
+          "elevation_ft": 1098,
+          "heading_true": 13.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 127.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18710,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

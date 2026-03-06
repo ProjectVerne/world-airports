@@ -1,0 +1,103 @@
+{
+  "icao": "KEEN",
+  "iata": "EEN",
+  "name": "Dillant Hopkins Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.898399,
+    "longitude": -72.270798,
+    "elevation_ft": 488,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Keene"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Dillant-Hopkins_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 6201,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 42.887298583984375,
+          "longitude": -72.2708969116211,
+          "elevation_ft": 488,
+          "heading_true": 3.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 42.904300689697266,
+          "longitude": -72.26959991455078,
+          "elevation_ft": 482,
+          "heading_true": 183.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.90570068359375,
+          "longitude": -72.27760314941406,
+          "elevation_ft": 472,
+          "heading_true": 127.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.89910125732422,
+          "longitude": -72.26570129394531,
+          "elevation_ft": 478,
+          "heading_true": 307.2,
+          "displaced_threshold_ft": 1100
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.025
+    },
+    {
+      "type": "OTHER",
+      "description": "BOSTON CNTR",
+      "mhz": 123.75
+    },
+    {
+      "type": "OTHER",
+      "description": "BANGOR RDO",
+      "mhz": 109.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

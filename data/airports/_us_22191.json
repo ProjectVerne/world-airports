@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Cooks Landing Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.24359893798828,
+    "longitude": -93.2217025756836,
+    "elevation_ft": 895,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Ham Lake"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 1070,
+      "width_ft": 120,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 45.24509811401367,
+          "longitude": -93.22149658203125,
+          "elevation_ft": 0,
+          "heading_true": 183.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 45.24209976196289,
+          "longitude": -93.2218017578125,
+          "elevation_ft": 0,
+          "heading_true": 3.9,
+          "displaced_threshold_ft": 500
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 22191,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

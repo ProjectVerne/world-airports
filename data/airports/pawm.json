@@ -1,0 +1,56 @@
+{
+  "icao": "PAWM",
+  "iata": "WMO",
+  "name": "White Mountain Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.689201,
+    "longitude": -163.412994,
+    "elevation_ft": 267,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "White Mountain"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/White_Mountain_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3000,
+      "width_ft": 60,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 64.69309997558594,
+          "longitude": -163.4149932861328,
+          "elevation_ft": 222,
+          "heading_true": 164,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 64.6852035522461,
+          "longitude": -163.41000366210938,
+          "elevation_ft": 267,
+          "heading_true": 344,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

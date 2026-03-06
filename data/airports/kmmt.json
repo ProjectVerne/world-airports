@@ -1,0 +1,134 @@
+{
+  "icao": "KMMT",
+  "iata": "MMT",
+  "name": "Mc Entire Joint National Guard Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.92079926,
+    "longitude": -80.80130005,
+    "elevation_ft": 254,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Eastover"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/McEntire_Joint_National_Guard_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2030,
+      "width_ft": 90,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 33.92720032,
+          "longitude": -80.80609894,
+          "elevation_ft": 0,
+          "heading_true": 44.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 33.93109894,
+          "longitude": -80.80149841,
+          "elevation_ft": 0,
+          "heading_true": 224.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 9012,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 33.92739868,
+          "longitude": -80.81130219,
+          "elevation_ft": 252,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 33.91019821,
+          "longitude": -80.78990173,
+          "elevation_ft": 244,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4500,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 33.93050003051758,
+          "longitude": -80.79560089111328,
+          "elevation_ft": 0,
+          "heading_true": 181.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 33.9182014465332,
+          "longitude": -80.7959976196289,
+          "elevation_ft": 0,
+          "heading_true": 1.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SHAW APP/DEP",
+      "mhz": 125.4
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 132.4
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 127.625
+    },
+    {
+      "type": "OTHER",
+      "description": "ANG OPS PTD",
+      "mhz": 125.12
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 132.4
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

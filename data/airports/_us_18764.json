@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Melbourne Municipal John E Miller Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.070999,
+    "longitude": -91.830101,
+    "elevation_ft": 735,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Melbourne"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Melbourne_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4003,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 36.06629943847656,
+          "longitude": -91.83370208740234,
+          "elevation_ft": 733,
+          "heading_true": 32,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 36.07569885253906,
+          "longitude": -91.82659912109375,
+          "elevation_ft": 706,
+          "heading_true": 212,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "DEP",
+      "description": "MEMPHIS CTR",
+      "mhz": 126.85
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18764,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

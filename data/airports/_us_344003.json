@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "San Carlos Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.3706,
+    "longitude": -110.45668,
+    "elevation_ft": 2844,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "San Carlos"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 344003,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

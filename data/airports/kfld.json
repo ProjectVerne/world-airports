@@ -1,0 +1,103 @@
+{
+  "icao": "KFLD",
+  "iata": "FLD",
+  "name": "Fond du Lac County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.7711982727,
+    "longitude": -88.48840332030001,
+    "elevation_ft": 808,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Fond du Lac"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fond_du_Lac_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3604,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 43.77159882,
+          "longitude": -88.49890137,
+          "elevation_ft": 808,
+          "heading_true": 92,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 43.77130127,
+          "longitude": -88.48529816,
+          "elevation_ft": 788,
+          "heading_true": 272,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5941,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 43.77909851074219,
+          "longitude": -88.48619842529297,
+          "elevation_ft": 783,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 43.76279830932617,
+          "longitude": -88.48619842529297,
+          "elevation_ft": 794,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 134
+    },
+    {
+      "type": "OTHER",
+      "description": "CHICAGO CNTR",
+      "mhz": 127
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 122.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

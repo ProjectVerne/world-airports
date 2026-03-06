@@ -1,0 +1,98 @@
+{
+  "icao": "KAAT",
+  "iata": null,
+  "name": "Alturas Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.482736,
+    "longitude": -120.565671,
+    "elevation_ft": 4378,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Alturas"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Alturas_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2506,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 41.48049927,
+          "longitude": -120.5690002,
+          "elevation_ft": 4359,
+          "heading_true": 46,
+          "displaced_threshold_ft": 280
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 41.48609924,
+          "longitude": -120.560997,
+          "elevation_ft": 4374,
+          "heading_true": 226,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 4228,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 41.4878006,
+          "longitude": -120.5699997,
+          "elevation_ft": 4366,
+          "heading_true": 148.4,
+          "displaced_threshold_ft": 210
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 41.47779846,
+          "longitude": -120.5619965,
+          "elevation_ft": 4374,
+          "heading_true": 328.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 124.175
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE CNTR",
+      "mhz": 127.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

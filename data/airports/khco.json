@@ -1,0 +1,74 @@
+{
+  "icao": "KHCO",
+  "iata": null,
+  "name": "Hallock Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.752701,
+    "longitude": -96.943001,
+    "elevation_ft": 819,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Hallock"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hallock_Municipal_Airport",
+  "keywords": [
+    "03Y"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 4007,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 48.756900787353516,
+          "longitude": -96.94840240478516,
+          "elevation_ft": 817,
+          "heading_true": 140,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 48.74850082397461,
+          "longitude": -96.93769836425781,
+          "elevation_ft": 819,
+          "heading_true": 320,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS APP/DEP",
+      "mhz": 132.15
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 126.475
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

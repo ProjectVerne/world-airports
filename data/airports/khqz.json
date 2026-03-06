@@ -1,0 +1,72 @@
+{
+  "icao": "KHQZ",
+  "iata": null,
+  "name": "Mesquite Metro Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.747002,
+    "longitude": -96.530403,
+    "elevation_ft": 447,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Mesquite"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mesquite_Metro_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 5999,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 32.75519943237305,
+          "longitude": -96.5302963256836,
+          "elevation_ft": 446,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 32.73870086669922,
+          "longitude": -96.53060150146484,
+          "elevation_ft": 442,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "REGIONAL APP/DEP",
+      "mhz": 125.2
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.175
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

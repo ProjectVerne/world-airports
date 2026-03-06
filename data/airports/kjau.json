@@ -1,0 +1,74 @@
+{
+  "icao": "KJAU",
+  "iata": null,
+  "name": "Campbell County Airport  - Colonel Tommy C Stiner Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.334073,
+    "longitude": -84.162977,
+    "elevation_ft": 1180,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Jacksboro"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Campbell_County_Airport_(Tennessee)",
+  "keywords": [
+    "Campbell County Airport"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 36.3302001953125,
+          "longitude": -84.16780090332031,
+          "elevation_ft": 1134,
+          "heading_true": 45.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 36.33789825439453,
+          "longitude": -84.15809631347656,
+          "elevation_ft": 1180,
+          "heading_true": 225.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 124.975
+    },
+    {
+      "type": "OTHER",
+      "description": "ATLANTA CNTR",
+      "mhz": 133.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

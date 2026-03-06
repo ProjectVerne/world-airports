@@ -1,0 +1,79 @@
+{
+  "icao": "PAVD",
+  "iata": "VDZ",
+  "name": "Valdez Pioneer Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.132712,
+    "longitude": -146.246567,
+    "elevation_ft": 121,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Valdez"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Valdez_Airport",
+  "keywords": [
+    "Valdez Number 2"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 6500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 61.13259888,
+          "longitude": -146.2669983,
+          "elevation_ft": 39,
+          "heading_true": 81,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 61.13529968,
+          "longitude": -146.2299957,
+          "elevation_ft": 118,
+          "heading_true": 261,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.8
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 119.3
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "JUNEAU RDO",
+      "mhz": 122.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "icao": "KSYL",
+  "iata": "SYL",
+  "name": "Roberts Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.814999,
+    "longitude": -120.744003,
+    "elevation_ft": 630,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Camp Roberts/San Miguel"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Roberts_Army_Heliport",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Avoca Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.030471,
+    "longitude": -82.669466,
+    "elevation_ft": 726,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Avoca"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Avoca_Airport",
+  "keywords": [
+    "Bebensee",
+    "Rasor"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2105,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 43.029998779296875,
+          "longitude": -82.67330169677734,
+          "elevation_ft": 726,
+          "heading_true": 0,
+          "displaced_threshold_ft": 267
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 43.03010177612305,
+          "longitude": -82.66539764404297,
+          "elevation_ft": 726,
+          "heading_true": 252,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10323,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

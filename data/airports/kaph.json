@@ -1,0 +1,65 @@
+{
+  "icao": "KAPH",
+  "iata": "APH",
+  "name": "Mary Walker LZ Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.068631,
+    "longitude": -77.319318,
+    "elevation_ft": 220,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Bowling Green"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/A.P._Hill_Army_Airfield",
+  "keywords": [
+    "A P Hill AAF",
+    "Fort A P Hill"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2202,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 38.06669998,
+          "longitude": -77.32160187,
+          "elevation_ft": 216,
+          "heading_true": 42.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 38.07109833,
+          "longitude": -77.31639862,
+          "elevation_ft": 211,
+          "heading_true": 222.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POTOMAC APP/DEP",
+      "mhz": 134.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

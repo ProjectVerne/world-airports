@@ -1,0 +1,74 @@
+{
+  "icao": "KIDI",
+  "iata": "IDI",
+  "name": "Indiana County–Jimmy Stewart Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.631119,
+    "longitude": -79.101884,
+    "elevation_ft": 1405,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Indiana"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Indiana_County-Jimmy_Stewart_Airport",
+  "keywords": [
+    "Jimmy Stewart Field"
+  ],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 5502,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 40.632801,
+          "longitude": -79.112701,
+          "elevation_ft": 1360,
+          "heading_true": 96,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 40.631599,
+          "longitude": -79.098396,
+          "elevation_ft": 1405,
+          "heading_true": 276,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 126.625
+    },
+    {
+      "type": "OTHER",
+      "description": "CLEVELAND CNTR",
+      "mhz": 121.2
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

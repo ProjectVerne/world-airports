@@ -1,0 +1,105 @@
+{
+  "icao": "KNCA",
+  "iata": null,
+  "name": "MCAS New River / McCutcheon Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.708401,
+    "longitude": -77.439697,
+    "elevation_ft": 26,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Jacksonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marine_Corps_Air_Station_New_River",
+  "keywords": [
+    "New River MCAS"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 4789,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 34.70059967,
+          "longitude": -77.43669891,
+          "elevation_ft": 24,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 34.71379852,
+          "longitude": -77.43669891,
+          "elevation_ft": 16,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "05/23",
+      "length_ft": 5125,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 34.70460129,
+          "longitude": -77.44850159,
+          "elevation_ft": 24,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 34.71459961,
+          "longitude": -77.43640137,
+          "elevation_ft": 16,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHERRY POINT APP/DEP",
+      "mhz": 119.35
+    },
+    {
+      "type": "OTHER",
+      "description": "ARRIVAL",
+      "mhz": 124.85
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

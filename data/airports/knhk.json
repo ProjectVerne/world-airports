@@ -1,0 +1,134 @@
+{
+  "icao": "KNHK",
+  "iata": "NHK",
+  "name": "Patuxent River Naval Air Station (Trapnell Field)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.285999,
+    "longitude": -76.411797,
+    "elevation_ft": 39,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Patuxent River"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Patuxent_River",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5021,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 38.2765998840332,
+          "longitude": -76.4209976196289,
+          "elevation_ft": 37,
+          "heading_true": 8.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 38.290199279785156,
+          "longitude": -76.4186019897461,
+          "elevation_ft": 25,
+          "heading_true": 188.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06/24",
+      "length_ft": 11799,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 38.27690125,
+          "longitude": -76.42160034,
+          "elevation_ft": 39,
+          "heading_true": 49.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 38.29809952,
+          "longitude": -76.39050293,
+          "elevation_ft": 20,
+          "heading_true": 229.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 9732,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 38.29430008,
+          "longitude": -76.4233017,
+          "elevation_ft": 27,
+          "heading_true": 126,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 38.27859879,
+          "longitude": -76.39589691,
+          "elevation_ft": 16,
+          "heading_true": 306,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 120.05
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 135.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 120.6
+    },
+    {
+      "type": "OTHER",
+      "description": "LEESBURG RDO",
+      "mhz": 117.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 123.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

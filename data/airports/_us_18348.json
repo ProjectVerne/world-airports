@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Bethel Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.425201,
+    "longitude": -70.809896,
+    "elevation_ft": 654,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Bethel"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bethel_Regional_Airport",
+  "keywords": [
+    "Dyke Airport"
+  ],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3818,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 44.428199768066406,
+          "longitude": -70.81580352783203,
+          "elevation_ft": 674,
+          "heading_true": 126,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 44.42210006713867,
+          "longitude": -70.80400085449219,
+          "elevation_ft": 656,
+          "heading_true": 225.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18348,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

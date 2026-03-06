@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Manele Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 20.745933,
+    "longitude": -156.913039,
+    "elevation_ft": 475,
+    "continent": "OC",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Lanai"
+  },
+  "scheduled_service": true,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 325489,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "icao": "KIZG",
+  "iata": "FRY",
+  "name": "Eastern Slopes Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.991100311299995,
+    "longitude": -70.9478988647,
+    "elevation_ft": 454,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Fryeburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eastern_Slopes_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 4200,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 43.99440002441406,
+          "longitude": -70.95490264892578,
+          "elevation_ft": 452,
+          "heading_true": 126.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 43.987701416015625,
+          "longitude": -70.94190216064453,
+          "elevation_ft": 420,
+          "heading_true": 306.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PORTLAND APP/DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.775
+    },
+    {
+      "type": "OTHER",
+      "description": "BANGOR RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

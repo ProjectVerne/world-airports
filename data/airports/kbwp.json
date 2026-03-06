@@ -1,0 +1,98 @@
+{
+  "icao": "KBWP",
+  "iata": "WAH",
+  "name": "Harry Stern Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.2440986633,
+    "longitude": -96.6073989868,
+    "elevation_ft": 968,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Wahpeton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Harry_Stern_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 3254,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 46.24039841,
+          "longitude": -96.61180115,
+          "elevation_ft": 965,
+          "heading_true": 38,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 46.24750137,
+          "longitude": -96.60389709,
+          "elevation_ft": 963,
+          "heading_true": 218,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 5100,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 46.2505989074707,
+          "longitude": -96.61080169677734,
+          "elevation_ft": 968,
+          "heading_true": 157,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 46.23780059814453,
+          "longitude": -96.60299682617188,
+          "elevation_ft": 966,
+          "heading_true": 337,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 127.875
+    },
+    {
+      "type": "OTHER",
+      "description": "GRAND FORKS RDO",
+      "mhz": 122.425
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

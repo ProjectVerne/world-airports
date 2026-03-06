@@ -1,0 +1,103 @@
+{
+  "icao": "KONA",
+  "iata": "ONA",
+  "name": "Winona Municipal Airport Max Conrad Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.077202,
+    "longitude": -91.708298,
+    "elevation_ft": 656,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Winona"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Winona_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 5679,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 44.08280182,
+          "longitude": -91.7193985,
+          "elevation_ft": 655,
+          "heading_true": 120,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 44.07580185,
+          "longitude": -91.70220184,
+          "elevation_ft": 655,
+          "heading_true": 300,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 2553,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 44.0765,
+          "longitude": -91.703598,
+          "elevation_ft": 655,
+          "heading_true": 176,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 44.0695,
+          "longitude": -91.702904,
+          "elevation_ft": 656,
+          "heading_true": 356,
+          "displaced_threshold_ft": 150
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 111.4
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 128.6
+    },
+    {
+      "type": "OTHER",
+      "description": "PRINCETON RDO",
+      "mhz": 122.15
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

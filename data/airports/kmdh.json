@@ -1,0 +1,141 @@
+{
+  "icao": "KMDH",
+  "iata": "MDH",
+  "name": "Southern Illinois Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.778099,
+    "longitude": -89.251999,
+    "elevation_ft": 411,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Murphysboro"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Southern_Illinois_Airport",
+  "keywords": [
+    "Carbondale"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 4163,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 37.77550125,
+          "longitude": -89.25879669,
+          "elevation_ft": 411,
+          "heading_true": 60.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 37.78110123,
+          "longitude": -89.24620056,
+          "elevation_ft": 405,
+          "heading_true": 240.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18L/36R",
+      "length_ft": 6506,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18L",
+          "latitude": 37.79050064086914,
+          "longitude": -89.2479019165039,
+          "elevation_ft": 404,
+          "heading_true": 181.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36R",
+          "latitude": 37.772701263427734,
+          "longitude": -89.24839782714844,
+          "elevation_ft": 400,
+          "heading_true": 1.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18R/36L",
+      "length_ft": 3498,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18R",
+          "latitude": 37.779701232910156,
+          "longitude": -89.25849914550781,
+          "elevation_ft": 405,
+          "heading_true": 181.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36L",
+          "latitude": 37.77009963989258,
+          "longitude": -89.25869750976562,
+          "elevation_ft": 410,
+          "heading_true": 1.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.85
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 125.3
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 125.35
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "TWR",
+      "description": "CARBONDALE TWR",
+      "mhz": 125.35
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

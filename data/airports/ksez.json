@@ -1,0 +1,82 @@
+{
+  "icao": "KSEZ",
+  "iata": "SDX",
+  "name": "Sedona Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.848598480225,
+    "longitude": -111.78800201416,
+    "elevation_ft": 4830,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Sedona"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sedona_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5132,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 34.84370041,
+          "longitude": -111.7949982,
+          "elevation_ft": 4736,
+          "heading_true": 45.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 34.85350037,
+          "longitude": -111.7819977,
+          "elevation_ft": 4827,
+          "heading_true": 225.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "A/D PHOENIX",
+      "mhz": 126.375
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 2",
+      "mhz": 118.525
+    },
+    {
+      "type": "OTHER",
+      "description": "CTR ALBUQUERQUE",
+      "mhz": 124.325
+    },
+    {
+      "type": "OTHER",
+      "description": "PRESCOTT RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

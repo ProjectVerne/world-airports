@@ -1,0 +1,110 @@
+{
+  "icao": "KBKW",
+  "iata": "BKW",
+  "name": "Raleigh County Memorial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.7873,
+    "longitude": -81.124199,
+    "elevation_ft": 2504,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Beaver"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Beckley_Raleigh_County_Memorial_Airport",
+  "keywords": [
+    "Beckley"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 6750,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 37.782100677490234,
+          "longitude": -81.12580108642578,
+          "elevation_ft": 2495,
+          "heading_true": 7.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 37.80039978027344,
+          "longitude": -81.1227035522461,
+          "elevation_ft": 2449,
+          "heading_true": 187.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 37.78210068,
+          "longitude": -81.13259888,
+          "elevation_ft": 2486,
+          "heading_true": 94,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 37.78110123,
+          "longitude": -81.1155014,
+          "elevation_ft": 2501,
+          "heading_true": 274,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHARLESTON APP/DEP",
+      "mhz": 118.95
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 121.55
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 124.65
+    },
+    {
+      "type": "OTHER",
+      "description": "ELKINS RDO",
+      "mhz": 117.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

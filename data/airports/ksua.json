@@ -1,0 +1,136 @@
+{
+  "icao": "KSUA",
+  "iata": "SUA",
+  "name": "Witham Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.18169975,
+    "longitude": -80.22109985,
+    "elevation_ft": 16,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Stuart"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Witham_Field",
+  "keywords": [
+    "NAAS Witham Field"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4653,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 27.18169975,
+          "longitude": -80.22899628,
+          "elevation_ft": 17,
+          "heading_true": 68,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 27.18639946,
+          "longitude": -80.21569824,
+          "elevation_ft": 12,
+          "heading_true": 248,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 5828,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 27.18199921,
+          "longitude": -80.23149872,
+          "elevation_ft": 16,
+          "heading_true": 110,
+          "displaced_threshold_ft": 660
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 27.17639923,
+          "longitude": -80.21459961,
+          "elevation_ft": 14,
+          "heading_true": 290,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 27.188499450683594,
+          "longitude": -80.22160339355469,
+          "elevation_ft": 14,
+          "heading_true": 154,
+          "displaced_threshold_ft": 335
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 27.17609977722168,
+          "longitude": -80.21499633789062,
+          "elevation_ft": 14,
+          "heading_true": 334,
+          "displaced_threshold_ft": 880
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PALM BEACH APP/DEP",
+      "mhz": 128.3
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 134.475
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "TWR",
+      "description": "STUART TWR",
+      "mhz": 126.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

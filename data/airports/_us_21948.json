@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": "LIZ",
+  "name": "Loring International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.950401,
+    "longitude": -67.885902,
+    "elevation_ft": 746,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Limestone"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Loring_International_Airport",
+  "keywords": [
+    "Loring AFB"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 12101,
+      "width_ft": 300,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 46.93429946899414,
+          "longitude": -67.87979888916016,
+          "elevation_ft": 746,
+          "heading_true": 347,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 46.96659851074219,
+          "longitude": -67.89089965820312,
+          "elevation_ft": 744,
+          "heading_true": 167,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21948,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

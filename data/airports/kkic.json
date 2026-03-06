@@ -1,0 +1,62 @@
+{
+  "icao": "KKIC",
+  "iata": "KIC",
+  "name": "Mesa Del Rey Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.2280006409,
+    "longitude": -121.122001648,
+    "elevation_ft": 370,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "King City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mesa_Del_Rey_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 4479,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 36.23220062,
+          "longitude": -121.1279984,
+          "elevation_ft": 366,
+          "heading_true": 132.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 36.22389984,
+          "longitude": -121.1159973,
+          "elevation_ft": 370,
+          "heading_true": 312.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "icao": "KSEM",
+  "iata": "SEM",
+  "name": "Craig Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.343898773193,
+    "longitude": -86.987800598145,
+    "elevation_ft": 166,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Selma"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Craig_Field_(airport)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 8014,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 32.35300064,
+          "longitude": -86.99510193,
+          "elevation_ft": 166,
+          "heading_true": 146,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 32.3348999,
+          "longitude": -86.98049927,
+          "elevation_ft": 165,
+          "heading_true": 326,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MONTGOMERY APP/DEP",
+      "mhz": 124
+    },
+    {
+      "type": "OTHER",
+      "description": "ANNISTON RDO",
+      "mhz": 122.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

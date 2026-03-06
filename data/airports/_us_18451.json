@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": "HCC",
+  "name": "Columbia County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.291302,
+    "longitude": -73.710297,
+    "elevation_ft": 198,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Hudson"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Columbia_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5350,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 42.28409957885742,
+          "longitude": -73.7123031616211,
+          "elevation_ft": 198,
+          "heading_true": 11,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 42.298500061035156,
+          "longitude": -73.70829772949219,
+          "elevation_ft": 194,
+          "heading_true": 191,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ALBANY APP/DEP",
+      "mhz": 125
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 133.525
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18451,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

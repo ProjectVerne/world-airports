@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Standard Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.801828,
+    "longitude": -87.176428,
+    "elevation_ft": 665,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Elkton"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "1M6"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 2930,
+      "width_ft": 75,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 36.805599212646484,
+          "longitude": -87.17970275878906,
+          "elevation_ft": 0,
+          "heading_true": 137,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 36.79970169067383,
+          "longitude": -87.17310333251953,
+          "elevation_ft": 0,
+          "heading_true": 317,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18493,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Moursund Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.378065,
+    "longitude": -98.376414,
+    "elevation_ft": 1471,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Round Mountain"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "A W Ranch Landing Strip"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3450,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 30.382699966430664,
+          "longitude": -98.37560272216797,
+          "elevation_ft": 1442,
+          "heading_true": 185.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 30.373300552368164,
+          "longitude": -98.37670135498047,
+          "elevation_ft": 1442,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 13706,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

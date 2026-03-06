@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "John Wright Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.55811,
+    "longitude": -89.28072,
+    "elevation_ft": 294,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Hickman"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 350815,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "icao": "KGPH",
+  "iata": null,
+  "name": "Midwest National Air Center Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.3325,
+    "longitude": -94.309601,
+    "elevation_ft": 777,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Excelsior Springs"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Midwest_National_Air_Center",
+  "keywords": [
+    "Mosby"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5502,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.34000015,
+          "longitude": -94.30840302,
+          "elevation_ft": 777,
+          "heading_true": 187,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.32500076,
+          "longitude": -94.31089783,
+          "elevation_ft": 775,
+          "heading_true": 7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY APP/DEP",
+      "mhz": 119
+    },
+    {
+      "type": "OTHER",
+      "description": "KANAS CITY",
+      "mhz": 118.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Westwinds Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.7575,
+    "longitude": -108.148003,
+    "elevation_ft": 5000,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Delta"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4100,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 38.75400161743164,
+          "longitude": -108.15299987792969,
+          "elevation_ft": 0,
+          "heading_true": 51.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 38.76100158691406,
+          "longitude": -108.14199829101562,
+          "elevation_ft": 0,
+          "heading_true": 231.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 2000,
+      "width_ft": 70,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 38.760398864746094,
+          "longitude": -108.15499877929688,
+          "elevation_ft": 0,
+          "heading_true": 141.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 38.756099700927734,
+          "longitude": -108.1500015258789,
+          "elevation_ft": 0,
+          "heading_true": 321.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19593,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

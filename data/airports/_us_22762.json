@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Propst Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.391035,
+    "longitude": -80.57527,
+    "elevation_ft": 621,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Concord"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "0A1"
+  ],
+  "runways": [
+    {
+      "id": "4/22",
+      "length_ft": 3400,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "4",
+          "latitude": 35.3881,
+          "longitude": -80.579201,
+          "elevation_ft": 0,
+          "heading_true": 41,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 35.3951,
+          "longitude": -80.571899,
+          "elevation_ft": 0,
+          "heading_true": 221,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 22762,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

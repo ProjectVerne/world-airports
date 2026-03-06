@@ -1,0 +1,77 @@
+{
+  "icao": "PARC",
+  "iata": "ARC",
+  "name": "Arctic Village Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 68.1147,
+    "longitude": -145.578995,
+    "elevation_ft": 2092,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Arctic Village"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Arctic_Village_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 4500,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 68.11029815673828,
+          "longitude": -145.59100341796875,
+          "elevation_ft": 2077,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 68.11900329589844,
+          "longitude": -145.5679931640625,
+          "elevation_ft": 2092,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 135
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.75
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "FAIRBANKS RDO",
+      "mhz": 122.1
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

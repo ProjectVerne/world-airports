@@ -1,0 +1,98 @@
+{
+  "icao": "KWVI",
+  "iata": "WVI",
+  "name": "Watsonville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.9356994629,
+    "longitude": -121.790000916,
+    "elevation_ft": 163,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Watsonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Watsonville_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 4502,
+      "width_ft": 149,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 36.92900085,
+          "longitude": -121.7959976,
+          "elevation_ft": 140,
+          "heading_true": 32.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 36.9394989,
+          "longitude": -121.788002,
+          "elevation_ft": 155,
+          "heading_true": 212.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 3998,
+      "width_ft": 98,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 36.938301,
+          "longitude": -121.793999,
+          "elevation_ft": 163,
+          "heading_true": 100,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 36.936501,
+          "longitude": -121.780998,
+          "elevation_ft": 137,
+          "heading_true": 280,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORCAL APP/DEP",
+      "mhz": 127.15
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 132.175
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

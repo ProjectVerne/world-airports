@@ -1,0 +1,67 @@
+{
+  "icao": "KMLD",
+  "iata": "MLD",
+  "name": "Malad City Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.166599,
+    "longitude": -112.296997,
+    "elevation_ft": 4503,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Malad City"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 4946,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 42.173302,
+          "longitude": -112.296997,
+          "elevation_ft": 4503,
+          "heading_true": 180,
+          "displaced_threshold_ft": 150
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 42.159698,
+          "longitude": -112.296997,
+          "elevation_ft": 4473,
+          "heading_true": 360,
+          "displaced_threshold_ft": 210
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "BOISE RDO",
+      "mhz": 122.65
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": "WFB",
+  "name": "Ketchikan Harbor Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 55.349899,
+    "longitude": -131.677002,
+    "elevation_ft": 0,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Ketchikan"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ketchikan_Harbor_Seaplane_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "E/W",
+      "length_ft": 3893,
+      "width_ft": 1000,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "E",
+          "latitude": 55.34700012207031,
+          "longitude": -131.67100524902344,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "W",
+          "latitude": 55.34170150756836,
+          "longitude": -131.65499877929688,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12429,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "icao": "KCRX",
+  "iata": "CRX",
+  "name": "Roscoe Turner Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.9150009155,
+    "longitude": -88.6035003662,
+    "elevation_ft": 425,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Corinth"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Roscoe_Turner_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 6500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 34.92380142211914,
+          "longitude": -88.60469818115234,
+          "elevation_ft": 403,
+          "heading_true": 174,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 34.90610122680664,
+          "longitude": -88.60230255126953,
+          "elevation_ft": 425,
+          "heading_true": 354,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.675
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 135.9
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

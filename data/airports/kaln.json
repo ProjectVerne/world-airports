@@ -1,0 +1,130 @@
+{
+  "icao": "KALN",
+  "iata": "ALN",
+  "name": "St Louis Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.89030075069999,
+    "longitude": -90.0459976196,
+    "elevation_ft": 544,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Alton/St Louis"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Louis_Regional_Airport",
+  "keywords": [
+    "Civic Memorial Airport"
+  ],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 8099,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 38.89519882,
+          "longitude": -90.05500031,
+          "elevation_ft": 538,
+          "heading_true": 113.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 38.88639832,
+          "longitude": -90.02880096,
+          "elevation_ft": 527,
+          "heading_true": 293.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 6500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 38.89849853515625,
+          "longitude": -90.05249786376953,
+          "elevation_ft": 533,
+          "heading_true": 173.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 38.880699157714844,
+          "longitude": -90.04989624023438,
+          "elevation_ft": 544,
+          "heading_true": 353.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 124.2
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 128
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 128
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 120.2
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.05
+    },
+    {
+      "type": "TWR",
+      "description": "REGIONAL TWR",
+      "mhz": 126
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

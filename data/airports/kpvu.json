@@ -1,0 +1,118 @@
+{
+  "icao": "KPVU",
+  "iata": "PVU",
+  "name": "Provo Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.218894,
+    "longitude": -111.722445,
+    "elevation_ft": 4497,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Provo"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Provo_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 8603,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 40.23020172,
+          "longitude": -111.7320023,
+          "elevation_ft": 4497,
+          "heading_true": 145.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 40.21070099,
+          "longitude": -111.7149963,
+          "elevation_ft": 4493,
+          "heading_true": 325.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6628,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.22639847,
+          "longitude": -111.7200012,
+          "elevation_ft": 4494,
+          "heading_true": 191.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.20869827,
+          "longitude": -111.7249985,
+          "elevation_ft": 4493,
+          "heading_true": 11.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "SALT LAKE CITY APP",
+      "mhz": 124.3
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 135.175
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.175
+    },
+    {
+      "type": "DEP",
+      "description": "SALT LAKE CITY DEP",
+      "mhz": 118.85
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 119.4
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 125.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 125.3
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

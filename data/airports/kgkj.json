@@ -1,0 +1,79 @@
+{
+  "icao": "KGKJ",
+  "iata": "MEJ",
+  "name": "Port Meadville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.626499,
+    "longitude": -80.214699,
+    "elevation_ft": 1399,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Meadville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Meadville_Airport",
+  "keywords": [
+    "2G6"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 41.62319946,
+          "longitude": -80.22270203,
+          "elevation_ft": 1393,
+          "heading_true": 61.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 41.62979889,
+          "longitude": -80.20670319,
+          "elevation_ft": 1397,
+          "heading_true": 241.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "YOUNGSTOWN APP/DEP",
+      "mhz": 133.95
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 121.425
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 124.95
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

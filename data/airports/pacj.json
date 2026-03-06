@@ -1,0 +1,56 @@
+{
+  "icao": "PACJ",
+  "iata": "CKD",
+  "name": "Crooked Creek Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.870315,
+    "longitude": -158.137636,
+    "elevation_ft": 178,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Crooked Creek"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Crooked_Creek_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 1997,
+      "width_ft": 60,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 61.870201110839844,
+          "longitude": -158.13800048828125,
+          "elevation_ft": 0,
+          "heading_true": 148,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 61.865501403808594,
+          "longitude": -158.1320037841797,
+          "elevation_ft": 0,
+          "heading_true": 327,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

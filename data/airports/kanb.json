@@ -1,0 +1,84 @@
+{
+  "icao": "KANB",
+  "iata": "ANB",
+  "name": "Anniston Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.5882,
+    "longitude": -85.8581,
+    "elevation_ft": 612,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Anniston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Anniston_Metropolitan_Airport",
+  "keywords": [
+    "Anniston Metropolitan"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 7002,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 33.58179855,
+          "longitude": -85.86669922,
+          "elevation_ft": 595,
+          "heading_true": 48,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 33.5945015,
+          "longitude": -85.84950256,
+          "elevation_ft": 612,
+          "heading_true": 228,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BIRMINGHAM APP/DEP",
+      "mhz": 125.45
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.675
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 123.6
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

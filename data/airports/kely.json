@@ -1,0 +1,98 @@
+{
+  "icao": "KELY",
+  "iata": "ELY",
+  "name": "Ely Airport Yelland Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.29970169,
+    "longitude": -114.8420029,
+    "elevation_ft": 6259,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Ely"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ely_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4825,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 39.30339813,
+          "longitude": -114.8519974,
+          "elevation_ft": 6240,
+          "heading_true": 140.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 39.29290009,
+          "longitude": -114.8410034,
+          "elevation_ft": 6259,
+          "heading_true": 320.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6017,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.30879974,
+          "longitude": -114.8359985,
+          "elevation_ft": 6225,
+          "heading_true": 193.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.2928009,
+          "longitude": -114.8410034,
+          "elevation_ft": 6259,
+          "heading_true": 13.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 120.625
+    },
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CNTR",
+      "mhz": 133.45
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

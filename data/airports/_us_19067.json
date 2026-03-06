@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "McGehee Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.620201,
+    "longitude": -91.3648,
+    "elevation_ft": 141,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "McGehee"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4007,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 33.625701904296875,
+          "longitude": -91.36470031738281,
+          "elevation_ft": 141,
+          "heading_true": 181.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 33.61470031738281,
+          "longitude": -91.36499786376953,
+          "elevation_ft": 141,
+          "heading_true": 1.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 135.875
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "JONESBORO RDO",
+      "mhz": 122.1
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19067,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

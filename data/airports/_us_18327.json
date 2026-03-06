@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Franklin Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.166801,
+    "longitude": -85.809702,
+    "elevation_ft": 300,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Union Springs"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Franklin_Field_(Alabama)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 5002,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 32.16999817,
+          "longitude": -85.81369781,
+          "elevation_ft": 292,
+          "heading_true": 139,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 32.16239929,
+          "longitude": -85.80590057,
+          "elevation_ft": 300,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18327,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

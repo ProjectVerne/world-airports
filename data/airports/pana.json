@@ -1,0 +1,56 @@
+{
+  "icao": "PANA",
+  "iata": "WNA",
+  "name": "Napakiak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.6903,
+    "longitude": -161.979004,
+    "elevation_ft": 17,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Napakiak"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Napakiak_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 3248,
+      "width_ft": 60,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 60.694801330566406,
+          "longitude": -161.97900390625,
+          "elevation_ft": 16,
+          "heading_true": 175,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 60.6859016418457,
+          "longitude": -161.97799682617188,
+          "elevation_ft": 16,
+          "heading_true": 355,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

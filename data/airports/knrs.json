@@ -1,0 +1,96 @@
+{
+  "icao": "KNRS",
+  "iata": "NRS",
+  "name": "Naval Outlying Field Imperial Beach (Ream Field)",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.5667,
+    "longitude": -117.116997,
+    "elevation_ft": 24,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Imperial Beach"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Outlying_Landing_Field_Imperial_Beach",
+  "keywords": [
+    "NAAS Imperial Beach",
+    "NAS Imperial Beach"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2241,
+      "width_ft": 151,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 32.56700134,
+          "longitude": -117.1139984,
+          "elevation_ft": 24,
+          "heading_true": 105.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 32.56539917,
+          "longitude": -117.1070023,
+          "elevation_ft": 21,
+          "heading_true": 285.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 4998,
+      "width_ft": 336,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 32.56790161,
+          "longitude": -117.1230011,
+          "elevation_ft": 24,
+          "heading_true": 105.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 32.56439972,
+          "longitude": -117.1070023,
+          "elevation_ft": 24,
+          "heading_true": 285.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOCAL APP/DEP",
+      "mhz": 125.15
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.65
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

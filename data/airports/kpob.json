@@ -1,0 +1,85 @@
+{
+  "icao": "KPOB",
+  "iata": "POB",
+  "name": "Pope Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.170898,
+    "longitude": -79.014503,
+    "elevation_ft": 217,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Fort Bragg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pope_Field",
+  "keywords": [
+    "Pope AFB",
+    "Pope Army Airfield"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 7501,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 35.16320037841797,
+          "longitude": -79.02279663085938,
+          "elevation_ft": 217,
+          "heading_true": 41.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 35.1786003112793,
+          "longitude": -79.0062026977539,
+          "elevation_ft": 190,
+          "heading_true": 221.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FAYETTEVILLE APP/DEP",
+      "mhz": 125.175
+    },
+    {
+      "type": "OTHER",
+      "description": "COMD POST",
+      "mhz": 134.1
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 132.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 124.55
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 135.025
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

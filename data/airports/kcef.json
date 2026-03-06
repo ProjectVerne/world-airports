@@ -1,0 +1,108 @@
+{
+  "icao": "KCEF",
+  "iata": "CEF",
+  "name": "Westover Metropolitan Airport / Westover Air Reserve Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.194,
+    "longitude": -72.534798,
+    "elevation_ft": 241,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Chicopee"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Westover_Air_Reserve_Base/Metropolitan_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 11597,
+      "width_ft": 300,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 42.17750168,
+          "longitude": -72.54799652,
+          "elevation_ft": 236,
+          "heading_true": 34.2,
+          "displaced_threshold_ft": 1201
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 42.2038002,
+          "longitude": -72.52400208,
+          "elevation_ft": 241,
+          "heading_true": 214.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 7085,
+      "width_ft": 147,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 42.20619965,
+          "longitude": -72.542099,
+          "elevation_ft": 241,
+          "heading_true": 134.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 42.19269943,
+          "longitude": -72.52349854,
+          "elevation_ft": 240,
+          "heading_true": 314.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BRADLEY APP/DEP",
+      "mhz": 125.35
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 114
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 118.35
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 134.85
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

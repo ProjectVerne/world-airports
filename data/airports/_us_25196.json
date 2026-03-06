@@ -1,0 +1,61 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Laguna Park Community Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.8636,
+    "longitude": -97.380898,
+    "elevation_ft": 620,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Laguna Park"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Laguna Park Air Strip",
+    "Rickfield Airstrip",
+    "Laguna-Not A-Park Airstrip"
+  ],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 1824,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 31.86599922,
+          "longitude": -97.38269806,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 31.8614006,
+          "longitude": -97.37969971,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 25196,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

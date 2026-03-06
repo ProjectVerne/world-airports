@@ -1,0 +1,103 @@
+{
+  "icao": "KGEZ",
+  "iata": null,
+  "name": "Shelbyville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.586044,
+    "longitude": -85.804024,
+    "elevation_ft": 803,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Shelbyville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Shelbyville_Municipal_Airport_(Indiana)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 39.57109832763672,
+          "longitude": -85.80439758300781,
+          "elevation_ft": 802,
+          "heading_true": 6.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 39.584800720214844,
+          "longitude": -85.80239868164062,
+          "elevation_ft": 803,
+          "heading_true": 186.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 2671,
+      "width_ft": 190,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 39.57709885,
+          "longitude": -85.81109619,
+          "elevation_ft": 804,
+          "heading_true": 92.2,
+          "displaced_threshold_ft": 460
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 39.57690048,
+          "longitude": -85.80169678,
+          "elevation_ft": 800,
+          "heading_true": 272.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS APP/DEP",
+      "mhz": 127.15
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 121.55
+    },
+    {
+      "type": "OTHER",
+      "description": "TERRE HAUTE RDO",
+      "mhz": 112
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

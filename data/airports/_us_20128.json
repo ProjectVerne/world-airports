@@ -1,0 +1,70 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Tucker Guthrie Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.859352,
+    "longitude": -83.358523,
+    "elevation_ft": 1551,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Baxter"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Harlan"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 3461,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 36.85820007,
+          "longitude": -83.36419678,
+          "elevation_ft": 1524,
+          "heading_true": 76,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 36.86050034,
+          "longitude": -83.35269928,
+          "elevation_ft": 1564,
+          "heading_true": 256,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS",
+      "mhz": 118.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20128,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "icao": "KOTH",
+  "iata": "OTH",
+  "name": "Southwest Oregon Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.41709899902344,
+    "longitude": -124.24600219726562,
+    "elevation_ft": 17,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "North Bend"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Southwest_Oregon_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5980,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 43.41469955444336,
+          "longitude": -124.26100158691406,
+          "elevation_ft": 16,
+          "heading_true": 61,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 43.42190170288086,
+          "longitude": -124.24299621582031,
+          "elevation_ft": 13,
+          "heading_true": 241,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 4470,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 43.4197998046875,
+          "longitude": -124.24600219726562,
+          "elevation_ft": 13,
+          "heading_true": 150,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 43.4093017578125,
+          "longitude": -124.23799896240234,
+          "elevation_ft": 17,
+          "heading_true": 330,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.075
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE CNTR",
+      "mhz": 121.4
+    },
+    {
+      "type": "OTHER",
+      "description": "MC MINNVILLE RDO",
+      "mhz": 122.4
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

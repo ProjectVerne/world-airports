@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Jorgensen - Stoller Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.635799408,
+    "longitude": -87.44020080570002,
+    "elevation_ft": 690,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Algoma"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2600,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 44.639400482177734,
+          "longitude": -87.44049835205078,
+          "elevation_ft": 0,
+          "heading_true": 176.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 44.632301330566406,
+          "longitude": -87.43990325927734,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 8745,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "icao": "KDUG",
+  "iata": "DUG",
+  "name": "Bisbee Douglas International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.464139,
+    "longitude": -109.60456,
+    "elevation_ft": 4154,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Douglas Bisbee"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bisbee-Douglas_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 7158,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 31.464399337768555,
+          "longitude": -109.60900115966797,
+          "elevation_ft": 0,
+          "heading_true": 44.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 31.478300094604492,
+          "longitude": -109.59300231933594,
+          "elevation_ft": 0,
+          "heading_true": 224.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 4966,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 31.47410011,
+          "longitude": -109.6110001,
+          "elevation_ft": 4113,
+          "heading_true": 90.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 31.47400093,
+          "longitude": -109.5950012,
+          "elevation_ft": 4145,
+          "heading_true": 270.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 7503,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 31.468900680541992,
+          "longitude": -109.61399841308594,
+          "elevation_ft": 0,
+          "heading_true": 135.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 31.454200744628906,
+          "longitude": -109.59700012207031,
+          "elevation_ft": 0,
+          "heading_true": 315.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 6430,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 31.47430038,
+          "longitude": -109.6039963,
+          "elevation_ft": 4126,
+          "heading_true": 179.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 31.45420074,
+          "longitude": -109.6039963,
+          "elevation_ft": 4082,
+          "heading_true": 359.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.275
+    },
+    {
+      "type": "OTHER",
+      "description": "PRESCOTT RDO",
+      "mhz": 122.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

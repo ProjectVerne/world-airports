@@ -1,0 +1,77 @@
+{
+  "icao": "KNOW",
+  "iata": null,
+  "name": "Port Angeles Cgas Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.141499,
+    "longitude": -123.414001,
+    "elevation_ft": 13,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Port Angeles"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Coast_Guard_Air_Station_Port_Angeles",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 48.141700744628906,
+          "longitude": -123.4229965209961,
+          "elevation_ft": 9,
+          "heading_true": 94,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 48.140899658203125,
+          "longitude": -123.40499877929688,
+          "elevation_ft": 8,
+          "heading_true": 274,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "WHIDBEY APP",
+      "mhz": 118.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 123
+    },
+    {
+      "type": "OTHER",
+      "description": "PORT ANGELES AIR",
+      "mhz": 127.7
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE RDO",
+      "mhz": 122.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

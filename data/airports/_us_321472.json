@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Crazy Horse Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.343301,
+    "longitude": -82.112149,
+    "elevation_ft": 603,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Hamlin"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 1292,
+      "width_ft": 40,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 38.34577941894531,
+          "longitude": -82.11255645751953,
+          "elevation_ft": 603,
+          "heading_true": 169,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 38.342288970947266,
+          "longitude": -82.11170959472656,
+          "elevation_ft": 603,
+          "heading_true": 349,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "6/24",
+      "length_ft": 1053,
+      "width_ft": 40,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "6",
+          "latitude": 30.342283248901367,
+          "longitude": -82.1125259399414,
+          "elevation_ft": 0,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 30.344314575195312,
+          "longitude": -82.11170959472656,
+          "elevation_ft": 603,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 321472,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

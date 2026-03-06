@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Old Bridge Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.329899,
+    "longitude": -74.346802,
+    "elevation_ft": 87,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Old Bridge"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Old_Bridge_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3594,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 40.32640075683594,
+          "longitude": -74.35130310058594,
+          "elevation_ft": 63,
+          "heading_true": 44.2,
+          "displaced_threshold_ft": 600
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 40.33340072631836,
+          "longitude": -74.34230041503906,
+          "elevation_ft": 86,
+          "heading_true": 224.2,
+          "displaced_threshold_ft": 400
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MC QUIRE APP/DEP",
+      "mhz": 124.15
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.8
+    },
+    {
+      "type": "FSS",
+      "description": "ROBINSVILLE RDO",
+      "mhz": 122.1
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18723,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

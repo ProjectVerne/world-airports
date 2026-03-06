@@ -1,0 +1,79 @@
+{
+  "icao": "KDYL",
+  "iata": "DYL",
+  "name": "Doylestown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.3330001831,
+    "longitude": -75.1222991943,
+    "elevation_ft": 394,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Doylestown"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Doylestown_Airport",
+  "keywords": [
+    "N88"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3004,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 40.32979965209961,
+          "longitude": -75.12560272216797,
+          "elevation_ft": 391,
+          "heading_true": 36.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 40.33660125732422,
+          "longitude": -75.11910247802734,
+          "elevation_ft": 393,
+          "heading_true": 216.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PHILADELPHIA APP/DEP",
+      "mhz": 123.8
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.875
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.55
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.975
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

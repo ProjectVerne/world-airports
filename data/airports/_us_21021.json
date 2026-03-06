@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Emmett Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.84989929199219,
+    "longitude": -116.54299926757812,
+    "elevation_ft": 2350,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Emmett"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 3307,
+      "width_ft": 55,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 43.85189819,
+          "longitude": -116.5479965,
+          "elevation_ft": 2347,
+          "heading_true": 116,
+          "displaced_threshold_ft": 385
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 43.84809875,
+          "longitude": -116.5370026,
+          "elevation_ft": 2350,
+          "heading_true": 296,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CITY",
+      "mhz": 128.05
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "BOISE",
+      "mhz": 122.45
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21021,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Slatington Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.763599,
+    "longitude": -75.604897,
+    "elevation_ft": 380,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Slatington"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 2455,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 40.76020050048828,
+          "longitude": -75.60489654541016,
+          "elevation_ft": 0,
+          "heading_true": 1,
+          "displaced_threshold_ft": 352
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 40.766998291015625,
+          "longitude": -75.60479736328125,
+          "elevation_ft": 0,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 13155,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

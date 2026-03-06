@@ -1,0 +1,175 @@
+{
+  "icao": "KMSP",
+  "iata": "MSP",
+  "name": "Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.880081,
+    "longitude": -93.221741,
+    "elevation_ft": 841,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Minneapolis"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Minneapolis–Saint_Paul_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 11006,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 44.87229919433594,
+          "longitude": -93.23829650878906,
+          "elevation_ft": 832,
+          "heading_true": 45,
+          "displaced_threshold_ft": 1550
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 44.89360046386719,
+          "longitude": -93.20829772949219,
+          "elevation_ft": 827,
+          "heading_true": 225,
+          "displaced_threshold_ft": 988
+        }
+      }
+    },
+    {
+      "id": "12L/30R",
+      "length_ft": 8200,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12L",
+          "latitude": 44.89289856,
+          "longitude": -93.22100067,
+          "elevation_ft": 838,
+          "heading_true": 121.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30R",
+          "latitude": 44.88130188,
+          "longitude": -93.19400024,
+          "elevation_ft": 819,
+          "heading_true": 301.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12R/30L",
+      "length_ft": 10000,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12R",
+          "latitude": 44.88779830932617,
+          "longitude": -93.23410034179688,
+          "elevation_ft": 841,
+          "heading_true": 121.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30L",
+          "latitude": 44.87350082397461,
+          "longitude": -93.20120239257812,
+          "elevation_ft": 813,
+          "heading_true": 301.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 8000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 44.88779830932617,
+          "longitude": -93.24220275878906,
+          "elevation_ft": 840,
+          "heading_true": 169.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 44.8661994934082,
+          "longitude": -93.23660278320312,
+          "elevation_ft": 833,
+          "heading_true": 349.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 118.72
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 120.8
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 133.2
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 132.975
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "PRINCETON RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 123.675
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "icao": "KBHM",
+  "iata": "BHM",
+  "name": "Birmingham-Shuttlesworth International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.562877,
+    "longitude": -86.750712,
+    "elevation_ft": 650,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Birmingham"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Birmingham_International_Airport_(US)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 12007,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 33.554798,
+          "longitude": -86.771599,
+          "elevation_ft": 603,
+          "heading_true": 55,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 33.5704,
+          "longitude": -86.744499,
+          "elevation_ft": 621,
+          "heading_true": 235,
+          "displaced_threshold_ft": 1205
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 7099,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 33.5732,
+          "longitude": -86.7472,
+          "elevation_ft": 644,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 33.553699,
+          "longitude": -86.7472,
+          "elevation_ft": 633,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 123.8
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.4
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.675
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "ANNISTON RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

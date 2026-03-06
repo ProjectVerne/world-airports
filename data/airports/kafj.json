@@ -1,0 +1,82 @@
+{
+  "icao": "KAFJ",
+  "iata": "WSG",
+  "name": "Washington County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.136501,
+    "longitude": -80.290199,
+    "elevation_ft": 1184,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Washington"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Washington_County_Airport_(Pennsylvania)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5004,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.13589859,
+          "longitude": -80.29910278,
+          "elevation_ft": 1176,
+          "heading_true": 85,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.13710022,
+          "longitude": -80.28130341,
+          "elevation_ft": 1168,
+          "heading_true": 265,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PITTSBURGH APP/DEP",
+      "mhz": 119.35
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.425
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 127.3
+    },
+    {
+      "type": "OTHER",
+      "description": "ELKINS RDO",
+      "mhz": 112.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

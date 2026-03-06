@@ -1,0 +1,72 @@
+{
+  "icao": "KSVH",
+  "iata": "SVH",
+  "name": "Statesville Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.765301,
+    "longitude": -80.953903,
+    "elevation_ft": 968,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Statesville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Statesville_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 7003,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 35.76610184,
+          "longitude": -80.96559906,
+          "elevation_ft": 954,
+          "heading_true": 96.8,
+          "displaced_threshold_ft": 1000
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 35.76390076,
+          "longitude": -80.94219971,
+          "elevation_ft": 959,
+          "heading_true": 276.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.225
+    },
+    {
+      "type": "OTHER",
+      "description": "ATLANTA CNTR",
+      "mhz": 125.15
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 123.075
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

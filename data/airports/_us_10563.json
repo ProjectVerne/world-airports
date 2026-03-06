@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Little Pecan Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.799701,
+    "longitude": -92.803563,
+    "elevation_ft": 7,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Grand Chenier"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Lake Arthur"
+  ],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4002,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 29.802629470825195,
+          "longitude": -92.8088607788086,
+          "elevation_ft": 2,
+          "heading_true": 122,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 29.796733856201172,
+          "longitude": -92.79821014404297,
+          "elevation_ft": 7,
+          "heading_true": 302,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10563,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

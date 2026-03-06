@@ -1,0 +1,109 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Lowell City Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.953899,
+    "longitude": -85.343903,
+    "elevation_ft": 681,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Lowell"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lowell_City_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 2700,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 42.952999114990234,
+          "longitude": -85.347900390625,
+          "elevation_ft": 681,
+          "heading_true": 0,
+          "displaced_threshold_ft": 1100
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 42.9547004699707,
+          "longitude": -85.34210205078125,
+          "elevation_ft": 681,
+          "heading_true": 320,
+          "displaced_threshold_ft": 1200
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 2394,
+      "width_ft": 48,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 42.95600128173828,
+          "longitude": -85.34880065917969,
+          "elevation_ft": 681,
+          "heading_true": 0,
+          "displaced_threshold_ft": 603
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 42.95330047607422,
+          "longitude": -85.3407974243164,
+          "elevation_ft": 681,
+          "heading_true": 0,
+          "displaced_threshold_ft": 597
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 1940,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 42.95500183105469,
+          "longitude": -85.34410095214844,
+          "elevation_ft": 681,
+          "heading_true": 0,
+          "displaced_threshold_ft": 582
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 42.950599670410156,
+          "longitude": -85.34110260009766,
+          "elevation_ft": 681,
+          "heading_true": 0,
+          "displaced_threshold_ft": 388
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 8988,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

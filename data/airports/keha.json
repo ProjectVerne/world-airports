@@ -1,0 +1,98 @@
+{
+  "icao": "KEHA",
+  "iata": null,
+  "name": "Elkhart Morton County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.000702,
+    "longitude": -101.879997,
+    "elevation_ft": 3622,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Elkhart"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Elkhart%E2%80%93Morton_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4900,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 36.99509811401367,
+          "longitude": -101.88400268554688,
+          "elevation_ft": 3622,
+          "heading_true": 48.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 37.00410079956055,
+          "longitude": -101.87200164794922,
+          "elevation_ft": 3594,
+          "heading_true": 228.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 4907,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 37.00859833,
+          "longitude": -101.8820038,
+          "elevation_ft": 3605,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 36.99520111,
+          "longitude": -101.8820038,
+          "elevation_ft": 3616,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 134
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 1",
+      "mhz": 118.025
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

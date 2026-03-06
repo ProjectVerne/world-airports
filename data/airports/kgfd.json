@@ -1,0 +1,56 @@
+{
+  "icao": "KGFD",
+  "iata": "GFD",
+  "name": "Pope Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.790715,
+    "longitude": -85.735019,
+    "elevation_ft": 895,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Greenfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pope_Field_(Indiana)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2165,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.79439926147461,
+          "longitude": -85.73529815673828,
+          "elevation_ft": 896,
+          "heading_true": 0,
+          "displaced_threshold_ft": 165
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.78889846801758,
+          "longitude": -85.73529815673828,
+          "elevation_ft": 897,
+          "heading_true": 250,
+          "displaced_threshold_ft": 590
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

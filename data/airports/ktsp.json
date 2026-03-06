@@ -1,0 +1,62 @@
+{
+  "icao": "KTSP",
+  "iata": "TSP",
+  "name": "Tehachapi Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.134998321533,
+    "longitude": -118.43900299072,
+    "elevation_ft": 4001,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Tehachapi"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tehachapi_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 4040,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 35.13809967,
+          "longitude": -118.4449997,
+          "elevation_ft": 3962,
+          "heading_true": 124,
+          "displaced_threshold_ft": 285
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 35.13190079,
+          "longitude": -118.4339981,
+          "elevation_ft": 3997,
+          "heading_true": 304,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

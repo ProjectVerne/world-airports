@@ -1,0 +1,93 @@
+{
+  "icao": null,
+  "iata": "CTX",
+  "name": "Cortland County Chase Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.59260178,
+    "longitude": -76.21489716,
+    "elevation_ft": 1198,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Cortland"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cortland_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3401,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 42.58940125,
+          "longitude": -76.2193985,
+          "elevation_ft": 1197,
+          "heading_true": 46.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 42.59590149,
+          "longitude": -76.21029663,
+          "elevation_ft": 1163,
+          "heading_true": 226.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SYRACUSE APP",
+      "mhz": 126.125
+    },
+    {
+      "type": "APP",
+      "description": "BINGHAMTON APP",
+      "mhz": 118.6
+    },
+    {
+      "type": "OTHER",
+      "description": "ELMIRA APP",
+      "mhz": 124.3
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 132.225
+    },
+    {
+      "type": "DEP",
+      "description": "SYRACUSE DEP",
+      "mhz": 126.125
+    },
+    {
+      "type": "OTHER",
+      "description": "BUFFALO RDO",
+      "mhz": 117.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20596,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

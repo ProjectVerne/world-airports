@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Howard County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.996700286865234,
+    "longitude": -93.83809661865234,
+    "elevation_ft": 553,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Nashville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3994,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 33.9917984,
+          "longitude": -93.83940125,
+          "elevation_ft": 0,
+          "heading_true": 12,
+          "displaced_threshold_ft": 117
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 34.00170135,
+          "longitude": -93.8368988,
+          "elevation_ft": 540,
+          "heading_true": 192,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20454,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

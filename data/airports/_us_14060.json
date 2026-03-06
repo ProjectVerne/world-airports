@@ -1,0 +1,66 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Wonderful Pistachios & Almonds Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.664623,
+    "longitude": -119.893518,
+    "elevation_ft": 617,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Lost Hills"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "7CA0",
+    "Paramount Farms"
+  ],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 5002,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 35.65420150756836,
+          "longitude": -119.88200378417969,
+          "elevation_ft": 0,
+          "heading_true": 176.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 35.64390182495117,
+          "longitude": -119.88099670410156,
+          "elevation_ft": 0,
+          "heading_true": 268.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 14060,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

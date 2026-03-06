@@ -1,0 +1,74 @@
+{
+  "icao": "KJWY",
+  "iata": null,
+  "name": "Mid-Way Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.4587,
+    "longitude": -96.912399,
+    "elevation_ft": 713,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Midlothian/Waxahachie"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mid-Way_Regional_Airport",
+  "keywords": [
+    "4T6"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 6500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.46300125,
+          "longitude": -96.91179657,
+          "elevation_ft": 713,
+          "heading_true": 184,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.44919968,
+          "longitude": -96.91300201,
+          "elevation_ft": 686,
+          "heading_true": 4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "REGIONAL APP/DEP",
+      "mhz": 125.2
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.575
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.975
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Arcadia Bienville Parish Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.532016,
+    "longitude": -92.952675,
+    "elevation_ft": 440,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Arcadia"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Arcadia%E2%80%93Bienville_Parish_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 32.53419876098633,
+          "longitude": -92.95690155029297,
+          "elevation_ft": 0,
+          "heading_true": 144.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 32.527198791503906,
+          "longitude": -92.95110321044922,
+          "elevation_ft": 0,
+          "heading_true": 324.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "DE RIDDER RDO",
+      "mhz": 122.45
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18899,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

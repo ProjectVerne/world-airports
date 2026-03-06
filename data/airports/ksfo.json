@@ -1,0 +1,193 @@
+{
+  "icao": "KSFO",
+  "iata": "SFO",
+  "name": "San Francisco International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.619806,
+    "longitude": -122.374821,
+    "elevation_ft": 13,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Francisco"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Francisco_International_Airport",
+  "keywords": [
+    "QSF",
+    "QBA"
+  ],
+  "runways": [
+    {
+      "id": "01L/19R",
+      "length_ft": 7650,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01L",
+          "latitude": 37.60900116,
+          "longitude": -122.3820038,
+          "elevation_ft": 10,
+          "heading_true": 28,
+          "displaced_threshold_ft": 491
+        },
+        "high": {
+          "ident": "19R",
+          "latitude": 37.62720108,
+          "longitude": -122.3700027,
+          "elevation_ft": 9,
+          "heading_true": 208,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "01R/19L",
+      "length_ft": 8650,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01R",
+          "latitude": 37.60680008,
+          "longitude": -122.3809967,
+          "elevation_ft": 12,
+          "heading_true": 28,
+          "displaced_threshold_ft": 238
+        },
+        "high": {
+          "ident": "19L",
+          "latitude": 37.62779999,
+          "longitude": -122.3669968,
+          "elevation_ft": 10,
+          "heading_true": 208,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10L/28R",
+      "length_ft": 11870,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10L",
+          "latitude": 37.628700256347656,
+          "longitude": -122.39299774169922,
+          "elevation_ft": 5,
+          "heading_true": 118,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28R",
+          "latitude": 37.61349868774414,
+          "longitude": -122.35700225830078,
+          "elevation_ft": 13,
+          "heading_true": 298,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10R/28L",
+      "length_ft": 11381,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10R",
+          "latitude": 37.62530136,
+          "longitude": -122.3909988,
+          "elevation_ft": 6,
+          "heading_true": 118,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28L",
+          "latitude": 37.61169815,
+          "longitude": -122.3580017,
+          "elevation_ft": 13,
+          "heading_true": 298,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "NORCAL APP",
+      "mhz": 128.325
+    },
+    {
+      "type": "APP",
+      "description": "NORCAL APP SECONDARY",
+      "mhz": 133.95
+    },
+    {
+      "type": "APP",
+      "description": "NORCAL APP INITIAL CONTACT",
+      "mhz": 134.5
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 113.7
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 1",
+      "mhz": 118.05
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.2
+    },
+    {
+      "type": "DEP",
+      "description": "NORCAL DEP NW-EAST",
+      "mhz": 120.9
+    },
+    {
+      "type": "DEP",
+      "description": "NORCAL DEP SE-WEST",
+      "mhz": 135.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

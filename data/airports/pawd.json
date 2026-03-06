@@ -1,0 +1,72 @@
+{
+  "icao": "PAWD",
+  "iata": "SWD",
+  "name": "Seward Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.130478,
+    "longitude": -149.418612,
+    "elevation_ft": 22,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Seward"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Seward_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 4249,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 60.13740158,
+          "longitude": -149.427002,
+          "elevation_ft": 22,
+          "heading_true": 143.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 60.12810135,
+          "longitude": -149.4129944,
+          "elevation_ft": 22,
+          "heading_true": 323.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "KENAI RDO",
+      "mhz": 122.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

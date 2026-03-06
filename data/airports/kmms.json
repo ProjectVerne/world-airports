@@ -1,0 +1,67 @@
+{
+  "icao": "KMMS",
+  "iata": "MMS",
+  "name": "Selfs Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.231499,
+    "longitude": -90.289597,
+    "elevation_ft": 162,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Marks"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 3346,
+      "width_ft": 70,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 34.22710037,
+          "longitude": -90.29119873,
+          "elevation_ft": 161,
+          "heading_true": 17,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 34.23590088,
+          "longitude": -90.28790283,
+          "elevation_ft": 161,
+          "heading_true": 197,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 135.3
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

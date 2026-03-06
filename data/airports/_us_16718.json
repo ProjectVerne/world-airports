@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": "CKX",
+  "name": "Chicken Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.066495,
+    "longitude": -141.951342,
+    "elevation_ft": 1640,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Chicken"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chicken_Airport",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 16718,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

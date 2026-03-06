@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Hicks Air Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.930535,
+    "longitude": -97.412328,
+    "elevation_ft": 855,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hicks_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3740,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 32.93519973754883,
+          "longitude": -97.41549682617188,
+          "elevation_ft": 855,
+          "heading_true": 141,
+          "displaced_threshold_ft": 340
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 32.92720031738281,
+          "longitude": -97.40789794921875,
+          "elevation_ft": 0,
+          "heading_true": 321,
+          "displaced_threshold_ft": 191
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "REGIONAL CLNC DEL",
+      "mhz": 125.9
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21162,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

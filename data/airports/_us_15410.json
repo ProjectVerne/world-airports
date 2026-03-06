@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Gilbert Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.450001,
+    "longitude": -89.250099,
+    "elevation_ft": 925,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Rio"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gilbert_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 1250,
+      "width_ft": 65,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 43.45159912,
+          "longitude": -89.25650024,
+          "elevation_ft": 940,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 43.45159912,
+          "longitude": -89.25180054,
+          "elevation_ft": 940,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 15410,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

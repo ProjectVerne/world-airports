@@ -1,0 +1,67 @@
+{
+  "icao": "KOLG",
+  "iata": null,
+  "name": "Solon Springs Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.3148,
+    "longitude": -91.816399,
+    "elevation_ft": 1102,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Solon Springs"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Solon_Springs_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3100,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 46.31050109863281,
+          "longitude": -91.81719970703125,
+          "elevation_ft": 1101,
+          "heading_true": 7.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 46.319000244140625,
+          "longitude": -91.81559753417969,
+          "elevation_ft": 1100,
+          "heading_true": 187.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DULUTH APP/DEP",
+      "mhz": 125.45
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

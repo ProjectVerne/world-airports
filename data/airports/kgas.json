@@ -1,0 +1,72 @@
+{
+  "icao": "KGAS",
+  "iata": null,
+  "name": "Gallia Meigs Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.834099,
+    "longitude": -82.163399,
+    "elevation_ft": 566,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Gallipolis"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gallia%E2%80%93Meigs_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3999,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 38.83039856,
+          "longitude": -82.16860199,
+          "elevation_ft": 562,
+          "heading_true": 47.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 38.83779907,
+          "longitude": -82.15820313,
+          "elevation_ft": 563,
+          "heading_true": 227.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HUNTINGTON APP/DEP",
+      "mhz": 132.95
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 124.55
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

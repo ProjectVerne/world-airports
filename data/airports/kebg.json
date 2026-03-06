@@ -1,0 +1,96 @@
+{
+  "icao": "KEBG",
+  "iata": null,
+  "name": "South Texas International at Edinburg Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.4417,
+    "longitude": -98.1222,
+    "elevation_ft": 75,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Edinburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/South_Texas_International_Airport_at_Edinburg",
+  "keywords": [
+    "25R",
+    "Edinburg International"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 3200,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 26.44580078125,
+          "longitude": -98.13580322265625,
+          "elevation_ft": 0,
+          "heading_true": 145,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 26.438899993896484,
+          "longitude": -98.13030242919922,
+          "elevation_ft": 0,
+          "heading_true": 325,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 26.447200775146484,
+          "longitude": -98.12670135498047,
+          "elevation_ft": 75,
+          "heading_true": 143.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 26.436100006103516,
+          "longitude": -98.1176986694336,
+          "elevation_ft": 73,
+          "heading_true": 323.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.025
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

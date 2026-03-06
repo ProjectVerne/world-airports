@@ -1,0 +1,77 @@
+{
+  "icao": "KFLP",
+  "iata": "FLP",
+  "name": "Marion County Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.29090118,
+    "longitude": -92.59030151,
+    "elevation_ft": 719,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Flippin"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marion_County_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 36.28659821,
+          "longitude": -92.59690094,
+          "elevation_ft": 669,
+          "heading_true": 51,
+          "displaced_threshold_ft": 900
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 36.29520035,
+          "longitude": -92.58360291,
+          "elevation_ft": 719,
+          "heading_true": 231,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 132.075
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 126.85
+    },
+    {
+      "type": "OTHER",
+      "description": "JONESBORO RDO",
+      "mhz": 122.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

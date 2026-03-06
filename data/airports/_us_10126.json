@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Continental Airport",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 31.8437,
+    "longitude": -110.976997,
+    "elevation_ft": 2869,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Continental"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "35AZ"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10126,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

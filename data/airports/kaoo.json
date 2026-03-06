@@ -1,0 +1,113 @@
+{
+  "icao": "KAOO",
+  "iata": "AOO",
+  "name": "Altoona Blair County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.296398,
+    "longitude": -78.32,
+    "elevation_ft": 1503,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Altoona"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Altoona-Blair_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5465,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 40.2887001,
+          "longitude": -78.32309723,
+          "elevation_ft": 1504,
+          "heading_true": 16,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 40.30310059,
+          "longitude": -78.31770325,
+          "elevation_ft": 1470,
+          "heading_true": 196,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 3668,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 40.29859924316406,
+          "longitude": -78.32559967041016,
+          "elevation_ft": 1473,
+          "heading_true": 108.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 40.2953987121582,
+          "longitude": -78.31320190429688,
+          "elevation_ft": 1482,
+          "heading_true": 288.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 127.125
+    },
+    {
+      "type": "OTHER",
+      "description": "CLEVELAND CNTR",
+      "mhz": 121.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 123.6
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.1
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

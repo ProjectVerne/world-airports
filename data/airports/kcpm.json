@@ -1,0 +1,88 @@
+{
+  "icao": "KCPM",
+  "iata": "CPM",
+  "name": "Compton Woodley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.8899993896,
+    "longitude": -118.244003296,
+    "elevation_ft": 97,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Compton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Compton/Woodley_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07L/25R",
+      "length_ft": 3323,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07L",
+          "latitude": 33.89020157,
+          "longitude": -118.2490005,
+          "elevation_ft": 97,
+          "heading_true": 90,
+          "displaced_threshold_ft": 734
+        },
+        "high": {
+          "ident": "25R",
+          "latitude": 33.89020157,
+          "longitude": -118.237999,
+          "elevation_ft": 97,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07R/25L",
+      "length_ft": 3322,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07R",
+          "latitude": 33.88959884643555,
+          "longitude": -118.2490005493164,
+          "elevation_ft": 97,
+          "heading_true": 90,
+          "displaced_threshold_ft": 734
+        },
+        "high": {
+          "ident": "25L",
+          "latitude": 33.88970184326172,
+          "longitude": -118.23799896240234,
+          "elevation_ft": 97,
+          "heading_true": 270,
+          "displaced_threshold_ft": 680
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

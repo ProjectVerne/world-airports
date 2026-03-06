@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Kern Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.728194,
+    "longitude": -118.41975,
+    "elevation_ft": 2614,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Kernville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Kern_Valley_Airport",
+  "keywords": [
+    "KL05"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3500,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 35.73310089111328,
+          "longitude": -118.41899871826172,
+          "elevation_ft": 2614,
+          "heading_true": 188.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 35.72359848022461,
+          "longitude": -118.4209976196289,
+          "elevation_ft": 2608,
+          "heading_true": 8.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20282,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

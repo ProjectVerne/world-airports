@@ -1,0 +1,72 @@
+{
+  "icao": "KHBC",
+  "iata": null,
+  "name": "Mohall Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.76839828491211,
+    "longitude": -101.53700256347656,
+    "elevation_ft": 1649,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Mohall"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 3599,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 48.77159882,
+          "longitude": -101.5410004,
+          "elevation_ft": 1645,
+          "heading_true": 140,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 48.76509857,
+          "longitude": -101.5329971,
+          "elevation_ft": 1647,
+          "heading_true": 320,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "MINOT APP",
+      "mhz": 119.6
+    },
+    {
+      "type": "DEP",
+      "description": "MINOT DEP",
+      "mhz": 119.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

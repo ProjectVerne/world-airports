@@ -1,0 +1,69 @@
+{
+  "icao": "KGIC",
+  "iata": "IDH",
+  "name": "Idaho County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.9426,
+    "longitude": -116.123001,
+    "elevation_ft": 3314,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Grangeville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Idaho_County_Airport",
+  "keywords": [
+    "S80"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 5100,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 45.94260025024414,
+          "longitude": -116.13300323486328,
+          "elevation_ft": 3282,
+          "heading_true": 91,
+          "displaced_threshold_ft": 100
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 45.942501068115234,
+          "longitude": -116.11299896240234,
+          "elevation_ft": 3310,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SEATTLE CNTR",
+      "mhz": 123.95
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "icao": "KAPG",
+  "iata": "APG",
+  "name": "Phillips Army Air Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.466202,
+    "longitude": -76.1688,
+    "elevation_ft": 57,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Aberdeen"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Phillips_Army_Airfield",
+  "keywords": [
+    "Aberdeen Proving Grounds"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 7998,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 39.4557991,
+          "longitude": -76.17500305,
+          "elevation_ft": 35,
+          "heading_true": 28.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 39.47510147,
+          "longitude": -76.16149902,
+          "elevation_ft": 46,
+          "heading_true": 208.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 4849,
+      "width_ft": 149,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 39.468102,
+          "longitude": -76.174103,
+          "elevation_ft": 56,
+          "heading_true": 71,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 39.472301,
+          "longitude": -76.157799,
+          "elevation_ft": 42,
+          "heading_true": 251,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5004,
+      "width_ft": 149,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 39.4701,
+          "longitude": -76.175201,
+          "elevation_ft": 57,
+          "heading_true": 161,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 39.4571,
+          "longitude": -76.169601,
+          "elevation_ft": 43,
+          "heading_true": 341,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POTOMAC APP/DEP",
+      "mhz": 126.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 108.4
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 126.15
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

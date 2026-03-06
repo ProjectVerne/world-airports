@@ -1,0 +1,72 @@
+{
+  "icao": "KTQE",
+  "iata": null,
+  "name": "Tekamah Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.76350021362305,
+    "longitude": -96.17790222167969,
+    "elevation_ft": 1027,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Tekamah"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 41.768501,
+          "longitude": -96.181198,
+          "elevation_ft": 1027,
+          "heading_true": 154,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 41.758598,
+          "longitude": -96.174698,
+          "elevation_ft": 1025,
+          "heading_true": 334,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "OMAHA APP/DEP",
+      "mhz": 124.5
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 127.275
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

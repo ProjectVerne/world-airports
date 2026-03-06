@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Schuy-Rush Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.1175,
+    "longitude": -90.590401,
+    "elevation_ft": 665,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Rushville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Schuy-Rush_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3565,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.1172981262207,
+          "longitude": -90.59539794921875,
+          "elevation_ft": 665,
+          "heading_true": 0,
+          "displaced_threshold_ft": 305
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.1172981262207,
+          "longitude": -90.58270263671875,
+          "elevation_ft": 665,
+          "heading_true": 172,
+          "displaced_threshold_ft": 463
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12426,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

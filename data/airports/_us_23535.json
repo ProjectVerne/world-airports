@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Dry Creek Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.195098876953125,
+    "longitude": -120.822998046875,
+    "elevation_ft": 3625,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Prineville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3000,
+      "width_ft": 35,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 44.19499969482422,
+          "longitude": -120.8290023803711,
+          "elevation_ft": 0,
+          "heading_true": 88,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 44.1953010559082,
+          "longitude": -120.81700134277344,
+          "elevation_ft": 0,
+          "heading_true": 268,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23535,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

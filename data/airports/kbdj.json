@@ -1,0 +1,82 @@
+{
+  "icao": "KBDJ",
+  "iata": null,
+  "name": "Boulder Junction Payzer Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.1374015808,
+    "longitude": -89.64600372310001,
+    "elevation_ft": 1666,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Boulder Junction"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Boulder_Junction_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3821,
+      "width_ft": 165,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 46.13219833,
+          "longitude": -89.6548996,
+          "elevation_ft": 1660,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 46.13940048,
+          "longitude": -89.64409637,
+          "elevation_ft": 1665,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 3214,
+      "width_ft": 160,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 46.14160156,
+          "longitude": -89.64720154,
+          "elevation_ft": 1665,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 46.13330078,
+          "longitude": -89.64320374,
+          "elevation_ft": 1660,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

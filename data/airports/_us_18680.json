@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "James Clements Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.5469017,
+    "longitude": -83.89550018,
+    "elevation_ft": 585,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Bay City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/James_Clements_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2599,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 43.54399872,
+          "longitude": -83.89980316,
+          "elevation_ft": 582,
+          "heading_true": 45,
+          "displaced_threshold_ft": 225
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 43.54909897,
+          "longitude": -83.89279938,
+          "elevation_ft": 582,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 3798,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 43.55239868,
+          "longitude": -83.895401,
+          "elevation_ft": 583,
+          "heading_true": 176,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 43.54199982,
+          "longitude": -83.89450073,
+          "elevation_ft": 581,
+          "heading_true": 356,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SAGINAW APP/DEP",
+      "mhz": 120.95
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18680,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

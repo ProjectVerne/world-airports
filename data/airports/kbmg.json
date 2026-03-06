@@ -1,0 +1,118 @@
+{
+  "icao": "KBMG",
+  "iata": "BMG",
+  "name": "Monroe County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.145999908447266,
+    "longitude": -86.61669921875,
+    "elevation_ft": 846,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Bloomington"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Monroe_County_Airport_(Indiana)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3798,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 39.13779830932617,
+          "longitude": -86.62300109863281,
+          "elevation_ft": 831,
+          "heading_true": 61.6,
+          "displaced_threshold_ft": 305
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 39.142799377441406,
+          "longitude": -86.61109924316406,
+          "elevation_ft": 841,
+          "heading_true": 241.6,
+          "displaced_threshold_ft": 222
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 6500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 39.158199310302734,
+          "longitude": -86.61810302734375,
+          "elevation_ft": 846,
+          "heading_true": 171.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 39.140499114990234,
+          "longitude": -86.61479949951172,
+          "elevation_ft": 838,
+          "heading_true": 351.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HULMAN APP/DEP",
+      "mhz": 128.025
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 110.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.775
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "TERRE HAUTE RDO",
+      "mhz": 110.2
+    },
+    {
+      "type": "TWR",
+      "description": "BLOOMINGTON TWR",
+      "mhz": 120.775
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

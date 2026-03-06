@@ -1,0 +1,109 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Gardner Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.80690002441406,
+    "longitude": -94.9561996459961,
+    "elevation_ft": 1042,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Gardner"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gardner_Municipal_Airport_(Kansas)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 1871,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 38.8022995,
+          "longitude": -94.959198,
+          "elevation_ft": 0,
+          "heading_true": 39,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 38.80690002,
+          "longitude": -94.95449829,
+          "elevation_ft": 0,
+          "heading_true": 219,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 2399,
+      "width_ft": 36,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 38.81000137,
+          "longitude": -94.95899963,
+          "elevation_ft": 1029,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 38.80989838,
+          "longitude": -94.94860077,
+          "elevation_ft": 1032,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 3224,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 38.80970001,
+          "longitude": -94.95890045,
+          "elevation_ft": 1029,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 38.80080032,
+          "longitude": -94.95890045,
+          "elevation_ft": 1049,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 18648,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

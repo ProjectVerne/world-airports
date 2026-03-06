@@ -1,0 +1,72 @@
+{
+  "icao": "KHRI",
+  "iata": "HES",
+  "name": "Hermiston Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.828223,
+    "longitude": -119.259024,
+    "elevation_ft": 644,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Hermiston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hermiston_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4501,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 45.82540131,
+          "longitude": -119.2669983,
+          "elevation_ft": 641,
+          "heading_true": 62,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 45.83110046,
+          "longitude": -119.2509995,
+          "elevation_ft": 638,
+          "heading_true": 242,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHINOOK APP/DEP",
+      "mhz": 133.15
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.225
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

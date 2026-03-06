@@ -1,0 +1,72 @@
+{
+  "icao": "KVLL",
+  "iata": null,
+  "name": "Oakland Troy Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.5429,
+    "longitude": -83.177902,
+    "elevation_ft": 727,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Troy"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Oakland/Troy_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3550,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 42.54290008544922,
+          "longitude": -83.18450164794922,
+          "elevation_ft": 729,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 42.542999267578125,
+          "longitude": -83.17130279541016,
+          "elevation_ft": 701,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DETROIT APP/DEP",
+      "mhz": 126.85
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.475
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

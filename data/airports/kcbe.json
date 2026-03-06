@@ -1,0 +1,105 @@
+{
+  "icao": "KCBE",
+  "iata": "CBE",
+  "name": "Greater Cumberland Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.615398,
+    "longitude": -78.760902,
+    "elevation_ft": 775,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Wiley Ford"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Greater_Cumberland_Regional_Airport",
+  "keywords": [
+    "Wiley Ford"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5047,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 39.61109924,
+          "longitude": -78.76480103,
+          "elevation_ft": 722,
+          "heading_true": 39.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 39.62179947,
+          "longitude": -78.75350189,
+          "elevation_ft": 776,
+          "heading_true": 219.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 3000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 39.61370087,
+          "longitude": -78.76879883,
+          "elevation_ft": 723,
+          "heading_true": 97,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 39.61289978,
+          "longitude": -78.7602005,
+          "elevation_ft": 727,
+          "heading_true": 277,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 128.625
+    },
+    {
+      "type": "OTHER",
+      "description": "CLEVELAND CNTR",
+      "mhz": 124.4
+    },
+    {
+      "type": "OTHER",
+      "description": "ELKINS RDO",
+      "mhz": 122.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

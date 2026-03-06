@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Self Field",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 35.311755,
+    "longitude": -81.625296,
+    "elevation_ft": 930,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Shelby"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "29NC"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 9263,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

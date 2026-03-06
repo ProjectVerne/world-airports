@@ -1,0 +1,77 @@
+{
+  "icao": "KCQX",
+  "iata": null,
+  "name": "Chatham Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.68840026855469,
+    "longitude": -69.989501953125,
+    "elevation_ft": 68,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Chatham"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chatham_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 41.68539810180664,
+          "longitude": -69.99330139160156,
+          "elevation_ft": 54,
+          "heading_true": 43.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 41.69139862060547,
+          "longitude": -69.98570251464844,
+          "elevation_ft": 67,
+          "heading_true": 223.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CAPE APP/DEP",
+      "mhz": 118.2
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.875
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 127.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

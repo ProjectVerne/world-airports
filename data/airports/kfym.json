@@ -1,0 +1,77 @@
+{
+  "icao": "KFYM",
+  "iata": "FYM",
+  "name": "Fayetteville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.059700012200004,
+    "longitude": -86.5640029907,
+    "elevation_ft": 984,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Fayetteville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fayetteville_Municipal_Airport_(Tennessee)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5900,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 35.05179977416992,
+          "longitude": -86.56639862060547,
+          "elevation_ft": 960,
+          "heading_true": 13.8,
+          "displaced_threshold_ft": 400
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 35.06760025024414,
+          "longitude": -86.56169891357422,
+          "elevation_ft": 983,
+          "heading_true": 193.8,
+          "displaced_threshold_ft": 510
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HUNTSVILLE APP/DEP",
+      "mhz": 125.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.275
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 120.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

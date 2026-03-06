@@ -1,0 +1,117 @@
+{
+  "icao": "KLSV",
+  "iata": "LSV",
+  "name": "Nellis Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.2361984253,
+    "longitude": -115.033996582,
+    "elevation_ft": 1870,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Las Vegas"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Nellis_Air_Force_Base",
+  "keywords": [
+    "McCarran Field",
+    "Las Vegas AAF",
+    "Las Vegas AFB"
+  ],
+  "runways": [
+    {
+      "id": "03L/21R",
+      "length_ft": 10120,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03L",
+          "latitude": 36.22669983,
+          "longitude": -115.0469971,
+          "elevation_ft": 1834,
+          "heading_true": 41,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21R",
+          "latitude": 36.24760056,
+          "longitude": -115.0240021,
+          "elevation_ft": 1870,
+          "heading_true": 221,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "03R/21L",
+      "length_ft": 10051,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03R",
+          "latitude": 36.22489929,
+          "longitude": -115.0439987,
+          "elevation_ft": 1826,
+          "heading_true": 41,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21L",
+          "latitude": 36.24560165,
+          "longitude": -115.0220032,
+          "elevation_ft": 1866,
+          "heading_true": 221,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 118.125
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.9
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 135.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 139.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 132.55
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "icao": "KHQU",
+  "iata": null,
+  "name": "Thomson-McDuffie County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.52970123,
+    "longitude": -82.51650238,
+    "elevation_ft": 501,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Thomson"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "48J"
+  ],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 5514,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 33.52999878,
+          "longitude": -82.52500153,
+          "elevation_ft": 452,
+          "heading_true": 93,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 33.52939987,
+          "longitude": -82.50789642,
+          "elevation_ft": 498,
+          "heading_true": 273,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "AUGUSTA APP/DEP",
+      "mhz": 126.8
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120.625
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

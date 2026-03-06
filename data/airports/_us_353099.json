@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "3 Barrel Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.031614,
+    "longitude": -96.418631,
+    "elevation_ft": 311,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Bleiblerville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 930,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 30.032424926757812,
+          "longitude": -96.41976928710938,
+          "elevation_ft": 311,
+          "heading_true": 129,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 30.030803680419922,
+          "longitude": -96.41749572753906,
+          "elevation_ft": 302,
+          "heading_true": 309,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 353099,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

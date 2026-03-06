@@ -1,0 +1,98 @@
+{
+  "icao": "KLVL",
+  "iata": "LVL",
+  "name": "Brunswick Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.774229,
+    "longitude": -77.793846,
+    "elevation_ft": 329,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Lawrenceville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 1890,
+      "width_ft": 70,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 36.768798828125,
+          "longitude": -77.79779815673828,
+          "elevation_ft": 284,
+          "heading_true": 56.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 36.77159881591797,
+          "longitude": -77.79239654541016,
+          "elevation_ft": 317,
+          "heading_true": 236.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 3020,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 36.77870178222656,
+          "longitude": -77.79450225830078,
+          "elevation_ft": 329,
+          "heading_true": 172.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 36.77050018310547,
+          "longitude": -77.79309844970703,
+          "elevation_ft": 312,
+          "heading_true": 352.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "WASHINGTON CNTR",
+      "mhz": 132.85
+    },
+    {
+      "type": "OTHER",
+      "description": "LEESBURG RDO",
+      "mhz": 112.9
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

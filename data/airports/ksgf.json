@@ -1,0 +1,123 @@
+{
+  "icao": "KSGF",
+  "iata": "SGF",
+  "name": "Springfield Branson National Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.245047,
+    "longitude": -93.388596,
+    "elevation_ft": 1268,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Springfield"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Springfield/Branson_National_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 7003,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 37.235599517822266,
+          "longitude": -93.38919830322266,
+          "elevation_ft": 1264,
+          "heading_true": 22,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 37.253501892089844,
+          "longitude": -93.38030242919922,
+          "elevation_ft": 1262,
+          "heading_true": 202,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 8000,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 37.25519943237305,
+          "longitude": -93.40049743652344,
+          "elevation_ft": 1260,
+          "heading_true": 142,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 37.237998962402344,
+          "longitude": -93.38349914550781,
+          "elevation_ft": 1268,
+          "heading_true": 322,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 124.95
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.05
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 123.675
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ARNG OPS",
+      "mhz": 134.95
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBIA RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

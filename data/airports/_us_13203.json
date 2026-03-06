@@ -1,0 +1,33 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Eldora Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.330183,
+    "longitude": -93.114286,
+    "elevation_ft": 979,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Eldora"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eldora_Municipal_Airport",
+  "keywords": [
+    "6C0",
+    "Eldora Municipal"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 13203,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "icao": "KMTC",
+  "iata": "MTC",
+  "name": "Selfridge Air National Guard Base Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.613463,
+    "longitude": -82.836919,
+    "elevation_ft": 580,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Mount Clemens"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Selfridge_Air_National_Guard_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 42.60150146484375,
+          "longitude": -82.8373031616211,
+          "elevation_ft": 580,
+          "heading_true": 1.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 42.62620162963867,
+          "longitude": -82.83650207519531,
+          "elevation_ft": 579,
+          "heading_true": 181.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 119.6
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.325
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 119.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 128.3
+    },
+    {
+      "type": "OTHER",
+      "description": "WING COMD POST",
+      "mhz": 148.525
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 134.85
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.15
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "icao": "KBFM",
+  "iata": "BFM",
+  "name": "Mobile Downtown Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.626800537100003,
+    "longitude": -88.06809997559999,
+    "elevation_ft": 26,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Mobile"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mobile_Downtown_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 9618,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 30.633100509643555,
+          "longitude": -88.07990264892578,
+          "elevation_ft": 26,
+          "heading_true": 139,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 30.61319923400879,
+          "longitude": -88.05979919433594,
+          "elevation_ft": 19,
+          "heading_true": 319,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 7800,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 30.642000198364258,
+          "longitude": -88.06590270996094,
+          "elevation_ft": 26,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 30.6205997467041,
+          "longitude": -88.06590270996094,
+          "elevation_ft": 25,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 118.5
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 135.575
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.8
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "ANNISTON RDO",
+      "mhz": 112.8
+    },
+    {
+      "type": "TWR",
+      "description": "DOWNTOWN TWR",
+      "mhz": 118.8
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

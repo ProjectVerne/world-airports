@@ -1,0 +1,120 @@
+{
+  "icao": "KHWD",
+  "iata": "HWD",
+  "name": "Hayward Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.659198761,
+    "longitude": -122.122001648,
+    "elevation_ft": 52,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Hayward"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hayward_Executive_Airport",
+  "keywords": [
+    "Hayward Air Terminal"
+  ],
+  "runways": [
+    {
+      "id": "10L/28R",
+      "length_ft": 3108,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10L",
+          "latitude": 37.66249847,
+          "longitude": -122.1269989,
+          "elevation_ft": 28,
+          "heading_true": 120,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28R",
+          "latitude": 37.65819931,
+          "longitude": -122.1179962,
+          "elevation_ft": 37,
+          "heading_true": 300,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10R/28L",
+      "length_ft": 5694,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10R",
+          "latitude": 37.6619987487793,
+          "longitude": -122.12999725341797,
+          "elevation_ft": 29,
+          "heading_true": 119.8,
+          "displaced_threshold_ft": 816
+        },
+        "high": {
+          "ident": "28L",
+          "latitude": 37.654300689697266,
+          "longitude": -122.11299896240234,
+          "elevation_ft": 50,
+          "heading_true": 299.8,
+          "displaced_threshold_ft": 676
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORCAL APP/DEP",
+      "mhz": 124.4
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.7
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 128.05
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.4
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

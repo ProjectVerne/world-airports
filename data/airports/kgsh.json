@@ -1,0 +1,108 @@
+{
+  "icao": "KGSH",
+  "iata": "GSH",
+  "name": "Goshen Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.526401519800004,
+    "longitude": -85.79290008539999,
+    "elevation_ft": 827,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Goshen"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Goshen_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2267,
+      "width_ft": 175,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 41.52590179,
+          "longitude": -85.79679871,
+          "elevation_ft": 815,
+          "heading_true": 44.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 41.53099823,
+          "longitude": -85.79019928,
+          "elevation_ft": 823,
+          "heading_true": 224.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 6008,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.52529907,
+          "longitude": -85.80169678,
+          "elevation_ft": 819,
+          "heading_true": 89.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.52539825,
+          "longitude": -85.78340149,
+          "elevation_ft": 827,
+          "heading_true": 269.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOUTH BEND APP/DEP",
+      "mhz": 132.05
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 126.475
+    },
+    {
+      "type": "OTHER",
+      "description": "SOUTH BEND CLNC DEL",
+      "mhz": 125.25
+    },
+    {
+      "type": "OTHER",
+      "description": "TERRE HAUTE RDO",
+      "mhz": 113.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

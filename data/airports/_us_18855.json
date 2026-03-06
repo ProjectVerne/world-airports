@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Circle Town County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.41859817504883,
+    "longitude": -105.56199645996094,
+    "elevation_ft": 2426,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Circle"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2280,
+      "width_ft": 195,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 47.41350174,
+          "longitude": -105.5559998,
+          "elevation_ft": 0,
+          "heading_true": 48,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 47.41809845,
+          "longitude": -105.5490036,
+          "elevation_ft": 0,
+          "heading_true": 228,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 4100,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 47.420799255371094,
+          "longitude": -105.55599975585938,
+          "elevation_ft": 0,
+          "heading_true": 138,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 47.412498474121094,
+          "longitude": -105.54499816894531,
+          "elevation_ft": 0,
+          "heading_true": 318,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18855,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

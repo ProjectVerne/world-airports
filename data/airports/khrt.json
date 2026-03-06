@@ -1,0 +1,82 @@
+{
+  "icao": "KHRT",
+  "iata": null,
+  "name": "Hurlburt Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.427799,
+    "longitude": -86.689301,
+    "elevation_ft": 38,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Mary Esther"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hurlburt_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 9600,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 30.442100524902344,
+          "longitude": -86.68990325927734,
+          "elevation_ft": 33,
+          "heading_true": 176,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 30.415800094604492,
+          "longitude": -86.68769836425781,
+          "elevation_ft": 35,
+          "heading_true": 356,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "EGLIN APP",
+      "mhz": 133
+    },
+    {
+      "type": "DEP",
+      "description": "EGLIN DEP",
+      "mhz": 132.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 123.975
+    },
+    {
+      "type": "OTHER",
+      "description": "COMD POST",
+      "mhz": 140.4
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 126.5
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

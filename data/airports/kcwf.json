@@ -1,0 +1,89 @@
+{
+  "icao": "KCWF",
+  "iata": "CWF",
+  "name": "Chennault International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.2106,
+    "longitude": -93.143204,
+    "elevation_ft": 17,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Lake Charles"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chennault_International_Airport",
+  "keywords": [
+    "Chennault Industrial Airpark"
+  ],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 10702,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 30.22389984,
+          "longitude": -93.15049744,
+          "elevation_ft": 15,
+          "heading_true": 155,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 30.19729996,
+          "longitude": -93.1359024,
+          "elevation_ft": 17,
+          "heading_true": 335,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "LAKE CHARLES APP/DEP",
+      "mhz": 119.8
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.65
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 124.2
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

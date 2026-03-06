@@ -1,0 +1,129 @@
+{
+  "icao": "KBTM",
+  "iata": "BTM",
+  "name": "Bert Mooney Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.95479965209961,
+    "longitude": -112.49700164794922,
+    "elevation_ft": 5550,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Butte"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bert_Mooney_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5545,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 45.94490051269531,
+          "longitude": -112.50199890136719,
+          "elevation_ft": 0,
+          "heading_true": 38,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 45.9567985534668,
+          "longitude": -112.48799896240234,
+          "elevation_ft": 0,
+          "heading_true": 218,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 5100,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 45.959,
+          "longitude": -112.505997,
+          "elevation_ft": 5520,
+          "heading_true": 129,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 45.950199,
+          "longitude": -112.489998,
+          "elevation_ft": 5530,
+          "heading_true": 309,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 45.96689987,
+          "longitude": -112.5009995,
+          "elevation_ft": 5507,
+          "heading_true": 167,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 45.94290161,
+          "longitude": -112.4929962,
+          "elevation_ft": 5550,
+          "heading_true": 347,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.175
+    },
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CITY CNTR",
+      "mhz": 132.4
+    },
+    {
+      "type": "OTHER",
+      "description": "GREAT FALLS RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

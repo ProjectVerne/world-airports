@@ -1,0 +1,72 @@
+{
+  "icao": "KMBL",
+  "iata": "MBL",
+  "name": "Manistee County Blacker Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.272707,
+    "longitude": -86.246495,
+    "elevation_ft": 621,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Manistee"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Manistee_County-Blacker_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 5501,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 44.2728,
+          "longitude": -86.254799,
+          "elevation_ft": 616,
+          "heading_true": 91,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 44.2724,
+          "longitude": -86.233803,
+          "elevation_ft": 621,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 111.4
+    },
+    {
+      "type": "OTHER",
+      "description": "LANSING RDO",
+      "mhz": 111.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "icao": "KLVM",
+  "iata": "LVM",
+  "name": "Mission Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.6994018555,
+    "longitude": -110.447998047,
+    "elevation_ft": 4660,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Livingston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mission_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5701,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 45.69329833984375,
+          "longitude": -110.45500183105469,
+          "elevation_ft": 4646,
+          "heading_true": 54.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 45.70240020751953,
+          "longitude": -110.43699645996094,
+          "elevation_ft": 4643,
+          "heading_true": 234.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 3762,
+      "width_ft": 125,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 45.70159912,
+          "longitude": -110.4570007,
+          "elevation_ft": 4655,
+          "heading_true": 95,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 45.70080185,
+          "longitude": -110.4420013,
+          "elevation_ft": 4647,
+          "heading_true": 275,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 2724,
+      "width_ft": 120,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 45.70330048,
+          "longitude": -110.4540024,
+          "elevation_ft": 4656,
+          "heading_true": 148.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 45.69689941,
+          "longitude": -110.4489975,
+          "elevation_ft": 4650,
+          "heading_true": 328.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.275
+    },
+    {
+      "type": "OTHER",
+      "description": "GREAT FALLS RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "icao": "KNFW",
+  "iata": "FWH",
+  "name": "NAS Fort Worth JRB / Carswell Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.769199,
+    "longitude": -97.441498,
+    "elevation_ft": 650,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Joint_Reserve_Base_Fort_Worth",
+  "keywords": [
+    "Carswell AFB",
+    "Tarrant Field"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 11999,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.785702,
+          "longitude": -97.441399,
+          "elevation_ft": 622,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.752701,
+          "longitude": -97.441704,
+          "elevation_ft": 650,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "RGNL APP/DEP",
+      "mhz": 125.8
+    },
+    {
+      "type": "OTHER",
+      "description": "NAVY FORT WORTH ARR",
+      "mhz": 128.775
+    },
+    {
+      "type": "GND",
+      "description": "NAVY FORT WORTH GND",
+      "mhz": 126.4
+    },
+    {
+      "type": "TWR",
+      "description": "NAVY FORT WORTH TWR",
+      "mhz": 120.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

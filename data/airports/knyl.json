@@ -1,0 +1,194 @@
+{
+  "icao": "KNYL",
+  "iata": "YUM",
+  "name": "Yuma International Airport / Marine Corps Air Station Yuma",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.650938,
+    "longitude": -114.609375,
+    "elevation_ft": 213,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Yuma"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Yuma_International_Airport",
+  "keywords": [
+    "Yuma MCAS",
+    "Yuma Marine Corps Air Station",
+    "Formerly KYUM"
+  ],
+  "runways": [
+    {
+      "id": "03L/21R",
+      "length_ft": 13300,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03L",
+          "latitude": 32.63679886,
+          "longitude": -114.6289978,
+          "elevation_ft": 193,
+          "heading_true": 44.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21R",
+          "latitude": 32.6629982,
+          "longitude": -114.598999,
+          "elevation_ft": 193,
+          "heading_true": 224.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "03R/21L",
+      "length_ft": 9240,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03R",
+          "latitude": 32.648701,
+          "longitude": -114.612999,
+          "elevation_ft": 188,
+          "heading_true": 44,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21L",
+          "latitude": 32.667,
+          "longitude": -114.592003,
+          "elevation_ft": 208,
+          "heading_true": 224,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 6146,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 32.665901,
+          "longitude": -114.606003,
+          "elevation_ft": 195,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 32.666199,
+          "longitude": -114.585999,
+          "elevation_ft": 213,
+          "heading_true": 269,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5710,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 32.667702,
+          "longitude": -114.603996,
+          "elevation_ft": 196,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 32.652,
+          "longitude": -114.603996,
+          "elevation_ft": 183,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 124.7
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.8
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 125.55
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "VFR ADVSY SVC",
+      "mhz": 124.7
+    },
+    {
+      "type": "OTHER",
+      "description": "PMSV METRO",
+      "mhz": 120.7
+    },
+    {
+      "type": "OTHER",
+      "description": "SAN DIEGO RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "OTHER",
+      "description": "PRESCOTT RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 119.3
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "High Man Tower Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.854299545288086,
+    "longitude": -97.68229675292969,
+    "elevation_ft": 90,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Robstown"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3300,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 27.854700088500977,
+          "longitude": -97.6874008178711,
+          "elevation_ft": 0,
+          "heading_true": 95.3,
+          "displaced_threshold_ft": 345
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 27.85379981994629,
+          "longitude": -97.67720031738281,
+          "elevation_ft": 0,
+          "heading_true": 275.3,
+          "displaced_threshold_ft": 472
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 24870,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

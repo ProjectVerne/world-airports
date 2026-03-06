@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "John Peter Smith EMS Building Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.726978302,
+    "longitude": -97.3265914917,
+    "elevation_ft": 750,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 42789,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

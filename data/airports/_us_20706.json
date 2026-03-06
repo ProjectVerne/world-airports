@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Trinity Center Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.98320007324219,
+    "longitude": -122.69400024414062,
+    "elevation_ft": 2390,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Trinity Center"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Trinity_Center_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3215,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 40.986900329589844,
+          "longitude": -122.69599914550781,
+          "elevation_ft": 2390,
+          "heading_true": 161.3,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 40.97890090942383,
+          "longitude": -122.69200134277344,
+          "elevation_ft": 2388,
+          "heading_true": 341.3,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20706,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

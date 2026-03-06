@@ -1,0 +1,103 @@
+{
+  "icao": "KMVN",
+  "iata": "MVN",
+  "name": "Mount Vernon Outland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.322774,
+    "longitude": -88.859257,
+    "elevation_ft": 480,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Mount Vernon"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mount_Vernon_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 6496,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 38.31779861,
+          "longitude": -88.8667984,
+          "elevation_ft": 468,
+          "heading_true": 50,
+          "displaced_threshold_ft": 773
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 38.32929993,
+          "longitude": -88.84940338,
+          "elevation_ft": 468,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 3146,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 38.3266983,
+          "longitude": -88.86209869,
+          "elevation_ft": 480,
+          "heading_true": 150,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 38.31919861,
+          "longitude": -88.8565979,
+          "elevation_ft": 458,
+          "heading_true": 330,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 113.8
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 127.7
+    },
+    {
+      "type": "OTHER",
+      "description": "ST LOUIS RDO",
+      "mhz": 113.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

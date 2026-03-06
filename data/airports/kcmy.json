@@ -1,0 +1,98 @@
+{
+  "icao": "KCMY",
+  "iata": "CMY",
+  "name": "Sparta Fort McCoy Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.958009,
+    "longitude": -90.737886,
+    "elevation_ft": 837,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Sparta"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sparta/Fort_McCoy_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3032,
+      "width_ft": 95,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 43.9510994,
+          "longitude": -90.74019623,
+          "elevation_ft": 836,
+          "heading_true": 15,
+          "displaced_threshold_ft": 1375
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 43.96250153,
+          "longitude": -90.73590088,
+          "elevation_ft": 837,
+          "heading_true": 195,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 4697,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 43.9620018,
+          "longitude": -90.74510193,
+          "elevation_ft": 830,
+          "heading_true": 112,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 43.95729828,
+          "longitude": -90.72940063,
+          "elevation_ft": 832,
+          "heading_true": 292,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "VOLK APP/DEP",
+      "mhz": 135.25
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.375
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

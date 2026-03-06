@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Snow Field",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 42.956699,
+    "longitude": -74.081497,
+    "elevation_ft": 775,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Amsterdam"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "NY58"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23439,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

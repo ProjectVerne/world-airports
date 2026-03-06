@@ -1,0 +1,100 @@
+{
+  "icao": "KJMR",
+  "iata": null,
+  "name": "Mora Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.886101,
+    "longitude": -93.271796,
+    "elevation_ft": 1012,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Mora"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mora_Municipal_Airport",
+  "keywords": [
+    "19D"
+  ],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 3152,
+      "width_ft": 80,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 45.88430023,
+          "longitude": -93.27739716,
+          "elevation_ft": 1010,
+          "heading_true": 117,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 45.88130188,
+          "longitude": -93.26879883,
+          "elevation_ft": 1008,
+          "heading_true": 297,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 4794,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 45.89350128,
+          "longitude": -93.27210236,
+          "elevation_ft": 1000,
+          "heading_true": 172,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 45.88270187,
+          "longitude": -93.26979828,
+          "elevation_ft": 1009,
+          "heading_true": 352,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 121.05
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "PRINCETON RDO",
+      "mhz": 122.4
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

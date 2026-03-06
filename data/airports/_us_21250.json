@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": "BFG",
+  "name": "Bullfrog Basin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.547827,
+    "longitude": -110.712898,
+    "elevation_ft": 4167,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Bullfrog"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bullfrog_Basin_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3500,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 37.541099548339844,
+          "longitude": -110.71499633789062,
+          "elevation_ft": 0,
+          "heading_true": 21.7,
+          "displaced_threshold_ft": 82
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 37.54999923706055,
+          "longitude": -110.71099853515625,
+          "elevation_ft": 0,
+          "heading_true": 201.7,
+          "displaced_threshold_ft": 65
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "FSS",
+      "description": "CEDAR CITY RDO",
+      "mhz": 122.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21250,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

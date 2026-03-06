@@ -1,0 +1,108 @@
+{
+  "icao": "KONT",
+  "iata": "ONT",
+  "name": "Ontario International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.056,
+    "longitude": -117.600998,
+    "elevation_ft": 944,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Ontario"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/LA/Ontario_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08L/26R",
+      "length_ft": 12197,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08L",
+          "latitude": 34.05690002,
+          "longitude": -117.6230011,
+          "elevation_ft": 943,
+          "heading_true": 90,
+          "displaced_threshold_ft": 998
+        },
+        "high": {
+          "ident": "26R",
+          "latitude": 34.05690002,
+          "longitude": -117.5830002,
+          "elevation_ft": 930,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08R/26L",
+      "length_ft": 10200,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08R",
+          "latitude": 34.05500030517578,
+          "longitude": -117.61599731445312,
+          "elevation_ft": 935,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26L",
+          "latitude": 34.05500030517578,
+          "longitude": -117.58300018310547,
+          "elevation_ft": 924,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOCAL APP/DEP",
+      "mhz": 119.65
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.25
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

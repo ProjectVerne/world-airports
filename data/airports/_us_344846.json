@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Firebuster Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.605715,
+    "longitude": -109.121281,
+    "elevation_ft": 3901,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Columbus"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 6000,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 45.60911560058594,
+          "longitude": -109.1319580078125,
+          "elevation_ft": 3901,
+          "heading_true": 114,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 45.60231399536133,
+          "longitude": -109.11060333251953,
+          "elevation_ft": 3901,
+          "heading_true": 294,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 344846,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "icao": "KLAA",
+  "iata": "LAA",
+  "name": "Southeast Colorado Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.066407,
+    "longitude": -102.691373,
+    "elevation_ft": 3706,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Lamar"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lamar_Municipal_Airport_(Colorado)",
+  "keywords": [
+    "Lamar Municipal"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 5001,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 38.07389831542969,
+          "longitude": -102.69400024414062,
+          "elevation_ft": 3683,
+          "heading_true": 89.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 38.07400131225586,
+          "longitude": -102.6760025024414,
+          "elevation_ft": 3689,
+          "heading_true": 269.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6304,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 38.07490158081055,
+          "longitude": -102.69000244140625,
+          "elevation_ft": 3679,
+          "heading_true": 189.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 38.05780029296875,
+          "longitude": -102.69300079345703,
+          "elevation_ft": 3706,
+          "heading_true": 9.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.625
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 133.4
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER RDO",
+      "mhz": 116.9
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "icao": "KISP",
+  "iata": "ISP",
+  "name": "Long Island MacArthur Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.796324,
+    "longitude": -73.101703,
+    "elevation_ft": 99,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Islip"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Long_Island_MacArthur_Airport",
+  "keywords": [
+    "Islip Airport"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 7006,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 40.78860092163086,
+          "longitude": -73.11239624023438,
+          "elevation_ft": 92,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 40.80220031738281,
+          "longitude": -73.09459686279297,
+          "elevation_ft": 99,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 5034,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 40.79249954223633,
+          "longitude": -73.10800170898438,
+          "elevation_ft": 90,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 40.79249954223633,
+          "longitude": -73.08979797363281,
+          "elevation_ft": 82,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15L/33R",
+      "length_ft": 3175,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15L",
+          "latitude": 40.79899978637695,
+          "longitude": -73.09839630126953,
+          "elevation_ft": 91,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33R",
+          "latitude": 40.79290008544922,
+          "longitude": -73.09030151367188,
+          "elevation_ft": 81,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15R/33L",
+      "length_ft": 5186,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15R",
+          "latitude": 40.80220031738281,
+          "longitude": -73.1072998046875,
+          "elevation_ft": 99,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33L",
+          "latitude": 40.792198181152344,
+          "longitude": -73.09410095214844,
+          "elevation_ft": 79,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NEW YORK APP/DEP",
+      "mhz": 118
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 120.725
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.85
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 135.3
+    },
+    {
+      "type": "OTHER",
+      "description": "NEW YORK RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

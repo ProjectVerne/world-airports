@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Hazelswart Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.862249,
+    "longitude": -78.410025,
+    "elevation_ft": 485,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Chase City"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 3000,
+      "width_ft": 60,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 36.86439895629883,
+          "longitude": -78.41349792480469,
+          "elevation_ft": 0,
+          "heading_true": 127.2,
+          "displaced_threshold_ft": 600
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 36.859500885009766,
+          "longitude": -78.4052963256836,
+          "elevation_ft": 0,
+          "heading_true": 284,
+          "displaced_threshold_ft": 1150
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 8720,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

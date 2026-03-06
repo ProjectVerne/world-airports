@@ -1,0 +1,72 @@
+{
+  "icao": "KPOF",
+  "iata": "POF",
+  "name": "Poplar Bluff Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.773899,
+    "longitude": -90.324898,
+    "elevation_ft": 331,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Poplar Bluff"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://de.wikipedia.org/wiki/Earl_Fields_Memorial_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5008,
+      "width_ft": 100,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 36.780799865722656,
+          "longitude": -90.32460021972656,
+          "elevation_ft": 329,
+          "heading_true": 181.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 36.7671012878418,
+          "longitude": -90.32510375976562,
+          "elevation_ft": 328,
+          "heading_true": 1.4,
+          "displaced_threshold_ft": 300
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 124.225
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 120.075
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

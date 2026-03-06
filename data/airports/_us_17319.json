@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Deep Forest Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.241899490356445,
+    "longitude": -81.44979858398438,
+    "elevation_ft": 24,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 6425,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 30.25079917907715,
+          "longitude": -81.44969940185547,
+          "elevation_ft": 0,
+          "heading_true": 180,
+          "displaced_threshold_ft": 700
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 30.23310089111328,
+          "longitude": -81.44969940185547,
+          "elevation_ft": 0,
+          "heading_true": 225,
+          "displaced_threshold_ft": 700
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17319,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

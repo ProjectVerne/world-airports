@@ -1,0 +1,149 @@
+{
+  "icao": "KAZO",
+  "iata": "AZO",
+  "name": "Kalamazoo/Battle Creek International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.232105,
+    "longitude": -85.549637,
+    "elevation_ft": 874,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Kalamazoo"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Kalamazoo-Battle_Creek_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3438,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 42.23479843,
+          "longitude": -85.55809784,
+          "elevation_ft": 874,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 42.24150085,
+          "longitude": -85.54910278,
+          "elevation_ft": 851,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 2800,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 42.2338981628418,
+          "longitude": -85.55809783935547,
+          "elevation_ft": 874,
+          "heading_true": 90.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 42.2338981628418,
+          "longitude": -85.54779815673828,
+          "elevation_ft": 862,
+          "heading_true": 270.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 6502,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 42.24250031,
+          "longitude": -85.55200195,
+          "elevation_ft": 859,
+          "heading_true": 171.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 42.22480011,
+          "longitude": -85.5483017,
+          "elevation_ft": 868,
+          "heading_true": 351.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.2
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 127.25
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.75
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "LANSING RDO",
+      "mhz": 109
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

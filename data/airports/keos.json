@@ -1,0 +1,72 @@
+{
+  "icao": "KEOS",
+  "iata": "EOS",
+  "name": "Neosho Hugh Robinson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.810799,
+    "longitude": -94.391701,
+    "elevation_ft": 1255,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Neosho"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Neosho_Hugh_Robinson_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 36.804100036621094,
+          "longitude": -94.39350128173828,
+          "elevation_ft": 1254,
+          "heading_true": 12,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 36.817501068115234,
+          "longitude": -94.38990020751953,
+          "elevation_ft": 1218,
+          "heading_true": 192,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 128.6
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBIA RDO",
+      "mhz": 117.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

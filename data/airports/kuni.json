@@ -1,0 +1,81 @@
+{
+  "icao": "KUNI",
+  "iata": "ATO",
+  "name": "Ohio University Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.211839,
+    "longitude": -82.22949,
+    "elevation_ft": 766,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Albany"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gordon_K._Bush_Airport",
+  "keywords": [
+    "Athens",
+    "Gordon K Bush Airport",
+    "Snyder Field"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 5600,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 39.208099365234375,
+          "longitude": -82.23789978027344,
+          "elevation_ft": 763,
+          "heading_true": 60.7,
+          "displaced_threshold_ft": 900
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 39.2156982421875,
+          "longitude": -82.22059631347656,
+          "elevation_ft": 761,
+          "heading_true": 240.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HUNTINGTON APP/DEP",
+      "mhz": 120.95
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 128.325
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.95
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.075
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

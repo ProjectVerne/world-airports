@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Arnold Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.9034,
+    "longitude": -89.397301,
+    "elevation_ft": 292,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Halls"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Field_(Tennessee)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4700,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 35.909698486328125,
+          "longitude": -89.39779663085938,
+          "elevation_ft": 0,
+          "heading_true": 175.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 35.89690017700195,
+          "longitude": -89.39669799804688,
+          "elevation_ft": 0,
+          "heading_true": 355.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20425,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

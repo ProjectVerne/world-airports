@@ -1,0 +1,103 @@
+{
+  "icao": "KAOH",
+  "iata": "AOH",
+  "name": "Lima Allen County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.706902,
+    "longitude": -84.026703,
+    "elevation_ft": 975,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Lima"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lima_Allen_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 6000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 40.706902,
+          "longitude": -84.035896,
+          "elevation_ft": 951,
+          "heading_true": 90,
+          "displaced_threshold_ft": 138
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 40.706902,
+          "longitude": -84.017403,
+          "elevation_ft": 975,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3994,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 40.7140998840332,
+          "longitude": -84.03130340576172,
+          "elevation_ft": 975,
+          "heading_true": 135.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 40.706298828125,
+          "longitude": -84.02120208740234,
+          "elevation_ft": 975,
+          "heading_true": 315.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 108.4
+    },
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS CNTR",
+      "mhz": 128.075
+    },
+    {
+      "type": "OTHER",
+      "description": "DAYTON RDO",
+      "mhz": 108.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

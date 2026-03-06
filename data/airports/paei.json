@@ -1,0 +1,92 @@
+{
+  "icao": "PAEI",
+  "iata": "EIL",
+  "name": "Eielson Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.66570282,
+    "longitude": -147.102005,
+    "elevation_ft": 547,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Fairbanks"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eielson_Air_Force_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 14530,
+      "width_ft": 150,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 64.68419647216797,
+          "longitude": -147.1179962158203,
+          "elevation_ft": 534,
+          "heading_true": 159,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 64.64710235595703,
+          "longitude": -147.0850067138672,
+          "elevation_ft": 547,
+          "heading_true": 339,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "FAIRBANKS APP",
+      "mhz": 125.35
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.525
+    },
+    {
+      "type": "DEP",
+      "description": "FAIRBANKS DEP",
+      "mhz": 126.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "RANGE CON",
+      "mhz": 125.3
+    },
+    {
+      "type": "OTHER",
+      "description": "SOURDOUGH",
+      "mhz": 139.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 127.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

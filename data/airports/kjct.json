@@ -1,0 +1,103 @@
+{
+  "icao": "KJCT",
+  "iata": "JCT",
+  "name": "Kimble County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.5112991333,
+    "longitude": -99.7634963989,
+    "elevation_ft": 1749,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Junction"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2255,
+      "width_ft": 130,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 30.51199913,
+          "longitude": -99.76370239,
+          "elevation_ft": 0,
+          "heading_true": 92.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 30.51169968,
+          "longitude": -99.75659943,
+          "elevation_ft": 1691,
+          "heading_true": 272.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5004,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 30.51720047,
+          "longitude": -99.76439667,
+          "elevation_ft": 1751,
+          "heading_true": 180.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 30.5034008,
+          "longitude": -99.76450348,
+          "elevation_ft": 1702,
+          "heading_true": 0.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.275
+    },
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 125.75
+    },
+    {
+      "type": "FSS",
+      "description": "SAN ANGELO RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

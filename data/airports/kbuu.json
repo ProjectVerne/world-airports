@@ -1,0 +1,98 @@
+{
+  "icao": "KBUU",
+  "iata": null,
+  "name": "Burlington Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.69070053100586,
+    "longitude": -88.30460357666016,
+    "elevation_ft": 779,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Burlington"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Burlington_Municipal_Airport_(Wisconsin)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 2410,
+      "width_ft": 130,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 42.68579865,
+          "longitude": -88.30460358,
+          "elevation_ft": 773,
+          "heading_true": 12,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 42.69250107,
+          "longitude": -88.30269623,
+          "elevation_ft": 775,
+          "heading_true": 192,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 4300,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 42.69350051879883,
+          "longitude": -88.31279754638672,
+          "elevation_ft": 777,
+          "heading_true": 109,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 42.689701080322266,
+          "longitude": -88.29759979248047,
+          "elevation_ft": 776,
+          "heading_true": 289,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MILWAUKEE APP/DEP",
+      "mhz": 125.35
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 114.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

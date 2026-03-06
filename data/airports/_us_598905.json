@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Government Mountain Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.991745,
+    "longitude": -115.751871,
+    "elevation_ft": 2310,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Noxon"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 2200,
+      "width_ft": 100,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 47.994225,
+          "longitude": -115.754425,
+          "elevation_ft": 2301,
+          "heading_true": 145,
+          "displaced_threshold_ft": 649
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 47.989264,
+          "longitude": -115.749316,
+          "elevation_ft": 2301,
+          "heading_true": 325,
+          "displaced_threshold_ft": 550
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 598905,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

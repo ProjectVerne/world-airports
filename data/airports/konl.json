@@ -1,0 +1,103 @@
+{
+  "icao": "KONL",
+  "iata": "ONL",
+  "name": "O'Neill Municipal Airport–John L Baker Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.468916,
+    "longitude": -98.686989,
+    "elevation_ft": 2031,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "O'Neill"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/O%27Neill_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3200,
+      "width_ft": 60,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 42.46580124,
+          "longitude": -98.69010162,
+          "elevation_ft": 2030,
+          "heading_true": 42.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 42.47190094,
+          "longitude": -98.68240356,
+          "elevation_ft": 2027,
+          "heading_true": 222.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 4408,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 42.47449875,
+          "longitude": -98.69339752,
+          "elevation_ft": 2031,
+          "heading_true": 138.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 42.46530151,
+          "longitude": -98.68270111,
+          "elevation_ft": 2031,
+          "heading_true": 318.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 121.125
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 128
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

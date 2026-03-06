@@ -1,0 +1,66 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Green Bank Observatory Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.430791,
+    "longitude": -79.825523,
+    "elevation_ft": 2710,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Green Bank"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "NRAO Green Bank",
+    "National Radio Astronomy Observatory"
+  ],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 3500,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 38.43299865722656,
+          "longitude": -79.83110046386719,
+          "elevation_ft": 0,
+          "heading_true": 120,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 38.428199768066406,
+          "longitude": -79.82050323486328,
+          "elevation_ft": 0,
+          "heading_true": 300,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 26035,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

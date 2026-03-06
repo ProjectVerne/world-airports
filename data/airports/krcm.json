@@ -1,0 +1,74 @@
+{
+  "icao": "KRCM",
+  "iata": null,
+  "name": "Skyhaven Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.784199,
+    "longitude": -93.802902,
+    "elevation_ft": 798,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Warrensburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Skyhaven_Airport_(Missouri)",
+  "keywords": [
+    "Formerly 9K4"
+  ],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 2801,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 38.784,
+          "longitude": -93.806801,
+          "elevation_ft": 798,
+          "heading_true": 137,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 38.7784,
+          "longitude": -93.800102,
+          "elevation_ft": 786,
+          "heading_true": 317,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "WHITEMAN APP",
+      "mhz": 127.45
+    },
+    {
+      "type": "DEP",
+      "description": "WHITEMAN DEP",
+      "mhz": 125.925
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

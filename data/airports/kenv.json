@@ -1,0 +1,100 @@
+{
+  "icao": "KENV",
+  "iata": "ENV",
+  "name": "Wendover Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.7187004089,
+    "longitude": -114.03099823,
+    "elevation_ft": 4237,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Wendover"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wendover_Airport",
+  "keywords": [
+    "Wendover AFB"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 10002,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 40.71889877,
+          "longitude": -114.0429993,
+          "elevation_ft": 4230,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 40.71900177,
+          "longitude": -114.0149994,
+          "elevation_ft": 4226,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 8002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 40.7262001,
+          "longitude": -114.0429993,
+          "elevation_ft": 4237,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 40.71070099,
+          "longitude": -114.0230026,
+          "elevation_ft": 4224,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.075
+    },
+    {
+      "type": "OTHER",
+      "description": "CEDAR CITY RDO",
+      "mhz": 112.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

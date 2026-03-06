@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "City of Las Animas Bent County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.053903,
+    "longitude": -103.238698,
+    "elevation_ft": 3915,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Las Animas"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 3870,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 38.05329895019531,
+          "longitude": -103.24400329589844,
+          "elevation_ft": 3915,
+          "heading_true": 95.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 38.05220031738281,
+          "longitude": -103.2300033569336,
+          "elevation_ft": 3898,
+          "heading_true": 275.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19089,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

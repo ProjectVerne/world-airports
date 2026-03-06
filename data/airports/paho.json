@@ -1,0 +1,92 @@
+{
+  "icao": "PAHO",
+  "iata": "HOM",
+  "name": "Homer Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.644456,
+    "longitude": -151.479235,
+    "elevation_ft": 84,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Homer"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Homer_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 6701,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 59.64030075073242,
+          "longitude": -151.49099731445312,
+          "elevation_ft": 64,
+          "heading_true": 55,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 59.65079879760742,
+          "longitude": -151.46200561523438,
+          "elevation_ft": 68,
+          "heading_true": 235,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.65
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 125.9
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 123.6
+    },
+    {
+      "type": "FSS",
+      "description": "RDO",
+      "mhz": 123.6
+    },
+    {
+      "type": "OTHER",
+      "description": "TWEB",
+      "mhz": 114.6
+    },
+    {
+      "type": "OTHER",
+      "description": "KENAI RDO",
+      "mhz": 123.6
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

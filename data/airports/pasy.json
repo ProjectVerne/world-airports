@@ -1,0 +1,72 @@
+{
+  "icao": "PASY",
+  "iata": "SYA",
+  "name": "Eareckson Air Station",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.71229935,
+    "longitude": 174.1139984,
+    "elevation_ft": 95,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Shemya"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eareckson_Air_Station",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 10004,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 52.71620178,
+          "longitude": 174.0919952,
+          "elevation_ft": 98,
+          "heading_true": 107,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 52.70819855,
+          "longitude": 174.1349945,
+          "elevation_ft": 87,
+          "heading_true": 287,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.65
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 119.1
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 127.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

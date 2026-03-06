@@ -1,0 +1,72 @@
+{
+  "icao": "KCAG",
+  "iata": "CIG",
+  "name": "Craig Moffat Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.4952011108,
+    "longitude": -107.522003174,
+    "elevation_ft": 6193,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Craig"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Craig-Moffat_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 5606,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 40.49430084,
+          "longitude": -107.5319977,
+          "elevation_ft": 6182,
+          "heading_true": 83,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 40.49620056,
+          "longitude": -107.512001,
+          "elevation_ft": 6193,
+          "heading_true": 263,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.425
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 120.475
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

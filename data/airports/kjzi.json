@@ -1,0 +1,103 @@
+{
+  "icao": "KJZI",
+  "iata": null,
+  "name": "Charleston Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.698238,
+    "longitude": -80.005675,
+    "elevation_ft": 17,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Johns Island"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Charleston_Executive_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4313,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 32.69110107421875,
+          "longitude": -80.00579833984375,
+          "elevation_ft": 10,
+          "heading_true": 32.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 32.70109939575195,
+          "longitude": -79.99839782714844,
+          "elevation_ft": 11,
+          "heading_true": 212.2,
+          "displaced_threshold_ft": 687
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 5350,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 32.704899,
+          "longitude": -80.011803,
+          "elevation_ft": 17,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 32.705002,
+          "longitude": -79.995499,
+          "elevation_ft": 10,
+          "heading_true": 269,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 120.7
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 123.775
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 127.15
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

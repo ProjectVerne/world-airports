@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "LYB Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.83573,
+    "longitude": -95.10889,
+    "elevation_ft": 41,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Channelview"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "LPC Heliport"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 24722,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": "SRV",
+  "name": "Stony River 2 Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.7897,
+    "longitude": -156.589005,
+    "elevation_ft": 230,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Stony River"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Stony_River_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2601,
+      "width_ft": 40,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 61.79309845,
+          "longitude": -156.5859985,
+          "elevation_ft": 221,
+          "heading_true": 200,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 61.78639984,
+          "longitude": -156.5910034,
+          "elevation_ft": 220,
+          "heading_true": 20,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 24676,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

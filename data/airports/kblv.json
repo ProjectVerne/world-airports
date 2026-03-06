@@ -1,0 +1,130 @@
+{
+  "icao": "KBLV",
+  "iata": "BLV",
+  "name": "Scott AFB/Midamerica Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.5452,
+    "longitude": -89.835197,
+    "elevation_ft": 459,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Belleville"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Scott_Air_Force_Base",
+  "keywords": [
+    "Scott Air Force Base"
+  ],
+  "runways": [
+    {
+      "id": "14L/32R",
+      "length_ft": 10000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14L",
+          "latitude": 38.55619812011719,
+          "longitude": -89.83350372314453,
+          "elevation_ft": 442,
+          "heading_true": 136.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32R",
+          "latitude": 38.53630065917969,
+          "longitude": -89.80950164794922,
+          "elevation_ft": 442,
+          "heading_true": 316.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14R/32L",
+      "length_ft": 8006,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14R",
+          "latitude": 38.55179977,
+          "longitude": -89.86190033,
+          "elevation_ft": 459,
+          "heading_true": 136.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32L",
+          "latitude": 38.53590012,
+          "longitude": -89.84269714,
+          "elevation_ft": 437,
+          "heading_true": 316.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ST LOUIS APP/DEP",
+      "mhz": 125.2
+    },
+    {
+      "type": "OTHER",
+      "description": "126 ARW COMD POST",
+      "mhz": 138.55
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 128.7
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.75
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 119.2
+    },
+    {
+      "type": "OTHER",
+      "description": "375 AW COMD POST",
+      "mhz": 130.65
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 139.85
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.65
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

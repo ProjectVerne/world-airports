@@ -1,0 +1,31 @@
+{
+  "icao": "PALH",
+  "iata": null,
+  "name": "Lake Hood Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 61.18,
+    "longitude": -149.972003,
+    "elevation_ft": 71,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Anchorage"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lake_Hood_Seaplane_Base",
+  "keywords": [
+    "Lake Hood Seaplane Base"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

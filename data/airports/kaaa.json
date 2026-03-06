@@ -1,0 +1,98 @@
+{
+  "icao": "KAAA",
+  "iata": null,
+  "name": "Logan County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.158699,
+    "longitude": -89.334999,
+    "elevation_ft": 597,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Lincoln"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Logan_County_Airport_(Illinois)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4000,
+      "width_ft": 70,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 40.15330124,
+          "longitude": -89.33999634,
+          "elevation_ft": 593,
+          "heading_true": 35.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 40.16230011,
+          "longitude": -89.33170319,
+          "elevation_ft": 594,
+          "heading_true": 215.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3021,
+      "width_ft": 135,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 40.16329956,
+          "longitude": -89.33709717,
+          "elevation_ft": 597,
+          "heading_true": 144.4,
+          "displaced_threshold_ft": 307
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 40.15660095,
+          "longitude": -89.33080292,
+          "elevation_ft": 597,
+          "heading_true": 324.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SPRINGFIELD APP/DEP",
+      "mhz": 124.45
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.775
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

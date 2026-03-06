@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Spring Creek Ranch East Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.391667,
+    "longitude": -96.690833,
+    "elevation_ft": 1060,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Tishomingo"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "5/23",
+      "length_ft": 1600,
+      "width_ft": 75,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "5",
+          "latitude": 34.360721588134766,
+          "longitude": -96.7364730834961,
+          "elevation_ft": 1058,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 34.3930549621582,
+          "longitude": -96.68888854980469,
+          "elevation_ft": 1043,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 345166,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

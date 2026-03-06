@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "DJR Ultralight Flightpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.242069,
+    "longitude": -99.897625,
+    "elevation_ft": 1945,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Tuttle"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "9/27",
+      "length_ft": 897,
+      "width_ft": 30,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "9",
+          "latitude": 47.24222183227539,
+          "longitude": -99.8994140625,
+          "elevation_ft": 1940,
+          "heading_true": 97,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 47.24191665649414,
+          "longitude": -99.89583587646484,
+          "elevation_ft": 1945,
+          "heading_true": 277,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 348552,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

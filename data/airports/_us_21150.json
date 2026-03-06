@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "La Porte Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.6693,
+    "longitude": -95.064201,
+    "elevation_ft": 25,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "La Porte"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Porte_Municipal_Airport_(Texas)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2998,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 29.666799545288086,
+          "longitude": -95.06770324707031,
+          "elevation_ft": 23,
+          "heading_true": 51.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 29.671899795532227,
+          "longitude": -95.0604019165039,
+          "elevation_ft": 24,
+          "heading_true": 231.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 4165,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 29.67259979248047,
+          "longitude": -95.0696029663086,
+          "elevation_ft": 24,
+          "heading_true": 126.2,
+          "displaced_threshold_ft": 190
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 29.665800094604492,
+          "longitude": -95.05899810791016,
+          "elevation_ft": 24,
+          "heading_true": 306.2,
+          "displaced_threshold_ft": 402
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON APP/DEP",
+      "mhz": 134.45
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21150,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "icao": "KMIB",
+  "iata": "MIB",
+  "name": "Minot Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.4156,
+    "longitude": -101.358002,
+    "elevation_ft": 1667,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Minot"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Minot_Air_Force_Base",
+  "keywords": [
+    "5th Bomb Wing",
+    "91st Space Wing"
+  ],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 13197,
+      "width_ft": 300,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 48.42620086669922,
+          "longitude": -101.37999725341797,
+          "elevation_ft": 1668,
+          "heading_true": 125,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 48.405399322509766,
+          "longitude": -101.33599853515625,
+          "elevation_ft": 1648,
+          "heading_true": 305,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 119.6
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 119.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 134
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.65
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

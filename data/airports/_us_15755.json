@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Cedar Ridge Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.54309844970703,
+    "longitude": -91.33070373535156,
+    "elevation_ft": 680,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Nauvoo"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3408,
+      "width_ft": 70,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.5432014465332,
+          "longitude": -91.33679962158203,
+          "elevation_ft": 0,
+          "heading_true": 90.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.542999267578125,
+          "longitude": -91.32460021972656,
+          "elevation_ft": 0,
+          "heading_true": 208.4,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 15755,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

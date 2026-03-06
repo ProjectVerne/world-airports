@@ -1,0 +1,36 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Hampton Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.961382,
+    "longitude": -70.830311,
+    "elevation_ft": 93,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Hampton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://de.wikipedia.org/wiki/Hampton_Airfield",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "Hampton Traffic",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 14055,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

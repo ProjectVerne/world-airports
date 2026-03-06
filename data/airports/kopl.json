@@ -1,0 +1,124 @@
+{
+  "icao": "KOPL",
+  "iata": "OPL",
+  "name": "St Landry Parish Ahart Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.558399,
+    "longitude": -92.099403,
+    "elevation_ft": 75,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Opelousas"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Landry_Parish_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 4051,
+      "width_ft": 100,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 30.5531005859375,
+          "longitude": -92.10569763183594,
+          "elevation_ft": 70,
+          "heading_true": 60,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 30.5585994720459,
+          "longitude": -92.09449768066406,
+          "elevation_ft": 75,
+          "heading_true": 240,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 4550,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 30.558900833129883,
+          "longitude": -92.1061019897461,
+          "elevation_ft": 0,
+          "heading_true": 119.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 30.552799224853516,
+          "longitude": -92.09359741210938,
+          "elevation_ft": 0,
+          "heading_true": 299.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5999,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 30.56800079,
+          "longitude": -92.09889984,
+          "elevation_ft": 71,
+          "heading_true": 180,
+          "displaced_threshold_ft": 150
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 30.55190086,
+          "longitude": -92.09889984,
+          "elevation_ft": 71,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "LAFAYETTE APP/DEP",
+      "mhz": 128.7
+    },
+    {
+      "type": "OTHER",
+      "description": "DE RIDDER RDO",
+      "mhz": 135.075
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Hartington Municipal Airport / Bud Becker Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.6036,
+    "longitude": -97.252602,
+    "elevation_ft": 1387,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Hartington"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2150,
+      "width_ft": 125,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 42.59989929199219,
+          "longitude": -97.25769805908203,
+          "elevation_ft": 1387,
+          "heading_true": 41,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 42.604400634765625,
+          "longitude": -97.25250244140625,
+          "elevation_ft": 1374,
+          "heading_true": 221,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 3950,
+      "width_ft": 60,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 42.6077995300293,
+          "longitude": -97.2572021484375,
+          "elevation_ft": 1367,
+          "heading_true": 141,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 42.599300384521484,
+          "longitude": -97.24800109863281,
+          "elevation_ft": 1381,
+          "heading_true": 321,
+          "displaced_threshold_ft": 400
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 124.1
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18349,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

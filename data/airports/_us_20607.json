@@ -1,0 +1,75 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Grand Canyon Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.727901,
+    "longitude": -77.3965,
+    "elevation_ft": 1892,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Wellsboro"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wellsboro_Johnston_Airport",
+  "keywords": [
+    "Wellsboro Johnston"
+  ],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 3597,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 41.72800064,
+          "longitude": -77.40119934,
+          "elevation_ft": 1892,
+          "heading_true": 91,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 41.72779846,
+          "longitude": -77.38800049,
+          "elevation_ft": 1881,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ELMIRA APP/DEP",
+      "mhz": 119.45
+    },
+    {
+      "type": "FSS",
+      "description": "WILLIAMSPORT RDO",
+      "mhz": 122.1
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20607,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

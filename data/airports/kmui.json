@@ -1,0 +1,77 @@
+{
+  "icao": "KMUI",
+  "iata": "MUI",
+  "name": "Muir Army Air Field (Fort Indiantown Gap) Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.435214,
+    "longitude": -76.568661,
+    "elevation_ft": 488,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Fort Indiantown Gap(Annville)"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Muir_Army_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3981,
+      "width_ft": 98,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 40.43249893,
+          "longitude": -76.57510376,
+          "elevation_ft": 489,
+          "heading_true": 59.6,
+          "displaced_threshold_ft": 400
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 40.43799973,
+          "longitude": -76.56279755,
+          "elevation_ft": 489,
+          "heading_true": 239.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HARRISBURG APP/DEP",
+      "mhz": 118.25
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.625
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 126.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

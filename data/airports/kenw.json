@@ -1,0 +1,154 @@
+{
+  "icao": "KENW",
+  "iata": "ENW",
+  "name": "Kenosha Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.59569931,
+    "longitude": -87.92780304,
+    "elevation_ft": 742,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Kenosha"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Kenosha_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07L/25R",
+      "length_ft": 6600,
+      "width_ft": 100,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07L",
+          "latitude": 42.592999,
+          "longitude": -87.941704,
+          "elevation_ft": 742,
+          "heading_true": 64,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25R",
+          "latitude": 42.599701,
+          "longitude": -87.923401,
+          "elevation_ft": 713,
+          "heading_true": 244,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07R/25L",
+      "length_ft": 3302,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07R",
+          "latitude": 42.59090042114258,
+          "longitude": -87.9281005859375,
+          "elevation_ft": 729,
+          "heading_true": 64,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25L",
+          "latitude": 42.59489822387695,
+          "longitude": -87.91709899902344,
+          "elevation_ft": 706,
+          "heading_true": 244,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 4440,
+      "width_ft": 100,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 42.601898193359375,
+          "longitude": -87.93070220947266,
+          "elevation_ft": 716,
+          "heading_true": 144,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 42.592098236083984,
+          "longitude": -87.9208984375,
+          "elevation_ft": 716,
+          "heading_true": 324,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MILWAUKEE APP/DEP",
+      "mhz": 120.15
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 127.175
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 127.175
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.6
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.875
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 109.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.6
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

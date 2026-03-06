@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Haigh Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.72119903564453,
+    "longitude": -122.14700317382812,
+    "elevation_ft": 215,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Orland"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Haigh_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 4500,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 39.72629928588867,
+          "longitude": -122.14800262451172,
+          "elevation_ft": 215,
+          "heading_true": 165.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 39.71440124511719,
+          "longitude": -122.14399719238281,
+          "elevation_ft": 207,
+          "heading_true": 345.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "OAKLAND CNTR",
+      "mhz": 132.2
+    },
+    {
+      "type": "OTHER",
+      "description": "RANCHO RDO",
+      "mhz": 109.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20686,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

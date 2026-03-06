@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Propwash Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.0807,
+    "longitude": -97.358902,
+    "elevation_ft": 800,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Justin"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Propwash_Airport",
+  "keywords": [
+    "Formerly 16XS"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3000,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.08470153808594,
+          "longitude": -97.35970306396484,
+          "elevation_ft": 0,
+          "heading_true": 170,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.076698303222656,
+          "longitude": -97.35810089111328,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 127.45
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 8028,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

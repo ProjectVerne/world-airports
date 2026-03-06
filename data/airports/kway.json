@@ -1,0 +1,62 @@
+{
+  "icao": "KWAY",
+  "iata": "WAY",
+  "name": "Greene County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.90112,
+    "longitude": -80.130733,
+    "elevation_ft": 1069,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Waynesburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Greene_County_Airport_(Pennsylvania)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 39.90019989013672,
+          "longitude": -80.13680267333984,
+          "elevation_ft": 1065,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 39.902099609375,
+          "longitude": -80.12460327148438,
+          "elevation_ft": 1062,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

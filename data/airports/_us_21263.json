@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Beaver Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.230701,
+    "longitude": -112.675003,
+    "elevation_ft": 5863,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Beaver"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Beaver_Municipal_Airport_(Utah)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 2133,
+      "width_ft": 50,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 38.22629929,
+          "longitude": -112.6829987,
+          "elevation_ft": 5839,
+          "heading_true": 84.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 38.22700119,
+          "longitude": -112.6740036,
+          "elevation_ft": 5843,
+          "heading_true": 264.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 4985,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 38.23759842,
+          "longitude": -112.6790009,
+          "elevation_ft": 5786,
+          "heading_true": 148.3,
+          "displaced_threshold_ft": 120
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 38.22570038,
+          "longitude": -112.6699982,
+          "elevation_ft": 5860,
+          "heading_true": 328.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.925
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21263,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

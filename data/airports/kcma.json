@@ -1,0 +1,87 @@
+{
+  "icao": "KCMA",
+  "iata": null,
+  "name": "Camarillo International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.213699,
+    "longitude": -119.094002,
+    "elevation_ft": 77,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Camarillo"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Camarillo_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 6013,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 34.21379852294922,
+          "longitude": -119.10399627685547,
+          "elevation_ft": 61,
+          "heading_true": 90.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 34.21369934082031,
+          "longitude": -119.08399963378906,
+          "elevation_ft": 75,
+          "heading_true": 270.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PT MUGU APP/DEP",
+      "mhz": 124.7
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.025
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.8
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 128.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 128.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

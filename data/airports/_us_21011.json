@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Methow Valley State Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.42490005493164,
+    "longitude": -120.14600372314453,
+    "elevation_ft": 1706,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Winthrop"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5049,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 48.43069839,
+          "longitude": -120.1520004,
+          "elevation_ft": 1694,
+          "heading_true": 147,
+          "displaced_threshold_ft": 134
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 48.4192009,
+          "longitude": -120.1399994,
+          "elevation_ft": 0,
+          "heading_true": 327,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS",
+      "mhz": 118.425
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21011,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

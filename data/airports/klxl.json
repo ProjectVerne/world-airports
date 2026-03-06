@@ -1,0 +1,93 @@
+{
+  "icao": "KLXL",
+  "iata": null,
+  "name": "Little Falls-Morrison County-Lindbergh field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.949699,
+    "longitude": -94.347397,
+    "elevation_ft": 1123,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Little Falls"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Little_Falls/Morrison_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 4010,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 45.95259857,
+          "longitude": -94.35109711,
+          "elevation_ft": 1119,
+          "heading_true": 131,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 45.94549942,
+          "longitude": -94.3391037,
+          "elevation_ft": 1122,
+          "heading_true": 311,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2858,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 45.95360184,
+          "longitude": -94.34690094,
+          "elevation_ft": 1117,
+          "heading_true": 181.3,
+          "displaced_threshold_ft": 203
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 45.94530106,
+          "longitude": -94.34719849,
+          "elevation_ft": 1110,
+          "heading_true": 1.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 118.05
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

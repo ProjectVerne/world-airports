@@ -1,0 +1,123 @@
+{
+  "icao": "KMFE",
+  "iata": "MFE",
+  "name": "McAllen Miller International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.176141,
+    "longitude": -98.237965,
+    "elevation_ft": 107,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "McAllen"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/McAllen-Miller_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 7120,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 26.182899475097656,
+          "longitude": -98.24629974365234,
+          "elevation_ft": 107,
+          "heading_true": 140.6,
+          "displaced_threshold_ft": 137
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 26.167800903320312,
+          "longitude": -98.23249816894531,
+          "elevation_ft": 102,
+          "heading_true": 320.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2639,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 26.1807003,
+          "longitude": -98.23570251,
+          "elevation_ft": 104,
+          "heading_true": 188.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 26.17350006,
+          "longitude": -98.23699951,
+          "elevation_ft": 96,
+          "heading_true": 8.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "VALLEY APP/DEP",
+      "mhz": 121
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 128.5
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 128.5
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "SAN ANGELO RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

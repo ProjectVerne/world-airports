@@ -1,0 +1,84 @@
+{
+  "icao": "KSGU",
+  "iata": "SGU",
+  "name": "St George Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.036389,
+    "longitude": -113.510306,
+    "elevation_ft": 2941,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "St George"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/St._George_Regional_Airport",
+  "keywords": [
+    "DXZ"
+  ],
+  "runways": [
+    {
+      "id": "1/19",
+      "length_ft": 9300,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "1",
+          "latitude": 37.024600982666016,
+          "longitude": -113.5165023803711,
+          "elevation_ft": 2832,
+          "heading_true": 23,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 37.048099517822266,
+          "longitude": -113.50409698486328,
+          "elevation_ft": 2884,
+          "heading_true": 203,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.075
+    },
+    {
+      "type": "OTHER",
+      "description": "LOS ANGELES CLNC DEL",
+      "mhz": 133.3
+    },
+    {
+      "type": "OTHER",
+      "description": "LOS ANGELES CNTR",
+      "mhz": 124.2
+    },
+    {
+      "type": "OTHER",
+      "description": "CEDAR CITY RDO",
+      "mhz": 122.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

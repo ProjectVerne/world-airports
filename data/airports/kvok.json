@@ -1,0 +1,84 @@
+{
+  "icao": "KVOK",
+  "iata": "VOK",
+  "name": "Volk Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.938999,
+    "longitude": -90.253403,
+    "elevation_ft": 912,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Camp Douglas"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Volk_Field_Air_National_Guard_Base",
+  "keywords": [
+    "Camp Williams"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 43.93899917602539,
+          "longitude": -90.27020263671875,
+          "elevation_ft": 912,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 43.93939971923828,
+          "longitude": -90.23609924316406,
+          "elevation_ft": 904,
+          "heading_true": 269,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 135.25
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 127.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "HARDWOOD RANGE",
+      "mhz": 132.025
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 127.5
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

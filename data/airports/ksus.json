@@ -1,0 +1,128 @@
+{
+  "icao": "KSUS",
+  "iata": "SUS",
+  "name": "Spirit of St Louis Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.662102,
+    "longitude": -90.652,
+    "elevation_ft": 463,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "St Louis"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Spirit_of_St._Louis_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08L/26R",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08L",
+          "latitude": 38.664100646972656,
+          "longitude": -90.66829681396484,
+          "elevation_ft": 463,
+          "heading_true": 78,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26R",
+          "latitude": 38.66699981689453,
+          "longitude": -90.6511001586914,
+          "elevation_ft": 463,
+          "heading_true": 258,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08R/26L",
+      "length_ft": 7486,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08R",
+          "latitude": 38.65769958,
+          "longitude": -90.65969849,
+          "elevation_ft": 461,
+          "heading_true": 78,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26L",
+          "latitude": 38.66189957,
+          "longitude": -90.63410187,
+          "elevation_ft": 462,
+          "heading_true": 258,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ST LOUIS APP/DEP",
+      "mhz": 126.5
+    },
+    {
+      "type": "OTHER",
+      "description": "ADVSY SVC",
+      "mhz": 124.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 134.8
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.7
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124.75
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "ST LOUIS RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 122.6
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

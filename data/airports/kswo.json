@@ -1,0 +1,113 @@
+{
+  "icao": "KSWO",
+  "iata": "SWO",
+  "name": "Stillwater Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.162132,
+    "longitude": -97.085581,
+    "elevation_ft": 1000,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Stillwater"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Stillwater_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5002,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 36.155399322509766,
+          "longitude": -97.0905990600586,
+          "elevation_ft": 960,
+          "heading_true": 44.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 36.165199279785156,
+          "longitude": -97.07869720458984,
+          "elevation_ft": 984,
+          "heading_true": 224.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 7401,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 36.172298431396484,
+          "longitude": -97.08689880371094,
+          "elevation_ft": 1000,
+          "heading_true": 179.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 36.152000427246094,
+          "longitude": -97.08660125732422,
+          "elevation_ft": 964,
+          "heading_true": 359.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.725
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 128.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.6
+    },
+    {
+      "type": "OTHER",
+      "description": "MC ALESTER RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 125.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

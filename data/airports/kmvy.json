@@ -1,0 +1,149 @@
+{
+  "icao": "KMVY",
+  "iata": "MVY",
+  "name": "Martha's Vineyard Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.3931007385,
+    "longitude": -70.6143035889,
+    "elevation_ft": 67,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Martha's Vineyard"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Martha's_Vineyard_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3177,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 41.38759994506836,
+          "longitude": -70.6178970336914,
+          "elevation_ft": 55,
+          "heading_true": 355.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 41.39630126953125,
+          "longitude": -70.6187973022461,
+          "elevation_ft": 65,
+          "heading_true": 175.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06/24",
+      "length_ft": 5504,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 41.38600158691406,
+          "longitude": -70.62010192871094,
+          "elevation_ft": 56,
+          "heading_true": 41,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 41.397499084472656,
+          "longitude": -70.60700225830078,
+          "elevation_ft": 62,
+          "heading_true": 221,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 3327,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 41.39810181,
+          "longitude": -70.62020111,
+          "elevation_ft": 67,
+          "heading_true": 131,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 41.39220047,
+          "longitude": -70.61109924,
+          "elevation_ft": 56,
+          "heading_true": 311,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CAPE APP/DEP",
+      "mhz": 133.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.25
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 134.65
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 121.4
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "BRIDGEPORT RDO",
+      "mhz": 114.5
+    },
+    {
+      "type": "TWR",
+      "description": "VINEYARD TWR",
+      "mhz": 121.4
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

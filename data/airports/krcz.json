@@ -1,0 +1,101 @@
+{
+  "icao": "KRCZ",
+  "iata": null,
+  "name": "Richmond County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.8913,
+    "longitude": -79.759598,
+    "elevation_ft": 358,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Rockingham"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Richmond_County_Airport",
+  "keywords": [
+    "45J",
+    "Rockingham-Hamlet Airport"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3009,
+      "width_ft": 490,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 34.88790131,
+          "longitude": -79.76779938,
+          "elevation_ft": 358,
+          "heading_true": 38.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 34.89419937,
+          "longitude": -79.76129913,
+          "elevation_ft": 358,
+          "heading_true": 218.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 34.895599,
+          "longitude": -79.763298,
+          "elevation_ft": 350,
+          "heading_true": 130,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 34.8876,
+          "longitude": -79.751801,
+          "elevation_ft": 355,
+          "heading_true": 310,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FAYETTEVILLE APP/DEP",
+      "mhz": 127.8
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.775
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

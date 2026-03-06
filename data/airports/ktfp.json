@@ -1,0 +1,66 @@
+{
+  "icao": "KTFP",
+  "iata": null,
+  "name": "Ingleside Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.913,
+    "longitude": -97.211502,
+    "elevation_ft": 18,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Aransas Pass"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/McCampbell-Porter_Airport",
+  "keywords": [
+    "T43",
+    "TP McCampbell Airport",
+    "McCampbell-Porter Airport"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 4999,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 27.91830063,
+          "longitude": -97.21649933,
+          "elevation_ft": 15,
+          "heading_true": 139.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 27.90780067,
+          "longitude": -97.20649719,
+          "elevation_ft": 13,
+          "heading_true": 319.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

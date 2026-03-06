@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Vinton County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.328098,
+    "longitude": -82.441803,
+    "elevation_ft": 958,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Mc Arthur"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Vinton_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 39.32709885,
+          "longitude": -82.44850159,
+          "elevation_ft": 956,
+          "heading_true": 79,
+          "displaced_threshold_ft": 410
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 39.32910156,
+          "longitude": -82.43509674,
+          "elevation_ft": 958,
+          "heading_true": 337.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MISC",
+      "mhz": 122.9
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18535,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

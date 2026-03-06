@@ -1,0 +1,88 @@
+{
+  "icao": "KASY",
+  "iata": "ASY",
+  "name": "Ashley Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.0238990784,
+    "longitude": -99.3526000977,
+    "elevation_ft": 2032,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Ashley"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ashley_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2825,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 46.026699,
+          "longitude": -99.355202,
+          "elevation_ft": 2015,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 46.026699,
+          "longitude": -99.344101,
+          "elevation_ft": 2027,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 4364,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 46.0284,
+          "longitude": -99.357002,
+          "elevation_ft": 2015,
+          "heading_true": 151,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 46.018101,
+          "longitude": -99.348701,
+          "elevation_ft": 2030,
+          "heading_true": 331,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

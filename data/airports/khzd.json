@@ -1,0 +1,72 @@
+{
+  "icao": "KHZD",
+  "iata": null,
+  "name": "Carroll County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.089298,
+    "longitude": -88.463303,
+    "elevation_ft": 497,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Huntingdon"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Carroll_County_Airport_(Tennessee)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5507,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 36.08319855,
+          "longitude": -88.46489716,
+          "elevation_ft": 496,
+          "heading_true": 12.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 36.09799957,
+          "longitude": -88.46099854,
+          "elevation_ft": 496,
+          "heading_true": 192.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 133.275
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 134.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

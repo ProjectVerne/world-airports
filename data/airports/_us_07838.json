@@ -1,0 +1,115 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Oak Grove Marine Corps Outlying Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.025006,
+    "longitude": -77.255945,
+    "elevation_ft": 27,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Pollocksville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marine_Corps_Outlying_Field_Oak_Grove",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 4000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 35.02289962768555,
+          "longitude": -77.24929809570312,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 35.03379821777344,
+          "longitude": -77.24919891357422,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "05/23",
+      "length_ft": 4200,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 35.02629852294922,
+          "longitude": -77.26360321044922,
+          "elevation_ft": 0,
+          "heading_true": 44.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 35.034698486328125,
+          "longitude": -77.25360107421875,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 4100,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 35.02750015258789,
+          "longitude": -77.26260375976562,
+          "elevation_ft": 0,
+          "heading_true": 90.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 35.027400970458984,
+          "longitude": -77.24909973144531,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "CHERRY POINT APP",
+      "mhz": 119.35
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 7838,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

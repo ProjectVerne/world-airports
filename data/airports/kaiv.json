@@ -1,0 +1,62 @@
+{
+  "icao": "KAIV",
+  "iata": "AIV",
+  "name": "George Downer Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.106499,
+    "longitude": -88.1978,
+    "elevation_ft": 150,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Aliceville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/George_Downer_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 5001,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 33.10319901,
+          "longitude": -88.20490265,
+          "elevation_ft": 142,
+          "heading_true": 62,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 33.10969925,
+          "longitude": -88.19069672,
+          "elevation_ft": 150,
+          "heading_true": 242,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "icao": "KADT",
+  "iata": null,
+  "name": "Atwood-Rawlins City-County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.841209,
+    "longitude": -101.043248,
+    "elevation_ft": 2991,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Atwood"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Atwood–Rawlins_County_City–County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2400,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 39.8358,
+          "longitude": -101.042999,
+          "elevation_ft": 0,
+          "heading_true": 41,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 39.840801,
+          "longitude": -101.037003,
+          "elevation_ft": 0,
+          "heading_true": 221,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 39.848202,
+          "longitude": -101.043999,
+          "elevation_ft": 2991,
+          "heading_true": 173,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 39.834599,
+          "longitude": -101.042,
+          "elevation_ft": 2926,
+          "heading_true": 353,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17CL/35CL",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "grass",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "17CL",
+          "latitude": 39.842201,
+          "longitude": -101.042999,
+          "elevation_ft": 0,
+          "heading_true": 174,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35CL",
+          "latitude": 39.835602,
+          "longitude": -101.042,
+          "elevation_ft": 0,
+          "heading_true": 354,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 132.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

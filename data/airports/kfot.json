@@ -1,0 +1,72 @@
+{
+  "icao": "KFOT",
+  "iata": null,
+  "name": "Rohnerville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.55390167,
+    "longitude": -124.1330032,
+    "elevation_ft": 393,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Fortuna"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rohnerville_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 4004,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 40.55730057,
+          "longitude": -124.1380005,
+          "elevation_ft": 340,
+          "heading_true": 127,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 40.55059814,
+          "longitude": -124.1269989,
+          "elevation_ft": 392,
+          "heading_true": 307,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SEATTLE CNTR",
+      "mhz": 124.85
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "OAKLAND RDO",
+      "mhz": 122.3
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "icao": "KBIS",
+  "iata": "BIS",
+  "name": "Bismarck Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.772734,
+    "longitude": -100.746874,
+    "elevation_ft": 1661,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Bismarck"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bismarck_Municipal_Airport",
+  "keywords": [
+    "Burleigh County Airport"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 6600,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 46.76259994506836,
+          "longitude": -100.74800109863281,
+          "elevation_ft": 1661,
+          "heading_true": 39,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 46.77669906616211,
+          "longitude": -100.73200225830078,
+          "elevation_ft": 1661,
+          "heading_true": 219,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 8794,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 46.784000396728516,
+          "longitude": -100.76200103759766,
+          "elevation_ft": 1653,
+          "heading_true": 138,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 46.76620101928711,
+          "longitude": -100.73799896240234,
+          "elevation_ft": 1645,
+          "heading_true": 318,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 126.3
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.35
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "GRAND FORKS RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

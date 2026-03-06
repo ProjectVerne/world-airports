@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Bishop Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.1119,
+    "longitude": -112.268997,
+    "elevation_ft": 1261,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Mobile"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Mobile Airport"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 33.10139846801758,
+          "longitude": -112.27400207519531,
+          "elevation_ft": 0,
+          "heading_true": 101.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 33.098899841308594,
+          "longitude": -112.25900268554688,
+          "elevation_ft": 0,
+          "heading_true": 241.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 8205,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

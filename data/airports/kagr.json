@@ -1,0 +1,88 @@
+{
+  "icao": "KAGR",
+  "iata": null,
+  "name": "MacDill Air Force Base Auxiliary Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.6506,
+    "longitude": -81.349403,
+    "elevation_ft": 68,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Avon Park"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Avon_Park_Air_Force_Range",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 8000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 27.640899658203125,
+          "longitude": -81.35150146484375,
+          "elevation_ft": 64,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 27.655000686645508,
+          "longitude": -81.3324966430664,
+          "elevation_ft": 67,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5384,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 27.661100387573242,
+          "longitude": -81.35079956054688,
+          "elevation_ft": 64,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 27.65060043334961,
+          "longitude": -81.33920288085938,
+          "elevation_ft": 68,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "AVON OPS",
+      "mhz": 126.15
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

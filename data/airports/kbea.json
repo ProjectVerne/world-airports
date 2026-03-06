@@ -1,0 +1,95 @@
+{
+  "icao": "KBEA",
+  "iata": null,
+  "name": "Beeville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.361900329589844,
+    "longitude": -97.79100036621094,
+    "elevation_ft": 268,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Beeville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Formerly 3R0"
+  ],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4553,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 28.36599922,
+          "longitude": -97.79640198,
+          "elevation_ft": 268,
+          "heading_true": 131,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 28.35779953,
+          "longitude": -97.78569794,
+          "elevation_ft": 244,
+          "heading_true": 311,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2251,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 28.37210083,
+          "longitude": -97.79290009,
+          "elevation_ft": 270,
+          "heading_true": 189.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 28.36529922,
+          "longitude": -97.79419708,
+          "elevation_ft": 261,
+          "heading_true": 9.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 134.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

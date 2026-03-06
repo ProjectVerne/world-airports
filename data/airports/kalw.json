@@ -1,0 +1,139 @@
+{
+  "icao": "KALW",
+  "iata": "ALW",
+  "name": "Walla Walla Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.09489822,
+    "longitude": -118.288002,
+    "elevation_ft": 1194,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Walla Walla"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Walla_Walla_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 6527,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 46.08530045,
+          "longitude": -118.2919998,
+          "elevation_ft": 1149,
+          "heading_true": 36,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 46.09980011,
+          "longitude": -118.2770004,
+          "elevation_ft": 1191,
+          "heading_true": 216,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07/25",
+      "length_ft": 4486,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 46.098999,
+          "longitude": -118.296997,
+          "elevation_ft": 1121,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 46.099098,
+          "longitude": -118.279999,
+          "elevation_ft": 1184,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 5948,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 46.1022,
+          "longitude": -118.294998,
+          "elevation_ft": 1124,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 46.085899,
+          "longitude": -118.294998,
+          "elevation_ft": 1145,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHINOOK APP/DEP",
+      "mhz": 133.15
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.875
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.6
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.5
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

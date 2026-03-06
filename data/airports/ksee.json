@@ -1,0 +1,149 @@
+{
+  "icao": "KSEE",
+  "iata": "SEE",
+  "name": "Gillespie Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.826198577881,
+    "longitude": -116.97200012207,
+    "elevation_ft": 388,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Diego/El Cajon"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gillespie_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09L/27R",
+      "length_ft": 5342,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09L",
+          "latitude": 32.829498291015625,
+          "longitude": -116.98100280761719,
+          "elevation_ft": 359,
+          "heading_true": 102.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27R",
+          "latitude": 32.82640075683594,
+          "longitude": -116.96399688720703,
+          "elevation_ft": 376,
+          "heading_true": 282.1,
+          "displaced_threshold_ft": 1306
+        }
+      }
+    },
+    {
+      "id": "09R/27L",
+      "length_ft": 2738,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09R",
+          "latitude": 32.82740020751953,
+          "longitude": -116.97599792480469,
+          "elevation_ft": 366,
+          "heading_true": 102.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27L",
+          "latitude": 32.825801849365234,
+          "longitude": -116.96800231933594,
+          "elevation_ft": 380,
+          "heading_true": 282.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 4145,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 32.829498291015625,
+          "longitude": -116.97200012207031,
+          "elevation_ft": 368,
+          "heading_true": 179.6,
+          "displaced_threshold_ft": 450
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 32.81809997558594,
+          "longitude": -116.97200012207031,
+          "elevation_ft": 380,
+          "heading_true": 359.6,
+          "displaced_threshold_ft": 687
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOCAL APP/DEP",
+      "mhz": 124.35
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.45
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 125.45
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.1
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

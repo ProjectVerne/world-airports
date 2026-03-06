@@ -1,0 +1,56 @@
+{
+  "icao": "PHPA",
+  "iata": "PAK",
+  "name": "Port Allen Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.8969,
+    "longitude": -159.602997,
+    "elevation_ft": 24,
+    "continent": "OC",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Hanapepe"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Allen_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2450,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 21.897499084472656,
+          "longitude": -159.60699462890625,
+          "elevation_ft": 0,
+          "heading_true": 100,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 21.896400451660156,
+          "longitude": -159.60000610351562,
+          "elevation_ft": 0,
+          "heading_true": 280,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Biddeford Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.4641,
+    "longitude": -70.472397,
+    "elevation_ft": 157,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Biddeford"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Biddeford_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 43.46189880371094,
+          "longitude": -70.47720336914062,
+          "elevation_ft": 147,
+          "heading_true": 55.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 43.46649932861328,
+          "longitude": -70.4677963256836,
+          "elevation_ft": 155,
+          "heading_true": 235.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PORTLAND APP/DEP",
+      "mhz": 119.75
+    },
+    {
+      "type": "OTHER",
+      "description": "PORTLAND CLNC DEL",
+      "mhz": 126.05
+    },
+    {
+      "type": "OTHER",
+      "description": "BANGOR RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19347,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

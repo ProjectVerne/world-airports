@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Twin City Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.088402,
+    "longitude": -78.864899,
+    "elevation_ft": 99,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Loris"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 3694,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 34.08700180053711,
+          "longitude": -78.87079620361328,
+          "elevation_ft": 99,
+          "heading_true": 73.6,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 34.08980178833008,
+          "longitude": -78.85910034179688,
+          "elevation_ft": 99,
+          "heading_true": 253.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MYRTLE BEACH APP/DEP",
+      "mhz": 119.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18907,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

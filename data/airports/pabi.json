@@ -1,0 +1,156 @@
+{
+  "icao": "PABI",
+  "iata": "BIG",
+  "name": "Allen Army Airfield",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.9944992065,
+    "longitude": -145.722000122,
+    "elevation_ft": 1291,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Delta Junction Ft Greely"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Allen_Army_Airfield00000000000000",
+  "keywords": [
+    "Big Delta Army Airfield"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 63.98640060424805,
+          "longitude": -145.73500061035156,
+          "elevation_ft": 1291,
+          "heading_true": 30,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 64.00769805908203,
+          "longitude": -145.70700073242188,
+          "elevation_ft": 1225,
+          "heading_true": 210,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07/25",
+      "length_ft": 4057,
+      "width_ft": 88,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 63.99150085,
+          "longitude": -145.7330017,
+          "elevation_ft": 1272,
+          "heading_true": 92,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 63.99100113,
+          "longitude": -145.7039948,
+          "elevation_ft": 1262,
+          "heading_true": 272,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 6115,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 63.999698638916016,
+          "longitude": -145.73500061035156,
+          "elevation_ft": 1254,
+          "heading_true": 125,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 63.99020004272461,
+          "longitude": -145.70399475097656,
+          "elevation_ft": 1262,
+          "heading_true": 305,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.65
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 132.075
+    },
+    {
+      "type": "AWOS",
+      "description": "TWEB",
+      "mhz": 114.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 135.3
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "FAIRBANKS RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "GND",
+      "description": "FORT GREELY GND",
+      "mhz": 118.225
+    },
+    {
+      "type": "OTHER",
+      "description": "BASE OPS",
+      "mhz": 122.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 125.325
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

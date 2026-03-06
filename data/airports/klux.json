@@ -1,0 +1,69 @@
+{
+  "icao": "KLUX",
+  "iata": null,
+  "name": "Laurens County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.507099,
+    "longitude": -81.947197,
+    "elevation_ft": 697,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Laurens"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Laurens_County_Airport",
+  "keywords": [
+    "Formerly 34A"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 4051,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 34.50540161,
+          "longitude": -81.95339966,
+          "elevation_ft": 697,
+          "heading_true": 67.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 34.50870132,
+          "longitude": -81.94100189,
+          "elevation_ft": 693,
+          "heading_true": 247.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "GREER APP/DEP",
+      "mhz": 120.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

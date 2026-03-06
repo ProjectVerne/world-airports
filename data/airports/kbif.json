@@ -1,0 +1,89 @@
+{
+  "icao": "KBIF",
+  "iata": "BIF",
+  "name": "Biggs Army Air Field (Fort Bliss)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.84950066,
+    "longitude": -106.3799973,
+    "elevation_ft": 3946,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Bliss/El Paso"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Biggs_Army_Airfield",
+  "keywords": [
+    "Fort Bliss"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 13554,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 31.8361,
+          "longitude": -106.394997,
+          "elevation_ft": 3910,
+          "heading_true": 44,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 31.863001,
+          "longitude": -106.364998,
+          "elevation_ft": 3946,
+          "heading_true": 224,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "EL PASO APP",
+      "mhz": 119.15
+    },
+    {
+      "type": "OTHER",
+      "description": "EL PASO CLNC DEL",
+      "mhz": 125
+    },
+    {
+      "type": "DEP",
+      "description": "EL PASO DEP",
+      "mhz": 121.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.6
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 122.7
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 127.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Owen Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.18470001220703,
+    "longitude": -92.73760223388672,
+    "elevation_ft": 1600,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Seymour"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 2800,
+      "width_ft": 45,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 37.17720031738281,
+          "longitude": -92.73560333251953,
+          "elevation_ft": 0,
+          "heading_true": 12,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 37.18470001220703,
+          "longitude": -92.7334976196289,
+          "elevation_ft": 0,
+          "heading_true": 192,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 1725,
+      "width_ft": 25,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 37.18439865112305,
+          "longitude": -92.73419952392578,
+          "elevation_ft": 0,
+          "heading_true": 153.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 37.180198669433594,
+          "longitude": -92.73149871826172,
+          "elevation_ft": 0,
+          "heading_true": 333.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20012,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

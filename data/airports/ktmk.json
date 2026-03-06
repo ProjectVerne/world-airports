@@ -1,0 +1,84 @@
+{
+  "icao": "KTMK",
+  "iata": "OTK",
+  "name": "Tillamook Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.4182014465,
+    "longitude": -123.814002991,
+    "elevation_ft": 36,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Tillamook"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tillamook_Airport",
+  "keywords": [
+    "S47"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 2911,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 45.4151001,
+          "longitude": -123.8160019,
+          "elevation_ft": 25,
+          "heading_true": 30,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 45.42200089,
+          "longitude": -123.810997,
+          "elevation_ft": 32,
+          "heading_true": 210,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 45.42430115,
+          "longitude": -123.8190002,
+          "elevation_ft": 17,
+          "heading_true": 155,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 45.41180038,
+          "longitude": -123.810997,
+          "elevation_ft": 36,
+          "heading_true": 335,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "icao": "KRDK",
+  "iata": null,
+  "name": "Red Oak Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.010502,
+    "longitude": -95.259903,
+    "elevation_ft": 1045,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Red Oak"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Red_Oak_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5100,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 41.00699997,
+          "longitude": -95.26670074,
+          "elevation_ft": 1042,
+          "heading_true": 57.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 41.01300049,
+          "longitude": -95.25409698,
+          "elevation_ft": 1043,
+          "heading_true": 237.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 2050,
+      "width_ft": 210,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 41.01390075683594,
+          "longitude": -95.2593994140625,
+          "elevation_ft": 1042,
+          "heading_true": 142,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 41.009498596191406,
+          "longitude": -95.25469970703125,
+          "elevation_ft": 1039,
+          "heading_true": 322,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 2901,
+      "width_ft": 60,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 41.01430130004883,
+          "longitude": -95.2605972290039,
+          "elevation_ft": 1044,
+          "heading_true": 174.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 41.00640106201172,
+          "longitude": -95.2594985961914,
+          "elevation_ft": 1038,
+          "heading_true": 354.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "OMAHA APP/DEP",
+      "mhz": 124.5
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.775
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

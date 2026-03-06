@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Carl Folsom Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.41,
+    "longitude": -86.090302,
+    "elevation_ft": 258,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Elba"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Carl_Folsom_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3050,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 31.4060001373291,
+          "longitude": -86.09159851074219,
+          "elevation_ft": 254,
+          "heading_true": 15,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 31.414100646972656,
+          "longitude": -86.08899688720703,
+          "elevation_ft": 251,
+          "heading_true": 292.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 1900,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 31.41080093383789,
+          "longitude": -86.0905990600586,
+          "elevation_ft": 0,
+          "heading_true": 87,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 31.411100387573242,
+          "longitude": -86.08439636230469,
+          "elevation_ft": 0,
+          "heading_true": 267,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18420,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

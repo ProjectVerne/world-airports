@@ -1,0 +1,141 @@
+{
+  "icao": "KWAL",
+  "iata": "WAL",
+  "name": "Wallops Flight Facility Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.940813,
+    "longitude": -75.462255,
+    "elevation_ft": 40,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Wallops Island"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wallops_Flight_Facility",
+  "keywords": [
+    "Naval Auxiliary Air Station Chincoteague"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 8748,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 37.92710114,
+          "longitude": -75.47090149,
+          "elevation_ft": 34,
+          "heading_true": 33,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 37.94739914,
+          "longitude": -75.45480347,
+          "elevation_ft": 34,
+          "heading_true": 213,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 8005,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 37.942901611328125,
+          "longitude": -75.48509979248047,
+          "elevation_ft": 20,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 37.94279861450195,
+          "longitude": -75.4572982788086,
+          "elevation_ft": 35,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 4808,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 37.947200775146484,
+          "longitude": -75.46790313720703,
+          "elevation_ft": 31,
+          "heading_true": 157,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 37.935001373291016,
+          "longitude": -75.46160125732422,
+          "elevation_ft": 35,
+          "heading_true": 337,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PATUXENT APP/DEP",
+      "mhz": 127.95
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.175
+    },
+    {
+      "type": "OTHER",
+      "description": "PATUXENT CLNC DEL",
+      "mhz": 121.7
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126.5
+    },
+    {
+      "type": "OTHER",
+      "description": "INFO SVC",
+      "mhz": 126.5
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 126.5
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

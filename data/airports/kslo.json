@@ -1,0 +1,72 @@
+{
+  "icao": "KSLO",
+  "iata": "SLO",
+  "name": "Salem–Leckrone Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.642899,
+    "longitude": -88.964203,
+    "elevation_ft": 573,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Salem"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Salem%E2%80%93Leckrone_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4098,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 38.64849853515625,
+          "longitude": -88.96410369873047,
+          "elevation_ft": 573,
+          "heading_true": 180.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 38.63719940185547,
+          "longitude": -88.96420288085938,
+          "elevation_ft": 563,
+          "heading_true": 0.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.525
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 127.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

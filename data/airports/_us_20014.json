@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Stratford Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.34560012817383,
+    "longitude": -102.04900360107422,
+    "elevation_ft": 3668,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Stratford"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3023,
+      "width_ft": 32,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 36.34320068359375,
+          "longitude": -102.0530014038086,
+          "elevation_ft": 3668,
+          "heading_true": 53.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 36.34809875488281,
+          "longitude": -102.04499816894531,
+          "elevation_ft": 3652,
+          "heading_true": 233.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 1300,
+      "width_ft": 50,
+      "surface": "grass",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 36.35100173950195,
+          "longitude": -102.0459976196289,
+          "elevation_ft": 3652,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 36.3474006652832,
+          "longitude": -102.0459976196289,
+          "elevation_ft": 3656,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH RDO",
+      "mhz": 122.2
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20014,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

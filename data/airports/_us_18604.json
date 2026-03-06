@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "G V Montgomery Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.354867,
+    "longitude": -89.48824,
+    "elevation_ft": 517,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Forest"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/G._V._Montgomery_Airport",
+  "keywords": [
+    "Forest Municipal"
+  ],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 3600,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 32.358299255371094,
+          "longitude": -89.49040222167969,
+          "elevation_ft": 0,
+          "heading_true": 162,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 32.348899841308594,
+          "longitude": -89.48680114746094,
+          "elevation_ft": 0,
+          "heading_true": 275.5,
+          "displaced_threshold_ft": 300
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18604,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

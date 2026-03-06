@@ -1,0 +1,120 @@
+{
+  "icao": "KWDG",
+  "iata": "WDG",
+  "name": "Enid Woodring Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.3791999817,
+    "longitude": -97.7910995483,
+    "elevation_ft": 1167,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Enid"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Enid_Woodring_Regional_Airport",
+  "keywords": [
+    "Woodring Airport"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 3150,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 36.38159943,
+          "longitude": -97.78869629,
+          "elevation_ft": 1158,
+          "heading_true": 135,
+          "displaced_threshold_ft": 112
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 36.37530136,
+          "longitude": -97.78109741,
+          "elevation_ft": 1158,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 8613,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 36.3871994,
+          "longitude": -97.79109955,
+          "elevation_ft": 1166,
+          "heading_true": 180,
+          "displaced_threshold_ft": 89
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 36.36970139,
+          "longitude": -97.79109955,
+          "elevation_ft": 1145,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "VANCE APP/DEP",
+      "mhz": 119.775
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120.625
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.9
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.925
+    },
+    {
+      "type": "OTHER",
+      "description": "MC ALESTER RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "TWR",
+      "description": "WOODRING TWR",
+      "mhz": 118.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

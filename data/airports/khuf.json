@@ -1,0 +1,159 @@
+{
+  "icao": "KHUF",
+  "iata": "HUF",
+  "name": "Terre Haute Regional Airport, Hulman Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.4515,
+    "longitude": -87.307602,
+    "elevation_ft": 589,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Terre Haute"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Terre_Haute_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 9021,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 39.44049835,
+          "longitude": -87.32319641,
+          "elevation_ft": 572,
+          "heading_true": 47,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 39.45729828,
+          "longitude": -87.29969788,
+          "elevation_ft": 583,
+          "heading_true": 227,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 7200,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 39.45970153808594,
+          "longitude": -87.3104019165039,
+          "elevation_ft": 568,
+          "heading_true": 134.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 39.44580078125,
+          "longitude": -87.29239654541016,
+          "elevation_ft": 589,
+          "heading_true": 314.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4001,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.4604,
+          "longitude": -87.309898,
+          "elevation_ft": 569,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.449402,
+          "longitude": -87.309898,
+          "elevation_ft": 574,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HULMAN A/D SECONDARY",
+      "mhz": 119.8
+    },
+    {
+      "type": "OTHER",
+      "description": "HULMAN A/D",
+      "mhz": 125.45
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 127.5
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 127.5
+    },
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS CENTER",
+      "mhz": 132.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.6
+    },
+    {
+      "type": "OTHER",
+      "description": "RACER OPS",
+      "mhz": 143.55
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 134.725
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

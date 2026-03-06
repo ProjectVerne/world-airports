@@ -1,0 +1,127 @@
+{
+  "icao": "KCDW",
+  "iata": "CDW",
+  "name": "Essex County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.875198364300005,
+    "longitude": -74.2814025879,
+    "elevation_ft": 173,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Caldwell"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Essex_County_Airport",
+  "keywords": [
+    "Manhattan",
+    "New York City",
+    "NYC"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4552,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 40.86780167,
+          "longitude": -74.28630066,
+          "elevation_ft": 173,
+          "heading_true": 30.1,
+          "displaced_threshold_ft": 371
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 40.87860107,
+          "longitude": -74.27819824,
+          "elevation_ft": 173,
+          "heading_true": 210.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 3719,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 40.8771019,
+          "longitude": -74.28690338,
+          "elevation_ft": 170,
+          "heading_true": 83,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 40.87829971,
+          "longitude": -74.27349854,
+          "elevation_ft": 173,
+          "heading_true": 263,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "NEW YORK APP",
+      "mhz": 127.6
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 135.5
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.1
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.8
+    },
+    {
+      "type": "DEP",
+      "description": "NEW YORK DEP",
+      "mhz": 119.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.8
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

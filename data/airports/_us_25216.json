@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": "DBS",
+  "name": "Dubois Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.162057,
+    "longitude": -112.220581,
+    "elevation_ft": 5123,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Dubois"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Dubois_Municipal_Airport_(Idaho)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 4600,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 44.16859817504883,
+          "longitude": -112.22200012207031,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 44.15610122680664,
+          "longitude": -112.21900177001953,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 25216,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

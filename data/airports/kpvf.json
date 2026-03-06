@@ -1,0 +1,72 @@
+{
+  "icao": "KPVF",
+  "iata": "PVF",
+  "name": "Placerville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.724201202393,
+    "longitude": -120.75299835205,
+    "elevation_ft": 2585,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Placerville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Placerville_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3914,
+      "width_ft": 76,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 38.72159958,
+          "longitude": -120.7600021,
+          "elevation_ft": 2577,
+          "heading_true": 62.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 38.72679901,
+          "longitude": -120.7470016,
+          "elevation_ft": 2579,
+          "heading_true": 242.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORCAL APP/DEP",
+      "mhz": 127.4
+    },
+    {
+      "type": "OTHER",
+      "description": "RANCHO RDO",
+      "mhz": 115.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

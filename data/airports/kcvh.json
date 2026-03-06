@@ -1,0 +1,84 @@
+{
+  "icao": "KCVH",
+  "iata": "HLI",
+  "name": "Hollister Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.8932991028,
+    "longitude": -121.410003662,
+    "elevation_ft": 230,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Hollister"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hollister_Municipal_Airport",
+  "keywords": [
+    "3O7"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3149,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 36.88970184,
+          "longitude": -121.413002,
+          "elevation_ft": 224,
+          "heading_true": 72,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 36.89239883,
+          "longitude": -121.4029999,
+          "elevation_ft": 222,
+          "heading_true": 252,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 6350,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 36.90129852294922,
+          "longitude": -121.41799926757812,
+          "elevation_ft": 202,
+          "heading_true": 142,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 36.88759994506836,
+          "longitude": -121.40499877929688,
+          "elevation_ft": 230,
+          "heading_true": 322,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

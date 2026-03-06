@@ -1,0 +1,117 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Capitol Drive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.090222,
+    "longitude": -88.17816,
+    "elevation_ft": 850,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Brookfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Capitol_Airport",
+  "keywords": [
+    "Capitol Drive Airport"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2994,
+      "width_ft": 45,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 43.08459854,
+          "longitude": -88.18000031,
+          "elevation_ft": 840,
+          "heading_true": 19,
+          "displaced_threshold_ft": 500
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 43.09370041,
+          "longitude": -88.17569733,
+          "elevation_ft": 830,
+          "heading_true": 233,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 3387,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 43.09080124,
+          "longitude": -88.17980194,
+          "elevation_ft": 830,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 43.09080124,
+          "longitude": -88.17510223,
+          "elevation_ft": 830,
+          "heading_true": 310,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 1602,
+      "width_ft": 80,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 43.08990097,
+          "longitude": -88.18060303,
+          "elevation_ft": 0,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 43.08679962,
+          "longitude": -88.18060303,
+          "elevation_ft": 0,
+          "heading_true": 336,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18311,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

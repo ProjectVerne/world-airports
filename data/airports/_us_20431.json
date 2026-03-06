@@ -1,0 +1,75 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Monroe County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.873699,
+    "longitude": -88.4897,
+    "elevation_ft": 226,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Aberdeen"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Monroe_County_Airport_(Mississippi)",
+  "keywords": [
+    "Amory"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4999,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 33.88059998,
+          "longitude": -88.48880005,
+          "elevation_ft": 225,
+          "heading_true": 186.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 33.8669014,
+          "longitude": -88.49060059,
+          "elevation_ft": 223,
+          "heading_true": 6.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS APP/DEP",
+      "mhz": 120.4
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.475
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20431,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

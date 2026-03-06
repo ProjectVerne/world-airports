@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Byron Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.82647,
+    "longitude": -121.621699,
+    "elevation_ft": 79,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Byron"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Byron_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 37.82229995727539,
+          "longitude": -121.62999725341797,
+          "elevation_ft": 79,
+          "heading_true": 63.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 37.82600021362305,
+          "longitude": -121.62100219726562,
+          "elevation_ft": 49,
+          "heading_true": 243.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 4500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 37.83570098876953,
+          "longitude": -121.63200378417969,
+          "elevation_ft": 64,
+          "heading_true": 135.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 37.826900482177734,
+          "longitude": -121.62100219726562,
+          "elevation_ft": 48,
+          "heading_true": 315.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORCAL APP/DEP",
+      "mhz": 123.85
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 123.775
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19456,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

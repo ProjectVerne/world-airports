@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Sunrise Skypark Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.41780090332031,
+    "longitude": -116.70600128173828,
+    "elevation_ft": 2240,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Marsing"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 2892,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 43.42070007324219,
+          "longitude": -116.70999908447266,
+          "elevation_ft": 0,
+          "heading_true": 137,
+          "displaced_threshold_ft": 500
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 43.41490173339844,
+          "longitude": -116.7030029296875,
+          "elevation_ft": 0,
+          "heading_true": 317,
+          "displaced_threshold_ft": 500
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17817,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

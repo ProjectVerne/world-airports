@@ -1,0 +1,92 @@
+{
+  "icao": "KISO",
+  "iata": "ISO",
+  "name": "Kinston Regional Jetport At Stallings Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.331401825,
+    "longitude": -77.60880279540001,
+    "elevation_ft": 93,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Kinston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Kinston_Regional_Jetport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 11498,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 35.31949997,
+          "longitude": -77.62149811,
+          "elevation_ft": 93,
+          "heading_true": 41.1,
+          "displaced_threshold_ft": 540
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 35.34329987,
+          "longitude": -77.59619904,
+          "elevation_ft": 87,
+          "heading_true": 221.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SEYMOUR JOHN APP/DEP",
+      "mhz": 127.3
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 132.75
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "RALEIGH RDO",
+      "mhz": 109.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.6
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

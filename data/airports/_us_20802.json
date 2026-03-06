@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": "CWX",
+  "name": "Cochise County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.245399,
+    "longitude": -109.894997,
+    "elevation_ft": 4187,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Willcox"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cochise_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 6100,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 32.2510986328125,
+          "longitude": -109.89900207519531,
+          "elevation_ft": 0,
+          "heading_true": 155.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 32.235801696777344,
+          "longitude": -109.89099884033203,
+          "elevation_ft": 0,
+          "heading_true": 335.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "3/21",
+      "length_ft": 6095,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "3",
+          "latitude": 32.239498,
+          "longitude": -109.902,
+          "elevation_ft": 4182,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 32.251301,
+          "longitude": -109.888,
+          "elevation_ft": 4185,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE CNTR",
+      "mhz": 134.45
+    },
+    {
+      "type": "OTHER",
+      "description": "PRESCOTT RDO",
+      "mhz": 115.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20802,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

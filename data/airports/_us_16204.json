@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Kershaw Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.35850143432617,
+    "longitude": -86.125,
+    "elevation_ft": 225,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Montgomery"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4600,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 32.35860061645508,
+          "longitude": -86.13249969482422,
+          "elevation_ft": 0,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 32.35860061645508,
+          "longitude": -86.11750030517578,
+          "elevation_ft": 0,
+          "heading_true": 215,
+          "displaced_threshold_ft": 500
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MULTICOM",
+      "mhz": 122.85
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 16204,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

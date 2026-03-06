@@ -1,0 +1,125 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "North Palm Beach County General Aviation Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.8444,
+    "longitude": -80.221298,
+    "elevation_ft": 22,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "West Palm Beach"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Palm_Beach_County_General_Aviation_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08L/26R",
+      "length_ft": 3700,
+      "width_ft": 75,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08L",
+          "latitude": 26.84950065612793,
+          "longitude": -80.2251968383789,
+          "elevation_ft": 23,
+          "heading_true": 82,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26R",
+          "latitude": 26.85099983215332,
+          "longitude": -80.21389770507812,
+          "elevation_ft": 23,
+          "heading_true": 262,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08R/26L",
+      "length_ft": 4300,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08R",
+          "latitude": 26.842500686645508,
+          "longitude": -80.22689819335938,
+          "elevation_ft": 21,
+          "heading_true": 85,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26L",
+          "latitude": 26.8435001373291,
+          "longitude": -80.21369934082031,
+          "elevation_ft": 21,
+          "heading_true": 265,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 4300,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 26.849899291992188,
+          "longitude": -80.22699737548828,
+          "elevation_ft": 21,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 26.84149932861328,
+          "longitude": -80.21769714355469,
+          "elevation_ft": 21,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PALM BEACH APP/DEP",
+      "mhz": 124.6
+    },
+    {
+      "type": "OTHER",
+      "description": "PALM BEACH CLNC DEL",
+      "mhz": 120.825
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.075
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19818,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

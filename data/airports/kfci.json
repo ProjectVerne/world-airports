@@ -1,0 +1,87 @@
+{
+  "icao": "KFCI",
+  "iata": null,
+  "name": "Richmond Executive-Chesterfield County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.406502,
+    "longitude": -77.525002,
+    "elevation_ft": 236,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "North Chesterfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chesterfield_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 5500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 37.41230010986328,
+          "longitude": -77.53079986572266,
+          "elevation_ft": 237,
+          "heading_true": 141,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 37.40060043334961,
+          "longitude": -77.5188980102539,
+          "elevation_ft": 199,
+          "heading_true": 321,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "POTOMAC APP",
+      "mhz": 134.7
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 128.625
+    },
+    {
+      "type": "OTHER",
+      "description": "POTOMAC CLNC DEL",
+      "mhz": 124.6
+    },
+    {
+      "type": "DEP",
+      "description": "POTOMAC DEP",
+      "mhz": 134.7
+    },
+    {
+      "type": "OTHER",
+      "description": "LEESBURG RDO",
+      "mhz": 113.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

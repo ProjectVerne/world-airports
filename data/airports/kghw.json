@@ -1,0 +1,93 @@
+{
+  "icao": "KGHW",
+  "iata": null,
+  "name": "Glenwood Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.64390182495117,
+    "longitude": -95.32039642333984,
+    "elevation_ft": 1393,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Glenwood"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2778,
+      "width_ft": 196,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 45.64440155,
+          "longitude": -95.32530212,
+          "elevation_ft": 1380,
+          "heading_true": 58,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 45.64860153,
+          "longitude": -95.31610107,
+          "elevation_ft": 1393,
+          "heading_true": 238,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 4500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 45.648101806640625,
+          "longitude": -95.3228988647461,
+          "elevation_ft": 1390,
+          "heading_true": 161,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 45.63639831542969,
+          "longitude": -95.31759643554688,
+          "elevation_ft": 1393,
+          "heading_true": 341,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 126.1
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

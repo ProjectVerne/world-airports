@@ -1,0 +1,105 @@
+{
+  "icao": "KGAD",
+  "iata": "GAD",
+  "name": "Northeast Alabama Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.972599,
+    "longitude": -86.088996,
+    "elevation_ft": 569,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Gadsden"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Northeast_Alabama_Regional_Airport",
+  "keywords": [
+    "Gadsden Municipal"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 6802,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 33.96580123901367,
+          "longitude": -86.1010971069336,
+          "elevation_ft": 569,
+          "heading_true": 61,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 33.974998474121094,
+          "longitude": -86.08149719238281,
+          "elevation_ft": 549,
+          "heading_true": 241,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4806,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 33.982399,
+          "longitude": -86.085899,
+          "elevation_ft": 542,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 33.9692,
+          "longitude": -86.085999,
+          "elevation_ft": 552,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BIRMINGHAM APP/DEP",
+      "mhz": 120.05
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 127.825
+    },
+    {
+      "type": "OTHER",
+      "description": "ANNISTON RDO",
+      "mhz": 112.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

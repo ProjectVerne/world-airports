@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Memphis Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.4473,
+    "longitude": -92.226997,
+    "elevation_ft": 813,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Memphis"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "MO16"
+  ],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 3300,
+      "width_ft": 60,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 40.44960021972656,
+          "longitude": -92.23200225830078,
+          "elevation_ft": 0,
+          "heading_true": 122,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 40.444801330566406,
+          "longitude": -92.2219009399414,
+          "elevation_ft": 0,
+          "heading_true": 318.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18314,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

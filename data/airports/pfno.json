@@ -1,0 +1,56 @@
+{
+  "icao": "PFNO",
+  "iata": "ORV",
+  "name": "Robert (Bob) Curtis Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.817902,
+    "longitude": -161.018997,
+    "elevation_ft": 55,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Noorvik"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Robert_(Bob)_Curtis_Memorial_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 4000,
+      "width_ft": 100,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 66.81610107421875,
+          "longitude": -161.03599548339844,
+          "elevation_ft": 43,
+          "heading_true": 75,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 66.81890106201172,
+          "longitude": -161.00900268554688,
+          "elevation_ft": 53,
+          "heading_true": 255,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

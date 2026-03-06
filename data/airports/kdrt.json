@@ -1,0 +1,87 @@
+{
+  "icao": "KDRT",
+  "iata": "DRT",
+  "name": "Del Rio International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.3742008209,
+    "longitude": -100.927001953,
+    "elevation_ft": 1002,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Del Rio"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Del_Rio_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 6300,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 29.38089942932129,
+          "longitude": -100.93299865722656,
+          "elevation_ft": 1002,
+          "heading_true": 140.2,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 29.36750030517578,
+          "longitude": -100.9209976196289,
+          "elevation_ft": 995,
+          "heading_true": 320.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 119.6
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.525
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.5
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 119.6
+    },
+    {
+      "type": "OTHER",
+      "description": "SAN ANGELO RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

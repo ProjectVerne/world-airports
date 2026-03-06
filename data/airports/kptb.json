@@ -1,0 +1,103 @@
+{
+  "icao": "KPTB",
+  "iata": "PTB",
+  "name": "Dinwiddie County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.183799743652,
+    "longitude": -77.507400512695,
+    "elevation_ft": 193,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Petersburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 37.1792984,
+          "longitude": -77.51200104,
+          "elevation_ft": 193,
+          "heading_true": 42.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 37.18930054,
+          "longitude": -77.50029755,
+          "elevation_ft": 190,
+          "heading_true": 222.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3061,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 37.185699462890625,
+          "longitude": -77.51319885253906,
+          "elevation_ft": 186,
+          "heading_true": 133.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 37.18000030517578,
+          "longitude": -77.50550079345703,
+          "elevation_ft": 186,
+          "heading_true": 313.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "POTOMAC APP",
+      "mhz": 134.7
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 133.325
+    },
+    {
+      "type": "DEP",
+      "description": "POTOMAC DEP",
+      "mhz": 134.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

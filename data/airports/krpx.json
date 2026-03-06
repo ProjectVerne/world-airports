@@ -1,0 +1,88 @@
+{
+  "icao": "KRPX",
+  "iata": "RPX",
+  "name": "Roundup Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.475095,
+    "longitude": -108.541497,
+    "elevation_ft": 3500,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Roundup"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Roundup_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 5098,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 46.473598,
+          "longitude": -108.551003,
+          "elevation_ft": 3490,
+          "heading_true": 78,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 46.476601,
+          "longitude": -108.531998,
+          "elevation_ft": 3431,
+          "heading_true": 258,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 2460,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 46.4781,
+          "longitude": -108.547997,
+          "elevation_ft": 3463,
+          "heading_true": 168,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 46.4715,
+          "longitude": -108.545998,
+          "elevation_ft": 3481,
+          "heading_true": 348,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Hartwood Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.4846,
+    "longitude": -77.612801,
+    "elevation_ft": 390,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Fredericksburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hartwood_Airport",
+  "keywords": [
+    "Formerly 8W8"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 15237,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

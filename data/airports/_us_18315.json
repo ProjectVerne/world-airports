@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Frank Sikes Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.7363,
+    "longitude": -86.262497,
+    "elevation_ft": 300,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Luverne"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Frank_Sikes_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4649,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 31.73139954,
+          "longitude": -86.26730347,
+          "elevation_ft": 0,
+          "heading_true": 40,
+          "displaced_threshold_ft": 740
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 31.74119949,
+          "longitude": -86.25769806,
+          "elevation_ft": 0,
+          "heading_true": 220.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18315,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

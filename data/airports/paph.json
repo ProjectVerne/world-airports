@@ -1,0 +1,103 @@
+{
+  "icao": "PAPH",
+  "iata": "PTH",
+  "name": "Port Heiden Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.957893,
+    "longitude": -158.630219,
+    "elevation_ft": 95,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Port Heiden"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Heiden_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 56.95690155029297,
+          "longitude": -158.63400268554688,
+          "elevation_ft": 90,
+          "heading_true": 70,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 56.96149826049805,
+          "longitude": -158.61099243164062,
+          "elevation_ft": 95,
+          "heading_true": 250,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 4000,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 56.963600158691406,
+          "longitude": -158.65199279785156,
+          "elevation_ft": 76,
+          "heading_true": 147,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 56.95439910888672,
+          "longitude": -158.64199829101562,
+          "elevation_ft": 83,
+          "heading_true": 327,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.4
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 132.9
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.8
+    },
+    {
+      "type": "FSS",
+      "description": "KENAI RDO",
+      "mhz": 122
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

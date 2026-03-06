@@ -1,0 +1,103 @@
+{
+  "icao": "KRUT",
+  "iata": "RUT",
+  "name": "Rutland - Southern Vermont Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.5294,
+    "longitude": -72.9496,
+    "elevation_ft": 787,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Rutland"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rutland_State_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5304,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 43.52489853,
+          "longitude": -72.94950104,
+          "elevation_ft": 782,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 43.53860092,
+          "longitude": -72.94999695,
+          "elevation_ft": 776,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 3169,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 43.52909851,
+          "longitude": -72.95469666,
+          "elevation_ft": 783,
+          "heading_true": 119,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 43.52489853,
+          "longitude": -72.94419861,
+          "elevation_ft": 783,
+          "heading_true": 299,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.375
+    },
+    {
+      "type": "OTHER",
+      "description": "BOSTON CNTR",
+      "mhz": 135.7
+    },
+    {
+      "type": "OTHER",
+      "description": "BURLINGTON RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

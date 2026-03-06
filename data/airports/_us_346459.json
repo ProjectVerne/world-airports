@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Presbyterian Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.212069,
+    "longitude": -80.823728,
+    "elevation_ft": 820,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Charlotte"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Novant Health Medical Center"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3000,
+      "width_ft": 36,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 35.792701721191406,
+          "longitude": -78.43990325927734,
+          "elevation_ft": 270,
+          "heading_true": 8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 35.800899505615234,
+          "longitude": -78.43820190429688,
+          "elevation_ft": 313,
+          "heading_true": 213,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 346459,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

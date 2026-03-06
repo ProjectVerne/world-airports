@@ -1,0 +1,130 @@
+{
+  "icao": "KCRG",
+  "iata": "CRG",
+  "name": "Jacksonville Executive at Craig Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.3362998962,
+    "longitude": -81.51439666750001,
+    "elevation_ft": 41,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Jacksonville_Executive_at_Craig_Airport",
+  "keywords": [
+    "Craig Municipal Airport"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4004,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 30.328899383544922,
+          "longitude": -81.5188980102539,
+          "elevation_ft": 40,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 30.336700439453125,
+          "longitude": -81.51000213623047,
+          "elevation_ft": 40,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4008,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 30.34379959,
+          "longitude": -81.51889801,
+          "elevation_ft": 32,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 30.33600044,
+          "longitude": -81.51000214,
+          "elevation_ft": 40,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "JACKSONVILLE APP",
+      "mhz": 124.9
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.4
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.35
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 132.1
+    },
+    {
+      "type": "DEP",
+      "description": "JACKSONVILLE DEP",
+      "mhz": 118
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "GAINESVILLE RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 132.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

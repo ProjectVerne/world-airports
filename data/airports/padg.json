@@ -1,0 +1,60 @@
+{
+  "icao": "PADG",
+  "iata": "RDB",
+  "name": "Red Dog Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 68.032097,
+    "longitude": -162.899002,
+    "elevation_ft": 969,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Red Dog"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Red_Dog_Airport",
+  "keywords": [
+    "PARD",
+    "AED",
+    "39AK"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 6312,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 68.02559661865234,
+          "longitude": -162.91400146484375,
+          "elevation_ft": 967,
+          "heading_true": 42,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 68.0385971069336,
+          "longitude": -162.88400268554688,
+          "elevation_ft": 969,
+          "heading_true": 222,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

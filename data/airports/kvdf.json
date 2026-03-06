@@ -1,0 +1,101 @@
+{
+  "icao": "KVDF",
+  "iata": null,
+  "name": "Tampa Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.013999939,
+    "longitude": -82.3452987671,
+    "elevation_ft": 22,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Tampa"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tampa_Executive_Airport",
+  "keywords": [
+    "X16",
+    "Vandenberg Airport"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 28.012100219726562,
+          "longitude": -82.34770202636719,
+          "elevation_ft": 20,
+          "heading_true": 42,
+          "displaced_threshold_ft": 400
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 28.022300720214844,
+          "longitude": -82.33719635009766,
+          "elevation_ft": 21,
+          "heading_true": 222,
+          "displaced_threshold_ft": 800
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 3219,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 28.01350021,
+          "longitude": -82.34960175,
+          "elevation_ft": 19,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 28.00460052,
+          "longitude": -82.34960175,
+          "elevation_ft": 20,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TAMPA APP/DEP",
+      "mhz": 119.9
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 121.125
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

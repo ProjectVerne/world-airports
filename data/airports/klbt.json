@@ -1,0 +1,124 @@
+{
+  "icao": "KLBT",
+  "iata": "LBT",
+  "name": "Lumberton Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.610773,
+    "longitude": -79.05943,
+    "elevation_ft": 126,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Lumberton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lumberton_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 4974,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 34.60499954223633,
+          "longitude": -79.05609893798828,
+          "elevation_ft": 116,
+          "heading_true": 0.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 34.61859893798828,
+          "longitude": -79.05599975585938,
+          "elevation_ft": 116,
+          "heading_true": 180.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "05/23",
+      "length_ft": 5505,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 34.60430145,
+          "longitude": -79.06729889,
+          "elevation_ft": 124,
+          "heading_true": 45,
+          "displaced_threshold_ft": 170
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 34.61489868,
+          "longitude": -79.05439758,
+          "elevation_ft": 123,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5007,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 34.61399841,
+          "longitude": -79.06490326,
+          "elevation_ft": 122,
+          "heading_true": 124.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 34.60609818,
+          "longitude": -79.05130005,
+          "elevation_ft": 126,
+          "heading_true": 304.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FAYETTEVILLE APP/DEP",
+      "mhz": 133
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 134.775
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "icao": "KGRF",
+  "iata": "GRF",
+  "name": "Gray Army Air Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.07920074,
+    "longitude": -122.5810013,
+    "elevation_ft": 300,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Fort Lewis/Tacoma"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gray_Army_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 6124,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 47.08739853,
+          "longitude": -122.5839996,
+          "elevation_ft": 290,
+          "heading_true": 167,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 47.07099915,
+          "longitude": -122.5780029,
+          "elevation_ft": 301,
+          "heading_true": 347,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SEATTLE APP/DEP",
+      "mhz": 120.1
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.65
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.325
+    },
+    {
+      "type": "GND",
+      "description": "GND/CLNC DEL",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "PMSV METRO",
+      "mhz": 134.1
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.325
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

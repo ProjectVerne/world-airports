@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "New Jerusalem Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.6791,
+    "longitude": -121.300003,
+    "elevation_ft": 62,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Tracy"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Jerusalem_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 3530,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 37.68149948120117,
+          "longitude": -121.30500030517578,
+          "elevation_ft": 56,
+          "heading_true": 137.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 37.67409896850586,
+          "longitude": -121.2969970703125,
+          "elevation_ft": 61,
+          "heading_true": 286,
+          "displaced_threshold_ft": 304
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18507,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

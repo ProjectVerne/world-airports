@@ -1,0 +1,98 @@
+{
+  "icao": "KDEW",
+  "iata": null,
+  "name": "Deer Park Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.966599,
+    "longitude": -117.427002,
+    "elevation_ft": 2211,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Deer Park"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Deer_Park_Airport_(Washington)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3200,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 47.962100982666016,
+          "longitude": -117.42900085449219,
+          "elevation_ft": 2188,
+          "heading_true": 61,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 47.966400146484375,
+          "longitude": -117.41799926757812,
+          "elevation_ft": 2183,
+          "heading_true": 241,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 6101,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 47.97689819,
+          "longitude": -117.4309998,
+          "elevation_ft": 2210,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 47.96020126,
+          "longitude": -117.4309998,
+          "elevation_ft": 2185,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SPOKANE APP/DEP",
+      "mhz": 123.75
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.175
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

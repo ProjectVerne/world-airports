@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Barwick Lafayette Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.688599,
+    "longitude": -85.290398,
+    "elevation_ft": 777,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Lafayette"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Barwick%E2%80%93LaFayette_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 4999,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 34.68159866,
+          "longitude": -85.29360199,
+          "elevation_ft": 769,
+          "heading_true": 20.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 34.69549942,
+          "longitude": -85.28730011,
+          "elevation_ft": 774,
+          "heading_true": 200.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHATTANOOGA APP/DEP",
+      "mhz": 125.1
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.775
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19177,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

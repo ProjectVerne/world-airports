@@ -1,0 +1,108 @@
+{
+  "icao": "KLGC",
+  "iata": "LGC",
+  "name": "LaGrange Callaway Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.008873,
+    "longitude": -85.074331,
+    "elevation_ft": 693,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "LaGrange"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/LaGrange_Callaway_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 33.00429916381836,
+          "longitude": -85.07679748535156,
+          "elevation_ft": 678,
+          "heading_true": 24,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 33.01679992675781,
+          "longitude": -85.07009887695312,
+          "elevation_ft": 684,
+          "heading_true": 204,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 6499,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 33.01190186,
+          "longitude": -85.07920074,
+          "elevation_ft": 680,
+          "heading_true": 127,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 33.00270081,
+          "longitude": -85.0644989,
+          "elevation_ft": 675,
+          "heading_true": 307,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 126.325
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.25
+    },
+    {
+      "type": "OTHER",
+      "description": "MACON RDO",
+      "mhz": 115.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.975
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

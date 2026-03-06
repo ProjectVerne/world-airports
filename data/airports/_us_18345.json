@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Hendersonville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.308258,
+    "longitude": -82.432948,
+    "elevation_ft": 2084,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Hendersonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3075,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 35.3109016418457,
+          "longitude": -82.4364013671875,
+          "elevation_ft": 0,
+          "heading_true": 143,
+          "displaced_threshold_ft": 270
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 35.304100036621094,
+          "longitude": -82.4301986694336,
+          "elevation_ft": 0,
+          "heading_true": 314,
+          "displaced_threshold_ft": 325
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18345,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

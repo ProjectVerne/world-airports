@@ -1,0 +1,66 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Wilder Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.433033,
+    "longitude": -97.558207,
+    "elevation_ft": 1729,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "De Smet"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "SD12",
+    "DeSmet"
+  ],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3700,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 44.43560028076172,
+          "longitude": -97.5635986328125,
+          "elevation_ft": 0,
+          "heading_true": 159.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 44.42610168457031,
+          "longitude": -97.55860137939453,
+          "elevation_ft": 1729,
+          "heading_true": 339.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18983,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

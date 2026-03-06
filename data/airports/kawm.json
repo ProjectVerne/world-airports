@@ -1,0 +1,82 @@
+{
+  "icao": "KAWM",
+  "iata": "AWM",
+  "name": "West Memphis Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.1351013184,
+    "longitude": -90.2343978882,
+    "elevation_ft": 212,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "West Memphis"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/West_Memphis_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 6003,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 35.1432991027832,
+          "longitude": -90.2343978881836,
+          "elevation_ft": 212,
+          "heading_true": 180.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 35.126800537109375,
+          "longitude": -90.2344970703125,
+          "elevation_ft": 212,
+          "heading_true": 0.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "MEMPHIS APP",
+      "mhz": 119.1
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.175
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CLNC DEL",
+      "mhz": 121.7
+    },
+    {
+      "type": "DEP",
+      "description": "MEMPHIS DEP",
+      "mhz": 124.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Meadowlark Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.16389846801758,
+    "longitude": -88.2052993774414,
+    "elevation_ft": 460,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Camden"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 1900,
+      "width_ft": 50,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 36.16130065917969,
+          "longitude": -88.20580291748047,
+          "elevation_ft": 0,
+          "heading_true": 10,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 36.166500091552734,
+          "longitude": -88.20469665527344,
+          "elevation_ft": 0,
+          "heading_true": 1,
+          "displaced_threshold_ft": 395
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 15978,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

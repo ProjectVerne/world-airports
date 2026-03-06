@@ -1,0 +1,82 @@
+{
+  "icao": "KFFT",
+  "iata": "FFT",
+  "name": "Capital City Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.181698,
+    "longitude": -84.906764,
+    "elevation_ft": 806,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Frankfort"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Capital_City_Airport_(Kentucky)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 5006,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 38.179501,
+          "longitude": -84.912498,
+          "elevation_ft": 803,
+          "heading_true": 64,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 38.185501,
+          "longitude": -84.896896,
+          "elevation_ft": 785,
+          "heading_true": 244,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "LEXINGTON APP/DEP",
+      "mhz": 120.75
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.275
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.1
+    },
+    {
+      "type": "OTHER",
+      "description": "LOUISVILLE RDO",
+      "mhz": 109.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

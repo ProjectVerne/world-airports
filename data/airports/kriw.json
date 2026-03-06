@@ -1,0 +1,98 @@
+{
+  "icao": "KRIW",
+  "iata": "RIW",
+  "name": "Central Wyoming Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.064201,
+    "longitude": -108.459999,
+    "elevation_ft": 5525,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Riverton"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Central_Wyoming_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 4800,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 43.05709839,
+          "longitude": -108.4660034,
+          "elevation_ft": 5459,
+          "heading_true": 24.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 43.06909943,
+          "longitude": -108.4580002,
+          "elevation_ft": 5475,
+          "heading_true": 204.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 8204,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 43.06959915,
+          "longitude": -108.4729996,
+          "elevation_ft": 5525,
+          "heading_true": 114.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 43.06029892,
+          "longitude": -108.4449997,
+          "elevation_ft": 5456,
+          "heading_true": 294.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 121.425
+    },
+    {
+      "type": "OTHER",
+      "description": "CASPER RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

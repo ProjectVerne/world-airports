@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Ksa Orchards Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.313904,
+    "longitude": -98.009261,
+    "elevation_ft": 1080,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Comanche"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Shelby"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3000,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 34.32160186767578,
+          "longitude": -98.01599884033203,
+          "elevation_ft": 0,
+          "heading_true": 174.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 34.31340026855469,
+          "longitude": -98.01509857177734,
+          "elevation_ft": 0,
+          "heading_true": 354.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23755,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

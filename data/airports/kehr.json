@@ -1,0 +1,72 @@
+{
+  "icao": "KEHR",
+  "iata": null,
+  "name": "Henderson City County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.8078,
+    "longitude": -87.685699,
+    "elevation_ft": 387,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Henderson"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Henderson_City-County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5503,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 37.80759811,
+          "longitude": -87.69519806,
+          "elevation_ft": 385,
+          "heading_true": 88,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 37.80810165,
+          "longitude": -87.67620087,
+          "elevation_ft": 386,
+          "heading_true": 268,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "EVANSVILLE APP/DEP",
+      "mhz": 126.4
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 128.175
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

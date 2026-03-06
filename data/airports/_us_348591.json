@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "ODF Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.409444,
+    "longitude": -118.965556,
+    "elevation_ft": 3680,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "John Day"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 348591,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

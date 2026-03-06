@@ -1,0 +1,124 @@
+{
+  "icao": "KMVI",
+  "iata": null,
+  "name": "Monte Vista Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.52730178833008,
+    "longitude": -106.0479965209961,
+    "elevation_ft": 7611,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Monte Vista"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5902,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 37.52019882,
+          "longitude": -106.0530014,
+          "elevation_ft": 7605,
+          "heading_true": 28.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 37.53440094,
+          "longitude": -106.0429993,
+          "elevation_ft": 7605,
+          "heading_true": 208.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 2100,
+      "width_ft": 50,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 37.53039932,
+          "longitude": -106.0469971,
+          "elevation_ft": 0,
+          "heading_true": 118,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 37.52809906,
+          "longitude": -106.0419998,
+          "elevation_ft": 0,
+          "heading_true": 298,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 2300,
+      "width_ft": 30,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 37.53469849,
+          "longitude": -106.0429993,
+          "elevation_ft": 0,
+          "heading_true": 172.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 37.52809906,
+          "longitude": -106.0419998,
+          "elevation_ft": 0,
+          "heading_true": 352.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 128.375
+    },
+    {
+      "type": "OTHER",
+      "description": "ALAMOSA RDO",
+      "mhz": 122.15
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

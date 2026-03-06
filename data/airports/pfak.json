@@ -1,0 +1,56 @@
+{
+  "icao": "PFAK",
+  "iata": "AKI",
+  "name": "Akiak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.902646,
+    "longitude": -161.23106,
+    "elevation_ft": 30,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Akiak"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Akiak_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 3200,
+      "width_ft": 76,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 60.89989853,
+          "longitude": -161.2369995,
+          "elevation_ft": 30,
+          "heading_true": 47,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 60.90589905,
+          "longitude": -161.223999,
+          "elevation_ft": 30,
+          "heading_true": 227,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

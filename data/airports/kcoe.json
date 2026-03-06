@@ -1,0 +1,110 @@
+{
+  "icao": "KCOE",
+  "iata": "COE",
+  "name": "Coeur D'Alene Airport - Pappy Boyington Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.7743,
+    "longitude": -116.82,
+    "elevation_ft": 2320,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Coeur d'Alene"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Coeur_d'Alene_Airport",
+  "keywords": [
+    "Coeur d'Alene Air Terminal"
+  ],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5400,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 47.7666015625,
+          "longitude": -116.82099914550781,
+          "elevation_ft": 2302,
+          "heading_true": 32,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 47.77909851074219,
+          "longitude": -116.80899810791016,
+          "elevation_ft": 2317,
+          "heading_true": 212,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06/24",
+      "length_ft": 7400,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 47.77190017700195,
+          "longitude": -116.83699798583984,
+          "elevation_ft": 2286,
+          "heading_true": 70,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 47.77880096435547,
+          "longitude": -116.80899810791016,
+          "elevation_ft": 2318,
+          "heading_true": 250,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SPOKANE APP/DEP",
+      "mhz": 132.1
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.075
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE CNTR",
+      "mhz": 123.95
+    },
+    {
+      "type": "OTHER",
+      "description": "BOISE RDO",
+      "mhz": 122.05
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

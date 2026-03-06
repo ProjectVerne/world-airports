@@ -1,0 +1,60 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Amigos Del Cielo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.902736,
+    "longitude": -109.024479,
+    "elevation_ft": 4107,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Rodeo"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "rodeo",
+    "amigos del cielo"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 6000,
+      "width_ft": 40,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 31.90990067,
+          "longitude": -109.0250015,
+          "elevation_ft": 0,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 31.89620018,
+          "longitude": -109.0250015,
+          "elevation_ft": 4107,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23308,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

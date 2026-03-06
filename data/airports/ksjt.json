@@ -1,0 +1,144 @@
+{
+  "icao": "KSJT",
+  "iata": "SJT",
+  "name": "San Angelo Regional Mathis Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.35770034790039,
+    "longitude": -100.49600219726562,
+    "elevation_ft": 1919,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "San Angelo"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Angelo_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5940,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 31.34970093,
+          "longitude": -100.5,
+          "elevation_ft": 1917,
+          "heading_true": 43.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 31.36160088,
+          "longitude": -100.4869995,
+          "elevation_ft": 1893,
+          "heading_true": 223.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 4406,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 31.36120033,
+          "longitude": -100.5019989,
+          "elevation_ft": 1903,
+          "heading_true": 97.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 31.35969925,
+          "longitude": -100.487999,
+          "elevation_ft": 1899,
+          "heading_true": 277.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 8054,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 31.36879921,
+          "longitude": -100.4980011,
+          "elevation_ft": 1899,
+          "heading_true": 187.3,
+          "displaced_threshold_ft": 889
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 31.34679985,
+          "longitude": -100.5009995,
+          "elevation_ft": 1919,
+          "heading_true": 7.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 125.35
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 128.45
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Kentmorr Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.918201,
+    "longitude": -76.358002,
+    "elevation_ft": 10,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Stevensville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Kentmorr_Airpark",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 2400,
+      "width_ft": 75,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 38.91809844970703,
+          "longitude": -76.36309814453125,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 38.91809844970703,
+          "longitude": -76.35459899902344,
+          "elevation_ft": 0,
+          "heading_true": 214.1,
+          "displaced_threshold_ft": 150
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10858,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

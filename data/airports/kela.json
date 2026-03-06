@@ -1,0 +1,67 @@
+{
+  "icao": "KELA",
+  "iata": "ELA",
+  "name": "Eagle Lake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.600599288900003,
+    "longitude": -96.3218994141,
+    "elevation_ft": 184,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Eagle Lake"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 4280,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 29.60580063,
+          "longitude": -96.32299805,
+          "elevation_ft": 184,
+          "heading_true": 171.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 29.59550095,
+          "longitude": -96.32119751,
+          "elevation_ft": 184,
+          "heading_true": 351.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 128.6
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

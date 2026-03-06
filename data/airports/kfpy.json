@@ -1,0 +1,32 @@
+{
+  "icao": "KFPY",
+  "iata": "FPY",
+  "name": "Perry-Foley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.0693,
+    "longitude": -83.580597,
+    "elevation_ft": 44,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Perry"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Perry-Foley_Airport",
+  "keywords": [
+    "40J",
+    "Perry Army Airfield"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

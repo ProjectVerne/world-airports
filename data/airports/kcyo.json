@@ -1,0 +1,72 @@
+{
+  "icao": "KCYO",
+  "iata": null,
+  "name": "Pickaway County Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.515999,
+    "longitude": -82.982101,
+    "elevation_ft": 684,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Circleville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pickaway_County_Memorial_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 4346,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 39.50999832,
+          "longitude": -82.98259735,
+          "elevation_ft": 664,
+          "heading_true": 3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 39.52199936,
+          "longitude": -82.98169708,
+          "elevation_ft": 684,
+          "heading_true": 183,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS APP/DEP",
+      "mhz": 132.3
+    },
+    {
+      "type": "OTHER",
+      "description": "DAYTON RDO",
+      "mhz": 112.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

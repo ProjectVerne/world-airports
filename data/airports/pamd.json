@@ -1,0 +1,82 @@
+{
+  "icao": "PAMD",
+  "iata": "MDO",
+  "name": "Middleton Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.4499015808,
+    "longitude": -146.307006836,
+    "elevation_ft": 100,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Middleton Island"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Middleton_Island_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 3158,
+      "width_ft": 115,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 59.44419861,
+          "longitude": -146.3130035,
+          "elevation_ft": 100,
+          "heading_true": 34,
+          "displaced_threshold_ft": 1020
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 59.45130157,
+          "longitude": -146.3029938,
+          "elevation_ft": 100,
+          "heading_true": 214,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 1500,
+      "width_ft": 125,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 59.456298828125,
+          "longitude": -146.3070068359375,
+          "elevation_ft": 99,
+          "heading_true": 149,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 59.452701568603516,
+          "longitude": -146.30299377441406,
+          "elevation_ft": 97,
+          "heading_true": 329,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

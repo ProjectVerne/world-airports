@@ -1,0 +1,56 @@
+{
+  "icao": "PAGB",
+  "iata": "GBH",
+  "name": "Galbraith Lake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 68.4796981812,
+    "longitude": -149.490005493,
+    "elevation_ft": 2663,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Galbraith Lake"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Galbraith_Lake_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5182,
+      "width_ft": 150,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 68.48590087890625,
+          "longitude": -149.49899291992188,
+          "elevation_ft": 2663,
+          "heading_true": 152,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 68.47339630126953,
+          "longitude": -149.4810028076172,
+          "elevation_ft": 2655,
+          "heading_true": 332,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

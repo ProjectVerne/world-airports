@@ -1,0 +1,131 @@
+{
+  "icao": "KHYI",
+  "iata": null,
+  "name": "San Marcos Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.8927,
+    "longitude": -97.862999,
+    "elevation_ft": 597,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "San Marcos"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Marcos_Regional_Airport",
+  "keywords": [
+    "San Marcos Municipal"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 6330,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 29.891799926757812,
+          "longitude": -97.8770980834961,
+          "elevation_ft": 588,
+          "heading_true": 87.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 29.892499923706055,
+          "longitude": -97.85710144042969,
+          "elevation_ft": 580,
+          "heading_true": 267.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5601,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 29.89699936,
+          "longitude": -97.87000275,
+          "elevation_ft": 593,
+          "heading_true": 132.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 29.88660049,
+          "longitude": -97.85710144,
+          "elevation_ft": 574,
+          "heading_true": 312.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5214,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 29.90169907,
+          "longitude": -97.85769653,
+          "elevation_ft": 594,
+          "heading_true": 177.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 29.88739967,
+          "longitude": -97.85710144,
+          "elevation_ft": 574,
+          "heading_true": 357.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "AUSTIN APP/DEP",
+      "mhz": 119
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120.825
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

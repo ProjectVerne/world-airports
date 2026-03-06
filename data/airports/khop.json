@@ -1,0 +1,121 @@
+{
+  "icao": "KHOP",
+  "iata": "HOP",
+  "name": "Campbell Army Airfield (Fort Campbell)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.674154,
+    "longitude": -87.48974,
+    "elevation_ft": 573,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Fort Campbell"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Campbell_Army_Airfield",
+  "keywords": [
+    "Campbell AFB",
+    "Hopkinsville"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 10926,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 36.66120148,
+          "longitude": -87.50509644,
+          "elevation_ft": 573,
+          "heading_true": 44.2,
+          "displaced_threshold_ft": 895
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 36.68450165,
+          "longitude": -87.47699738,
+          "elevation_ft": 573,
+          "heading_true": 224.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 36.67720032,
+          "longitude": -87.49639893,
+          "elevation_ft": 563,
+          "heading_true": 179.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 36.66479874,
+          "longitude": -87.49610138,
+          "elevation_ft": 557,
+          "heading_true": 359.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 118.1
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.175
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 138.8
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 118.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 130.65
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

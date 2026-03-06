@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Parkland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.07170104980469,
+    "longitude": -105.03399658203125,
+    "elevation_ft": 5050,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Erie"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 4200,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 40.07170104980469,
+          "longitude": -105.04100036621094,
+          "elevation_ft": 0,
+          "heading_true": 90.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 40.07160186767578,
+          "longitude": -105.0260009765625,
+          "elevation_ft": 5050,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MISC",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 14079,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Lake Ridge Aero Park Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.06010055541992,
+    "longitude": -78.7833023071289,
+    "elevation_ft": 309,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Durham"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3200,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 36.06330108642578,
+          "longitude": -78.78700256347656,
+          "elevation_ft": 0,
+          "heading_true": 136.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 36.05690002441406,
+          "longitude": -78.77960205078125,
+          "elevation_ft": 0,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 15070,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

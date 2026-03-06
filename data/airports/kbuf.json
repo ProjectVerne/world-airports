@@ -1,0 +1,113 @@
+{
+  "icao": "KBUF",
+  "iata": "BUF",
+  "name": "Buffalo Niagara International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.940498,
+    "longitude": -78.732201,
+    "elevation_ft": 728,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Buffalo"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Buffalo_Niagara_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 8829,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 42.93119812,
+          "longitude": -78.74169922,
+          "elevation_ft": 679,
+          "heading_true": 43.8,
+          "displaced_threshold_ft": 324
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 42.94720078,
+          "longitude": -78.72070313,
+          "elevation_ft": 721,
+          "heading_true": 223.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 7161,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.9468994140625,
+          "longitude": -78.74169921875,
+          "elevation_ft": 698,
+          "heading_true": 126.8,
+          "displaced_threshold_ft": 320
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.93519973754883,
+          "longitude": -78.72019958496094,
+          "elevation_ft": 709,
+          "heading_true": 306.8,
+          "displaced_threshold_ft": 720
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "Buffalo APP/DEP",
+      "mhz": 126.15
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 135.35
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 124.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 133.2
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.5
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

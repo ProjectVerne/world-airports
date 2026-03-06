@@ -1,0 +1,93 @@
+{
+  "icao": "KCTK",
+  "iata": null,
+  "name": "Ingersoll Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.5690994263,
+    "longitude": -90.074798584,
+    "elevation_ft": 684,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Canton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ingersoll_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3294,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.5707016,
+          "longitude": -90.08170319,
+          "elevation_ft": 684,
+          "heading_true": 89.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.5707016,
+          "longitude": -90.06990051,
+          "elevation_ft": 682,
+          "heading_true": 269.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 3899,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.57310104370117,
+          "longitude": -90.07389831542969,
+          "elevation_ft": 682,
+          "heading_true": 181.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.562400817871094,
+          "longitude": -90.07420349121094,
+          "elevation_ft": 671,
+          "heading_true": 1.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PEORIA APP/DEP",
+      "mhz": 124.675
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

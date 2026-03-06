@@ -1,0 +1,69 @@
+{
+  "icao": "KSIF",
+  "iata": null,
+  "name": "Rockingham County NC Shiloh Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.437199,
+    "longitude": -79.850998,
+    "elevation_ft": 694,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Stoneville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rockingham_County_NC_Shiloh_Airport",
+  "keywords": [
+    "78N"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5200,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 36.44129944,
+          "longitude": -79.85829926,
+          "elevation_ft": 692,
+          "heading_true": 124.6,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 36.43320084,
+          "longitude": -79.84369659,
+          "elevation_ft": 667,
+          "heading_true": 304.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS3",
+      "mhz": 119.775
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

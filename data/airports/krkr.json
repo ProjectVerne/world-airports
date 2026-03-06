@@ -1,0 +1,77 @@
+{
+  "icao": "KRKR",
+  "iata": "RKR",
+  "name": "Robert S Kerr Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.021599,
+    "longitude": -94.6213,
+    "elevation_ft": 451,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Poteau"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Robert_S._Kerr_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4007,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 35.02700043,
+          "longitude": -94.62010193,
+          "elevation_ft": 445,
+          "heading_true": 190,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 35.01620102,
+          "longitude": -94.62239838,
+          "elevation_ft": 448,
+          "heading_true": 10,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "RAZORBACK APP/DEP",
+      "mhz": 120.9
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120.625
+    },
+    {
+      "type": "OTHER",
+      "description": "MC ALESTER RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

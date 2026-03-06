@@ -1,0 +1,89 @@
+{
+  "icao": "KEMT",
+  "iata": "EMT",
+  "name": "San Gabriel Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.086102,
+    "longitude": -118.035004,
+    "elevation_ft": 296,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "El Monte"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Monte_Airport",
+  "keywords": [
+    "El Monte Airport"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3995,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 34.08100128173828,
+          "longitude": -118.03800201416016,
+          "elevation_ft": 283,
+          "heading_true": 25,
+          "displaced_threshold_ft": 290
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 34.090999603271484,
+          "longitude": -118.03199768066406,
+          "elevation_ft": 294,
+          "heading_true": 205,
+          "displaced_threshold_ft": 641
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOCAL APP/DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.75
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 121.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 125.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 121.2
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

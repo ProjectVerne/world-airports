@@ -1,0 +1,92 @@
+{
+  "icao": "KOJC",
+  "iata": "OJC",
+  "name": "Johnson County Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.84759903,
+    "longitude": -94.73760223,
+    "elevation_ft": 1096,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Olathe"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Johnson_County_Executive_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4097,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 38.85319901,
+          "longitude": -94.73760223,
+          "elevation_ft": 1096,
+          "heading_true": 180.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 38.84199905,
+          "longitude": -94.73760223,
+          "elevation_ft": 1050,
+          "heading_true": 0.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY APP/DEP",
+      "mhz": 118.9
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.35
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.6
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBIA RDO",
+      "mhz": 122.15
+    },
+    {
+      "type": "TWR",
+      "description": "EXECUTIVE TWR",
+      "mhz": 126
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

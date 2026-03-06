@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Sycamore Strip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.628501892089844,
+    "longitude": -97.35359954833984,
+    "elevation_ft": 760,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sycamore_Strip_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3375,
+      "width_ft": 30,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 32.63389969,
+          "longitude": -97.35359955,
+          "elevation_ft": 760,
+          "heading_true": 180,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 32.62279892,
+          "longitude": -97.35359955,
+          "elevation_ft": 760,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19188,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

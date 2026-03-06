@@ -1,0 +1,139 @@
+{
+  "icao": "KPMP",
+  "iata": "PPM",
+  "name": "Pompano Beach Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.247100830078,
+    "longitude": -80.111099243164,
+    "elevation_ft": 19,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Pompano Beach"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pompano_Beach_Airpark",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 4001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 26.243999481201172,
+          "longitude": -80.11650085449219,
+          "elevation_ft": 19,
+          "heading_true": 53,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 26.250600814819336,
+          "longitude": -80.10679626464844,
+          "elevation_ft": 14,
+          "heading_true": 233,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 3687,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 26.2458992,
+          "longitude": -80.11660004,
+          "elevation_ft": 18,
+          "heading_true": 98,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 26.24469948,
+          "longitude": -80.10600281,
+          "elevation_ft": 12,
+          "heading_true": 278,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 4918,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 26.2533,
+          "longitude": -80.114403,
+          "elevation_ft": 17,
+          "heading_true": 143,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 26.243601,
+          "longitude": -80.106201,
+          "elevation_ft": 13,
+          "heading_true": 323,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MIAMI APP/DEP",
+      "mhz": 119.7
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 120.55
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 125.4
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 125.4
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

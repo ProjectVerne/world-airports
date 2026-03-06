@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "University Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.840302,
+    "longitude": -84.479103,
+    "elevation_ft": 856,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Bath"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/University_Airpark",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 1994,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 42.84000015,
+          "longitude": -84.48320007,
+          "elevation_ft": 856,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 42.84059906,
+          "longitude": -84.47509766,
+          "elevation_ft": 856,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10953,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "icao": "KRGA",
+  "iata": null,
+  "name": "Central Kentucky Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.630798,
+    "longitude": -84.332298,
+    "elevation_ft": 1002,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Richmond"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Central_Kentucky_Regional_Airport",
+  "keywords": [
+    "I39",
+    "Madison"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

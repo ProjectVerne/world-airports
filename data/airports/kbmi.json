@@ -1,0 +1,149 @@
+{
+  "icao": "KBMI",
+  "iata": "BMI",
+  "name": "Central Illinois Regional Airport at Bloomington-Normal",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.4771,
+    "longitude": -88.915901,
+    "elevation_ft": 871,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Bloomington/Normal"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Central_Illinois_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 8000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 40.4640998840332,
+          "longitude": -88.91600036621094,
+          "elevation_ft": 857,
+          "heading_true": 17.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 40.484901428222656,
+          "longitude": -88.9072036743164,
+          "elevation_ft": 863,
+          "heading_true": 197.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "03/21",
+      "length_ft": 3723,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 40.47679901123047,
+          "longitude": -88.93250274658203,
+          "elevation_ft": 871,
+          "heading_true": 36.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 40.48500061035156,
+          "longitude": -88.92449951171875,
+          "elevation_ft": 871,
+          "heading_true": 216.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 6525,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 40.48310089111328,
+          "longitude": -88.93229675292969,
+          "elevation_ft": 871,
+          "heading_true": 107.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 40.47760009765625,
+          "longitude": -88.91000366210938,
+          "elevation_ft": 871,
+          "heading_true": 287.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PEORIA APP/DEP",
+      "mhz": 118.05
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.35
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 135.35
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.65
+    },
+    {
+      "type": "OTHER",
+      "description": "KANKAKEE RDO",
+      "mhz": 108.2
+    },
+    {
+      "type": "TWR",
+      "description": "BLOOMINGTON TWR",
+      "mhz": 124.6
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

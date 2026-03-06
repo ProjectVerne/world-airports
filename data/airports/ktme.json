@@ -1,0 +1,69 @@
+{
+  "icao": "KTME",
+  "iata": null,
+  "name": "Houston Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.807199,
+    "longitude": -95.897903,
+    "elevation_ft": 166,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Houston_Executive_Airport",
+  "keywords": [
+    "Formerly 78T"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 6610,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 29.81410026550293,
+          "longitude": -95.89800262451172,
+          "elevation_ft": 166,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 29.795900344848633,
+          "longitude": -95.89769744873047,
+          "elevation_ft": 163,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "",
+      "mhz": 119.525
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.975
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

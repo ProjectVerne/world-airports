@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Covey Trails Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.690000534057617,
+    "longitude": -95.8396987915039,
+    "elevation_ft": 130,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fulshear"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3352,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 29.694700241088867,
+          "longitude": -95.8406982421875,
+          "elevation_ft": 130,
+          "heading_true": 178,
+          "displaced_threshold_ft": 315
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 29.68549919128418,
+          "longitude": -95.84030151367188,
+          "elevation_ft": 130,
+          "heading_true": 358,
+          "displaced_threshold_ft": 250
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 26123,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

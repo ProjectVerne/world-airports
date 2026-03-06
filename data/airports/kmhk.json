@@ -1,0 +1,113 @@
+{
+  "icao": "KMHK",
+  "iata": "MHK",
+  "name": "Manhattan Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.14099884033203,
+    "longitude": -96.6707992553711,
+    "elevation_ft": 1057,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Manhattan"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Manhattan_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 7400,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 39.13240051,
+          "longitude": -96.6792984,
+          "elevation_ft": 1054,
+          "heading_true": 40,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 39.14709854,
+          "longitude": -96.66349792,
+          "elevation_ft": 1043,
+          "heading_true": 220,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 39.14730072,
+          "longitude": -96.67389679,
+          "elevation_ft": 1057,
+          "heading_true": 142,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 39.13899994,
+          "longitude": -96.66570282,
+          "elevation_ft": 1044,
+          "heading_true": 322,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 127.35
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.075
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.55
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.85
+    },
+    {
+      "type": "OTHER",
+      "description": "WICHITA RDO",
+      "mhz": 122.65
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.55
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

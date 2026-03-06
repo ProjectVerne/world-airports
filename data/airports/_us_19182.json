@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Harding County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.58060073852539,
+    "longitude": -103.52999877929688,
+    "elevation_ft": 2889,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Buffalo"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2250,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 45.5807991027832,
+          "longitude": -103.53500366210938,
+          "elevation_ft": 2874,
+          "heading_true": 95.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 45.580299377441406,
+          "longitude": -103.5260009765625,
+          "elevation_ft": 2865,
+          "heading_true": 275.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 3900,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 45.58420181274414,
+          "longitude": -103.53500366210938,
+          "elevation_ft": 2889,
+          "heading_true": 132.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 45.576900482177734,
+          "longitude": -103.52400207519531,
+          "elevation_ft": 2848,
+          "heading_true": 312.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "HURON RDO",
+      "mhz": 122.15
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19182,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

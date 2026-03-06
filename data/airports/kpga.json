@@ -1,0 +1,103 @@
+{
+  "icao": "KPGA",
+  "iata": "PGA",
+  "name": "Page Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.924234,
+    "longitude": -111.447716,
+    "elevation_ft": 4316,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Page"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Page_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 2201,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 36.92919922,
+          "longitude": -111.4540024,
+          "elevation_ft": 4242,
+          "heading_true": 81.9,
+          "displaced_threshold_ft": 588
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 36.93000031,
+          "longitude": -111.4459991,
+          "elevation_ft": 4247,
+          "heading_true": 261.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 5950,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 36.93280029296875,
+          "longitude": -111.44999694824219,
+          "elevation_ft": 4245,
+          "heading_true": 170.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 36.91669845581055,
+          "longitude": -111.44599914550781,
+          "elevation_ft": 4316,
+          "heading_true": 350.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 120.625
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 127.55
+    },
+    {
+      "type": "OTHER",
+      "description": "PRESCOTT RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

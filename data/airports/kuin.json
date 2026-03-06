@@ -1,0 +1,129 @@
+{
+  "icao": "KUIN",
+  "iata": "UIN",
+  "name": "Quincy Regional Airport Baldwin Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.942699,
+    "longitude": -91.194603,
+    "elevation_ft": 768,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Quincy"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Quincy_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 7098,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 39.936100006103516,
+          "longitude": -91.19960021972656,
+          "elevation_ft": 756,
+          "heading_true": 40.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 39.95100021362305,
+          "longitude": -91.18319702148438,
+          "elevation_ft": 747,
+          "heading_true": 220.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5397,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 39.94580078,
+          "longitude": -91.20050049,
+          "elevation_ft": 765,
+          "heading_true": 135.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 39.93579865,
+          "longitude": -91.18769836,
+          "elevation_ft": 768,
+          "heading_true": 315.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5399,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.950801849365234,
+          "longitude": -91.19930267333984,
+          "elevation_ft": 759,
+          "heading_true": 179.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.93600082397461,
+          "longitude": -91.1990966796875,
+          "elevation_ft": 756,
+          "heading_true": 359.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.325
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 135.525
+    },
+    {
+      "type": "OTHER",
+      "description": "ST LOUIS RDO",
+      "mhz": 122.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Kent State University Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.151402,
+    "longitude": -81.4151,
+    "elevation_ft": 1134,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Kent"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Kent_State_University_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 4000,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 41.145999908447266,
+          "longitude": -81.41619873046875,
+          "elevation_ft": 1116,
+          "heading_true": 9,
+          "displaced_threshold_ft": 49
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 41.15679931640625,
+          "longitude": -81.41400146484375,
+          "elevation_ft": 1134,
+          "heading_true": 189,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "05/23",
+      "length_ft": 2400,
+      "width_ft": 165,
+      "surface": "grass",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 41.14929962158203,
+          "longitude": -81.4218978881836,
+          "elevation_ft": 1150,
+          "heading_true": 42,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 41.15420150756836,
+          "longitude": -81.41609954833984,
+          "elevation_ft": 1150,
+          "heading_true": 222,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 1170,
+      "width_ft": 55,
+      "surface": "grass",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.153099060058594,
+          "longitude": -81.41929626464844,
+          "elevation_ft": 1150,
+          "heading_true": 89.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.153099060058594,
+          "longitude": -81.41500091552734,
+          "elevation_ft": 1150,
+          "heading_true": 269.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "AKRON CANTON APP/DEP",
+      "mhz": 118.6
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18467,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

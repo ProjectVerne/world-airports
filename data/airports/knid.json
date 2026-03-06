@@ -1,0 +1,124 @@
+{
+  "icao": "KNID",
+  "iata": null,
+  "name": "China Lake Naws (Armitage Field) Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.6853981,
+    "longitude": -117.6920013,
+    "elevation_ft": 2283,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "China Lake"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Weapons_Station_China_Lake",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 10000,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 35.67559814,
+          "longitude": -117.7080002,
+          "elevation_ft": 2283,
+          "heading_true": 42.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 35.69599915,
+          "longitude": -117.685997,
+          "elevation_ft": 2200,
+          "heading_true": 222.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 11199,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 35.68330002,
+          "longitude": -117.7040024,
+          "elevation_ft": 2260,
+          "heading_true": 90.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 35.68299866,
+          "longitude": -117.6780014,
+          "elevation_ft": 2225,
+          "heading_true": 270.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 9014,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 35.69879913,
+          "longitude": -117.6930008,
+          "elevation_ft": 2202,
+          "heading_true": 154.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 35.67649841,
+          "longitude": -117.6800003,
+          "elevation_ft": 2240,
+          "heading_true": 334.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JOSHUA APP/DEP",
+      "mhz": 133.65
+    },
+    {
+      "type": "OTHER",
+      "description": "VFR ADVSY SVC",
+      "mhz": 133.65
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.15
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

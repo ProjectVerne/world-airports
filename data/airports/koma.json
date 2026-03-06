@@ -1,0 +1,149 @@
+{
+  "icao": "KOMA",
+  "iata": "OMA",
+  "name": "Eppley Airfield",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.3032,
+    "longitude": -95.894096,
+    "elevation_ft": 984,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Omaha"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eppley_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14L/32R",
+      "length_ft": 8500,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14L",
+          "latitude": 41.313499450683594,
+          "longitude": -95.90039825439453,
+          "elevation_ft": 982,
+          "heading_true": 144.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32R",
+          "latitude": 41.29460144042969,
+          "longitude": -95.88240051269531,
+          "elevation_ft": 981,
+          "heading_true": 324.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14R/32L",
+      "length_ft": 9502,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14R",
+          "latitude": 41.31380081176758,
+          "longitude": -95.90609741210938,
+          "elevation_ft": 983,
+          "heading_true": 144.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32L",
+          "latitude": 41.292598724365234,
+          "longitude": -95.88590240478516,
+          "elevation_ft": 980,
+          "heading_true": 324.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 8154,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 41.31340027,
+          "longitude": -95.89450073,
+          "elevation_ft": 981,
+          "heading_true": 180,
+          "displaced_threshold_ft": 140
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 41.29100037,
+          "longitude": -95.89459991,
+          "elevation_ft": 978,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "OMAHA APP/DEP",
+      "mhz": 135.875
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 120.4
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.9
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT DODGE RDO",
+      "mhz": 116.3
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS RDO",
+      "mhz": 122.35
+    },
+    {
+      "type": "TWR",
+      "description": "OMAHA TWR",
+      "mhz": 132.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

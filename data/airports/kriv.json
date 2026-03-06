@@ -1,0 +1,108 @@
+{
+  "icao": "KRIV",
+  "iata": "RIV",
+  "name": "March Air Reserve Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.880699,
+    "longitude": -117.259003,
+    "elevation_ft": 1536,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Riverside"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/March_Air_Reserve_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 3061,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 33.88970184,
+          "longitude": -117.2600021,
+          "elevation_ft": 1515,
+          "heading_true": 135.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 33.88359833,
+          "longitude": -117.2529984,
+          "elevation_ft": 1501,
+          "heading_true": 315.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 13302,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 33.89640045,
+          "longitude": -117.2710037,
+          "elevation_ft": 1535,
+          "heading_true": 149.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 33.86500168,
+          "longitude": -117.2480011,
+          "elevation_ft": 1488,
+          "heading_true": 329.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.25
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 134.75
+    },
+    {
+      "type": "OTHER",
+      "description": "GND/CLNC DEL",
+      "mhz": 121.75
+    },
+    {
+      "type": "OTHER",
+      "description": "RIVERSIDE RDO",
+      "mhz": 113.4
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 127.65
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

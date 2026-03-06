@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Engler Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.846233,
+    "longitude": -83.046792,
+    "elevation_ft": 725,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Bad Axe"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "7/25",
+      "length_ft": 2523,
+      "width_ft": 65,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "7",
+          "latitude": 43.84550094604492,
+          "longitude": -83.05149841308594,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 43.84700012207031,
+          "longitude": -83.04209899902344,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 575
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 45968,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

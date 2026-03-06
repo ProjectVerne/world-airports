@@ -1,0 +1,149 @@
+{
+  "icao": "KPSC",
+  "iata": "PSC",
+  "name": "Tri Cities Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.264702,
+    "longitude": -119.119003,
+    "elevation_ft": 410,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Pasco"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tri-Cities_Airport_(Washington)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03L/21R",
+      "length_ft": 7707,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03L",
+          "latitude": 46.25600052,
+          "longitude": -119.1330032,
+          "elevation_ft": 406,
+          "heading_true": 46,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21R",
+          "latitude": 46.27069855,
+          "longitude": -119.1119995,
+          "elevation_ft": 398,
+          "heading_true": 226,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "03R/21L",
+      "length_ft": 4423,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03R",
+          "latitude": 46.26070022583008,
+          "longitude": -119.12200164794922,
+          "elevation_ft": 399,
+          "heading_true": 46,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21L",
+          "latitude": 46.269100189208984,
+          "longitude": -119.10900115966797,
+          "elevation_ft": 400,
+          "heading_true": 226,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 7704,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 46.27349854,
+          "longitude": -119.1279984,
+          "elevation_ft": 392,
+          "heading_true": 136,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 46.25830078,
+          "longitude": -119.1070023,
+          "elevation_ft": 399,
+          "heading_true": 316,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHINOOK APP/DEP",
+      "mhz": 128.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.65
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 135.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE RDO",
+      "mhz": 122.4
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 135.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

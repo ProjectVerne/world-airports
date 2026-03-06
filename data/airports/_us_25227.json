@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Crescent Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.41590118408203,
+    "longitude": -116.56300354003906,
+    "elevation_ft": 4787,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Crescent Valley"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5424,
+      "width_ft": 60,
+      "surface": "dirt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 40.41630172729492,
+          "longitude": -116.56999969482422,
+          "elevation_ft": 4787,
+          "heading_true": 70,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 40.4213981628418,
+          "longitude": -116.552001953125,
+          "elevation_ft": 4747,
+          "heading_true": 250,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4650,
+      "width_ft": 75,
+      "surface": "dirt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 40.4182014465332,
+          "longitude": -116.56999969482422,
+          "elevation_ft": 4787,
+          "heading_true": 152,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 40.406898498535156,
+          "longitude": -116.56199645996094,
+          "elevation_ft": 4762,
+          "heading_true": 332,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 25227,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Brodhead Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.594249,
+    "longitude": -89.379374,
+    "elevation_ft": 793,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Brodhead"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 1500,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 42.59329987,
+          "longitude": -89.38040161,
+          "elevation_ft": 793,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 42.59669876,
+          "longitude": -89.37729645,
+          "elevation_ft": 793,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 2440,
+      "width_ft": 155,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 42.59700012,
+          "longitude": -89.3884964,
+          "elevation_ft": 793,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 42.59719849,
+          "longitude": -89.37950134,
+          "elevation_ft": 793,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 1380,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 42.596900939941406,
+          "longitude": -89.38179779052734,
+          "elevation_ft": 793,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 42.59339904785156,
+          "longitude": -89.37870025634766,
+          "elevation_ft": 793,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 16513,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

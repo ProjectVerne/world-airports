@@ -1,0 +1,72 @@
+{
+  "icao": "KFGX",
+  "iata": null,
+  "name": "Fleming Mason Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.5418014526,
+    "longitude": -83.74340057370001,
+    "elevation_ft": 913,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Flemingsburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fleming-Mason_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 5002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 38.53919983,
+          "longitude": -83.75140381,
+          "elevation_ft": 905,
+          "heading_true": 67,
+          "displaced_threshold_ft": 299
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 38.54449844,
+          "longitude": -83.73529816,
+          "elevation_ft": 910,
+          "heading_true": 247,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.125
+    },
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS CNTR",
+      "mhz": 124.225
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

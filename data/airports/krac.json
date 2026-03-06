@@ -1,0 +1,105 @@
+{
+  "icao": "KRAC",
+  "iata": "RAC",
+  "name": "John H Batten Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.7606010437,
+    "longitude": -87.8152008057,
+    "elevation_ft": 674,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Racine"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/John_H._Batten_Airport",
+  "keywords": [
+    "Horlick Field"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 6574,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 42.75439835,
+          "longitude": -87.82029724,
+          "elevation_ft": 667,
+          "heading_true": 37,
+          "displaced_threshold_ft": 715
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 42.76879883,
+          "longitude": -87.80570221,
+          "elevation_ft": 665,
+          "heading_true": 217,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4421,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.76480103,
+          "longitude": -87.82119751,
+          "elevation_ft": 670,
+          "heading_true": 132,
+          "displaced_threshold_ft": 807
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.75669861,
+          "longitude": -87.80889893,
+          "elevation_ft": 658,
+          "heading_true": 312,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MILWAUKEE APP/DEP",
+      "mhz": 120.15
+    },
+    {
+      "type": "AWOS",
+      "description": "ASOS",
+      "mhz": 117.7
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.15
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.075
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

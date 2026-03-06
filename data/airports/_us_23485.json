@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": "NLN",
+  "name": "Kneeland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.718639,
+    "longitude": -123.927298,
+    "elevation_ft": 2737,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Kneeland"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Kneeland_Airport",
+  "keywords": [
+    "Arcata"
+  ],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 2270,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 40.72209930419922,
+          "longitude": -123.9280014038086,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 40.715999603271484,
+          "longitude": -123.927001953125,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23485,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

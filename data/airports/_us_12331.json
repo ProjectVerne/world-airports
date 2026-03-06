@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Woolsey Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.165001,
+    "longitude": -85.5718,
+    "elevation_ft": 628,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Northport"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Woolsey_Memorial_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3663,
+      "width_ft": 120,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 45.164798736572266,
+          "longitude": -85.5885009765625,
+          "elevation_ft": 628,
+          "heading_true": 0,
+          "displaced_threshold_ft": 266
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 45.165000915527344,
+          "longitude": -85.57430267333984,
+          "elevation_ft": 628,
+          "heading_true": 234,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 2670,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 45.17169952392578,
+          "longitude": -85.57879638671875,
+          "elevation_ft": 628,
+          "heading_true": 0,
+          "displaced_threshold_ft": 800
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 45.16490173339844,
+          "longitude": -85.57510375976562,
+          "elevation_ft": 628,
+          "heading_true": 284,
+          "displaced_threshold_ft": 269
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12331,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

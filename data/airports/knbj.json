@@ -1,0 +1,84 @@
+{
+  "icao": "KNBJ",
+  "iata": "NHX",
+  "name": "Naval Outlying Field Barin",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.389099121100003,
+    "longitude": -87.63529968259999,
+    "elevation_ft": 54,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Foley"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Outlying_Field_Barin",
+  "keywords": [
+    "Barin NOLF"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 30.38870049,
+          "longitude": -87.63800049,
+          "elevation_ft": 54,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 30.3885994,
+          "longitude": -87.62529755,
+          "elevation_ft": 49,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 5000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 30.39649963,
+          "longitude": -87.63269806,
+          "elevation_ft": 45,
+          "heading_true": 152,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 30.38689995,
+          "longitude": -87.62680054,
+          "elevation_ft": 49,
+          "heading_true": 332,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "icao": "KLCQ",
+  "iata": "LCQ",
+  "name": "Lake City Gateway Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.181999,
+    "longitude": -82.576897,
+    "elevation_ft": 201,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Lake City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lake_City_Gateway_Airport",
+  "keywords": [
+    "31J",
+    "Lake City Municipal Airport"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 30.17729949951172,
+          "longitude": -82.58049774169922,
+          "elevation_ft": 186,
+          "heading_true": 52,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 30.184099197387695,
+          "longitude": -82.57050323486328,
+          "elevation_ft": 195,
+          "heading_true": 232,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 8003,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 30.1840992,
+          "longitude": -82.59010315,
+          "elevation_ft": 198,
+          "heading_true": 97,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 30.1814003,
+          "longitude": -82.56500244,
+          "elevation_ft": 196,
+          "heading_true": 277,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120.675
+    },
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE CNTR",
+      "mhz": 125.375
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "GAINESVILLE RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.2
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

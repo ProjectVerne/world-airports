@@ -1,0 +1,152 @@
+{
+  "icao": "KCMI",
+  "iata": "CMI",
+  "name": "University of Illinois Willard Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.039819,
+    "longitude": -88.276249,
+    "elevation_ft": 755,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Savoy"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/University_of_Illinois_Willard_Airport",
+  "keywords": [
+    "Champaign",
+    "Urbana"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 6502,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 40.031799,
+          "longitude": -88.2854,
+          "elevation_ft": 751,
+          "heading_true": 40,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 40.0453,
+          "longitude": -88.270103,
+          "elevation_ft": 746,
+          "heading_true": 220,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14L/32R",
+      "length_ft": 8101,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14L",
+          "latitude": 40.04740143,
+          "longitude": -88.28569794,
+          "elevation_ft": 754,
+          "heading_true": 136,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32R",
+          "latitude": 40.03150177,
+          "longitude": -88.26550293,
+          "elevation_ft": 749,
+          "heading_true": 316,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5299,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.0471,
+          "longitude": -88.282303,
+          "elevation_ft": 752,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.032501,
+          "longitude": -88.282097,
+          "elevation_ft": 750,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHAMPAIGN APP/DEP",
+      "mhz": 121.35
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.85
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 128.75
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.4
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "ST LOUIS RDO",
+      "mhz": 110
+    },
+    {
+      "type": "TWR",
+      "description": "CHAMPAIGN TWR",
+      "mhz": 118.25
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

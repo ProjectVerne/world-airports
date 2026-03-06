@@ -1,0 +1,103 @@
+{
+  "icao": "KALS",
+  "iata": "ALS",
+  "name": "San Luis Valley Regional Airport/Bergman Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.434898,
+    "longitude": -105.866997,
+    "elevation_ft": 7539,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Alamosa"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Luis_Valley_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 8521,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 37.42520142,
+          "longitude": -105.8759995,
+          "elevation_ft": 7539,
+          "heading_true": 31.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 37.44509888,
+          "longitude": -105.8600006,
+          "elevation_ft": 7539,
+          "heading_true": 211.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06/24",
+      "length_ft": 3200,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 37.433399,
+          "longitude": -105.867996,
+          "elevation_ft": 7535,
+          "heading_true": 76,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 37.435501,
+          "longitude": -105.858002,
+          "elevation_ft": 7533,
+          "heading_true": 256,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.175
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 128.375
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER RDO",
+      "mhz": 122.15
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

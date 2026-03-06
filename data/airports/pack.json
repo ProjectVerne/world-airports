@@ -1,0 +1,58 @@
+{
+  "icao": "PACK",
+  "iata": "CYF",
+  "name": "Chefornak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.136667,
+    "longitude": -164.279167,
+    "elevation_ft": 49,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Chefornak"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chefornak_Airport",
+  "keywords": [
+    "Z74"
+  ],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3720,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 60.1418,
+          "longitude": -164.279999,
+          "elevation_ft": 39,
+          "heading_true": 177,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 60.131699,
+          "longitude": -164.278503,
+          "elevation_ft": 49,
+          "heading_true": 357,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

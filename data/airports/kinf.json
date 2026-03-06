@@ -1,0 +1,64 @@
+{
+  "icao": "KINF",
+  "iata": null,
+  "name": "Inverness Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.803588,
+    "longitude": -82.318311,
+    "elevation_ft": 50,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Inverness"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Inverness_Airport_(Florida)",
+  "keywords": [
+    "X40"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 28.79680061,
+          "longitude": -82.31909943,
+          "elevation_ft": 0,
+          "heading_true": 101,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 28.81040001,
+          "longitude": -82.31749725,
+          "elevation_ft": 0,
+          "heading_true": 191,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

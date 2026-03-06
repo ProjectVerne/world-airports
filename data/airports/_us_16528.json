@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Earlville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.567001,
+    "longitude": -88.947899,
+    "elevation_ft": 690,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Earlville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Earlville_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3400,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 41.56290054321289,
+          "longitude": -88.9520034790039,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 400
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 41.570098876953125,
+          "longitude": -88.94409942626953,
+          "elevation_ft": 0,
+          "heading_true": 294.7,
+          "displaced_threshold_ft": 160
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 16528,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

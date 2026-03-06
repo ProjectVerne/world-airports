@@ -1,0 +1,111 @@
+{
+  "icao": "KBAZ",
+  "iata": null,
+  "name": "New Braunfels National Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.7045,
+    "longitude": -98.042198,
+    "elevation_ft": 651,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "New Braunfels"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Braunfels_Regional_Airport",
+  "keywords": [
+    "3R5",
+    "Clear Springs AFB"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 6503,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 29.71209908,
+          "longitude": -98.04660034,
+          "elevation_ft": 649,
+          "heading_true": 135.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 29.70159912,
+          "longitude": -98.03479767,
+          "elevation_ft": 642,
+          "heading_true": 315.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5364,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 29.70949935913086,
+          "longitude": -98.0436019897461,
+          "elevation_ft": 648,
+          "heading_true": 180.7,
+          "displaced_threshold_ft": 512
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 29.694799423217773,
+          "longitude": -98.0438003540039,
+          "elevation_ft": 645,
+          "heading_true": 0.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "SAN ANTONIO APP",
+      "mhz": 124.45
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.325
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 134.75
+    },
+    {
+      "type": "DEP",
+      "description": "SAN ANTONIO DEP",
+      "mhz": 125.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

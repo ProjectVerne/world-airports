@@ -1,0 +1,75 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Longhorn Auxiliary Landing Strip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.373693,
+    "longitude": -97.666654,
+    "elevation_ft": 720,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Cavazos"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Fort Hood"
+  ],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3488,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 31.37809944152832,
+          "longitude": -97.66919708251953,
+          "elevation_ft": 720,
+          "heading_true": 153.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 31.369400024414062,
+          "longitude": -97.66419982910156,
+          "elevation_ft": 720,
+          "heading_true": 205,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TWR",
+      "mhz": 143.35
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.8
+    },
+    {
+      "type": "TWR",
+      "description": "GRAY TWR",
+      "mhz": 120.75
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 8924,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

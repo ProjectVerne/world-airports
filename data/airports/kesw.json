@@ -1,0 +1,56 @@
+{
+  "icao": "KESW",
+  "iata": "ESW",
+  "name": "Easton State Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.2541999817,
+    "longitude": -121.185997009,
+    "elevation_ft": 2226,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Easton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Easton_State_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2640,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 47.25590133666992,
+          "longitude": -121.19000244140625,
+          "elevation_ft": 2221,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 47.252498626708984,
+          "longitude": -121.18099975585938,
+          "elevation_ft": 2221,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

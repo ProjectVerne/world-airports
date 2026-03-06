@@ -1,0 +1,212 @@
+{
+  "icao": "KSTL",
+  "iata": "STL",
+  "name": "St. Louis Lambert International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.748697,
+    "longitude": -90.370003,
+    "elevation_ft": 618,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "St Louis"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Louis_Lambert_International_Airport",
+  "keywords": [
+    "Lambert St Louis"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 7603,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 38.746684,
+          "longitude": -90.381218,
+          "elevation_ft": 551,
+          "heading_true": 63,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 38.756217,
+          "longitude": -90.357504,
+          "elevation_ft": 533,
+          "heading_true": 243,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 38.759952,
+          "longitude": -90.409872,
+          "elevation_ft": 617,
+          "heading_true": 122,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 38.746792,
+          "longitude": -90.383163,
+          "elevation_ft": 555,
+          "heading_true": 302,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12L/30R",
+      "length_ft": 9013,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12L",
+          "latitude": 38.751793,
+          "longitude": -90.366322,
+          "elevation_ft": 528,
+          "heading_true": 122,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30R",
+          "latitude": 38.738607,
+          "longitude": -90.339585,
+          "elevation_ft": 605,
+          "heading_true": 302,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12R/30L",
+      "length_ft": 11020,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12R",
+          "latitude": 38.753904,
+          "longitude": -90.379159,
+          "elevation_ft": 540,
+          "heading_true": 122,
+          "displaced_threshold_ft": 470
+        },
+        "high": {
+          "ident": "30L",
+          "latitude": 38.737782,
+          "longitude": -90.346464,
+          "elevation_ft": 585,
+          "heading_true": 302,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "ST LOUIS APP",
+      "mhz": 120.05
+    },
+    {
+      "type": "APP",
+      "description": "SOUTH/WEST SECONDARY",
+      "mhz": 121.025
+    },
+    {
+      "type": "APP",
+      "description": "SAINT LOUIS APPROACH SECONDARY",
+      "mhz": 123.7
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.025
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.5
+    },
+    {
+      "type": "DEP",
+      "description": "ST LOUIS DEP N/E",
+      "mhz": 119.15
+    },
+    {
+      "type": "DEP",
+      "description": "ST LOUIS DEP S/W",
+      "mhz": 128.1
+    },
+    {
+      "type": "GND",
+      "description": "RWAY 11-29",
+      "mhz": 118.925
+    },
+    {
+      "type": "GND",
+      "description": "SAINT LOUIS GROUND OUTBOUND",
+      "mhz": 121.65
+    },
+    {
+      "type": "GND",
+      "description": "SAINT LOUIS GROUND INBOUND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ST LOUIS RDO",
+      "mhz": 122.05
+    },
+    {
+      "type": "TWR",
+      "description": "RWAY 12R-30L",
+      "mhz": 118.5
+    },
+    {
+      "type": "TWR",
+      "description": "RWAY 12L-30R",
+      "mhz": 120.05
+    },
+    {
+      "type": "TWR",
+      "description": "RWY 06 AND 11-29",
+      "mhz": 132.475
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

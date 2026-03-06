@@ -1,0 +1,75 @@
+{
+  "icao": "KRHP",
+  "iata": null,
+  "name": "Western Carolina Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.195202,
+    "longitude": -83.862999,
+    "elevation_ft": 1697,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Andrews"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Andrews-Murphy_Airport",
+  "keywords": [
+    "6A3",
+    "Andrews-Murphy Airport"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 5500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 35.19279861,
+          "longitude": -83.87180328,
+          "elevation_ft": 1682,
+          "heading_true": 71.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 35.1977005,
+          "longitude": -83.85430145,
+          "elevation_ft": 1698,
+          "heading_true": 251.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.675
+    },
+    {
+      "type": "OTHER",
+      "description": "ATLANTA CNTR",
+      "mhz": 134.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

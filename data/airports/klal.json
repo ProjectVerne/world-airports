@@ -1,0 +1,118 @@
+{
+  "icao": "KLAL",
+  "iata": "LAL",
+  "name": "Lakeland Linder International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.989267,
+    "longitude": -82.020715,
+    "elevation_ft": 142,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Lakeland"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lakeland_Linder_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 27.983400344848633,
+          "longitude": -82.02040100097656,
+          "elevation_ft": 130,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 27.993200302124023,
+          "longitude": -82.0093994140625,
+          "elevation_ft": 141,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 8500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 27.989200592041016,
+          "longitude": -82.03389739990234,
+          "elevation_ft": 132,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 27.989299774169922,
+          "longitude": -82.00749969482422,
+          "elevation_ft": 142,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TAMPA APP/DEP",
+      "mhz": 119.9
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.025
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.4
+    },
+    {
+      "type": "OTHER",
+      "description": "ST PETERSBURG RDO",
+      "mhz": 116
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 124.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

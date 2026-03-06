@@ -1,0 +1,82 @@
+{
+  "icao": "KPBF",
+  "iata": "PBF",
+  "name": "Pine Bluff Regional Airport, Grider Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.174121,
+    "longitude": -91.935643,
+    "elevation_ft": 206,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Pine Bluff"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Grider_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5998,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 34.18280029296875,
+          "longitude": -91.93560028076172,
+          "elevation_ft": 204,
+          "heading_true": 179.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 34.16630172729492,
+          "longitude": -91.93560028076172,
+          "elevation_ft": 199,
+          "heading_true": 359.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "LITTLE ROCK APP/DEP",
+      "mhz": 119.85
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 120.775
+    },
+    {
+      "type": "OTHER",
+      "description": "LITTLE ROCK CLNC DEL",
+      "mhz": 119.85
+    },
+    {
+      "type": "OTHER",
+      "description": "JONESBORO RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

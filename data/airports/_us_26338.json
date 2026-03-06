@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Green Lake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.606098,
+    "longitude": -85.7584,
+    "elevation_ft": 866,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Interlochen"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Green_Lake_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2800,
+      "width_ft": 170,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 44.60390090942383,
+          "longitude": -85.76349639892578,
+          "elevation_ft": 866,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 44.60879898071289,
+          "longitude": -85.75530242919922,
+          "elevation_ft": 866,
+          "heading_true": 0,
+          "displaced_threshold_ft": 600
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 1700,
+      "width_ft": 170,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 44.60850143432617,
+          "longitude": -85.75830078125,
+          "elevation_ft": 866,
+          "heading_true": 0,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 44.602901458740234,
+          "longitude": -85.7562026977539,
+          "elevation_ft": 866,
+          "heading_true": 0,
+          "displaced_threshold_ft": 380
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 26338,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

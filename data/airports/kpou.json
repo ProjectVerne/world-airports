@@ -1,0 +1,154 @@
+{
+  "icao": "KPOU",
+  "iata": "POU",
+  "name": "Dutchess County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.6265983581543,
+    "longitude": -73.88420104980469,
+    "elevation_ft": 165,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Poughkeepsie"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Dutchess_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 41.62189865112305,
+          "longitude": -73.89199829101562,
+          "elevation_ft": 146,
+          "heading_true": 50.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 41.63059997558594,
+          "longitude": -73.87779998779297,
+          "elevation_ft": 155,
+          "heading_true": 230.7,
+          "displaced_threshold_ft": 113
+        }
+      }
+    },
+    {
+      "id": "07/25",
+      "length_ft": 1357,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 41.625,
+          "longitude": -73.88819885,
+          "elevation_ft": 0,
+          "heading_true": 50.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 41.62730026,
+          "longitude": -73.88430023,
+          "elevation_ft": 0,
+          "heading_true": 230.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 2743,
+      "width_ft": 100,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 41.63019943237305,
+          "longitude": -73.88520050048828,
+          "elevation_ft": 165,
+          "heading_true": 139,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 41.62459945678711,
+          "longitude": -73.87850189208984,
+          "elevation_ft": 165,
+          "heading_true": 319,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 126.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.75
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "NEW YORK CNTR",
+      "mhz": 132.75
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "NEW YORK RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 124
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

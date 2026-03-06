@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Chorman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.849672,
+    "longitude": -75.61284,
+    "elevation_ft": 66,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Farmington"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chorman_Airport",
+  "keywords": [
+    "DE20"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 19610,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Sportsman Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.29570007,
+    "longitude": -122.9550018,
+    "elevation_ft": 181,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Newberg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sportsman_Airpark",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 2755,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 45.29859924316406,
+          "longitude": -122.9530029296875,
+          "elevation_ft": 181,
+          "heading_true": 0,
+          "displaced_threshold_ft": 369
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 45.291099548339844,
+          "longitude": -122.95500183105469,
+          "elevation_ft": 162,
+          "heading_true": 0,
+          "displaced_threshold_ft": 315
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 9745,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": "RLA",
+  "name": "Rolla Downtown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.935699,
+    "longitude": -91.813499,
+    "elevation_ft": 987,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Rolla"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rolla_Downtown_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3028,
+      "width_ft": 38,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 37.9359016418457,
+          "longitude": -91.81880187988281,
+          "elevation_ft": 956,
+          "heading_true": 93,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 37.93539810180664,
+          "longitude": -91.80829620361328,
+          "elevation_ft": 964,
+          "heading_true": 273,
+          "displaced_threshold_ft": 445
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 133.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20238,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

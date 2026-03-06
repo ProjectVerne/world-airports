@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Eldorado Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.8622,
+    "longitude": -100.611,
+    "elevation_ft": 2448,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Eldorado"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Schleicher County Airport"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 4300,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 30.868099212646484,
+          "longitude": -100.61100006103516,
+          "elevation_ft": 0,
+          "heading_true": 176.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 30.856300354003906,
+          "longitude": -100.61100006103516,
+          "elevation_ft": 0,
+          "heading_true": 328,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18559,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

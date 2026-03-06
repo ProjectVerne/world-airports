@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Turtle Airport",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 42.507,
+    "longitude": -88.914802,
+    "elevation_ft": 911,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Beloit"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "WI02"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 25698,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "icao": "KSTF",
+  "iata": null,
+  "name": "George M Bryan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.43310165,
+    "longitude": -88.84860229,
+    "elevation_ft": 333,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Starkville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/George_M._Bryan_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5550,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 33.44070053100586,
+          "longitude": -88.84880065917969,
+          "elevation_ft": 331,
+          "heading_true": 179,
+          "displaced_threshold_ft": 1380
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 33.425498962402344,
+          "longitude": -88.84839630126953,
+          "elevation_ft": 322,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS APP/DEP",
+      "mhz": 135.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.975
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS CLNC DEL",
+      "mhz": 126.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

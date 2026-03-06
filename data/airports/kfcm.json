@@ -1,0 +1,144 @@
+{
+  "icao": "KFCM",
+  "iata": "FCM",
+  "name": "Flying Cloud Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.8272018433,
+    "longitude": -93.45709991460001,
+    "elevation_ft": 906,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Minneapolis"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Flying_Cloud_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10L/28R",
+      "length_ft": 3901,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10L",
+          "latitude": 44.82949829,
+          "longitude": -93.46389771,
+          "elevation_ft": 905,
+          "heading_true": 101,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28R",
+          "latitude": 44.82759857,
+          "longitude": -93.45030212,
+          "elevation_ft": 899,
+          "heading_true": 281,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10R/28L",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10R",
+          "latitude": 44.82839966,
+          "longitude": -93.4661026,
+          "elevation_ft": 905,
+          "heading_true": 101,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28L",
+          "latitude": 44.82640076,
+          "longitude": -93.45130157,
+          "elevation_ft": 898,
+          "heading_true": 281,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2690,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 44.82889938,
+          "longitude": -93.45439911,
+          "elevation_ft": 899,
+          "heading_true": 186,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 44.82160187,
+          "longitude": -93.45539856,
+          "elevation_ft": 905,
+          "heading_true": 6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS APP/DEP",
+      "mhz": 125
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.9
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.7
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

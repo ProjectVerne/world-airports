@@ -1,0 +1,144 @@
+{
+  "icao": "KMIC",
+  "iata": "MIC",
+  "name": "Crystal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.062,
+    "longitude": -93.353897,
+    "elevation_ft": 869,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Minneapolis"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Crystal_Airport_(Minnesota)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06L/24R",
+      "length_ft": 2500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06L",
+          "latitude": 45.06129837,
+          "longitude": -93.3588028,
+          "elevation_ft": 869,
+          "heading_true": 53,
+          "displaced_threshold_ft": 390
+        },
+        "high": {
+          "ident": "24R",
+          "latitude": 45.06539917,
+          "longitude": -93.35099792,
+          "elevation_ft": 866,
+          "heading_true": 233,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3751,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 45.064999,
+          "longitude": -93.356903,
+          "elevation_ft": 868,
+          "heading_true": 141,
+          "displaced_threshold_ft": 241
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 45.057999,
+          "longitude": -93.348999,
+          "elevation_ft": 867,
+          "heading_true": 321,
+          "displaced_threshold_ft": 241
+        }
+      }
+    },
+    {
+      "id": "14R/32L",
+      "length_ft": 3266,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "14R",
+          "latitude": 45.064499,
+          "longitude": -93.357803,
+          "elevation_ft": 868,
+          "heading_true": 142,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32L",
+          "latitude": 45.057499,
+          "longitude": -93.349899,
+          "elevation_ft": 866,
+          "heading_true": 322,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS APP/DEP",
+      "mhz": 126.5
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.475
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.6
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

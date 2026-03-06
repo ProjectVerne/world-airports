@@ -1,0 +1,103 @@
+{
+  "icao": "KHTL",
+  "iata": "HTL",
+  "name": "Roscommon County - Blodgett Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.359798,
+    "longitude": -84.671095,
+    "elevation_ft": 1150,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Houghton Lake"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Roscommon_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 44.36119842529297,
+          "longitude": -84.67620086669922,
+          "elevation_ft": 1149,
+          "heading_true": 88.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 44.36140060424805,
+          "longitude": -84.66100311279297,
+          "elevation_ft": 1145,
+          "heading_true": 268.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2200,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 44.36029815673828,
+          "longitude": -84.67780303955078,
+          "elevation_ft": 1149,
+          "heading_true": 180,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 44.35419845581055,
+          "longitude": -84.67780303955078,
+          "elevation_ft": 1146,
+          "heading_true": 360,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 111.6
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 132.9
+    },
+    {
+      "type": "OTHER",
+      "description": "LANSING RDO",
+      "mhz": 122.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

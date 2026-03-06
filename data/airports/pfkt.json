@@ -1,0 +1,82 @@
+{
+  "icao": "PFKT",
+  "iata": "KTS",
+  "name": "Brevig Mission Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.331826,
+    "longitude": -166.467848,
+    "elevation_ft": 38,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Brevig Mission"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Brevig_Mission_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2110,
+      "width_ft": 75,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 65.3302993774414,
+          "longitude": -166.47300720214844,
+          "elevation_ft": 34,
+          "heading_true": 55,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 65.33370208740234,
+          "longitude": -166.46200561523438,
+          "elevation_ft": 38,
+          "heading_true": 235,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 2990,
+      "width_ft": 100,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 65.33350372314453,
+          "longitude": -166.4720001220703,
+          "elevation_ft": 37,
+          "heading_true": 130,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 65.32820129394531,
+          "longitude": -166.45700073242188,
+          "elevation_ft": 35,
+          "heading_true": 310,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

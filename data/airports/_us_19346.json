@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Whitfords Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.080299,
+    "longitude": -76.538399,
+    "elevation_ft": 400,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Weedsport"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Whitford%27s_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10L/28R",
+      "length_ft": 3630,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10L",
+          "latitude": 43.080501556396484,
+          "longitude": -76.54609680175781,
+          "elevation_ft": 398,
+          "heading_true": 86.9,
+          "displaced_threshold_ft": 430
+        },
+        "high": {
+          "ident": "28R",
+          "latitude": 43.08100128173828,
+          "longitude": -76.53250122070312,
+          "elevation_ft": 398,
+          "heading_true": 266.9,
+          "displaced_threshold_ft": 350
+        }
+      }
+    },
+    {
+      "id": "10R/28L",
+      "length_ft": 2800,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10R",
+          "latitude": 43.079498291015625,
+          "longitude": -76.54239654541016,
+          "elevation_ft": 397,
+          "heading_true": 88,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28L",
+          "latitude": 43.07979965209961,
+          "longitude": -76.53189849853516,
+          "elevation_ft": 400,
+          "heading_true": 268,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SYRACUSE APP/DEP",
+      "mhz": 134.275
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19346,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

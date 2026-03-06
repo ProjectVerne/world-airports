@@ -1,0 +1,93 @@
+{
+  "icao": "KMDS",
+  "iata": "XMD",
+  "name": "Madison Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.01599884,
+    "longitude": -97.08589935,
+    "elevation_ft": 1718,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Madison"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Madison_Municipal_Airport_(South_Dakota)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2380,
+      "width_ft": 200,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 44.01150131,
+          "longitude": -97.08730316,
+          "elevation_ft": 1710,
+          "heading_true": 33.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 44.01750183,
+          "longitude": -97.08170319,
+          "elevation_ft": 1704,
+          "heading_true": 213.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 44.02289962768555,
+          "longitude": -97.09089660644531,
+          "elevation_ft": 1717,
+          "heading_true": 153.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 44.01060104370117,
+          "longitude": -97.0824966430664,
+          "elevation_ft": 1710,
+          "heading_true": 333.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 132.05
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

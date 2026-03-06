@@ -1,0 +1,103 @@
+{
+  "icao": "KRPD",
+  "iata": "RIE",
+  "name": "Rice Lake Regional Airport - Carl's Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.423024,
+    "longitude": -91.773127,
+    "elevation_ft": 1109,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Rice Lake"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rice_Lake_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 6700,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 45.41400146,
+          "longitude": -91.77570343,
+          "elevation_ft": 1096,
+          "heading_true": 10.7,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 45.4292984,
+          "longitude": -91.77130127,
+          "elevation_ft": 1107,
+          "heading_true": 190.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 3500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 45.417598724365234,
+          "longitude": -91.77899932861328,
+          "elevation_ft": 1092,
+          "heading_true": 130.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 45.411399841308594,
+          "longitude": -91.76860046386719,
+          "elevation_ft": 1100,
+          "heading_true": 310.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120.525
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 125.3
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

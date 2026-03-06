@@ -1,0 +1,77 @@
+{
+  "icao": "KBJJ",
+  "iata": "BJJ",
+  "name": "Wayne County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.874801635699995,
+    "longitude": -81.88829803470001,
+    "elevation_ft": 1136,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Wooster"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wayne_County_Airport_(Ohio)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 5190,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 40.87480164,
+          "longitude": -81.89759827,
+          "elevation_ft": 1112,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 40.87480164,
+          "longitude": -81.87889862,
+          "elevation_ft": 1134,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "AKRON CANTON APP/DEP",
+      "mhz": 118.6
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.075
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.75
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

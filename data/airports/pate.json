@@ -1,0 +1,58 @@
+{
+  "icao": "PATE",
+  "iata": "TLA",
+  "name": "Teller Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.240402,
+    "longitude": -166.339005,
+    "elevation_ft": 294,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Teller"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Teller_Airport",
+  "keywords": [
+    "AK54"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2983,
+      "width_ft": 60,
+      "surface": "gravel",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 65.240303,
+          "longitude": -166.348999,
+          "elevation_ft": 277,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 65.240402,
+          "longitude": -166.330002,
+          "elevation_ft": 294,
+          "heading_true": 269,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

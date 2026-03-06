@@ -1,0 +1,153 @@
+{
+  "icao": "KTIP",
+  "iata": null,
+  "name": "Rantoul National Aviation Center - Frank Elliot field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.293598,
+    "longitude": -88.142403,
+    "elevation_ft": 737,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Rantoul"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rantoul_National_Aviation_Center",
+  "keywords": [
+    "Chanute Air Force Base",
+    "Chanute Field"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5200,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 40.29079818725586,
+          "longitude": -88.15119934082031,
+          "elevation_ft": 734,
+          "heading_true": 43.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 40.30080032348633,
+          "longitude": -88.13860321044922,
+          "elevation_ft": 733,
+          "heading_true": 223.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.29199981689453,
+          "longitude": -88.14990234375,
+          "elevation_ft": 735,
+          "heading_true": 89.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.29209899902344,
+          "longitude": -88.13200378417969,
+          "elevation_ft": 729,
+          "heading_true": 269.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5700,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 40.3025016784668,
+          "longitude": -88.14810180664062,
+          "elevation_ft": 737,
+          "heading_true": 135.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 40.291500091552734,
+          "longitude": -88.13359832763672,
+          "elevation_ft": 727,
+          "heading_true": 315.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4894,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.30179977416992,
+          "longitude": -88.1438980102539,
+          "elevation_ft": 737,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.28839874267578,
+          "longitude": -88.1438980102539,
+          "elevation_ft": 733,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHAMPAIGN APP/DEP",
+      "mhz": 121.35
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.025
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

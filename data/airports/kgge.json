@@ -1,0 +1,124 @@
+{
+  "icao": "KGGE",
+  "iata": "GGE",
+  "name": "Georgetown County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.3116989136,
+    "longitude": -79.3196029663,
+    "elevation_ft": 39,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Georgetown"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Georgetown_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 6005,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 33.30960083,
+          "longitude": -79.32620239,
+          "elevation_ft": 39,
+          "heading_true": 41.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 33.31990051,
+          "longitude": -79.31539917,
+          "elevation_ft": 34,
+          "heading_true": 221.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 4539,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 33.309600830078125,
+          "longitude": -79.32550048828125,
+          "elevation_ft": 37,
+          "heading_true": 101.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 33.307098388671875,
+          "longitude": -79.31089782714844,
+          "elevation_ft": 23,
+          "heading_true": 281.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 4986,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 33.31949996948242,
+          "longitude": -79.3156967163086,
+          "elevation_ft": 0,
+          "heading_true": 159.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 33.30659866333008,
+          "longitude": -79.30919647216797,
+          "elevation_ft": 0,
+          "heading_true": 339.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MYRTLE BEACH APP/DEP",
+      "mhz": 127.4
+    },
+    {
+      "type": "OTHER",
+      "description": "MYRTLE BEACH CLNC",
+      "mhz": 119.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

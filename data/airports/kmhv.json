@@ -1,0 +1,131 @@
+{
+  "icao": "KMHV",
+  "iata": "MHV",
+  "name": "Mojave Air &  Space Port",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.056391,
+    "longitude": -118.145342,
+    "elevation_ft": 2801,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Mojave"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port",
+  "keywords": [
+    "Rutan Field"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4747,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 35.05960083,
+          "longitude": -118.1640015,
+          "elevation_ft": 2778,
+          "heading_true": 52,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 35.06769943,
+          "longitude": -118.1520004,
+          "elevation_ft": 2779,
+          "heading_true": 232,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 7049,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 35.05920029,
+          "longitude": -118.1660004,
+          "elevation_ft": 2777,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 35.05920029,
+          "longitude": -118.1429977,
+          "elevation_ft": 2751,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 12503,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 35.06719971,
+          "longitude": -118.1579971,
+          "elevation_ft": 2791,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 35.04869843,
+          "longitude": -118.1360016,
+          "elevation_ft": 2693,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JOSHUA APP/DEP",
+      "mhz": 133.65
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 127.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 123.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 127.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Stevenson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.886299,
+    "longitude": -85.803299,
+    "elevation_ft": 644,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Stevenson"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Stevenson_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4103,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 34.882598876953125,
+          "longitude": -85.80850219726562,
+          "elevation_ft": 622,
+          "heading_true": 49,
+          "displaced_threshold_ft": 257
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 34.88990020751953,
+          "longitude": -85.79810333251953,
+          "elevation_ft": 644,
+          "heading_true": 229,
+          "displaced_threshold_ft": 1048
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19049,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

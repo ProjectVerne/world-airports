@@ -1,0 +1,65 @@
+{
+  "icao": "KSPK",
+  "iata": null,
+  "name": "Spanish Fork Municipal Airport/Woodhouse Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.145027,
+    "longitude": -111.667694,
+    "elevation_ft": 4529,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Spanish Fork"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Spanish_Fork-Springville_Airport",
+  "keywords": [
+    "U77",
+    "Springville Airport"
+  ],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 6500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 40.14699936,
+          "longitude": -111.6689987,
+          "elevation_ft": 0,
+          "heading_true": 133.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 40.13629913,
+          "longitude": -111.6539993,
+          "elevation_ft": 0,
+          "heading_true": 313.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

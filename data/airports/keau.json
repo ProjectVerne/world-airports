@@ -1,0 +1,103 @@
+{
+  "icao": "KEAU",
+  "iata": "EAU",
+  "name": "Chippewa Valley Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.86579895019531,
+    "longitude": -91.48429870605469,
+    "elevation_ft": 913,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Eau Claire"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chippewa_Valley_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 8101,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 44.85929870605469,
+          "longitude": -91.4926986694336,
+          "elevation_ft": 887,
+          "heading_true": 45,
+          "displaced_threshold_ft": 800
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 44.875,
+          "longitude": -91.47059631347656,
+          "elevation_ft": 913,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 44.86880112,
+          "longitude": -91.49479675,
+          "elevation_ft": 883,
+          "heading_true": 139,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 44.85850143,
+          "longitude": -91.48210144,
+          "elevation_ft": 888,
+          "heading_true": 319,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS APP/DEP",
+      "mhz": 125.3
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.675
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 122.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

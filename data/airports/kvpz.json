@@ -1,0 +1,113 @@
+{
+  "icao": "KVPZ",
+  "iata": "VPZ",
+  "name": "Porter County Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.45399857,
+    "longitude": -87.00710297,
+    "elevation_ft": 770,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Valparaiso"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Porter_County_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 7001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.45240021,
+          "longitude": -87.0161972,
+          "elevation_ft": 771,
+          "heading_true": 90,
+          "displaced_threshold_ft": 500
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.45249939,
+          "longitude": -86.99069977,
+          "elevation_ft": 769,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 41.46220016,
+          "longitude": -87.0059967,
+          "elevation_ft": 771,
+          "heading_true": 183.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 41.45119858,
+          "longitude": -87.00689697,
+          "elevation_ft": 771,
+          "heading_true": 3.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOUTH BEND APP/DEP",
+      "mhz": 132.05
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 125.875
+    },
+    {
+      "type": "OTHER",
+      "description": "SOUTH BEND CLNC DEL",
+      "mhz": 135.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.725
+    },
+    {
+      "type": "OTHER",
+      "description": "TERRE HAUTE RDO",
+      "mhz": 123.65
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

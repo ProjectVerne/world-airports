@@ -1,0 +1,128 @@
+{
+  "icao": "KLWM",
+  "iata": "LWM",
+  "name": "Lawrence Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.717201232899995,
+    "longitude": -71.1233978271,
+    "elevation_ft": 148,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Lawrence"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Municipal_Airport_(Massachusetts)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 42.71089935,
+          "longitude": -71.12889862,
+          "elevation_ft": 135,
+          "heading_true": 38,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 42.72169876,
+          "longitude": -71.11740112,
+          "elevation_ft": 134,
+          "heading_true": 218,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3654,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.72119904,
+          "longitude": -71.12999725,
+          "elevation_ft": 119,
+          "heading_true": 123,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.71559906,
+          "longitude": -71.11759949,
+          "elevation_ft": 148,
+          "heading_true": 303,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BOSTON APP/DEP",
+      "mhz": 124.4
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 126.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.75
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 124.3
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.25
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 124.3
+    },
+    {
+      "type": "OTHER",
+      "description": "BRIDGEPORT RDO",
+      "mhz": 112.5
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.25
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

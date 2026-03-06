@@ -1,0 +1,62 @@
+{
+  "icao": "KCFT",
+  "iata": "CFT",
+  "name": "Greenlee County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.957039,
+    "longitude": -109.211397,
+    "elevation_ft": 3798,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Clifton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Greenlee_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4978,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 32.95190048,
+          "longitude": -109.2180023,
+          "elevation_ft": 3718,
+          "heading_true": 81.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 32.95389938,
+          "longitude": -109.2020035,
+          "elevation_ft": 3793,
+          "heading_true": 261.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

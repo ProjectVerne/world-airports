@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Crystal Lakes Resort Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.789100646972656,
+    "longitude": -114.87999725341797,
+    "elevation_ft": 3141,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Fortine"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5000,
+      "width_ft": 70,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 48.79499816894531,
+          "longitude": -114.88600158691406,
+          "elevation_ft": 0,
+          "heading_true": 148,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 48.78329849243164,
+          "longitude": -114.875,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 150
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 6610,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

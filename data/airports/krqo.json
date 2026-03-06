@@ -1,0 +1,84 @@
+{
+  "icao": "KRQO",
+  "iata": "RQO",
+  "name": "El Reno Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.472698,
+    "longitude": -98.005798,
+    "elevation_ft": 1420,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "El Reno"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Reno_Regional_Airport",
+  "keywords": [
+    "F28 KF28"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 5600,
+      "width_ft": 75,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 35.481201171875,
+          "longitude": -98.00430297851562,
+          "elevation_ft": 1412,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 35.46580123901367,
+          "longitude": -98.00430297851562,
+          "elevation_ft": 1414,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4017,
+      "width_ft": 190,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 35.47800064,
+          "longitude": -98.00759888,
+          "elevation_ft": 1417,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 35.46530151,
+          "longitude": -98.00759888,
+          "elevation_ft": 1417,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

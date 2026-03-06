@@ -1,0 +1,67 @@
+{
+  "icao": "KOGM",
+  "iata": null,
+  "name": "Ontonagon County Schuster Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.845501,
+    "longitude": -89.367104,
+    "elevation_ft": 669,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Ontonagon"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ontonagon_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3503,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 46.85010147,
+          "longitude": -89.36910248,
+          "elevation_ft": 639,
+          "heading_true": 163,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 46.84090042,
+          "longitude": -89.36509705,
+          "elevation_ft": 665,
+          "heading_true": 343,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 127.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

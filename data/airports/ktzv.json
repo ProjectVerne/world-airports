@@ -1,0 +1,62 @@
+{
+  "icao": "KTZV",
+  "iata": null,
+  "name": "Tompkinsville Monroe County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.729,
+    "longitude": -85.652397,
+    "elevation_ft": 1036,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Tompkinsville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tompkinsville-Monroe_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 36.7244987487793,
+          "longitude": -85.65619659423828,
+          "elevation_ft": 1016,
+          "heading_true": 34,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 36.73360061645508,
+          "longitude": -85.64849853515625,
+          "elevation_ft": 1037,
+          "heading_true": 214,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Glasgow Industrial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.421101,
+    "longitude": -106.528,
+    "elevation_ft": 2762,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Glasgow"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Glasgow_Industrial_Airport",
+  "keywords": [
+    "Glasgow Air Force Base"
+  ],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 13500,
+      "width_ft": 300,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 48.430301666259766,
+          "longitude": -106.552001953125,
+          "elevation_ft": 2757,
+          "heading_true": 120,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 48.411800384521484,
+          "longitude": -106.50399780273438,
+          "elevation_ft": 2748,
+          "heading_true": 300,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CITY CNTR",
+      "mhz": 126.85
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 6943,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

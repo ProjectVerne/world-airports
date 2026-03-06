@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Bresson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.762501,
+    "longitude": -89.101501,
+    "elevation_ft": 769,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Compton"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2590,
+      "width_ft": 184,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 41.76649856567383,
+          "longitude": -89.10179901123047,
+          "elevation_ft": 769,
+          "heading_true": 0,
+          "displaced_threshold_ft": 292
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 41.7593994140625,
+          "longitude": -89.10179901123047,
+          "elevation_ft": 769,
+          "heading_true": 359.1,
+          "displaced_threshold_ft": 320
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 16524,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

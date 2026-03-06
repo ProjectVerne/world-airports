@@ -1,0 +1,105 @@
+{
+  "icao": "KPPF",
+  "iata": "PPF",
+  "name": "Tri-City Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.32989883,
+    "longitude": -95.5062027,
+    "elevation_ft": 900,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Parsons"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tri-City_Airport_(Kansas)",
+  "keywords": [
+    "Cherryvale AAFAF #9"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4007,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 37.328800201416016,
+          "longitude": -95.51589965820312,
+          "elevation_ft": 864,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 37.336700439453125,
+          "longitude": -95.5062026977539,
+          "elevation_ft": 895,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 37.33769989,
+          "longitude": -95.5062027,
+          "elevation_ft": 899,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 37.32210159,
+          "longitude": -95.50610352,
+          "elevation_ft": 865,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.175
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 132.9
+    },
+    {
+      "type": "OTHER",
+      "description": "WICHITA RDO",
+      "mhz": 122.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

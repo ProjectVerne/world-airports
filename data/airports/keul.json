@@ -1,0 +1,85 @@
+{
+  "icao": "KEUL",
+  "iata": null,
+  "name": "Caldwell Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.641899,
+    "longitude": -116.636002,
+    "elevation_ft": 2432,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Caldwell"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Caldwell_Executive_Airport",
+  "keywords": [
+    "Caldwell Industrial",
+    "Treasure Valley Executive"
+  ],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 5500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 43.64720153808594,
+          "longitude": -116.64299774169922,
+          "elevation_ft": 2426,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 43.63650131225586,
+          "longitude": -116.62799835205078,
+          "elevation_ft": 2431,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BOISE APP/DEP",
+      "mhz": 119.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.075
+    },
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CITY CNTR",
+      "mhz": 118.05
+    },
+    {
+      "type": "OTHER",
+      "description": "BOISE RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

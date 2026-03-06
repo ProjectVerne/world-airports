@@ -1,0 +1,108 @@
+{
+  "icao": "KEZF",
+  "iata": null,
+  "name": "Shannon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.2668,
+    "longitude": -77.449203,
+    "elevation_ft": 85,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Fredericksburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Shannon_Airport_(Virginia)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 2902,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 38.263843,
+          "longitude": -77.452089,
+          "elevation_ft": 83,
+          "heading_true": 45,
+          "displaced_threshold_ft": 143
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 38.268942,
+          "longitude": -77.445529,
+          "elevation_ft": 85,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 1300,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 38.27000046,
+          "longitude": -77.45189667,
+          "elevation_ft": 0,
+          "heading_true": 144.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 38.26710129,
+          "longitude": -77.44930267,
+          "elevation_ft": 0,
+          "heading_true": 324.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POTOMAC APP/DEP",
+      "mhz": 124.65
+    },
+    {
+      "type": "OTHER",
+      "description": "QUANTICO ARRIVAL",
+      "mhz": 127.05
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 128.125
+    },
+    {
+      "type": "OTHER",
+      "description": "LEESBURG RDO",
+      "mhz": 114.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

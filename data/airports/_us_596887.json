@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Walker Family Farm Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.719514,
+    "longitude": -98.923333,
+    "elevation_ft": 1426,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Mountain Park"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 1000,
+      "width_ft": 40,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 36.83660125732422,
+          "longitude": -98.65779876708984,
+          "elevation_ft": 0,
+          "heading_true": 176.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 36.833900451660156,
+          "longitude": -98.65760040283203,
+          "elevation_ft": 0,
+          "heading_true": 356.5,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 596887,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

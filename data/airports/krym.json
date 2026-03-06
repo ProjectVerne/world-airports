@@ -1,0 +1,72 @@
+{
+  "icao": "KRYM",
+  "iata": null,
+  "name": "Ray S Miller Army Air Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.091202,
+    "longitude": -94.360497,
+    "elevation_ft": 1150,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Fort Ripley"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 6100,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 46.09709930419922,
+          "longitude": -94.36900329589844,
+          "elevation_ft": 1151,
+          "heading_true": 136,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 46.08530044555664,
+          "longitude": -94.35209655761719,
+          "elevation_ft": 1145,
+          "heading_true": 316,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS THREE",
+      "mhz": 148.35
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 126.2
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 118.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

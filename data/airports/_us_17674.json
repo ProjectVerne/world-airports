@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Salem Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.604253,
+    "longitude": -86.151042,
+    "elevation_ft": 840,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Salem"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Salem_Municipal_Airport_(Indiana)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 2738,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 38.602501,
+          "longitude": -86.145401,
+          "elevation_ft": 821,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 38.601398,
+          "longitude": -86.135902,
+          "elevation_ft": 810,
+          "heading_true": 306,
+          "displaced_threshold_ft": 238
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17674,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

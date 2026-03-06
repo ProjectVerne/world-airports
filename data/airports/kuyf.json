@@ -1,0 +1,72 @@
+{
+  "icao": "KUYF",
+  "iata": null,
+  "name": "Madison County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.932701,
+    "longitude": -83.461998,
+    "elevation_ft": 1082,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "London"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Madison_County_Airport_(Ohio)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 39.93239975,
+          "longitude": -83.46910095,
+          "elevation_ft": 1081,
+          "heading_true": 86.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 39.93299866,
+          "longitude": -83.45490265,
+          "elevation_ft": 1053,
+          "heading_true": 266.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "DAYTON APP",
+      "mhz": 118.85
+    },
+    {
+      "type": "DEP",
+      "description": "DAYTON DEP",
+      "mhz": 126.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

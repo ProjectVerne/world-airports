@@ -1,0 +1,74 @@
+{
+  "icao": "KNEN",
+  "iata": "NEN",
+  "name": "Whitehouse Naval Outlying Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.353900909424,
+    "longitude": -81.87190246582,
+    "elevation_ft": 99,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Whitehouse NOLF"
+  ],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 8001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 30.35720062,
+          "longitude": -81.8839035,
+          "elevation_ft": 95,
+          "heading_true": 12,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 30.35059929,
+          "longitude": -81.86000061,
+          "elevation_ft": 97,
+          "heading_true": 288,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "JACKSONVILLE APP",
+      "mhz": 123.8
+    },
+    {
+      "type": "DEP",
+      "description": "JACKSONVILLE DEP",
+      "mhz": 123.8
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 135.4
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Smith Heliport",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 39.150101,
+    "longitude": -78.2164,
+    "elevation_ft": 800,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Winchester"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "16VA"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 8024,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

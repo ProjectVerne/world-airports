@@ -1,0 +1,67 @@
+{
+  "icao": "KLND",
+  "iata": "LND",
+  "name": "Hunt Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.815201,
+    "longitude": -108.730003,
+    "elevation_ft": 5586,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Lander"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hunt_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 42.8102,
+          "longitude": -108.736,
+          "elevation_ft": 5586,
+          "heading_true": 42,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 42.820301,
+          "longitude": -108.723999,
+          "elevation_ft": 0,
+          "heading_true": 222,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.15
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

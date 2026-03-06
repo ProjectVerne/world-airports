@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Earl L. Small Jr. Field/Stockmar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.756500244099996,
+    "longitude": -84.88469696039999,
+    "elevation_ft": 1110,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Villa Rica"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 4500,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 33.757301330566406,
+          "longitude": -84.8927993774414,
+          "elevation_ft": 1064,
+          "heading_true": 97,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 33.75590133666992,
+          "longitude": -84.87770080566406,
+          "elevation_ft": 1094,
+          "heading_true": 277,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MULT",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 8787,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

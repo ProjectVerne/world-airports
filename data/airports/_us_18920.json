@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Roy Wilcox Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.451799,
+    "longitude": -88.194504,
+    "elevation_ft": 165,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Chatom"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Roy_Wilcox_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4002,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 31.45470047,
+          "longitude": -88.19999695,
+          "elevation_ft": 0,
+          "heading_true": 120,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 31.44919968,
+          "longitude": -88.18890381,
+          "elevation_ft": 0,
+          "heading_true": 300,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18920,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

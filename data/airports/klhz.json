@@ -1,0 +1,75 @@
+{
+  "icao": "KLHZ",
+  "iata": "LFN",
+  "name": "Triangle North Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.0233,
+    "longitude": -78.330299,
+    "elevation_ft": 369,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Louisburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Triangle_North_Executive_Airport",
+  "keywords": [
+    "2N9",
+    "Franklin County Airport"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5498,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 36.01760101,
+          "longitude": -78.33640289,
+          "elevation_ft": 366,
+          "heading_true": 41,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 36.02899933,
+          "longitude": -78.32420349,
+          "elevation_ft": 330,
+          "heading_true": 221,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "RALEIGH APP/DEP",
+      "mhz": 125.3
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.325
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

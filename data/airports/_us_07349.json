@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Topton Air Estates Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.474998474121094,
+    "longitude": -88.61669921875,
+    "elevation_ft": 453,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Meridian"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3200,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 32.47159957885742,
+          "longitude": -88.62000274658203,
+          "elevation_ft": 0,
+          "heading_true": 40,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 32.47840118408203,
+          "longitude": -88.61329650878906,
+          "elevation_ft": 0,
+          "heading_true": 310.3,
+          "displaced_threshold_ft": 380
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 7349,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

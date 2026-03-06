@@ -1,0 +1,59 @@
+{
+  "icao": "KPUJ",
+  "iata": null,
+  "name": "Silver Comet Field at Paulding Northwest Atlanta Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.912328,
+    "longitude": -84.941111,
+    "elevation_ft": 1289,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Dallas"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Silver_Comet_Field_at_Paulding_Northwest_Atlanta_Airport",
+  "keywords": [
+    "Paulding County Regional Airport",
+    "Silver Comet Field"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5505,
+      "width_ft": 100,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 33.91659927368164,
+          "longitude": -84.94779968261719,
+          "elevation_ft": 1289,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 33.90739822387695,
+          "longitude": -84.93340301513672,
+          "elevation_ft": 1282,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

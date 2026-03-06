@@ -1,0 +1,74 @@
+{
+  "icao": "KLUD",
+  "iata": null,
+  "name": "Decatur Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.254601,
+    "longitude": -97.580597,
+    "elevation_ft": 1047,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Decatur"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Decatur_Municipal_Airport",
+  "keywords": [
+    "8F7"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 4200,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.25999832,
+          "longitude": -97.58139801,
+          "elevation_ft": 1041,
+          "heading_true": 172.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.2492981,
+          "longitude": -97.57969666,
+          "elevation_ft": 1035,
+          "heading_true": 352.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "RGNL APP/DEP",
+      "mhz": 118.1
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.225
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

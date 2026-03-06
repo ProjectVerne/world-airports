@@ -1,0 +1,134 @@
+{
+  "icao": "KRID",
+  "iata": "RID",
+  "name": "Richmond Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.757198,
+    "longitude": -84.842796,
+    "elevation_ft": 1140,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Richmond"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Richmond_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 5502,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 39.75170135,
+          "longitude": -84.85009766,
+          "elevation_ft": 1135,
+          "heading_true": 55.2,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 39.76029968,
+          "longitude": -84.83409882,
+          "elevation_ft": 1138,
+          "heading_true": 235.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 3560,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 39.76089859008789,
+          "longitude": -84.84989929199219,
+          "elevation_ft": 1124,
+          "heading_true": 100,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 39.75920104980469,
+          "longitude": -84.83740234375,
+          "elevation_ft": 1137,
+          "heading_true": 280,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 4999,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 39.76190186,
+          "longitude": -84.84850311,
+          "elevation_ft": 1127,
+          "heading_true": 145,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 39.75059891,
+          "longitude": -84.83830261,
+          "elevation_ft": 1140,
+          "heading_true": 325,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DAYTON APP/DEP",
+      "mhz": 134.45
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 121.225
+    },
+    {
+      "type": "OTHER",
+      "description": "DAYTON CLNC DEL",
+      "mhz": 133.55
+    },
+    {
+      "type": "OTHER",
+      "description": "TERRE HAUTE RDO",
+      "mhz": 110.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

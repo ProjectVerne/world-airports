@@ -1,0 +1,72 @@
+{
+  "icao": "KHBG",
+  "iata": "HBG",
+  "name": "Hattiesburg Bobby L Chain Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.26479912,
+    "longitude": -89.25279999,
+    "elevation_ft": 151,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Hattiesburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hattiesburg_Bobby_L._Chain_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 6094,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 31.27050018,
+          "longitude": -89.26029968,
+          "elevation_ft": 149,
+          "heading_true": 131,
+          "displaced_threshold_ft": 1000
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 31.2595005,
+          "longitude": -89.24549866,
+          "elevation_ft": 142,
+          "heading_true": 311,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.425
+    },
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 126.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

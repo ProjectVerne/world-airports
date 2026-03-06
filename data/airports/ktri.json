@@ -1,0 +1,123 @@
+{
+  "icao": "KTRI",
+  "iata": "TRI",
+  "name": "Tri-Cities Regional TN/VA Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.475201,
+    "longitude": -82.407401,
+    "elevation_ft": 1519,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Blountville"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tri-Cities_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 8000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 36.46530151,
+          "longitude": -82.4190979,
+          "elevation_ft": 1488,
+          "heading_true": 42.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 36.48149872,
+          "longitude": -82.40070343,
+          "elevation_ft": 1518,
+          "heading_true": 222.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 4443,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 36.47829819,
+          "longitude": -82.41049957,
+          "elevation_ft": 1519,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 36.47850037,
+          "longitude": -82.395401,
+          "elevation_ft": 1509,
+          "heading_true": 269,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 119.25
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.25
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.5
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "NASHVILLE RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

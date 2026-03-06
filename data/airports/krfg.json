@@ -1,0 +1,88 @@
+{
+  "icao": "KRFG",
+  "iata": "RFG",
+  "name": "Rooke Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.2936,
+    "longitude": -97.322998,
+    "elevation_ft": 56,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Refugio"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2650,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 28.290599822998047,
+          "longitude": -97.32499694824219,
+          "elevation_ft": 0,
+          "heading_true": 103.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 28.28890037536621,
+          "longitude": -97.31690216064453,
+          "elevation_ft": 0,
+          "heading_true": 283.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4361,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 28.300800323486328,
+          "longitude": -97.32720184326172,
+          "elevation_ft": 0,
+          "heading_true": 153,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 28.29010009765625,
+          "longitude": -97.32109832763672,
+          "elevation_ft": 0,
+          "heading_true": 333,
+          "displaced_threshold_ft": 166
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

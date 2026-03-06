@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Buckeye Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.961215,
+    "longitude": -82.540723,
+    "elevation_ft": 914,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Hebron"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 2764,
+      "width_ft": 25,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 39.95790100097656,
+          "longitude": -82.54090118408203,
+          "elevation_ft": 905,
+          "heading_true": 3,
+          "displaced_threshold_ft": 189
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 39.96549987792969,
+          "longitude": -82.54039764404297,
+          "elevation_ft": 914,
+          "heading_true": 183,
+          "displaced_threshold_ft": 177
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 15883,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

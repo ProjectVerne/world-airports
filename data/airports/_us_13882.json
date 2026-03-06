@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Long Lake Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 43.986944,
+    "longitude": -70.618611,
+    "elevation_ft": 268,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Naples"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Long_Lake_Seaplane_Base_(Naples,_Maine)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16W/34W",
+      "length_ft": 15000,
+      "width_ft": 3960,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16W",
+          "latitude": 44.00114822387695,
+          "longitude": -70.6390609741211,
+          "elevation_ft": 268,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34W",
+          "latitude": 43.972679138183594,
+          "longitude": -70.59789276123047,
+          "elevation_ft": 268,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 13882,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

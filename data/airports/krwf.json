@@ -1,0 +1,103 @@
+{
+  "icao": "KRWF",
+  "iata": "RWF",
+  "name": "Redwood Falls Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.547199,
+    "longitude": -95.082298,
+    "elevation_ft": 1024,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Redwood Falls"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Redwood_Falls_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2081,
+      "width_ft": 200,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 44.54460144,
+          "longitude": -95.08480072,
+          "elevation_ft": 1017,
+          "heading_true": 56,
+          "displaced_threshold_ft": 325
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 44.54779816,
+          "longitude": -95.07830048,
+          "elevation_ft": 1018,
+          "heading_true": 236,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 4001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 44.55110168457031,
+          "longitude": -95.08869934082031,
+          "elevation_ft": 1016,
+          "heading_true": 128,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 44.54439926147461,
+          "longitude": -95.07659912109375,
+          "elevation_ft": 1021,
+          "heading_true": 308,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 126.575
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 127.1
+    },
+    {
+      "type": "OTHER",
+      "description": "PRINCETON RDO",
+      "mhz": 122.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

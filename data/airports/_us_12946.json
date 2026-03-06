@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Lee Bottom Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.631198883057,
+    "longitude": -85.443603515625,
+    "elevation_ft": 470,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Hanover"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lee_Bottom_Airport",
+  "keywords": [
+    "II93"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4080,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 38.637001037597656,
+          "longitude": -85.44450378417969,
+          "elevation_ft": 473,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 38.62590026855469,
+          "longitude": -85.44229888916016,
+          "elevation_ft": 464,
+          "heading_true": 196,
+          "displaced_threshold_ft": 800
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12946,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "icao": "PANW",
+  "iata": "KNW",
+  "name": "New Stuyahok Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.451838,
+    "longitude": -157.373829,
+    "elevation_ft": 364,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "New Stuyahok"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Stuyahok_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3281,
+      "width_ft": 75,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 59.45550156,
+          "longitude": -157.3769989,
+          "elevation_ft": 364,
+          "heading_true": 153,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 59.44749832,
+          "longitude": -157.3690033,
+          "elevation_ft": 321,
+          "heading_true": 333,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

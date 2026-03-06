@@ -1,0 +1,118 @@
+{
+  "icao": "KCAE",
+  "iata": "CAE",
+  "name": "Columbia Metropolitan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.938172,
+    "longitude": -81.123022,
+    "elevation_ft": 236,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Columbia"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Columbia_Metropolitan_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 8001,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 33.92850112915039,
+          "longitude": -81.1240005493164,
+          "elevation_ft": 228,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 33.94419860839844,
+          "longitude": -81.10540008544922,
+          "elevation_ft": 209,
+          "heading_true": 225,
+          "displaced_threshold_ft": 1000
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 8601,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 33.94409942626953,
+          "longitude": -81.13780212402344,
+          "elevation_ft": 229,
+          "heading_true": 105,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 33.938201904296875,
+          "longitude": -81.11029815673828,
+          "elevation_ft": 210,
+          "heading_true": 285,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 124.15
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 120.15
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.75
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ANDERSON RDO",
+      "mhz": 122.65
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

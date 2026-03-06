@@ -1,0 +1,77 @@
+{
+  "icao": "KELZ",
+  "iata": "ELZ",
+  "name": "Wellsville Municipal Airport - Tarantine Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.109501,
+    "longitude": -77.989998,
+    "elevation_ft": 2124,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Wellsville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wellsville_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 5300,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 42.1094017,
+          "longitude": -77.99970245,
+          "elevation_ft": 2124,
+          "heading_true": 90,
+          "displaced_threshold_ft": 400
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 42.10960007,
+          "longitude": -77.98020172,
+          "elevation_ft": 2100,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.275
+    },
+    {
+      "type": "OTHER",
+      "description": "CLEVELAND CNTR",
+      "mhz": 124.325
+    },
+    {
+      "type": "OTHER",
+      "description": "BUFFALO RDO",
+      "mhz": 111.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

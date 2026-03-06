@@ -1,0 +1,77 @@
+{
+  "icao": "KBIJ",
+  "iata": null,
+  "name": "Early County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.397499084472656,
+    "longitude": -84.8947982788086,
+    "elevation_ft": 214,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Blakely"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5494,
+      "width_ft": 98,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 31.39259911,
+          "longitude": -84.90149689,
+          "elevation_ft": 214,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 31.40239906,
+          "longitude": -84.88809967,
+          "elevation_ft": 205,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CAIRNS APP/DEP",
+      "mhz": 125.4
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.475
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "MACON FSS",
+      "mhz": 121.725
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

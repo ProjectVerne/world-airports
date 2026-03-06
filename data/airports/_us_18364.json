@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Williams County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.4674,
+    "longitude": -84.506599,
+    "elevation_ft": 730,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Bryan"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Williams_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4782,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 41.46490097,
+          "longitude": -84.51490021,
+          "elevation_ft": 730,
+          "heading_true": 68,
+          "displaced_threshold_ft": 296
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 41.46969986,
+          "longitude": -84.498703,
+          "elevation_ft": 730,
+          "heading_true": 248,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TOLEDO APP/DEP",
+      "mhz": 134.35
+    },
+    {
+      "type": "OTHER",
+      "description": "LANSING RDO",
+      "mhz": 111.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18364,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "icao": "KSNC",
+  "iata": null,
+  "name": "Chester Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.384177,
+    "longitude": -72.506011,
+    "elevation_ft": 416,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Chester"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chester_Airport",
+  "keywords": [
+    "3B9"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 2722,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 41.38710022,
+          "longitude": -72.50789642,
+          "elevation_ft": 400,
+          "heading_true": 160.9,
+          "displaced_threshold_ft": 559
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 41.38050079,
+          "longitude": -72.50479889,
+          "elevation_ft": 408,
+          "heading_true": 340.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NEW YORK APP/DEP",
+      "mhz": 124.075
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.325
+    },
+    {
+      "type": "OTHER",
+      "description": "BRIDGEPORT RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

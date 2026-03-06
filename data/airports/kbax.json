@@ -1,0 +1,105 @@
+{
+  "icao": "KBAX",
+  "iata": null,
+  "name": "Huron County Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.780201,
+    "longitude": -82.985397,
+    "elevation_ft": 763,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Bad Axe"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Huron_County_Memorial_Airport",
+  "keywords": [
+    "E53"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3495,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 43.77859879,
+          "longitude": -82.9890976,
+          "elevation_ft": 756,
+          "heading_true": 28.4,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 43.78710175,
+          "longitude": -82.98280334,
+          "elevation_ft": 765,
+          "heading_true": 208.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 43.78499984741211,
+          "longitude": -82.98760223388672,
+          "elevation_ft": 763,
+          "heading_true": 164.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 43.77180099487305,
+          "longitude": -82.98259735107422,
+          "elevation_ft": 754,
+          "heading_true": 344.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 108.2
+    },
+    {
+      "type": "OTHER",
+      "description": "CLEVELAND CNTR",
+      "mhz": 127.7
+    },
+    {
+      "type": "FSS",
+      "description": "LANSING RDO",
+      "mhz": 122.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

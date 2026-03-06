@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Laurel Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.542198,
+    "longitude": -75.594398,
+    "elevation_ft": 30,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Laurel"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Western_Sussex_Airport",
+  "keywords": [
+    "Western Sussex Airport-Booth Field"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 20597,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

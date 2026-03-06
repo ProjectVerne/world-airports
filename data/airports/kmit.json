@@ -1,0 +1,96 @@
+{
+  "icao": "KMIT",
+  "iata": "MIT",
+  "name": "Shafter Airport - Minter Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.507401,
+    "longitude": -119.192002,
+    "elevation_ft": 424,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Shafter"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Shafter_Airport",
+  "keywords": [
+    "Lerdo Field",
+    "Minter Field AAF"
+  ],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4501,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 35.51070022583008,
+          "longitude": -119.20099639892578,
+          "elevation_ft": 410,
+          "heading_true": 133,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 35.502201080322266,
+          "longitude": -119.19000244140625,
+          "elevation_ft": 410,
+          "heading_true": 313,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 2972,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 35.509300231933594,
+          "longitude": -119.18599700927734,
+          "elevation_ft": 421,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 35.5010986328125,
+          "longitude": -119.18599700927734,
+          "elevation_ft": 412,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BAKERSFIELD APP/DEP",
+      "mhz": 126.45
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

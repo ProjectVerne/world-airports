@@ -1,0 +1,87 @@
+{
+  "icao": "PFYU",
+  "iata": "FYU",
+  "name": "Fort Yukon Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.571651,
+    "longitude": -145.249987,
+    "elevation_ft": 433,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Fort Yukon"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Yukon_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 66.56759644,
+          "longitude": -145.2680054,
+          "elevation_ft": 431,
+          "heading_true": 60,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 66.57540131,
+          "longitude": -145.2330017,
+          "elevation_ft": 433,
+          "heading_true": 240,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 125.8
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 135
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.5
+    },
+    {
+      "type": "FSS",
+      "description": "FAIRBANKS RDO",
+      "mhz": 122.1
+    },
+    {
+      "type": "OTHER",
+      "description": "EIELSON RANGE CON",
+      "mhz": 125.3
+    },
+    {
+      "type": "OTHER",
+      "description": "TWEB",
+      "mhz": 114.4
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

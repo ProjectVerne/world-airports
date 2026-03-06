@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Avey Field State/Laurier Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.998264,
+    "longitude": -118.222605,
+    "elevation_ft": 1655,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Laurier"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Avey_Field_State_Airport",
+  "keywords": [
+    "Avey Field State Airport"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 1975,
+      "width_ft": 40,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 49.0010986328125,
+          "longitude": -118.22200012207031,
+          "elevation_ft": 0,
+          "heading_true": 185,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 48.99570083618164,
+          "longitude": -118.2229995727539,
+          "elevation_ft": 0,
+          "heading_true": 5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 608,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

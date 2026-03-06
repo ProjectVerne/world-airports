@@ -1,0 +1,170 @@
+{
+  "icao": "KMWC",
+  "iata": "MWC",
+  "name": "Lawrence J Timmerman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.110401,
+    "longitude": -88.034401,
+    "elevation_ft": 745,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Milwaukee"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_J._Timmerman_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04L/22R",
+      "length_ft": 3203,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04L",
+          "latitude": 43.10710144,
+          "longitude": -88.0381012,
+          "elevation_ft": 737,
+          "heading_true": 36,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22R",
+          "latitude": 43.11420059,
+          "longitude": -88.03099823,
+          "elevation_ft": 738,
+          "heading_true": 216,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "04R/22L",
+      "length_ft": 2840,
+      "width_ft": 270,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04R",
+          "latitude": 43.10639954,
+          "longitude": -88.03610229,
+          "elevation_ft": 732,
+          "heading_true": 36,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22L",
+          "latitude": 43.11270142,
+          "longitude": -88.02970123,
+          "elevation_ft": 736,
+          "heading_true": 216,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15L/33R",
+      "length_ft": 4107,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15L",
+          "latitude": 43.11579895,
+          "longitude": -88.03859711,
+          "elevation_ft": 744,
+          "heading_true": 146,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33R",
+          "latitude": 43.10649872,
+          "longitude": -88.0298996,
+          "elevation_ft": 744,
+          "heading_true": 326,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15R/33L",
+      "length_ft": 3231,
+      "width_ft": 270,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15R",
+          "latitude": 43.11349869,
+          "longitude": -88.03919983,
+          "elevation_ft": 742,
+          "heading_true": 145,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33L",
+          "latitude": 43.10620117,
+          "longitude": -88.03230286,
+          "elevation_ft": 733,
+          "heading_true": 325,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MILWAUKEE APP/DEP",
+      "mhz": 128.7
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 128.3
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.5
+    },
+    {
+      "type": "GND",
+      "description": "TIMMERMAN GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 112.5
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

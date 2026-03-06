@@ -1,0 +1,165 @@
+{
+  "icao": "KFTK",
+  "iata": "FTK",
+  "name": "Godman Army Air Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.907100677500004,
+    "longitude": -85.9720993042,
+    "elevation_ft": 756,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Fort Knox"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Godman_Army_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 1900,
+      "width_ft": 90,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 37.90679931640625,
+          "longitude": -85.97090148925781,
+          "elevation_ft": 724,
+          "heading_true": 46,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 37.910400390625,
+          "longitude": -85.96630096435547,
+          "elevation_ft": 743,
+          "heading_true": 226,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 4999,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 37.908599853515625,
+          "longitude": -85.97979736328125,
+          "elevation_ft": 738,
+          "heading_true": 96.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 37.90700149536133,
+          "longitude": -85.96260070800781,
+          "elevation_ft": 728,
+          "heading_true": 276.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 4853,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 37.9117012,
+          "longitude": -85.97810364,
+          "elevation_ft": 754,
+          "heading_true": 148.3,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 37.90029907,
+          "longitude": -85.96920013,
+          "elevation_ft": 754,
+          "heading_true": 328.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5184,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 37.91419983,
+          "longitude": -85.97029877,
+          "elevation_ft": 754,
+          "heading_true": 176.6,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 37.90000153,
+          "longitude": -85.96929932,
+          "elevation_ft": 754,
+          "heading_true": 356.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "LOUISVILLE APP/DEP",
+      "mhz": 123.675
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 109.6
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126.8
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "BASE OPS",
+      "mhz": 126.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 126.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "icao": "KPKB",
+  "iata": "PKB",
+  "name": "Mid Ohio Valley Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.3451,
+    "longitude": -81.439201,
+    "elevation_ft": 858,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Parkersburg (Williamstown)"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mid-Ohio_Valley_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 7240,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 39.33779907,
+          "longitude": -81.44339752,
+          "elevation_ft": 806,
+          "heading_true": 22,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 39.35509872,
+          "longitude": -81.43440247,
+          "elevation_ft": 858,
+          "heading_true": 202,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 4002,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 39.34329987,
+          "longitude": -81.44670105,
+          "elevation_ft": 831,
+          "heading_true": 95,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 39.34230042,
+          "longitude": -81.43260193,
+          "elevation_ft": 838,
+          "heading_true": 275,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.35
+    },
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS CNTR",
+      "mhz": 125.55
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 123.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "TWR",
+      "description": "PARKERSBURG TWR",
+      "mhz": 123.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

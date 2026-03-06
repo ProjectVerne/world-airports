@@ -1,0 +1,87 @@
+{
+  "icao": "KGRK",
+  "iata": "GRK",
+  "name": "Killeen Regional Airport / Robert Gray Army Airfield",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.0672,
+    "longitude": -97.828903,
+    "elevation_ft": 1015,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Cavazos"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Killeen_Regional_Airport",
+  "keywords": [
+    "Gray",
+    "Fort Hood",
+    "Robert Gray Army Airfield",
+    "Killeen/Fort Hood Regional"
+  ],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 9997,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 31.07990074,
+          "longitude": -97.83509827,
+          "elevation_ft": 1019,
+          "heading_true": 157.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 31.05459976,
+          "longitude": -97.82279968,
+          "elevation_ft": 970,
+          "heading_true": 337.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "GRAY APP/DEP",
+      "mhz": 120.075
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 111.8
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.8
+    },
+    {
+      "type": "GND",
+      "description": "GRAY GND",
+      "mhz": 126.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.75
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

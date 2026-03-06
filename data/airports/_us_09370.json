@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Sharpe's Strip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.95159912109375,
+    "longitude": -82.7759017944336,
+    "elevation_ft": 810,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Emmett"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2700,
+      "width_ft": 90,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 42.955299377441406,
+          "longitude": -82.7761001586914,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 700
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 42.947898864746094,
+          "longitude": -82.77570343017578,
+          "elevation_ft": 0,
+          "heading_true": 311.7,
+          "displaced_threshold_ft": 275
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 9370,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}
