@@ -1,0 +1,28 @@
+name: Validate
+
+on:
+  pull_request:
+    paths:
+      - "data/airports/**"
+      - "scripts/validate.js"
+  push:
+    branches:
+      - main
+    paths:
+      - "data/airports/**"
+      - "scripts/validate.js"
+
+jobs:
+  validate:
+    name: Validate airport JSON files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run validator
+        run: node scripts/validate.js
