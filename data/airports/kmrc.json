@@ -1,0 +1,98 @@
+{
+  "icao": "KMRC",
+  "iata": "MRC",
+  "name": "Maury County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.5541000366,
+    "longitude": -87.17890167239999,
+    "elevation_ft": 681,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Columbia/Mount Pleasant"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Maury_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 6000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 35.5503006,
+          "longitude": -87.18710327,
+          "elevation_ft": 664,
+          "heading_true": 53.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 35.56010056,
+          "longitude": -87.17089844,
+          "elevation_ft": 681,
+          "heading_true": 233.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 1941,
+      "width_ft": 95,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 35.55519867,
+          "longitude": -87.1785965,
+          "elevation_ft": 0,
+          "heading_true": 170,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 35.54980087,
+          "longitude": -87.17739868,
+          "elevation_ft": 0,
+          "heading_true": 350,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 128.625
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 125.85
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "icao": "KMBG",
+  "iata": "MBG",
+  "name": "Mobridge Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.54650116,
+    "longitude": -100.4079971,
+    "elevation_ft": 1716,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Mobridge"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mobridge_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4410,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 45.55009842,
+          "longitude": -100.4150009,
+          "elevation_ft": 1702,
+          "heading_true": 126.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 45.54290009,
+          "longitude": -100.401001,
+          "elevation_ft": 1699,
+          "heading_true": 306.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 2387,
+      "width_ft": 250,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 45.54940033,
+          "longitude": -100.4029999,
+          "elevation_ft": 1715,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 45.5428009,
+          "longitude": -100.4029999,
+          "elevation_ft": 1691,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 121.425
+    },
+    {
+      "type": "OTHER",
+      "description": "HURON RDO",
+      "mhz": 122.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

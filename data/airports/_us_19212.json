@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Weydahl Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.392799377441406,
+    "longitude": -102.77100372314453,
+    "elevation_ft": 2256,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Killdeer"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4200,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 47.39580154418945,
+          "longitude": -102.7770004272461,
+          "elevation_ft": 2260,
+          "heading_true": 133,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 47.38800048828125,
+          "longitude": -102.76399993896484,
+          "elevation_ft": 2240,
+          "heading_true": 313,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19212,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

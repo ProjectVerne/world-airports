@@ -1,0 +1,72 @@
+{
+  "icao": "KOSA",
+  "iata": "MPS",
+  "name": "Mount Pleasant Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.095501,
+    "longitude": -94.961502,
+    "elevation_ft": 364,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Mount Pleasant"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mount_Pleasant_Regional_Airport_(Texas)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 6004,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.10229874,
+          "longitude": -94.96269989,
+          "elevation_ft": 363,
+          "heading_true": 172,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.08869934,
+          "longitude": -94.96040344,
+          "elevation_ft": 341,
+          "heading_true": 352,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 132.85
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.775
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

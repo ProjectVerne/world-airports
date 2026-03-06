@@ -1,0 +1,100 @@
+{
+  "icao": "KDXX",
+  "iata": null,
+  "name": "Lac Qui Parle County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.986198,
+    "longitude": -96.177696,
+    "elevation_ft": 1082,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Louisburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lac_qui_Parle_County_Airport",
+  "keywords": [
+    "Madison Township Airport"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3003,
+      "width_ft": 135,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 44.985901,
+          "longitude": -96.182297,
+          "elevation_ft": 1082,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 44.985901,
+          "longitude": -96.170601,
+          "elevation_ft": 1082,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3300,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 44.990002,
+          "longitude": -96.183098,
+          "elevation_ft": 1082,
+          "heading_true": 140,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 44.983002,
+          "longitude": -96.174896,
+          "elevation_ft": 1077,
+          "heading_true": 320,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 128.5
+    },
+    {
+      "type": "OTHER",
+      "description": "PRINCETON RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

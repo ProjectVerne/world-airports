@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Powhatan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.24850082397461,
+    "longitude": -77.21910095214844,
+    "elevation_ft": 60,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "King George"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "E/W",
+      "length_ft": 4888,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "E",
+          "latitude": 38.24720001220703,
+          "longitude": -77.22750091552734,
+          "elevation_ft": 0,
+          "heading_true": 79.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "W",
+          "latitude": 38.249698638916016,
+          "longitude": -77.21080017089844,
+          "elevation_ft": 0,
+          "heading_true": 259.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 25389,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

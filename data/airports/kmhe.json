@@ -1,0 +1,100 @@
+{
+  "icao": "KMHE",
+  "iata": "MHE",
+  "name": "Mitchell Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.774799346900004,
+    "longitude": -98.03859710690001,
+    "elevation_ft": 1304,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Mitchell"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mitchell_Municipal_Airport",
+  "keywords": [
+    "Mitchell AAF"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 6701,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 43.780899,
+          "longitude": -98.051498,
+          "elevation_ft": 1296,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 43.768101,
+          "longitude": -98.033401,
+          "elevation_ft": 1303,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5513,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 43.782799,
+          "longitude": -98.033997,
+          "elevation_ft": 1283,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 43.767601,
+          "longitude": -98.033897,
+          "elevation_ft": 1303,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 124.175
+    },
+    {
+      "type": "OTHER",
+      "description": "HURON RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

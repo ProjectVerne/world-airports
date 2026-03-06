@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Chaparrosa Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.8794002532959,
+    "longitude": -99.9906005859375,
+    "elevation_ft": 680,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "La Pryor"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 5200,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 28.88549995,
+          "longitude": -99.99459839,
+          "elevation_ft": 0,
+          "heading_true": 150,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 28.87330055,
+          "longitude": -99.98660278,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 126.625
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 13746,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "A1 HVM Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.0995,
+    "longitude": -96.598444,
+    "elevation_ft": 610,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lucas"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 604241,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

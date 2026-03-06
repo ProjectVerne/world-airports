@@ -1,0 +1,38 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "A Bar A Ranch Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.15557,
+    "longitude": -106.555966,
+    "elevation_ft": 7880,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Encampment"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "A Bar A"
+  ],
+  "runways": [],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 26073,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

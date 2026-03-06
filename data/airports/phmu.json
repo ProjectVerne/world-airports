@@ -1,0 +1,72 @@
+{
+  "icao": "PHMU",
+  "iata": "MUE",
+  "name": "Waimea Kohala Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.001301,
+    "longitude": -155.667999,
+    "elevation_ft": 2671,
+    "continent": "OC",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Waimea (Kamuela)"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Waimea-Kohala_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5197,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 19.99690055847168,
+          "longitude": -155.6739959716797,
+          "elevation_ft": 2662,
+          "heading_true": 52,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 20.005699157714844,
+          "longitude": -155.66200256347656,
+          "elevation_ft": 2671,
+          "heading_true": 232,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HONOLULU CNTR",
+      "mhz": 126
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "HONOLULU",
+      "mhz": 122.1
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

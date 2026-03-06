@@ -1,0 +1,98 @@
+{
+  "icao": "KGUY",
+  "iata": "GUY",
+  "name": "Guymon Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.6851005554,
+    "longitude": -101.508003235,
+    "elevation_ft": 3123,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Guymon"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Guymon_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 1795,
+      "width_ft": 200,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 36.680599212646484,
+          "longitude": -101.50800323486328,
+          "elevation_ft": 0,
+          "heading_true": 68.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 36.68239974975586,
+          "longitude": -101.50199890136719,
+          "elevation_ft": 0,
+          "heading_true": 248.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5904,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 36.69309998,
+          "longitude": -101.5070038,
+          "elevation_ft": 3101,
+          "heading_true": 186.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 36.67699814,
+          "longitude": -101.5090027,
+          "elevation_ft": 3107,
+          "heading_true": 6.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.925
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 134
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

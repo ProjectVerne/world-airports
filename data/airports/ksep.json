@@ -1,0 +1,100 @@
+{
+  "icao": "KSEP",
+  "iata": "SEP",
+  "name": "Stephenville Clark Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.215302,
+    "longitude": -98.177696,
+    "elevation_ft": 1321,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Stephenville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Stephenville_Clark_Regional_Airport",
+  "keywords": [
+    "Clark Field"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2502,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 32.212799072265625,
+          "longitude": -98.18309783935547,
+          "elevation_ft": 1303,
+          "heading_true": 39,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 32.218101501464844,
+          "longitude": -98.1780014038086,
+          "elevation_ft": 1315,
+          "heading_true": 219,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4209,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 32.22029877,
+          "longitude": -98.18119812,
+          "elevation_ft": 1321,
+          "heading_true": 149.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 32.21039963,
+          "longitude": -98.17420197,
+          "elevation_ft": 1289,
+          "heading_true": 329.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.075
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 127.15
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "icao": "KMEJ",
+  "iata": null,
+  "name": "Meade Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.27690124511719,
+    "longitude": -100.35600280761719,
+    "elevation_ft": 2529,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Meade"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2085,
+      "width_ft": 85,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 37.28179932,
+          "longitude": -100.3619995,
+          "elevation_ft": 2529,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 37.28179932,
+          "longitude": -100.3539963,
+          "elevation_ft": 2510,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 4800,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 37.28390121459961,
+          "longitude": -100.35600280761719,
+          "elevation_ft": 2517,
+          "heading_true": 176,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 37.27069854736328,
+          "longitude": -100.3550033569336,
+          "elevation_ft": 2502,
+          "heading_true": 356,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 134
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "icao": "KNUC",
+  "iata": null,
+  "name": "San Clemente Island Naval Auxiliary Landing Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.02270126,
+    "longitude": -118.5879974,
+    "elevation_ft": 184,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Clemente Island"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Auxiliary_Landing_Field_San_Clemente_Island",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 9301,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 33.017799,
+          "longitude": -118.601997,
+          "elevation_ft": 91,
+          "heading_true": 67,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 33.027699,
+          "longitude": -118.573997,
+          "elevation_ft": 184,
+          "heading_true": 247,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BEAVER CON",
+      "mhz": 120.85
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 119.55
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 126.75
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

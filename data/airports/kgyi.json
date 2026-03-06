@@ -1,0 +1,107 @@
+{
+  "icao": "KGYI",
+  "iata": "PNX",
+  "name": "North Texas Regional Airport Perrin Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.7141,
+    "longitude": -96.673698,
+    "elevation_ft": 749,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Denison"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Texas_Regional_Airport",
+  "keywords": [
+    "Perrin AFB",
+    "Grayson County",
+    "Sherman"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 2300,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 33.717201,
+          "longitude": -96.678497,
+          "elevation_ft": 730,
+          "heading_true": 143,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 33.712299,
+          "longitude": -96.674004,
+          "elevation_ft": 742,
+          "heading_true": 323,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18L/36R",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18L",
+          "latitude": 33.726299,
+          "longitude": -96.6726,
+          "elevation_ft": 741,
+          "heading_true": 182,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36R",
+          "latitude": 33.701599,
+          "longitude": -96.6735,
+          "elevation_ft": 749,
+          "heading_true": 2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH APP/DEP",
+      "mhz": 124.75
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.775
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

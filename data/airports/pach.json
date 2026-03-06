@@ -1,0 +1,56 @@
+{
+  "icao": "PACH",
+  "iata": "CHU",
+  "name": "Chuathbaluk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.579102,
+    "longitude": -159.216003,
+    "elevation_ft": 244,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Chuathbaluk"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chuathbaluk_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "9/27",
+      "length_ft": 3401,
+      "width_ft": 60,
+      "surface": "gravel",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "9",
+          "latitude": 61.58039855957031,
+          "longitude": -159.22500610351562,
+          "elevation_ft": 244,
+          "heading_true": 106,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 61.57780075073242,
+          "longitude": -159.20599365234375,
+          "elevation_ft": 205,
+          "heading_true": 286,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

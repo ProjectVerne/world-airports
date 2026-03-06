@@ -1,0 +1,120 @@
+{
+  "icao": "KABE",
+  "iata": "ABE",
+  "name": "Lehigh Valley International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.651773,
+    "longitude": -75.442797,
+    "elevation_ft": 393,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Allentown/Bethlehem"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lehigh_Valley_International_Airport",
+  "keywords": [
+    "Allentown–Bethlehem–Easton International Airport"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 7599,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 40.64699936,
+          "longitude": -75.45059967,
+          "elevation_ft": 394,
+          "heading_true": 51.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 40.65999985,
+          "longitude": -75.4292984,
+          "elevation_ft": 380,
+          "heading_true": 231.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5800,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 40.65520096,
+          "longitude": -75.44979858,
+          "elevation_ft": 383,
+          "heading_true": 123.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 40.64649963,
+          "longitude": -75.43219757,
+          "elevation_ft": 380,
+          "heading_true": 303.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 118.2
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.975
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 124.05
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "WILLIAMSPORT RDO",
+      "mhz": 117.5
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

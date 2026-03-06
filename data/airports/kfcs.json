@@ -1,0 +1,77 @@
+{
+  "icao": "KFCS",
+  "iata": "FCS",
+  "name": "Butts AAF (Fort Carson) Air Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.67839813,
+    "longitude": -104.7570038,
+    "elevation_ft": 5838,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Fort Carson"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 4500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 38.68299866,
+          "longitude": -104.762001,
+          "elevation_ft": 5838,
+          "heading_true": 137.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 38.67380142,
+          "longitude": -104.7509995,
+          "elevation_ft": 5823,
+          "heading_true": 317.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SPRINGS APP/DEP",
+      "mhz": 124
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 108.8
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD/OPS",
+      "mhz": 141.15
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 125.5
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

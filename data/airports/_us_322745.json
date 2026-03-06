@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Oakwood Southshore Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.115974,
+    "longitude": -83.214669,
+    "elevation_ft": 589,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Oakwood Southshore Medical Center Heliport"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 1600,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 44.894554138183594,
+          "longitude": -84.30105590820312,
+          "elevation_ft": 1276,
+          "heading_true": 170,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 44.890567779541016,
+          "longitude": -84.2999496459961,
+          "elevation_ft": 1273,
+          "heading_true": 350,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "4/22",
+      "length_ft": 2800,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "4",
+          "latitude": 44.89099884033203,
+          "longitude": -84.30110168457031,
+          "elevation_ft": 1275,
+          "heading_true": 36,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 44.89720153808594,
+          "longitude": -84.2947998046875,
+          "elevation_ft": 1276,
+          "heading_true": 216,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 322745,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

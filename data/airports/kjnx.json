@@ -1,0 +1,69 @@
+{
+  "icao": "KJNX",
+  "iata": null,
+  "name": "Johnston Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.540901,
+    "longitude": -78.390297,
+    "elevation_ft": 164,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Smithfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Johnston County Airport"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 35.5343017578125,
+          "longitude": -78.3948974609375,
+          "elevation_ft": 148,
+          "heading_true": 30,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 35.547401428222656,
+          "longitude": -78.38569641113281,
+          "elevation_ft": 165,
+          "heading_true": 210,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "RALEIGH APP/DEP",
+      "mhz": 125.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

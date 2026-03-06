@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Deepwater Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.697601318359375,
+    "longitude": -75.49490356445312,
+    "elevation_ft": 0,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Deepwater"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10244,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

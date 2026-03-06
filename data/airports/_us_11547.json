@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Air Rahe Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.829522,
+    "longitude": -83.6849,
+    "elevation_ft": 680,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Petersburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Air Rahe Ultra-Park"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2300,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 44.73830032348633,
+          "longitude": -83.38369750976562,
+          "elevation_ft": 830,
+          "heading_true": 0,
+          "displaced_threshold_ft": 725
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 44.73830032348633,
+          "longitude": -83.37570190429688,
+          "elevation_ft": 830,
+          "heading_true": 224,
+          "displaced_threshold_ft": 1035
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11547,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

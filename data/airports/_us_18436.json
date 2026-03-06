@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Franklin County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.340099,
+    "longitude": -83.133499,
+    "elevation_ft": 890,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Canon"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Franklin_County_Airport_(Georgia)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 34.338600158691406,
+          "longitude": -83.13899993896484,
+          "elevation_ft": 828,
+          "heading_true": 72,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 34.34159851074219,
+          "longitude": -83.1229019165039,
+          "elevation_ft": 890,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 127.5
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18436,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

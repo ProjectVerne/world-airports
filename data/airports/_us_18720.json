@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "North Pickens Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.386799,
+    "longitude": -88.006599,
+    "elevation_ft": 237,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Reform"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Pickens_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5144,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 33.37969970703125,
+          "longitude": -88.00749969482422,
+          "elevation_ft": 230,
+          "heading_true": 7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 33.393798828125,
+          "longitude": -88.00559997558594,
+          "elevation_ft": 237,
+          "heading_true": 187,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS APP/DEP",
+      "mhz": 135.6
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18720,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

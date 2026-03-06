@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Three Forks Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.878101,
+    "longitude": -111.569,
+    "elevation_ft": 4089,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Three Forks"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Three_Forks_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5100,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 45.872798919677734,
+          "longitude": -111.57599639892578,
+          "elevation_ft": 4089,
+          "heading_true": 40,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 45.88349914550781,
+          "longitude": -111.56300354003906,
+          "elevation_ft": 4080,
+          "heading_true": 220,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19201,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

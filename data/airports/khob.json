@@ -1,0 +1,144 @@
+{
+  "icao": "KHOB",
+  "iata": "HOB",
+  "name": "Lea County Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.6875,
+    "longitude": -103.217003,
+    "elevation_ft": 3661,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Hobbs"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lea_County_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 8000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 32.678699,
+          "longitude": -103.225998,
+          "elevation_ft": 3652,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 32.693001,
+          "longitude": -103.209,
+          "elevation_ft": 3646,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 6002,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 32.693901,
+          "longitude": -103.221001,
+          "elevation_ft": 3661,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 32.682201,
+          "longitude": -103.208,
+          "elevation_ft": 3638,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 4370,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 32.69620132,
+          "longitude": -103.2210007,
+          "elevation_ft": 3661,
+          "heading_true": 180.1,
+          "displaced_threshold_ft": 492
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 32.68239975,
+          "longitude": -103.2210007,
+          "elevation_ft": 3650,
+          "heading_true": 0.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.75
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 133.1
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.65
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "HOBBS TWR",
+      "mhz": 120.65
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

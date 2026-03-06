@@ -1,0 +1,56 @@
+{
+  "icao": "PAKH",
+  "iata": "AKK",
+  "name": "Akhiok Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.938702,
+    "longitude": -154.182999,
+    "elevation_ft": 44,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Akhiok"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Akhiok_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3120,
+      "width_ft": 50,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 56.93659973144531,
+          "longitude": -154.19000244140625,
+          "elevation_ft": 44,
+          "heading_true": 62,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 56.94060134887695,
+          "longitude": -154.17599487304688,
+          "elevation_ft": 39,
+          "heading_true": 242,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

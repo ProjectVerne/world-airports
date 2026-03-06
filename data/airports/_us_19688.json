@@ -1,0 +1,33 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "San Martin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.08160019,
+    "longitude": -121.5970001,
+    "elevation_ft": 281,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Martin"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/South_County_Airport",
+  "keywords": [
+    "Q99",
+    "South County Airport of Santa Clara County"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 19688,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

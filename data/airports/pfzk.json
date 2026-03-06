@@ -1,0 +1,56 @@
+{
+  "icao": "PFZK",
+  "iata": "KKI",
+  "name": "Akiachak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.913809,
+    "longitude": -161.493329,
+    "elevation_ft": 23,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Akiachak"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Akiachak_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 1649,
+      "width_ft": 40,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 60.90589904785156,
+          "longitude": -161.427001953125,
+          "elevation_ft": 22,
+          "heading_true": 117,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 60.90380096435547,
+          "longitude": -161.41799926757812,
+          "elevation_ft": 23,
+          "heading_true": 297,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

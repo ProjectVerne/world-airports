@@ -1,0 +1,87 @@
+{
+  "icao": "KASH",
+  "iata": "ASH",
+  "name": "Nashua Airport / Boire Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.7817,
+    "longitude": -71.514801,
+    "elevation_ft": 199,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Nashua"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Nashua_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 6000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.78580093,
+          "longitude": -71.52339935,
+          "elevation_ft": 199,
+          "heading_true": 123,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.77769852,
+          "longitude": -71.50610352,
+          "elevation_ft": 187,
+          "heading_true": 303,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BOSTON APP/DEP",
+      "mhz": 124.9
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 125.1
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.1
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 133.2
+    },
+    {
+      "type": "GND",
+      "description": "GND/CLNC DEL",
+      "mhz": 121.8
+    },
+    {
+      "type": "TWR",
+      "description": "NASHUA TWR",
+      "mhz": 133.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

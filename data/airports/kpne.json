@@ -1,0 +1,123 @@
+{
+  "icao": "KPNE",
+  "iata": "PNE",
+  "name": "Northeast Philadelphia Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.082406,
+    "longitude": -75.010614,
+    "elevation_ft": 120,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philadelphia"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Northeast_Philadelphia_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 7000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 40.07749939,
+          "longitude": -75.02030182,
+          "elevation_ft": 111,
+          "heading_true": 48.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 40.09030151,
+          "longitude": -75.00150299,
+          "elevation_ft": 114,
+          "heading_true": 228.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 4999,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 40.08449936,
+          "longitude": -75.01580048,
+          "elevation_ft": 121,
+          "heading_true": 140.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 40.07389832,
+          "longitude": -75.00450134,
+          "elevation_ft": 109,
+          "heading_true": 320.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PHILADELPHIA APP/DEP",
+      "mhz": 123.8
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 121.15
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 127.25
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126.9
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "WILLIAMSPORT RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 126.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

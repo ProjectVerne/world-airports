@@ -1,0 +1,79 @@
+{
+  "icao": "PHSF",
+  "iata": "BSF",
+  "name": "Bradshaw Army Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 19.760099,
+    "longitude": -155.554001,
+    "elevation_ft": 6190,
+    "continent": "OC",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Waimea (Kamuela)"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pohakuloa_Training_Area",
+  "keywords": [
+    "Pohakuloa"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3696,
+      "width_ft": 90,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 19.76099968,
+          "longitude": -155.5590057,
+          "elevation_ft": 6081,
+          "heading_true": 101,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 19.75909996,
+          "longitude": -155.5480042,
+          "elevation_ft": 6190,
+          "heading_true": 281,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HONOLULU CNTR",
+      "mhz": 126
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.7
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126.3
+    },
+    {
+      "type": "OTHER",
+      "description": "PMSV METRO",
+      "mhz": 122.75
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

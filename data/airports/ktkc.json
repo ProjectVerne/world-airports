@@ -1,0 +1,124 @@
+{
+  "icao": "KTKC",
+  "iata": null,
+  "name": "Tracy Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.2491,
+    "longitude": -95.6073,
+    "elevation_ft": 1340,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Tracy"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tracy_Municipal_Airport_(Minnesota)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 2590,
+      "width_ft": 200,
+      "surface": "grass",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 44.247799,
+          "longitude": -95.611397,
+          "elevation_ft": 1340,
+          "heading_true": 51,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 44.252102,
+          "longitude": -95.603897,
+          "elevation_ft": 1330,
+          "heading_true": 231,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 3098,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 44.25080109,
+          "longitude": -95.61129761,
+          "elevation_ft": 1331,
+          "heading_true": 120,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 44.24670029,
+          "longitude": -95.60089874,
+          "elevation_ft": 1336,
+          "heading_true": 300,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 1778,
+      "width_ft": 200,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 44.25109863,
+          "longitude": -95.60829926,
+          "elevation_ft": 1326,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 44.2458992,
+          "longitude": -95.60829926,
+          "elevation_ft": 1336,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 127.1
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

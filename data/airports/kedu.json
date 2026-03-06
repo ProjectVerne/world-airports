@@ -1,0 +1,58 @@
+{
+  "icao": "KEDU",
+  "iata": null,
+  "name": "University Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.531502,
+    "longitude": -121.786489,
+    "elevation_ft": 69,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Davis"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/University_Airport",
+  "keywords": [
+    "0O5"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3176,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 38.53580093,
+          "longitude": -121.7860031,
+          "elevation_ft": 61,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 38.52709961,
+          "longitude": -121.7870026,
+          "elevation_ft": 68,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

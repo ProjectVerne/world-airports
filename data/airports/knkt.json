@@ -1,0 +1,162 @@
+{
+  "icao": "KNKT",
+  "iata": null,
+  "name": "Cherry Point MCAS / Cunningham Field/",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.900902,
+    "longitude": -76.880699,
+    "elevation_ft": 29,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Cherry Point"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marine_Corps_Air_Station_Cherry_Point",
+  "keywords": [
+    "Cherry Point MCAS"
+  ],
+  "runways": [
+    {
+      "id": "05L/23R",
+      "length_ft": 8489,
+      "width_ft": 196,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05L",
+          "latitude": 34.90390015,
+          "longitude": -76.88050079,
+          "elevation_ft": 28,
+          "heading_true": 45.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23R",
+          "latitude": 34.91849899,
+          "longitude": -76.86250305,
+          "elevation_ft": 19,
+          "heading_true": 225.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "05R/23L",
+      "length_ft": 8189,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05R",
+          "latitude": 34.88800049,
+          "longitude": -76.89769745,
+          "elevation_ft": 23,
+          "heading_true": 45.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23L",
+          "latitude": 34.90380096,
+          "longitude": -76.87819672,
+          "elevation_ft": 29,
+          "heading_true": 225.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14L/32R",
+      "length_ft": 8978,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14L",
+          "latitude": 34.91970062,
+          "longitude": -76.90000153,
+          "elevation_ft": 19,
+          "heading_true": 135.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32R",
+          "latitude": 34.90209961,
+          "longitude": -76.8789978,
+          "elevation_ft": 26,
+          "heading_true": 315.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14R/32L",
+      "length_ft": 8397,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14R",
+          "latitude": 34.90299988,
+          "longitude": -76.88249969,
+          "elevation_ft": 28,
+          "heading_true": 135.5,
+          "displaced_threshold_ft": 846
+        },
+        "high": {
+          "ident": "32L",
+          "latitude": 34.88660049,
+          "longitude": -76.86289978,
+          "elevation_ft": 17,
+          "heading_true": 315.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.35
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.95
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 128.625
+    },
+    {
+      "type": "OTHER",
+      "description": "BASE OPS",
+      "mhz": 126.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 121.3
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

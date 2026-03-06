@@ -1,0 +1,139 @@
+{
+  "icao": "KAPC",
+  "iata": "APC",
+  "name": "Napa County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.2132,
+    "longitude": -122.280998,
+    "elevation_ft": 35,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Napa"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Napa_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01L/19R",
+      "length_ft": 5930,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01L",
+          "latitude": 38.223202,
+          "longitude": -122.278,
+          "elevation_ft": 17,
+          "heading_true": 6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19R",
+          "latitude": 38.208,
+          "longitude": -122.285004,
+          "elevation_ft": 30,
+          "heading_true": 186,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "01R/19L",
+      "length_ft": 2510,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01R",
+          "latitude": 38.218498,
+          "longitude": -122.278,
+          "elevation_ft": 21,
+          "heading_true": 6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19L",
+          "latitude": 38.212101,
+          "longitude": -122.280998,
+          "elevation_ft": 21,
+          "heading_true": 186,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06/24",
+      "length_ft": 5008,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 38.20769882,
+          "longitude": -122.288002,
+          "elevation_ft": 14,
+          "heading_true": 76.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 38.21089935,
+          "longitude": -122.2720032,
+          "elevation_ft": 35,
+          "heading_true": 256.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORCAL APP/DEP",
+      "mhz": 127.8
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.05
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

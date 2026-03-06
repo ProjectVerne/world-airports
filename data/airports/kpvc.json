@@ -1,0 +1,77 @@
+{
+  "icao": "KPVC",
+  "iata": "PVC",
+  "name": "Provincetown Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.0718994141,
+    "longitude": -70.2213973999,
+    "elevation_ft": 9,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Provincetown"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Provincetown_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3502,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 42.06980133,
+          "longitude": -70.2263031,
+          "elevation_ft": 9,
+          "heading_true": 59,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 42.0746994,
+          "longitude": -70.21520233,
+          "elevation_ft": 9,
+          "heading_true": 239,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CAPE APP/DEP",
+      "mhz": 118.2
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.025
+    },
+    {
+      "type": "OTHER",
+      "description": "OTIS CLNC DEL",
+      "mhz": 120.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

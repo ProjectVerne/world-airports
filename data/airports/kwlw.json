@@ -1,0 +1,98 @@
+{
+  "icao": "KWLW",
+  "iata": "WLW",
+  "name": "Willows Glenn County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.51639938,
+    "longitude": -122.2180023,
+    "elevation_ft": 141,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Willows"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Willows-Glenn_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 3788,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 39.52119827,
+          "longitude": -122.2200012,
+          "elevation_ft": 138,
+          "heading_true": 145.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 39.51169968,
+          "longitude": -122.2109985,
+          "elevation_ft": 129,
+          "heading_true": 325.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 4125,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 39.52270126,
+          "longitude": -122.2200012,
+          "elevation_ft": 139,
+          "heading_true": 178.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 39.51029968,
+          "longitude": -122.2190018,
+          "elevation_ft": 134,
+          "heading_true": 358.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "OAKLAND CNTR",
+      "mhz": 132.2
+    },
+    {
+      "type": "OTHER",
+      "description": "RANCHO RDO",
+      "mhz": 110
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

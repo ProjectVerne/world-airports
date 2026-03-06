@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Northwoods Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.2859001159668,
+    "longitude": -89.27749633789062,
+    "elevation_ft": 1642,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Watersmeet"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 46.28630065917969,
+          "longitude": -89.28739929199219,
+          "elevation_ft": 1642,
+          "heading_true": 94,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 46.285400390625,
+          "longitude": -89.2677001953125,
+          "elevation_ft": 1613,
+          "heading_true": 274,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.75
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 13729,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

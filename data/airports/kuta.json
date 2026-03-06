@@ -1,0 +1,72 @@
+{
+  "icao": "KUTA",
+  "iata": "UTM",
+  "name": "Tunica Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.68505,
+    "longitude": -90.347757,
+    "elevation_ft": 194,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Tunica"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tunica_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 8500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 34.69240189,
+          "longitude": -90.34980011,
+          "elevation_ft": 194,
+          "heading_true": 167,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 34.67369843,
+          "longitude": -90.34459686,
+          "elevation_ft": 194,
+          "heading_true": 347,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.1
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.075
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

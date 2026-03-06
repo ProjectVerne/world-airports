@@ -1,0 +1,144 @@
+{
+  "icao": "KOPF",
+  "iata": "OPF",
+  "name": "Miami-Opa Locka Executive Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.907,
+    "longitude": -80.278397,
+    "elevation_ft": 8,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Miami"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Miami-Opa_Locka_Executive_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09L/27R",
+      "length_ft": 8002,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09L",
+          "latitude": 25.912599563598633,
+          "longitude": -80.2886962890625,
+          "elevation_ft": 7,
+          "heading_true": 87,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27R",
+          "latitude": 25.913799285888672,
+          "longitude": -80.26439666748047,
+          "elevation_ft": 8,
+          "heading_true": 267,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09R/27L",
+      "length_ft": 4309,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09R",
+          "latitude": 25.89900017,
+          "longitude": -80.28520203,
+          "elevation_ft": 6,
+          "heading_true": 87,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27L",
+          "latitude": 25.89970016,
+          "longitude": -80.27210236,
+          "elevation_ft": 6,
+          "heading_true": 267,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 6800,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 25.910600662231445,
+          "longitude": -80.28880310058594,
+          "elevation_ft": 8,
+          "heading_true": 122,
+          "displaced_threshold_ft": 800
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 25.900699615478516,
+          "longitude": -80.27120208740234,
+          "elevation_ft": 8,
+          "heading_true": 302,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MIAMI APP/DEP",
+      "mhz": 128.6
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.9
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "CG MIAMI AIR",
+      "mhz": 123.1
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

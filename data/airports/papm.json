@@ -1,0 +1,103 @@
+{
+  "icao": "PAPM",
+  "iata": "PTU",
+  "name": "Platinum Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.017675,
+    "longitude": -161.827927,
+    "elevation_ft": 15,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Platinum"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Platinum_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 1924,
+      "width_ft": 50,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 59.011902,
+          "longitude": -161.824997,
+          "elevation_ft": 15,
+          "heading_true": 108,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 59.0103,
+          "longitude": -161.815002,
+          "elevation_ft": 9,
+          "heading_true": 288,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 59.015598,
+          "longitude": -161.822998,
+          "elevation_ft": 11,
+          "heading_true": 154,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 59.007401,
+          "longitude": -161.815994,
+          "elevation_ft": 11,
+          "heading_true": 334,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE ARTCC",
+      "mhz": 127.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS THREE",
+      "mhz": 118.375
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.8
+    },
+    {
+      "type": "OTHER",
+      "description": "KENAI RDO",
+      "mhz": 122.5
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

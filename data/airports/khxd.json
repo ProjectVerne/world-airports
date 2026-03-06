@@ -1,0 +1,94 @@
+{
+  "icao": "KHXD",
+  "iata": "HHH",
+  "name": "Hilton Head Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.2244,
+    "longitude": -80.697502,
+    "elevation_ft": 19,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Hilton Head Island"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hilton_Head_Airport",
+  "keywords": [
+    "49J"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 32.219101,
+          "longitude": -80.7005,
+          "elevation_ft": 19,
+          "heading_true": 26,
+          "displaced_threshold_ft": 297
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 32.229698,
+          "longitude": -80.694397,
+          "elevation_ft": 13,
+          "heading_true": 206,
+          "displaced_threshold_ft": 403
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SAVANNAH APP/DEP",
+      "mhz": 125.3
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 121.4
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.1
+    },
+    {
+      "type": "OTHER",
+      "description": "ANDERSON RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.975
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

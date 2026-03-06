@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Richards Airport",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 43.671193,
+    "longitude": -117.023607,
+    "elevation_ft": 2290,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Homedale"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "ID63"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17840,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

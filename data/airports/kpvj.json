@@ -1,0 +1,100 @@
+{
+  "icao": "KPVJ",
+  "iata": null,
+  "name": "Pauls Valley Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.71110153,
+    "longitude": -97.22319794,
+    "elevation_ft": 971,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Pauls Valley"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pauls_Valley_Municipal_Airport",
+  "keywords": [
+    "F51"
+  ],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 3499,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 34.715698,
+          "longitude": -97.226303,
+          "elevation_ft": 965,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 34.7089,
+          "longitude": -97.218102,
+          "elevation_ft": 948,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 34.714401,
+          "longitude": -97.224197,
+          "elevation_ft": 968,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 34.700699,
+          "longitude": -97.224197,
+          "elevation_ft": 946,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.675
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 128.1
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "icao": "KAQX",
+  "iata": null,
+  "name": "Allendale County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.995098,
+    "longitude": -81.270203,
+    "elevation_ft": 161,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Allendale"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Allendale_County_Airport",
+  "keywords": [
+    "j88",
+    "kj88"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 4990,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.00170135,
+          "longitude": -81.27269745,
+          "elevation_ft": 161,
+          "heading_true": 162.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 32.98860168,
+          "longitude": -81.2677002,
+          "elevation_ft": 155,
+          "heading_true": 342.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE CNTR",
+      "mhz": 132.5
+    },
+    {
+      "type": "OTHER",
+      "description": "ANDERSON RDO",
+      "mhz": 116.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

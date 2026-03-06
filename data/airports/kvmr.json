@@ -1,0 +1,72 @@
+{
+  "icao": "KVMR",
+  "iata": null,
+  "name": "Harold Davidson Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.76530075,
+    "longitude": -96.93430328,
+    "elevation_ft": 1146,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Vermillion"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4105,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 42.76860046386719,
+          "longitude": -96.94039916992188,
+          "elevation_ft": 1145,
+          "heading_true": 126,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 42.762001037597656,
+          "longitude": -96.9281005859375,
+          "elevation_ft": 1145,
+          "heading_true": 306,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SIOUX CITY APP/DEP",
+      "mhz": 124.6
+    },
+    {
+      "type": "OTHER",
+      "description": "HURON RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

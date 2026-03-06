@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": "WBB",
+  "name": "Stebbins Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.515999,
+    "longitude": -162.278,
+    "elevation_ft": 14,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Stebbins"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Stebbins_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2999,
+      "width_ft": 60,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 63.5141983,
+          "longitude": -162.2859955,
+          "elevation_ft": 12,
+          "heading_true": 64,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 63.5177002,
+          "longitude": -162.2700043,
+          "elevation_ft": 10,
+          "heading_true": 244,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 25692,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

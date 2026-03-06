@@ -1,0 +1,72 @@
+{
+  "icao": "KMLF",
+  "iata": "MLF",
+  "name": "Milford Municipal-Ben and Judy Briscoe Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.426601,
+    "longitude": -113.012001,
+    "elevation_ft": 5039,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Milford"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 5004,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 38.4333992,
+          "longitude": -113.0130005,
+          "elevation_ft": 5023,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 38.41970062,
+          "longitude": -113.0130005,
+          "elevation_ft": 5039,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.025
+    },
+    {
+      "type": "OTHER",
+      "description": "CEDAR CITY RDO",
+      "mhz": 112.1
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

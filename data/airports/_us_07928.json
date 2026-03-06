@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Taylor Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.827378,
+    "longitude": -90.545297,
+    "elevation_ft": 220,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Brickeys"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Dawson's Airport"
+  ],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 2500,
+      "width_ft": 120,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 34.82870101928711,
+          "longitude": -90.54570007324219,
+          "elevation_ft": 0,
+          "heading_true": 144.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 34.82310104370117,
+          "longitude": -90.54090118408203,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "RDO CTL",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 7928,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

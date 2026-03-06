@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Cleveland Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.3564,
+    "longitude": -95.008003,
+    "elevation_ft": 150,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Cleveland"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cleveland_Municipal_Airport_(Texas)",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 19006,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

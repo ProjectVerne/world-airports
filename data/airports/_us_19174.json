@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Lumpkin County Wimpys Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.582838,
+    "longitude": -84.019918,
+    "elevation_ft": 1311,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Dahlonega"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3090,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 34.58319854736328,
+          "longitude": -84.02290344238281,
+          "elevation_ft": 0,
+          "heading_true": 155,
+          "displaced_threshold_ft": 754
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 34.57550048828125,
+          "longitude": -84.01860046386719,
+          "elevation_ft": 0,
+          "heading_true": 335,
+          "displaced_threshold_ft": 695
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19174,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

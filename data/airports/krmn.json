@@ -1,0 +1,82 @@
+{
+  "icao": "KRMN",
+  "iata": null,
+  "name": "Stafford Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.398102,
+    "longitude": -77.455498,
+    "elevation_ft": 211,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Fredericksburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Stafford_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 6000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 38.40330124,
+          "longitude": -77.4611969,
+          "elevation_ft": 211,
+          "heading_true": 139.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 38.39289856,
+          "longitude": -77.44979858,
+          "elevation_ft": 171,
+          "heading_true": 319.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POTOMAC APP/DEP",
+      "mhz": 124.65
+    },
+    {
+      "type": "APP",
+      "description": "QUANTICO ARRIVAL",
+      "mhz": 127.05
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 126.325
+    },
+    {
+      "type": "OTHER",
+      "description": "GCO",
+      "mhz": 135.075
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

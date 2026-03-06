@@ -1,0 +1,157 @@
+{
+  "icao": "KBDL",
+  "iata": "BDL",
+  "name": "Bradley International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.938555,
+    "longitude": -72.688016,
+    "elevation_ft": 173,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Hartford"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bradley_International_Airport",
+  "keywords": [
+    "HFD",
+    "Hartford"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 9510,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 41.931999,
+          "longitude": -72.696602,
+          "elevation_ft": 173,
+          "heading_true": 44,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 41.950699,
+          "longitude": -72.672096,
+          "elevation_ft": 161,
+          "heading_true": 224,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "1/19",
+      "length_ft": 5145,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "1",
+          "latitude": 41.931301,
+          "longitude": -72.679604,
+          "elevation_ft": 171,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 41.9454,
+          "longitude": -72.679901,
+          "elevation_ft": 169,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 6847,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 41.94240188598633,
+          "longitude": -72.69329833984375,
+          "elevation_ft": 169,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 41.929298400878906,
+          "longitude": -72.67530059814453,
+          "elevation_ft": 168,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 123.95
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.15
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.75
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 123.95
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ANG OPS",
+      "mhz": 138.55
+    },
+    {
+      "type": "OTHER",
+      "description": "BRIDGEPORT RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

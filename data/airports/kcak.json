@@ -1,0 +1,144 @@
+{
+  "icao": "KCAK",
+  "iata": "CAK",
+  "name": "Akron Canton Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.916099548339844,
+    "longitude": -81.44219970703125,
+    "elevation_ft": 1228,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Akron"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Akron-Canton_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 7601,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 40.90719985961914,
+          "longitude": -81.44139862060547,
+          "elevation_ft": 1208,
+          "heading_true": 2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 40.928001403808594,
+          "longitude": -81.44020080566406,
+          "elevation_ft": 1214,
+          "heading_true": 182,
+          "displaced_threshold_ft": 599
+        }
+      }
+    },
+    {
+      "id": "05/23",
+      "length_ft": 8204,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 40.90750122,
+          "longitude": -81.4536972,
+          "elevation_ft": 1190,
+          "heading_true": 47,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 40.92160034,
+          "longitude": -81.4335022,
+          "elevation_ft": 1228,
+          "heading_true": 227,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5599,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 40.92100143432617,
+          "longitude": -81.44979858398438,
+          "elevation_ft": 0,
+          "heading_true": 137,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 40.909698486328125,
+          "longitude": -81.43609619140625,
+          "elevation_ft": 0,
+          "heading_true": 317,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 118.6
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 121.05
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 132.05
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "CLEVELAND RDO",
+      "mhz": 114.4
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

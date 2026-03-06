@@ -1,0 +1,98 @@
+{
+  "icao": "KZPH",
+  "iata": "ZPH",
+  "name": "Zephyrhills Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.228201,
+    "longitude": -82.155899,
+    "elevation_ft": 90,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Zephyrhills"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Zephyrhills_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "19/1",
+      "length_ft": 5072,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "19",
+          "latitude": 28.23419952392578,
+          "longitude": -82.1532974243164,
+          "elevation_ft": 88,
+          "heading_true": 180,
+          "displaced_threshold_ft": 380
+        },
+        "high": {
+          "ident": "1",
+          "latitude": 28.220199584960938,
+          "longitude": -82.15339660644531,
+          "elevation_ft": 80,
+          "heading_true": 360,
+          "displaced_threshold_ft": 300
+        }
+      }
+    },
+    {
+      "id": "5/23",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "5",
+          "latitude": 28.224199295043945,
+          "longitude": -82.16380310058594,
+          "elevation_ft": 85,
+          "heading_true": 43,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 28.23430061340332,
+          "longitude": -82.1531982421875,
+          "elevation_ft": 87,
+          "heading_true": 223,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TAMPA APP/DEP",
+      "mhz": 119.9
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.975
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.075
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

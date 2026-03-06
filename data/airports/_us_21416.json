@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Chetek Municipal Southworth Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.306198,
+    "longitude": -91.6362,
+    "elevation_ft": 1055,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Chetek"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chetek_Municipal%E2%80%93Southworth_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 1490,
+      "width_ft": 120,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 45.30799866,
+          "longitude": -91.64070129,
+          "elevation_ft": 1048,
+          "heading_true": 76,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 45.30879974,
+          "longitude": -91.63659668,
+          "elevation_ft": 1052,
+          "heading_true": 256,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 3401,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 45.31019974,
+          "longitude": -91.63600159,
+          "elevation_ft": 1054,
+          "heading_true": 175,
+          "displaced_threshold_ft": 600
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 45.30089951,
+          "longitude": -91.63480377,
+          "elevation_ft": 1055,
+          "heading_true": 355,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 125.3
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 122.3
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21416,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

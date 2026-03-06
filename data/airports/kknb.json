@@ -1,0 +1,72 @@
+{
+  "icao": "KKNB",
+  "iata": "KNB",
+  "name": "Kanab Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.011101,
+    "longitude": -112.530998,
+    "elevation_ft": 4868,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Kanab"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Kanab_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 6200,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 37.00260162,
+          "longitude": -112.5350037,
+          "elevation_ft": 4823,
+          "heading_true": 20.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 37.01850128,
+          "longitude": -112.5279999,
+          "elevation_ft": 4868,
+          "heading_true": 200.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 133.175
+    },
+    {
+      "type": "OTHER",
+      "description": "LOS ANGELES CNTR",
+      "mhz": 124.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

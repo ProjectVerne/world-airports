@@ -1,0 +1,98 @@
+{
+  "icao": "KRTN",
+  "iata": "RTN",
+  "name": "Raton Municipal Airport / Crews Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.741501,
+    "longitude": -104.501999,
+    "elevation_ft": 6352,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Raton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Raton_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 7615,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 36.73419952,
+          "longitude": -104.5110016,
+          "elevation_ft": 6332,
+          "heading_true": 34.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 36.74850082,
+          "longitude": -104.4990005,
+          "elevation_ft": 6352,
+          "heading_true": 214.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07/25",
+      "length_ft": 4425,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 36.7405014,
+          "longitude": -104.5049973,
+          "elevation_ft": 6342,
+          "heading_true": 77.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 36.74309921,
+          "longitude": -104.4909973,
+          "elevation_ft": 6310,
+          "heading_true": 257.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.375
+    },
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE CNTR",
+      "mhz": 132.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

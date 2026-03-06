@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Myrtle Creek Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.997157,
+    "longitude": -123.315412,
+    "elevation_ft": 619,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Myrtle Creek"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Myrtle_Creek_Municipal_Airport",
+  "keywords": [
+    "Tri-City"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2600,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 42.994998931884766,
+          "longitude": -123.31900024414062,
+          "elevation_ft": 614,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 42.99959945678711,
+          "longitude": -123.31199645996094,
+          "elevation_ft": 619,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 8017,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

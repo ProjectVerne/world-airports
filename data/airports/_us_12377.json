@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Galveston Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.586809,
+    "longitude": -86.25761,
+    "elevation_ft": 786,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Galveston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Galveston_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2720,
+      "width_ft": 75,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.5906982421875,
+          "longitude": -86.25689697265625,
+          "elevation_ft": 770,
+          "heading_true": 0,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.58409881591797,
+          "longitude": -86.25689697265625,
+          "elevation_ft": 780,
+          "heading_true": 179,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12377,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

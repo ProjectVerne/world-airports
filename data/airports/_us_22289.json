@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Viburnum Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.719099,
+    "longitude": -91.127515,
+    "elevation_ft": 1272,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Viburnum"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3195,
+      "width_ft": 47,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 37.716400146484375,
+          "longitude": -91.13860321044922,
+          "elevation_ft": 0,
+          "heading_true": 88.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 37.71670150756836,
+          "longitude": -91.12779998779297,
+          "elevation_ft": 0,
+          "heading_true": 268.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 22289,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

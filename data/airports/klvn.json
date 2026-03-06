@@ -1,0 +1,82 @@
+{
+  "icao": "KLVN",
+  "iata": null,
+  "name": "Airlake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.627899,
+    "longitude": -93.228104,
+    "elevation_ft": 960,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Minneapolis"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Airlake_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4099,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 44.63040161,
+          "longitude": -93.23509979,
+          "elevation_ft": 960,
+          "heading_true": 118,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 44.62530136,
+          "longitude": -93.22109985,
+          "elevation_ft": 952,
+          "heading_true": 298,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS APP/DEP",
+      "mhz": 125
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 115.7
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.95
+    },
+    {
+      "type": "OTHER",
+      "description": "PRINCETON RDO",
+      "mhz": 115.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

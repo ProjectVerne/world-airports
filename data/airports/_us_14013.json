@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Lucas Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.871299743652344,
+    "longitude": -84.6104965209961,
+    "elevation_ft": 906,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Nicholasville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5488,
+      "width_ft": 100,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 37.871700286865234,
+          "longitude": -84.62000274658203,
+          "elevation_ft": 905,
+          "heading_true": 93.6,
+          "displaced_threshold_ft": 526
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 37.87080001831055,
+          "longitude": -84.6010971069336,
+          "elevation_ft": 898,
+          "heading_true": 0,
+          "displaced_threshold_ft": 508
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 14013,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "icao": "KNPA",
+  "iata": "NPA",
+  "name": "Naval Air Station Pensacola Forrest Sherman Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.352699,
+    "longitude": -87.318604,
+    "elevation_ft": 28,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Pensacola"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Pensacola",
+  "keywords": [
+    "NAS",
+    "KNAS"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 7136,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 30.34199905,
+          "longitude": -87.32160187,
+          "elevation_ft": 28,
+          "heading_true": 6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 30.36149979,
+          "longitude": -87.31909943,
+          "elevation_ft": 16,
+          "heading_true": 186,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07L/25R",
+      "length_ft": 8001,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07L",
+          "latitude": 30.35079956,
+          "longitude": -87.32910156,
+          "elevation_ft": 23,
+          "heading_true": 68,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25R",
+          "latitude": 30.35890007,
+          "longitude": -87.30549622,
+          "elevation_ft": 16,
+          "heading_true": 248,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07R/25L",
+      "length_ft": 8000,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07R",
+          "latitude": 30.34900093,
+          "longitude": -87.32830048,
+          "elevation_ft": 24,
+          "heading_true": 68,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25L",
+          "latitude": 30.35709953,
+          "longitude": -87.30470276,
+          "elevation_ft": 15,
+          "heading_true": 248,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 120.05
+    },
+    {
+      "type": "OTHER",
+      "description": "SHERMAN CLNC DEL",
+      "mhz": 134.1
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 120.65
+    },
+    {
+      "type": "GND",
+      "description": "SHERMAN GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "TWR",
+      "description": "SHERMAN TWR",
+      "mhz": 120.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

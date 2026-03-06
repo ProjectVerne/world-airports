@@ -1,0 +1,67 @@
+{
+  "icao": "KMHP",
+  "iata": null,
+  "name": "Metter Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.373885,
+    "longitude": -82.081775,
+    "elevation_ft": 197,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Metter"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 32.37409973,
+          "longitude": -82.08499908,
+          "elevation_ft": 195,
+          "heading_true": 93,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 32.37369919,
+          "longitude": -82.07330322,
+          "elevation_ft": 196,
+          "heading_true": 273,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE CNTR",
+      "mhz": 132.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

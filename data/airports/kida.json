@@ -1,0 +1,125 @@
+{
+  "icao": "KIDA",
+  "iata": "IDA",
+  "name": "Idaho Falls Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.514599,
+    "longitude": -112.070999,
+    "elevation_ft": 4744,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Idaho Falls"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Idaho_Falls_Regional_Airport",
+  "keywords": [
+    "Fanning Field"
+  ],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 9002,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 43.502498626708984,
+          "longitude": -112.08499908447266,
+          "elevation_ft": 4742,
+          "heading_true": 38,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 43.52199935913086,
+          "longitude": -112.06400299072266,
+          "elevation_ft": 4731,
+          "heading_true": 218,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 3964,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 43.52259827,
+          "longitude": -112.0619965,
+          "elevation_ft": 4731,
+          "heading_true": 182,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 43.51150131,
+          "longitude": -112.0619965,
+          "elevation_ft": 4731,
+          "heading_true": 2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.325
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 135.325
+    },
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CITY CNTR",
+      "mhz": 128.35
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "BOISE RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "icao": "KFGU",
+  "iata": null,
+  "name": "Collegedale Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.044315,
+    "longitude": -85.020146,
+    "elevation_ft": 860,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Apison"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Collegedale_Municipal_Airport",
+  "keywords": [
+    "3M3"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4986,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 35.04000092,
+          "longitude": -85.01979828,
+          "elevation_ft": 0,
+          "heading_true": 29.8,
+          "displaced_threshold_ft": 400
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 35.05130005,
+          "longitude": -85.01200104,
+          "elevation_ft": 0,
+          "heading_true": 209.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

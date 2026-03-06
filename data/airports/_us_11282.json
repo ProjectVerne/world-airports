@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Wend Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.579007,
+    "longitude": -84.908947,
+    "elevation_ft": 859,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Charlotte"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wend_Valley_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 1800,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 42.58060073852539,
+          "longitude": -84.9083023071289,
+          "elevation_ft": 859,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 42.575599670410156,
+          "longitude": -84.9083023071289,
+          "elevation_ft": 859,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11282,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

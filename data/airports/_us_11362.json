@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Walker/Rowe Waterloo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.431198,
+    "longitude": -84.981598,
+    "elevation_ft": 900,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Waterloo"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Walker/Rowe_Waterloo_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2340,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.43119812011719,
+          "longitude": -84.98539733886719,
+          "elevation_ft": 900,
+          "heading_true": 0,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.430999755859375,
+          "longitude": -84.97679901123047,
+          "elevation_ft": 900,
+          "heading_true": 300.5,
+          "displaced_threshold_ft": 320
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11362,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

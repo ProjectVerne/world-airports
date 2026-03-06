@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Strait Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.140694,
+    "longitude": -99.566584,
+    "elevation_ft": 620,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Encinal"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 28.144399642944336,
+          "longitude": -99.57610321044922,
+          "elevation_ft": 0,
+          "heading_true": 130,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 28.13559913635254,
+          "longitude": -99.56439971923828,
+          "elevation_ft": 0,
+          "heading_true": 300,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 126.625
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 15208,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

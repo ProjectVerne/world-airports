@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Blech Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.592797,
+    "longitude": -120.338058,
+    "elevation_ft": 1140,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Shandon"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 3300,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 35.59939956665039,
+          "longitude": -120.33899688720703,
+          "elevation_ft": 0,
+          "heading_true": 173,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 35.590301513671875,
+          "longitude": -120.33799743652344,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 7116,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

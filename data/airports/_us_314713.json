@@ -1,0 +1,35 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Hamilton Field",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 38.06,
+    "longitude": -122.51,
+    "elevation_ft": 2,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Rafael"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hamilton_Army_Airfield",
+  "keywords": [
+    "Marin Airfield",
+    "Marin Meadows Airfield",
+    "Hamilton AFB",
+    "SRF"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 314713,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

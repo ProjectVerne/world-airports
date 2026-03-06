@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "San Manuel Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.636501,
+    "longitude": -110.647003,
+    "elevation_ft": 3274,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "San Manuel"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Manuel_Airport",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 19707,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

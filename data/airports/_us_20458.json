@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Mccharen Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.58399963378906,
+    "longitude": -88.66670227050781,
+    "elevation_ft": 205,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "West Point"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3850,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 33.589298248291016,
+          "longitude": -88.6666030883789,
+          "elevation_ft": 205,
+          "heading_true": 180,
+          "displaced_threshold_ft": 392
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 33.57870101928711,
+          "longitude": -88.66670227050781,
+          "elevation_ft": 203,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS APP/DEP",
+      "mhz": 135.6
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20458,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

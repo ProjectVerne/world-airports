@@ -1,0 +1,105 @@
+{
+  "icao": "KPEQ",
+  "iata": "PEQ",
+  "name": "Pecos Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.382400512695,
+    "longitude": -103.51100158691,
+    "elevation_ft": 2613,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Pecos"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pecos_Municipal_Airport",
+  "keywords": [
+    "Pecos AAF"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5953,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 31.3817997,
+          "longitude": -103.5189972,
+          "elevation_ft": 2613,
+          "heading_true": 101.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 31.37870026,
+          "longitude": -103.5009995,
+          "elevation_ft": 2598,
+          "heading_true": 281.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 6236,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 31.39150047,
+          "longitude": -103.5169983,
+          "elevation_ft": 2608,
+          "heading_true": 146.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 31.37730026,
+          "longitude": -103.5059967,
+          "elevation_ft": 2601,
+          "heading_true": 326.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.175
+    },
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE CNTR",
+      "mhz": 135.875
+    },
+    {
+      "type": "OTHER",
+      "description": "SAN ANGELO RDO",
+      "mhz": 111.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

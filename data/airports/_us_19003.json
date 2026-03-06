@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Horseshoe Bend Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.22140121459961,
+    "longitude": -91.75550079345703,
+    "elevation_ft": 782,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Horseshoe Bend"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 4502,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 36.22499847,
+          "longitude": -91.76170349,
+          "elevation_ft": 782,
+          "heading_true": 125,
+          "displaced_threshold_ft": 500
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 36.21780014,
+          "longitude": -91.74919891,
+          "elevation_ft": 778,
+          "heading_true": 305,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19003,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

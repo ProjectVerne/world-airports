@@ -1,0 +1,98 @@
+{
+  "icao": "KULM",
+  "iata": "ULM",
+  "name": "New Ulm Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.319599151611,
+    "longitude": -94.502296447754,
+    "elevation_ft": 1011,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "New Ulm"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Ulm_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2478,
+      "width_ft": 160,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 44.31750107,
+          "longitude": -94.50579834,
+          "elevation_ft": 1011,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 44.32249832,
+          "longitude": -94.49749756,
+          "elevation_ft": 1011,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 5401,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 44.32460022,
+          "longitude": -94.50679779,
+          "elevation_ft": 1004,
+          "heading_true": 151,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 44.31409836,
+          "longitude": -94.49859619,
+          "elevation_ft": 1009,
+          "heading_true": 331,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.325
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 127.1
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

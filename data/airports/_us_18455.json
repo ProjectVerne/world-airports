@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Paxton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.449001,
+    "longitude": -88.127701,
+    "elevation_ft": 779,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Paxton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Paxton_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3409,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.45370101928711,
+          "longitude": -88.12779998779297,
+          "elevation_ft": 779,
+          "heading_true": 180,
+          "displaced_threshold_ft": 800
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.44430160522461,
+          "longitude": -88.12770080566406,
+          "elevation_ft": 755,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHAMPAIGN APP/DEP",
+      "mhz": 121.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18455,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

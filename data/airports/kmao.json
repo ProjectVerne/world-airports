@@ -1,0 +1,67 @@
+{
+  "icao": "KMAO",
+  "iata": null,
+  "name": "Marion County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.181198,
+    "longitude": -79.334702,
+    "elevation_ft": 92,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Mullins"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marion_County_Airport_(South_Carolina)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4505,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 34.17610168,
+          "longitude": -79.33889771,
+          "elevation_ft": 92,
+          "heading_true": 34.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 34.18629837,
+          "longitude": -79.33049774,
+          "elevation_ft": 90,
+          "heading_true": 214.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FLORENCE APP/DEP",
+      "mhz": 135.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

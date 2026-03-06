@@ -1,0 +1,118 @@
+{
+  "icao": "KFDK",
+  "iata": "FDK",
+  "name": "Frederick Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.417598724399994,
+    "longitude": -77.3742980957,
+    "elevation_ft": 303,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Frederick"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Municipal_Airport_(Maryland)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5819,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 39.4095993,
+          "longitude": -77.38040161,
+          "elevation_ft": 303,
+          "heading_true": 40,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 39.42050171,
+          "longitude": -77.36840057,
+          "elevation_ft": 282,
+          "heading_true": 220,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 3599,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 39.42340088,
+          "longitude": -77.37979889,
+          "elevation_ft": 294,
+          "heading_true": 116,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 39.41910172,
+          "longitude": -77.36840057,
+          "elevation_ft": 281,
+          "heading_true": 296,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POTOMAC APP/DEP",
+      "mhz": 126.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS/AWOS 3",
+      "mhz": 124.875
+    },
+    {
+      "type": "OTHER",
+      "description": "POTOMAC CLNC DEL",
+      "mhz": 126.9
+    },
+    {
+      "type": "CTAF",
+      "description": "",
+      "mhz": 132.4
+    },
+    {
+      "type": "OTHER",
+      "description": "LEESBURG RDO",
+      "mhz": 109
+    },
+    {
+      "type": "TWR",
+      "description": "Frederick Tower",
+      "mhz": 132.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

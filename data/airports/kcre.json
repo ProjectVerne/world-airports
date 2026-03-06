@@ -1,0 +1,92 @@
+{
+  "icao": "KCRE",
+  "iata": "CRE",
+  "name": "Grand Strand Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.8116989136,
+    "longitude": -78.72389984130001,
+    "elevation_ft": 32,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "North Myrtle Beach"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Grand_Strand_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5997,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 33.80599976,
+          "longitude": -78.73100281,
+          "elevation_ft": 32,
+          "heading_true": 46.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 33.81750107,
+          "longitude": -78.71679688,
+          "elevation_ft": 29,
+          "heading_true": 226.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MYRTLE BEACH APP/DEP",
+      "mhz": 119.2
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.625
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124.6
+    },
+    {
+      "type": "GND",
+      "description": "STRAND GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "ANDERSON RDO",
+      "mhz": 123.6
+    },
+    {
+      "type": "TWR",
+      "description": "STRAND TWR",
+      "mhz": 124.6
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

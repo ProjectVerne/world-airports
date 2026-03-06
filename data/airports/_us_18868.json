@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Lockhart Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.850299835205078,
+    "longitude": -97.67240142822266,
+    "elevation_ft": 532,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lockhart"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 29.85580062866211,
+          "longitude": -97.67220306396484,
+          "elevation_ft": 532,
+          "heading_true": 182,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 29.84480094909668,
+          "longitude": -97.67259979248047,
+          "elevation_ft": 524,
+          "heading_true": 2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "AUSTIN APP/DEP",
+      "mhz": 118.8
+    },
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 126.625
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18868,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Cackleberry Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.424999,
+    "longitude": -83.8694,
+    "elevation_ft": 890,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Dexter"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cackleberry_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 2113,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 42.42319869995117,
+          "longitude": -83.87149810791016,
+          "elevation_ft": 0,
+          "heading_true": 49,
+          "displaced_threshold_ft": 315
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 42.426998138427734,
+          "longitude": -83.8656005859375,
+          "elevation_ft": 0,
+          "heading_true": 229,
+          "displaced_threshold_ft": 300
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 9373,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Harlem Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.566101,
+    "longitude": -108.773003,
+    "elevation_ft": 2643,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Harlem"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Harlem_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 4100,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 48.57229996,
+          "longitude": -108.7819977,
+          "elevation_ft": 2643,
+          "heading_true": 125,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 48.5658989,
+          "longitude": -108.7679977,
+          "elevation_ft": 2600,
+          "heading_true": 305,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 1933,
+      "width_ft": 120,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 48.56420135,
+          "longitude": -108.7679977,
+          "elevation_ft": 0,
+          "heading_true": 174,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 48.55889893,
+          "longitude": -108.7669983,
+          "elevation_ft": 0,
+          "heading_true": 354,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18794,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Field of Dreams Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.3650016784668,
+    "longitude": -83.76249694824219,
+    "elevation_ft": 830,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Hale"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2400,
+      "width_ft": 90,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 44.36389923095703,
+          "longitude": -83.76709747314453,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 1000
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 44.365501403808594,
+          "longitude": -83.7582015991211,
+          "elevation_ft": 0,
+          "heading_true": 184,
+          "displaced_threshold_ft": 410
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17614,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

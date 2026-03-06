@@ -1,0 +1,92 @@
+{
+  "icao": "KHHR",
+  "iata": "HHR",
+  "name": "Jack Northrop Field Hawthorne Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.922798,
+    "longitude": -118.334999,
+    "elevation_ft": 66,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Hawthorne"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hawthorne_Municipal_Airport_(California)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4884,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 33.92250061,
+          "longitude": -118.3430023,
+          "elevation_ft": 64,
+          "heading_true": 86.7,
+          "displaced_threshold_ft": 971
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 33.9231987,
+          "longitude": -118.3270035,
+          "elevation_ft": 61,
+          "heading_true": 266.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "SOCAL APP",
+      "mhz": 124.3
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.4
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 121.1
+    },
+    {
+      "type": "DEP",
+      "description": "SOCAL DEP",
+      "mhz": 124.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 125.1
+    },
+    {
+      "type": "OTHER",
+      "description": "HAWTHORNE RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 121.1
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

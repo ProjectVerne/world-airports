@@ -1,0 +1,105 @@
+{
+  "icao": "KSTK",
+  "iata": "STK",
+  "name": "Sterling Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.613497,
+    "longitude": -103.263833,
+    "elevation_ft": 4040,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Sterling"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sterling_Municipal_Airport",
+  "keywords": [
+    "Crosson Field"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2500,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 40.610298,
+          "longitude": -103.267998,
+          "elevation_ft": 4032,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 40.6152,
+          "longitude": -103.261002,
+          "elevation_ft": 4029,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 5201,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 40.6231,
+          "longitude": -103.266998,
+          "elevation_ft": 4034,
+          "heading_true": 166,
+          "displaced_threshold_ft": 411
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 40.6106,
+          "longitude": -103.263001,
+          "elevation_ft": 4024,
+          "heading_true": 346,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 118.475
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.525
+    },
+    {
+      "type": "OTHER",
+      "description": "AKRON RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "icao": "KDUA",
+  "iata": "DUA",
+  "name": "Durant Regional Airport - Eaker Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.939675,
+    "longitude": -96.395072,
+    "elevation_ft": 699,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Durant"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Durant_Regional_Airport_%E2%80%93_Eaker_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3900,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 33.9379997253418,
+          "longitude": -96.39959716796875,
+          "elevation_ft": 0,
+          "heading_true": 48,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 33.9452018737793,
+          "longitude": -96.38999938964844,
+          "elevation_ft": 0,
+          "heading_true": 228,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 3000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 33.9452018737793,
+          "longitude": -96.39730072021484,
+          "elevation_ft": 690,
+          "heading_true": 133,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 33.93960189819336,
+          "longitude": -96.39009857177734,
+          "elevation_ft": 674,
+          "heading_true": 313,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 6800,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.949039,
+          "longitude": -96.39499,
+          "elevation_ft": 699,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.930356,
+          "longitude": -96.395125,
+          "elevation_ft": 694,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 124.175
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 124.75
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

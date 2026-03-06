@@ -1,0 +1,41 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Cedar Knoll Flying Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.78190040588379,
+    "longitude": -81.1592025756836,
+    "elevation_ft": 19,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Geneva"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "",
+      "mhz": 122.9
+    },
+    {
+      "type": "CTAF",
+      "description": "CEDAR KNOLL TRAFFIC",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 6589,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "icao": "KHBV",
+  "iata": null,
+  "name": "Jim Hogg County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.349599838256836,
+    "longitude": -98.73699951171875,
+    "elevation_ft": 663,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Hebbronville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5003,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 27.354401,
+          "longitude": -98.7425,
+          "elevation_ft": 660,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 27.344801,
+          "longitude": -98.7314,
+          "elevation_ft": 662,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.075
+    },
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 127.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

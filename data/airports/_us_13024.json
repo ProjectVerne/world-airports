@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "William Tiny Zehnder Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.314364,
+    "longitude": -83.710055,
+    "elevation_ft": 645,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Frankenmuth"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/W.M._%27Tiny%27_Zehnder_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2530,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 43.313899993896484,
+          "longitude": -83.71440124511719,
+          "elevation_ft": 645,
+          "heading_true": 0,
+          "displaced_threshold_ft": 400
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 43.313899993896484,
+          "longitude": -83.70500183105469,
+          "elevation_ft": 645,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 13024,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

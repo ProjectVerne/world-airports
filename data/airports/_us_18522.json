@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": "CNE",
+  "name": "Fremont County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.429739,
+    "longitude": -105.108562,
+    "elevation_ft": 5439,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Penrose"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 5399,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 38.43280029296875,
+          "longitude": -105.11599731445312,
+          "elevation_ft": 5439,
+          "heading_true": 120,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 38.42559814453125,
+          "longitude": -105.0999984741211,
+          "elevation_ft": 5378,
+          "heading_true": 300,
+          "displaced_threshold_ft": 100
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 1800,
+      "width_ft": 35,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 38.43059921,
+          "longitude": -105.1019974,
+          "elevation_ft": 5408,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 38.42169952,
+          "longitude": -105.1019974,
+          "elevation_ft": 5360,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PUEBLO APP/DEP",
+      "mhz": 120.1
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120.025
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18522,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

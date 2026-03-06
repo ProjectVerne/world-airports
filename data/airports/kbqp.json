@@ -1,0 +1,69 @@
+{
+  "icao": "KBQP",
+  "iata": null,
+  "name": "Morehouse Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.756,
+    "longitude": -91.880556,
+    "elevation_ft": 168,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Bastrop"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Morehouse_Memorial_Airport",
+  "keywords": [
+    "2F8"
+  ],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 4002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 32.76139832,
+          "longitude": -91.88240051,
+          "elevation_ft": 0,
+          "heading_true": 163.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 32.75080109,
+          "longitude": -91.87870026,
+          "elevation_ft": 0,
+          "heading_true": 343.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MONROE APP/DEP",
+      "mhz": 126.9
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

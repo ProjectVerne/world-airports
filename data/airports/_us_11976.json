@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Providence Saint Vincent Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.510905,
+    "longitude": -122.774102,
+    "elevation_ft": 478,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Beaverton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Providence_St._Vincent_Medical_Center",
+  "keywords": [
+    "St Vincent Hospital Heliport"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11976,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

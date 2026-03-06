@@ -1,0 +1,62 @@
+{
+  "icao": "KNJW",
+  "iata": null,
+  "name": "Joe Williams Naval Outlying Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.798529,
+    "longitude": -88.834333,
+    "elevation_ft": 539,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Preston"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 7976,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 32.80379867553711,
+          "longitude": -88.84100341796875,
+          "elevation_ft": 519,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 32.78850173950195,
+          "longitude": -88.82240295410156,
+          "elevation_ft": 540,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "TWR",
+      "description": "BRAVO TWR",
+      "mhz": 118.475
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

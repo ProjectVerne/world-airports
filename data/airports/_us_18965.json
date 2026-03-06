@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Fort Deposit Lowndes County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.972382,
+    "longitude": -86.59215,
+    "elevation_ft": 490,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Fort Deposit"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Deposit%E2%80%93Lowndes_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3593,
+      "width_ft": 78,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 31.97640037536621,
+          "longitude": -86.59490203857422,
+          "elevation_ft": 0,
+          "heading_true": 150,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 31.96780014038086,
+          "longitude": -86.58910369873047,
+          "elevation_ft": 0,
+          "heading_true": 330,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18965,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

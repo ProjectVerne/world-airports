@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Watson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.9526996613,
+    "longitude": -85.4173965454,
+    "elevation_ft": 122,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Campbellton"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 310048,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

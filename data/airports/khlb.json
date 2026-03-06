@@ -1,0 +1,64 @@
+{
+  "icao": "KHLB",
+  "iata": "HLB",
+  "name": "Batesville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.342861,
+    "longitude": -85.258441,
+    "elevation_ft": 973,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Batesville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Hillenbrand Industries"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5933,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.351299,
+          "longitude": -85.2584,
+          "elevation_ft": 975,
+          "heading_true": 180,
+          "displaced_threshold_ft": 500
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.3377,
+          "longitude": -85.2584,
+          "elevation_ft": 974,
+          "heading_true": 360,
+          "displaced_threshold_ft": 500
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

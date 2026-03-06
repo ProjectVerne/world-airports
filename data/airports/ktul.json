@@ -1,0 +1,149 @@
+{
+  "icao": "KTUL",
+  "iata": "TUL",
+  "name": "Tulsa International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.197084,
+    "longitude": -95.886225,
+    "elevation_ft": 677,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Tulsa"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tulsa_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 7376,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 36.19540024,
+          "longitude": -95.89900208,
+          "elevation_ft": 671,
+          "heading_true": 89.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 36.1955986,
+          "longitude": -95.87400055,
+          "elevation_ft": 633,
+          "heading_true": 269.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18L/36R",
+      "length_ft": 10000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18L",
+          "latitude": 36.21390152,
+          "longitude": -95.88130188,
+          "elevation_ft": 626,
+          "heading_true": 183.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36R",
+          "latitude": 36.18650055,
+          "longitude": -95.88310242,
+          "elevation_ft": 644,
+          "heading_true": 3.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18R/36L",
+      "length_ft": 6101,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18R",
+          "latitude": 36.2071991,
+          "longitude": -95.89910126,
+          "elevation_ft": 634,
+          "heading_true": 183.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36L",
+          "latitude": 36.19049835,
+          "longitude": -95.90019989,
+          "elevation_ft": 677,
+          "heading_true": 3.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.1
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.9
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 134.05
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ANG OPS",
+      "mhz": 141.9
+    },
+    {
+      "type": "OTHER",
+      "description": "MC ALESTER RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Apple Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.678398,
+    "longitude": -123.185997,
+    "elevation_ft": 247,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Buxton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Apple_Valley_Airport_(Oregon)",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23911,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

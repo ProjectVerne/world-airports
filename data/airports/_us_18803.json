@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Searcy County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.896999,
+    "longitude": -92.658997,
+    "elevation_ft": 963,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Marshall"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Searcy_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4003,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 35.895301818847656,
+          "longitude": -92.6615982055664,
+          "elevation_ft": 923,
+          "heading_true": 52,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 35.902198791503906,
+          "longitude": -92.6511001586914,
+          "elevation_ft": 963,
+          "heading_true": 232,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18803,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

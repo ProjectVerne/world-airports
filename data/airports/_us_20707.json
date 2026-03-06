@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Rio Vista Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.19340133666992,
+    "longitude": -121.7040023803711,
+    "elevation_ft": 20,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Rio Vista"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rio_Vista_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4199,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 38.19340134,
+          "longitude": -121.7099991,
+          "elevation_ft": 21,
+          "heading_true": 86,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 38.19430161,
+          "longitude": -121.6949997,
+          "elevation_ft": 21,
+          "heading_true": 266,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 2199,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 38.1953010559082,
+          "longitude": -121.70800018310547,
+          "elevation_ft": 22,
+          "heading_true": 160,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 38.18960189819336,
+          "longitude": -121.70500183105469,
+          "elevation_ft": 21,
+          "heading_true": 340,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORCAL APP/DEP",
+      "mhz": 125.25
+    },
+    {
+      "type": "DEP",
+      "description": "TRAVIS DEP",
+      "mhz": 119.9
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20707,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

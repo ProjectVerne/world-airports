@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Dalton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.052502,
+    "longitude": -83.804901,
+    "elevation_ft": 733,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Flushing"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Dalton_Airport_(Michigan)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 1633,
+      "width_ft": 130,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 43.05690002441406,
+          "longitude": -83.80940246582031,
+          "elevation_ft": 733,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 43.05690002441406,
+          "longitude": -83.80329895019531,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 293
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2510,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 43.0531005859375,
+          "longitude": -83.80390167236328,
+          "elevation_ft": 733,
+          "heading_true": 181,
+          "displaced_threshold_ft": 771
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 43.046199798583984,
+          "longitude": -83.80400085449219,
+          "elevation_ft": 733,
+          "heading_true": 1,
+          "displaced_threshold_ft": 771
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10435,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

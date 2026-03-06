@@ -1,0 +1,67 @@
+{
+  "icao": "KBLU",
+  "iata": "BLU",
+  "name": "Blue Canyon Nyack Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.2750015259,
+    "longitude": -120.709999084,
+    "elevation_ft": 5284,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Emigrant Gap"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Blue_Canyon_%E2%80%93_Nyack_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3300,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 39.27939987182617,
+          "longitude": -120.71099853515625,
+          "elevation_ft": 5283,
+          "heading_true": 168,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 39.27050018310547,
+          "longitude": -120.70899963378906,
+          "elevation_ft": 5245,
+          "heading_true": 348,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 120.075
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

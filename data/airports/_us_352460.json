@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Burkett Ranch/Jackson Pasture Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.075693,
+    "longitude": -98.799351,
+    "elevation_ft": 1214,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Graham"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2540,
+      "width_ft": 75,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 33.07920074,
+          "longitude": -98.79910278,
+          "elevation_ft": 1214,
+          "heading_true": 183,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 33.07220078,
+          "longitude": -98.79959869,
+          "elevation_ft": 1185,
+          "heading_true": 3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 352460,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

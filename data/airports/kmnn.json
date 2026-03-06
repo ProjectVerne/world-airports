@@ -1,0 +1,103 @@
+{
+  "icao": "KMNN",
+  "iata": "MNN",
+  "name": "Marion Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.6161994934,
+    "longitude": -83.06349945070001,
+    "elevation_ft": 993,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Marion"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marion_Municipal_Airport_(Ohio)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 40.61140060424805,
+          "longitude": -83.07129669189453,
+          "elevation_ft": 989,
+          "heading_true": 59.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 40.61830139160156,
+          "longitude": -83.05570220947266,
+          "elevation_ft": 993,
+          "heading_true": 239.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 3498,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 40.62070083618164,
+          "longitude": -83.06880187988281,
+          "elevation_ft": 986,
+          "heading_true": 119.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 40.61589813232422,
+          "longitude": -83.05789947509766,
+          "elevation_ft": 989,
+          "heading_true": 299.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MANSFIELD APP/DEP",
+      "mhz": 124.2
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.975
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 126.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

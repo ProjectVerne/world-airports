@@ -1,0 +1,149 @@
+{
+  "icao": "KGLS",
+  "iata": "GLS",
+  "name": "Scholes International At Galveston Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.265301,
+    "longitude": -94.860397,
+    "elevation_ft": 6,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Galveston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Scholes_International_Airport_at_Galveston",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3774,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 29.27079963684082,
+          "longitude": -94.87000274658203,
+          "elevation_ft": 7,
+          "heading_true": 76.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 29.273300170898438,
+          "longitude": -94.8582992553711,
+          "elevation_ft": 7,
+          "heading_true": 256.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 6000,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 29.2717,
+          "longitude": -94.867599,
+          "elevation_ft": 5,
+          "heading_true": 140,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 29.2591,
+          "longitude": -94.855598,
+          "elevation_ft": 5,
+          "heading_true": 320,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6001,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 29.2735,
+          "longitude": -94.8591,
+          "elevation_ft": 6,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 29.257,
+          "longitude": -94.859398,
+          "elevation_ft": 5,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON APP/DEP",
+      "mhz": 134.45
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.275
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 135.35
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.575
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 118.625
+    },
+    {
+      "type": "OTHER",
+      "description": "MONTGOMERY CO RDO",
+      "mhz": 122.15
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.575
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

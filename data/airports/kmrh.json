@@ -1,0 +1,129 @@
+{
+  "icao": "KMRH",
+  "iata": null,
+  "name": "Michael J. Smith Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.73360062,
+    "longitude": -76.66059875,
+    "elevation_ft": 11,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Beaufort"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Michael_J._Smith_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4192,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 34.72750092,
+          "longitude": -76.66190338,
+          "elevation_ft": 7,
+          "heading_true": 25.2,
+          "displaced_threshold_ft": 184
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 34.73789978,
+          "longitude": -76.65599823,
+          "elevation_ft": 7,
+          "heading_true": 205.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 5004,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 34.7332,
+          "longitude": -76.6688,
+          "elevation_ft": 7,
+          "heading_true": 68,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 34.737598,
+          "longitude": -76.655602,
+          "elevation_ft": 8,
+          "heading_true": 248,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 34.73619843,
+          "longitude": -76.66549683,
+          "elevation_ft": 7,
+          "heading_true": 132.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 34.72880173,
+          "longitude": -76.65570068,
+          "elevation_ft": 10,
+          "heading_true": 312.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHERRY POINT APP/DEP",
+      "mhz": 124.1
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.375
+    },
+    {
+      "type": "OTHER",
+      "description": "CHERRY POINT CLNC",
+      "mhz": 125.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": "NPH",
+  "name": "J. Randy McKnight Nephi Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.73681,
+    "longitude": -111.870063,
+    "elevation_ft": 5022,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Nephi"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 6300,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 39.745899,
+          "longitude": -111.872002,
+          "elevation_ft": 4978,
+          "heading_true": 180,
+          "displaced_threshold_ft": 572
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 39.732399,
+          "longitude": -111.872002,
+          "elevation_ft": 5009,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21256,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

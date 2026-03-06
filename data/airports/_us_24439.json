@@ -1,0 +1,36 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Palmetto Air Plantation Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.664833,
+    "longitude": -80.24703,
+    "elevation_ft": 140,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Manning"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 24439,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

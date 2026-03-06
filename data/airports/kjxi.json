@@ -1,0 +1,74 @@
+{
+  "icao": "KJXI",
+  "iata": null,
+  "name": "Fox Stephens Field Gilmer Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.699001,
+    "longitude": -94.948898,
+    "elevation_ft": 415,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Gilmer"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "4F4"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3998,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.70349884,
+          "longitude": -94.94879913,
+          "elevation_ft": 415,
+          "heading_true": 180.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.69250107,
+          "longitude": -94.94889832,
+          "elevation_ft": 415,
+          "heading_true": 0.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "LONGVIEW APP/DEP",
+      "mhz": 118.25
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

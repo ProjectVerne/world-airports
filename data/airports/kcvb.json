@@ -1,0 +1,69 @@
+{
+  "icao": "KCVB",
+  "iata": null,
+  "name": "Castroville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.3419,
+    "longitude": -98.850899,
+    "elevation_ft": 771,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Castroville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Formerly T89"
+  ],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 29.360465,
+          "longitude": -98.853772,
+          "elevation_ft": 774,
+          "heading_true": 161,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 29.335903,
+          "longitude": -98.848657,
+          "elevation_ft": 763,
+          "heading_true": 341,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SAN ANTONIO APP/DEP",
+      "mhz": 118.05
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

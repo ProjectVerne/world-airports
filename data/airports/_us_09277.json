@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Lockett Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.094807,
+    "longitude": -99.365108,
+    "elevation_ft": 1282,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Vernon"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3000,
+      "width_ft": 30,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 34.09809875488281,
+          "longitude": -99.36810302734375,
+          "elevation_ft": 0,
+          "heading_true": 150,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 34.090999603271484,
+          "longitude": -99.36319732666016,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 127.45
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 9277,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

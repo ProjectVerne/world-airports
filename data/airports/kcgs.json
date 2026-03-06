@@ -1,0 +1,76 @@
+{
+  "icao": "KCGS",
+  "iata": "CGS",
+  "name": "College Park Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.9805984497,
+    "longitude": -76.9223022461,
+    "elevation_ft": 48,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "College Park"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/College_Park_Airport",
+  "keywords": [
+    "DC3",
+    "FRZ",
+    "ADIZ"
+  ],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 2980,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 38.983299,
+          "longitude": -76.925301,
+          "elevation_ft": 47,
+          "heading_true": 138,
+          "displaced_threshold_ft": 416
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 38.977901,
+          "longitude": -76.919197,
+          "elevation_ft": 40,
+          "heading_true": 318,
+          "displaced_threshold_ft": 201
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POTOMAC APP/DEP",
+      "mhz": 119.85
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 121.225
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.975
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

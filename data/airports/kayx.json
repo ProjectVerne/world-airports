@@ -1,0 +1,72 @@
+{
+  "icao": "KAYX",
+  "iata": "TUH",
+  "name": "Arnold Air Force Base",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.392601,
+    "longitude": -86.0858,
+    "elevation_ft": 1067,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Manchester"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Air_Force_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 6000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 35.385398864746094,
+          "longitude": -86.09089660644531,
+          "elevation_ft": 1065,
+          "heading_true": 30,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 35.39970016479492,
+          "longitude": -86.08080291748047,
+          "elevation_ft": 1065,
+          "heading_true": 210,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 128.325
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 126.75
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 126.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

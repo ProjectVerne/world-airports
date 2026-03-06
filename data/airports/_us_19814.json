@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Carrizozo Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.648899,
+    "longitude": -105.896004,
+    "elevation_ft": 5371,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Carrizozo"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Carrizozo_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 4944,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 33.64580154,
+          "longitude": -105.9039993,
+          "elevation_ft": 5348,
+          "heading_true": 68.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 33.65069962,
+          "longitude": -105.8889999,
+          "elevation_ft": 5355,
+          "heading_true": 248.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 2500,
+      "width_ft": 90,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 33.65330123901367,
+          "longitude": -105.89199829101562,
+          "elevation_ft": 5339,
+          "heading_true": 179.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 33.64680099487305,
+          "longitude": -105.89199829101562,
+          "elevation_ft": 5371,
+          "heading_true": 359.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19814,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

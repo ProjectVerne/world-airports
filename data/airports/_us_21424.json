@@ -1,0 +1,91 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Crandon Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.522102,
+    "longitude": -88.925087,
+    "elevation_ft": 1646,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Crandon"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Crandon_Municipal_Airport",
+  "keywords": [
+    "Steve Conway Municipal Airport"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 2742,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 45.51810074,
+          "longitude": -88.92569733,
+          "elevation_ft": 1615,
+          "heading_true": 6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 45.52550125,
+          "longitude": -88.92459869,
+          "elevation_ft": 1628,
+          "heading_true": 186,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 3100,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 45.52519989013672,
+          "longitude": -88.93569946289062,
+          "elevation_ft": 1646,
+          "heading_true": 113,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 45.52190017700195,
+          "longitude": -88.92459869384766,
+          "elevation_ft": 1625,
+          "heading_true": 293,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21424,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

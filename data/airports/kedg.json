@@ -1,0 +1,72 @@
+{
+  "icao": "KEDG",
+  "iata": null,
+  "name": "Weide (Aberdeen Proving Ground) Army Heliport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.391602,
+    "longitude": -76.2911,
+    "elevation_ft": 21,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Gunpowder"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Weide_Army_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 1704,
+      "width_ft": 85,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 39.38529968,
+          "longitude": -76.29039764,
+          "elevation_ft": 30,
+          "heading_true": 355.2,
+          "displaced_threshold_ft": 880
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 39.39789963,
+          "longitude": -76.29170227,
+          "elevation_ft": 16,
+          "heading_true": 175.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POTOMAC APP/DEP",
+      "mhz": 119
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126.2
+    },
+    {
+      "type": "OTHER",
+      "description": "OPS",
+      "mhz": 126.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

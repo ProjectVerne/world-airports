@@ -1,0 +1,93 @@
+{
+  "icao": "KTKX",
+  "iata": "KNT",
+  "name": "Kennett Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.2258987427,
+    "longitude": -90.0365982056,
+    "elevation_ft": 262,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Kennett"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Kennett_Memorial_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 36.217201232910156,
+          "longitude": -90.04060363769531,
+          "elevation_ft": 259,
+          "heading_true": 18,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 36.23030090332031,
+          "longitude": -90.035400390625,
+          "elevation_ft": 258,
+          "heading_true": 198,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 3012,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 36.23350143432617,
+          "longitude": -90.03459930419922,
+          "elevation_ft": 260,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 36.22520065307617,
+          "longitude": -90.0343017578125,
+          "elevation_ft": 258,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 120.075
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

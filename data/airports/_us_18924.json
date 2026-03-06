@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "De Quincy Industrial Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.441200256347656,
+    "longitude": -93.47350311279297,
+    "elevation_ft": 81,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "De Quincy"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 30.447399139404297,
+          "longitude": -93.47660064697266,
+          "elevation_ft": 0,
+          "heading_true": 157.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 30.43470001220703,
+          "longitude": -93.47049713134766,
+          "elevation_ft": 0,
+          "heading_true": 337.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "LAKE CHARLES APP/DEP",
+      "mhz": 119.35
+    },
+    {
+      "type": "FSS",
+      "description": "DE RIDDER RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18924,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

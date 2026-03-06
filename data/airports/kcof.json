@@ -1,0 +1,125 @@
+{
+  "icao": "KCOF",
+  "iata": "COF",
+  "name": "Patrick Space Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.2349,
+    "longitude": -80.6101,
+    "elevation_ft": 8,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Cocoa Beach"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Air_Force_Base",
+  "keywords": [
+    "Naval Air Station Banana River"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 9008,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 28.22109985,
+          "longitude": -80.61499786,
+          "elevation_ft": 5,
+          "heading_true": 20,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 28.24449921,
+          "longitude": -80.60549927,
+          "elevation_ft": 8,
+          "heading_true": 200,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 3993,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 28.24139977,
+          "longitude": -80.61530304,
+          "elevation_ft": 4,
+          "heading_true": 106,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 28.23830032,
+          "longitude": -80.60340118,
+          "elevation_ft": 7,
+          "heading_true": 286,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ORLANDO APP/DEP",
+      "mhz": 132.65
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.175
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.4
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 124.35
+    },
+    {
+      "type": "OTHER",
+      "description": "RESCUE OPS",
+      "mhz": 138.475
+    },
+    {
+      "type": "OTHER",
+      "description": "KING OPS",
+      "mhz": 150.35
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 139.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 133.75
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

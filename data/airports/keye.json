@@ -1,0 +1,79 @@
+{
+  "icao": "KEYE",
+  "iata": null,
+  "name": "Eagle Creek Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.830699920654,
+    "longitude": -86.294403076172,
+    "elevation_ft": 823,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Indianapolis"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eagle_Creek_Airpark",
+  "keywords": [
+    "I14"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4200,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 39.82550048828125,
+          "longitude": -86.29759979248047,
+          "elevation_ft": 818,
+          "heading_true": 25.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 39.835899353027344,
+          "longitude": -86.29119873046875,
+          "elevation_ft": 823,
+          "heading_true": 205.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS APP/DEP",
+      "mhz": 119.05
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 121.575
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 128.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

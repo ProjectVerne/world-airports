@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Skyway Estates Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.583836,
+    "longitude": -84.651547,
+    "elevation_ft": 931,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Eaton Rapids"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Skyway_Estates_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2653,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 42.58340072631836,
+          "longitude": -84.65640258789062,
+          "elevation_ft": 931,
+          "heading_true": 83,
+          "displaced_threshold_ft": 685
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 42.58420181274414,
+          "longitude": -84.64659881591797,
+          "elevation_ft": 931,
+          "heading_true": 263,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12773,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

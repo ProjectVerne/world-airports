@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Kline Kill Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.350101470947266,
+    "longitude": -73.63710021972656,
+    "elevation_ft": 380,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Ghent"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 42.345321,
+          "longitude": -73.63495,
+          "elevation_ft": 380,
+          "heading_true": 10,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 42.355547,
+          "longitude": -73.636597,
+          "elevation_ft": 380,
+          "heading_true": 190,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 23391,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

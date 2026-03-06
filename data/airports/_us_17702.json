@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Green Castle Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.755001,
+    "longitude": -91.727699,
+    "elevation_ft": 750,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Oxford"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Green_Castle_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "NW/SE",
+      "length_ft": 4000,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "NW",
+          "latitude": 41.7588996887207,
+          "longitude": -91.73280334472656,
+          "elevation_ft": 0,
+          "heading_true": 136.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "SE",
+          "latitude": 41.7510986328125,
+          "longitude": -91.7228012084961,
+          "elevation_ft": 0,
+          "heading_true": 316.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17702,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

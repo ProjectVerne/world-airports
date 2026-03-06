@@ -1,0 +1,103 @@
+{
+  "icao": "KLBL",
+  "iata": "LBL",
+  "name": "Liberal Mid-America Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.0442009,
+    "longitude": -100.9599991,
+    "elevation_ft": 2885,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Liberal"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Liberal_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 37.0387001,
+          "longitude": -100.9710007,
+          "elevation_ft": 2884,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 37.04980087,
+          "longitude": -100.9570007,
+          "elevation_ft": 2876,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 7105,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 37.05390167,
+          "longitude": -100.9560013,
+          "elevation_ft": 2875,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 37.03440094,
+          "longitude": -100.9560013,
+          "elevation_ft": 2874,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.375
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 134
+    },
+    {
+      "type": "OTHER",
+      "description": "WICHITA RDO",
+      "mhz": 122.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

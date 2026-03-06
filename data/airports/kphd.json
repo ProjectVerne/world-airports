@@ -1,0 +1,103 @@
+{
+  "icao": "KPHD",
+  "iata": "PHD",
+  "name": "Harry Clever Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.470901489258,
+    "longitude": -81.419700622559,
+    "elevation_ft": 894,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "New Philadelphia"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Harry_Clever_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 1907,
+      "width_ft": 70,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 40.469501,
+          "longitude": -81.424004,
+          "elevation_ft": 890,
+          "heading_true": 109,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 40.4678,
+          "longitude": -81.416801,
+          "elevation_ft": 886,
+          "heading_true": 289,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 3951,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 40.474998,
+          "longitude": -81.4244,
+          "elevation_ft": 894,
+          "heading_true": 139,
+          "displaced_threshold_ft": 320
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 40.466801,
+          "longitude": -81.4151,
+          "elevation_ft": 886,
+          "heading_true": 319,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "AKRON CANTON APP/DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 121.425
+    },
+    {
+      "type": "OTHER",
+      "description": "CLEVELAND RDO",
+      "mhz": 112.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

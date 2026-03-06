@@ -1,0 +1,101 @@
+{
+  "icao": "KICR",
+  "iata": null,
+  "name": "Winner Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.390202,
+    "longitude": -99.842102,
+    "elevation_ft": 2033,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Winner"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Winner_Regional_Airport",
+  "keywords": [
+    "Formerly KSFD",
+    "Formerly Bob Wiley Field"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2751,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 43.38790131,
+          "longitude": -99.84670258,
+          "elevation_ft": 0,
+          "heading_true": 38,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 43.39410019,
+          "longitude": -99.83989716,
+          "elevation_ft": 0,
+          "heading_true": 218,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5500,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 43.3941,
+          "longitude": -99.847298,
+          "elevation_ft": 2008,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 43.385399,
+          "longitude": -99.835297,
+          "elevation_ft": 0,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 126.775
+    },
+    {
+      "type": "OTHER",
+      "description": "HURON RDO",
+      "mhz": 112.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

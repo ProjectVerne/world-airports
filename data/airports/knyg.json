@@ -1,0 +1,77 @@
+{
+  "icao": "KNYG",
+  "iata": "NYG",
+  "name": "Quantico Marine Corps Airfield / Turner Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.501701,
+    "longitude": -77.305298,
+    "elevation_ft": 10,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Quantico"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marine_Corps_Air_Facility_Quantico",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 4250,
+      "width_ft": 184,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 38.4978981,
+          "longitude": -77.30690002,
+          "elevation_ft": 10,
+          "heading_true": 15,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 38.50930023,
+          "longitude": -77.30310059,
+          "elevation_ft": 11,
+          "heading_true": 195,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POTOMAC APP/DEP",
+      "mhz": 124.65
+    },
+    {
+      "type": "OTHER",
+      "description": "ARRIVAL",
+      "mhz": 127.05
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.75
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

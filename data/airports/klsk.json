@@ -1,0 +1,62 @@
+{
+  "icao": "KLSK",
+  "iata": "LSK",
+  "name": "Lusk Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.753799438499996,
+    "longitude": -104.404998779,
+    "elevation_ft": 4964,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Lusk"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 5058,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 42.75680160522461,
+          "longitude": -104.41300201416016,
+          "elevation_ft": 4964,
+          "heading_true": 115.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 42.75080108642578,
+          "longitude": -104.39600372314453,
+          "elevation_ft": 4952,
+          "heading_true": 295.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

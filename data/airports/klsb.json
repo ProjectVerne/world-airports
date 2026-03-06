@@ -1,0 +1,88 @@
+{
+  "icao": "KLSB",
+  "iata": "LSB",
+  "name": "Lordsburg Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.3334999084,
+    "longitude": -108.692001343,
+    "elevation_ft": 4289,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Lordsburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3251,
+      "width_ft": 60,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 32.3307991,
+          "longitude": -108.6930008,
+          "elevation_ft": 4289,
+          "heading_true": 21.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 32.33909988,
+          "longitude": -108.6900024,
+          "elevation_ft": 0,
+          "heading_true": 201.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 5224,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 32.33720016,
+          "longitude": -108.6969986,
+          "elevation_ft": 4278,
+          "heading_true": 130.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 32.32830048,
+          "longitude": -108.6849976,
+          "elevation_ft": 4277,
+          "heading_true": 310.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

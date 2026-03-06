@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Middle Bass-East Point Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.694401,
+    "longitude": -82.7966,
+    "elevation_ft": 582,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Middle Bass Island"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Middle_Bass-East_Point_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2085,
+      "width_ft": 67,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.69419860839844,
+          "longitude": -82.80039978027344,
+          "elevation_ft": 578,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.694698333740234,
+          "longitude": -82.7927017211914,
+          "elevation_ft": 580,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10861,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

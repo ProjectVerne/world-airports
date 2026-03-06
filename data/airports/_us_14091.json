@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Gates Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.3512,
+    "longitude": -81.099503,
+    "elevation_ft": 1110,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Garrettsville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gates_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2800,
+      "width_ft": 100,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 41.350399017333984,
+          "longitude": -81.10449981689453,
+          "elevation_ft": 1110,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 41.35200119018555,
+          "longitude": -81.09459686279297,
+          "elevation_ft": 1110,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 14091,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "icao": "KGUC",
+  "iata": "GUC",
+  "name": "Gunnison Crested Butte Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.534672,
+    "longitude": -106.934566,
+    "elevation_ft": 7680,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Gunnison"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gunnison-Crested_Butte_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 9400,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 38.53239822387695,
+          "longitude": -106.94499969482422,
+          "elevation_ft": 7658,
+          "heading_true": 73.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 38.53969955444336,
+          "longitude": -106.91400146484375,
+          "elevation_ft": 7680,
+          "heading_true": 253.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 2981,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 38.53250122,
+          "longitude": -106.939003,
+          "elevation_ft": 7660,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 38.52429962,
+          "longitude": -106.939003,
+          "elevation_ft": 7673,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.075
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 125.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

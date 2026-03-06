@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Simsbury Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.915755,
+    "longitude": -72.777128,
+    "elevation_ft": 195,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Simsbury"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Simsbury_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2205,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 41.913299560546875,
+          "longitude": -72.77799987792969,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 41.91910171508789,
+          "longitude": -72.7759017944336,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 270
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11360,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

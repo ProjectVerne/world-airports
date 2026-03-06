@@ -1,0 +1,74 @@
+{
+  "icao": "KCQW",
+  "iata": "HCW",
+  "name": "Cheraw Municipal Airport/Lynch Bellinger Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.712898,
+    "longitude": -79.957001,
+    "elevation_ft": 239,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Cheraw"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cheraw_Municipal_Airport",
+  "keywords": [
+    "47J"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 34.71049880981445,
+          "longitude": -79.96479797363281,
+          "elevation_ft": 239,
+          "heading_true": 70.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 34.7151985168457,
+          "longitude": -79.94920349121094,
+          "elevation_ft": 188,
+          "heading_true": 250.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FLORENCE APP/DEP",
+      "mhz": 118.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.175
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

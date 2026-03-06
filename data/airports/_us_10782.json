@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Cedar Mills Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.839298248291016,
+    "longitude": -96.81009674072266,
+    "elevation_ft": 640,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Gordonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3000,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 33.8390998840332,
+          "longitude": -96.81500244140625,
+          "elevation_ft": 640,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 33.839900970458984,
+          "longitude": -96.8051986694336,
+          "elevation_ft": 640,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10782,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

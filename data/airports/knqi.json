@@ -1,0 +1,145 @@
+{
+  "icao": "KNQI",
+  "iata": "NQI",
+  "name": "Kingsville Naval Air Station",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.5072002411,
+    "longitude": -97.8097000122,
+    "elevation_ft": 50,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Kingsville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Kingsville",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13L/31R",
+      "length_ft": 8000,
+      "width_ft": 198,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13L",
+          "latitude": 27.51390076,
+          "longitude": -97.81529999,
+          "elevation_ft": 48,
+          "heading_true": 134.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31R",
+          "latitude": 27.49860001,
+          "longitude": -97.79759979,
+          "elevation_ft": 37,
+          "heading_true": 314.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13R/31L",
+      "length_ft": 8000,
+      "width_ft": 198,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13R",
+          "latitude": 27.51259995,
+          "longitude": -97.81680298,
+          "elevation_ft": 50,
+          "heading_true": 134.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31L",
+          "latitude": 27.49720001,
+          "longitude": -97.79910278,
+          "elevation_ft": 42,
+          "heading_true": 314.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17L/35R",
+      "length_ft": 8000,
+      "width_ft": 197,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17L",
+          "latitude": 27.51440048,
+          "longitude": -97.8085022,
+          "elevation_ft": 48,
+          "heading_true": 179.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35R",
+          "latitude": 27.49239922,
+          "longitude": -97.80819702,
+          "elevation_ft": 47,
+          "heading_true": 359.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17R/35L",
+      "length_ft": 8000,
+      "width_ft": 198,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17R",
+          "latitude": 27.51440048,
+          "longitude": -97.81060028,
+          "elevation_ft": 48,
+          "heading_true": 179.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35L",
+          "latitude": 27.49239922,
+          "longitude": -97.81040192,
+          "elevation_ft": 48,
+          "heading_true": 359.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 119.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 124.1
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

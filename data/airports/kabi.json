@@ -1,0 +1,139 @@
+{
+  "icao": "KABI",
+  "iata": "ABI",
+  "name": "Abilene Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.4113006592,
+    "longitude": -99.68190002440001,
+    "elevation_ft": 1791,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Abilene"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Abilene_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3678,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 32.41960144042969,
+          "longitude": -99.6948013305664,
+          "elevation_ft": 1751,
+          "heading_true": 52,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 32.42580032348633,
+          "longitude": -99.6854019165039,
+          "elevation_ft": 1762,
+          "heading_true": 232,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17L/35R",
+      "length_ft": 7198,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17L",
+          "latitude": 32.40850067138672,
+          "longitude": -99.67479705810547,
+          "elevation_ft": 1791,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35R",
+          "latitude": 32.38869857788086,
+          "longitude": -99.67469787597656,
+          "elevation_ft": 1775,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17R/35L",
+      "length_ft": 7208,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17R",
+          "latitude": 32.42810059,
+          "longitude": -99.68489838,
+          "elevation_ft": 1757,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35L",
+          "latitude": 32.40829849,
+          "longitude": -99.68479919,
+          "elevation_ft": 1785,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 125
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.25
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH RDO",
+      "mhz": 122.65
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

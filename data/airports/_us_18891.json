@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Okolona Municipal Airport Richard Stovall Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.0158,
+    "longitude": -88.726196,
+    "elevation_ft": 335,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Okolona"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3197,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 34.02019882,
+          "longitude": -88.72619629,
+          "elevation_ft": 333,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 34.01139832,
+          "longitude": -88.72619629,
+          "elevation_ft": 335,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS APP/DEP",
+      "mhz": 120.4
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18891,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

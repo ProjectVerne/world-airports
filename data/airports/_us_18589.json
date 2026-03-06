@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Jerry Sumners Sr Aurora Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.962299,
+    "longitude": -93.695297,
+    "elevation_ft": 1434,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Aurora"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Sumners_Sr._Aurora_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3001,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 36.96640015,
+          "longitude": -93.69519806,
+          "elevation_ft": 1434,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 36.95819855,
+          "longitude": -93.69539642,
+          "elevation_ft": 1426,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SPRINGFIELD APP/DEP",
+      "mhz": 124.95
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18589,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

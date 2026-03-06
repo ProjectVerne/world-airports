@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Jones Heliport",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 37.979353,
+    "longitude": -121.229689,
+    "elevation_ft": 35,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Stockton"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "CA48"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 16579,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

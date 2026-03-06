@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Moton Field Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.460499,
+    "longitude": -85.680002,
+    "elevation_ft": 264,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Tuskegee"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Moton_Field_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5005,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 32.46480179,
+          "longitude": -85.68630219,
+          "elevation_ft": 264,
+          "heading_true": 129,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 32.45619965,
+          "longitude": -85.67369843,
+          "elevation_ft": 264,
+          "heading_true": 309,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "OTHER",
+      "description": "ANNISTON RDO",
+      "mhz": 117.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18322,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

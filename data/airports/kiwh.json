@@ -1,0 +1,93 @@
+{
+  "icao": "KIWH",
+  "iata": null,
+  "name": "Wabash Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.762991,
+    "longitude": -85.799747,
+    "elevation_ft": 796,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Wabash"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wabash_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4401,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.76100158691406,
+          "longitude": -85.80789947509766,
+          "elevation_ft": 793,
+          "heading_true": 89.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.761199951171875,
+          "longitude": -85.79199981689453,
+          "elevation_ft": 792,
+          "heading_true": 269.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 1940,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.76660156,
+          "longitude": -85.79599762,
+          "elevation_ft": 790,
+          "heading_true": 178.7,
+          "displaced_threshold_ft": 402
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.76129913,
+          "longitude": -85.79579926,
+          "elevation_ft": 792,
+          "heading_true": 358.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "GRISSOM APP/DEP",
+      "mhz": 121.05
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "icao": "KCJR",
+  "iata": null,
+  "name": "Culpeper Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.526699,
+    "longitude": -77.858902,
+    "elevation_ft": 316,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Culpeper"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Culpeper_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 38.51940155029297,
+          "longitude": -77.86380004882812,
+          "elevation_ft": 316,
+          "heading_true": 28,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 38.53150177001953,
+          "longitude": -77.85549926757812,
+          "elevation_ft": 315,
+          "heading_true": 208,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POTOMAC APP/DEP",
+      "mhz": 124.65
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120.025
+    },
+    {
+      "type": "OTHER",
+      "description": "LEESBURG RDO",
+      "mhz": 116.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.075
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

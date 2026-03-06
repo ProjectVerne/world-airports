@@ -1,0 +1,152 @@
+{
+  "icao": "KNBC",
+  "iata": null,
+  "name": "Beaufort MCAS - Merritt Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.4774017334,
+    "longitude": -80.723197937,
+    "elevation_ft": 37,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Beaufort"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marine_Corps_Air_Station_Beaufort",
+  "keywords": [
+    "BFT"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 12202,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 32.47060012817383,
+          "longitude": -80.73049926757812,
+          "elevation_ft": 37,
+          "heading_true": 41.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 32.49549865722656,
+          "longitude": -80.7041015625,
+          "elevation_ft": 13,
+          "heading_true": 221.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 6425,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 32.47560119628906,
+          "longitude": -80.73500061035156,
+          "elevation_ft": 0,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 32.47560119628906,
+          "longitude": -80.71420288085938,
+          "elevation_ft": 0,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 8001,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 32.48460007,
+          "longitude": -80.73139954,
+          "elevation_ft": 32,
+          "heading_true": 135.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 32.46900177,
+          "longitude": -80.71309662,
+          "elevation_ft": 22,
+          "heading_true": 315.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 3941,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.4817008972168,
+          "longitude": -80.73079681396484,
+          "elevation_ft": 0,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.47079849243164,
+          "longitude": -80.73079681396484,
+          "elevation_ft": 0,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 118.45
+    },
+    {
+      "type": "OTHER",
+      "description": "GND/CLNC DEL",
+      "mhz": 128.15
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

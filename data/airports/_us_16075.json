@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Adin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.186491,
+    "longitude": -120.954499,
+    "elevation_ft": 4229,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Adin"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Adin_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2850,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.18790054321289,
+          "longitude": -120.95899963378906,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.18510055541992,
+          "longitude": -120.94999694824219,
+          "elevation_ft": 0,
+          "heading_true": 313,
+          "displaced_threshold_ft": 286
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 16075,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

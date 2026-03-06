@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": "HPV",
+  "name": "Princeville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.209313,
+    "longitude": -159.44515,
+    "elevation_ft": 344,
+    "continent": "OC",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Hanalei"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Princeville_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3560,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 22.20639991760254,
+          "longitude": -159.44900512695312,
+          "elevation_ft": 344,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 22.212400436401367,
+          "longitude": -159.44200134277344,
+          "elevation_ft": 288,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "NORTH KAUI RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 17623,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

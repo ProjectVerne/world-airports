@@ -1,0 +1,72 @@
+{
+  "icao": "KCPK",
+  "iata": null,
+  "name": "Chesapeake Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.6656,
+    "longitude": -76.320702,
+    "elevation_ft": 19,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Chesapeake"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chesapeake_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 36.65959930419922,
+          "longitude": -76.32630157470703,
+          "elevation_ft": 18,
+          "heading_true": 36.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 36.67169952392578,
+          "longitude": -76.31500244140625,
+          "elevation_ft": 20,
+          "heading_true": 216.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORFOLK APP/DEP",
+      "mhz": 118.9
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 123.675
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

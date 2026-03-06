@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Noble County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.80099868774414,
+    "longitude": -81.53630065917969,
+    "elevation_ft": 879,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Caldwell"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3811,
+      "width_ft": 65,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 39.797000885009766,
+          "longitude": -81.54070281982422,
+          "elevation_ft": 876,
+          "heading_true": 40.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 39.804901123046875,
+          "longitude": -81.53189849853516,
+          "elevation_ft": 879,
+          "heading_true": 220.5,
+          "displaced_threshold_ft": 413
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS CNTR",
+      "mhz": 124.45
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20119,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "icao": "KPBH",
+  "iata": null,
+  "name": "Price County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.709,
+    "longitude": -90.402496,
+    "elevation_ft": 1497,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Phillips"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Price_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5220,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 45.70489883,
+          "longitude": -90.40339661,
+          "elevation_ft": 1465,
+          "heading_true": 8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 45.71849823,
+          "longitude": -90.40100098,
+          "elevation_ft": 1497,
+          "heading_true": 188,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06/24",
+      "length_ft": 3951,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 45.70270157,
+          "longitude": -90.40950012,
+          "elevation_ft": 1465,
+          "heading_true": 59,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 45.70830154,
+          "longitude": -90.39630127,
+          "elevation_ft": 1471,
+          "heading_true": 239,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS APP/DEP",
+      "mhz": 133.65
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 125.875
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 122.05
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Swans Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.51409912109375,
+    "longitude": -70.40679931640625,
+    "elevation_ft": 400,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Dixfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 1808,
+      "width_ft": 40,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 44.51539993286133,
+          "longitude": -70.40979766845703,
+          "elevation_ft": 418,
+          "heading_true": 121,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 44.512901306152344,
+          "longitude": -70.40380096435547,
+          "elevation_ft": 418,
+          "heading_true": 301,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10771,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

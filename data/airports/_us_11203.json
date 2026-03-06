@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Maxwell Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.770599365234375,
+    "longitude": -95.27439880371094,
+    "elevation_ft": 1011,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Baldwin City"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 2500,
+      "width_ft": 50,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 38.77349854,
+          "longitude": -95.27500153,
+          "elevation_ft": 1011,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 38.76779938,
+          "longitude": -95.27500153,
+          "elevation_ft": 980,
+          "heading_true": 217,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11203,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

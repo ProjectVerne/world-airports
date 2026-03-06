@@ -1,0 +1,33 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Murray Airport",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 48.353702,
+    "longitude": -116.507978,
+    "elevation_ft": 2220,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Sandpoint"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "ID36",
+    "US0099"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17813,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

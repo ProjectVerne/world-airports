@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Heitman Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.3760986328125,
+    "longitude": -84.25499725341797,
+    "elevation_ft": 998,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Anna"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2600,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.37969970703125,
+          "longitude": -84.25540161132812,
+          "elevation_ft": 0,
+          "heading_true": 174.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.37260055541992,
+          "longitude": -84.25460052490234,
+          "elevation_ft": 0,
+          "heading_true": 354.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23510,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

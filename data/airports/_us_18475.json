@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Freehold Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.3643,
+    "longitude": -74.066002,
+    "elevation_ft": 440,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Freehold"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Freehold_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 2275,
+      "width_ft": 22,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 42.3651008605957,
+          "longitude": -74.06999969482422,
+          "elevation_ft": 0,
+          "heading_true": 106,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 42.363399505615234,
+          "longitude": -74.06189727783203,
+          "elevation_ft": 0,
+          "heading_true": 218,
+          "displaced_threshold_ft": 300
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.85
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18475,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Rangely Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.094002,
+    "longitude": -108.763,
+    "elevation_ft": 5275,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Rangely"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2100,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 40.09469985961914,
+          "longitude": -108.76100158691406,
+          "elevation_ft": 5237,
+          "heading_true": 44.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 40.098899841308594,
+          "longitude": -108.75599670410156,
+          "elevation_ft": 5243,
+          "heading_true": 224.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06/24",
+      "length_ft": 6408,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 40.092098236083984,
+          "longitude": -108.77400207519531,
+          "elevation_ft": 5234,
+          "heading_true": 77.4,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 40.09590148925781,
+          "longitude": -108.75199890136719,
+          "elevation_ft": 5275,
+          "heading_true": 257.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FLT TRNG",
+      "mhz": 123.5
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER RDO",
+      "mhz": 122.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18857,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

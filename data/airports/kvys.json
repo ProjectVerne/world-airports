@@ -1,0 +1,72 @@
+{
+  "icao": "KVYS",
+  "iata": "VYS",
+  "name": "Illinois Valley Regional Airport Walter A Duncan Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.351898,
+    "longitude": -89.153099,
+    "elevation_ft": 654,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Peru"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Illinois_Valley_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5999,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 41.36009979,
+          "longitude": -89.15319824,
+          "elevation_ft": 654,
+          "heading_true": 179.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 41.34360123,
+          "longitude": -89.15299988,
+          "elevation_ft": 640,
+          "heading_true": 359.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120.025
+    },
+    {
+      "type": "OTHER",
+      "description": "CHICAGO CNTR",
+      "mhz": 123.75
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

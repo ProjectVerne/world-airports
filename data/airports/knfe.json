@@ -1,0 +1,62 @@
+{
+  "icao": "KNFE",
+  "iata": null,
+  "name": "Fentress Naval Auxiliary Landing Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.691641,
+    "longitude": -76.134996,
+    "elevation_ft": 16,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Fentress"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Auxiliary_Landing_Field_Fentress",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 8004,
+      "width_ft": 175,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 36.6875,
+          "longitude": -76.14579773,
+          "elevation_ft": 13,
+          "heading_true": 45.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 36.70249939,
+          "longitude": -76.12580109,
+          "elevation_ft": 13,
+          "heading_true": 225.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "OCEANA NAS APP",
+      "mhz": 119.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

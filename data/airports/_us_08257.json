@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "St Mary's Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.55337,
+    "longitude": -73.03763,
+    "elevation_ft": 300,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Waterbury"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 8257,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

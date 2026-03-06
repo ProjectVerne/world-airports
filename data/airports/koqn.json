@@ -1,0 +1,74 @@
+{
+  "icao": "KOQN",
+  "iata": null,
+  "name": "Brandywine Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.990101,
+    "longitude": -75.581902,
+    "elevation_ft": 466,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "West Chester"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Brandywine_Airport",
+  "keywords": [
+    "Formerly N99"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3347,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 39.98910140991211,
+          "longitude": -75.58769989013672,
+          "elevation_ft": 459,
+          "heading_true": 77,
+          "displaced_threshold_ft": 125
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 39.9911994934082,
+          "longitude": -75.57610321044922,
+          "elevation_ft": 462,
+          "heading_true": 257,
+          "displaced_threshold_ft": 250
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PHILADELPHIA APP/DEP",
+      "mhz": 124.35
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.075
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

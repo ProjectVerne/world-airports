@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Watford City Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.79570007,
+    "longitude": -103.2539978,
+    "elevation_ft": 2111,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Watford City"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 6550,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 47.799999,
+          "longitude": -103.260002,
+          "elevation_ft": 2056,
+          "heading_true": 134,
+          "displaced_threshold_ft": 1023
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 47.791698,
+          "longitude": -103.247002,
+          "elevation_ft": 2109,
+          "heading_true": 314,
+          "displaced_threshold_ft": 750
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CITY CNTR",
+      "mhz": 126.85
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20997,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

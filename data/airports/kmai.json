@@ -1,0 +1,207 @@
+{
+  "icao": "KMAI",
+  "iata": null,
+  "name": "Marianna Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.837799,
+    "longitude": -85.1819,
+    "elevation_ft": 110,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Marianna"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marianna_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4996,
+      "width_ft": 300,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 30.83530044555664,
+          "longitude": -85.19499969482422,
+          "elevation_ft": 105,
+          "heading_true": 40,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 30.845800399780273,
+          "longitude": -85.18470001220703,
+          "elevation_ft": 107,
+          "heading_true": 220,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 4763,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 30.84059906,
+          "longitude": -85.18579865,
+          "elevation_ft": 110,
+          "heading_true": 82,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 30.84250069,
+          "longitude": -85.17040253,
+          "elevation_ft": 109,
+          "heading_true": 262,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08L/26R",
+      "length_ft": 3117,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "08L",
+          "latitude": 30.846900939941406,
+          "longitude": -85.19609832763672,
+          "elevation_ft": 105,
+          "heading_true": 82,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26R",
+          "latitude": 30.848100662231445,
+          "longitude": -85.1864013671875,
+          "elevation_ft": 110,
+          "heading_true": 262,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4992,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 30.835599899291992,
+          "longitude": -85.19419860839844,
+          "elevation_ft": 106,
+          "heading_true": 140,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 30.825000762939453,
+          "longitude": -85.18389892578125,
+          "elevation_ft": 107,
+          "heading_true": 320,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 30.840799,
+          "longitude": -85.185699,
+          "elevation_ft": 109,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 30.827299,
+          "longitude": -85.185699,
+          "elevation_ft": 104,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18R/36L",
+      "length_ft": 3120,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "18R",
+          "latitude": 30.84670066833496,
+          "longitude": -85.19640350341797,
+          "elevation_ft": 107,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36L",
+          "latitude": 30.83810043334961,
+          "longitude": -85.19609832763672,
+          "elevation_ft": 108,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CAIRNS APP/DEP",
+      "mhz": 133.75
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 133.525
+    },
+    {
+      "type": "OTHER",
+      "description": "GAINESVILLE RDO",
+      "mhz": 114
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

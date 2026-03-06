@@ -1,0 +1,110 @@
+{
+  "icao": "KEVY",
+  "iata": null,
+  "name": "Summit Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.520401,
+    "longitude": -75.720398,
+    "elevation_ft": 70,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Middletown"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Summit_Airport_(Delaware)",
+  "keywords": [
+    "N92"
+  ],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 3601,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 39.52249908,
+          "longitude": -75.73400116,
+          "elevation_ft": 70,
+          "heading_true": 98,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 39.52119827,
+          "longitude": -75.7213974,
+          "elevation_ft": 70,
+          "heading_true": 278,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 4488,
+      "width_ft": 65,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 39.52629852,
+          "longitude": -75.72250366,
+          "elevation_ft": 66,
+          "heading_true": 165,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 39.51440048,
+          "longitude": -75.71839905,
+          "elevation_ft": 66,
+          "heading_true": 345,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PHILADELPHIA APP/DEP",
+      "mhz": 118.35
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 132.325
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.3
+    },
+    {
+      "type": "OTHER",
+      "description": "MILLVILLE RDO",
+      "mhz": 114
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

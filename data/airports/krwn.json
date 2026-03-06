@@ -1,0 +1,72 @@
+{
+  "icao": "KRWN",
+  "iata": null,
+  "name": "Arens Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.092209,
+    "longitude": -86.613357,
+    "elevation_ft": 711,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Winamac"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Arens_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4201,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.09230042,
+          "longitude": -86.62049866,
+          "elevation_ft": 706,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.09220123,
+          "longitude": -86.60520172,
+          "elevation_ft": 708,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOUTH BEND APP/DEP",
+      "mhz": 132.05
+    },
+    {
+      "type": "OTHER",
+      "description": "TERRE HAUTE RDO",
+      "mhz": 115.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "icao": "KCWA",
+  "iata": "CWA",
+  "name": "Central Wisconsin Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.777448,
+    "longitude": -89.670238,
+    "elevation_ft": 1277,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Mosinee"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Central_Wisconsin_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 7723,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 44.7798996,
+          "longitude": -89.67549896,
+          "elevation_ft": 1273,
+          "heading_true": 77.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 44.78450012,
+          "longitude": -89.64679718,
+          "elevation_ft": 1260,
+          "heading_true": 257.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 6501,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 44.78099822998047,
+          "longitude": -89.67549896240234,
+          "elevation_ft": 1277,
+          "heading_true": 170,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 44.76350021362305,
+          "longitude": -89.67120361328125,
+          "elevation_ft": 1232,
+          "heading_true": 350,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 127.45
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 127.45
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 124.4
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.75
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 122.525
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.75
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

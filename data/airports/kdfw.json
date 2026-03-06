@@ -1,0 +1,250 @@
+{
+  "icao": "KDFW",
+  "iata": "DFW",
+  "name": "Dallas Fort Worth International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.896801,
+    "longitude": -97.038002,
+    "elevation_ft": 607,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dallas-Fort Worth"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Dallas/Fort_Worth_International_Airport",
+  "keywords": [
+    "QDF"
+  ],
+  "runways": [
+    {
+      "id": "13L/31R",
+      "length_ft": 9000,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13L",
+          "latitude": 32.912601470947266,
+          "longitude": -97.02149963378906,
+          "elevation_ft": 550,
+          "heading_true": 135.3,
+          "displaced_threshold_ft": 625
+        },
+        "high": {
+          "ident": "31R",
+          "latitude": 32.89500045776367,
+          "longitude": -97.00080108642578,
+          "elevation_ft": 508,
+          "heading_true": 315.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13R/31L",
+      "length_ft": 9300,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13R",
+          "latitude": 32.9095993,
+          "longitude": -97.08309937,
+          "elevation_ft": 591,
+          "heading_true": 139,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31L",
+          "latitude": 32.89030075,
+          "longitude": -97.06330109,
+          "elevation_ft": 577,
+          "heading_true": 319,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17C/35C",
+      "length_ft": 13400,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17C",
+          "latitude": 32.91569901,
+          "longitude": -97.02600098,
+          "elevation_ft": 562,
+          "heading_true": 180.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35C",
+          "latitude": 32.87889862,
+          "longitude": -97.02619934,
+          "elevation_ft": 562,
+          "heading_true": 0.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17L/35R",
+      "length_ft": 8500,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17L",
+          "latitude": 32.89830017089844,
+          "longitude": -97.00980377197266,
+          "elevation_ft": 524,
+          "heading_true": 180.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35R",
+          "latitude": 32.875,
+          "longitude": -97.00990295410156,
+          "elevation_ft": 575,
+          "heading_true": 0.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17R/35L",
+      "length_ft": 13400,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17R",
+          "latitude": 32.91569901,
+          "longitude": -97.0298996,
+          "elevation_ft": 567,
+          "heading_true": 180.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35L",
+          "latitude": 32.87889862,
+          "longitude": -97.03009796,
+          "elevation_ft": 563,
+          "heading_true": 0.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18L/36R",
+      "length_ft": 13401,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18L",
+          "latitude": 32.91579819,
+          "longitude": -97.05069733,
+          "elevation_ft": 602,
+          "heading_true": 180.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36R",
+          "latitude": 32.87900162,
+          "longitude": -97.05090332,
+          "elevation_ft": 575,
+          "heading_true": 0.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18R/36L",
+      "length_ft": 13400,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18R",
+          "latitude": 32.91579818725586,
+          "longitude": -97.05460357666016,
+          "elevation_ft": 607,
+          "heading_true": 180.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36L",
+          "latitude": 32.87900161743164,
+          "longitude": -97.05480194091797,
+          "elevation_ft": 582,
+          "heading_true": 0.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "RGNL APP",
+      "mhz": 119.875
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 123.775
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 128.25
+    },
+    {
+      "type": "DEP",
+      "description": "RGNL DEP",
+      "mhz": 118.55
+    },
+    {
+      "type": "GND",
+      "description": "RGNL GND",
+      "mhz": 121.65
+    },
+    {
+      "type": "TWR",
+      "description": "RGNL TWR",
+      "mhz": 124.15
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

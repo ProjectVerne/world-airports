@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Orleans Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.65840148925781,
+    "longitude": -86.44300079345703,
+    "elevation_ft": 655,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Orleans"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3456,
+      "width_ft": 30,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 38.65480041503906,
+          "longitude": -86.44670104980469,
+          "elevation_ft": 655,
+          "heading_true": 58,
+          "displaced_threshold_ft": 291
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 38.6598014831543,
+          "longitude": -86.4364013671875,
+          "elevation_ft": 650,
+          "heading_true": 238,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19061,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

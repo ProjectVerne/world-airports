@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Selma Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.581600189208984,
+    "longitude": -119.65799713134766,
+    "elevation_ft": 305,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Selma"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 2206,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 36.58250046,
+          "longitude": -119.6610031,
+          "elevation_ft": 305,
+          "heading_true": 0,
+          "displaced_threshold_ft": 176
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 36.57920074,
+          "longitude": -119.6529999,
+          "elevation_ft": 296,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 7507,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

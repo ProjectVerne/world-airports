@@ -1,0 +1,56 @@
+{
+  "icao": "PAKK",
+  "iata": "KKA",
+  "name": "Koyuk Alfred Adams Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.939499,
+    "longitude": -161.154007,
+    "elevation_ft": 154,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Koyuk"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Koyuk_Alfred_Adams_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3002,
+      "width_ft": 60,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 64.93579865,
+          "longitude": -161.1580048,
+          "elevation_ft": 152,
+          "heading_true": 24,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 64.94329834,
+          "longitude": -161.1499939,
+          "elevation_ft": 145,
+          "heading_true": 204,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "icao": "KUUV",
+  "iata": null,
+  "name": "Sullivan Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.233501,
+    "longitude": -91.164299,
+    "elevation_ft": 933,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Sullivan"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sullivan_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 4500,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 38.23040008544922,
+          "longitude": -91.17109680175781,
+          "elevation_ft": 933,
+          "heading_true": 60,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 38.23659896850586,
+          "longitude": -91.15750122070312,
+          "elevation_ft": 924,
+          "heading_true": 240,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.375
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 133.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

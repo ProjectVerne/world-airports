@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Stonewall County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.169828,
+    "longitude": -100.197308,
+    "elevation_ft": 1744,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Aspermont"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Stonewall_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 4000,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.1775016784668,
+          "longitude": -100.197998046875,
+          "elevation_ft": 1714,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.16669845581055,
+          "longitude": -100.197998046875,
+          "elevation_ft": 1744,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 127.45
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21160,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

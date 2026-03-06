@@ -1,0 +1,105 @@
+{
+  "icao": "KTDZ",
+  "iata": "TDZ",
+  "name": "Toledo Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.56489944,
+    "longitude": -83.4822998,
+    "elevation_ft": 623,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Toledo"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Metcalf_Field",
+  "keywords": [
+    "Metcalf Field"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 3799,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 41.56000137,
+          "longitude": -83.48609924,
+          "elevation_ft": 622,
+          "heading_true": 39,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 41.56779861,
+          "longitude": -83.47779846,
+          "elevation_ft": 620,
+          "heading_true": 219,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5829,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 41.57099915,
+          "longitude": -83.49009705,
+          "elevation_ft": 620,
+          "heading_true": 134,
+          "displaced_threshold_ft": 580
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 41.55989838,
+          "longitude": -83.47480011,
+          "elevation_ft": 621,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TOLEDO APP/DEP",
+      "mhz": 126.1
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 121.575
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

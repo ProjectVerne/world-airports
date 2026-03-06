@@ -1,0 +1,108 @@
+{
+  "icao": "KAUG",
+  "iata": "AUG",
+  "name": "Augusta State Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.320598602299995,
+    "longitude": -69.7973022461,
+    "elevation_ft": 352,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Augusta"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Augusta_State_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2613,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 44.31729889,
+          "longitude": -69.79810333,
+          "elevation_ft": 351,
+          "heading_true": 62,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 44.3207016,
+          "longitude": -69.78900146,
+          "elevation_ft": 352,
+          "heading_true": 242,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 44.32770157,
+          "longitude": -69.80370331,
+          "elevation_ft": 311,
+          "heading_true": 153.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 44.31539917,
+          "longitude": -69.79499817,
+          "elevation_ft": 347,
+          "heading_true": 333.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PORTLAND APP/DEP",
+      "mhz": 128.35
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.325
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.95
+    },
+    {
+      "type": "OTHER",
+      "description": "BANGOR RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

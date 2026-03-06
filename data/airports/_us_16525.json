@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Freeport/Dornink Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.37779,
+    "longitude": -89.564465,
+    "elevation_ft": 949,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Freeport"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2600,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 42.38140106201172,
+          "longitude": -89.56430053710938,
+          "elevation_ft": 945,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 42.3755989074707,
+          "longitude": -89.56430053710938,
+          "elevation_ft": 949,
+          "heading_true": 229,
+          "displaced_threshold_ft": 360
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 16525,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

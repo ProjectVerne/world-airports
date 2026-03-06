@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "West Company Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.16669845581055,
+    "longitude": -76.91639709472656,
+    "elevation_ft": 595,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Williamsport"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 13083,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

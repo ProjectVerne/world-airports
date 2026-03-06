@@ -1,0 +1,98 @@
+{
+  "icao": "KPQN",
+  "iata": null,
+  "name": "Pipestone Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.983299,
+    "longitude": -96.300301,
+    "elevation_ft": 1736,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Pipestone"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pipestone_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2539,
+      "width_ft": 196,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 43.98460007,
+          "longitude": -96.30570221,
+          "elevation_ft": 1723,
+          "heading_true": 97,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 43.9836998,
+          "longitude": -96.2960968,
+          "elevation_ft": 1736,
+          "heading_true": 277,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4306,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 43.98690033,
+          "longitude": -96.29959869,
+          "elevation_ft": 1734,
+          "heading_true": 184,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 43.97510147,
+          "longitude": -96.30059814,
+          "elevation_ft": 1729,
+          "heading_true": 4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 132.05
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.375
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "icao": "KPRX",
+  "iata": "PRX",
+  "name": "Cox Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.636600494385,
+    "longitude": -95.450798034668,
+    "elevation_ft": 547,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Paris"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cox_Field",
+  "keywords": [
+    "Cox AAF"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4624,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 33.63029861450195,
+          "longitude": -95.4530029296875,
+          "elevation_ft": 530,
+          "heading_true": 37.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 33.64039993286133,
+          "longitude": -95.44380187988281,
+          "elevation_ft": 546,
+          "heading_true": 217.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4624,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 33.64289855957031,
+          "longitude": -95.45320129394531,
+          "elevation_ft": 540,
+          "heading_true": 141.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 33.632999420166016,
+          "longitude": -95.4437026977539,
+          "elevation_ft": 547,
+          "heading_true": 321.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 6002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.64479828,
+          "longitude": -95.45439911,
+          "elevation_ft": 541,
+          "heading_true": 179.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.62829971,
+          "longitude": -95.45410156,
+          "elevation_ft": 526,
+          "heading_true": 359.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.675
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 123.925
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.975
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

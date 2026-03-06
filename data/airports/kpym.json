@@ -1,0 +1,103 @@
+{
+  "icao": "KPYM",
+  "iata": "PYM",
+  "name": "Plymouth Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.909,
+    "longitude": -70.728798,
+    "elevation_ft": 148,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Plymouth"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Plymouth_Municipal_Airport_(Massachusetts)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 4650,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 41.904202,
+          "longitude": -70.736504,
+          "elevation_ft": 135,
+          "heading_true": 40,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 41.913399,
+          "longitude": -70.726303,
+          "elevation_ft": 147,
+          "heading_true": 220,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 4350,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 41.912201,
+          "longitude": -70.730103,
+          "elevation_ft": 145,
+          "heading_true": 130,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 41.9063,
+          "longitude": -70.720596,
+          "elevation_ft": 130,
+          "heading_true": 310,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CAPE APP/DEP",
+      "mhz": 118.2
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.625
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 127.75
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

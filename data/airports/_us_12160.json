@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Jana Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.872798919677734,
+    "longitude": -89.07569885253906,
+    "elevation_ft": 842,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Edgerton"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2358,
+      "width_ft": 70,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 42.87580109,
+          "longitude": -89.07569885,
+          "elevation_ft": 842,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 42.86940002,
+          "longitude": -89.07569885,
+          "elevation_ft": 840,
+          "heading_true": 326.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12160,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

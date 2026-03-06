@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Prentiss Jefferson Davis County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.595352,
+    "longitude": -89.90653,
+    "elevation_ft": 455,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Prentiss"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 3197,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 31.59770012,
+          "longitude": -89.91079712,
+          "elevation_ft": 448,
+          "heading_true": 123,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 31.59289932,
+          "longitude": -89.90209961,
+          "elevation_ft": 454,
+          "heading_true": 303,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 128.325
+    },
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 133.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20433,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

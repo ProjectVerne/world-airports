@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Frasca Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.1464,
+    "longitude": -88.198502,
+    "elevation_ft": 735,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Urbana"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Frasca_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4001,
+      "width_ft": 55,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.14500045776367,
+          "longitude": -88.2074966430664,
+          "elevation_ft": 735,
+          "heading_true": 89.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.14509963989258,
+          "longitude": -88.19319915771484,
+          "elevation_ft": 724,
+          "heading_true": 269.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 3654,
+      "width_ft": 140,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.152400970458984,
+          "longitude": -88.19650268554688,
+          "elevation_ft": 728,
+          "heading_true": 179.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.142398834228516,
+          "longitude": -88.19629669189453,
+          "elevation_ft": 731,
+          "heading_true": 359.3,
+          "displaced_threshold_ft": 350
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHAMPAIGN APP/DEP",
+      "mhz": 121.35
+    },
+    {
+      "type": "OTHER",
+      "description": "ST LOUIS RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19438,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

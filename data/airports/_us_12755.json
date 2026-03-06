@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Houghton Lake State Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.329201,
+    "longitude": -84.791702,
+    "elevation_ft": 1165,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Houghton Lake Heights"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Houghton_Lake_State_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 2750,
+      "width_ft": 104,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 44.33250045776367,
+          "longitude": -84.79340362548828,
+          "elevation_ft": 1165,
+          "heading_true": 0,
+          "displaced_threshold_ft": 550
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 44.325801849365234,
+          "longitude": -84.79000091552734,
+          "elevation_ft": 1165,
+          "heading_true": 320.6,
+          "displaced_threshold_ft": 900
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12755,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

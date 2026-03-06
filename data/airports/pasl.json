@@ -1,0 +1,56 @@
+{
+  "icao": "PASL",
+  "iata": "SLQ",
+  "name": "Sleetmute Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.7005,
+    "longitude": -157.166,
+    "elevation_ft": 190,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Sleetmute"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sleetmute_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3100,
+      "width_ft": 60,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 61.7046012878418,
+          "longitude": -157.16799926757812,
+          "elevation_ft": 190,
+          "heading_true": 167,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 61.6963996887207,
+          "longitude": -157.16400146484375,
+          "elevation_ft": 190,
+          "heading_true": 347,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

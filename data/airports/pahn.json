@@ -1,0 +1,77 @@
+{
+  "icao": "PAHN",
+  "iata": "HNS",
+  "name": "Haines Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.243921,
+    "longitude": -135.523925,
+    "elevation_ft": 15,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Haines"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Haines_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 4000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 59.24570083618164,
+          "longitude": -135.53399658203125,
+          "elevation_ft": 15,
+          "heading_true": 110,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 59.24190139770508,
+          "longitude": -135.51400756835938,
+          "elevation_ft": 12,
+          "heading_true": 290,
+          "displaced_threshold_ft": 1000
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.75
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 132.3
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "JUNEAU RDO",
+      "mhz": 122.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

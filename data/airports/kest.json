@@ -1,0 +1,98 @@
+{
+  "icao": "KEST",
+  "iata": "EST",
+  "name": "Estherville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.407398,
+    "longitude": -94.746399,
+    "elevation_ft": 1319,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Estherville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Estherville_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 2989,
+      "width_ft": 90,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 43.40480042,
+          "longitude": -94.75170135,
+          "elevation_ft": 1317,
+          "heading_true": 72.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 43.40719986,
+          "longitude": -94.74099731,
+          "elevation_ft": 1314,
+          "heading_true": 252.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 4797,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 43.41469955444336,
+          "longitude": -94.74829864501953,
+          "elevation_ft": 1316,
+          "heading_true": 169.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 43.401798248291016,
+          "longitude": -94.74500274658203,
+          "elevation_ft": 1317,
+          "heading_true": 349.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 121.425
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 127.75
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

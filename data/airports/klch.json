@@ -1,0 +1,123 @@
+{
+  "icao": "KLCH",
+  "iata": "LCH",
+  "name": "Lake Charles Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.126100540161133,
+    "longitude": -93.22329711914062,
+    "elevation_ft": 15,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Lake Charles"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lake_Charles_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5200,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 30.12849998474121,
+          "longitude": -93.22969818115234,
+          "elevation_ft": 13,
+          "heading_true": 51.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 30.137300491333008,
+          "longitude": -93.216796875,
+          "elevation_ft": 15,
+          "heading_true": 231.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 6500,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 30.128700256347656,
+          "longitude": -93.22789764404297,
+          "elevation_ft": 12,
+          "heading_true": 154.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 30.112600326538086,
+          "longitude": -93.21910095214844,
+          "elevation_ft": 11,
+          "heading_true": 334.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.35
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.75
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 126.25
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "DE RIDDER RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "icao": "KSDC",
+  "iata": null,
+  "name": "Williamson Sodus Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.234573,
+    "longitude": -77.119403,
+    "elevation_ft": 424,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Williamson/Sodus"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Williamson%E2%80%93Sodus_Airport",
+  "keywords": [
+    "3G7"
+  ],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 3803,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 43.23460007,
+          "longitude": -77.12729645,
+          "elevation_ft": 0,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 43.23479843,
+          "longitude": -77.11299896,
+          "elevation_ft": 0,
+          "heading_true": 269,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ROCHESTER APP/DEP",
+      "mhz": 119.55
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

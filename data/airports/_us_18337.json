@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Butler-Choctaw County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.119301,
+    "longitude": -88.127502,
+    "elevation_ft": 134,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Butler"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Butler%E2%80%93Choctaw_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 4080,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 32.121700286865234,
+          "longitude": -88.1333999633789,
+          "elevation_ft": 116,
+          "heading_true": 116,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 32.11690139770508,
+          "longitude": -88.12149810791016,
+          "elevation_ft": 134,
+          "heading_true": 296,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MERIDAN APP/DEP",
+      "mhz": 119.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18337,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "icao": "KBPI",
+  "iata": "BPI",
+  "name": "Miley Memorial Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.58509827,
+    "longitude": -110.1110001,
+    "elevation_ft": 6990,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Big Piney"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Miley_Memorial_Field",
+  "keywords": [
+    "Big Piney-Marbleton Airport"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 3301,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 42.576698,
+          "longitude": -110.110001,
+          "elevation_ft": 6942,
+          "heading_true": 93,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 42.576302,
+          "longitude": -110.098,
+          "elevation_ft": 6925,
+          "heading_true": 273,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 6803,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 42.59299850463867,
+          "longitude": -110.11799621582031,
+          "elevation_ft": 6989,
+          "heading_true": 147.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 42.57720184326172,
+          "longitude": -110.10399627685547,
+          "elevation_ft": 6945,
+          "heading_true": 327.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.225
+    },
+    {
+      "type": "OTHER",
+      "description": "CASPER RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

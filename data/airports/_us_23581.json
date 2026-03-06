@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Minerva Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.74589920043945,
+    "longitude": -81.14430236816406,
+    "elevation_ft": 1080,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Minerva"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 2500,
+      "width_ft": 104,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 40.74259948730469,
+          "longitude": -81.14540100097656,
+          "elevation_ft": 1080,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 40.74919891357422,
+          "longitude": -81.14309692382812,
+          "elevation_ft": 1080,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23581,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

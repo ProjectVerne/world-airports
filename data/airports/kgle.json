@@ -1,0 +1,150 @@
+{
+  "icao": "KGLE",
+  "iata": "GLE",
+  "name": "Gainesville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.651401519800004,
+    "longitude": -97.1969985962,
+    "elevation_ft": 845,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Gainesville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gainesville_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4691,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 33.64459991455078,
+          "longitude": -97.1989974975586,
+          "elevation_ft": 793,
+          "heading_true": 49,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 33.65299987792969,
+          "longitude": -97.1874008178711,
+          "elevation_ft": 812,
+          "heading_true": 229,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 3920,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 33.644901275634766,
+          "longitude": -97.19969940185547,
+          "elevation_ft": 794,
+          "heading_true": 91.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 33.64469909667969,
+          "longitude": -97.18679809570312,
+          "elevation_ft": 792,
+          "heading_true": 271.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 4307,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 33.655102,
+          "longitude": -97.199097,
+          "elevation_ft": 826,
+          "heading_true": 133,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 33.647099,
+          "longitude": -97.188698,
+          "elevation_ft": 792,
+          "heading_true": 313,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 33.661201,
+          "longitude": -97.199501,
+          "elevation_ft": 845,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 33.644798,
+          "longitude": -97.199898,
+          "elevation_ft": 792,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.375
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 124.75
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

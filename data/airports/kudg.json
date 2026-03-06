@@ -1,0 +1,132 @@
+{
+  "icao": "KUDG",
+  "iata": null,
+  "name": "Darlington County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.449401,
+    "longitude": -79.890098,
+    "elevation_ft": 192,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Darlington"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Darlington_County_Jetport",
+  "keywords": [
+    "04J",
+    "Darlington County Jetport"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 34.44419860839844,
+          "longitude": -79.8927001953125,
+          "elevation_ft": 189,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 34.452999114990234,
+          "longitude": -79.88009643554688,
+          "elevation_ft": 183,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 4947,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 34.449699,
+          "longitude": -79.8983,
+          "elevation_ft": 192,
+          "heading_true": 93,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 34.4491,
+          "longitude": -79.881897,
+          "elevation_ft": 184,
+          "heading_true": 273,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 4751,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 34.453899,
+          "longitude": -79.897697,
+          "elevation_ft": 192,
+          "heading_true": 157,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 34.441898,
+          "longitude": -79.891403,
+          "elevation_ft": 187,
+          "heading_true": 337,
+          "displaced_threshold_ft": 245
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FLORENCE APP/DEP",
+      "mhz": 118.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.925
+    },
+    {
+      "type": "OTHER",
+      "description": "FLORENCE CLNC DEL",
+      "mhz": 118.55
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "icao": "KCMR",
+  "iata": null,
+  "name": "H.A. Clark Memorial Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.305555,
+    "longitude": -112.194393,
+    "elevation_ft": 6680,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Williams"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/H.A._Clark_Memorial_Field",
+  "keywords": [
+    "P32"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 6003,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 35.31029892,
+          "longitude": -112.1920013,
+          "elevation_ft": 0,
+          "heading_true": 192.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 35.2942009,
+          "longitude": -112.1959991,
+          "elevation_ft": 0,
+          "heading_true": 12.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 121.125
+    },
+    {
+      "type": "OTHER",
+      "description": "PRESCOTT RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

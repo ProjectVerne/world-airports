@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Pam's Place Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.500801,
+    "longitude": -86.691902,
+    "elevation_ft": 795,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Cloverdale"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pam's_Place_Airport",
+  "keywords": [
+    "5II0"
+  ],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 3630,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 39.501399993896484,
+          "longitude": -86.69660186767578,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 745
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 39.500099182128906,
+          "longitude": -86.68379974365234,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 750
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 13969,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

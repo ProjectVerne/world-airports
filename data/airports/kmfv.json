@@ -1,0 +1,74 @@
+{
+  "icao": "KMFV",
+  "iata": "MFV",
+  "name": "Accomack County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.646900177,
+    "longitude": -75.761100769,
+    "elevation_ft": 47,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Melfa"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Accomack_County_Airport",
+  "keywords": [
+    "Melfa Flight Strip"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 37.6405983,
+          "longitude": -75.76439667,
+          "elevation_ft": 46,
+          "heading_true": 23,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 37.65319824,
+          "longitude": -75.75769806,
+          "elevation_ft": 47,
+          "heading_true": 203,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORFOLK APP/DEP",
+      "mhz": 126.05
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.175
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

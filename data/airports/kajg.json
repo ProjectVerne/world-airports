@@ -1,0 +1,98 @@
+{
+  "icao": "KAJG",
+  "iata": null,
+  "name": "Mount Carmel Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.606499,
+    "longitude": -87.7267,
+    "elevation_ft": 429,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Mount Carmel"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mount_Carmel_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 38.60200119018555,
+          "longitude": -87.72989654541016,
+          "elevation_ft": 428,
+          "heading_true": 40.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 38.61040115356445,
+          "longitude": -87.7208023071289,
+          "elevation_ft": 428,
+          "heading_true": 220.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 4500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 38.61090087890625,
+          "longitude": -87.73390197753906,
+          "elevation_ft": 427,
+          "heading_true": 130.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 38.60279846191406,
+          "longitude": -87.72200012207031,
+          "elevation_ft": 429,
+          "heading_true": 310.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "EVANSVILLE APP/DEP",
+      "mhz": 125.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 134.9
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

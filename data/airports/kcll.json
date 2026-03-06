@@ -1,0 +1,144 @@
+{
+  "icao": "KCLL",
+  "iata": "CLL",
+  "name": "Easterwood Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.5886,
+    "longitude": -96.3638,
+    "elevation_ft": 320,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "College Station"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Easterwood_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5149,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 30.5853,
+          "longitude": -96.3731,
+          "elevation_ft": 307,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 30.5944,
+          "longitude": -96.360603,
+          "elevation_ft": 318,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 5158,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 30.591499,
+          "longitude": -96.372803,
+          "elevation_ft": 320,
+          "heading_true": 109,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 30.586901,
+          "longitude": -96.3573,
+          "elevation_ft": 312,
+          "heading_true": 289,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 7000,
+      "width_ft": 146,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 30.5966,
+          "longitude": -96.3629,
+          "elevation_ft": 321,
+          "heading_true": 169,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 30.577801,
+          "longitude": -96.358597,
+          "elevation_ft": 305,
+          "heading_true": 349,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.85
+    },
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 120.4
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 128.7
+    },
+    {
+      "type": "OTHER",
+      "description": "MONTGOMERY CO RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

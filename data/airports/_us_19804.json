@@ -1,0 +1,120 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Perry Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.385601,
+    "longitude": -97.277199,
+    "elevation_ft": 1002,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Perry"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Perry_Municipal_Airport_(Oklahoma)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5200,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 36.37860107421875,
+          "longitude": -97.27890014648438,
+          "elevation_ft": 0,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 36.38869857788086,
+          "longitude": -97.26640319824219,
+          "elevation_ft": 0,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5200,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 36.39030075073242,
+          "longitude": -97.27890014648438,
+          "elevation_ft": 0,
+          "heading_true": 135.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 36.380001068115234,
+          "longitude": -97.26640319824219,
+          "elevation_ft": 0,
+          "heading_true": 315.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5103,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 36.39260101,
+          "longitude": -97.27729797,
+          "elevation_ft": 973,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 36.37860107,
+          "longitude": -97.27719879,
+          "elevation_ft": 1000,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 127.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19804,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

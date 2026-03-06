@@ -1,0 +1,31 @@
+{
+  "icao": "KBCR",
+  "iata": null,
+  "name": "Tri-County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.843879,
+    "longitude": -85.601773,
+    "elevation_ft": 85,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Bonifay"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tri-County_Airport_(Florida)",
+  "keywords": [
+    "1J0"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

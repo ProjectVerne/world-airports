@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": "RFK",
+  "name": "Rollang Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.953543,
+    "longitude": -90.845144,
+    "elevation_ft": 106,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Rolling Fork"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3670,
+      "width_ft": 75,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 32.95930099487305,
+          "longitude": -90.84590148925781,
+          "elevation_ft": 0,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 32.94919967651367,
+          "longitude": -90.84590148925781,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12518,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "icao": "KHST",
+  "iata": "HST",
+  "name": "Homestead Air Reserve Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.4886,
+    "longitude": -80.383598,
+    "elevation_ft": 5,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Homestead"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Homestead_Air_Reserve_Base",
+  "keywords": [
+    "Dade County Airport"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 11201,
+      "width_ft": 300,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 25.478500366210938,
+          "longitude": -80.39640045166016,
+          "elevation_ft": 6,
+          "heading_true": 49.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 25.498600006103516,
+          "longitude": -80.37069702148438,
+          "elevation_ft": 6,
+          "heading_true": 229.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 123.8
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 132.275
+    },
+    {
+      "type": "OTHER",
+      "description": "GCA",
+      "mhz": 123.8
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.75
+    },
+    {
+      "type": "OTHER",
+      "description": "93FS",
+      "mhz": 138.025
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 133.45
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

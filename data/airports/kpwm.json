@@ -1,0 +1,118 @@
+{
+  "icao": "KPWM",
+  "iata": "PWM",
+  "name": "Portland International Jetport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.646198,
+    "longitude": -70.309303,
+    "elevation_ft": 76,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Portland"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Portland_International_Jetport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 7200,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 43.64590072631836,
+          "longitude": -70.32610321044922,
+          "elevation_ft": 77,
+          "heading_true": 95,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 43.64400100708008,
+          "longitude": -70.29900360107422,
+          "elevation_ft": 43,
+          "heading_true": 275,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6100,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 43.65449905,
+          "longitude": -70.30729675,
+          "elevation_ft": 45,
+          "heading_true": 163.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 43.6413002,
+          "longitude": -70.30190277,
+          "elevation_ft": 47,
+          "heading_true": 343.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.05
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.9
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.9
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

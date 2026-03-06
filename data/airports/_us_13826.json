@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Flat Top Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.05989838,
+    "longitude": -97.79470062,
+    "elevation_ft": 960,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Walnut Springs"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4191,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.067100524902344,
+          "longitude": -97.7947006225586,
+          "elevation_ft": 952,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.05569839477539,
+          "longitude": -97.7947006225586,
+          "elevation_ft": 921,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 127.45
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 13826,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

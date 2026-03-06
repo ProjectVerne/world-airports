@@ -1,0 +1,120 @@
+{
+  "icao": "KROA",
+  "iata": "ROA",
+  "name": "Roanoke–Blacksburg Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.3255,
+    "longitude": -79.975403,
+    "elevation_ft": 1175,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Roanoke"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Roanoke%E2%80%93Blacksburg_Regional_Airport",
+  "keywords": [
+    "Woodrum Field"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 6800,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 37.322201,
+          "longitude": -79.984001,
+          "elevation_ft": 1152,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 37.334301,
+          "longitude": -79.966202,
+          "elevation_ft": 1155,
+          "heading_true": 230,
+          "displaced_threshold_ft": 790
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 5810,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 37.328999,
+          "longitude": -79.981102,
+          "elevation_ft": 1165,
+          "heading_true": 148,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 37.315399,
+          "longitude": -79.970497,
+          "elevation_ft": 1142,
+          "heading_true": 328,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 118.15
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 134.95
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "LEESBURG RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

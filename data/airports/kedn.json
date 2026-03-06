@@ -1,0 +1,67 @@
+{
+  "icao": "KEDN",
+  "iata": "ETS",
+  "name": "Enterprise Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.29969978,
+    "longitude": -85.89990234,
+    "elevation_ft": 361,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Enterprise"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Enterprise_Municipal_Airport_(Alabama)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5080,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 31.29540062,
+          "longitude": -85.90630341,
+          "elevation_ft": 345,
+          "heading_true": 52,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 31.30400085,
+          "longitude": -85.8934021,
+          "elevation_ft": 357,
+          "heading_true": 232,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CAIRNS APP/DEP",
+      "mhz": 133.45
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Eureka Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.800523,
+    "longitude": -99.643968,
+    "elevation_ft": 1935,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Eureka"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eureka_Municipal_Airport_(South_Dakota)",
+  "keywords": [
+    "SD16"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 1821,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 45.79850006,
+          "longitude": -99.64510345,
+          "elevation_ft": 1930,
+          "heading_true": 82,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 45.79930115,
+          "longitude": -99.63690186,
+          "elevation_ft": 1924,
+          "heading_true": 262,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 3100,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 45.8031005859375,
+          "longitude": -99.64610290527344,
+          "elevation_ft": 1923,
+          "heading_true": 136.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 45.79690170288086,
+          "longitude": -99.63780212402344,
+          "elevation_ft": 1934,
+          "heading_true": 316.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18751,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Tanner Hiller Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.3564,
+    "longitude": -72.130096,
+    "elevation_ft": 584,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Barre/Barre Plains"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tanner%E2%80%93Hiller_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3027,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 42.35350036621094,
+          "longitude": -72.13410186767578,
+          "elevation_ft": 582,
+          "heading_true": 45,
+          "displaced_threshold_ft": 150
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 42.35929870605469,
+          "longitude": -72.1260986328125,
+          "elevation_ft": 589,
+          "heading_true": 225,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19120,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

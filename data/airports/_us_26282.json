@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Mellon Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.280799865722656,
+    "longitude": -97.2114028930664,
+    "elevation_ft": 38,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Refugio"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 4650,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 28.28420066833496,
+          "longitude": -97.2134017944336,
+          "elevation_ft": 0,
+          "heading_true": 150,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 28.2731990814209,
+          "longitude": -97.20659637451172,
+          "elevation_ft": 0,
+          "heading_true": 330,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 126.625
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 26282,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

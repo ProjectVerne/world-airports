@@ -1,0 +1,56 @@
+{
+  "icao": "PAGY",
+  "iata": "SGY",
+  "name": "Skagway Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.460343,
+    "longitude": -135.316651,
+    "elevation_ft": 44,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Skagway"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Skagway_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 3550,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 59.456600189208984,
+          "longitude": -135.32200622558594,
+          "elevation_ft": 19,
+          "heading_true": 44,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 59.463600158691406,
+          "longitude": -135.3090057373047,
+          "elevation_ft": 44,
+          "heading_true": 224,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

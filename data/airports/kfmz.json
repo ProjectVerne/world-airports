@@ -1,0 +1,93 @@
+{
+  "icao": "KFMZ",
+  "iata": null,
+  "name": "Fairmont State Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.586102,
+    "longitude": -97.573097,
+    "elevation_ft": 1636,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Fairmont"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fairmont_State_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 3021,
+      "width_ft": 60,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 40.58539963,
+          "longitude": -97.57990265,
+          "elevation_ft": 1636,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 40.57960129,
+          "longitude": -97.57219696,
+          "elevation_ft": 1633,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 4317,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 40.5945015,
+          "longitude": -97.57109833,
+          "elevation_ft": 1635,
+          "heading_true": 179.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 40.58269882,
+          "longitude": -97.57109833,
+          "elevation_ft": 1634,
+          "heading_true": 359.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 119.4
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

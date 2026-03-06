@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Almena Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.253002,
+    "longitude": -85.851789,
+    "elevation_ft": 740,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Paw Paw"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3300,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 42.252498626708984,
+          "longitude": -85.8563003540039,
+          "elevation_ft": 740,
+          "heading_true": 0,
+          "displaced_threshold_ft": 1085
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 42.252498626708984,
+          "longitude": -85.84429931640625,
+          "elevation_ft": 740,
+          "heading_true": 0,
+          "displaced_threshold_ft": 1159
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 9332,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

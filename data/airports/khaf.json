@@ -1,0 +1,67 @@
+{
+  "icao": "KHAF",
+  "iata": "HAF",
+  "name": "Half Moon Bay Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.513401031499995,
+    "longitude": -122.500999451,
+    "elevation_ft": 66,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Half Moon Bay"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Half_Moon_Bay_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 5000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 37.51850128173828,
+          "longitude": -122.50700378417969,
+          "elevation_ft": 59,
+          "heading_true": 137,
+          "displaced_threshold_ft": 763
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 37.508399963378906,
+          "longitude": -122.49500274658203,
+          "elevation_ft": 36,
+          "heading_true": 317,
+          "displaced_threshold_ft": 763
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORCAL APP/DEP",
+      "mhz": 135.1
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

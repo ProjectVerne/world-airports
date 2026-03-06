@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "East Bay Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.031776,
+    "longitude": -89.249786,
+    "elevation_ft": 3,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Venice"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 349273,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

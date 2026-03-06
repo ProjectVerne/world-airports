@@ -1,0 +1,100 @@
+{
+  "icao": "KFPK",
+  "iata": null,
+  "name": "Fitch H Beach Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.574501,
+    "longitude": -84.811401,
+    "elevation_ft": 891,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Charlotte"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fitch_H._Beach_Airport",
+  "keywords": [
+    "07G"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 3510,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 42.57,
+          "longitude": -84.813698,
+          "elevation_ft": 880,
+          "heading_true": 21,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 42.578999,
+          "longitude": -84.809097,
+          "elevation_ft": 891,
+          "heading_true": 201,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 2298,
+      "width_ft": 95,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 42.575901,
+          "longitude": -84.815804,
+          "elevation_ft": 0,
+          "heading_true": 145,
+          "displaced_threshold_ft": 575
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 42.570999,
+          "longitude": -84.810303,
+          "elevation_ft": 0,
+          "heading_true": 325,
+          "displaced_threshold_ft": 189
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "LANSING APP/DEP",
+      "mhz": 118.65
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.075
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "icao": "KAEL",
+  "iata": "AEL",
+  "name": "Albert Lea Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.68149948,
+    "longitude": -93.36720276,
+    "elevation_ft": 1260,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Albert Lea"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Albert_Lea_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2898,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 43.6791,
+          "longitude": -93.371399,
+          "elevation_ft": 1253,
+          "heading_true": 47,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 43.684502,
+          "longitude": -93.363403,
+          "elevation_ft": 1256,
+          "heading_true": 227,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 43.687401,
+          "longitude": -93.368896,
+          "elevation_ft": 1259,
+          "heading_true": 168,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 43.675301,
+          "longitude": -93.365402,
+          "elevation_ft": 1255,
+          "heading_true": 348,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ROCHESTER APP/DEP",
+      "mhz": 119.8
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 109.8
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 132.35
+    },
+    {
+      "type": "OTHER",
+      "description": "PRINCETON RDO",
+      "mhz": 122.05
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

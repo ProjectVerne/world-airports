@@ -1,0 +1,64 @@
+{
+  "icao": "KUOS",
+  "iata": "UOS",
+  "name": "Franklin County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.204754,
+    "longitude": -85.899052,
+    "elevation_ft": 1953,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Sewanee"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Franklin_County_Airport_(Tennessee)",
+  "keywords": [
+    "Sewanee International"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3700,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 35.202702,
+          "longitude": -85.904297,
+          "elevation_ft": 1953,
+          "heading_true": 64,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 35.2071,
+          "longitude": -85.893204,
+          "elevation_ft": 1953,
+          "heading_true": 244,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "icao": "KHSP",
+  "iata": "HSP",
+  "name": "Ingalls Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.95140076,
+    "longitude": -79.83390045,
+    "elevation_ft": 3793,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Hot Springs"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 5600,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 37.9474983215332,
+          "longitude": -79.84220123291016,
+          "elevation_ft": 3790,
+          "heading_true": 59,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 37.95539855957031,
+          "longitude": -79.82559967041016,
+          "elevation_ft": 3763,
+          "heading_true": 239,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.8
+    },
+    {
+      "type": "OTHER",
+      "description": "WASHINGTON CNTR",
+      "mhz": 134.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

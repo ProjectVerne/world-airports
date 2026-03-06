@@ -1,0 +1,77 @@
+{
+  "icao": "KSBS",
+  "iata": "SBS",
+  "name": "Steamboat Springs Bob Adams Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.5163002,
+    "longitude": -106.8659973,
+    "elevation_ft": 6882,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Steamboat Springs"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Steamboat_Springs_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 4452,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 40.52170181274414,
+          "longitude": -106.87000274658203,
+          "elevation_ft": 6871,
+          "heading_true": 152.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 40.510799407958984,
+          "longitude": -106.86299896240234,
+          "elevation_ft": 6877,
+          "heading_true": 332.9,
+          "displaced_threshold_ft": 600
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.325
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 120.475
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

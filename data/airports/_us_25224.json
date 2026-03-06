@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Twin Bridges Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.943544,
+    "longitude": -114.110356,
+    "elevation_ft": 6893,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Ketchum"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Twin_Bridges_Airport_(Idaho)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4450,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 43.93790054321289,
+          "longitude": -114.11299896240234,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 43.949501037597656,
+          "longitude": -114.10800170898438,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 25224,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "icao": "KJWG",
+  "iata": null,
+  "name": "Watonga Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.8647,
+    "longitude": -98.420799,
+    "elevation_ft": 1550,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Watonga"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Watonga_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 4001,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 35.87020111,
+          "longitude": -98.42079926,
+          "elevation_ft": 1550,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 35.85919952,
+          "longitude": -98.42079926,
+          "elevation_ft": 1533,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "VANCE APP/DEP",
+      "mhz": 120.525
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 134.175
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

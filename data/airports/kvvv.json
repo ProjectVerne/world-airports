@@ -1,0 +1,93 @@
+{
+  "icao": "KVVV",
+  "iata": null,
+  "name": "Ortonville Municipal Airport/Martinson Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.305698,
+    "longitude": -96.4244,
+    "elevation_ft": 1100,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Ortonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2175,
+      "width_ft": 275,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 45.29970169,
+          "longitude": -96.42810059,
+          "elevation_ft": 1091,
+          "heading_true": 46.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 45.30369949,
+          "longitude": -96.42199707,
+          "elevation_ft": 1094,
+          "heading_true": 226.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 3417,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 45.310298919677734,
+          "longitude": -96.42569732666016,
+          "elevation_ft": 1100,
+          "heading_true": 168.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 45.30110168457031,
+          "longitude": -96.42310333251953,
+          "elevation_ft": 1094,
+          "heading_true": 348.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 128.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

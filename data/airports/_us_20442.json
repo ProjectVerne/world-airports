@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Lebanon Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.190399,
+    "longitude": -86.315697,
+    "elevation_ft": 588,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Lebanon"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lebanon_Municipal_Airport_(Tennessee)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 36.18370056152344,
+          "longitude": -86.31739807128906,
+          "elevation_ft": 589,
+          "heading_true": 6.6,
+          "displaced_threshold_ft": 402
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 36.19729995727539,
+          "longitude": -86.31549835205078,
+          "elevation_ft": 550,
+          "heading_true": 186.6,
+          "displaced_threshold_ft": 500
+        }
+      }
+    },
+    {
+      "id": "04/22",
+      "length_ft": 1801,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 36.188499450683594,
+          "longitude": -86.31580352783203,
+          "elevation_ft": 568,
+          "heading_true": 46.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 36.19200134277344,
+          "longitude": -86.3114013671875,
+          "elevation_ft": 565,
+          "heading_true": 226.3,
+          "displaced_threshold_ft": 600
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NASHVILLE APP/DEP",
+      "mhz": 128.45
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.325
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20442,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

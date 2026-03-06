@@ -1,0 +1,148 @@
+{
+  "icao": "KNQA",
+  "iata": "NQA",
+  "name": "Millington-Memphis Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.356701,
+    "longitude": -89.8703,
+    "elevation_ft": 320,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Millington"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Millington-Memphis_Airport",
+  "keywords": [
+    "Millington Municipal",
+    "NAS Memphis",
+    "Millington Regional Jetport"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 8001,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 35.34809875,
+          "longitude": -89.87889862,
+          "elevation_ft": 276,
+          "heading_true": 38.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 35.36520004,
+          "longitude": -89.86199951,
+          "elevation_ft": 320,
+          "heading_true": 218.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4850,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 35.35940170288086,
+          "longitude": -89.87249755859375,
+          "elevation_ft": 296,
+          "heading_true": 142.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 35.348899841308594,
+          "longitude": -89.86260223388672,
+          "elevation_ft": 302,
+          "heading_true": 322.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4250,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 35.3568000793457,
+          "longitude": -89.86280059814453,
+          "elevation_ft": 0,
+          "heading_true": 185.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 35.34519958496094,
+          "longitude": -89.86419677734375,
+          "elevation_ft": 0,
+          "heading_true": 5.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "MEMPHIS APP",
+      "mhz": 119.1
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.925
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.25
+    },
+    {
+      "type": "DEP",
+      "description": "MEMPHIS DEP",
+      "mhz": 124.15
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.375
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.25
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

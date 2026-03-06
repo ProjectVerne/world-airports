@@ -1,0 +1,67 @@
+{
+  "icao": "KPPQ",
+  "iata": null,
+  "name": "Pittsfield Penstone Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.638901,
+    "longitude": -90.778397,
+    "elevation_ft": 710,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Pittsfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pittsfield_Penstone_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 4000,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 39.642799377441406,
+          "longitude": -90.78359985351562,
+          "elevation_ft": 710,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 39.6349983215332,
+          "longitude": -90.77349853515625,
+          "elevation_ft": 695,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 135.525
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

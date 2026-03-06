@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Greensburg Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.32690048,
+    "longitude": -85.52249908,
+    "elevation_ft": 912,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Greensburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Greensburg-Decatur_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3433,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.331600189208984,
+          "longitude": -85.52259826660156,
+          "elevation_ft": 912,
+          "heading_true": 179.5,
+          "displaced_threshold_ft": 400
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.322200775146484,
+          "longitude": -85.52249908447266,
+          "elevation_ft": 905,
+          "heading_true": 359.5,
+          "displaced_threshold_ft": 100
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS APP/DEP",
+      "mhz": 127.15
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "TERRE HAUTE RDO",
+      "mhz": 122.25
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20127,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

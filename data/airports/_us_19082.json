@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Skywest Inc Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.85849952697754,
+    "longitude": -102.0739974975586,
+    "elevation_ft": 2800,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Midland"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 2800,
+      "width_ft": 45,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 31.850299835205078,
+          "longitude": -102.0770034790039,
+          "elevation_ft": 0,
+          "heading_true": 74,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 31.852500915527344,
+          "longitude": -102.06900024414062,
+          "elevation_ft": 0,
+          "heading_true": 254,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 5000,
+      "width_ft": 42,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 31.864999771118164,
+          "longitude": -102.07599639892578,
+          "elevation_ft": 2800,
+          "heading_true": 165,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 31.851699829101562,
+          "longitude": -102.0719985961914,
+          "elevation_ft": 0,
+          "heading_true": 345,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19082,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "icao": "KHSB",
+  "iata": "HSB",
+  "name": "Harrisburg-Raleigh Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.811298,
+    "longitude": -88.550301,
+    "elevation_ft": 398,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Harrisburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Harrisburg-Raleigh_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 5013,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 37.808998107910156,
+          "longitude": -88.55950164794922,
+          "elevation_ft": 387,
+          "heading_true": 63.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 37.81520080566406,
+          "longitude": -88.54389953613281,
+          "elevation_ft": 396,
+          "heading_true": 243.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 2764,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 37.81269836425781,
+          "longitude": -88.55059814453125,
+          "elevation_ft": 387,
+          "heading_true": 141,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 37.806800842285156,
+          "longitude": -88.54460144042969,
+          "elevation_ft": 382,
+          "heading_true": 321,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.925
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 125.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "icao": "KGCK",
+  "iata": "GCK",
+  "name": "Garden City Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.9275016785,
+    "longitude": -100.723999023,
+    "elevation_ft": 2891,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Garden City"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Garden_City_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 5700,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 37.93090057373047,
+          "longitude": -100.73300170898438,
+          "elevation_ft": 2890,
+          "heading_true": 135.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 37.919700622558594,
+          "longitude": -100.71900177001953,
+          "elevation_ft": 2876,
+          "heading_true": 315.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 7299,
+      "width_ft": 100,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 37.93920135,
+          "longitude": -100.7229996,
+          "elevation_ft": 2888,
+          "heading_true": 180.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 37.9192009,
+          "longitude": -100.7229996,
+          "elevation_ft": 2875,
+          "heading_true": 0.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 121.325
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 125.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.15
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 119
+    },
+    {
+      "type": "OTHER",
+      "description": "WICHITA RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.15
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

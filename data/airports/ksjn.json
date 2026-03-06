@@ -1,0 +1,103 @@
+{
+  "icao": "KSJN",
+  "iata": "SJN",
+  "name": "St Johns Industrial Air Park",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.51860046,
+    "longitude": -109.3789978,
+    "elevation_ft": 5737,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "St Johns"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Johns_Industrial_Air_Park",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 3400,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 34.512699127197266,
+          "longitude": -109.38300323486328,
+          "elevation_ft": 5724,
+          "heading_true": 37,
+          "displaced_threshold_ft": 190
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 34.52009963989258,
+          "longitude": -109.3759994506836,
+          "elevation_ft": 5732,
+          "heading_true": 217,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5322,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 34.52619934082031,
+          "longitude": -109.38300323486328,
+          "elevation_ft": 5731,
+          "heading_true": 148.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 34.51369857788086,
+          "longitude": -109.37300109863281,
+          "elevation_ft": 5736,
+          "heading_true": 328.3,
+          "displaced_threshold_ft": 92
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 132.175
+    },
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE CNTR",
+      "mhz": 124.325
+    },
+    {
+      "type": "OTHER",
+      "description": "PRESCOTT RDO",
+      "mhz": 112.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

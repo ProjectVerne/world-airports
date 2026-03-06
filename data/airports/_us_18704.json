@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Sky King Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.547223,
+    "longitude": -87.378623,
+    "elevation_ft": 496,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Terre Haute"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sky_King_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 3557,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 39.54819869995117,
+          "longitude": -87.38279724121094,
+          "elevation_ft": 493,
+          "heading_true": 84,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 39.54930114746094,
+          "longitude": -87.37020111083984,
+          "elevation_ft": 496,
+          "heading_true": 264,
+          "displaced_threshold_ft": 812
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 1978,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.54880142211914,
+          "longitude": -87.37899780273438,
+          "elevation_ft": 493,
+          "heading_true": 179,
+          "displaced_threshold_ft": 50
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.543399810791016,
+          "longitude": -87.37889862060547,
+          "elevation_ft": 493,
+          "heading_true": 359,
+          "displaced_threshold_ft": 289
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HULMAN APP/DEP",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18704,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

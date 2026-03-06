@@ -1,0 +1,159 @@
+{
+  "icao": "KEVV",
+  "iata": "EVV",
+  "name": "Evansville Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.0369987488,
+    "longitude": -87.5324020386,
+    "elevation_ft": 418,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Evansville"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Evansville_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 8021,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 38.030601501464844,
+          "longitude": -87.53589630126953,
+          "elevation_ft": 382,
+          "heading_true": 38,
+          "displaced_threshold_ft": 1300
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 38.04800033569336,
+          "longitude": -87.5186996459961,
+          "elevation_ft": 418,
+          "heading_true": 218,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 3497,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 38.03829956,
+          "longitude": -87.5388031,
+          "elevation_ft": 382,
+          "heading_true": 91,
+          "displaced_threshold_ft": 524
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 38.0381012,
+          "longitude": -87.52670288,
+          "elevation_ft": 383,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6286,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 38.04600143432617,
+          "longitude": -87.53410339355469,
+          "elevation_ft": 396,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 38.02880096435547,
+          "longitude": -87.53450012207031,
+          "elevation_ft": 384,
+          "heading_true": 1,
+          "displaced_threshold_ft": 781
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "041-219°",
+      "mhz": 124.025
+    },
+    {
+      "type": "APP",
+      "description": "220-040°",
+      "mhz": 127.35
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 120.2
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 126.6
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.7
+    },
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS CENTER",
+      "mhz": 128.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "TERRE HAUTE RDO",
+      "mhz": 122.65
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

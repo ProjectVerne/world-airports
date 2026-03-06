@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Purkeypile Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.940833,
+    "longitude": -152.269722,
+    "elevation_ft": 2041,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Purkeypile"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "5/23",
+      "length_ft": 1176,
+      "width_ft": 50,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "5",
+          "latitude": 62.940214,
+          "longitude": -152.272933,
+          "elevation_ft": 2034,
+          "heading_true": 70,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 62.941297,
+          "longitude": -152.266286,
+          "elevation_ft": 2041,
+          "heading_true": 250,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 6576,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

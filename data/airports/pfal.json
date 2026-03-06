@@ -1,0 +1,56 @@
+{
+  "icao": "PFAL",
+  "iata": "AET",
+  "name": "Allakaket Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.551804,
+    "longitude": -152.621994,
+    "elevation_ft": 441,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Allakaket"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Allakaket_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4000,
+      "width_ft": 100,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 66.55030059814453,
+          "longitude": -152.63499450683594,
+          "elevation_ft": 438,
+          "heading_true": 73,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 66.55339813232422,
+          "longitude": -152.60899353027344,
+          "elevation_ft": 441,
+          "heading_true": 253,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Fuller Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.026161,
+    "longitude": -96.015042,
+    "elevation_ft": 1058,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Maple Hill"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "1/19",
+      "length_ft": 2400,
+      "width_ft": 80,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "1",
+          "latitude": 39.02290344238281,
+          "longitude": -96.01568603515625,
+          "elevation_ft": 1058,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 39.029415130615234,
+          "longitude": -96.01439666748047,
+          "elevation_ft": 1030,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 329732,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

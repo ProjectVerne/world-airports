@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Maple Grove Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.7173,
+    "longitude": -84.0625,
+    "elevation_ft": 908,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Fowlerville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Maple_Grove_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3050,
+      "width_ft": 110,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 42.71870040893555,
+          "longitude": -84.06790161132812,
+          "elevation_ft": 908,
+          "heading_true": 0,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 42.71860122680664,
+          "longitude": -84.05650329589844,
+          "elevation_ft": 908,
+          "heading_true": 253.1,
+          "displaced_threshold_ft": 300
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12988,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

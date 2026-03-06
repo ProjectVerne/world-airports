@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Big Muddy Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.828668,
+    "longitude": -120.495311,
+    "elevation_ft": 1641,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Fossil"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Big_Muddy_Ranch_Airport",
+  "keywords": [
+    "Rajneeshpuram"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4185,
+      "width_ft": 70,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 44.82529830932617,
+          "longitude": -120.50199890136719,
+          "elevation_ft": 0,
+          "heading_true": 57,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 44.83169937133789,
+          "longitude": -120.48799896240234,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 9696,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

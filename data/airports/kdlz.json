@@ -1,0 +1,72 @@
+{
+  "icao": "KDLZ",
+  "iata": null,
+  "name": "Delaware Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.279701,
+    "longitude": -83.114799,
+    "elevation_ft": 945,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Delaware"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Delaware_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 5800,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 40.28070068,
+          "longitude": -83.123703,
+          "elevation_ft": 943,
+          "heading_true": 98,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 40.27870178,
+          "longitude": -83.10590363,
+          "elevation_ft": 945,
+          "heading_true": 278,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS APP/DEP",
+      "mhz": 120.2
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.025
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

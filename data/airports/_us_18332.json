@@ -1,0 +1,97 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Wetumpka Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.5294,
+    "longitude": -86.328201,
+    "elevation_ft": 197,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Elmore"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wetumpka_Municipal_Airport",
+  "keywords": [
+    "Air Evac 64 Heliport",
+    "Wetumpka City"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3013,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 32.52939987,
+          "longitude": -86.33309937,
+          "elevation_ft": 196,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 32.52949905,
+          "longitude": -86.32330322,
+          "elevation_ft": 196,
+          "heading_true": 269,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2876,
+      "width_ft": 130,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.52909851074219,
+          "longitude": -86.33380126953125,
+          "elevation_ft": 195,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.52190017700195,
+          "longitude": -86.33399963378906,
+          "elevation_ft": 196,
+          "heading_true": 360,
+          "displaced_threshold_ft": 593
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MONTGOMERY APP/DEP",
+      "mhz": 121.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18332,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

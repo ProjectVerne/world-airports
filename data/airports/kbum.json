@@ -1,0 +1,72 @@
+{
+  "icao": "KBUM",
+  "iata": "BUM",
+  "name": "Butler Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.2897987366,
+    "longitude": -94.3401031494,
+    "elevation_ft": 892,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Butler"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3999,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 38.29529953,
+          "longitude": -94.33989716,
+          "elevation_ft": 870,
+          "heading_true": 181.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 38.28430176,
+          "longitude": -94.3404007,
+          "elevation_ft": 892,
+          "heading_true": 1.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 125.55
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBIA RDO",
+      "mhz": 115.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

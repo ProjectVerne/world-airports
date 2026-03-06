@@ -1,0 +1,29 @@
+{
+  "icao": "KCSL",
+  "iata": null,
+  "name": "O'Sullivan Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.3263,
+    "longitude": -120.7431,
+    "elevation_ft": 238,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Camp San Luis Obispo"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/O%27Sullivan_Army_Heliport",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "icao": "KSCD",
+  "iata": null,
+  "name": "Merkel Field Sylacauga Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.171799,
+    "longitude": -86.305496,
+    "elevation_ft": 569,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Sylacauga"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sylacauga_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5390,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 33.17190170288086,
+          "longitude": -86.31430053710938,
+          "elevation_ft": 569,
+          "heading_true": 91,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 33.17179870605469,
+          "longitude": -86.29669952392578,
+          "elevation_ft": 548,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BIRMINGHAM APP/DEP",
+      "mhz": 123.8
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.125
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

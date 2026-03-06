@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": "CHZ",
+  "name": "Chiloquin State Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.57944,
+    "longitude": -121.879063,
+    "elevation_ft": 4217,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Chiloquin"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chiloquin_State_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3749,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 42.588299,
+          "longitude": -121.875999,
+          "elevation_ft": 0,
+          "heading_true": 180,
+          "displaced_threshold_ft": 420
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 42.578098,
+          "longitude": -121.875999,
+          "elevation_ft": 0,
+          "heading_true": 321,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18623,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

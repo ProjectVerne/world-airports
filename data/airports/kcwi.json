@@ -1,0 +1,103 @@
+{
+  "icao": "KCWI",
+  "iata": "CWI",
+  "name": "Clinton Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.8311004639,
+    "longitude": -90.3291015625,
+    "elevation_ft": 708,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Clinton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Clinton_Municipal_Airport_(Iowa)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5204,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 41.82630157470703,
+          "longitude": -90.33300018310547,
+          "elevation_ft": 691,
+          "heading_true": 30,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 41.83869934082031,
+          "longitude": -90.32360076904297,
+          "elevation_ft": 707,
+          "heading_true": 210,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4201,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 41.83319855,
+          "longitude": -90.334198,
+          "elevation_ft": 700,
+          "heading_true": 144,
+          "displaced_threshold_ft": 170
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 41.82490158,
+          "longitude": -90.32640076,
+          "elevation_ft": 691,
+          "heading_true": 324,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "QUAD CITY APP/DEP",
+      "mhz": 125.95
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 125.525
+    },
+    {
+      "type": "OTHER",
+      "description": "QUAD CITY CLNC DEL",
+      "mhz": 118.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

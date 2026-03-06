@@ -1,0 +1,79 @@
+{
+  "icao": "PATQ",
+  "iata": "ATK",
+  "name": "Atqasuk Edward Burnell Sr Memorial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 70.46704,
+    "longitude": -157.436013,
+    "elevation_ft": 96,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Atqasuk"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Atqasuk_Edward_Burnell_Sr._Memorial_Airport",
+  "keywords": [
+    "Z46"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4370,
+      "width_ft": 90,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 70.466202,
+          "longitude": -157.453003,
+          "elevation_ft": 96,
+          "heading_true": 81,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 70.468002,
+          "longitude": -157.417999,
+          "elevation_ft": 94,
+          "heading_true": 261,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.925
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 135.3
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "BARROW RDO",
+      "mhz": 122.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

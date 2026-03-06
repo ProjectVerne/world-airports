@@ -1,0 +1,98 @@
+{
+  "icao": "KODX",
+  "iata": null,
+  "name": "Evelyn Sharp Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.62419891357422,
+    "longitude": -98.95240020751953,
+    "elevation_ft": 2070,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Ord"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 4721,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 41.62870026,
+          "longitude": -98.95809937,
+          "elevation_ft": 2070,
+          "heading_true": 136.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 41.61980057,
+          "longitude": -98.94660187,
+          "elevation_ft": 2059,
+          "heading_true": 316.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 2012,
+      "width_ft": 218,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 41.62469864,
+          "longitude": -98.95010376,
+          "elevation_ft": 2060,
+          "heading_true": 179.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 41.6189003,
+          "longitude": -98.94999695,
+          "elevation_ft": 2058,
+          "heading_true": 359.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.925
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 119.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

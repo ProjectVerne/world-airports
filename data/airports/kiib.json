@@ -1,0 +1,72 @@
+{
+  "icao": "KIIB",
+  "iata": null,
+  "name": "Independence Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.456836,
+    "longitude": -91.94767,
+    "elevation_ft": 979,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Independence"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Independence_Municipal_Airport_(Iowa)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5500,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 42.459099,
+          "longitude": -91.947701,
+          "elevation_ft": 963,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 42.448101,
+          "longitude": -91.947502,
+          "elevation_ft": 978,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "WATERLOO APP/DEP",
+      "mhz": 118.9
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.275
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

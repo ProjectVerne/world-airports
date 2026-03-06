@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Massimiliano Memorial Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.355499267578125,
+    "longitude": -95.66380310058594,
+    "elevation_ft": 65,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Damon"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3280,
+      "width_ft": 35,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 29.36000061,
+          "longitude": -95.66470337,
+          "elevation_ft": 0,
+          "heading_true": 170,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 29.35110092,
+          "longitude": -95.6631012,
+          "elevation_ft": 0,
+          "heading_true": 221,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "FSS",
+      "description": "MONTGOMERY CO RDO",
+      "mhz": 122.2
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 11711,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

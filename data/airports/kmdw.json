@@ -1,0 +1,198 @@
+{
+  "icao": "KMDW",
+  "iata": "MDW",
+  "name": "Chicago Midway International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.785999,
+    "longitude": -87.752403,
+    "elevation_ft": 620,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Chicago"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Midway_International_Airport",
+  "keywords": [
+    "CHI"
+  ],
+  "runways": [
+    {
+      "id": "04L/22R",
+      "length_ft": 5507,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04L",
+          "latitude": 41.78139877319336,
+          "longitude": -87.76119995117188,
+          "elevation_ft": 617,
+          "heading_true": 43,
+          "displaced_threshold_ft": 758
+        },
+        "high": {
+          "ident": "22R",
+          "latitude": 41.792301177978516,
+          "longitude": -87.74729919433594,
+          "elevation_ft": 606,
+          "heading_true": 223,
+          "displaced_threshold_ft": 878
+        }
+      }
+    },
+    {
+      "id": "04R/22L",
+      "length_ft": 6445,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04R",
+          "latitude": 41.77920151,
+          "longitude": -87.75930023,
+          "elevation_ft": 619,
+          "heading_true": 43,
+          "displaced_threshold_ft": 518
+        },
+        "high": {
+          "ident": "22L",
+          "latitude": 41.79199982,
+          "longitude": -87.74310303,
+          "elevation_ft": 606,
+          "heading_true": 223,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13L/31R",
+      "length_ft": 6522,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13L",
+          "latitude": 41.791599,
+          "longitude": -87.761101,
+          "elevation_ft": 608,
+          "heading_true": 134,
+          "displaced_threshold_ft": 463
+        },
+        "high": {
+          "ident": "31R",
+          "latitude": 41.779202,
+          "longitude": -87.743698,
+          "elevation_ft": 612,
+          "heading_true": 314,
+          "displaced_threshold_ft": 696
+        }
+      }
+    },
+    {
+      "id": "13LC/31RC",
+      "length_ft": 5141,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "13LC",
+          "latitude": 41.792301,
+          "longitude": -87.757896,
+          "elevation_ft": 606,
+          "heading_true": 134,
+          "displaced_threshold_ft": 752
+        },
+        "high": {
+          "ident": "31RC",
+          "latitude": 41.7826,
+          "longitude": -87.744301,
+          "elevation_ft": 608,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13R/31L",
+      "length_ft": 3859,
+      "width_ft": 60,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13R",
+          "latitude": 41.78810119628906,
+          "longitude": -87.75879669189453,
+          "elevation_ft": 607,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31L",
+          "latitude": 41.780799865722656,
+          "longitude": -87.74859619140625,
+          "elevation_ft": 613,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 118.4
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 132.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 132.75
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.85
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.65
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "icao": "PABG",
+  "iata": "BVU",
+  "name": "Beluga Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.1721992493,
+    "longitude": -151.044006348,
+    "elevation_ft": 130,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Beluga"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Beluga_Airport",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

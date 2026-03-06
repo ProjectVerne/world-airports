@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Erie Air Park",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.679199,
+    "longitude": -90.078697,
+    "elevation_ft": 600,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Erie"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Erie_Air_Park",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18U/36U",
+      "length_ft": 2000,
+      "width_ft": 200,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18U",
+          "latitude": 41.68519973754883,
+          "longitude": -90.07859802246094,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36U",
+          "latitude": 41.6796989440918,
+          "longitude": -90.07859802246094,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10483,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

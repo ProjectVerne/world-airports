@@ -1,0 +1,77 @@
+{
+  "icao": "KSGS",
+  "iata": null,
+  "name": "South St Paul Municipal Airport/Richard E Fleming Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.857101,
+    "longitude": -93.032898,
+    "elevation_ft": 821,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "South St Paul"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/South_St._Paul_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 4002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 44.86240005,
+          "longitude": -93.03520203,
+          "elevation_ft": 820,
+          "heading_true": 163,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 44.85189819,
+          "longitude": -93.03050232,
+          "elevation_ft": 818,
+          "heading_true": 343,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS APP/DEP",
+      "mhz": 121.2
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.425
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

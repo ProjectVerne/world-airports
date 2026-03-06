@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "St Elmo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.5019,
+    "longitude": -88.275101,
+    "elevation_ft": 132,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "St Elmo"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Elmo_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3998,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 30.499099731445312,
+          "longitude": -88.28060150146484,
+          "elevation_ft": 129,
+          "heading_true": 59,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 30.50469970703125,
+          "longitude": -88.26969909667969,
+          "elevation_ft": 131,
+          "heading_true": 239,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MOBILE APP/DEP",
+      "mhz": 118.5
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18617,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

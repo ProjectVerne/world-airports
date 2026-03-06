@@ -1,0 +1,72 @@
+{
+  "icao": "KHSD",
+  "iata": null,
+  "name": "Sundance Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.601799,
+    "longitude": -97.7062,
+    "elevation_ft": 1193,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Oklahoma City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sundance_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 35.608699798583984,
+          "longitude": -97.70649719238281,
+          "elevation_ft": 1153,
+          "heading_true": 178,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 35.595001220703125,
+          "longitude": -97.70590209960938,
+          "elevation_ft": 1193,
+          "heading_true": 358,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "OKE CITY APP/DEP",
+      "mhz": 124.6
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 123.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

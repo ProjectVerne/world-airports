@@ -1,0 +1,67 @@
+{
+  "icao": "KACZ",
+  "iata": null,
+  "name": "Henderson Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.717899,
+    "longitude": -78.003601,
+    "elevation_ft": 39,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Wallace"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Henderson_Field_(North_Carolina)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4153,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 34.7173996,
+          "longitude": -78.01029968,
+          "elevation_ft": 39,
+          "heading_true": 85,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 34.71839905,
+          "longitude": -77.99700165,
+          "elevation_ft": 31,
+          "heading_true": 265,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "WILMINGTON APP/DEP",
+      "mhz": 121.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

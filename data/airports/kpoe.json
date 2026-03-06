@@ -1,0 +1,82 @@
+{
+  "icao": "KPOE",
+  "iata": "POE",
+  "name": "Polk Army Air Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.0447998,
+    "longitude": -93.1917038,
+    "elevation_ft": 330,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Fort Polk"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 4109,
+      "width_ft": 125,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 31.050100326538086,
+          "longitude": -93.19380187988281,
+          "elevation_ft": 329,
+          "heading_true": 160.5,
+          "displaced_threshold_ft": 197
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 31.039499282836914,
+          "longitude": -93.18939971923828,
+          "elevation_ft": 278,
+          "heading_true": 340.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 123.7
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 134.85
+    },
+    {
+      "type": "OTHER",
+      "description": "FLT FOLLOWING",
+      "mhz": 123.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "PMSV METRO",
+      "mhz": 135
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

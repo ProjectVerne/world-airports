@@ -1,0 +1,97 @@
+{
+  "icao": "KITH",
+  "iata": "ITH",
+  "name": "Ithaca Tompkins Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.49100112915039,
+    "longitude": -76.4583969116211,
+    "elevation_ft": 1099,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Ithaca"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ithaca_Tompkins_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 6977,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.49729919,
+          "longitude": -76.46730042,
+          "elevation_ft": 1077,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.48469925,
+          "longitude": -76.44960022,
+          "elevation_ft": 1099,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ELMIRA APP/DEP",
+      "mhz": 124.3
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 125.175
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.175
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "BUFFALO RDO",
+      "mhz": 111.8
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.6
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

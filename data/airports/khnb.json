@@ -1,0 +1,77 @@
+{
+  "icao": "KHNB",
+  "iata": "HNB",
+  "name": "Huntingburg Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.2490005493,
+    "longitude": -86.95369720459999,
+    "elevation_ft": 529,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Huntingburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Huntingburg_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5501,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 38.2491,
+          "longitude": -86.962402,
+          "elevation_ft": 513,
+          "heading_true": 91,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 38.249001,
+          "longitude": -86.945,
+          "elevation_ft": 528,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "EVANSVILLE APP/DEP",
+      "mhz": 126.4
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.25
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

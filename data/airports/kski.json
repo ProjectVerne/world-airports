@@ -1,0 +1,93 @@
+{
+  "icao": "KSKI",
+  "iata": null,
+  "name": "Sac City Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.37910079956055,
+    "longitude": -94.97969818115234,
+    "elevation_ft": 1250,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Sac City"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 2350,
+      "width_ft": 60,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.38349914550781,
+          "longitude": -94.9822006225586,
+          "elevation_ft": 1249,
+          "heading_true": 147.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.37810134887695,
+          "longitude": -94.97750091552734,
+          "elevation_ft": 1236,
+          "heading_true": 327.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4100,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 42.38370132446289,
+          "longitude": -94.97940063476562,
+          "elevation_ft": 1245,
+          "heading_true": 180.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 42.372398376464844,
+          "longitude": -94.97940063476562,
+          "elevation_ft": 1235,
+          "heading_true": 0.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 134
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "icao": "KDYS",
+  "iata": "DYS",
+  "name": "Dyess Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.420799,
+    "longitude": -99.854599,
+    "elevation_ft": 1789,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Abilene"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Dyess_Air_Force_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 13500,
+      "width_ft": 300,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 32.43899917602539,
+          "longitude": -99.85880279541016,
+          "elevation_ft": 1789,
+          "heading_true": 168.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 32.4025993347168,
+          "longitude": -99.85040283203125,
+          "elevation_ft": 1787,
+          "heading_true": 348.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "161/341",
+      "length_ft": 3500,
+      "width_ft": 60,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "161",
+          "latitude": 32.4213981628418,
+          "longitude": -99.8594970703125,
+          "elevation_ft": 0,
+          "heading_true": 161,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "341",
+          "latitude": 32.411800384521484,
+          "longitude": -99.8572998046875,
+          "elevation_ft": 0,
+          "heading_true": 341,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ABILENE APP/DEP",
+      "mhz": 125
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 118.35
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 139.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 133
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

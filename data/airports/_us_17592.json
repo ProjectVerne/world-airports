@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Heaven's Landing Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.914398193400004,
+    "longitude": -83.4597015381,
+    "elevation_ft": 2724,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Clayton"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5062,
+      "width_ft": 50,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 34.90999985,
+          "longitude": -83.46620178,
+          "elevation_ft": 0,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 34.91889954,
+          "longitude": -83.45320129,
+          "elevation_ft": 0,
+          "heading_true": 274.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17592,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

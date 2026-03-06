@@ -1,0 +1,113 @@
+{
+  "icao": "KSTS",
+  "iata": "STS",
+  "name": "Charles M. Schulz Sonoma County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.50899887,
+    "longitude": -122.8130035,
+    "elevation_ft": 128,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Santa Rosa"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Charles_M._Schulz_-_Sonoma_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5202,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 38.50320053100586,
+          "longitude": -122.82099914550781,
+          "elevation_ft": 129,
+          "heading_true": 29,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 38.51570129394531,
+          "longitude": -122.81199645996094,
+          "elevation_ft": 113,
+          "heading_true": 209,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 6000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 38.51750183105469,
+          "longitude": -122.81400299072266,
+          "elevation_ft": 111,
+          "heading_true": 157,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 38.50230026245117,
+          "longitude": -122.80599975585938,
+          "elevation_ft": 120,
+          "heading_true": 337,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORCAL APP/DEP",
+      "mhz": 127.8
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 120.55
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "TWR",
+      "description": "SANTA ROSA TWR",
+      "mhz": 118.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

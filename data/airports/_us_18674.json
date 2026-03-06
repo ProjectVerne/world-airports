@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Sterling Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.4259,
+    "longitude": -71.7929,
+    "elevation_ft": 459,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Sterling"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sterling_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 3086,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 42.429100036621094,
+          "longitude": -71.79660034179688,
+          "elevation_ft": 459,
+          "heading_true": 140,
+          "displaced_threshold_ft": 150
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 42.422698974609375,
+          "longitude": -71.78910064697266,
+          "elevation_ft": 449,
+          "heading_true": 314.7,
+          "displaced_threshold_ft": 500
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18674,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

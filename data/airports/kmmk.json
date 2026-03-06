@@ -1,0 +1,77 @@
+{
+  "icao": "KMMK",
+  "iata": null,
+  "name": "Meriden Markham Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.50870132446289,
+    "longitude": -72.82949829101562,
+    "elevation_ft": 103,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Meriden"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Meriden_Markham_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3100,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 41.51279830932617,
+          "longitude": -72.831298828125,
+          "elevation_ft": 103,
+          "heading_true": 161.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 41.50469970703125,
+          "longitude": -72.82769775390625,
+          "elevation_ft": 99,
+          "heading_true": 341.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 127.8
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 134.925
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

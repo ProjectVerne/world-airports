@@ -1,0 +1,74 @@
+{
+  "icao": "KINJ",
+  "iata": null,
+  "name": "Hillsboro Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.0835,
+    "longitude": -97.097198,
+    "elevation_ft": 686,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Hillsboro"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hillsboro_Municipal_Airport_(Texas)",
+  "keywords": [
+    "5T5"
+  ],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 3998,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 32.08879852,
+          "longitude": -97.09889984,
+          "elevation_ft": 686,
+          "heading_true": 164.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 32.07820129,
+          "longitude": -97.09549713,
+          "elevation_ft": 676,
+          "heading_true": 344.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "WACO APP/DEP",
+      "mhz": 135.2
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.725
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

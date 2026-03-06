@@ -1,0 +1,106 @@
+{
+  "icao": "KMJX",
+  "iata": "MJX",
+  "name": "Ocean County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.92750168,
+    "longitude": -74.29239655,
+    "elevation_ft": 82,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Toms River"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Robert_J._Miller_Air_Park",
+  "keywords": [
+    "N44",
+    "Robert J. Miller Air Park"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 5950,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 39.92219925,
+          "longitude": -74.30049896,
+          "elevation_ft": 77,
+          "heading_true": 49.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 39.93280029,
+          "longitude": -74.28430176,
+          "elevation_ft": 76,
+          "heading_true": 229.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3599,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 39.926700592041016,
+          "longitude": -74.30580139160156,
+          "elevation_ft": 86,
+          "heading_true": 128,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 39.920570373535156,
+          "longitude": -74.29570770263672,
+          "elevation_ft": 76,
+          "heading_true": 308,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MC GUIRE APP/DEP",
+      "mhz": 124.15
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.875
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.7
+    },
+    {
+      "type": "OTHER",
+      "description": "MILLVILLE RDO",
+      "mhz": 113.4
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

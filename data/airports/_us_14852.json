@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Twin Lakes Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.914902,
+    "longitude": -80.456802,
+    "elevation_ft": 818,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Advance"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Twin_Lakes_Airport_(North_Carolina)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2943,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 35.914798736572266,
+          "longitude": -80.46179962158203,
+          "elevation_ft": 773,
+          "heading_true": 88,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 35.91510009765625,
+          "longitude": -80.45189666748047,
+          "elevation_ft": 818,
+          "heading_true": 268,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 14852,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

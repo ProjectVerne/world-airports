@@ -1,0 +1,103 @@
+{
+  "icao": "KIGQ",
+  "iata": null,
+  "name": "Lansing Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.534901,
+    "longitude": -87.529503,
+    "elevation_ft": 620,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Chicago"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lansing_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3395,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.53990173339844,
+          "longitude": -87.53790283203125,
+          "elevation_ft": 615,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.53990173339844,
+          "longitude": -87.52549743652344,
+          "elevation_ft": 617,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4002,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 41.53620147705078,
+          "longitude": -87.52770233154297,
+          "elevation_ft": 616,
+          "heading_true": 180,
+          "displaced_threshold_ft": 350
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 41.52519989013672,
+          "longitude": -87.52770233154297,
+          "elevation_ft": 619,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHICAGO APP/DEP",
+      "mhz": 118.4
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.275
+    },
+    {
+      "type": "FSS",
+      "description": "KANKAKEE RDO",
+      "mhz": 122.1
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

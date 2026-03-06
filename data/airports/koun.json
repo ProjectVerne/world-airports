@@ -1,0 +1,118 @@
+{
+  "icao": "KOUN",
+  "iata": "OUN",
+  "name": "University of Oklahoma Westheimer Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.2456,
+    "longitude": -97.472099,
+    "elevation_ft": 1182,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Norman"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/University_of_Oklahoma_Westheimer_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4748,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 35.23619843,
+          "longitude": -97.47579956,
+          "elevation_ft": 1175,
+          "heading_true": 36.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 35.24670029,
+          "longitude": -97.46640015,
+          "elevation_ft": 1179,
+          "heading_true": 216.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5200,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 35.25640106201172,
+          "longitude": -97.47309875488281,
+          "elevation_ft": 1181,
+          "heading_true": 179.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 35.2421989440918,
+          "longitude": -97.4729995727539,
+          "elevation_ft": 1177,
+          "heading_true": 359.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "OKE CITY APP/DEP",
+      "mhz": 120.45
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.55
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.6
+    },
+    {
+      "type": "OTHER",
+      "description": "MC ALESTER RDO",
+      "mhz": 122.15
+    },
+    {
+      "type": "TWR",
+      "description": "WESTHEIMER TWR",
+      "mhz": 118
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "icao": "KSPF",
+  "iata": "SPF",
+  "name": "Black Hills Airport-Clyde Ice Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.48030090332,
+    "longitude": -103.78299713135,
+    "elevation_ft": 3931,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Spearfish"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Black_Hills_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 1995,
+      "width_ft": 120,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 44.47710037,
+          "longitude": -103.7799988,
+          "elevation_ft": 3902,
+          "heading_true": 41,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 44.48120117,
+          "longitude": -103.7750015,
+          "elevation_ft": 3862,
+          "heading_true": 221,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 4003,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 44.47669983,
+          "longitude": -103.7939987,
+          "elevation_ft": 3931,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 44.47669983,
+          "longitude": -103.7789993,
+          "elevation_ft": 3931,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 6401,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 44.49079895,
+          "longitude": -103.7969971,
+          "elevation_ft": 3884,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 44.47829819,
+          "longitude": -103.7789993,
+          "elevation_ft": 3895,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ELLSWORTH APP/DEP",
+      "mhz": 119.5
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.325
+    },
+    {
+      "type": "OTHER",
+      "description": "HURON RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

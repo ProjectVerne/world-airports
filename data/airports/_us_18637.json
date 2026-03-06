@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Eagles Nest Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.665401,
+    "longitude": -74.307899,
+    "elevation_ft": 35,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "West Creek"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eagles_Nest_Airport_(New_Jersey)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3670,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 39.66839981,
+          "longitude": -74.31199646,
+          "elevation_ft": 0,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 39.66230011,
+          "longitude": -74.30380249,
+          "elevation_ft": 0,
+          "heading_true": 0.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 18637,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

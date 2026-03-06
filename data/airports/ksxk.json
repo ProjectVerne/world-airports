@@ -1,0 +1,56 @@
+{
+  "icao": "KSXK",
+  "iata": null,
+  "name": "Sioux County Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.9858275,
+    "longitude": -96.1614,
+    "elevation_ft": 1409,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Maurice"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 5500,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 42.99332809448242,
+          "longitude": -96.1623306274414,
+          "elevation_ft": 1409,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 42.97829818725586,
+          "longitude": -96.160400390625,
+          "elevation_ft": 1409,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

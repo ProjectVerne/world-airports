@@ -1,0 +1,72 @@
+{
+  "icao": "KFZI",
+  "iata": null,
+  "name": "Fostoria Metropolitan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.1908,
+    "longitude": -83.394501,
+    "elevation_ft": 752,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Fostoria"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fostoria_Metropolitan_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5005,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.19079971,
+          "longitude": -83.40219879,
+          "elevation_ft": 751,
+          "heading_true": 89.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.19079971,
+          "longitude": -83.38690186,
+          "elevation_ft": 751,
+          "heading_true": 269.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TOLEDO APP/DEP",
+      "mhz": 126.1
+    },
+    {
+      "type": "FSS",
+      "description": "CLEVELAND RDO",
+      "mhz": 122.1
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

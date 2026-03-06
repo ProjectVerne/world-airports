@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Pottstown Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.243514,
+    "longitude": -75.611233,
+    "elevation_ft": 168,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Pottstown"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "PMMC Heliport"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12796,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

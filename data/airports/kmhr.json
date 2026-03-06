@@ -1,0 +1,113 @@
+{
+  "icao": "KMHR",
+  "iata": "MHR",
+  "name": "Sacramento Mather Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.554744,
+    "longitude": -121.297989,
+    "elevation_ft": 98,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Sacramento"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sacramento_Mather_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04L/22R",
+      "length_ft": 6081,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04L",
+          "latitude": 38.5530014,
+          "longitude": -121.3050003,
+          "elevation_ft": 78,
+          "heading_true": 54.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22R",
+          "latitude": 38.56269836,
+          "longitude": -121.288002,
+          "elevation_ft": 95,
+          "heading_true": 234.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "04R/22L",
+      "length_ft": 11301,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04R",
+          "latitude": 38.544700622558594,
+          "longitude": -121.31400299072266,
+          "elevation_ft": 75,
+          "heading_true": 53.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22L",
+          "latitude": 38.5630989074707,
+          "longitude": -121.28199768066406,
+          "elevation_ft": 96,
+          "heading_true": 233.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORCAL APP/DEP",
+      "mhz": 127.4
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.325
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.85
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.85
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.65
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123.075
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

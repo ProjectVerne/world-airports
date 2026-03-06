@@ -1,0 +1,124 @@
+{
+  "icao": "KTAZ",
+  "iata": null,
+  "name": "Taylorville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.534199,
+    "longitude": -89.327797,
+    "elevation_ft": 622,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Taylorville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Taylorville_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09L/27R",
+      "length_ft": 1933,
+      "width_ft": 165,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09L",
+          "latitude": 39.5381012,
+          "longitude": -89.33200073,
+          "elevation_ft": 0,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27R",
+          "latitude": 39.5381012,
+          "longitude": -89.32520294,
+          "elevation_ft": 0,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09R/27L",
+      "length_ft": 3501,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09R",
+          "latitude": 39.52970123,
+          "longitude": -89.34169769,
+          "elevation_ft": 616,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27L",
+          "latitude": 39.5298996,
+          "longitude": -89.32929993,
+          "elevation_ft": 616,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.53779983520508,
+          "longitude": -89.32749938964844,
+          "elevation_ft": 616,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.52690124511719,
+          "longitude": -89.32730102539062,
+          "elevation_ft": 620,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SPRINGFIELD APP/DEP",
+      "mhz": 118.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 123.875
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "icao": "PFKU",
+  "iata": "KYU",
+  "name": "Koyukuk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.876099,
+    "longitude": -157.727005,
+    "elevation_ft": 149,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Koyukuk"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Koyukuk_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "gravel",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 64.874802,
+          "longitude": -157.742996,
+          "elevation_ft": 149,
+          "heading_true": 78,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 64.8769,
+          "longitude": -157.718002,
+          "elevation_ft": 149,
+          "heading_true": 258,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

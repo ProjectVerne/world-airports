@@ -1,0 +1,77 @@
+{
+  "icao": "KAKQ",
+  "iata": null,
+  "name": "Wakefield Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.98720169067383,
+    "longitude": -77.0010986328125,
+    "elevation_ft": 113,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Wakefield"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4337,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 36.981499,
+          "longitude": -77.003304,
+          "elevation_ft": 109,
+          "heading_true": 17,
+          "displaced_threshold_ft": 298
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 36.992901,
+          "longitude": -76.999001,
+          "elevation_ft": 113,
+          "heading_true": 197,
+          "displaced_threshold_ft": 470
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORFOLK APP/DEP",
+      "mhz": 127.9
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 128.325
+    },
+    {
+      "type": "OTHER",
+      "description": "LEESBURG RDO",
+      "mhz": 110.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "icao": "KEBS",
+  "iata": "EBS",
+  "name": "Webster City Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.436848,
+    "longitude": -93.869905,
+    "elevation_ft": 1122,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Webster City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Webster_City_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2663,
+      "width_ft": 90,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 42.43500137,
+          "longitude": -93.87220001,
+          "elevation_ft": 0,
+          "heading_true": 47.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 42.43999863,
+          "longitude": -93.8647995,
+          "elevation_ft": 0,
+          "heading_true": 227.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3851,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.44049835,
+          "longitude": -93.87329865,
+          "elevation_ft": 1104,
+          "heading_true": 144.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.43159866,
+          "longitude": -93.86450195,
+          "elevation_ft": 1121,
+          "heading_true": 324.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 127.825
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 134
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

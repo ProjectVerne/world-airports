@@ -1,0 +1,145 @@
+{
+  "icao": "KNSE",
+  "iata": "NSE",
+  "name": "Whiting Field Naval Air Station - North",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.7241993,
+    "longitude": -87.02189636,
+    "elevation_ft": 199,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Milton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Whiting_Field_%E2%80%93_North",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 6003,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 30.71529961,
+          "longitude": -87.03299713,
+          "elevation_ft": 170,
+          "heading_true": 47,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 30.72649956,
+          "longitude": -87.01899719,
+          "elevation_ft": 183,
+          "heading_true": 227,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 6000,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 30.721900939941406,
+          "longitude": -87.0374984741211,
+          "elevation_ft": 166,
+          "heading_true": 94,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 30.720800399780273,
+          "longitude": -87.01860046386719,
+          "elevation_ft": 161,
+          "heading_true": 274,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 6001,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 30.73019981,
+          "longitude": -87.02839661,
+          "elevation_ft": 199,
+          "heading_true": 137,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 30.71820068,
+          "longitude": -87.01540375,
+          "elevation_ft": 160,
+          "heading_true": 317,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6000,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 30.727800369262695,
+          "longitude": -87.02670288085938,
+          "elevation_ft": 198,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 30.711700439453125,
+          "longitude": -87.02670288085938,
+          "elevation_ft": 177,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PENSACOLA APP/DEP",
+      "mhz": 127.35
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 121.4
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

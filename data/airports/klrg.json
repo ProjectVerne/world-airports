@@ -1,0 +1,67 @@
+{
+  "icao": "KLRG",
+  "iata": null,
+  "name": "Lincoln Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.362202,
+    "longitude": -68.534698,
+    "elevation_ft": 208,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Lincoln"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lincoln_Regional_Airport_(Maine)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 2804,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 45.36539840698242,
+          "longitude": -68.5376968383789,
+          "elevation_ft": 196,
+          "heading_true": 147,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 45.3588981628418,
+          "longitude": -68.53179931640625,
+          "elevation_ft": 206,
+          "heading_true": 327,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BOSTON CNTR",
+      "mhz": 124.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

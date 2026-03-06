@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Haddock Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.20050048828125,
+    "longitude": -99.89769744873047,
+    "elevation_ft": 2097,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Erick"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 2650,
+      "width_ft": 35,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 35.2041015625,
+          "longitude": -99.88140106201172,
+          "elevation_ft": 2092,
+          "heading_true": 176,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 35.196800231933594,
+          "longitude": -99.88069915771484,
+          "elevation_ft": 2097,
+          "heading_true": 356,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23482,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

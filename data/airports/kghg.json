@@ -1,0 +1,74 @@
+{
+  "icao": "KGHG",
+  "iata": null,
+  "name": "Marshfield Municipal George Harlow Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.097665,
+    "longitude": -70.67283,
+    "elevation_ft": 11,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Marshfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marshfield_Municipal_Airport_(Massachusetts)",
+  "keywords": [
+    "3B2"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3900,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 42.09540176,
+          "longitude": -70.67610168,
+          "elevation_ft": 3,
+          "heading_true": 46,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 42.10110092,
+          "longitude": -70.66809845,
+          "elevation_ft": 9,
+          "heading_true": 226,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BOSTON APP/DEP",
+      "mhz": 124.1
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

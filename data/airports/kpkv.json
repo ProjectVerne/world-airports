@@ -1,0 +1,98 @@
+{
+  "icao": "KPKV",
+  "iata": null,
+  "name": "Calhoun County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.653999,
+    "longitude": -96.681297,
+    "elevation_ft": 32,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Port Lavaca"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Calhoun_County_Airport_(Texas)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2432,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 28.64900017,
+          "longitude": -96.6894989,
+          "elevation_ft": 0,
+          "heading_true": 55,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 28.65320015,
+          "longitude": -96.68260193,
+          "elevation_ft": 0,
+          "heading_true": 235,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5004,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 28.65959930419922,
+          "longitude": -96.68589782714844,
+          "elevation_ft": 30,
+          "heading_true": 144.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 28.648399353027344,
+          "longitude": -96.67680358886719,
+          "elevation_ft": 29,
+          "heading_true": 324.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.275
+    },
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 128.15
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

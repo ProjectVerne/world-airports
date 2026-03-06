@@ -1,0 +1,103 @@
+{
+  "icao": "KMSS",
+  "iata": "MSS",
+  "name": "Massena International Airport Richards Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.936157,
+    "longitude": -74.844304,
+    "elevation_ft": 215,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Massena"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Massena_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5601,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 44.93,
+          "longitude": -74.849403,
+          "elevation_ft": 203,
+          "heading_true": 31,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 44.941799,
+          "longitude": -74.839401,
+          "elevation_ft": 215,
+          "heading_true": 211,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 4000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 44.93439865112305,
+          "longitude": -74.85449981689453,
+          "elevation_ft": 203,
+          "heading_true": 76,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 44.9370002746582,
+          "longitude": -74.8395004272461,
+          "elevation_ft": 204,
+          "heading_true": 256,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BOSTON APP/DEP",
+      "mhz": 135.25
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 128.075
+    },
+    {
+      "type": "OTHER",
+      "description": "BURLINGTON RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

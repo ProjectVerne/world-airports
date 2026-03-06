@@ -1,0 +1,36 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Village Oaks Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.469664,
+    "longitude": -90.781292,
+    "elevation_ft": 732,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Blue Grass"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 430424,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

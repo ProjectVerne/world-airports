@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": "CIL",
+  "name": "Council Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.89790344240001,
+    "longitude": -163.70300293,
+    "elevation_ft": 85,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Council"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Council_Airport",
+  "keywords": [
+    "Melsing Creek"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 18561,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

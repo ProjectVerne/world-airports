@@ -1,0 +1,34 @@
+{
+  "icao": "KXTA",
+  "iata": null,
+  "name": "Homey (Area 51) Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.23500061035156,
+    "longitude": -115.81099700927734,
+    "elevation_ft": 4462,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Groom Lake"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Area_51",
+  "keywords": [
+    "Dreamland",
+    "Paradise Ranch",
+    "Home Base",
+    "Watertown Strip"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

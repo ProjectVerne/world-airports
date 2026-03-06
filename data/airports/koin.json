@@ -1,0 +1,119 @@
+{
+  "icao": "KOIN",
+  "iata": null,
+  "name": "Oberlin Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.833900451660156,
+    "longitude": -100.53900146484375,
+    "elevation_ft": 2703,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Oberlin"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 1686,
+      "width_ft": 190,
+      "surface": "grass",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 39.831501,
+          "longitude": -100.540001,
+          "elevation_ft": 2668,
+          "heading_true": 42,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 39.834999,
+          "longitude": -100.536003,
+          "elevation_ft": 2672,
+          "heading_true": 222,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 2832,
+      "width_ft": 130,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 39.83610153,
+          "longitude": -100.5429993,
+          "elevation_ft": 2683,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 39.83050156,
+          "longitude": -100.5360031,
+          "elevation_ft": 2651,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 4301,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 39.84009933,
+          "longitude": -100.5400009,
+          "elevation_ft": 2703,
+          "heading_true": 180.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 39.82970047,
+          "longitude": -100.5400009,
+          "elevation_ft": 2668,
+          "heading_true": 0.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 132.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "icao": "KLHQ",
+  "iata": null,
+  "name": "Fairfield County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.7556,
+    "longitude": -82.657097,
+    "elevation_ft": 868,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Lancaster"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fairfield_County_Airport_(Ohio)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 5003,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 39.7560997,
+          "longitude": -82.66600037,
+          "elevation_ft": 857,
+          "heading_true": 94,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 39.75519943,
+          "longitude": -82.64820099,
+          "elevation_ft": 864,
+          "heading_true": 274,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS APP/DEP",
+      "mhz": 132.3
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.375
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.65
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.725
+    },
+    {
+      "type": "OTHER",
+      "description": "DAYTON RDO",
+      "mhz": 116.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

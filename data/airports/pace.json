@@ -1,0 +1,56 @@
+{
+  "icao": "PACE",
+  "iata": "CEM",
+  "name": "Central Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.573815,
+    "longitude": -144.780707,
+    "elevation_ft": 937,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Central"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Central_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 2782,
+      "width_ft": 60,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 65.57479858398438,
+          "longitude": -144.7899932861328,
+          "elevation_ft": 937,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 65.5730972290039,
+          "longitude": -144.77200317382812,
+          "elevation_ft": 916,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "icao": "KJVL",
+  "iata": "JVL",
+  "name": "Southern Wisconsin Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.620300293,
+    "longitude": -89.0416030884,
+    "elevation_ft": 808,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Janesville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Southern_Wisconsin_Regional_Airport",
+  "keywords": [
+    "Rock County Airport"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 6701,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 42.61180114746094,
+          "longitude": -89.04979705810547,
+          "elevation_ft": 804,
+          "heading_true": 41.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 42.6255989074707,
+          "longitude": -89.0333023071289,
+          "elevation_ft": 805,
+          "heading_true": 221.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 7302,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.62810135,
+          "longitude": -89.05519867,
+          "elevation_ft": 795,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.61429977,
+          "longitude": -89.03549957,
+          "elevation_ft": 806,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5004,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 42.62779999,
+          "longitude": -89.03620148,
+          "elevation_ft": 808,
+          "heading_true": 179.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 42.61410141,
+          "longitude": -89.03600311,
+          "elevation_ft": 805,
+          "heading_true": 359.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ROCKFORD APP/DEP",
+      "mhz": 121
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 128.25
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.65
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.8
+    },
+    {
+      "type": "GND",
+      "description": "JANESVILLE GND",
+      "mhz": 121.65
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 114.3
+    },
+    {
+      "type": "TWR",
+      "description": "JANESVILLE TWR",
+      "mhz": 118.8
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "icao": "KFBR",
+  "iata": "FBR",
+  "name": "Fort Bridger Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.3918991089,
+    "longitude": -110.406997681,
+    "elevation_ft": 7034,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Fort Bridger"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 6404,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 41.38679886,
+          "longitude": -110.4160004,
+          "elevation_ft": 7034,
+          "heading_true": 54.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 41.39699936,
+          "longitude": -110.3970032,
+          "elevation_ft": 7002,
+          "heading_true": 234.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07/25",
+      "length_ft": 3520,
+      "width_ft": 50,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 41.394699,
+          "longitude": -110.411003,
+          "elevation_ft": 7016,
+          "heading_true": 78,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 41.3969,
+          "longitude": -110.397003,
+          "elevation_ft": 7000,
+          "heading_true": 258,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 2",
+      "mhz": 118.8
+    },
+    {
+      "type": "OTHER",
+      "description": "CASPER RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

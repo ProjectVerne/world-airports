@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Boonville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.042059,
+    "longitude": -87.316054,
+    "elevation_ft": 380,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Boonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Boonville_Airport_(Indiana)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2300,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 38.042701721191406,
+          "longitude": -87.31999969482422,
+          "elevation_ft": 395,
+          "heading_true": 0,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 38.04209899902344,
+          "longitude": -87.31310272216797,
+          "elevation_ft": 390,
+          "heading_true": 211.6,
+          "displaced_threshold_ft": 300
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17676,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

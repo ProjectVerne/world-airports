@@ -1,0 +1,103 @@
+{
+  "icao": "KPLN",
+  "iata": "PLN",
+  "name": "Pellston Regional Airport of Emmet County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.57089996,
+    "longitude": -84.79669952,
+    "elevation_ft": 721,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Pellston"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pellston_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5401,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 45.56740189,
+          "longitude": -84.80280304,
+          "elevation_ft": 710,
+          "heading_true": 44.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 45.57789993,
+          "longitude": -84.78790283,
+          "elevation_ft": 720,
+          "heading_true": 224.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 6513,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 45.57580185,
+          "longitude": -84.80690002,
+          "elevation_ft": 718,
+          "heading_true": 134.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 45.5632019,
+          "longitude": -84.7888031,
+          "elevation_ft": 707,
+          "heading_true": 314.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.025
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 134.6
+    },
+    {
+      "type": "OTHER",
+      "description": "LANSING RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

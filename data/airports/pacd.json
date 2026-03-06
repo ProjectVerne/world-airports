@@ -1,0 +1,108 @@
+{
+  "icao": "PACD",
+  "iata": "CDB",
+  "name": "Cold Bay Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.207871,
+    "longitude": -162.725029,
+    "elevation_ft": 96,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Cold Bay"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cold_Bay_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 4900,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 55.199001,
+          "longitude": -162.727005,
+          "elevation_ft": 93,
+          "heading_true": 95,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 55.1978,
+          "longitude": -162.703003,
+          "elevation_ft": 96,
+          "heading_true": 275,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 10179,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 55.222401,
+          "longitude": -162.738007,
+          "elevation_ft": 69,
+          "heading_true": 158,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 55.1959,
+          "longitude": -162.720001,
+          "elevation_ft": 89,
+          "heading_true": 338,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.75
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 118.5
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 123.6
+    },
+    {
+      "type": "FSS",
+      "description": "RDO",
+      "mhz": 123.6
+    },
+    {
+      "type": "OTHER",
+      "description": "KENAI RDO",
+      "mhz": 123.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

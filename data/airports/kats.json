@@ -1,0 +1,98 @@
+{
+  "icao": "KATS",
+  "iata": "ATS",
+  "name": "Artesia Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.8525009155,
+    "longitude": -104.468002319,
+    "elevation_ft": 3541,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Artesia"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Artesia_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 6800,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 32.846001,
+          "longitude": -104.474998,
+          "elevation_ft": 3541,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 32.858299,
+          "longitude": -104.460999,
+          "elevation_ft": 3520,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 6132,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 32.8582,
+          "longitude": -104.473999,
+          "elevation_ft": 3534,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 32.847698,
+          "longitude": -104.460999,
+          "elevation_ft": 3508,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ROSWELL APP/DEP",
+      "mhz": 119.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 126.725
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

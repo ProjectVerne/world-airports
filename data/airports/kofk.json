@@ -1,0 +1,98 @@
+{
+  "icao": "KOFK",
+  "iata": "OFK",
+  "name": "Karl Stefan Memorial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.985500335693,
+    "longitude": -97.435096740723,
+    "elevation_ft": 1573,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Norfolk"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Norfolk_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5801,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 41.9776,
+          "longitude": -97.4375,
+          "elevation_ft": 1573,
+          "heading_true": 19,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 41.992599,
+          "longitude": -97.430397,
+          "elevation_ft": 1531,
+          "heading_true": 199,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5806,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 41.99209976,
+          "longitude": -97.44280243,
+          "elevation_ft": 1543,
+          "heading_true": 142,
+          "displaced_threshold_ft": 284
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 41.97949982,
+          "longitude": -97.42970276,
+          "elevation_ft": 1560,
+          "heading_true": 322,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.025
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS RDO",
+      "mhz": 122.15
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

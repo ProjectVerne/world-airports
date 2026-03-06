@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Harper Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.278319,
+    "longitude": -98.043243,
+    "elevation_ft": 1427,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Harper"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 2138,
+      "width_ft": 160,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 37.28129959106445,
+          "longitude": -98.04679870605469,
+          "elevation_ft": 1426,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 37.277198791503906,
+          "longitude": -98.04149627685547,
+          "elevation_ft": 1426,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 3268,
+      "width_ft": 38,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 37.281898498535156,
+          "longitude": -98.0436019897461,
+          "elevation_ft": 1427,
+          "heading_true": 175,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 37.27299880981445,
+          "longitude": -98.0425033569336,
+          "elevation_ft": 1424,
+          "heading_true": 355,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 118.35
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19134,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "icao": "KBRL",
+  "iata": "BRL",
+  "name": "Southeast Iowa Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.783199310302734,
+    "longitude": -91.12550354003906,
+    "elevation_ft": 698,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Burlington"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Southeast_Iowa_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 5351,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 40.79140091,
+          "longitude": -91.13600159,
+          "elevation_ft": 692,
+          "heading_true": 119.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 40.78419876,
+          "longitude": -91.11920166,
+          "elevation_ft": 693,
+          "heading_true": 299.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6102,
+      "width_ft": 100,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.78879929,
+          "longitude": -91.12390137,
+          "elevation_ft": 694,
+          "heading_true": 179.5,
+          "displaced_threshold_ft": 1210
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.770401,
+          "longitude": -91.12380219,
+          "elevation_ft": 677,
+          "heading_true": 359.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.025
+    },
+    {
+      "type": "OTHER",
+      "description": "CHICAGO CNTR",
+      "mhz": 135.6
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT DODGE RDO",
+      "mhz": 122.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

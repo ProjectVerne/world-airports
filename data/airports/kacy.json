@@ -1,0 +1,118 @@
+{
+  "icao": "KACY",
+  "iata": "ACY",
+  "name": "Atlantic City International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.456201,
+    "longitude": -74.577511,
+    "elevation_ft": 75,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Atlantic City"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Atlantic_City_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 6145,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 39.4496994,
+          "longitude": -74.58519745,
+          "elevation_ft": 61,
+          "heading_true": 27.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 39.46459961,
+          "longitude": -74.57489777,
+          "elevation_ft": 67,
+          "heading_true": 207.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 10001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 39.46429825,
+          "longitude": -74.59100342,
+          "elevation_ft": 75,
+          "heading_true": 118.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 39.45140076,
+          "longitude": -74.55970001,
+          "elevation_ft": 63,
+          "heading_true": 298.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 124.6
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 108.6
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 127.85
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ANG OPS",
+      "mhz": 138.12
+    },
+    {
+      "type": "OTHER",
+      "description": "MILLVILLE RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.3
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

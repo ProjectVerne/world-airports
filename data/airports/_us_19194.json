@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Kingman Airport Clyde Cessna Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.66899872,
+    "longitude": -98.12390137,
+    "elevation_ft": 1607,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Kingman"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 3400,
+      "width_ft": 60,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 37.672298431396484,
+          "longitude": -98.13099670410156,
+          "elevation_ft": 1607,
+          "heading_true": 116.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 37.66809844970703,
+          "longitude": -98.12049865722656,
+          "elevation_ft": 1591,
+          "heading_true": 296.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4300,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 37.67390060424805,
+          "longitude": -98.12129974365234,
+          "elevation_ft": 1599,
+          "heading_true": 188,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 37.662200927734375,
+          "longitude": -98.12339782714844,
+          "elevation_ft": 1597,
+          "heading_true": 8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "WICHITA APP/DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19194,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

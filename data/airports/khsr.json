@@ -1,0 +1,93 @@
+{
+  "icao": "KHSR",
+  "iata": null,
+  "name": "Hot Springs Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.366615,
+    "longitude": -103.390545,
+    "elevation_ft": 3150,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Hot Springs"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hot_Springs_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 4506,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 43.36339951,
+          "longitude": -103.3919983,
+          "elevation_ft": 3148,
+          "heading_true": 21.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 43.37490082,
+          "longitude": -103.3860016,
+          "elevation_ft": 3140,
+          "heading_true": 201.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06/24",
+      "length_ft": 3926,
+      "width_ft": 235,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 43.36589813,
+          "longitude": -103.3939972,
+          "elevation_ft": 3145,
+          "heading_true": 76,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 43.36849976,
+          "longitude": -103.3799973,
+          "elevation_ft": 3141,
+          "heading_true": 256,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 127.95
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

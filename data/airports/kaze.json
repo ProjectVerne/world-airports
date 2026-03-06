@@ -1,0 +1,67 @@
+{
+  "icao": "KAZE",
+  "iata": null,
+  "name": "Hazlehurst Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.884700775146484,
+    "longitude": -82.64739990234375,
+    "elevation_ft": 255,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Hazlehurst"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 4508,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 31.88949966430664,
+          "longitude": -82.6520004272461,
+          "elevation_ft": 229,
+          "heading_true": 141,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 31.879899978637695,
+          "longitude": -82.6427993774414,
+          "elevation_ft": 250,
+          "heading_true": 321,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE CNTR",
+      "mhz": 132.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

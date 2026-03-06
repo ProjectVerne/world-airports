@@ -1,0 +1,103 @@
+{
+  "icao": "KDMN",
+  "iata": "DMN",
+  "name": "Deming Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.262298584,
+    "longitude": -107.721000671,
+    "elevation_ft": 4314,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Deming"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Deming_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5675,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 32.25659942626953,
+          "longitude": -107.73100280761719,
+          "elevation_ft": 4311,
+          "heading_true": 51.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 32.266300201416016,
+          "longitude": -107.71700286865234,
+          "elevation_ft": 4303,
+          "heading_true": 231.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 8018,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 32.26300049,
+          "longitude": -107.7279968,
+          "elevation_ft": 4314,
+          "heading_true": 89.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 32.26309967,
+          "longitude": -107.7070007,
+          "elevation_ft": 4292,
+          "heading_true": 269.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.525
+    },
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE CNTR",
+      "mhz": 128.2
+    },
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

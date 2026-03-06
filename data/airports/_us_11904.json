@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Greenville Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 45.46120071411133,
+    "longitude": -69.5978012084961,
+    "elevation_ft": 1028,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Greenville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 6000,
+      "width_ft": 1200,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 45.480201721191406,
+          "longitude": -69.61650085449219,
+          "elevation_ft": 0,
+          "heading_true": 122,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 45.47140121459961,
+          "longitude": -69.59660339355469,
+          "elevation_ft": 0,
+          "heading_true": 302,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5000,
+      "width_ft": 1000,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 45.479698181152344,
+          "longitude": -69.60359954833984,
+          "elevation_ft": 0,
+          "heading_true": 162,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 45.46670150756836,
+          "longitude": -69.59760284423828,
+          "elevation_ft": 0,
+          "heading_true": 342,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11904,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

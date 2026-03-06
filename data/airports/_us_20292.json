@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Hesperia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.377201,
+    "longitude": -117.316002,
+    "elevation_ft": 3390,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Hesperia"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hesperia_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 3910,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 34.373600006103516,
+          "longitude": -117.32099914550781,
+          "elevation_ft": 0,
+          "heading_true": 47.2,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 34.38079833984375,
+          "longitude": -117.31099700927734,
+          "elevation_ft": 0,
+          "heading_true": 227.2,
+          "displaced_threshold_ft": 550
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20292,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

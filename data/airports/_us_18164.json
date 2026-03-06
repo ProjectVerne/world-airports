@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Long Airport",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 41.227587,
+    "longitude": -86.789374,
+    "elevation_ft": 700,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "North Judson"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "IN95"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 18164,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

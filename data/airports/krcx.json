@@ -1,0 +1,93 @@
+{
+  "icao": "KRCX",
+  "iata": null,
+  "name": "Rusk County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.496799,
+    "longitude": -91.000504,
+    "elevation_ft": 1238,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Ladysmith"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rusk_County_Airport_(Wisconsin)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3199,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 45.49160004,
+          "longitude": -91.0007019,
+          "elevation_ft": 1222,
+          "heading_true": 7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 45.50030136,
+          "longitude": -90.9992981,
+          "elevation_ft": 1238,
+          "heading_true": 187,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 45.4858017,
+          "longitude": -91.00689697,
+          "elevation_ft": 1234,
+          "heading_true": 140.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 45.47740173,
+          "longitude": -90.99680328,
+          "elevation_ft": 1225,
+          "heading_true": 320.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.125
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 122.3
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

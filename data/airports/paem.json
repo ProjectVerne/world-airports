@@ -1,0 +1,82 @@
+{
+  "icao": "PAEM",
+  "iata": "EMK",
+  "name": "Emmonak Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.78609848,
+    "longitude": -164.4909973,
+    "elevation_ft": 13,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Emmonak"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Emmonak_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 4601,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 62.79240036010742,
+          "longitude": -164.49200439453125,
+          "elevation_ft": 6,
+          "heading_true": 176.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 62.77989959716797,
+          "longitude": -164.49000549316406,
+          "elevation_ft": 6,
+          "heading_true": 356.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.35
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 132.5
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "KENAI RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "OTHER",
+      "description": "TWEB",
+      "mhz": 177.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

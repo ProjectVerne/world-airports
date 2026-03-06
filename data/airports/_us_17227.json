@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Wing South Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.116538,
+    "longitude": -81.702318,
+    "elevation_ft": 9,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Naples"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4400,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 26.122800827026367,
+          "longitude": -81.7031021118164,
+          "elevation_ft": 0,
+          "heading_true": 180,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 26.11079978942871,
+          "longitude": -81.7031021118164,
+          "elevation_ft": 0,
+          "heading_true": 313.8,
+          "displaced_threshold_ft": 317
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17227,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

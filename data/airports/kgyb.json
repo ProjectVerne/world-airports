@@ -1,0 +1,74 @@
+{
+  "icao": "KGYB",
+  "iata": null,
+  "name": "Giddings-Lee County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.1693,
+    "longitude": -96.980003,
+    "elevation_ft": 485,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Giddings"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Giddings–Lee_County_Airport",
+  "keywords": [
+    "62H"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 30.174699783325195,
+          "longitude": -96.98069763183594,
+          "elevation_ft": 483,
+          "heading_true": 174.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 30.163799285888672,
+          "longitude": -96.97940063476562,
+          "elevation_ft": 438,
+          "heading_true": 354.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 132.15
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.225
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

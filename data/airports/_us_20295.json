@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Tensas Parish Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.97742,
+    "longitude": -91.240471,
+    "elevation_ft": 74,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "St Joseph"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 3509,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 32.00220108,
+          "longitude": -91.24720001,
+          "elevation_ft": 0,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 31.99279976,
+          "longitude": -91.24720001,
+          "elevation_ft": 0,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "FSS",
+      "description": "DE RIDDER RDO",
+      "mhz": 122.2
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20295,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

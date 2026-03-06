@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Noblesville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.003601074219,
+    "longitude": -85.964698791504,
+    "elevation_ft": 821,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Noblesville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Noblesville_Airport",
+  "keywords": [
+    "23II"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3580,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.003501892089844,
+          "longitude": -85.97090148925781,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 465
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.003501892089844,
+          "longitude": -85.95809936523438,
+          "elevation_ft": 0,
+          "heading_true": 359.4,
+          "displaced_threshold_ft": 110
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17673,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

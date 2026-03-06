@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Shell Creek Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.968900680541992,
+    "longitude": -81.91560363769531,
+    "elevation_ft": 20,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Punta Gorda"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2600,
+      "width_ft": 110,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 26.972200393676758,
+          "longitude": -81.91649627685547,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 600
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 26.96500015258789,
+          "longitude": -81.91619873046875,
+          "elevation_ft": 0,
+          "heading_true": 300.3,
+          "displaced_threshold_ft": 100
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17187,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

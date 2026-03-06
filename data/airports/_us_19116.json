@@ -1,0 +1,78 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Livingston Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.412102,
+    "longitude": -85.3116,
+    "elevation_ft": 1372,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Livingston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Livingston_Municipal_Airport_(Tennessee)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5153,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 36.4076004,
+          "longitude": -85.31529999,
+          "elevation_ft": 1366,
+          "heading_true": 33.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 36.41680145,
+          "longitude": -85.30780029,
+          "elevation_ft": 1372,
+          "heading_true": 213.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 126.175
+    },
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS CNTR",
+      "mhz": 121.325
+    },
+    {
+      "type": "OTHER",
+      "description": "NASHVILLE RDO",
+      "mhz": 108.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19116,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

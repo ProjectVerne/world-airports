@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "North Buffalo Suburban Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.103199,
+    "longitude": -78.7033,
+    "elevation_ft": 588,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Lockport"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Buffalo_Suburban_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 2830,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 43.10329818725586,
+          "longitude": -78.70860290527344,
+          "elevation_ft": 588,
+          "heading_true": 91,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 43.10309982299805,
+          "longitude": -78.6980972290039,
+          "elevation_ft": 588,
+          "heading_true": 271,
+          "displaced_threshold_ft": 355
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 7180,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

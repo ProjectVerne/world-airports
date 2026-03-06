@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Zortman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.91669845581055,
+    "longitude": -108.48300170898438,
+    "elevation_ft": 3900,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Zortman"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 3800,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 47.912200927734375,
+          "longitude": -108.47899627685547,
+          "elevation_ft": 0,
+          "heading_true": 144,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 47.90380096435547,
+          "longitude": -108.47000122070312,
+          "elevation_ft": 0,
+          "heading_true": 324,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 22406,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

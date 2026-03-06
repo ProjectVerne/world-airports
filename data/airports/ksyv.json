@@ -1,0 +1,67 @@
+{
+  "icao": "KSYV",
+  "iata": "SYV",
+  "name": "Sylvester Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.558500289917,
+    "longitude": -83.895698547363,
+    "elevation_ft": 403,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Sylvester"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 4525,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 31.55410004,
+          "longitude": -83.89679718,
+          "elevation_ft": 392,
+          "heading_true": 12,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 31.56290054,
+          "longitude": -83.89459991,
+          "elevation_ft": 393,
+          "heading_true": 192,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE CNTR",
+      "mhz": 125.75
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

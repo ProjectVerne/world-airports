@@ -1,0 +1,77 @@
+{
+  "icao": "KOMK",
+  "iata": "OMK",
+  "name": "Omak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.4644012451,
+    "longitude": -119.517997742,
+    "elevation_ft": 1305,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Omak"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Omak_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 4667,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 48.470699310302734,
+          "longitude": -119.51699829101562,
+          "elevation_ft": 1305,
+          "heading_true": 189,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 48.458099365234375,
+          "longitude": -119.5199966430664,
+          "elevation_ft": 1298,
+          "heading_true": 9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.325
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE CNTR",
+      "mhz": 126.1
+    },
+    {
+      "type": "FSS",
+      "description": "SEATTLE RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

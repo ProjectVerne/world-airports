@@ -1,0 +1,98 @@
+{
+  "icao": "KTWM",
+  "iata": null,
+  "name": "Richard B Helgeson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.04919815,
+    "longitude": -91.74510193,
+    "elevation_ft": 1073,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Two Harbors"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 4400,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 47.047298431396484,
+          "longitude": -91.75309753417969,
+          "elevation_ft": 1073,
+          "heading_true": 63,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 47.05289840698242,
+          "longitude": -91.73750305175781,
+          "elevation_ft": 1070,
+          "heading_true": 243,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 2581,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 47.05070114,
+          "longitude": -91.74810028,
+          "elevation_ft": 1075,
+          "heading_true": 143,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 47.04510117,
+          "longitude": -91.74199677,
+          "elevation_ft": 1040,
+          "heading_true": 323,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DULUTH APP/DEP",
+      "mhz": 125.45
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.325
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

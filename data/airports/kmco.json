@@ -1,0 +1,178 @@
+{
+  "icao": "KMCO",
+  "iata": "MCO",
+  "name": "Orlando International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.429399490356445,
+    "longitude": -81.30899810791016,
+    "elevation_ft": 96,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Orlando"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Orlando_International_Airport",
+  "keywords": [
+    "Disney World",
+    "Epcot Center"
+  ],
+  "runways": [
+    {
+      "id": "17L/35R",
+      "length_ft": 9001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17L",
+          "latitude": 28.44370079,
+          "longitude": -81.2826004,
+          "elevation_ft": 90,
+          "heading_true": 179.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35R",
+          "latitude": 28.41889954,
+          "longitude": -81.28230286,
+          "elevation_ft": 90,
+          "heading_true": 359.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17R/35L",
+      "length_ft": 10000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17R",
+          "latitude": 28.43560028076172,
+          "longitude": -81.2958984375,
+          "elevation_ft": 90,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35L",
+          "latitude": 28.408100128173828,
+          "longitude": -81.29560089111328,
+          "elevation_ft": 87,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18L/36R",
+      "length_ft": 12005,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18L",
+          "latitude": 28.448299407958984,
+          "longitude": -81.32230377197266,
+          "elevation_ft": 93,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36R",
+          "latitude": 28.415300369262695,
+          "longitude": -81.3219985961914,
+          "elevation_ft": 91,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18R/36L",
+      "length_ft": 12004,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18R",
+          "latitude": 28.448299407958984,
+          "longitude": -81.3270034790039,
+          "elevation_ft": 93,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36L",
+          "latitude": 28.415300369262695,
+          "longitude": -81.32659912109375,
+          "elevation_ft": 91,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.4
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 121.25
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 134.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "ST PETERSBURG RDO",
+      "mhz": 122.1
+    },
+    {
+      "type": "OTHER",
+      "description": "ST PETERSBURG RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.45
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

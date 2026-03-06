@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "7 Oaks Flight Park",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.9986,
+    "longitude": -81.208343,
+    "elevation_ft": 138,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Fairfax"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 2866,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 45.532798767089844,
+          "longitude": -112.3124008178711,
+          "elevation_ft": 4705,
+          "heading_true": 83,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 45.533599853515625,
+          "longitude": -112.30130004882812,
+          "elevation_ft": 4764,
+          "heading_true": 262,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 6000,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 45.544700622558594,
+          "longitude": -112.30000305175781,
+          "elevation_ft": 4789,
+          "heading_true": 182,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 45.52830123901367,
+          "longitude": -112.30059814453125,
+          "elevation_ft": 4760,
+          "heading_true": 2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 557289,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

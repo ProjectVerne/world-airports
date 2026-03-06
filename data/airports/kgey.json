@@ -1,0 +1,98 @@
+{
+  "icao": "KGEY",
+  "iata": "GEY",
+  "name": "South Big Horn County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.51679993,
+    "longitude": -108.0830002,
+    "elevation_ft": 3939,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Greybull"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 7003,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 44.526798,
+          "longitude": -108.082001,
+          "elevation_ft": 3904,
+          "heading_true": 169,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 44.5098,
+          "longitude": -108.078003,
+          "elevation_ft": 3913,
+          "heading_true": 349,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "8/26",
+      "length_ft": 6953,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "8",
+          "latitude": 44.514,
+          "longitude": -108.095001,
+          "elevation_ft": 3933,
+          "heading_true": 86,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 44.5145,
+          "longitude": -108.081001,
+          "elevation_ft": 3916,
+          "heading_true": 266,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.325
+    },
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CITY CNTR",
+      "mhz": 133.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

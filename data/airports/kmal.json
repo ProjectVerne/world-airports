@@ -1,0 +1,93 @@
+{
+  "icao": "KMAL",
+  "iata": null,
+  "name": "Malone Dufort Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.853699,
+    "longitude": -74.328903,
+    "elevation_ft": 790,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Malone"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Malone-Dufort_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3994,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 44.84749985,
+          "longitude": -74.33529663,
+          "elevation_ft": 790,
+          "heading_true": 37.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 44.85609818,
+          "longitude": -74.32579803,
+          "elevation_ft": 790,
+          "heading_true": 217.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3250,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 44.85390091,
+          "longitude": -74.3289032,
+          "elevation_ft": 0,
+          "heading_true": 128.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 44.84830093,
+          "longitude": -74.31890106,
+          "elevation_ft": 0,
+          "heading_true": 308.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BOSTON CNTR",
+      "mhz": 135.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

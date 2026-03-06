@@ -1,0 +1,100 @@
+{
+  "icao": "KRKS",
+  "iata": "RKS",
+  "name": "Southwest Wyoming Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.5942,
+    "longitude": -109.065001,
+    "elevation_ft": 6764,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Rock Springs"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rock_Springs_-_Sweetwater_County_Airport",
+  "keywords": [
+    "Rock Springs Sweetwater County"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5228,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 41.58860016,
+          "longitude": -109.072998,
+          "elevation_ft": 6730,
+          "heading_true": 45.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 41.59870148,
+          "longitude": -109.0599976,
+          "elevation_ft": 6744,
+          "heading_true": 225.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 10002,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.59769821,
+          "longitude": -109.0820007,
+          "elevation_ft": 6728,
+          "heading_true": 103.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.59140015,
+          "longitude": -109.0469971,
+          "elevation_ft": 6760,
+          "heading_true": 283.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.375
+    },
+    {
+      "type": "OTHER",
+      "description": "CASPER RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

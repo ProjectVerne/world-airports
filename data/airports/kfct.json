@@ -1,0 +1,65 @@
+{
+  "icao": "KFCT",
+  "iata": null,
+  "name": "Vagabond Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.669421,
+    "longitude": -120.455984,
+    "elevation_ft": 1378,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Yakima"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Vagabond_Army_Airfield",
+  "keywords": [
+    "Firing Center AAF",
+    "Vagabond Army Airfield"
+  ],
+  "runways": [
+    {
+      "id": "5H/23H",
+      "length_ft": 1602,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "5H",
+          "latitude": 46.665798,
+          "longitude": -120.458,
+          "elevation_ft": 0,
+          "heading_true": 65,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23H",
+          "latitude": 46.668098,
+          "longitude": -120.450996,
+          "elevation_ft": 0,
+          "heading_true": 245,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

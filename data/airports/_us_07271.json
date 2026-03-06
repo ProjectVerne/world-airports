@@ -1,0 +1,33 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Goldfield Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.722114,
+    "longitude": -117.236363,
+    "elevation_ft": 5680,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Goldfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Goldfield_Airport",
+  "keywords": [
+    "0L5",
+    "NV50"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 7271,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

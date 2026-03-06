@@ -1,0 +1,120 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Poplar Grove Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.322899,
+    "longitude": -88.836304,
+    "elevation_ft": 858,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Poplar Grove"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Poplar_Grove_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2709,
+      "width_ft": 200,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 42.323699951171875,
+          "longitude": -88.84190368652344,
+          "elevation_ft": 857,
+          "heading_true": 90.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 42.323699951171875,
+          "longitude": -88.83190155029297,
+          "elevation_ft": 849,
+          "heading_true": 270.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 3773,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 42.32400131225586,
+          "longitude": -88.84259796142578,
+          "elevation_ft": 856,
+          "heading_true": 122.5,
+          "displaced_threshold_ft": 500
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 42.31850051879883,
+          "longitude": -88.83090209960938,
+          "elevation_ft": 850,
+          "heading_true": 302.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 2467,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 42.327701568603516,
+          "longitude": -88.83529663085938,
+          "elevation_ft": 850,
+          "heading_true": 176,
+          "displaced_threshold_ft": 340
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 42.32099914550781,
+          "longitude": -88.83470153808594,
+          "elevation_ft": 849,
+          "heading_true": 356,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ROCKFORD APP/DEP",
+      "mhz": 121
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19453,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

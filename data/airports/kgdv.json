@@ -1,0 +1,98 @@
+{
+  "icao": "KGDV",
+  "iata": "GDV",
+  "name": "Dawson Community Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.137658,
+    "longitude": -104.80691,
+    "elevation_ft": 2458,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Glendive"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Dawson_Community_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 3002,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 47.13729858,
+          "longitude": -104.814003,
+          "elevation_ft": 2454,
+          "heading_true": 36,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 47.14390182,
+          "longitude": -104.8069992,
+          "elevation_ft": 2452,
+          "heading_true": 216,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 5704,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 47.14339828491211,
+          "longitude": -104.81400299072266,
+          "elevation_ft": 2456,
+          "heading_true": 136,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 47.13209915161133,
+          "longitude": -104.7979965209961,
+          "elevation_ft": 2452,
+          "heading_true": 316,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.075
+    },
+    {
+      "type": "OTHER",
+      "description": "GREAT FALLS RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

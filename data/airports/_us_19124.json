@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Clark County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.895515,
+    "longitude": -97.712273,
+    "elevation_ft": 1792,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Clark"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Clark_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 1258,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 44.89419937,
+          "longitude": -97.71549988,
+          "elevation_ft": 1788,
+          "heading_true": 43.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 44.89970016,
+          "longitude": -97.70819855,
+          "elevation_ft": 1784,
+          "heading_true": 223.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 3697,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 44.89789963,
+          "longitude": -97.71530151,
+          "elevation_ft": 1792,
+          "heading_true": 131.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 44.89110184,
+          "longitude": -97.70469666,
+          "elevation_ft": 1786,
+          "heading_true": 311.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19124,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

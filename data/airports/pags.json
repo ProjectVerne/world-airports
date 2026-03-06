@@ -1,0 +1,103 @@
+{
+  "icao": "PAGS",
+  "iata": "GST",
+  "name": "Gustavus Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.4253006,
+    "longitude": -135.7070007,
+    "elevation_ft": 35,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Gustavus"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gustavus_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 3010,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 58.420101165771484,
+          "longitude": -135.71800231933594,
+          "elevation_ft": 28,
+          "heading_true": 41,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 58.426300048828125,
+          "longitude": -135.70799255371094,
+          "elevation_ft": 30,
+          "heading_true": 221,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 6720,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 58.432701110839844,
+          "longitude": -135.7169952392578,
+          "elevation_ft": 34,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 58.419700622558594,
+          "longitude": -135.69200134277344,
+          "elevation_ft": 26,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 125.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 133.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.5
+    },
+    {
+      "type": "OTHER",
+      "description": "JUNEAU RDO",
+      "mhz": 122.65
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

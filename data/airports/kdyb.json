@@ -1,0 +1,72 @@
+{
+  "icao": "KDYB",
+  "iata": null,
+  "name": "Summerville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.0634,
+    "longitude": -80.279297,
+    "elevation_ft": 56,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Summerville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Summerville_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 33.06010056,
+          "longitude": -80.2838974,
+          "elevation_ft": 45,
+          "heading_true": 49.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 33.06679916,
+          "longitude": -80.27480316,
+          "elevation_ft": 54,
+          "heading_true": 229.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHARLESTON APP/DEP",
+      "mhz": 120.7
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.575
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

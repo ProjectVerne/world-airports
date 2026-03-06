@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Oceano County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.101398,
+    "longitude": -120.622002,
+    "elevation_ft": 15,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Oceano"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Oceano_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 2325,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 35.10329818725586,
+          "longitude": -120.6259994506836,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 35.099700927734375,
+          "longitude": -120.61900329589844,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS-3",
+      "mhz": 118.375
+    },
+    {
+      "type": "CTAF",
+      "description": "Oceano Traffic",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21453,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

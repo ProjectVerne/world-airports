@@ -1,0 +1,69 @@
+{
+  "icao": "KBKN",
+  "iata": null,
+  "name": "Blackwell Tonkawa Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.745098,
+    "longitude": -97.349602,
+    "elevation_ft": 1030,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Blackwell"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Blackwell%E2%80%93Tonkawa_Municipal_Airport",
+  "keywords": [
+    "Formerly 4O3"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3501,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 36.74990082,
+          "longitude": -97.34960175,
+          "elevation_ft": 1026,
+          "heading_true": 179.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 36.74029922,
+          "longitude": -97.34960175,
+          "elevation_ft": 1006,
+          "heading_true": 359.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 127.8
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

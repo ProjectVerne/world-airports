@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Oceana County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.641701,
+    "longitude": -86.329201,
+    "elevation_ft": 910,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Hart/Shelby"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Oceana_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 43.640499114990234,
+          "longitude": -86.33560180664062,
+          "elevation_ft": 902,
+          "heading_true": 76,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 43.64289855957031,
+          "longitude": -86.32279968261719,
+          "elevation_ft": 889,
+          "heading_true": 256,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 2251,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 43.64390182,
+          "longitude": -86.3321991,
+          "elevation_ft": 910,
+          "heading_true": 136,
+          "displaced_threshold_ft": 375
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 43.63949966,
+          "longitude": -86.32630157,
+          "elevation_ft": 910,
+          "heading_true": 316,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19434,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

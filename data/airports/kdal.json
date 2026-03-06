@@ -1,0 +1,151 @@
+{
+  "icao": "KDAL",
+  "iata": "DAL",
+  "name": "Dallas Love Field",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.844776,
+    "longitude": -96.847653,
+    "elevation_ft": 487,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dallas"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Dallas_Love_Field",
+  "keywords": [
+    "QDF"
+  ],
+  "runways": [
+    {
+      "id": "13L/31R",
+      "length_ft": 7752,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13L",
+          "latitude": 32.8572998046875,
+          "longitude": -96.85679626464844,
+          "elevation_ft": 477,
+          "heading_true": 135.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31R",
+          "latitude": 32.84199905395508,
+          "longitude": -96.83910369873047,
+          "elevation_ft": 487,
+          "heading_true": 315.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13R/31L",
+      "length_ft": 8800,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13R",
+          "latitude": 32.85129928588867,
+          "longitude": -96.8635025024414,
+          "elevation_ft": 476,
+          "heading_true": 135.6,
+          "displaced_threshold_ft": 490
+        },
+        "high": {
+          "ident": "31L",
+          "latitude": 32.83399963378906,
+          "longitude": -96.84339904785156,
+          "elevation_ft": 476,
+          "heading_true": 315.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6147,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.858699798583984,
+          "longitude": -96.85320281982422,
+          "elevation_ft": 480,
+          "heading_true": 186,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.841800689697266,
+          "longitude": -96.8551025390625,
+          "elevation_ft": 482,
+          "heading_true": 6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "RGNL APP",
+      "mhz": 124.3
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 120.15
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 127.9
+    },
+    {
+      "type": "DEP",
+      "description": "RGNL DEP",
+      "mhz": 118.55
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.75
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "TWR",
+      "description": "LOVE TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

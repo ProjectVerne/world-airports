@@ -1,0 +1,113 @@
+{
+  "icao": "KAVP",
+  "iata": "AVP",
+  "name": "Wilkes-Barre/Scranton International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.337064,
+    "longitude": -75.724232,
+    "elevation_ft": 962,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Wilkes-Barre/Scranton"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wilkes-Barre/Scranton_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 7502,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 41.32870102,
+          "longitude": -75.73149872,
+          "elevation_ft": 962,
+          "heading_true": 33,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 41.34600067,
+          "longitude": -75.71679688,
+          "elevation_ft": 912,
+          "heading_true": 213,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 4300,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 41.340599060058594,
+          "longitude": -75.72989654541016,
+          "elevation_ft": 922,
+          "heading_true": 92,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 41.340301513671875,
+          "longitude": -75.71420288085938,
+          "elevation_ft": 935,
+          "heading_true": 272,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 124.5
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 111.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "WILLIAMSPORT RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

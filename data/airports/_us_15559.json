@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Sebewaing Township Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.729863,
+    "longitude": -83.463875,
+    "elevation_ft": 584,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Sebewaing"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 2150,
+      "width_ft": 130,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 43.727901458740234,
+          "longitude": -83.46549987792969,
+          "elevation_ft": 584,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 43.730098724365234,
+          "longitude": -83.45960235595703,
+          "elevation_ft": 584,
+          "heading_true": 330,
+          "displaced_threshold_ft": 483
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2178,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 43.732398986816406,
+          "longitude": -83.4625015258789,
+          "elevation_ft": 584,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 43.72639846801758,
+          "longitude": -83.46189880371094,
+          "elevation_ft": 584,
+          "heading_true": 326.1,
+          "displaced_threshold_ft": 245
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 15559,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

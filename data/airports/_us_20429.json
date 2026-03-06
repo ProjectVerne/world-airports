@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Frank Federer Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.88029861450195,
+    "longitude": -91.17639923095703,
+    "elevation_ft": 194,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Brinkley"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 4002,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 34.87530136,
+          "longitude": -91.1792984,
+          "elevation_ft": 194,
+          "heading_true": 27,
+          "displaced_threshold_ft": 250
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 34.8852005,
+          "longitude": -91.17350006,
+          "elevation_ft": 190,
+          "heading_true": 207,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 135.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20429,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

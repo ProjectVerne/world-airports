@@ -1,0 +1,139 @@
+{
+  "icao": "KGSO",
+  "iata": "GSO",
+  "name": "Piedmont Triad International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.09937,
+    "longitude": -79.937262,
+    "elevation_ft": 925,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Greensboro"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Piedmont_Triad_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05L/23R",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05L",
+          "latitude": 36.099300384521484,
+          "longitude": -79.95909881591797,
+          "elevation_ft": 916,
+          "heading_true": 46,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23R",
+          "latitude": 36.11640167236328,
+          "longitude": -79.93710327148438,
+          "elevation_ft": 856,
+          "heading_true": 226,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "05R/23L",
+      "length_ft": 10001,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05R",
+          "latitude": 36.091099,
+          "longitude": -79.944702,
+          "elevation_ft": 900,
+          "heading_true": 46,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23L",
+          "latitude": 36.1101,
+          "longitude": -79.920303,
+          "elevation_ft": 886,
+          "heading_true": 226,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 6380,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 36.0994987487793,
+          "longitude": -79.95240020751953,
+          "elevation_ft": 926,
+          "heading_true": 135.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 36.087100982666016,
+          "longitude": -79.93720245361328,
+          "elevation_ft": 900,
+          "heading_true": 315.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 118.5
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 128.55
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.75
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "icao": "KETC",
+  "iata": null,
+  "name": "Tarboro Edgecombe Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.93709945678711,
+    "longitude": -77.54660034179688,
+    "elevation_ft": 53,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Tarboro"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3999,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 35.93669891,
+          "longitude": -77.55319977,
+          "elevation_ft": 53,
+          "heading_true": 83.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 35.93790054,
+          "longitude": -77.53980255,
+          "elevation_ft": 45,
+          "heading_true": 263.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "WASHINGTON APP/DEP",
+      "mhz": 135.3
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

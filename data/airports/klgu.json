@@ -1,0 +1,124 @@
+{
+  "icao": "KLGU",
+  "iata": "LGU",
+  "name": "Logan-Cache Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.7911987305,
+    "longitude": -111.851997375,
+    "elevation_ft": 4457,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Logan"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Logan-Cache_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5007,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 41.783199310302734,
+          "longitude": -111.86599731445312,
+          "elevation_ft": 4438,
+          "heading_true": 64.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 41.78919982910156,
+          "longitude": -111.8489990234375,
+          "elevation_ft": 4445,
+          "heading_true": 244.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 4075,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 41.79100036621094,
+          "longitude": -111.86499786376953,
+          "elevation_ft": 4440,
+          "heading_true": 122,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 41.783599853515625,
+          "longitude": -111.8499984741211,
+          "elevation_ft": 4452,
+          "heading_true": 302,
+          "displaced_threshold_ft": 215
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 9020,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 41.80580139,
+          "longitude": -111.8479996,
+          "elevation_ft": 4457,
+          "heading_true": 183,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 41.78089905,
+          "longitude": -111.848999,
+          "elevation_ft": 4457,
+          "heading_true": 3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.275
+    },
+    {
+      "type": "OTHER",
+      "description": "CEDAR CITY RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

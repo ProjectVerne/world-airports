@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Hysham Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.293483,
+    "longitude": -107.193649,
+    "elevation_ft": 2624,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Hysham"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3060,
+      "width_ft": 45,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 46.28919982910156,
+          "longitude": -107.2020034790039,
+          "elevation_ft": 0,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 46.28919982910156,
+          "longitude": -107.19000244140625,
+          "elevation_ft": 0,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19014,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

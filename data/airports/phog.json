@@ -1,0 +1,123 @@
+{
+  "icao": "PHOG",
+  "iata": "OGG",
+  "name": "Kahului International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.896263,
+    "longitude": -156.431837,
+    "elevation_ft": 54,
+    "continent": "OC",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Kahului"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Kahului_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 6998,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 20.88909912,
+          "longitude": -156.4360046,
+          "elevation_ft": 54,
+          "heading_true": 35,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 20.9048996,
+          "longitude": -156.4250031,
+          "elevation_ft": 12,
+          "heading_true": 215,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "05/23",
+      "length_ft": 4980,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 20.89800072,
+          "longitude": -156.4369965,
+          "elevation_ft": 20,
+          "heading_true": 56,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 20.90379906,
+          "longitude": -156.423996,
+          "elevation_ft": 16,
+          "heading_true": 236,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MAUI APP/DEP",
+      "mhz": 119.5
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 128.6
+    },
+    {
+      "type": "OTHER",
+      "description": "MAUI CLNC DEL",
+      "mhz": 120.6
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "MAUI RDO",
+      "mhz": 123.6
+    },
+    {
+      "type": "TWR",
+      "description": "MAUI TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

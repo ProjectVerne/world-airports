@@ -1,0 +1,56 @@
+{
+  "icao": "KXSA",
+  "iata": null,
+  "name": "Tappahannock-Essex County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.8596,
+    "longitude": -76.894096,
+    "elevation_ft": 135,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Tappahannock"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tappahannock-Essex_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 4300,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 37.85919952392578,
+          "longitude": -76.90149688720703,
+          "elevation_ft": 135,
+          "heading_true": 86,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 37.86009979248047,
+          "longitude": -76.88670349121094,
+          "elevation_ft": 128,
+          "heading_true": 266,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

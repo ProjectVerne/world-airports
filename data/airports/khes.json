@@ -1,0 +1,31 @@
+{
+  "icao": "KHES",
+  "iata": null,
+  "name": "Healdsburg Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.6534996033,
+    "longitude": -122.899002075,
+    "elevation_ft": 278,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Healdsburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Healdsburg_Municipal_Airport",
+  "keywords": [
+    "Formerly O31"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

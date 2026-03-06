@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Ridgeland-Claude Dean Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.492699,
+    "longitude": -80.992302,
+    "elevation_ft": 79,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Ridgeland"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ridgeland_Airport",
+  "keywords": [
+    "Ridgeland Airport"
+  ],
+  "runways": [
+    {
+      "id": "36/18",
+      "length_ft": 4200,
+      "width_ft": 7075,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "36",
+          "latitude": 32.489498138427734,
+          "longitude": -80.99449920654297,
+          "elevation_ft": 65,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "18",
+          "latitude": 32.49589920043945,
+          "longitude": -80.99019622802734,
+          "elevation_ft": 76,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18708,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

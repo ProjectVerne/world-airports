@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": "GCW",
+  "name": "Grand Canyon West Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.985787,
+    "longitude": -113.817072,
+    "elevation_ft": 4825,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Peach Springs"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Grand_Canyon_West_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 35.99039841,
+          "longitude": -113.8160019,
+          "elevation_ft": 4762,
+          "heading_true": 185,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 35.97650146,
+          "longitude": -113.8180008,
+          "elevation_ft": 4825,
+          "heading_true": 209,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18468,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "icao": "KUCP",
+  "iata": null,
+  "name": "New Castle Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.02529907,
+    "longitude": -80.41339874,
+    "elevation_ft": 1070,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "New Castle"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Castle_Municipal_Airport",
+  "keywords": [
+    "2G7"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3995,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 41.02249908,
+          "longitude": -80.41809845,
+          "elevation_ft": 1023,
+          "heading_true": 39.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 41.03089905,
+          "longitude": -80.4088974,
+          "elevation_ft": 997,
+          "heading_true": 219.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 2855,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 41.02529907,
+          "longitude": -80.41790009,
+          "elevation_ft": 1016,
+          "heading_true": 118.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 41.02149963,
+          "longitude": -80.4088974,
+          "elevation_ft": 1072,
+          "heading_true": 298.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "YOUNGSTOWN APP/DEP",
+      "mhz": 133.95
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 124.175
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

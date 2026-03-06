@@ -1,0 +1,123 @@
+{
+  "icao": "KDHN",
+  "iata": "DHN",
+  "name": "Dothan Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.321300506591797,
+    "longitude": -85.44960021972656,
+    "elevation_ft": 401,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Dothan"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Dothan_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 8500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 31.33060074,
+          "longitude": -85.46160126,
+          "elevation_ft": 401,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 31.31410027,
+          "longitude": -85.44239807,
+          "elevation_ft": 382,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5501,
+      "width_ft": 102,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 31.3265,
+          "longitude": -85.445602,
+          "elevation_ft": 395,
+          "heading_true": 180,
+          "displaced_threshold_ft": 100
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 31.312799,
+          "longitude": -85.445602,
+          "elevation_ft": 378,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CAIRNS APP/DEP",
+      "mhz": 125.4
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 135.72
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.4
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "VFR ADVSY SVC",
+      "mhz": 118.4
+    },
+    {
+      "type": "OTHER",
+      "description": "ANNISTON RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.4
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

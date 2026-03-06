@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Flying W Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.934299,
+    "longitude": -74.807297,
+    "elevation_ft": 49,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Lumberton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Flying_W_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3496,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 39.9286003112793,
+          "longitude": -74.80750274658203,
+          "elevation_ft": 34,
+          "heading_true": 7.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 39.9380989074707,
+          "longitude": -74.80580139160156,
+          "elevation_ft": 49,
+          "heading_true": 187.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MC QUIRE APP/DEP",
+      "mhz": 124.15
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 121.725
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20600,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

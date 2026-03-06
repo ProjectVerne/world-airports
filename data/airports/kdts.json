@@ -1,0 +1,80 @@
+{
+  "icao": "KDTS",
+  "iata": "DSI",
+  "name": "Destin Executive Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.400101,
+    "longitude": -86.471497,
+    "elevation_ft": 23,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Destin"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Destin-Fort_Walton_Beach_Airport",
+  "keywords": [
+    "81J",
+    "Destin-Fort Walton Beach Airport"
+  ],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 30.4055,
+          "longitude": -86.476303,
+          "elevation_ft": 22,
+          "heading_true": 142,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 30.3946,
+          "longitude": -86.466599,
+          "elevation_ft": 21,
+          "heading_true": 322,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "EGLIN APP/DEP",
+      "mhz": 132.1
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 133.925
+    },
+    {
+      "type": "OTHER",
+      "description": "EGLIN CLNC DEL",
+      "mhz": 121.6
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123.075
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

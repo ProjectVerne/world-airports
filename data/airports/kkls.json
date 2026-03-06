@@ -1,0 +1,80 @@
+{
+  "icao": "KKLS",
+  "iata": "KLS",
+  "name": "Southwest Washington Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.11800003049999,
+    "longitude": -122.898002625,
+    "elevation_ft": 20,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Kelso"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Southwest_Washington_Regional_Airport",
+  "keywords": [
+    "Molt Taylor Field",
+    "Kelso-Longview Regional"
+  ],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4391,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 46.12260055541992,
+          "longitude": -122.90399932861328,
+          "elevation_ft": 20,
+          "heading_true": 140,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 46.113399505615234,
+          "longitude": -122.89299774169922,
+          "elevation_ft": 16,
+          "heading_true": 320,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.075
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE CNTR",
+      "mhz": 124.2
+    },
+    {
+      "type": "FSS",
+      "description": "SEATTLE RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

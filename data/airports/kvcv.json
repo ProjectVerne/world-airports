@@ -1,0 +1,106 @@
+{
+  "icao": "KVCV",
+  "iata": "VCV",
+  "name": "Southern California Logistics Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.597499847399995,
+    "longitude": -117.383003235,
+    "elevation_ft": 2885,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Victorville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Southern_California_Logistics_Airport",
+  "keywords": [
+    "George AFB",
+    "Victorville Airport"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 9138,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 34.582698822021484,
+          "longitude": -117.38800048828125,
+          "elevation_ft": 2878,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 34.60060119628906,
+          "longitude": -117.36599731445312,
+          "elevation_ft": 2844,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 13052,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 34.62170029,
+          "longitude": -117.387001,
+          "elevation_ft": 2828,
+          "heading_true": 180,
+          "displaced_threshold_ft": 4000
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 34.58029938,
+          "longitude": -117.3860016,
+          "elevation_ft": 2885,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JOSHUA APP/DEP",
+      "mhz": 124.55
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 109.4
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 124.45
+    },
+    {
+      "type": "TWR",
+      "description": "VICTORVILLE TWR",
+      "mhz": 118.35
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

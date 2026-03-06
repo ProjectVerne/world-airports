@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Ranchaero Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.719601,
+    "longitude": -121.871002,
+    "elevation_ft": 173,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Chico"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ranchaero_Airport",
+  "keywords": [
+    "Formerly O23"
+  ],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 2156,
+      "width_ft": 30,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 39.722198486328125,
+          "longitude": -121.87200164794922,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 39.71689987182617,
+          "longitude": -121.86900329589844,
+          "elevation_ft": 172,
+          "heading_true": 312,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 16775,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

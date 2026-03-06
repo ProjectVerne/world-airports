@@ -1,0 +1,149 @@
+{
+  "icao": "KMLU",
+  "iata": "MLU",
+  "name": "Monroe Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.510899,
+    "longitude": -92.037697,
+    "elevation_ft": 79,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Monroe"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Monroe_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 7504,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 32.50370026,
+          "longitude": -92.04550171,
+          "elevation_ft": 76,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 32.5182991,
+          "longitude": -92.02829742,
+          "elevation_ft": 75,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 6301,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 32.51639938,
+          "longitude": -92.04149628,
+          "elevation_ft": 79,
+          "heading_true": 140,
+          "displaced_threshold_ft": 301
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 32.50579834,
+          "longitude": -92.03109741,
+          "elevation_ft": 76,
+          "heading_true": 320,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.5168,
+          "longitude": -92.039803,
+          "elevation_ft": 79,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.503101,
+          "longitude": -92.039803,
+          "elevation_ft": 76,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 118.15
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.05
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.65
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.9
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "DE RIDDER RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

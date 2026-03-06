@@ -1,0 +1,122 @@
+{
+  "icao": "KSUX",
+  "iata": "SUX",
+  "name": "Sioux Gateway Airport / Brigadier General Bud Day Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.397605,
+    "longitude": -96.382237,
+    "elevation_ft": 1098,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Sioux City"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sioux_Gateway_Airport",
+  "keywords": [
+    "Col. Bud Day",
+    "Sioux City AB",
+    "Sioux City AAB"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 9002,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 42.40919876098633,
+          "longitude": -96.39769744873047,
+          "elevation_ft": 1093,
+          "heading_true": 136,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 42.39149856567383,
+          "longitude": -96.37439727783203,
+          "elevation_ft": 1093,
+          "heading_true": 316,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 6600,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 42.41469955444336,
+          "longitude": -96.38189697265625,
+          "elevation_ft": 1097,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 42.39659881591797,
+          "longitude": -96.3822021484375,
+          "elevation_ft": 1095,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SIOUX CITY APP/DEP",
+      "mhz": 124.6
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.45
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT DODGE RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "TWR",
+      "description": "SIOUX CITY TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

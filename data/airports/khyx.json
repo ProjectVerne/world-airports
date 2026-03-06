@@ -1,0 +1,103 @@
+{
+  "icao": "KHYX",
+  "iata": null,
+  "name": "Saginaw County H.W. Browne Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.433399,
+    "longitude": -83.862297,
+    "elevation_ft": 601,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Saginaw"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Saginaw_County_H.W._Browne_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2952,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 43.42959976,
+          "longitude": -83.86589813,
+          "elevation_ft": 599,
+          "heading_true": 44,
+          "displaced_threshold_ft": 120
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 43.43529892,
+          "longitude": -83.85829926,
+          "elevation_ft": 597,
+          "heading_true": 224,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 5002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 43.433899,
+          "longitude": -83.871902,
+          "elevation_ft": 599,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 43.433899,
+          "longitude": -83.853104,
+          "elevation_ft": 598,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 120.95
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.325
+    },
+    {
+      "type": "OTHER",
+      "description": "LANSING RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

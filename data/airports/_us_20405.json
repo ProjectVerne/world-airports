@@ -1,0 +1,78 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Covington Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.583401,
+    "longitude": -89.587196,
+    "elevation_ft": 280,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Covington"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Covington_Municipal_Airport_(Tennessee)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5003,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 35.57659912,
+          "longitude": -89.58850098,
+          "elevation_ft": 280,
+          "heading_true": 9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 35.59019852,
+          "longitude": -89.58589935,
+          "elevation_ft": 272,
+          "heading_true": 189,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "MEMPHIS APP",
+      "mhz": 120.07
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.575
+    },
+    {
+      "type": "DEP",
+      "description": "MEMPHIS DEP",
+      "mhz": 124.15
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20405,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

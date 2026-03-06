@@ -1,0 +1,72 @@
+{
+  "icao": "KADC",
+  "iata": null,
+  "name": "Wadena Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.450298,
+    "longitude": -95.210999,
+    "elevation_ft": 1369,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Wadena"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wadena_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 4007,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 46.45550156,
+          "longitude": -95.21330261,
+          "elevation_ft": 1369,
+          "heading_true": 163.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 46.44499969,
+          "longitude": -95.20860291,
+          "elevation_ft": 1357,
+          "heading_true": 343.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 128.325
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 126.1
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

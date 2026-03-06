@@ -1,0 +1,52 @@
+{
+  "icao": "KECP",
+  "iata": "ECP",
+  "name": "Northwest Florida Beaches International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.357106,
+    "longitude": -85.795414,
+    "elevation_ft": 69,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Panama City Beach"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Northwest_Florida_Beaches_International_Airport",
+  "keywords": [
+    "Northwest Florida Beaches International Airport"
+  ],
+  "runways": [],
+  "frequencies": [
+    {
+      "type": "ATIS",
+      "description": "",
+      "mhz": 119.975
+    },
+    {
+      "type": "CTAF",
+      "description": "",
+      "mhz": 118.95
+    },
+    {
+      "type": "GND",
+      "description": "Panama City Ground",
+      "mhz": 121.65
+    },
+    {
+      "type": "TWR",
+      "description": "Panama City Tower",
+      "mhz": 118.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

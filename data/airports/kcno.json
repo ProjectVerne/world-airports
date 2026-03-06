@@ -1,0 +1,139 @@
+{
+  "icao": "KCNO",
+  "iata": "CNO",
+  "name": "Chino Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.97470093,
+    "longitude": -117.637001,
+    "elevation_ft": 650,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Chino"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chino_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4919,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 33.96870041,
+          "longitude": -117.6429977,
+          "elevation_ft": 604,
+          "heading_true": 44.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 33.98099899,
+          "longitude": -117.6289978,
+          "elevation_ft": 652,
+          "heading_true": 224.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08L/26R",
+      "length_ft": 4858,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08L",
+          "latitude": 33.97570037841797,
+          "longitude": -117.64600372314453,
+          "elevation_ft": 617,
+          "heading_true": 89.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26R",
+          "latitude": 33.975799560546875,
+          "longitude": -117.62999725341797,
+          "elevation_ft": 636,
+          "heading_true": 269.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08R/26L",
+      "length_ft": 7000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08R",
+          "latitude": 33.9734992980957,
+          "longitude": -117.64700317382812,
+          "elevation_ft": 620,
+          "heading_true": 89.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26L",
+          "latitude": 33.97370147705078,
+          "longitude": -117.6240005493164,
+          "elevation_ft": 637,
+          "heading_true": 269.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOCAL APP/DEP",
+      "mhz": 135.4
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.85
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Miami Roberts County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.71390151977539,
+    "longitude": -100.60299682617188,
+    "elevation_ft": 2720,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Miami"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 4060,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 35.70920181274414,
+          "longitude": -100.60700225830078,
+          "elevation_ft": 2720,
+          "heading_true": 34,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 35.718299865722656,
+          "longitude": -100.5989990234375,
+          "elevation_ft": 2716,
+          "heading_true": 214,
+          "displaced_threshold_ft": 390
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE CNTR",
+      "mhz": 132.65
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18683,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

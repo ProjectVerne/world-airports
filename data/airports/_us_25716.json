@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Rocket City Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.32310104370117,
+    "longitude": -88.60079956054688,
+    "elevation_ft": 905,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Hortonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 1850,
+      "width_ft": 60,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 44.32310104370117,
+          "longitude": -88.60440063476562,
+          "elevation_ft": 0,
+          "heading_true": 90.3,
+          "displaced_threshold_ft": 650
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 44.323001861572266,
+          "longitude": -88.59729766845703,
+          "elevation_ft": 0,
+          "heading_true": 270.3,
+          "displaced_threshold_ft": 650
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 2000,
+      "width_ft": 45,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 44.32350159,
+          "longitude": -88.604599,
+          "elevation_ft": 0,
+          "heading_true": 105.5,
+          "displaced_threshold_ft": 135
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 44.3219986,
+          "longitude": -88.5970993,
+          "elevation_ft": 0,
+          "heading_true": 285.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 25716,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "icao": "KBVI",
+  "iata": "BFP",
+  "name": "Beaver County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.772499,
+    "longitude": -80.391403,
+    "elevation_ft": 1253,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Beaver Falls"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Beaver_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 4501,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 40.77289962768555,
+          "longitude": -80.39949798583984,
+          "elevation_ft": 1204,
+          "heading_true": 93.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 40.772098541259766,
+          "longitude": -80.38330078125,
+          "elevation_ft": 1253,
+          "heading_true": 273.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PITTSBURGH APP/DEP",
+      "mhz": 124.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.35
+    },
+    {
+      "type": "OTHER",
+      "description": "PITTSBURGH CLNC DEL",
+      "mhz": 124.85
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "ALTOONA RDO",
+      "mhz": 115.8
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.3
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

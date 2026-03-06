@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Lodi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.20240021,
+    "longitude": -121.2679977,
+    "elevation_ft": 60,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Lodi"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 3547,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 38.2030983,
+          "longitude": -121.276001,
+          "elevation_ft": 60,
+          "heading_true": 92,
+          "displaced_threshold_ft": 615
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 38.20270157,
+          "longitude": -121.2630005,
+          "elevation_ft": 54,
+          "heading_true": 272,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 1979,
+      "width_ft": 25,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 38.20370102,
+          "longitude": -121.2699966,
+          "elevation_ft": 59,
+          "heading_true": 135,
+          "displaced_threshold_ft": 277
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 38.1996994,
+          "longitude": -121.2649994,
+          "elevation_ft": 58,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORCAL APP/DEP",
+      "mhz": 125.1
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18502,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

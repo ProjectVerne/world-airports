@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Oxford County Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.157398,
+    "longitude": -70.4813,
+    "elevation_ft": 346,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Oxford"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Oxford_County_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 2997,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 44.16019821166992,
+          "longitude": -70.48560333251953,
+          "elevation_ft": 345,
+          "heading_true": 132,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 44.154701232910156,
+          "longitude": -70.47699737548828,
+          "elevation_ft": 337,
+          "heading_true": 312,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PORTLAND APP/DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19096,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "icao": "KCDN",
+  "iata": "CDN",
+  "name": "Woodward Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.2835998535,
+    "longitude": -80.56490325930001,
+    "elevation_ft": 302,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Camden"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Woodward_Field_(airport)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 34.27920150756836,
+          "longitude": -80.57140350341797,
+          "elevation_ft": 286,
+          "heading_true": 51.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 34.28770065307617,
+          "longitude": -80.55840301513672,
+          "elevation_ft": 297,
+          "heading_true": 231.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 2998,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 34.28670120239258,
+          "longitude": -80.56829833984375,
+          "elevation_ft": 298,
+          "heading_true": 134.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 34.28089904785156,
+          "longitude": -80.5613021850586,
+          "elevation_ft": 300,
+          "heading_true": 314.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SHAW APP/DEP",
+      "mhz": 125.4
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.975
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

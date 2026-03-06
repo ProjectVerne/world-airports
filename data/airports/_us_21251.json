@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Perkins Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.56800079345703,
+    "longitude": -114.44300079345703,
+    "elevation_ft": 1358,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Overton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Perkins_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 4800,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 36.57360076904297,
+          "longitude": -114.4469985961914,
+          "elevation_ft": 0,
+          "heading_true": 150.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 36.5619010925293,
+          "longitude": -114.43900299072266,
+          "elevation_ft": 0,
+          "heading_true": 330.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21251,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

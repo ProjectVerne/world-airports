@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Holiday Airport",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 44.569801,
+    "longitude": -123.170998,
+    "elevation_ft": 225,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Corvallis"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "OR56"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23906,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

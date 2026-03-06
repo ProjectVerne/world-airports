@@ -1,0 +1,67 @@
+{
+  "icao": "KMVM",
+  "iata": null,
+  "name": "Machias Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.70309829711914,
+    "longitude": -67.47859954833984,
+    "elevation_ft": 96,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Machias"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Machias_Valley_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2880,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 44.70679855,
+          "longitude": -67.48079681,
+          "elevation_ft": 96,
+          "heading_true": 157.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 44.69940186,
+          "longitude": -67.47640228,
+          "elevation_ft": 70,
+          "heading_true": 337.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BOSTON CNTR",
+      "mhz": 124.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

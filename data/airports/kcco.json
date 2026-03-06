@@ -1,0 +1,77 @@
+{
+  "icao": "KCCO",
+  "iata": null,
+  "name": "Newnan Coweta County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.3116,
+    "longitude": -84.769798,
+    "elevation_ft": 970,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Newnan"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Newnan%E2%80%93Coweta_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 5500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 33.317298889160156,
+          "longitude": -84.77559661865234,
+          "elevation_ft": 970,
+          "heading_true": 142,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 33.30580139160156,
+          "longitude": -84.76390075683594,
+          "elevation_ft": 934,
+          "heading_true": 322,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 119.8
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.975
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

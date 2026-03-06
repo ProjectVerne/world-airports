@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Kent County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.2293014526,
+    "longitude": -100.569000244,
+    "elevation_ft": 2006,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Jayton"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "JYC"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3300,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.23379898071289,
+          "longitude": -100.56900024414062,
+          "elevation_ft": 2006,
+          "heading_true": 176.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.224700927734375,
+          "longitude": -100.56800079345703,
+          "elevation_ft": 1988,
+          "heading_true": 178.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18534,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

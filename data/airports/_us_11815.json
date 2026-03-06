@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Raether Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.56529998779297,
+    "longitude": -83.85649871826172,
+    "elevation_ft": 982,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Howell"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 2206,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 42.56809997558594,
+          "longitude": -83.8573989868164,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 540
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 42.56230163574219,
+          "longitude": -83.8552017211914,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 553
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11815,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

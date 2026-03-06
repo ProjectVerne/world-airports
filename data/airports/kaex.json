@@ -1,0 +1,116 @@
+{
+  "icao": "KAEX",
+  "iata": "AEX",
+  "name": "Alexandria International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.325828,
+    "longitude": -92.546702,
+    "elevation_ft": 89,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Alexandria"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Alexandria_International_Airport_(Louisiana)",
+  "keywords": [
+    "England Air Park",
+    "England Air Force Base"
+  ],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 9352,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 31.337900161743164,
+          "longitude": -92.55919647216797,
+          "elevation_ft": 84,
+          "heading_true": 144,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 31.317100524902344,
+          "longitude": -92.5416030883789,
+          "elevation_ft": 89,
+          "heading_true": 324,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 7001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 31.336700439453125,
+          "longitude": -92.54429626464844,
+          "elevation_ft": 84,
+          "heading_true": 189,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 31.317699432373047,
+          "longitude": -92.54779815673828,
+          "elevation_ft": 87,
+          "heading_true": 9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POLK APP/DEP",
+      "mhz": 132.05
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 123.975
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.9
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 127.35
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 127.35
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "icao": "KLRU",
+  "iata": "LRU",
+  "name": "Las Cruces International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.289398,
+    "longitude": -106.921997,
+    "elevation_ft": 4456,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Las Cruces"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Las_Cruces_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 7501,
+      "width_ft": 105,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 32.284599,
+          "longitude": -106.931999,
+          "elevation_ft": 4436,
+          "heading_true": 55,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 32.296501,
+          "longitude": -106.912003,
+          "elevation_ft": 4452,
+          "heading_true": 235,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 6069,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 32.28499984741211,
+          "longitude": -106.93199920654297,
+          "elevation_ft": 4437,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 32.28499984741211,
+          "longitude": -106.91300201416016,
+          "elevation_ft": 4436,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 7506,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 32.29919815,
+          "longitude": -106.9300003,
+          "elevation_ft": 4456,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 32.2845993,
+          "longitude": -106.913002,
+          "elevation_ft": 4436,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.025
+    },
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE CNTR",
+      "mhz": 128.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

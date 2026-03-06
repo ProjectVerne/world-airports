@@ -1,0 +1,108 @@
+{
+  "icao": "KMXF",
+  "iata": "MXF",
+  "name": "Maxwell Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.3829,
+    "longitude": -86.365799,
+    "elevation_ft": 171,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Montgomery"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Maxwell_Air_Force_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "009/189",
+      "length_ft": 3015,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "009",
+          "latitude": 32.381401,
+          "longitude": -86.363899,
+          "elevation_ft": 0,
+          "heading_true": 7,
+          "displaced_threshold_ft": 172
+        },
+        "high": {
+          "ident": "189",
+          "latitude": 32.389702,
+          "longitude": -86.364799,
+          "elevation_ft": 0,
+          "heading_true": 187,
+          "displaced_threshold_ft": 167
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 8008,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 32.39139938,
+          "longitude": -86.37310028,
+          "elevation_ft": 171,
+          "heading_true": 148,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 32.37260056,
+          "longitude": -86.35949707,
+          "elevation_ft": 167,
+          "heading_true": 328,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MONTGOMERY APP/DEP",
+      "mhz": 121.2
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 134.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 127.15
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 122.85
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.15
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "icao": "KJPX",
+  "iata": "HTO",
+  "name": "Town of East Hampton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.959954,
+    "longitude": -72.25105,
+    "elevation_ft": 55,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "East Hampton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/East_Hampton_Airport",
+  "keywords": [
+    "KHTO",
+    "HTO"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

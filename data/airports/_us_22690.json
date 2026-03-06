@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Alexandria Field Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.587552,
+    "longitude": -75.018382,
+    "elevation_ft": 480,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Pittstown"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Alexandria_Airport_(New_Jersey)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2550,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 40.58570098876953,
+          "longitude": -75.02349853515625,
+          "elevation_ft": 480,
+          "heading_true": 64,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 40.58869934082031,
+          "longitude": -75.01519775390625,
+          "elevation_ft": 480,
+          "heading_true": 244,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 1804,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 40.58919906616211,
+          "longitude": -75.02239990234375,
+          "elevation_ft": 444,
+          "heading_true": 118,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 40.58689880371094,
+          "longitude": -75.0167007446289,
+          "elevation_ft": 459,
+          "heading_true": 298,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 22690,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

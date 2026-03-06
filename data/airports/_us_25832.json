@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "McLaughlin Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.1106,
+    "longitude": -123.323996,
+    "elevation_ft": 200,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Port Angeles"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Thompson Heliport"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 25832,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "El Coyote Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.85840034,
+    "longitude": -98.22200012,
+    "elevation_ft": 196,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Encino"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5499,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 26.86440086,
+          "longitude": -98.228302,
+          "elevation_ft": 196,
+          "heading_true": 133,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 26.85420036,
+          "longitude": -98.21579742,
+          "elevation_ft": 173,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR",
+      "mhz": 126.625
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 9774,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "icao": "KBFD",
+  "iata": "BFD",
+  "name": "Bradford Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.8031005859375,
+    "longitude": -78.64009857177734,
+    "elevation_ft": 2143,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Bradford"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bradford_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4499,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 41.79800034,
+          "longitude": -78.64499664,
+          "elevation_ft": 2128,
+          "heading_true": 43.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 41.80690002,
+          "longitude": -78.63349915,
+          "elevation_ft": 2143,
+          "heading_true": 223.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 6307,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 41.80929947,
+          "longitude": -78.64880371,
+          "elevation_ft": 2109,
+          "heading_true": 133.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 41.79729843,
+          "longitude": -78.63210297,
+          "elevation_ft": 2100,
+          "heading_true": 313.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 133.825
+    },
+    {
+      "type": "OTHER",
+      "description": "CLEVELAND CNTR",
+      "mhz": 124.325
+    },
+    {
+      "type": "OTHER",
+      "description": "ALTOONA RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.075
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "icao": "KPHP",
+  "iata": "PHP",
+  "name": "Philip Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.048527,
+    "longitude": -101.600933,
+    "elevation_ft": 2207,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Philip"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3588,
+      "width_ft": 120,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 44.04719925,
+          "longitude": -101.6039963,
+          "elevation_ft": 2201,
+          "heading_true": 63.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 44.05170059,
+          "longitude": -101.5920029,
+          "elevation_ft": 2198,
+          "heading_true": 243.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 3998,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 44.05130005,
+          "longitude": -101.6060028,
+          "elevation_ft": 2207,
+          "heading_true": 128.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 44.04449844,
+          "longitude": -101.5940018,
+          "elevation_ft": 2192,
+          "heading_true": 308.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.375
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 127.95
+    },
+    {
+      "type": "OTHER",
+      "description": "HURON RDO",
+      "mhz": 122.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

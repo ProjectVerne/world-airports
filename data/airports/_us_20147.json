@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Perry County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.691601,
+    "longitude": -82.1978,
+    "elevation_ft": 1051,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "New Lexington"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Perry_County_Airport_(Ohio)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 3498,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 39.690101623535156,
+          "longitude": -82.20369720458984,
+          "elevation_ft": 1051,
+          "heading_true": 72.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 39.69309997558594,
+          "longitude": -82.19190216064453,
+          "elevation_ft": 1041,
+          "heading_true": 252.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS CNTR",
+      "mhz": 124.45
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20147,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

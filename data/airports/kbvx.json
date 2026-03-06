@@ -1,0 +1,103 @@
+{
+  "icao": "KBVX",
+  "iata": "BVX",
+  "name": "Batesville Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.7262,
+    "longitude": -91.647301,
+    "elevation_ft": 465,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Batesville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Batesville_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 6002,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 35.723099,
+          "longitude": -91.661102,
+          "elevation_ft": 452,
+          "heading_true": 80,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 35.726002,
+          "longitude": -91.641197,
+          "elevation_ft": 464,
+          "heading_true": 260,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2804,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 35.7337,
+          "longitude": -91.639397,
+          "elevation_ft": 435,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 35.725201,
+          "longitude": -91.639603,
+          "elevation_ft": 463,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 126.85
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 126.85
+    },
+    {
+      "type": "OTHER",
+      "description": "JONESBORO RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

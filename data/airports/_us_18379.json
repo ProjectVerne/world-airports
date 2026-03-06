@@ -1,0 +1,70 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Humphreys County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.1166,
+    "longitude": -87.738197,
+    "elevation_ft": 756,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Waverly"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Humphreys_County_Airport",
+  "keywords": [
+    "Music City Skydiving"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 36.111900329589844,
+          "longitude": -87.7416000366211,
+          "elevation_ft": 755,
+          "heading_true": 30,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 36.121299743652344,
+          "longitude": -87.73470306396484,
+          "elevation_ft": 733,
+          "heading_true": 210,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 125.85
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18379,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

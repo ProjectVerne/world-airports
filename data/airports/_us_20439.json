@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Oktibbeha Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.497501373291016,
+    "longitude": -88.6812973022461,
+    "elevation_ft": 250,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Starkville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 2700,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 33.5004997253418,
+          "longitude": -88.68450164794922,
+          "elevation_ft": 0,
+          "heading_true": 138,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 33.494998931884766,
+          "longitude": -88.67849731445312,
+          "elevation_ft": 0,
+          "heading_true": 318,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2200,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 33.500301361083984,
+          "longitude": -88.68090057373047,
+          "elevation_ft": 0,
+          "heading_true": 184,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 33.494300842285156,
+          "longitude": -88.681396484375,
+          "elevation_ft": 0,
+          "heading_true": 4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS APP/DEP",
+      "mhz": 135.6
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS CLNC DEL",
+      "mhz": 126.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20439,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

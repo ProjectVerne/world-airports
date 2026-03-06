@@ -1,0 +1,85 @@
+{
+  "icao": "KEDC",
+  "iata": null,
+  "name": "Austin Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.398049,
+    "longitude": -97.566909,
+    "elevation_ft": 620,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Pflugerville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Austin_Executive_Airport",
+  "keywords": [
+    "6R4",
+    "Bird's Nest"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 6025,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 30.403601,
+          "longitude": -97.573502,
+          "elevation_ft": 620,
+          "heading_true": 131,
+          "displaced_threshold_ft": 600
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 30.392599,
+          "longitude": -97.559097,
+          "elevation_ft": 597,
+          "heading_true": 311,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 1550,
+      "width_ft": 25,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 30.3971004486084,
+          "longitude": -97.56739807128906,
+          "elevation_ft": 615,
+          "heading_true": 166,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 30.39299964904785,
+          "longitude": -97.56620025634766,
+          "elevation_ft": 599,
+          "heading_true": 346,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

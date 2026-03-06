@@ -1,0 +1,111 @@
+{
+  "icao": "KCXO",
+  "iata": "CXO",
+  "name": "Conroe-North Houston Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.351801,
+    "longitude": -95.414497,
+    "elevation_ft": 245,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lone_Star_Executive_Airport",
+  "keywords": [
+    "Montgomery County Airport",
+    "Lone Star Executive Airport"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 30.34560013,
+          "longitude": -95.41950226,
+          "elevation_ft": 229,
+          "heading_true": 17.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 30.35610008,
+          "longitude": -95.415802,
+          "elevation_ft": 235,
+          "heading_true": 197.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 7501,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 30.35930061,
+          "longitude": -95.4178009,
+          "elevation_ft": 231,
+          "heading_true": 145.5,
+          "displaced_threshold_ft": 591
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 30.34569931,
+          "longitude": -95.40699768,
+          "elevation_ft": 242,
+          "heading_true": 325.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON APP/DEP",
+      "mhz": 119.7
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.325
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.55
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

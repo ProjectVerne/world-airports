@@ -1,0 +1,64 @@
+{
+  "icao": "KBDU",
+  "iata": "WBU",
+  "name": "Boulder Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.039101,
+    "longitude": -105.226025,
+    "elevation_ft": 5288,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Boulder"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Boulder_Municipal_Airport",
+  "keywords": [
+    "1V5"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 4100,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 40.039100646972656,
+          "longitude": -105.23300170898438,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 40.039100646972656,
+          "longitude": -105.21900177001953,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "Boulder traffic",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

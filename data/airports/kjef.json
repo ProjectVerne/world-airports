@@ -1,0 +1,118 @@
+{
+  "icao": "KJEF",
+  "iata": "JEF",
+  "name": "Jefferson City Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.5912017822,
+    "longitude": -92.15609741210001,
+    "elevation_ft": 549,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Jefferson City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Jefferson_City_Memorial_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3401,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 38.590999603271484,
+          "longitude": -92.16410064697266,
+          "elevation_ft": 546,
+          "heading_true": 91,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 38.59090042114258,
+          "longitude": -92.1521987915039,
+          "elevation_ft": 546,
+          "heading_true": 271,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 6000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 38.59569931,
+          "longitude": -92.1638031,
+          "elevation_ft": 547,
+          "heading_true": 123,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 38.5868988,
+          "longitude": -92.14610291,
+          "elevation_ft": 547,
+          "heading_true": 303,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MIZZU APP/DEP",
+      "mhz": 124.375
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 133.625
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 125.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBIA RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 125.6
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

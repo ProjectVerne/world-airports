@@ -1,0 +1,103 @@
+{
+  "icao": "KZER",
+  "iata": null,
+  "name": "Schuylkill County Joe Zerbey Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.706501,
+    "longitude": -76.3731,
+    "elevation_ft": 1729,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Pottsville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Schuylkill_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2523,
+      "width_ft": 140,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 40.70560074,
+          "longitude": -76.37049866,
+          "elevation_ft": 0,
+          "heading_true": 31,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 40.71099854,
+          "longitude": -76.36630249,
+          "elevation_ft": 0,
+          "heading_true": 211,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 5101,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 40.70640182,
+          "longitude": -76.38369751,
+          "elevation_ft": 1734,
+          "heading_true": 97.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 40.70470047,
+          "longitude": -76.36730194,
+          "elevation_ft": 1708,
+          "heading_true": 277.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HARRISBURG APP/DEP",
+      "mhz": 118.25
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 127.57
+    },
+    {
+      "type": "OTHER",
+      "description": "WILLIAMSPORT RDO",
+      "mhz": 114.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

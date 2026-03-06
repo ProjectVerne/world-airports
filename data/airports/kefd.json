@@ -1,0 +1,146 @@
+{
+  "icao": "KEFD",
+  "iata": "EFD",
+  "name": "Ellington Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.607299804700002,
+    "longitude": -95.1587982178,
+    "elevation_ft": 32,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ellington_Airport_(Texas)",
+  "keywords": [
+    "Ellington Field"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 8001,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 29.59819984436035,
+          "longitude": -95.16300201416016,
+          "elevation_ft": 26,
+          "heading_true": 43.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 29.61400032043457,
+          "longitude": -95.14550018310547,
+          "elevation_ft": 30,
+          "heading_true": 223.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17L/35R",
+      "length_ft": 4609,
+      "width_ft": 80,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17L",
+          "latitude": 29.61849976,
+          "longitude": -95.15619659,
+          "elevation_ft": 31,
+          "heading_true": 178.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35R",
+          "latitude": 29.60580063,
+          "longitude": -95.15589905,
+          "elevation_ft": 30,
+          "heading_true": 358.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17R/35L",
+      "length_ft": 9001,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17R",
+          "latitude": 29.61829948425293,
+          "longitude": -95.16439819335938,
+          "elevation_ft": 31,
+          "heading_true": 178.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35L",
+          "latitude": 29.593599319458008,
+          "longitude": -95.16380310058594,
+          "elevation_ft": 27,
+          "heading_true": 358.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HOUSTON APP DEP",
+      "mhz": 134.45
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 135.575
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.6
+    },
+    {
+      "type": "OTHER",
+      "description": "ANG OPS",
+      "mhz": 142.2
+    },
+    {
+      "type": "OTHER",
+      "description": "COMD POST",
+      "mhz": 142.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 126.05
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

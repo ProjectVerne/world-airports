@@ -1,0 +1,103 @@
+{
+  "icao": "KLHX",
+  "iata": null,
+  "name": "La Junta Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.049702,
+    "longitude": -103.509003,
+    "elevation_ft": 4229,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "La Junta"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Junta_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 6849,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 38.04809952,
+          "longitude": -103.5230026,
+          "elevation_ft": 4225,
+          "heading_true": 89.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 38.0481987,
+          "longitude": -103.5,
+          "elevation_ft": 4151,
+          "heading_true": 269.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 5803,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 38.05720139,
+          "longitude": -103.5139999,
+          "elevation_ft": 4238,
+          "heading_true": 135.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 38.04589844,
+          "longitude": -103.5,
+          "elevation_ft": 4155,
+          "heading_true": 315.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.525
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 133.4
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

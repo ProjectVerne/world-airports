@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Midsouth Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.661506,
+    "longitude": -89.869628,
+    "elevation_ft": 345,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Coldwater"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Williams Field"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3725,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 34.660499572753906,
+          "longitude": -89.87419891357422,
+          "elevation_ft": 0,
+          "heading_true": 70,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 34.66400146484375,
+          "longitude": -89.86250305175781,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 6992,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

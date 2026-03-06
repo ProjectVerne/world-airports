@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Alderman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.05690002441406,
+    "longitude": -80.96320343017578,
+    "elevation_ft": 1187,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "St Clairsville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 2840,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 40.0530014,
+          "longitude": -80.96369934,
+          "elevation_ft": 1163,
+          "heading_true": 5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 40.06069946,
+          "longitude": -80.96269989,
+          "elevation_ft": 1187,
+          "heading_true": 185,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 9707,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

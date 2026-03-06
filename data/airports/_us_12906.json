@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Hillside Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.82109832763672,
+    "longitude": -94.60970306396484,
+    "elevation_ft": 1025,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Stilwell"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hillside_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 2000,
+      "width_ft": 56,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 38.82400131225586,
+          "longitude": -94.6094970703125,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 38.81850051879883,
+          "longitude": -94.6094970703125,
+          "elevation_ft": 0,
+          "heading_true": 226,
+          "displaced_threshold_ft": 150
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12906,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

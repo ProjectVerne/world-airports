@@ -1,0 +1,115 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Flagler Aerial Spraying Inc Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.279998779296875,
+    "longitude": -103.06700134277344,
+    "elevation_ft": 4945,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Flagler"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2500,
+      "width_ft": 75,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 39.283599853515625,
+          "longitude": -103.07599639892578,
+          "elevation_ft": 0,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 39.283599853515625,
+          "longitude": -103.06700134277344,
+          "elevation_ft": 0,
+          "heading_true": 270.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3900,
+      "width_ft": 90,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 39.28609848022461,
+          "longitude": -103.072998046875,
+          "elevation_ft": 4945,
+          "heading_true": 155,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 39.27640151977539,
+          "longitude": -103.06700134277344,
+          "elevation_ft": 0,
+          "heading_true": 325,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 2620,
+      "width_ft": 20,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 39.283599853515625,
+          "longitude": -103.06700134277344,
+          "elevation_ft": 0,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 39.27640151977539,
+          "longitude": -103.06700134277344,
+          "elevation_ft": 0,
+          "heading_true": 210.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 16854,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

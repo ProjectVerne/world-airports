@@ -1,0 +1,103 @@
+{
+  "icao": "KMOX",
+  "iata": "MOX",
+  "name": "Morris Municipal Airport Charlie Schmidt Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.566002,
+    "longitude": -95.967201,
+    "elevation_ft": 1138,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Morris"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Morris_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2640,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 45.56570053100586,
+          "longitude": -95.9728012084961,
+          "elevation_ft": 1123,
+          "heading_true": 49,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 45.570499420166016,
+          "longitude": -95.96510314941406,
+          "elevation_ft": 1138,
+          "heading_true": 229,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4899,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 45.56900024,
+          "longitude": -95.97059631,
+          "elevation_ft": 1128,
+          "heading_true": 144,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 45.56010056,
+          "longitude": -95.96150208,
+          "elevation_ft": 1124,
+          "heading_true": 324,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 109.6
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 126.1
+    },
+    {
+      "type": "OTHER",
+      "description": "PRINCETON RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Usaf Academy Bullseye Aux Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.75830078125,
+    "longitude": -104.30699920654297,
+    "elevation_ft": 6036,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Ellicott"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3487,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 38.7621994,
+          "longitude": -104.3079987,
+          "elevation_ft": 0,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 38.75279999,
+          "longitude": -104.3079987,
+          "elevation_ft": 0,
+          "heading_true": 248.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.325
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.725
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 16943,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

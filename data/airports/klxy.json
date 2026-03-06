@@ -1,0 +1,67 @@
+{
+  "icao": "KLXY",
+  "iata": null,
+  "name": "Mexia Limestone County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.639799118041992,
+    "longitude": -96.51470184326172,
+    "elevation_ft": 544,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Mexia"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 31.6453,
+          "longitude": -96.513702,
+          "elevation_ft": 544,
+          "heading_true": 189,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 31.634399,
+          "longitude": -96.5158,
+          "elevation_ft": 533,
+          "heading_true": 9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "WACO APP/DEP",
+      "mhz": 135.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

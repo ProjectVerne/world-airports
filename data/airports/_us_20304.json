@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Perris Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.760899,
+    "longitude": -117.218002,
+    "elevation_ft": 1413,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Perris"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Perris_Valley_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 5100,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 33.76750183105469,
+          "longitude": -117.22100067138672,
+          "elevation_ft": 1413,
+          "heading_true": 164.5,
+          "displaced_threshold_ft": 1900
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 33.75419998168945,
+          "longitude": -117.21600341796875,
+          "elevation_ft": 0,
+          "heading_true": 344.5,
+          "displaced_threshold_ft": 144
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MARCH APP/DEP",
+      "mhz": 199.25
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20304,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

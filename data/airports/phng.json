@@ -1,0 +1,72 @@
+{
+  "icao": "PHNG",
+  "iata": "NGF",
+  "name": "Kaneohe Bay MCAS (Marion E. Carl Field) Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.4505,
+    "longitude": -157.768005,
+    "elevation_ft": 24,
+    "continent": "OC",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Kaneohe"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marine_Corps_Air_Station_Kaneohe_Bay",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 7771,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 21.44379997253418,
+          "longitude": -157.77699279785156,
+          "elevation_ft": 6,
+          "heading_true": 52,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 21.45709991455078,
+          "longitude": -157.75900268554688,
+          "elevation_ft": 17,
+          "heading_true": 232,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 125
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.7
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Ames Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.5875,
+    "longitude": -82.871201,
+    "elevation_ft": 64,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Trenton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ames_Field",
+  "keywords": [
+    "Formerly 8J2"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 2600,
+      "width_ft": 75,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 29.591100692749023,
+          "longitude": -82.87129974365234,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 80
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 29.583999633789062,
+          "longitude": -82.87120056152344,
+          "elevation_ft": 0,
+          "heading_true": 327,
+          "displaced_threshold_ft": 105
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 14978,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

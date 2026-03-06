@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Central City Municipal - Larry Reineke Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.1125984192,
+    "longitude": -98.0516967773,
+    "elevation_ft": 1717,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Central City"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3700,
+      "width_ft": 60,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 41.11640167236328,
+          "longitude": -98.05329895019531,
+          "elevation_ft": 1715,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 41.1067008972168,
+          "longitude": -98.04940032958984,
+          "elevation_ft": 1716,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 6932,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

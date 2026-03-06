@@ -1,0 +1,98 @@
+{
+  "icao": "KNVD",
+  "iata": "NVD",
+  "name": "Nevada Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.8521,
+    "longitude": -94.304901,
+    "elevation_ft": 892,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Nevada"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 37.8445015,
+          "longitude": -94.30970001,
+          "elevation_ft": 892,
+          "heading_true": 26.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 37.85900116,
+          "longitude": -94.30059814,
+          "elevation_ft": 880,
+          "heading_true": 206.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 2581,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 37.85540008544922,
+          "longitude": -94.30729675292969,
+          "elevation_ft": 877,
+          "heading_true": 135.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 37.85029983520508,
+          "longitude": -94.3010025024414,
+          "elevation_ft": 874,
+          "heading_true": 315.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.175
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 125.55
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

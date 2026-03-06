@@ -1,0 +1,100 @@
+{
+  "icao": "KMEZ",
+  "iata": "UMZ",
+  "name": "Mena Intermountain Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.545399,
+    "longitude": -94.202698,
+    "elevation_ft": 1080,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Mena"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mena_Intermountain_Municipal_Airport",
+  "keywords": [
+    "M39"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5485,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 34.54299927,
+          "longitude": -94.20809937,
+          "elevation_ft": 1077,
+          "heading_true": 91.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 34.54240036,
+          "longitude": -94.1882019,
+          "elevation_ft": 1050,
+          "heading_true": 271.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 34.55550003,
+          "longitude": -94.20899963,
+          "elevation_ft": 1040,
+          "heading_true": 174,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 34.54180145,
+          "longitude": -94.20709991,
+          "elevation_ft": 1079,
+          "heading_true": 354,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.025
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 126.1
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

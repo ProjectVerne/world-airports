@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Granville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.42375183105469,
+    "longitude": -73.26919555664062,
+    "elevation_ft": 420,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Granville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 2500,
+      "width_ft": 36,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 43.42559814453125,
+          "longitude": -73.2708969116211,
+          "elevation_ft": 0,
+          "heading_true": 143,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 43.42020034790039,
+          "longitude": -73.26519775390625,
+          "elevation_ft": 0,
+          "heading_true": 323,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 16488,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

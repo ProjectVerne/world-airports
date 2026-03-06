@@ -1,0 +1,105 @@
+{
+  "icao": "KELN",
+  "iata": "ELN",
+  "name": "Bowers Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.03300095,
+    "longitude": -120.5309982,
+    "elevation_ft": 1764,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Ellensburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bowers_Airport",
+  "keywords": [
+    "Ellensburg Army Airfield"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 5590,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 47.031399,
+          "longitude": -120.542999,
+          "elevation_ft": 1710,
+          "heading_true": 88,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 47.031898,
+          "longitude": -120.521004,
+          "elevation_ft": 1755,
+          "heading_true": 268,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 4300,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 47.03889846801758,
+          "longitude": -120.53500366210938,
+          "elevation_ft": 1763,
+          "heading_true": 133,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 47.030799865722656,
+          "longitude": -120.52300262451172,
+          "elevation_ft": 1747,
+          "heading_true": 313,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.375
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE CNTR",
+      "mhz": 132.6
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

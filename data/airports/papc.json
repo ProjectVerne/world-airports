@@ -1,0 +1,35 @@
+{
+  "icao": "PAPC",
+  "iata": "KPC",
+  "name": "Port Clarence Coast Guard Station",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.2537002563,
+    "longitude": -166.85899353,
+    "elevation_ft": 10,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Port Clarence"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Clarence_Coast_Guard_Station",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

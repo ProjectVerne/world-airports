@@ -1,0 +1,125 @@
+{
+  "icao": "KSBP",
+  "iata": "SBP",
+  "name": "San Luis County Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.236801147499996,
+    "longitude": -120.641998291,
+    "elevation_ft": 212,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Luis Obispo"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County_Regional_Airport",
+  "keywords": [
+    "SLO Airport"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 2500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 35.236900329589844,
+          "longitude": -120.6500015258789,
+          "elevation_ft": 162,
+          "heading_true": 89.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 35.236900329589844,
+          "longitude": -120.63899993896484,
+          "elevation_ft": 197,
+          "heading_true": 269.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 6101,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 35.24100113,
+          "longitude": -120.6470032,
+          "elevation_ft": 162,
+          "heading_true": 124,
+          "displaced_threshold_ft": 800
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 35.23270035,
+          "longitude": -120.6330032,
+          "elevation_ft": 212,
+          "heading_true": 304,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "DEP",
+      "description": "SANTA BARBARA APP/DEP",
+      "mhz": 127.725
+    },
+    {
+      "type": "DEP",
+      "description": "LOS ANGELES ARTCC - USE WHEN SANTA BARBARA APP/DEP CLOSED.",
+      "mhz": 119.05
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 120.6
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124
+    },
+    {
+      "type": "OTHER",
+      "description": "LOS ANGELES CENTER",
+      "mhz": 119.05
+    },
+    {
+      "type": "GND",
+      "description": "Ground",
+      "mhz": 121.6
+    },
+    {
+      "type": "TWR",
+      "description": "Tower - Primary frequency",
+      "mhz": 124
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

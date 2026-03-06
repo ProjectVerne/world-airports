@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Maryland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.596572,
+    "longitude": -77.072639,
+    "elevation_ft": 170,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Indian Head"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Maryland_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 3740,
+      "width_ft": 75,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 38.59899902,
+          "longitude": -77.07309723,
+          "elevation_ft": 0,
+          "heading_true": 8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 38.60409927,
+          "longitude": -77.07219696,
+          "elevation_ft": 0,
+          "heading_true": 188,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 3000,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 38.60390090942383,
+          "longitude": -77.07430267333984,
+          "elevation_ft": 170,
+          "heading_true": 167,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 38.59590148925781,
+          "longitude": -77.0719985961914,
+          "elevation_ft": 156,
+          "heading_true": 347,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "POTOMAC APP DEP",
+      "mhz": 119.85
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18631,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

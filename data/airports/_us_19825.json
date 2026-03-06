@@ -1,0 +1,120 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Arledge Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.9091,
+    "longitude": -99.736,
+    "elevation_ft": 1561,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Stamford"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Arledge_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2211,
+      "width_ft": 50,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 32.91360092,
+          "longitude": -99.73419952,
+          "elevation_ft": 0,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 32.91360092,
+          "longitude": -99.72720337,
+          "elevation_ft": 0,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 1702,
+      "width_ft": 50,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 32.91360092,
+          "longitude": -99.73220062,
+          "elevation_ft": 0,
+          "heading_true": 133,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 32.91030121,
+          "longitude": -99.72810364,
+          "elevation_ft": 0,
+          "heading_true": 313,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 3707,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 32.91419983,
+          "longitude": -99.73600006,
+          "elevation_ft": 1561,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 32.90409851,
+          "longitude": -99.73600006,
+          "elevation_ft": 1554,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ABILENE APP/DEP",
+      "mhz": 127.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19825,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

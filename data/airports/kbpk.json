@@ -1,0 +1,74 @@
+{
+  "icao": "KBPK",
+  "iata": "WMH",
+  "name": "Ozark Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.3689002991,
+    "longitude": -92.47049713130001,
+    "elevation_ft": 928,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Mountain Home"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ozark_Regional_Airport",
+  "keywords": [
+    "Baxter County Regional Airport"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 36.36470032,
+          "longitude": -92.47720337,
+          "elevation_ft": 928,
+          "heading_true": 51.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 36.37319946,
+          "longitude": -92.46389771,
+          "elevation_ft": 912,
+          "heading_true": 231.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 133.975
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 126.85
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

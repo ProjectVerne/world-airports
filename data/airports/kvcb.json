@@ -1,0 +1,72 @@
+{
+  "icao": "KVCB",
+  "iata": null,
+  "name": "Nut Tree Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.376801,
+    "longitude": -121.961998,
+    "elevation_ft": 117,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Vacaville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Nut_Tree_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 4700,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 38.372398376464844,
+          "longitude": -121.96600341796875,
+          "elevation_ft": 116,
+          "heading_true": 34,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 38.38309860229492,
+          "longitude": -121.95700073242188,
+          "elevation_ft": 113,
+          "heading_true": 214,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TRAVIS APP/DEP",
+      "mhz": 128.4
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 134.75
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.85
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

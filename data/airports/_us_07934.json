@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Cannon Creek Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.150584,
+    "longitude": -82.66785,
+    "elevation_ft": 125,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Lake City"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2600,
+      "width_ft": 50,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 30.14999962,
+          "longitude": -82.66690063,
+          "elevation_ft": 0,
+          "heading_true": 90,
+          "displaced_threshold_ft": 305
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 30.14999962,
+          "longitude": -82.65969849,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 3500,
+      "width_ft": 25,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 30.15859985,
+          "longitude": -82.66639709,
+          "elevation_ft": 0,
+          "heading_true": 180,
+          "displaced_threshold_ft": 380
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 30.14889908,
+          "longitude": -82.66639709,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 7934,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

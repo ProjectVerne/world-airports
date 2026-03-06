@@ -1,0 +1,56 @@
+{
+  "icao": "PAHU",
+  "iata": "HUS",
+  "name": "Hughes Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.04109955,
+    "longitude": -154.2630005,
+    "elevation_ft": 299,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Hughes"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hughes_Airport_(Alaska)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3380,
+      "width_ft": 100,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 66.0436019897461,
+          "longitude": -154.26199340820312,
+          "elevation_ft": 299,
+          "heading_true": 193,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 66.03459930419922,
+          "longitude": -154.26699829101562,
+          "elevation_ft": 297,
+          "heading_true": 13,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

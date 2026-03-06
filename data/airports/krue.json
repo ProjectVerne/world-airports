@@ -1,0 +1,74 @@
+{
+  "icao": "KRUE",
+  "iata": null,
+  "name": "Russellville Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.259102,
+    "longitude": -93.0933,
+    "elevation_ft": 404,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Russellville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Russellville_Regional_Airport",
+  "keywords": [
+    "M06"
+  ],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 5505,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 35.25730133,
+          "longitude": -93.10150146,
+          "elevation_ft": 367,
+          "heading_true": 75,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 35.26100159,
+          "longitude": -93.08499908,
+          "elevation_ft": 403,
+          "heading_true": 255,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 128.475
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 132.475
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

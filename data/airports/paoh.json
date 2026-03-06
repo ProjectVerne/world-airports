@@ -1,0 +1,56 @@
+{
+  "icao": "PAOH",
+  "iata": "HNH",
+  "name": "Hoonah Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.0961,
+    "longitude": -135.410111,
+    "elevation_ft": 19,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Hoonah"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hoonah_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3367,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 58.09519958,
+          "longitude": -135.4170074,
+          "elevation_ft": 15,
+          "heading_true": 78,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 58.09700012,
+          "longitude": -135.4019928,
+          "elevation_ft": 19,
+          "heading_true": 258,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

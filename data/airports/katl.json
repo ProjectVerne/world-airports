@@ -1,0 +1,216 @@
+{
+  "icao": "KATL",
+  "iata": "ATL",
+  "name": "Hartsfield Jackson Atlanta International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.6367,
+    "longitude": -84.428101,
+    "elevation_ft": 1026,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Atlanta"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hartsfield–Jackson_Atlanta_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08L/26R",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08L",
+          "latitude": 33.64950180053711,
+          "longitude": -84.43900299072266,
+          "elevation_ft": 1015,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26R",
+          "latitude": 33.64950180053711,
+          "longitude": -84.40950012207031,
+          "elevation_ft": 990,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08R/26L",
+      "length_ft": 9999,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08R",
+          "latitude": 33.64680099,
+          "longitude": -84.43840027,
+          "elevation_ft": 1024,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26L",
+          "latitude": 33.64680099,
+          "longitude": -84.40550232,
+          "elevation_ft": 995,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09L/27R",
+      "length_ft": 12390,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09L",
+          "latitude": 33.63470078,
+          "longitude": -84.44799805,
+          "elevation_ft": 1019,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27R",
+          "latitude": 33.63470078,
+          "longitude": -84.4088974,
+          "elevation_ft": 978,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09R/27L",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09R",
+          "latitude": 33.63180161,
+          "longitude": -84.44799805,
+          "elevation_ft": 1026,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27L",
+          "latitude": 33.63180161,
+          "longitude": -84.41840363,
+          "elevation_ft": 985,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 33.62030029296875,
+          "longitude": -84.4478988647461,
+          "elevation_ft": 1000,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 33.62030029296875,
+          "longitude": -84.41829681396484,
+          "elevation_ft": 998,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "ATLANTA APP (090°-269°)",
+      "mhz": 127.9
+    },
+    {
+      "type": "APP",
+      "description": "ATLANTA APPROACH",
+      "mhz": 128
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.65
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.1
+    },
+    {
+      "type": "DEP",
+      "description": "ATLANTA DEP (RWAY 10-28)",
+      "mhz": 121.225
+    },
+    {
+      "type": "DEP",
+      "description": "ATLANTA DEP (RWAY 09-27)",
+      "mhz": 125.65
+    },
+    {
+      "type": "DEP",
+      "description": "ATLANTA DEP (RWY 08-26)",
+      "mhz": 133.475
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.65
+    },
+    {
+      "type": "OTHER",
+      "description": "MACON RDO",
+      "mhz": 116.9
+    },
+    {
+      "type": "TWR",
+      "description": "ATLANTA TWR",
+      "mhz": 119.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

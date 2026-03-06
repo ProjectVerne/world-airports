@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "East Dakota Flying Club Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 43.965199,
+    "longitude": -97.0298,
+    "elevation_ft": 1600,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Madison"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "SD50"
+  ],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 2250,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 44.53379821777344,
+          "longitude": -99.7489013671875,
+          "elevation_ft": 1775,
+          "heading_true": 160,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 44.52799987792969,
+          "longitude": -99.74590301513672,
+          "elevation_ft": 1787,
+          "heading_true": 340,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12360,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

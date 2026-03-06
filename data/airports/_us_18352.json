@@ -1,0 +1,115 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Dacy Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.4025,
+    "longitude": -88.632401,
+    "elevation_ft": 913,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Harvard"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Dacy_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3589,
+      "width_ft": 105,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 42.4005012512207,
+          "longitude": -88.64119720458984,
+          "elevation_ft": 899,
+          "heading_true": 90,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 42.4005012512207,
+          "longitude": -88.62789916992188,
+          "elevation_ft": 913,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 2633,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.40719985961914,
+          "longitude": -88.63240051269531,
+          "elevation_ft": 912,
+          "heading_true": 155,
+          "displaced_threshold_ft": 681
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.400699615478516,
+          "longitude": -88.6281967163086,
+          "elevation_ft": 912,
+          "heading_true": 335,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2577,
+      "width_ft": 120,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 42.40729904174805,
+          "longitude": -88.63150024414062,
+          "elevation_ft": 913,
+          "heading_true": 180,
+          "displaced_threshold_ft": 305
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 42.40019989013672,
+          "longitude": -88.63150024414062,
+          "elevation_ft": 909,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18352,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

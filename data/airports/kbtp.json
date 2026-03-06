@@ -1,0 +1,91 @@
+{
+  "icao": "KBTP",
+  "iata": "BTP",
+  "name": "Pittsburgh/Butler Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.776901,
+    "longitude": -79.949699,
+    "elevation_ft": 1248,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Butler"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Butler_County_Airport",
+  "keywords": [
+    "Graham Field",
+    "Butler-Graham Airport",
+    "Butler County-K W Scholter Field"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 4801,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 40.7752,
+          "longitude": -79.956596,
+          "elevation_ft": 1235,
+          "heading_true": 72,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 40.778599,
+          "longitude": -79.942802,
+          "elevation_ft": 1243,
+          "heading_true": 252,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "PITTSBURGH APP/DEP",
+      "mhz": 124.75
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 121.45
+    },
+    {
+      "type": "OTHER",
+      "description": "PITTSBURGH CLNC DEL",
+      "mhz": 119.4
+    },
+    {
+      "type": "CTAF",
+      "description": "",
+      "mhz": 123.05
+    },
+    {
+      "type": "OTHER",
+      "description": "ALTOONA RDO",
+      "mhz": 115.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

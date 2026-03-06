@@ -1,0 +1,100 @@
+{
+  "icao": "KDBN",
+  "iata": "DBN",
+  "name": "W H 'Bud' Barron Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.5644,
+    "longitude": -82.985298,
+    "elevation_ft": 309,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Dublin"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/W._H._'Bud'_Barron_Airport",
+  "keywords": [
+    "Baron Field Dublin Municipal Airport"
+  ],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 6501,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 32.55730057,
+          "longitude": -82.98490143,
+          "elevation_ft": 291,
+          "heading_true": 16,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 32.57310104,
+          "longitude": -82.97940063,
+          "elevation_ft": 304,
+          "heading_true": 196,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5171,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 32.56840134,
+          "longitude": -82.99459839,
+          "elevation_ft": 304,
+          "heading_true": 136,
+          "displaced_threshold_ft": 591
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 32.55849838,
+          "longitude": -82.98339844,
+          "elevation_ft": 293,
+          "heading_true": 316,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 119.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.425
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

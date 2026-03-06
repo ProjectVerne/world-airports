@@ -1,0 +1,72 @@
+{
+  "icao": "KBML",
+  "iata": "BML",
+  "name": "Berlin Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.57540131,
+    "longitude": -71.17590332,
+    "elevation_ft": 1161,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Berlin"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Berlin_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5200,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 44.581298828125,
+          "longitude": -71.1791000366211,
+          "elevation_ft": 1158,
+          "heading_true": 164.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 44.567501068115234,
+          "longitude": -71.17369842529297,
+          "elevation_ft": 1130,
+          "heading_true": 344.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.175
+    },
+    {
+      "type": "OTHER",
+      "description": "BANGOR RDO/CLNC DEL",
+      "mhz": 122.35
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

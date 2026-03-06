@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Casselton Robert Miller Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.854,
+    "longitude": -97.208702,
+    "elevation_ft": 933,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Casselton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Casselton_Robert_Miller_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 3901,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 46.85829926,
+          "longitude": -97.21420288,
+          "elevation_ft": 932,
+          "heading_true": 136,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 46.85029984,
+          "longitude": -97.20310211,
+          "elevation_ft": 926,
+          "heading_true": 316,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FARGO APP/DEP",
+      "mhz": 120.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18918,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

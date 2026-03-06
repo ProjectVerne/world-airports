@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Mifflintown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.598899841308594,
+    "longitude": -77.40570068359375,
+    "elevation_ft": 545,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Mifflintown"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 2627,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 40.59749984741211,
+          "longitude": -77.41000366210938,
+          "elevation_ft": 540,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 40.600399017333984,
+          "longitude": -77.40129852294922,
+          "elevation_ft": 540,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23960,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "icao": "KDEQ",
+  "iata": null,
+  "name": "J Lynn Helms Sevier County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.047001,
+    "longitude": -94.399399,
+    "elevation_ft": 355,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "DeQueen"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/J._Lynn_Helms_Sevier_County_Airport",
+  "keywords": [
+    "F90"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 34.0461998,
+          "longitude": -94.4076004,
+          "elevation_ft": 355,
+          "heading_true": 83.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 34.04779816,
+          "longitude": -94.3911972,
+          "elevation_ft": 355,
+          "heading_true": 263.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 134.075
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 123.925
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

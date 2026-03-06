@@ -1,0 +1,74 @@
+{
+  "icao": "KSUT",
+  "iata": null,
+  "name": "Cape Fear Regional Jetport / Howie Franklin Field Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.929298,
+    "longitude": -78.074997,
+    "elevation_ft": 24,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Southport"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cape_Fear_Regional_Jetport",
+  "keywords": [
+    "Brunswick County"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5505,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 33.925098,
+          "longitude": -78.0793,
+          "elevation_ft": 20,
+          "heading_true": 41,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 33.933399,
+          "longitude": -78.070702,
+          "elevation_ft": 23,
+          "heading_true": 221,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "WILMINGTON APP/DEP",
+      "mhz": 118.25
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 124.175
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

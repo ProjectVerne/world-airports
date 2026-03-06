@@ -1,0 +1,108 @@
+{
+  "icao": "KTPL",
+  "iata": "TPL",
+  "name": "Draughon Miller Central Texas Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.1525,
+    "longitude": -97.407799,
+    "elevation_ft": 682,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Temple"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Draughon%E2%80%93Miller_Central_Texas_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4740,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 31.147699,
+          "longitude": -97.4095,
+          "elevation_ft": 674,
+          "heading_true": 28,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 31.1593,
+          "longitude": -97.402496,
+          "elevation_ft": 665,
+          "heading_true": 208,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 7000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 31.16,
+          "longitude": -97.412201,
+          "elevation_ft": 682,
+          "heading_true": 163,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 31.143499,
+          "longitude": -97.406097,
+          "elevation_ft": 669,
+          "heading_true": 343,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "GRAY APP/DEP",
+      "mhz": 120.075
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 134.975
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.9
+    },
+    {
+      "type": "OTHER",
+      "description": "SAN ANGELO RDO",
+      "mhz": 110.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

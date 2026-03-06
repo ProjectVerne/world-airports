@@ -1,0 +1,38 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Crawford Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.703736,
+    "longitude": -107.646983,
+    "elevation_ft": 6470,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Crawford"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "French Field"
+  ],
+  "runways": [],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19173,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

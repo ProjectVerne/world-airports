@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Raymond L Kussmaul Jr Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.077801,
+    "longitude": -83.986099,
+    "elevation_ft": 820,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Clinton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Honey_Acres_Airport",
+  "keywords": [
+    "Honey Acres"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3800,
+      "width_ft": 90,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 42.08300018310547,
+          "longitude": -83.98619842529297,
+          "elevation_ft": 820,
+          "heading_true": 0,
+          "displaced_threshold_ft": 600
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 42.072601318359375,
+          "longitude": -83.98580169677734,
+          "elevation_ft": 820,
+          "heading_true": 0,
+          "displaced_threshold_ft": 600
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 14259,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

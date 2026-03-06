@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Pyramid Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.862699508666992,
+    "longitude": -96.19750213623047,
+    "elevation_ft": 362,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fairfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 4700,
+      "width_ft": 72,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 31.856399536132812,
+          "longitude": -96.19940185546875,
+          "elevation_ft": 0,
+          "heading_true": 14.7,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 31.868900299072266,
+          "longitude": -96.19550323486328,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 127.45
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 9772,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "icao": "KBOS",
+  "iata": "BOS",
+  "name": "Boston Logan International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.36197,
+    "longitude": -71.0079,
+    "elevation_ft": 20,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Boston"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Logan_International_Airport",
+  "keywords": [
+    "General Edward Lawrence Logan International Airport"
+  ],
+  "runways": [
+    {
+      "id": "04L/22R",
+      "length_ft": 7864,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04L",
+          "latitude": 42.358002,
+          "longitude": -71.014297,
+          "elevation_ft": 14,
+          "heading_true": 20,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22R",
+          "latitude": 42.3783,
+          "longitude": -71.004501,
+          "elevation_ft": 15,
+          "heading_true": 200,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "04R/22L",
+      "length_ft": 10006,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04R",
+          "latitude": 42.35110092,
+          "longitude": -71.01180267,
+          "elevation_ft": 18,
+          "heading_true": 20,
+          "displaced_threshold_ft": 1154
+        },
+        "high": {
+          "ident": "22L",
+          "latitude": 42.37689972,
+          "longitude": -70.9992981,
+          "elevation_ft": 16,
+          "heading_true": 200,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 7001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 42.35580063,
+          "longitude": -71.01290131,
+          "elevation_ft": 17,
+          "heading_true": 77,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 42.36019897,
+          "longitude": -70.98770142,
+          "elevation_ft": 15,
+          "heading_true": 257,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.35660171508789,
+          "longitude": -71.02330017089844,
+          "elevation_ft": 17,
+          "heading_true": 125,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.34859848022461,
+          "longitude": -71.0082015991211,
+          "elevation_ft": 20,
+          "heading_true": 305,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15L/33R",
+      "length_ft": 2557,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15L",
+          "latitude": 42.373600006103516,
+          "longitude": -71.00910186767578,
+          "elevation_ft": 15,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33R",
+          "latitude": 42.36859893798828,
+          "longitude": -71.00250244140625,
+          "elevation_ft": 14,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15R/33L",
+      "length_ft": 10083,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15R",
+          "latitude": 42.374298095703125,
+          "longitude": -71.01789855957031,
+          "elevation_ft": 17,
+          "heading_true": 135,
+          "displaced_threshold_ft": 880
+        },
+        "high": {
+          "ident": "33L",
+          "latitude": 42.35459899902344,
+          "longitude": -70.9916000366211,
+          "elevation_ft": 15,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "BOSTON APP NORTH",
+      "mhz": 118.25
+    },
+    {
+      "type": "APP",
+      "description": "BOSTON APP WEST",
+      "mhz": 120.6
+    },
+    {
+      "type": "APP",
+      "description": "BOSTON APP SOUTH",
+      "mhz": 127.2
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 135
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.65
+    },
+    {
+      "type": "DEP",
+      "description": "BOSTON DEP",
+      "mhz": 133
+    },
+    {
+      "type": "GND",
+      "description": "BOSTON GROUND",
+      "mhz": 121.75
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "GATE",
+      "mhz": 134.05
+    },
+    {
+      "type": "OTHER",
+      "description": "BRIDGEPORT RDO",
+      "mhz": 122.4
+    },
+    {
+      "type": "TWR",
+      "description": "BOSTON TWR WEST",
+      "mhz": 128.8
+    },
+    {
+      "type": "TWR",
+      "description": "BOSTON TWR EAST",
+      "mhz": 132.225
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

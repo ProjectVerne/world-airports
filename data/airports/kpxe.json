@@ -1,0 +1,72 @@
+{
+  "icao": "KPXE",
+  "iata": null,
+  "name": "Perry Houston County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.510601,
+    "longitude": -83.767303,
+    "elevation_ft": 418,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Perry"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Perry%E2%80%93Houston_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5004,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.51739883,
+          "longitude": -83.76740265,
+          "elevation_ft": 419,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.50370026,
+          "longitude": -83.76730347,
+          "elevation_ft": 412,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 119.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 123.825
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

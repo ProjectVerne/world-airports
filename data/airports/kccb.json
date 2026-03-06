@@ -1,0 +1,67 @@
+{
+  "icao": "KCCB",
+  "iata": "CCB",
+  "name": "Upland-Cable Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.111599,
+    "longitude": -117.688004,
+    "elevation_ft": 1444,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Upland"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cable_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 3863,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 34.10969925,
+          "longitude": -117.6930008,
+          "elevation_ft": 1391,
+          "heading_true": 69.1,
+          "displaced_threshold_ft": 106
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 34.11349869,
+          "longitude": -117.6809998,
+          "elevation_ft": 1431,
+          "heading_true": 249.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOCAL APP/DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

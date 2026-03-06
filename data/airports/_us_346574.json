@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Ottos Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.930978,
+    "longitude": -89.624749,
+    "elevation_ft": 917,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Verona"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "9/27",
+      "length_ft": 900,
+      "width_ft": 65,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "9",
+          "latitude": 42.9310188293457,
+          "longitude": -89.62642669677734,
+          "elevation_ft": 914,
+          "heading_true": 92,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 42.93093490600586,
+          "longitude": -89.6230697631836,
+          "elevation_ft": 916,
+          "heading_true": 272,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 346574,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

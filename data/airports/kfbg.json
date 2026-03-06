@@ -1,0 +1,92 @@
+{
+  "icao": "KFBG",
+  "iata": "FBG",
+  "name": "Simmons Army Air Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.13180161,
+    "longitude": -78.93669891,
+    "elevation_ft": 244,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Fort Bragg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Simmons_Army_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 4121,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 35.131401,
+          "longitude": -78.944298,
+          "elevation_ft": 242,
+          "heading_true": 86,
+          "displaced_threshold_ft": 1050
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 35.132301,
+          "longitude": -78.928802,
+          "elevation_ft": 225,
+          "heading_true": 266,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FAYETTEVILLE APP/DEP",
+      "mhz": 133
+    },
+    {
+      "type": "OTHER",
+      "description": "FLT ADVSY",
+      "mhz": 125.9
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 139.25
+    },
+    {
+      "type": "OTHER",
+      "description": "GND/CLNC DEL",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "BASE OPS",
+      "mhz": 142.35
+    },
+    {
+      "type": "OTHER",
+      "description": "PMSV METRO",
+      "mhz": 141.25
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 125.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

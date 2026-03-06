@@ -1,0 +1,77 @@
+{
+  "icao": "KJWN",
+  "iata": null,
+  "name": "John C Tune Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.1824,
+    "longitude": -86.886703,
+    "elevation_ft": 495,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Nashville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/John_C._Tune_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 6001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 36.174999,
+          "longitude": -86.889099,
+          "elevation_ft": 458,
+          "heading_true": 15,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 36.189701,
+          "longitude": -86.8843,
+          "elevation_ft": 493,
+          "heading_true": 195,
+          "displaced_threshold_ft": 500
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NASHVILLE APP/DEP",
+      "mhz": 119.35
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 127.075
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 124.55
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

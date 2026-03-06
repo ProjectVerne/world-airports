@@ -1,0 +1,98 @@
+{
+  "icao": "KGRE",
+  "iata": "GRE",
+  "name": "Greenville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.836844,
+    "longitude": -89.376525,
+    "elevation_ft": 541,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Greenville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Greenville_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2822,
+      "width_ft": 250,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 38.83670044,
+          "longitude": -89.3864975,
+          "elevation_ft": 541,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 38.83670044,
+          "longitude": -89.37539673,
+          "elevation_ft": 541,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4002,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 38.84120178222656,
+          "longitude": -89.37650299072266,
+          "elevation_ft": 540,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 38.8302001953125,
+          "longitude": -89.37640380859375,
+          "elevation_ft": 531,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 127.7
+    },
+    {
+      "type": "OTHER",
+      "description": "ST LOUIS RDO",
+      "mhz": 114.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

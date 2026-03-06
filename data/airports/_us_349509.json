@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Rocking B Cattle Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.535835,
+    "longitude": -95.083707,
+    "elevation_ft": 287,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Coldspring"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3007,
+      "width_ft": 40,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 30.538789749145508,
+          "longitude": -95.08704376220703,
+          "elevation_ft": 287,
+          "heading_true": 136,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 30.532880783081055,
+          "longitude": -95.08036804199219,
+          "elevation_ft": 264,
+          "heading_true": 316,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 349509,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

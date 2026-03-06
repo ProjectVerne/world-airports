@@ -1,0 +1,103 @@
+{
+  "icao": "KGED",
+  "iata": "GED",
+  "name": "Delaware Coastal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.689201,
+    "longitude": -75.358902,
+    "elevation_ft": 53,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Georgetown"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sussex_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 38.684101,
+          "longitude": -75.364899,
+          "elevation_ft": 49,
+          "heading_true": 33,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 38.695599,
+          "longitude": -75.355301,
+          "elevation_ft": 49,
+          "heading_true": 213,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 3109,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 38.68479919433594,
+          "longitude": -75.36250305175781,
+          "elevation_ft": 49,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 38.68479919433594,
+          "longitude": -75.35160064697266,
+          "elevation_ft": 53,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DOVER APP/DEP",
+      "mhz": 132.425
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.375
+    },
+    {
+      "type": "OTHER",
+      "description": "MILLVILLE RDO",
+      "mhz": 112.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Allen H Tigert Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.6416015625,
+    "longitude": -111.58000183105469,
+    "elevation_ft": 5839,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Soda Springs"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 2500,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 42.6432991027832,
+          "longitude": -111.58100128173828,
+          "elevation_ft": 5814,
+          "heading_true": 148,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 42.63750076293945,
+          "longitude": -111.57599639892578,
+          "elevation_ft": 5834,
+          "heading_true": 328,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 3500,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 42.64469909667969,
+          "longitude": -111.58100128173828,
+          "elevation_ft": 5819,
+          "heading_true": 171,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 42.63529968261719,
+          "longitude": -111.5790023803711,
+          "elevation_ft": 5839,
+          "heading_true": 351,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CITY",
+      "mhz": 126.75
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21274,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

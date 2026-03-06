@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Shurley Field Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.0411,
+    "longitude": -92.10008,
+    "elevation_ft": 430,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Cabot"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3000,
+      "width_ft": 30,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 35.04119873046875,
+          "longitude": -92.10530090332031,
+          "elevation_ft": 0,
+          "heading_true": 88.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 35.04130172729492,
+          "longitude": -92.0968017578125,
+          "elevation_ft": 0,
+          "heading_true": 268.3,
+          "displaced_threshold_ft": 689
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11340,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

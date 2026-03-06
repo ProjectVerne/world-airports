@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Baldwin Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.8755,
+    "longitude": -85.842102,
+    "elevation_ft": 828,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Baldwin"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Baldwin_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2800,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 43.87350082397461,
+          "longitude": -85.85050201416016,
+          "elevation_ft": 0,
+          "heading_true": 47.3,
+          "displaced_threshold_ft": 800
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 43.878700256347656,
+          "longitude": -85.84269714355469,
+          "elevation_ft": 0,
+          "heading_true": 227.3,
+          "displaced_threshold_ft": 800
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 3800,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 43.87540054321289,
+          "longitude": -85.84600067138672,
+          "elevation_ft": 818,
+          "heading_true": 93.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 43.874698638916016,
+          "longitude": -85.83159637451172,
+          "elevation_ft": 828,
+          "heading_true": 273.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 120.85
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19053,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

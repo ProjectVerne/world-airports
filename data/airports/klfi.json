@@ -1,0 +1,89 @@
+{
+  "icao": "KLFI",
+  "iata": "LFI",
+  "name": "Langley Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.082901,
+    "longitude": -76.360497,
+    "elevation_ft": 11,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Hampton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Langley_Field",
+  "keywords": [
+    "Langley Field"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 10002,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 37.07759857,
+          "longitude": -76.37640381,
+          "elevation_ft": 9,
+          "heading_true": 67.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 37.08810043,
+          "longitude": -76.34470367,
+          "elevation_ft": 8,
+          "heading_true": 247.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NORFOLK APP/DEP",
+      "mhz": 124.9
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.85
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "NASA OPS",
+      "mhz": 123.375
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 141.75
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 125
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

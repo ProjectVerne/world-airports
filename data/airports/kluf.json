@@ -1,0 +1,108 @@
+{
+  "icao": "KLUF",
+  "iata": "LUF",
+  "name": "Luke Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.535,
+    "longitude": -112.383003,
+    "elevation_ft": 1085,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Glendale"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Luke_Air_Force_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03L/21R",
+      "length_ft": 10000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03L",
+          "latitude": 33.52299881,
+          "longitude": -112.3990021,
+          "elevation_ft": 1077,
+          "heading_true": 42.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21R",
+          "latitude": 33.54320145,
+          "longitude": -112.3759995,
+          "elevation_ft": 1084,
+          "heading_true": 222.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "03R/21L",
+      "length_ft": 9912,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03R",
+          "latitude": 33.52679825,
+          "longitude": -112.3899994,
+          "elevation_ft": 1071,
+          "heading_true": 42.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21L",
+          "latitude": 33.5469017,
+          "longitude": -112.3679962,
+          "elevation_ft": 1084,
+          "heading_true": 222.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 120.7
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 134.925
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 126.25
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 133.175
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.1
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

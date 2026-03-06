@@ -1,0 +1,146 @@
+{
+  "icao": "KAPA",
+  "iata": "APA",
+  "name": "Centennial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.57009888,
+    "longitude": -104.848999,
+    "elevation_ft": 5885,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Denver"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Centennial_Airport",
+  "keywords": [
+    "Arapahoe County Airport"
+  ],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 4800,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 39.572898864746094,
+          "longitude": -104.8479995727539,
+          "elevation_ft": 5822,
+          "heading_true": 110.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 39.568199157714844,
+          "longitude": -104.83200073242188,
+          "elevation_ft": 5791,
+          "heading_true": 290.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17L/35R",
+      "length_ft": 10001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17L",
+          "latitude": 39.58409881591797,
+          "longitude": -104.85099792480469,
+          "elevation_ft": 5790,
+          "heading_true": 178,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35R",
+          "latitude": 39.55670166015625,
+          "longitude": -104.8499984741211,
+          "elevation_ft": 5883,
+          "heading_true": 358,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17R/35L",
+      "length_ft": 7001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17R",
+          "latitude": 39.57899856567383,
+          "longitude": -104.85399627685547,
+          "elevation_ft": 5800,
+          "heading_true": 178,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35L",
+          "latitude": 39.55979919433594,
+          "longitude": -104.85299682617188,
+          "elevation_ft": 5866,
+          "heading_true": 358,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DENVER APP/DEP",
+      "mhz": 132.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 120.3
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 128.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

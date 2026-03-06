@@ -1,0 +1,123 @@
+{
+  "icao": "KDSM",
+  "iata": "DSM",
+  "name": "Des Moines International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.534027,
+    "longitude": -93.656719,
+    "elevation_ft": 958,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Des Moines"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Des_Moines_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 9004,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 41.52339935,
+          "longitude": -93.67710114,
+          "elevation_ft": 916,
+          "heading_true": 54,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 41.53789902,
+          "longitude": -93.65059662,
+          "elevation_ft": 935,
+          "heading_true": 234,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 9001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 41.54560089111328,
+          "longitude": -93.67449951171875,
+          "elevation_ft": 912,
+          "heading_true": 132,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 41.52899932861328,
+          "longitude": -93.65019989013672,
+          "elevation_ft": 958,
+          "heading_true": 312,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 118.6
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.55
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 134.15
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ANG OPS MAINT",
+      "mhz": 138.15
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT DODGE RDO",
+      "mhz": 122.65
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

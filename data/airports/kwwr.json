@@ -1,0 +1,98 @@
+{
+  "icao": "KWWR",
+  "iata": "WWR",
+  "name": "West Woodward Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.438,
+    "longitude": -99.5226667,
+    "elevation_ft": 2189,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Woodward"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/West_Woodward_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2500,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 36.43809891,
+          "longitude": -99.52870178,
+          "elevation_ft": 0,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 36.44250107,
+          "longitude": -99.52220154,
+          "elevation_ft": 0,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5502,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 36.44430160522461,
+          "longitude": -99.5208969116211,
+          "elevation_ft": 2160,
+          "heading_true": 180.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 36.429100036621094,
+          "longitude": -99.52110290527344,
+          "elevation_ft": 2188,
+          "heading_true": 0.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.425
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 126.95
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "icao": "KLIT",
+  "iata": "LIT",
+  "name": "Bill & Hillary Clinton National Airport/Adams Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.729222,
+    "longitude": -92.223591,
+    "elevation_ft": 262,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Little Rock"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Little_Rock_National_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04L/22R",
+      "length_ft": 8273,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04L",
+          "latitude": 34.72249984741211,
+          "longitude": -92.23799896240234,
+          "elevation_ft": 254,
+          "heading_true": 47,
+          "displaced_threshold_ft": 297
+        },
+        "high": {
+          "ident": "22R",
+          "latitude": 34.73820114135742,
+          "longitude": -92.21800231933594,
+          "elevation_ft": 262,
+          "heading_true": 227,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "04R/22L",
+      "length_ft": 8251,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04R",
+          "latitude": 34.719398498535156,
+          "longitude": -92.22119903564453,
+          "elevation_ft": 260,
+          "heading_true": 47,
+          "displaced_threshold_ft": 1050
+        },
+        "high": {
+          "ident": "22L",
+          "latitude": 34.73500061035156,
+          "longitude": -92.20130157470703,
+          "elevation_ft": 259,
+          "heading_true": 227,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 6224,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 34.73978042602539,
+          "longitude": -92.23811340332031,
+          "elevation_ft": 258,
+          "heading_true": 182,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 34.72269058227539,
+          "longitude": -92.23863983154297,
+          "elevation_ft": 253,
+          "heading_true": 2,
+          "displaced_threshold_ft": 164
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "LITTLE ROCK APP/DEP",
+      "mhz": 119.5
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.65
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.95
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "JONESBORO RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

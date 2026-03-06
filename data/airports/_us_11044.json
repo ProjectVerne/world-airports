@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Bahnson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.02080154418945,
+    "longitude": -80.51640319824219,
+    "elevation_ft": 810,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Mocksville"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3000,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 36.016700744628906,
+          "longitude": -80.51689910888672,
+          "elevation_ft": 0,
+          "heading_true": 6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 36.024898529052734,
+          "longitude": -80.51589965820312,
+          "elevation_ft": 0,
+          "heading_true": 212,
+          "displaced_threshold_ft": 830
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11044,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "icao": "KDTN",
+  "iata": "DTN",
+  "name": "Shreveport Downtown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.5401992798,
+    "longitude": -93.7450027466,
+    "elevation_ft": 179,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Shreveport"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Shreveport_Downtown_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4198,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 32.53699875,
+          "longitude": -93.74900055,
+          "elevation_ft": 173,
+          "heading_true": 55.3,
+          "displaced_threshold_ft": 230
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 32.54199982,
+          "longitude": -93.74040222,
+          "elevation_ft": 178,
+          "heading_true": 235.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5016,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 32.54600143,
+          "longitude": -93.75039673,
+          "elevation_ft": 178,
+          "heading_true": 140.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 32.53530121,
+          "longitude": -93.73999786,
+          "elevation_ft": 179,
+          "heading_true": 320.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.9
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.525
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.75
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.225
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.65
+    },
+    {
+      "type": "OTHER",
+      "description": "DE RIDDER RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.225
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

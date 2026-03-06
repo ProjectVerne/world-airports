@@ -1,0 +1,77 @@
+{
+  "icao": "PHNY",
+  "iata": "LNY",
+  "name": "Lanai Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.785675,
+    "longitude": -156.951324,
+    "elevation_ft": 1308,
+    "continent": "OC",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Lanai City"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lanai_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 20.78070068359375,
+          "longitude": -156.95700073242188,
+          "elevation_ft": 1305,
+          "heading_true": 44,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 20.790599822998047,
+          "longitude": -156.9459991455078,
+          "elevation_ft": 1308,
+          "heading_true": 224,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.375
+    },
+    {
+      "type": "OTHER",
+      "description": "HONOLULU CNTR",
+      "mhz": 119.3
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 117.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

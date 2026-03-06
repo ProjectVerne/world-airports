@@ -1,0 +1,95 @@
+{
+  "icao": "KTOC",
+  "iata": "TOC",
+  "name": "Toccoa Airport - R.G. Letourneau Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.5938,
+    "longitude": -83.295799,
+    "elevation_ft": 996,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Toccoa"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Toccoa_Airport",
+  "keywords": [
+    "Stephens County"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5008,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 34.587399,
+          "longitude": -83.299797,
+          "elevation_ft": 994,
+          "heading_true": 21,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 34.597698,
+          "longitude": -83.295097,
+          "elevation_ft": 968,
+          "heading_true": 201,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 2951,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 34.59519958496094,
+          "longitude": -83.29850006103516,
+          "elevation_ft": 972,
+          "heading_true": 88,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 34.59550094604492,
+          "longitude": -83.2886962890625,
+          "elevation_ft": 948,
+          "heading_true": 268,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA CNTR",
+      "mhz": 134.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

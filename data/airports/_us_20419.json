@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "James H Easom Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.311908,
+    "longitude": -89.135556,
+    "elevation_ft": 369,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Newton"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "O'Keefe Field"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 3000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 32.314701080322266,
+          "longitude": -89.1395034790039,
+          "elevation_ft": 369,
+          "heading_true": 132,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 32.309200286865234,
+          "longitude": -89.1322021484375,
+          "elevation_ft": 0,
+          "heading_true": 312,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20419,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

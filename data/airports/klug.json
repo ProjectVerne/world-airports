@@ -1,0 +1,72 @@
+{
+  "icao": "KLUG",
+  "iata": null,
+  "name": "Ellington Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.507,
+    "longitude": -86.803902,
+    "elevation_ft": 717,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Lewisburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ellington_Airport_(Tennessee)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 35.50030136,
+          "longitude": -86.8065033,
+          "elevation_ft": 717,
+          "heading_true": 17.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 35.51350021,
+          "longitude": -86.80130005,
+          "elevation_ft": 709,
+          "heading_true": 197.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.775
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 126.75
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

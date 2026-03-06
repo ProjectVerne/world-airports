@@ -1,0 +1,98 @@
+{
+  "icao": "KFET",
+  "iata": "FET",
+  "name": "Fremont Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.45024,
+    "longitude": -96.522884,
+    "elevation_ft": 1204,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Fremont"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fremont_Municipal_Airport_(Nebraska)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 2444,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 41.444099,
+          "longitude": -96.516197,
+          "elevation_ft": 1202,
+          "heading_true": 11,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 41.450699,
+          "longitude": -96.514503,
+          "elevation_ft": 1201,
+          "heading_true": 191,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 6353,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 41.4557991,
+          "longitude": -96.52870178,
+          "elevation_ft": 1203,
+          "heading_true": 141,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 41.44409943,
+          "longitude": -96.51609802,
+          "elevation_ft": 1203,
+          "heading_true": 321,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "OMAHA APP/DEP",
+      "mhz": 120.1
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 121.275
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

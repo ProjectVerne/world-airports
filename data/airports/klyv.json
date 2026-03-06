@@ -1,0 +1,58 @@
+{
+  "icao": "KLYV",
+  "iata": null,
+  "name": "Quentin Aanenson Airfield - Luverne Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.616217,
+    "longitude": -96.217946,
+    "elevation_ft": 1431,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Luverne"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Luverne_Municipal_Airport",
+  "keywords": [
+    "D19"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4200,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 43.62260055541992,
+          "longitude": -96.21790313720703,
+          "elevation_ft": 1431,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 43.61109924316406,
+          "longitude": -96.21749877929688,
+          "elevation_ft": 1424,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "icao": "KCBM",
+  "iata": "CBM",
+  "name": "Columbus Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.643799,
+    "longitude": -88.443802,
+    "elevation_ft": 219,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Columbus"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Columbus_Air_Force_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13C/31C",
+      "length_ft": 12004,
+      "width_ft": 300,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13C",
+          "latitude": 33.65539932,
+          "longitude": -88.46089935,
+          "elevation_ft": 195,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31C",
+          "latitude": 33.63249969,
+          "longitude": -88.43250275,
+          "elevation_ft": 214,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13L/31R",
+      "length_ft": 8001,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13L",
+          "latitude": 33.65539932,
+          "longitude": -88.45140076,
+          "elevation_ft": 194,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31R",
+          "latitude": 33.63980103,
+          "longitude": -88.43250275,
+          "elevation_ft": 219,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13R/31L",
+      "length_ft": 6320,
+      "width_ft": 175,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13R",
+          "latitude": 33.65069962,
+          "longitude": -88.45980072,
+          "elevation_ft": 192,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31L",
+          "latitude": 33.63899994,
+          "longitude": -88.44529724,
+          "elevation_ft": 207,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 126.075
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 115.2
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 132.05
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 128.65
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

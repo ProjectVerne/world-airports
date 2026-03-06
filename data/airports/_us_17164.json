@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Ocean Ridge Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.801602,
+    "longitude": -123.530504,
+    "elevation_ft": 940,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Gualala"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ocean_Ridge_Airport",
+  "keywords": [
+    "Q69"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 2504,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 38.8044014,
+          "longitude": -123.5329971,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 400
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 38.79880142,
+          "longitude": -123.5279999,
+          "elevation_ft": 0,
+          "heading_true": 247,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 17164,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

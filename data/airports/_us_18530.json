@@ -1,0 +1,78 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "McElroy Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.05341,
+    "longitude": -106.369078,
+    "elevation_ft": 7411,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Kremmling"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5540,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 40.055301666259766,
+          "longitude": -106.37899780273438,
+          "elevation_ft": 7395,
+          "heading_true": 104,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 40.051700592041016,
+          "longitude": -106.36000061035156,
+          "elevation_ft": 7410,
+          "heading_true": 284,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.425
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 128.65
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18530,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

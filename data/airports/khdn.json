@@ -1,0 +1,77 @@
+{
+  "icao": "KHDN",
+  "iata": "HDN",
+  "name": "Yampa Valley Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.481201,
+    "longitude": -107.218002,
+    "elevation_ft": 6606,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Hayden"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Yampa_Valley_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 10000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 40.486698150634766,
+          "longitude": -107.23400115966797,
+          "elevation_ft": 6580,
+          "heading_true": 113.7,
+          "displaced_threshold_ft": 510
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 40.47570037841797,
+          "longitude": -107.20099639892578,
+          "elevation_ft": 6602,
+          "heading_true": 293.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.275
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 120.475
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

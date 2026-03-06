@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Harsens Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.589698791503906,
+    "longitude": -82.57640075683594,
+    "elevation_ft": 578,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Harsens Island"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2225,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 42.58720016479492,
+          "longitude": -82.57849884033203,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 371
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 42.59159851074219,
+          "longitude": -82.57279968261719,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 230
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 26366,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "icao": "KDNL",
+  "iata": "DNL",
+  "name": "Daniel Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.4664993286,
+    "longitude": -82.0393981934,
+    "elevation_ft": 423,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Augusta"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 33.46080017089844,
+          "longitude": -82.0436019897461,
+          "elevation_ft": 373,
+          "heading_true": 45,
+          "displaced_threshold_ft": 500
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 33.46860122680664,
+          "longitude": -82.0343017578125,
+          "elevation_ft": 324,
+          "heading_true": 225,
+          "displaced_threshold_ft": 288
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 3733,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 33.46969986,
+          "longitude": -82.04579926,
+          "elevation_ft": 422,
+          "heading_true": 104,
+          "displaced_threshold_ft": 326
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 33.46720123,
+          "longitude": -82.0338974,
+          "elevation_ft": 419,
+          "heading_true": 284,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "AUGUSTA APP/DEP",
+      "mhz": 126.8
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.275
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 128.1
+    },
+    {
+      "type": "OTHER",
+      "description": "MACON RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

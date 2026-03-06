@@ -1,0 +1,67 @@
+{
+  "icao": "KCNP",
+  "iata": null,
+  "name": "Billy G Ray Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.07749938964844,
+    "longitude": -102.46399688720703,
+    "elevation_ft": 3682,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Chappell"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4000,
+      "width_ft": 55,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 41.08100128173828,
+          "longitude": -102.47000122070312,
+          "elevation_ft": 3681,
+          "heading_true": 129.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 41.07389831542969,
+          "longitude": -102.45800018310547,
+          "elevation_ft": 3672,
+          "heading_true": 309.9,
+          "displaced_threshold_ft": 130
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 118.475
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

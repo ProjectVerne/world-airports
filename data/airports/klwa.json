@@ -1,0 +1,103 @@
+{
+  "icao": "KLWA",
+  "iata": null,
+  "name": "South Haven Area Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.3512,
+    "longitude": -86.255699,
+    "elevation_ft": 666,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "South Haven"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/South_Haven_Area_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4800,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 42.3479,
+          "longitude": -86.260002,
+          "elevation_ft": 651,
+          "heading_true": 44,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 42.357399,
+          "longitude": -86.247803,
+          "elevation_ft": 666,
+          "heading_true": 224,
+          "displaced_threshold_ft": 500
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3260,
+      "width_ft": 190,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 42.35219955,
+          "longitude": -86.26270294,
+          "elevation_ft": 666,
+          "heading_true": 132,
+          "displaced_threshold_ft": 963
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 42.34609985,
+          "longitude": -86.25370026,
+          "elevation_ft": 666,
+          "heading_true": 312,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.025
+    },
+    {
+      "type": "OTHER",
+      "description": "CHICAGO CNTR",
+      "mhz": 128.5
+    },
+    {
+      "type": "OTHER",
+      "description": "LANSING RDO",
+      "mhz": 112.1
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

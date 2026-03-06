@@ -1,0 +1,129 @@
+{
+  "icao": "KMCK",
+  "iata": "MCK",
+  "name": "McCook Ben Nelson Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.207787,
+    "longitude": -100.592794,
+    "elevation_ft": 2583,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "McCook"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/McCook_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 40.20280075073242,
+          "longitude": -100.5999984741211,
+          "elevation_ft": 2563,
+          "heading_true": 46,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 40.21039962768555,
+          "longitude": -100.58899688720703,
+          "elevation_ft": 2556,
+          "heading_true": 226,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 6450,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 40.21250153,
+          "longitude": -100.598999,
+          "elevation_ft": 2583,
+          "heading_true": 131.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 40.20080185,
+          "longitude": -100.5820007,
+          "elevation_ft": 2546,
+          "heading_true": 311.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 1330,
+      "width_ft": 160,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 40.20550156,
+          "longitude": -100.5920029,
+          "elevation_ft": 2558,
+          "heading_true": 181.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 40.2018013,
+          "longitude": -100.5920029,
+          "elevation_ft": 2560,
+          "heading_true": 1.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.025
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 118.475
+    },
+    {
+      "type": "OTHER",
+      "description": "COLUMBUS RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Bult Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.377602,
+    "longitude": -87.681396,
+    "elevation_ft": 790,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Monee"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.37739944458008,
+          "longitude": -87.68890380859375,
+          "elevation_ft": 790,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.377498626708984,
+          "longitude": -87.67060089111328,
+          "elevation_ft": 772,
+          "heading_true": 269,
+          "displaced_threshold_ft": 151
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 16520,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "icao": "KAUM",
+  "iata": "AUM",
+  "name": "Austin Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.66500092,
+    "longitude": -92.93340302,
+    "elevation_ft": 1234,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Austin"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Austin_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 5800,
+      "width_ft": 100,
+      "surface": "concrete",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 43.670501708984375,
+          "longitude": -92.93440246582031,
+          "elevation_ft": 1231,
+          "heading_true": 172,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 43.65480041503906,
+          "longitude": -92.931396484375,
+          "elevation_ft": 1231,
+          "heading_true": 352,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ROCHESTER APP/DEP",
+      "mhz": 119.8
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.025
+    },
+    {
+      "type": "OTHER",
+      "description": "PRINCETON RDO",
+      "mhz": 122.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

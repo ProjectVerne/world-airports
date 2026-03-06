@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": "CTK",
+  "name": "Canton Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.308842,
+    "longitude": -96.571225,
+    "elevation_ft": 1290,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Canton"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "SD10"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 3600,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 43.31380081176758,
+          "longitude": -96.57099914550781,
+          "elevation_ft": 1290,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 43.30390167236328,
+          "longitude": -96.57099914550781,
+          "elevation_ft": 1271,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19060,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

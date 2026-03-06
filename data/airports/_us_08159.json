@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": "PPV",
+  "name": "Port Protection Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 56.3288,
+    "longitude": -133.610001,
+    "elevation_ft": 0,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Port Protection"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Protection_Seaplane_Base",
+  "keywords": [
+    "AK19"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 8159,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

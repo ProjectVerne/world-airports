@@ -1,0 +1,129 @@
+{
+  "icao": "KPGV",
+  "iata": "PGV",
+  "name": "Pitt-Greenville Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.635535,
+    "longitude": -77.384262,
+    "elevation_ft": 26,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Greenville"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pitt-Greenville_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 7175,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 35.62590027,
+          "longitude": -77.38580322,
+          "elevation_ft": 22,
+          "heading_true": 7.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 35.64360046,
+          "longitude": -77.38289642,
+          "elevation_ft": 27,
+          "heading_true": 187.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 4997,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 35.6330986,
+          "longitude": -77.39160156,
+          "elevation_ft": 25,
+          "heading_true": 66.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 35.63850021,
+          "longitude": -77.37619781,
+          "elevation_ft": 25,
+          "heading_true": 246.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 2687,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 35.637699,
+          "longitude": -77.393898,
+          "elevation_ft": 26,
+          "heading_true": 128,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 35.633202,
+          "longitude": -77.386703,
+          "elevation_ft": 25,
+          "heading_true": 308,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 128.425
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 122.35
+    },
+    {
+      "type": "OTHER",
+      "description": "WASHINGTON CNTR",
+      "mhz": 135.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

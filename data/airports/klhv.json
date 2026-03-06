@@ -1,0 +1,93 @@
+{
+  "icao": "KLHV",
+  "iata": "LHV",
+  "name": "William T. Piper Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.13560104,
+    "longitude": -77.42230225,
+    "elevation_ft": 556,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Lock Haven"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/William_T._Piper_Memorial_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09L/27R",
+      "length_ft": 3799,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09L",
+          "latitude": 41.13529968,
+          "longitude": -77.42919922,
+          "elevation_ft": 556,
+          "heading_true": 82.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27R",
+          "latitude": 41.13669968,
+          "longitude": -77.41549683,
+          "elevation_ft": 555,
+          "heading_true": 262.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09R/27L",
+      "length_ft": 2179,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09R",
+          "latitude": 41.13510132,
+          "longitude": -77.42620087,
+          "elevation_ft": 0,
+          "heading_true": 82.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27L",
+          "latitude": 41.13589859,
+          "longitude": -77.41829681,
+          "elevation_ft": 0,
+          "heading_true": 262.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NEW YORK CNTR",
+      "mhz": 134.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

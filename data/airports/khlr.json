@@ -1,0 +1,79 @@
+{
+  "icao": "KHLR",
+  "iata": "HLR",
+  "name": "Hood Army Air Field",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.1387,
+    "longitude": -97.7145,
+    "elevation_ft": 924,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Cavazos (Killeen)"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hood_Army_Airfield",
+  "keywords": [
+    "Yoakum-Defrenn Army Heliport"
+  ],
+  "runways": [
+    {
+      "id": "16H/34H",
+      "length_ft": 3803,
+      "width_ft": 144,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16H",
+          "latitude": 31.1436,
+          "longitude": -97.716103,
+          "elevation_ft": 916,
+          "heading_true": 164,
+          "displaced_threshold_ft": 560
+        },
+        "high": {
+          "ident": "34H",
+          "latitude": 31.133499,
+          "longitude": -97.7127,
+          "elevation_ft": 880,
+          "heading_true": 344,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "GRAY APP/DEP",
+      "mhz": 120.075
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 133.85
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT HOOD FLT FLW",
+      "mhz": 143.1
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.65
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Jackson County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.000999,
+    "longitude": -96.582001,
+    "elevation_ft": 61,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Edna"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Jackson_County_Airport_(Texas)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3393,
+      "width_ft": 70,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 29.0049991607666,
+          "longitude": -96.58460235595703,
+          "elevation_ft": 61,
+          "heading_true": 150,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 28.996999740600586,
+          "longitude": -96.57929992675781,
+          "elevation_ft": 61,
+          "heading_true": 330,
+          "displaced_threshold_ft": 400
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "INFO",
+      "mhz": 123.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18553,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

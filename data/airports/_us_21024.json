@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Cottonwood Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.03879928588867,
+    "longitude": -116.33200073242188,
+    "elevation_ft": 3474,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Cottonwood"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3100,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 46.03889846801758,
+          "longitude": -116.33799743652344,
+          "elevation_ft": 3474,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 46.03889846801758,
+          "longitude": -116.32599639892578,
+          "elevation_ft": 3404,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SEATTLE",
+      "mhz": 123.95
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "CASCADE RCO",
+      "mhz": 122.35
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21024,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

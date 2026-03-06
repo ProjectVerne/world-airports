@@ -1,0 +1,130 @@
+{
+  "icao": "KCHS",
+  "iata": "CHS",
+  "name": "Charleston International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.896159,
+    "longitude": -80.038151,
+    "elevation_ft": 46,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Charleston"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Charleston_International_Airport",
+  "keywords": [
+    "Charleston Air Force Base"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 7000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 32.88479996,
+          "longitude": -80.04560089,
+          "elevation_ft": 21,
+          "heading_true": 24.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 32.90230179,
+          "longitude": -80.03620148,
+          "elevation_ft": 41,
+          "heading_true": 204.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 9001,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 32.9129982,
+          "longitude": -80.04810333,
+          "elevation_ft": 43,
+          "heading_true": 147.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 32.89220047,
+          "longitude": -80.03230286,
+          "elevation_ft": 39,
+          "heading_true": 327.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 119.3
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.75
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 120.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "CONSOLIDATED COMD",
+      "mhz": 134.1
+    },
+    {
+      "type": "OTHER",
+      "description": "ANDERSON RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 126
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

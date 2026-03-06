@@ -1,0 +1,98 @@
+{
+  "icao": "KBNO",
+  "iata": "BNO",
+  "name": "Burns Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.590463,
+    "longitude": -118.955154,
+    "elevation_ft": 4148,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Burns"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Burns_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4600,
+      "width_ft": 60,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 43.5885009765625,
+          "longitude": -118.95800018310547,
+          "elevation_ft": 4145,
+          "heading_true": 48,
+          "displaced_threshold_ft": 600
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 43.596900939941406,
+          "longitude": -118.94599914550781,
+          "elevation_ft": 4143,
+          "heading_true": 228,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 5101,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 43.59700012,
+          "longitude": -118.9639969,
+          "elevation_ft": 4147,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 43.58720016,
+          "longitude": -118.9499969,
+          "elevation_ft": 4144,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.575
+    },
+    {
+      "type": "OTHER",
+      "description": "MC MINNVILLE RDO",
+      "mhz": 122.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Gen-Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.43980026245117,
+    "longitude": -90.11009979248047,
+    "elevation_ft": 645,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Geneseo"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2568,
+      "width_ft": 120,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.43989944458008,
+          "longitude": -90.11470031738281,
+          "elevation_ft": 635,
+          "heading_true": 0,
+          "displaced_threshold_ft": 240
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.439701080322266,
+          "longitude": -90.10540008544922,
+          "elevation_ft": 635,
+          "heading_true": 295.4,
+          "displaced_threshold_ft": 300
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 10461,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

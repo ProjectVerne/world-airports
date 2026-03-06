@@ -1,0 +1,50 @@
+{
+  "icao": "KLXT",
+  "iata": null,
+  "name": "Lee's Summit Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.959702,
+    "longitude": -94.371399,
+    "elevation_ft": 1004,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Lee's Summit"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lee%27s_Summit_Municipal_Airport",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY APP/DEP",
+      "mhz": 119
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 124.175
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.45
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

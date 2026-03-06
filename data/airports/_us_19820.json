@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "St George Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.645999908447266,
+    "longitude": -84.9166030883789,
+    "elevation_ft": 3,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Apalachicola"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 3339,
+      "width_ft": 65,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 29.64970016,
+          "longitude": -84.92009735,
+          "elevation_ft": 0,
+          "heading_true": 140,
+          "displaced_threshold_ft": 65
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 29.64240074,
+          "longitude": -84.91300201,
+          "elevation_ft": 0,
+          "heading_true": 320,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19820,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

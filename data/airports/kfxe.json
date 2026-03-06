@@ -1,0 +1,115 @@
+{
+  "icao": "KFXE",
+  "iata": "FXE",
+  "name": "Fort Lauderdale Executive Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.1972999573,
+    "longitude": -80.1707000732,
+    "elevation_ft": 13,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Fort Lauderdale"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Lauderdale_Executive_Airport",
+  "keywords": [
+    "West Prospect Satellite Field"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 6002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 26.19759941,
+          "longitude": -80.18090057,
+          "elevation_ft": 12,
+          "heading_true": 84,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 26.19939995,
+          "longitude": -80.16269684,
+          "elevation_ft": 12,
+          "heading_true": 264,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 4000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 26.19890022277832,
+          "longitude": -80.17389678955078,
+          "elevation_ft": 12,
+          "heading_true": 129,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 26.191999435424805,
+          "longitude": -80.16439819335938,
+          "elevation_ft": 12,
+          "heading_true": 309,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MIAMI APP/DEP",
+      "mhz": 119.7
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.85
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 127.95
+    },
+    {
+      "type": "GND",
+      "description": "EXECUTIVE GND",
+      "mhz": 121.75
+    },
+    {
+      "type": "TWR",
+      "description": "EXECUTIVE TWR",
+      "mhz": 120.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "icao": "KBLH",
+  "iata": "BLH",
+  "name": "Blythe Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.6192016602,
+    "longitude": -114.717002869,
+    "elevation_ft": 399,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Blythe"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Blythe_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 6543,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 33.616600036621094,
+          "longitude": -114.72799682617188,
+          "elevation_ft": 395,
+          "heading_true": 90.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 33.61650085449219,
+          "longitude": -114.70600128173828,
+          "elevation_ft": 393,
+          "heading_true": 270.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5800,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.630001068115234,
+          "longitude": -114.71700286865234,
+          "elevation_ft": 397,
+          "heading_true": 180.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.61410140991211,
+          "longitude": -114.71700286865234,
+          "elevation_ft": 392,
+          "heading_true": 0.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 120.175
+    },
+    {
+      "type": "OTHER",
+      "description": "LOS ANGELES CNTR",
+      "mhz": 128.15
+    },
+    {
+      "type": "OTHER",
+      "description": "RIVERSIDE RDO",
+      "mhz": 122.4
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

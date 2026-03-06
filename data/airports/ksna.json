@@ -1,0 +1,157 @@
+{
+  "icao": "KSNA",
+  "iata": "SNA",
+  "name": "John Wayne Orange County International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.675063,
+    "longitude": -117.869281,
+    "elevation_ft": 56,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Santa Ana"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/John_Wayne_Airport",
+  "keywords": [
+    "Disney",
+    "Disneyland",
+    "Orange County"
+  ],
+  "runways": [
+    {
+      "id": "02L/20R",
+      "length_ft": 5700,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02L",
+          "latitude": 33.66780090332031,
+          "longitude": -117.8740005493164,
+          "elevation_ft": 54,
+          "heading_true": 27.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20R",
+          "latitude": 33.68159866333008,
+          "longitude": -117.86499786376953,
+          "elevation_ft": 42,
+          "heading_true": 207.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "02R/20L",
+      "length_ft": 2886,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02R",
+          "latitude": 33.67399979,
+          "longitude": -117.8679962,
+          "elevation_ft": 52,
+          "heading_true": 27.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20L",
+          "latitude": 33.68099976,
+          "longitude": -117.8639984,
+          "elevation_ft": 40,
+          "heading_true": 207.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "SOCAL APP",
+      "mhz": 121.3
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL SECONDARY",
+      "mhz": 121.85
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126.8
+    },
+    {
+      "type": "DEP",
+      "description": "SOCAL DEP",
+      "mhz": 128.1
+    },
+    {
+      "type": "DEP",
+      "description": "SOCAL DEP",
+      "mhz": 132.7
+    },
+    {
+      "type": "GND",
+      "description": "JOHN WAYNE GROUND",
+      "mhz": 120.8
+    },
+    {
+      "type": "GND",
+      "description": "JOHN WAYNE GROUND SECONDARY",
+      "mhz": 132.25
+    },
+    {
+      "type": "OTHER",
+      "description": "RIVERSIDE RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "TWR",
+      "description": "RWY 02-20",
+      "mhz": 119.9
+    },
+    {
+      "type": "TWR",
+      "description": "02L-20R",
+      "mhz": 126.8
+    },
+    {
+      "type": "TWR",
+      "description": "JOHN WAYNE TOWER SECONDARY",
+      "mhz": 128.35
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

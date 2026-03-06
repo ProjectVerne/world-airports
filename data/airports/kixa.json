@@ -1,0 +1,56 @@
+{
+  "icao": "KIXA",
+  "iata": null,
+  "name": "Halifax-Northampton Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.3298,
+    "longitude": -77.635231,
+    "elevation_ft": 145,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Halifax"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Halifax%E2%80%93Northampton_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 36.32229995727539,
+          "longitude": -77.63670349121094,
+          "elevation_ft": 142,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 36.33729934692383,
+          "longitude": -77.63379669189453,
+          "elevation_ft": 140,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

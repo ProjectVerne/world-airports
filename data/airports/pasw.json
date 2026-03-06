@@ -1,0 +1,29 @@
+{
+  "icao": "PASW",
+  "iata": "SKW",
+  "name": "Skwentna Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.9653015137,
+    "longitude": -151.190994263,
+    "elevation_ft": 148,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Skwentna"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Skwentna_Airport",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

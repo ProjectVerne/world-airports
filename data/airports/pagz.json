@@ -1,0 +1,56 @@
+{
+  "icao": "PAGZ",
+  "iata": "GMT",
+  "name": "Granite Mountain Air Station",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.40209961,
+    "longitude": -161.2810059,
+    "elevation_ft": 1313,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Granite Mountain"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Granite_Mountain_Air_Station",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3873,
+      "width_ft": 111,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 65.40740203857422,
+          "longitude": -161.281005859375,
+          "elevation_ft": 1312,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 65.39679718017578,
+          "longitude": -161.28199768066406,
+          "elevation_ft": 1233,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

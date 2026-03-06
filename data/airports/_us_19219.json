@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Dayton Valley Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.238581,
+    "longitude": -119.555023,
+    "elevation_ft": 4414,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Dayton/Carson City"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "NV11"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5343,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 39.23529815673828,
+          "longitude": -119.56400299072266,
+          "elevation_ft": 4414,
+          "heading_true": 65,
+          "displaced_threshold_ft": 991
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 39.24150085449219,
+          "longitude": -119.5469970703125,
+          "elevation_ft": 4372,
+          "heading_true": 245,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19219,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

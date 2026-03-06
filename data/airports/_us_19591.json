@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Ojibwa Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.720001,
+    "longitude": -85.0028,
+    "elevation_ft": 950,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Weidman"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ojibwa_Airpark",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3600,
+      "width_ft": 125,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 43.71649932861328,
+          "longitude": -85.00759887695312,
+          "elevation_ft": 0,
+          "heading_true": 44.6,
+          "displaced_threshold_ft": 700
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 43.7234992980957,
+          "longitude": -84.99800109863281,
+          "elevation_ft": 0,
+          "heading_true": 224.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19591,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "icao": "KAAF",
+  "iata": "AAF",
+  "name": "Apalachicola Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.727501,
+    "longitude": -85.027496,
+    "elevation_ft": 20,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Apalachicola"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Apalachicola_Municipal_Airport",
+  "keywords": [
+    "AQQ",
+    "KAQQ"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 5271,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 29.72249985,
+          "longitude": -85.03720093,
+          "elevation_ft": 20,
+          "heading_true": 60,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 29.72940063,
+          "longitude": -85.02330017,
+          "elevation_ft": 20,
+          "heading_true": 240,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5425,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 29.732901,
+          "longitude": -85.034897,
+          "elevation_ft": 20,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 29.7225,
+          "longitude": -85.023003,
+          "elevation_ft": 19,
+          "heading_true": 315,
+          "displaced_threshold_ft": 400
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5251,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 29.7364006,
+          "longitude": -85.02310181,
+          "elevation_ft": 16,
+          "heading_true": 180,
+          "displaced_threshold_ft": 300
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 29.72200012,
+          "longitude": -85.02320099,
+          "elevation_ft": 20,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TYNDALL APP/DEP",
+      "mhz": 119.75
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.925
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

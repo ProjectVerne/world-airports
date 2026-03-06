@@ -1,0 +1,113 @@
+{
+  "icao": "KVAD",
+  "iata": "VAD",
+  "name": "Moody Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.9678001404,
+    "longitude": -83.1930007935,
+    "elevation_ft": 233,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Valdosta"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Moody_Air_Force_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "19L/01R",
+      "length_ft": 9300,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "19L",
+          "latitude": 30.9818,
+          "longitude": -83.190804,
+          "elevation_ft": 233,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "01R",
+          "latitude": 30.956301,
+          "longitude": -83.191101,
+          "elevation_ft": 206,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "19R/01L",
+      "length_ft": 8002,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "19R",
+          "latitude": 30.9793,
+          "longitude": -83.195198,
+          "elevation_ft": 231,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "01L",
+          "latitude": 30.9573,
+          "longitude": -83.195396,
+          "elevation_ft": 221,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "VALDOSTA APP",
+      "mhz": 119.525
+    },
+    {
+      "type": "DEP",
+      "description": "VALDOSTA DEP",
+      "mhz": 126.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 120.625
+    },
+    {
+      "type": "OTHER",
+      "description": "SOF",
+      "mhz": 143.825
+    },
+    {
+      "type": "OTHER",
+      "description": "PTD",
+      "mhz": 139.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 128.45
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

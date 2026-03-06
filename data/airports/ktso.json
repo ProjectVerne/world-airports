@@ -1,0 +1,67 @@
+{
+  "icao": "KTSO",
+  "iata": null,
+  "name": "Carroll County-Tolson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.561901,
+    "longitude": -81.077499,
+    "elevation_ft": 1163,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Carrollton"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Carroll_County%E2%80%93Tolson_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4300,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 40.55929946899414,
+          "longitude": -81.08450317382812,
+          "elevation_ft": 1163,
+          "heading_true": 64.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 40.56439971923828,
+          "longitude": -81.07050323486328,
+          "elevation_ft": 1163,
+          "heading_true": 244.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "AKRON CANTON APP/DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

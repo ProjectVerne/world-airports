@@ -1,0 +1,103 @@
+{
+  "icao": "KWWD",
+  "iata": "WWD",
+  "name": "Cape May County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.008499145500004,
+    "longitude": -74.9083023071,
+    "elevation_ft": 23,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Wildwood"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cape_May_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5252,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 39.002998,
+          "longitude": -74.905602,
+          "elevation_ft": 23,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 39.016701,
+          "longitude": -74.905701,
+          "elevation_ft": 17,
+          "heading_true": 180,
+          "displaced_threshold_ft": 80
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 5000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 39.007099,
+          "longitude": -74.920303,
+          "elevation_ft": 17,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 39.007198,
+          "longitude": -74.902702,
+          "elevation_ft": 20,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 124.6
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.275
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

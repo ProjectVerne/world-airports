@@ -1,0 +1,77 @@
+{
+  "icao": "KDMA",
+  "iata": "DMA",
+  "name": "Davis Monthan Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.1665000916,
+    "longitude": -110.883003235,
+    "elevation_ft": 2704,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Tucson"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Davis-Monthan_Air_Force_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 13643,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 32.180301666259766,
+          "longitude": -110.89800262451172,
+          "elevation_ft": 2589,
+          "heading_true": 137.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 32.1525993347168,
+          "longitude": -110.86799621582031,
+          "elevation_ft": 2704,
+          "heading_true": 317.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TUCSON APP/DEP",
+      "mhz": 119.4
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.8
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.85
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

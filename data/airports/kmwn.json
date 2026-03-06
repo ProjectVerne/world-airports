@@ -1,0 +1,31 @@
+{
+  "icao": "KMWN",
+  "iata": null,
+  "name": "Mount Washington Observatory",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.270278,
+    "longitude": -71.303333,
+    "elevation_ft": 6288,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": null
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mount_Washington_Observatory",
+  "keywords": [
+    "Mount Washington"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

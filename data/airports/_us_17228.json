@@ -1,0 +1,36 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Woods and Lakes Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.123600006103516,
+    "longitude": -81.88700103759766,
+    "elevation_ft": 100,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Oklawaha"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 17228,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

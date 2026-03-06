@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "New Market Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.655683,
+    "longitude": -78.708995,
+    "elevation_ft": 975,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "New Market"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Market_Airport",
+  "keywords": [
+    "Skydive Shenandoah"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 2920,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 38.653099060058594,
+          "longitude": -78.71199798583984,
+          "elevation_ft": 0,
+          "heading_true": 50.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 38.658199310302734,
+          "longitude": -78.7041015625,
+          "elevation_ft": 0,
+          "heading_true": 230.5,
+          "displaced_threshold_ft": 900
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19151,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

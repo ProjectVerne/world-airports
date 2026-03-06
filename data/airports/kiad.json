@@ -1,0 +1,182 @@
+{
+  "icao": "KIAD",
+  "iata": "IAD",
+  "name": "Washington Dulles International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.9445,
+    "longitude": -77.455803,
+    "elevation_ft": 312,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Dulles"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Washington_Dulles_International_Airport",
+  "keywords": [
+    "WAS"
+  ],
+  "runways": [
+    {
+      "id": "01C/19C",
+      "length_ft": 11500,
+      "width_ft": 150,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01C",
+          "latitude": 38.93909836,
+          "longitude": -77.45980072,
+          "elevation_ft": 286,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19C",
+          "latitude": 38.97060013,
+          "longitude": -77.45929718,
+          "elevation_ft": 269,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "01L/19R",
+      "length_ft": 9400,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01L",
+          "latitude": 38.945,
+          "longitude": -77.47482,
+          "elevation_ft": 286,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19R",
+          "latitude": 38.97078,
+          "longitude": -77.47445,
+          "elevation_ft": 269,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "01R/19L",
+      "length_ft": 11500,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01R",
+          "latitude": 38.92380142211914,
+          "longitude": -77.4364013671875,
+          "elevation_ft": 312,
+          "heading_true": 0.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19L",
+          "latitude": 38.955299377441406,
+          "longitude": -77.43599700927734,
+          "elevation_ft": 293,
+          "heading_true": 180.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 10501,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 38.94380187988281,
+          "longitude": -77.49040222167969,
+          "elevation_ft": 310,
+          "heading_true": 110.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 38.93360137939453,
+          "longitude": -77.45590209960938,
+          "elevation_ft": 288,
+          "heading_true": 290.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "POTOMAC APP",
+      "mhz": 120.45
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 134.85
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 135.7
+    },
+    {
+      "type": "DEP",
+      "description": "POTOMAC DEP",
+      "mhz": 125.05
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ARMEL RCO",
+      "mhz": 113.5
+    },
+    {
+      "type": "OTHER",
+      "description": "RAMP CON",
+      "mhz": 129.55
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

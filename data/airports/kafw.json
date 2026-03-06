@@ -1,0 +1,113 @@
+{
+  "icao": "KAFW",
+  "iata": "AFW",
+  "name": "Perot Field/Fort Worth Alliance Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.99044,
+    "longitude": -97.31947,
+    "elevation_ft": 722,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Worth_Alliance_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16L/34R",
+      "length_ft": 11000,
+      "width_ft": 150,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16L",
+          "latitude": 33.0015983581543,
+          "longitude": -97.3207015991211,
+          "elevation_ft": 723,
+          "heading_true": 170.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34R",
+          "latitude": 32.97560119628906,
+          "longitude": -97.31539916992188,
+          "elevation_ft": 664,
+          "heading_true": 350.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16R/34L",
+      "length_ft": 11125,
+      "width_ft": 150,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16R",
+          "latitude": 32.99779892,
+          "longitude": -97.32189941,
+          "elevation_ft": 721,
+          "heading_true": 170.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34L",
+          "latitude": 32.97539902,
+          "longitude": -97.31739807,
+          "elevation_ft": 665,
+          "heading_true": 350.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "RGNL APP/DEP",
+      "mhz": 118.1
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 126.925
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.925
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 128.725
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 132.65
+    },
+    {
+      "type": "TWR",
+      "description": "ALLIANCE TWR",
+      "mhz": 120.825
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

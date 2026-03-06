@@ -1,0 +1,77 @@
+{
+  "icao": "KLJF",
+  "iata": null,
+  "name": "Litchfield Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.097099,
+    "longitude": -94.507301,
+    "elevation_ft": 1140,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Litchfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Litchfield_Municipal_Airport_(Minnesota)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 4002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 45.101200103759766,
+          "longitude": -94.51239776611328,
+          "elevation_ft": 1139,
+          "heading_true": 138.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 45.09299850463867,
+          "longitude": -94.5020980834961,
+          "elevation_ft": 1139,
+          "heading_true": 318.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 109
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 125.5
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "PRINCETON RDO",
+      "mhz": 109
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

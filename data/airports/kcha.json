@@ -1,0 +1,128 @@
+{
+  "icao": "KCHA",
+  "iata": "CHA",
+  "name": "Chattanooga Metropolitan Airport (Lovell Field)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.035301,
+    "longitude": -85.203796,
+    "elevation_ft": 683,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Chattanooga"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Chattanooga_Metropolitan_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 7400,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 35.022701263427734,
+          "longitude": -85.2074966430664,
+          "elevation_ft": 681,
+          "heading_true": 16.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 35.04209899902344,
+          "longitude": -85.20040130615234,
+          "elevation_ft": 667,
+          "heading_true": 196.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 5575,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 35.04520035,
+          "longitude": -85.20829773,
+          "elevation_ft": 671,
+          "heading_true": 145.5,
+          "displaced_threshold_ft": 105
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 35.03390121,
+          "longitude": -85.19879913,
+          "elevation_ft": 671,
+          "heading_true": 325.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "CHATTANOOGA APP",
+      "mhz": 119.2
+    },
+    {
+      "type": "APP",
+      "description": "CHATTANOOGA APP",
+      "mhz": 122.5
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.85
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.95
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.3
+    },
+    {
+      "type": "DEP",
+      "description": "CHATTANOOGA DEP",
+      "mhz": 119.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "TWR",
+      "description": "CHATTANOOGA TWR",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

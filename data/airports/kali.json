@@ -1,0 +1,134 @@
+{
+  "icao": "KALI",
+  "iata": "ALI",
+  "name": "Alice International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.7409,
+    "longitude": -98.026901,
+    "elevation_ft": 178,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Alice"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Alice_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 4171,
+      "width_ft": 130,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 27.74489974975586,
+          "longitude": -98.03309631347656,
+          "elevation_ft": 178,
+          "heading_true": 89,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 27.7450008392334,
+          "longitude": -98.02020263671875,
+          "elevation_ft": 171,
+          "heading_true": 269,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5997,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 27.74530029296875,
+          "longitude": -98.03389739990234,
+          "elevation_ft": 178,
+          "heading_true": 134,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 27.733800888061523,
+          "longitude": -98.02069854736328,
+          "elevation_ft": 166,
+          "heading_true": 314,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 4490,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 27.745100021362305,
+          "longitude": -98.02680206298828,
+          "elevation_ft": 173,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 27.732799530029297,
+          "longitude": -98.02670288085938,
+          "elevation_ft": 171,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "KINGSVILLE APP",
+      "mhz": 119.9
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.225
+    },
+    {
+      "type": "DEP",
+      "description": "KINGSVILLE DEP",
+      "mhz": 119.9
+    },
+    {
+      "type": "OTHER",
+      "description": "SAN ANGELO RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

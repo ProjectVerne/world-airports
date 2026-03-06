@@ -1,0 +1,117 @@
+{
+  "icao": "KIAB",
+  "iata": "IAB",
+  "name": "McConnell Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.621899,
+    "longitude": -97.268204,
+    "elevation_ft": 1371,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Wichita"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/McConnell_Air_Force_Base",
+  "keywords": [
+    "22nd Air Refueling Wing",
+    "931st Air Refueling Group",
+    "184th Intelligence Wing"
+  ],
+  "runways": [
+    {
+      "id": "01L/19R",
+      "length_ft": 12000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01L",
+          "latitude": 37.6072998,
+          "longitude": -97.27349854,
+          "elevation_ft": 1337,
+          "heading_true": 13,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19R",
+          "latitude": 37.63949966,
+          "longitude": -97.26450348,
+          "elevation_ft": 1371,
+          "heading_true": 193,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "01R/19L",
+      "length_ft": 12007,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01R",
+          "latitude": 37.60680008,
+          "longitude": -97.27069855,
+          "elevation_ft": 1336,
+          "heading_true": 13,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19L",
+          "latitude": 37.63899994,
+          "longitude": -97.26180267,
+          "elevation_ft": 1364,
+          "heading_true": 193,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "WICHITA APP",
+      "mhz": 120.6
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.65
+    },
+    {
+      "type": "DEP",
+      "description": "WICHITA DEP",
+      "mhz": 120.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 118
+    },
+    {
+      "type": "OTHER",
+      "description": "BOEING GND",
+      "mhz": 123.125
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 127.25
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "icao": "KDGW",
+  "iata": "DGW",
+  "name": "Converse County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.79719925,
+    "longitude": -105.3860016,
+    "elevation_ft": 4933,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Douglas"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Converse_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4760,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 42.798099517822266,
+          "longitude": -105.39900207519531,
+          "elevation_ft": 4898,
+          "heading_true": 66.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 42.803199768066406,
+          "longitude": -105.38200378417969,
+          "elevation_ft": 4911,
+          "heading_true": 246.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 6534,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 42.79880142,
+          "longitude": -105.3929977,
+          "elevation_ft": 4909,
+          "heading_true": 117.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 42.79040146,
+          "longitude": -105.3720016,
+          "elevation_ft": 4932,
+          "heading_true": 297.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.225
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 135.6
+    },
+    {
+      "type": "OTHER",
+      "description": "CASPER RDO",
+      "mhz": 121.975
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

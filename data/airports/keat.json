@@ -1,0 +1,103 @@
+{
+  "icao": "KEAT",
+  "iata": "EAT",
+  "name": "Pangborn Memorial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.398899,
+    "longitude": -120.207001,
+    "elevation_ft": 1249,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Wenatchee"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pangborn_Memorial_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4460,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 47.398602,
+          "longitude": -120.214996,
+          "elevation_ft": 1205,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 47.398602,
+          "longitude": -120.196999,
+          "elevation_ft": 1249,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 7000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 47.4031982421875,
+          "longitude": -120.21399688720703,
+          "elevation_ft": 1221,
+          "heading_true": 135,
+          "displaced_threshold_ft": 1
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 47.3922004699707,
+          "longitude": -120.1969985961914,
+          "elevation_ft": 1232,
+          "heading_true": 315,
+          "displaced_threshold_ft": 800
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.925
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE CNTR",
+      "mhz": 126.1
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Bill Pugh Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.444354,
+    "longitude": -87.711897,
+    "elevation_ft": 723,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Russellville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Russellville_Municipal_Airport",
+  "keywords": [
+    "Russellville Municipal"
+  ],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 5500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 34.437801361083984,
+          "longitude": -87.71420288085938,
+          "elevation_ft": 688,
+          "heading_true": 16,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 34.452301025390625,
+          "longitude": -87.70909881591797,
+          "elevation_ft": 719,
+          "heading_true": 196,
+          "displaced_threshold_ft": 500
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20418,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

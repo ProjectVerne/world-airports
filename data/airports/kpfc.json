@@ -1,0 +1,29 @@
+{
+  "icao": "KPFC",
+  "iata": "PFC",
+  "name": "Pacific City State Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.199799,
+    "longitude": -123.961998,
+    "elevation_ft": 5,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Pacific City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pacific_City_State_Airport",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

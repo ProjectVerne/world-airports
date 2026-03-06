@@ -1,0 +1,67 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Eagle Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.887533,
+    "longitude": -114.616638,
+    "elevation_ft": 485,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Bullhead City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eagle_Airpark",
+  "keywords": [
+    "AZ02",
+    "bullhead city",
+    "eagle"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 4800,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 34.894100189208984,
+          "longitude": -114.61599731445312,
+          "elevation_ft": 0,
+          "heading_true": 182.9,
+          "displaced_threshold_ft": 482
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 34.88090133666992,
+          "longitude": -114.61699676513672,
+          "elevation_ft": 0,
+          "heading_true": 2.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19214,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

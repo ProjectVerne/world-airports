@@ -1,0 +1,99 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Reedsburg Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.525902,
+    "longitude": -89.9832,
+    "elevation_ft": 907,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Reedsburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Reedsburg_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 2510,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 43.52479934692383,
+          "longitude": -89.98760223388672,
+          "elevation_ft": 0,
+          "heading_true": 68.9,
+          "displaced_threshold_ft": 230
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 43.52730178833008,
+          "longitude": -89.97869873046875,
+          "elevation_ft": 0,
+          "heading_true": 248.9,
+          "displaced_threshold_ft": 300
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 4840,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 43.53179931640625,
+          "longitude": -89.9822006225586,
+          "elevation_ft": 881,
+          "heading_true": 181,
+          "displaced_threshold_ft": 440
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 43.51850128173828,
+          "longitude": -89.9823989868164,
+          "elevation_ft": 881,
+          "heading_true": 1,
+          "displaced_threshold_ft": 300
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MADISON APP/DEP",
+      "mhz": 135.45
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 117
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19445,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

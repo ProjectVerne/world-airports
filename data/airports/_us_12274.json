@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Pegasus Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.208666,
+    "longitude": -111.617221,
+    "elevation_ft": 1450,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Queen Creek"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pegasus_Airpark",
+  "keywords": [
+    "Pegasus-Queen Creek-Phoenix Airpark"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 5124,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 33.21279907,
+          "longitude": -111.625,
+          "elevation_ft": 0,
+          "heading_true": 92.5,
+          "displaced_threshold_ft": 900
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 33.21220016,
+          "longitude": -111.6090012,
+          "elevation_ft": 0,
+          "heading_true": 224,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 12274,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "icao": "KRIF",
+  "iata": "RIF",
+  "name": "Richfield Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.734068,
+    "longitude": -112.101603,
+    "elevation_ft": 5301,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Richfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 7100,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 38.72819901,
+          "longitude": -112.1039963,
+          "elevation_ft": 5301,
+          "heading_true": 25,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 38.74470139,
+          "longitude": -112.0940018,
+          "elevation_ft": 5275,
+          "heading_true": 205,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 133.375
+    },
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CNTR",
+      "mhz": 133.6
+    },
+    {
+      "type": "OTHER",
+      "description": "CEDAR CITY RDO",
+      "mhz": 122.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

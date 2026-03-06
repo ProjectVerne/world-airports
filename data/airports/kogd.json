@@ -1,0 +1,149 @@
+{
+  "icao": "KOGD",
+  "iata": "OGD",
+  "name": "Ogden Hinckley Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.195899963379,
+    "longitude": -112.0120010376,
+    "elevation_ft": 4473,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Ogden"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ogden-Hinckley_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 8107,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 41.18799973,
+          "longitude": -112.0210037,
+          "elevation_ft": 4473,
+          "heading_true": 44.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 41.2038002,
+          "longitude": -112,
+          "elevation_ft": 4415,
+          "heading_true": 224.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07/25",
+      "length_ft": 5600,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 41.197898864746094,
+          "longitude": -112.02200317382812,
+          "elevation_ft": 4448,
+          "heading_true": 89.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 41.197898864746094,
+          "longitude": -112.00199890136719,
+          "elevation_ft": 4429,
+          "heading_true": 269.8,
+          "displaced_threshold_ft": 159
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5195,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 41.200901,
+          "longitude": -112.014999,
+          "elevation_ft": 4436,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 41.1866,
+          "longitude": -112.014999,
+          "elevation_ft": 4457,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 121.1
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 125.55
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.55
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.7
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "CEDAR CITY RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

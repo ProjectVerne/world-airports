@@ -1,0 +1,103 @@
+{
+  "icao": "KSBM",
+  "iata": "SBM",
+  "name": "Sheboygan County Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.76959991,
+    "longitude": -87.85140228,
+    "elevation_ft": 755,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Sheboygan"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sheboygan_County_Memorial_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 6801,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 43.764599,
+          "longitude": -87.857002,
+          "elevation_ft": 744,
+          "heading_true": 35,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 43.776699,
+          "longitude": -87.8452,
+          "elevation_ft": 743,
+          "heading_true": 215,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5002,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 43.77280045,
+          "longitude": -87.85919952,
+          "elevation_ft": 749,
+          "heading_true": 130,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 43.76409912,
+          "longitude": -87.84449768,
+          "elevation_ft": 739,
+          "heading_true": 310,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 110
+    },
+    {
+      "type": "OTHER",
+      "description": "CHICAGO CNTR",
+      "mhz": 127
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 110
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

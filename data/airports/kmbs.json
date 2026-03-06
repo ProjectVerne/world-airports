@@ -1,0 +1,128 @@
+{
+  "icao": "KMBS",
+  "iata": "MBS",
+  "name": "MBS International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.533181,
+    "longitude": -84.083104,
+    "elevation_ft": 668,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Freeland"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/MBS_International_Airport",
+  "keywords": [
+    "Tri City Airport",
+    "Midland",
+    "Bay City",
+    "Saginaw"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 8002,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 43.526798248291016,
+          "longitude": -84.08920288085938,
+          "elevation_ft": 666,
+          "heading_true": 45.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 43.542198181152344,
+          "longitude": -84.06759643554688,
+          "elevation_ft": 650,
+          "heading_true": 225.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 6399,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 43.53720093,
+          "longitude": -84.08950043,
+          "elevation_ft": 668,
+          "heading_true": 135.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 43.52470016,
+          "longitude": -84.07260132,
+          "elevation_ft": 660,
+          "heading_true": 315.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SAGINAW APP/DEP",
+      "mhz": 120.95
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.6
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.85
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "LANSING RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "SAGINAW TWR",
+      "mhz": 120.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

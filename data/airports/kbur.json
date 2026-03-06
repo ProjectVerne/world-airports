@@ -1,0 +1,123 @@
+{
+  "icao": "KBUR",
+  "iata": "BUR",
+  "name": "Hollywood Burbank Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.202834,
+    "longitude": -118.35805,
+    "elevation_ft": 778,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Burbank"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hollywood_Burbank_Airport",
+  "keywords": [
+    "United Airport",
+    "Union Air Terminal",
+    "Lockheed Air Terminal",
+    "Burbank–Glendale–Pasadena"
+  ],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 5802,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 34.19789886,
+          "longitude": -118.3690033,
+          "elevation_ft": 727,
+          "heading_true": 90.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 34.19760132,
+          "longitude": -118.3499985,
+          "elevation_ft": 697,
+          "heading_true": 270.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 6886,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 34.21229934692383,
+          "longitude": -118.36000061035156,
+          "elevation_ft": 768,
+          "heading_true": 167.1,
+          "displaced_threshold_ft": 909
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 34.19390106201172,
+          "longitude": -118.3550033569336,
+          "elevation_ft": 698,
+          "heading_true": 347.1,
+          "displaced_threshold_ft": 350
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOCAL APP/DEP",
+      "mhz": 120.4
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 134.5
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 123.9
+    },
+    {
+      "type": "OTHER",
+      "description": "HAWTHORNE RDO",
+      "mhz": 122.35
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

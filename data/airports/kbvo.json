@@ -1,0 +1,87 @@
+{
+  "icao": "KBVO",
+  "iata": "BVO",
+  "name": "Bartlesville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.762501,
+    "longitude": -96.0112,
+    "elevation_ft": 711,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Bartlesville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bartlesville_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 6850,
+      "width_ft": 100,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 36.77099991,
+          "longitude": -96.01139832,
+          "elevation_ft": 686,
+          "heading_true": 178.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 36.75389862,
+          "longitude": -96.0109024,
+          "elevation_ft": 713,
+          "heading_true": 358.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ADVSY SVC",
+      "mhz": 120
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 132.675
+    },
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 128.8
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120
+    },
+    {
+      "type": "OTHER",
+      "description": "MC ALESTER RDO",
+      "mhz": 123.6
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

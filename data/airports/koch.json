@@ -1,0 +1,98 @@
+{
+  "icao": "KOCH",
+  "iata": "OCH",
+  "name": "A L Mangham Jr. Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.57799911,
+    "longitude": -94.70950317,
+    "elevation_ft": 355,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Nacogdoches"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "15/33",
+      "length_ft": 3610,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 31.582799911499023,
+          "longitude": -94.7113037109375,
+          "elevation_ft": 339,
+          "heading_true": 153.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 31.57390022277832,
+          "longitude": -94.7061996459961,
+          "elevation_ft": 355,
+          "heading_true": 333.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 31.5846004486084,
+          "longitude": -94.70950317382812,
+          "elevation_ft": 337,
+          "heading_true": 184.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 31.570899963378906,
+          "longitude": -94.71080017089844,
+          "elevation_ft": 327,
+          "heading_true": 4.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.625
+    },
+    {
+      "type": "OTHER",
+      "description": "HOUSTON CNTR APP/DEP",
+      "mhz": 134.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

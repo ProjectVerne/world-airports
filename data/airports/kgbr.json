@@ -1,0 +1,67 @@
+{
+  "icao": "KGBR",
+  "iata": "GBR",
+  "name": "Walter J. Koladza Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.18420029,
+    "longitude": -73.40319824,
+    "elevation_ft": 739,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Great Barrington"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Walter_J._Koladza_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 2579,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 42.18450164794922,
+          "longitude": -73.40840148925781,
+          "elevation_ft": 739,
+          "heading_true": 96.5,
+          "displaced_threshold_ft": 170
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 42.18370056152344,
+          "longitude": -73.39900207519531,
+          "elevation_ft": 734,
+          "heading_true": 276.5,
+          "displaced_threshold_ft": 75
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ALBANY APP/DEP",
+      "mhz": 125
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

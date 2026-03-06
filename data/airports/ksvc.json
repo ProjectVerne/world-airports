@@ -1,0 +1,155 @@
+{
+  "icao": "KSVC",
+  "iata": "SVC",
+  "name": "Grant County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.636701,
+    "longitude": -108.154736,
+    "elevation_ft": 5446,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Silver City"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Grant_County_Airport_(New_Mexico)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 4537,
+      "width_ft": 80,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 32.63290024,
+          "longitude": -108.163002,
+          "elevation_ft": 5446,
+          "heading_true": 45.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 32.64170074,
+          "longitude": -108.1529999,
+          "elevation_ft": 5446,
+          "heading_true": 225.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 6803,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 32.63240051,
+          "longitude": -108.1650009,
+          "elevation_ft": 5386,
+          "heading_true": 90.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 32.63240051,
+          "longitude": -108.1429977,
+          "elevation_ft": 5377,
+          "heading_true": 270.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 4675,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 32.64189910888672,
+          "longitude": -108.16100311279297,
+          "elevation_ft": 5446,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 32.63290023803711,
+          "longitude": -108.1500015258789,
+          "elevation_ft": 5446,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5473,
+      "width_ft": 75,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 32.64789962768555,
+          "longitude": -108.15799713134766,
+          "elevation_ft": 5446,
+          "heading_true": 180.4,
+          "displaced_threshold_ft": 109
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 32.6328010559082,
+          "longitude": -108.15899658203125,
+          "elevation_ft": 5446,
+          "heading_true": 0.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 126.725
+    },
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE CNTR",
+      "mhz": 134.45
+    },
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE RDO",
+      "mhz": 110.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

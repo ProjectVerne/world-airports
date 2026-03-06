@@ -1,0 +1,69 @@
+{
+  "icao": "KAGO",
+  "iata": "AGO",
+  "name": "Magnolia Municipal Airport / Ralph C Weiser Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.228001,
+    "longitude": -93.217002,
+    "elevation_ft": 319,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Magnolia"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Magnolia_Municipal_Airport",
+  "keywords": [
+    "Magnolia Municipal"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5007,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 33.234299,
+          "longitude": -93.216698,
+          "elevation_ft": 301,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 33.221699,
+          "longitude": -93.217201,
+          "elevation_ft": 317,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 128.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

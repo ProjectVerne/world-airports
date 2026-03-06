@@ -1,0 +1,58 @@
+{
+  "icao": "PAKA",
+  "iata": "TEK",
+  "name": "Tatitlek Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.871449,
+    "longitude": -146.690297,
+    "elevation_ft": 62,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Tatitlek"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tatitlek_Airport",
+  "keywords": [
+    "AK47"
+  ],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 3701,
+      "width_ft": 75,
+      "surface": "gravel",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 60.876801,
+          "longitude": -146.695999,
+          "elevation_ft": 62,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 60.868,
+          "longitude": -146.686005,
+          "elevation_ft": 40,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

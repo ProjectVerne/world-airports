@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Tri-County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.773998,
+    "longitude": -90.074402,
+    "elevation_ft": 661,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Yates City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tri-County_Airport_(Illinois)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 2809,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 40.770301818847656,
+          "longitude": -90.07599639892578,
+          "elevation_ft": 658,
+          "heading_true": 19,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 40.7775993347168,
+          "longitude": -90.07279968261719,
+          "elevation_ft": 654,
+          "heading_true": 199,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 9333,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

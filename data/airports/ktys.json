@@ -1,0 +1,120 @@
+{
+  "icao": "KTYS",
+  "iata": "TYS",
+  "name": "McGhee Tyson Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.811001,
+    "longitude": -83.994003,
+    "elevation_ft": 981,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Knoxville/Maryville"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/McGhee_Tyson_Airport",
+  "keywords": [
+    "Knoxville"
+  ],
+  "runways": [
+    {
+      "id": "05L/23R",
+      "length_ft": 10000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05L",
+          "latitude": 35.8042984,
+          "longitude": -84.00550079,
+          "elevation_ft": 923,
+          "heading_true": 44.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23R",
+          "latitude": 35.82189941,
+          "longitude": -83.98410034,
+          "elevation_ft": 976,
+          "heading_true": 224.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "05R/23L",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05R",
+          "latitude": 35.80009841918945,
+          "longitude": -84.00399780273438,
+          "elevation_ft": 938,
+          "heading_true": 44.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23L",
+          "latitude": 35.81760025024414,
+          "longitude": -83.98259735107422,
+          "elevation_ft": 962,
+          "heading_true": 224.8,
+          "displaced_threshold_ft": 400
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KNOXVILLE APP/DEP",
+      "mhz": 118
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 128.35
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.65
+    },
+    {
+      "type": "GND",
+      "description": "KNOXVILLE GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "NASHVILLE RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "KNOXVILLE TWR",
+      "mhz": 121.2
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

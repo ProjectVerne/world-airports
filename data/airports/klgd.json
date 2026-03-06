@@ -1,0 +1,103 @@
+{
+  "icao": "KLGD",
+  "iata": "LGD",
+  "name": "La Grande/Union County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.2901992798,
+    "longitude": -118.007003784,
+    "elevation_ft": 2717,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "La Grande"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Grande/Union_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 6261,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 45.29550171,
+          "longitude": -118.012001,
+          "elevation_ft": 2717,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 45.28469849,
+          "longitude": -117.9970016,
+          "elevation_ft": 2707,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 3400,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 45.2957,
+          "longitude": -118.011002,
+          "elevation_ft": 2714,
+          "heading_true": 180,
+          "displaced_threshold_ft": 486
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 45.285,
+          "longitude": -118.011002,
+          "elevation_ft": 2709,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.075
+    },
+    {
+      "type": "OTHER",
+      "description": "SEATTLE CNTR",
+      "mhz": 132.6
+    },
+    {
+      "type": "OTHER",
+      "description": "MC MINNVILLE RDO",
+      "mhz": 122.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

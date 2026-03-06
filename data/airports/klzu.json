@@ -1,0 +1,92 @@
+{
+  "icao": "KLZU",
+  "iata": "LZU",
+  "name": "Gwinnett County Briscoe Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.97809982,
+    "longitude": -83.96240234,
+    "elevation_ft": 1061,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Lawrenceville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gwinnett_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 6001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 33.97439957,
+          "longitude": -83.97119904,
+          "elevation_ft": 1061,
+          "heading_true": 64,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 33.9817009,
+          "longitude": -83.95349884,
+          "elevation_ft": 1031,
+          "heading_true": 244,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 126.975
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 132.275
+    },
+    {
+      "type": "OTHER",
+      "description": "ATLANTA CLNC DEL",
+      "mhz": 134
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 124.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

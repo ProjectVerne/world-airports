@@ -1,0 +1,169 @@
+{
+  "icao": "KVQQ",
+  "iata": "VQQ",
+  "name": "Cecil Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.2187,
+    "longitude": -81.876701,
+    "elevation_ft": 81,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Field",
+  "keywords": [
+    "NZC",
+    "KNCZ",
+    "Cecil Field NAS"
+  ],
+  "runways": [
+    {
+      "id": "09L/27R",
+      "length_ft": 4439,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09L",
+          "latitude": 30.21759987,
+          "longitude": -81.89170074,
+          "elevation_ft": 81,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27R",
+          "latitude": 30.21769905,
+          "longitude": -81.86630249,
+          "elevation_ft": 67,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09R/27L",
+      "length_ft": 8003,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09R",
+          "latitude": 30.215700149536133,
+          "longitude": -81.8917007446289,
+          "elevation_ft": 78,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27L",
+          "latitude": 30.21579933166504,
+          "longitude": -81.86630249023438,
+          "elevation_ft": 65,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18L/36R",
+      "length_ft": 12504,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18L",
+          "latitude": 30.235000610351562,
+          "longitude": -81.87409973144531,
+          "elevation_ft": 80,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36R",
+          "latitude": 30.200599670410156,
+          "longitude": -81.8738021850586,
+          "elevation_ft": 73,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18R/36L",
+      "length_ft": 8001,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18R",
+          "latitude": 30.23500061,
+          "longitude": -81.876297,
+          "elevation_ft": 80,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36L",
+          "latitude": 30.21299934,
+          "longitude": -81.87609863,
+          "elevation_ft": 71,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE APP/DEP",
+      "mhz": 123.8
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.275
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 126.1
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.625
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 126.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

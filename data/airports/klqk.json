@@ -1,0 +1,72 @@
+{
+  "icao": "KLQK",
+  "iata": "LQK",
+  "name": "Pickens County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.8100013733,
+    "longitude": -82.70290374759999,
+    "elevation_ft": 1013,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Pickens"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pickens_County_Airport_(South_Carolina)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 34.80500030517578,
+          "longitude": -82.70870208740234,
+          "elevation_ft": 963,
+          "heading_true": 43.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 34.81489944458008,
+          "longitude": -82.69709777832031,
+          "elevation_ft": 1013,
+          "heading_true": 223.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "GREER APP/DEP",
+      "mhz": 118.8
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

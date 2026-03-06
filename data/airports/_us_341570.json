@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Box Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.547164,
+    "longitude": -90.567094,
+    "elevation_ft": 123,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Sunflower"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Sunflower Flying Services"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 341570,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Walnut Creek Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.593299865722656,
+    "longitude": -88.69170379638672,
+    "elevation_ft": 666,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Somonauk"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2200,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.593299865722656,
+          "longitude": -88.6957015991211,
+          "elevation_ft": 0,
+          "heading_true": 90,
+          "displaced_threshold_ft": 150
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.593299865722656,
+          "longitude": -88.6875991821289,
+          "elevation_ft": 0,
+          "heading_true": 251,
+          "displaced_threshold_ft": 292
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11285,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

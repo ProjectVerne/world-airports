@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "NASA Michoud Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.01918,
+    "longitude": -89.91717,
+    "elevation_ft": 1,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "New Orleans"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 345889,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Eastside Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.922244,
+    "longitude": -106.560173,
+    "elevation_ft": 8030,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Chama"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 3000,
+      "width_ft": 45,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 36.92169952392578,
+          "longitude": -106.55899810791016,
+          "elevation_ft": 0,
+          "heading_true": 21,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 36.92940139770508,
+          "longitude": -106.55500030517578,
+          "elevation_ft": 8030,
+          "heading_true": 201,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 23243,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

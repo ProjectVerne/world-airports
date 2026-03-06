@@ -1,0 +1,67 @@
+{
+  "icao": "KSIV",
+  "iata": "SIV",
+  "name": "Sullivan County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.1147,
+    "longitude": -87.448303,
+    "elevation_ft": 540,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Sullivan"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sullivan_County_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 4359,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.12070084,
+          "longitude": -87.44819641,
+          "elevation_ft": 537,
+          "heading_true": 180.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.1086998,
+          "longitude": -87.4484024,
+          "elevation_ft": 535,
+          "heading_true": 0.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "HULLMAN APP/DEP",
+      "mhz": 119.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

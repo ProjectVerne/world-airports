@@ -1,0 +1,79 @@
+{
+  "icao": "KVBT",
+  "iata": null,
+  "name": "Bentonville Municipal-Louise M Thaden Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.345699,
+    "longitude": -94.219299,
+    "elevation_ft": 1296,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Bentonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bentonville_Municipal_Airport",
+  "keywords": [
+    "H00"
+  ],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5053,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 36.351299,
+          "longitude": -94.219299,
+          "elevation_ft": 1288,
+          "heading_true": 180,
+          "displaced_threshold_ft": 227
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 36.340099,
+          "longitude": -94.219398,
+          "elevation_ft": 1290,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "RAZORBACK APP/DEP",
+      "mhz": 121
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 134.975
+    },
+    {
+      "type": "OTHER",
+      "description": "RAZORBACK CLNC DEL",
+      "mhz": 121.05
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

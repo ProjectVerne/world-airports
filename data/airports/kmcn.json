@@ -1,0 +1,123 @@
+{
+  "icao": "KMCN",
+  "iata": "MCN",
+  "name": "Middle Georgia Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.69279861450195,
+    "longitude": -83.64920043945312,
+    "elevation_ft": 354,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Macon"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Middle_Georgia_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 6500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 32.68600082,
+          "longitude": -83.66059875,
+          "elevation_ft": 331,
+          "heading_true": 48,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 32.69800186,
+          "longitude": -83.64489746,
+          "elevation_ft": 354,
+          "heading_true": 228,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 5000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 32.698399,
+          "longitude": -83.650803,
+          "elevation_ft": 354,
+          "heading_true": 130,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 32.689499,
+          "longitude": -83.638298,
+          "elevation_ft": 346,
+          "heading_true": 310,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 118.95
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 120.775
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 120.775
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 128.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.65
+    },
+    {
+      "type": "OTHER",
+      "description": "MACON RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "MACON TWR",
+      "mhz": 128.2
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

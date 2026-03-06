@@ -1,0 +1,83 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Fort Harrison Army Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.624651,
+    "longitude": -112.110927,
+    "elevation_ft": 4050,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Helena"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Harrison_Army_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2185,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 46.62310028,
+          "longitude": -112.1190033,
+          "elevation_ft": 0,
+          "heading_true": 67.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 46.62609863,
+          "longitude": -112.1080017,
+          "elevation_ft": 0,
+          "heading_true": 247.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 1840,
+      "width_ft": 97,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 46.62779998779297,
+          "longitude": -112.11499786376953,
+          "elevation_ft": 0,
+          "heading_true": 118.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 46.625301361083984,
+          "longitude": -112.10900115966797,
+          "elevation_ft": 0,
+          "heading_true": 298.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 22413,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

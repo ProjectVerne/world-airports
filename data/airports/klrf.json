@@ -1,0 +1,77 @@
+{
+  "icao": "KLRF",
+  "iata": "LRF",
+  "name": "Little Rock Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.916900634799994,
+    "longitude": -92.14969635010002,
+    "elevation_ft": 311,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Jacksonville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Little_Rock_Air_Force_Base",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 12001,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 34.91139984,
+          "longitude": -92.16549683,
+          "elevation_ft": 286,
+          "heading_true": 71,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 34.92210007,
+          "longitude": -92.12760162,
+          "elevation_ft": 290,
+          "heading_true": 251,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 132.8
+    },
+    {
+      "type": "OTHER",
+      "description": "ANG COMD POST",
+      "mhz": 143.8
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.6
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

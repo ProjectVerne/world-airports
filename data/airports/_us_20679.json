@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": "COA",
+  "name": "Columbia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.030399322499996,
+    "longitude": -120.415000916,
+    "elevation_ft": 2118,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Columbia"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Columbia_Airport_(California)",
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 20679,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

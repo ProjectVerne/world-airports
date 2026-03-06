@@ -1,0 +1,67 @@
+{
+  "icao": "KCZL",
+  "iata": null,
+  "name": "Tom B. David Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.455399,
+    "longitude": -84.939201,
+    "elevation_ft": 647,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Calhoun"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tom_B._David_Field",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 6034,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 34.46350098,
+          "longitude": -84.94129944,
+          "elevation_ft": 638,
+          "heading_true": 168,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 34.44739914,
+          "longitude": -84.93710327,
+          "elevation_ft": 647,
+          "heading_true": 348,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA CNTR",
+      "mhz": 133.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

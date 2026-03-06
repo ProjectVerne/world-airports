@@ -1,0 +1,59 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Deerfield Valley Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.927101,
+    "longitude": -72.8657,
+    "elevation_ft": 1953,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "West Dover"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Deerfield_Valley_Regional_Airport",
+  "keywords": [
+    "Mount Snow"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 2650,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 42.92359924316406,
+          "longitude": -72.86479949951172,
+          "elevation_ft": 1948,
+          "heading_true": 350,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 42.93069839477539,
+          "longitude": -72.86650085449219,
+          "elevation_ft": 1950,
+          "heading_true": 170,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11763,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

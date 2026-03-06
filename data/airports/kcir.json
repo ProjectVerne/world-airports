@@ -1,0 +1,98 @@
+{
+  "icao": "KCIR",
+  "iata": "CIR",
+  "name": "Cairo Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.064499,
+    "longitude": -89.219597,
+    "elevation_ft": 321,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Cairo"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cairo_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 3200,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 37.05960083,
+          "longitude": -89.21920013,
+          "elevation_ft": 319,
+          "heading_true": 21,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 37.06779861,
+          "longitude": -89.21520233,
+          "elevation_ft": 319,
+          "heading_true": 201,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 37.06880188,
+          "longitude": -89.22599792,
+          "elevation_ft": 321,
+          "heading_true": 140.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 37.06019974,
+          "longitude": -89.21710205,
+          "elevation_ft": 319,
+          "heading_true": 320.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.025
+    },
+    {
+      "type": "OTHER",
+      "description": "MEMPHIS CNTR",
+      "mhz": 133.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "icao": "KBWI",
+  "iata": "BWI",
+  "name": "Baltimore/Washington International Thurgood Marshall Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.1754,
+    "longitude": -76.668297,
+    "elevation_ft": 146,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Baltimore"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Baltimore/Washington_International_Airport",
+  "keywords": [
+    "WAS",
+    "Friendship International"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 6000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 39.166901,
+          "longitude": -76.671402,
+          "elevation_ft": 146,
+          "heading_true": 33,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 39.180698,
+          "longitude": -76.659798,
+          "elevation_ft": 138,
+          "heading_true": 213,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 10503,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 39.17470169,
+          "longitude": -76.68959808,
+          "elevation_ft": 141,
+          "heading_true": 94.2,
+          "displaced_threshold_ft": 550
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 39.17259979,
+          "longitude": -76.65270233,
+          "elevation_ft": 129,
+          "heading_true": 274.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15L/33R",
+      "length_ft": 5000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15L",
+          "latitude": 39.187400817871094,
+          "longitude": -76.66349792480469,
+          "elevation_ft": 142,
+          "heading_true": 144.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33R",
+          "latitude": 39.17620086669922,
+          "longitude": -76.6531982421875,
+          "elevation_ft": 114,
+          "heading_true": 324.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15R/33L",
+      "length_ft": 9501,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15R",
+          "latitude": 39.18539810180664,
+          "longitude": -76.68199920654297,
+          "elevation_ft": 139,
+          "heading_true": 144.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33L",
+          "latitude": 39.16419982910156,
+          "longitude": -76.66239929199219,
+          "elevation_ft": 129,
+          "heading_true": 324.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "POTOMAC APP",
+      "mhz": 119
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 115.1
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.05
+    },
+    {
+      "type": "DEP",
+      "description": "POTOMAC DEP",
+      "mhz": 126.75
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "LEESBURG RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.4
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

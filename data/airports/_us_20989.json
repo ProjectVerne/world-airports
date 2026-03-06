@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Lake Chelan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.866001,
+    "longitude": -119.943001,
+    "elevation_ft": 1263,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Chelan"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lake_Chelan_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 3506,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 47.86259842,
+          "longitude": -119.947998,
+          "elevation_ft": 1254,
+          "heading_true": 44,
+          "displaced_threshold_ft": 447
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 47.86949921,
+          "longitude": -119.9380035,
+          "elevation_ft": 1263,
+          "heading_true": 224,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20989,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

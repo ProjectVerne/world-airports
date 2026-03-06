@@ -1,0 +1,119 @@
+{
+  "icao": "KSYF",
+  "iata": null,
+  "name": "Cheyenne County Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.76110077,
+    "longitude": -101.7959976,
+    "elevation_ft": 3413,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "St Francis"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cheyenne_County_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 1799,
+      "width_ft": 280,
+      "surface": "grass",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 39.763,
+          "longitude": -101.799004,
+          "elevation_ft": 3392,
+          "heading_true": 98,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 39.762299,
+          "longitude": -101.792999,
+          "elevation_ft": 3386,
+          "heading_true": 278,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14L/32R",
+      "length_ft": 2833,
+      "width_ft": 180,
+      "surface": "grass",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "14L",
+          "latitude": 39.763401,
+          "longitude": -101.799004,
+          "elevation_ft": 3392,
+          "heading_true": 145,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32R",
+          "latitude": 39.757,
+          "longitude": -101.792999,
+          "elevation_ft": 3409,
+          "heading_true": 325,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 2313,
+      "width_ft": 280,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 39.76490020751953,
+          "longitude": -101.79199981689453,
+          "elevation_ft": 3380,
+          "heading_true": 199.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 39.7588996887207,
+          "longitude": -101.79499816894531,
+          "elevation_ft": 3407,
+          "heading_true": 19.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 132.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

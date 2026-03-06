@@ -1,0 +1,180 @@
+{
+  "icao": "KCLE",
+  "iata": "CLE",
+  "name": "Cleveland Hopkins International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.411701,
+    "longitude": -81.8498,
+    "elevation_ft": 791,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Cleveland"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cleveland_Hopkins_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06C/24C",
+      "length_ft": 7096,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "06C",
+          "latitude": 41.404598236083984,
+          "longitude": -81.86150360107422,
+          "elevation_ft": 770,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24C",
+          "latitude": 41.41709899902344,
+          "longitude": -81.8416976928711,
+          "elevation_ft": 784,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06L/24R",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06L",
+          "latitude": 41.399898529052734,
+          "longitude": -81.87349700927734,
+          "elevation_ft": 770,
+          "heading_true": 49.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24R",
+          "latitude": 41.41579818725586,
+          "longitude": -81.84839630126953,
+          "elevation_ft": 780,
+          "heading_true": 229.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06R/24L",
+      "length_ft": 9953,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06R",
+          "latitude": 41.29999923706055,
+          "longitude": -81.80000305175781,
+          "elevation_ft": 767,
+          "heading_true": 50,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24L",
+          "latitude": 41.41699981689453,
+          "longitude": -81.83930206298828,
+          "elevation_ft": 786,
+          "heading_true": 230,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 6018,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 41.41709899902344,
+          "longitude": -81.85540008544922,
+          "elevation_ft": 762,
+          "heading_true": 93,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 41.416099548339844,
+          "longitude": -81.83350372314453,
+          "elevation_ft": 791,
+          "heading_true": 273,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 119.625
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 127.85
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.05
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 118.15
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "OTHER",
+      "description": "RAMP CON",
+      "mhz": 129.17
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

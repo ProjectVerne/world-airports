@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Minnesuing Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.410753,
+    "longitude": -91.653787,
+    "elevation_ft": 1207,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Lake Nebagamon"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5300,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 46.42390060424805,
+          "longitude": -91.6532974243164,
+          "elevation_ft": 1207,
+          "heading_true": 178.5,
+          "displaced_threshold_ft": 305
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 46.409400939941406,
+          "longitude": -91.65280151367188,
+          "elevation_ft": 1200,
+          "heading_true": 358.5,
+          "displaced_threshold_ft": 305
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 25725,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

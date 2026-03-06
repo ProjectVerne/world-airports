@@ -1,0 +1,123 @@
+{
+  "icao": "KVNY",
+  "iata": "VNY",
+  "name": "Van Nuys Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.209801,
+    "longitude": -118.489998,
+    "elevation_ft": 802,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Van Nuys"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Van_Nuys_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "16L/34R",
+      "length_ft": 4013,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16L",
+          "latitude": 34.21900177,
+          "longitude": -118.4899979,
+          "elevation_ft": 791,
+          "heading_true": 175.5,
+          "displaced_threshold_ft": 1431
+        },
+        "high": {
+          "ident": "34R",
+          "latitude": 34.20800018,
+          "longitude": -118.4889984,
+          "elevation_ft": 772,
+          "heading_true": 355.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16R/34L",
+      "length_ft": 8001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16R",
+          "latitude": 34.21889877319336,
+          "longitude": -118.49099731445312,
+          "elevation_ft": 793,
+          "heading_true": 175.5,
+          "displaced_threshold_ft": 1431
+        },
+        "high": {
+          "ident": "34L",
+          "latitude": 34.196998596191406,
+          "longitude": -118.48899841308594,
+          "elevation_ft": 746,
+          "heading_true": 355.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SOCAL APP/DEP",
+      "mhz": 120.4
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.45
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 126.6
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 120.2
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

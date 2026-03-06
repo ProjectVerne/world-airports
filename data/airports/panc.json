@@ -1,0 +1,164 @@
+{
+  "icao": "PANC",
+  "iata": "ANC",
+  "name": "Ted Stevens Anchorage International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.179004,
+    "longitude": -149.992561,
+    "elevation_ft": 152,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Anchorage"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ted_Stevens_Anchorage_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07L/25R",
+      "length_ft": 10600,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07L",
+          "latitude": 61.169765,
+          "longitude": -150.008333,
+          "elevation_ft": 128,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25R",
+          "latitude": 61.169811,
+          "longitude": -149.948301,
+          "elevation_ft": 92,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07R/25L",
+      "length_ft": 12400,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07R",
+          "latitude": 61.167812,
+          "longitude": -150.042871,
+          "elevation_ft": 132,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25L",
+          "latitude": 61.167881,
+          "longitude": -149.972649,
+          "elevation_ft": 101,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 10865,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 61.199731,
+          "longitude": -150.014531,
+          "elevation_ft": 152,
+          "heading_true": 165,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 61.171042,
+          "longitude": -149.998469,
+          "elevation_ft": 122,
+          "heading_true": 345,
+          "displaced_threshold_ft": 565
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.1
+    },
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 123.8
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 118.4
+    },
+    {
+      "type": "AWOS",
+      "description": "TWEB",
+      "mhz": 114.3
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.4
+    },
+    {
+      "type": "FSS",
+      "description": "KENAI RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "CAMPER",
+      "mhz": 140.15
+    },
+    {
+      "type": "OTHER",
+      "description": "KENAI RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

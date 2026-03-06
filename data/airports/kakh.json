@@ -1,0 +1,74 @@
+{
+  "icao": "KAKH",
+  "iata": null,
+  "name": "Gastonia Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.202598,
+    "longitude": -81.149902,
+    "elevation_ft": 798,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Gastonia"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gastonia_Municipal_Airport",
+  "keywords": [
+    "0A6"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 3769,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 35.19810104370117,
+          "longitude": -81.15290069580078,
+          "elevation_ft": 797,
+          "heading_true": 28.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 35.20719909667969,
+          "longitude": -81.14689636230469,
+          "elevation_ft": 783,
+          "heading_true": 208.3,
+          "displaced_threshold_ft": 81
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHARLOTTE APP/DEP",
+      "mhz": 134.75
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.725
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

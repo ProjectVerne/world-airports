@@ -1,0 +1,118 @@
+{
+  "icao": "KEGE",
+  "iata": "EGE",
+  "name": "Eagle County Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.64260101,
+    "longitude": -106.9179993,
+    "elevation_ft": 6548,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Eagle"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 9000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 39.64099884033203,
+          "longitude": -106.93199920654297,
+          "elevation_ft": 6461,
+          "heading_true": 81.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 39.644100189208984,
+          "longitude": -106.90399932861328,
+          "elevation_ft": 6547,
+          "heading_true": 261.9,
+          "displaced_threshold_ft": 1000
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 5013,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 39.64469909667969,
+          "longitude": -106.9229965209961,
+          "elevation_ft": 0,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 39.64469909667969,
+          "longitude": -106.90599822998047,
+          "elevation_ft": 0,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 135.575
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 135.575
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER CNTR",
+      "mhz": 128.65
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.8
+    },
+    {
+      "type": "OTHER",
+      "description": "GND/CLNC DEL",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "DENVER RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "icao": "KNKX",
+  "iata": "NKX",
+  "name": "Miramar Marine Corps Air Station - Mitscher Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.86840057,
+    "longitude": -117.1429977,
+    "elevation_ft": 477,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Diego"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Marine_Corps_Air_Station_Miramar",
+  "keywords": [
+    "Miramar MCAS"
+  ],
+  "runways": [
+    {
+      "id": "06L/24R",
+      "length_ft": 12000,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06L",
+          "latitude": 32.864601135253906,
+          "longitude": -117.16500091552734,
+          "elevation_ft": 425,
+          "heading_true": 75.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24R",
+          "latitude": 32.87289810180664,
+          "longitude": -117.12699890136719,
+          "elevation_ft": 475,
+          "heading_true": 255.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06R/24L",
+      "length_ft": 8001,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06R",
+          "latitude": 32.8655014,
+          "longitude": -117.1520004,
+          "elevation_ft": 430,
+          "heading_true": 75.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24L",
+          "latitude": 32.87099838,
+          "longitude": -117.1259995,
+          "elevation_ft": 478,
+          "heading_true": 255.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 2800,
+      "width_ft": 200,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 32.868401,
+          "longitude": -117.136002,
+          "elevation_ft": 461,
+          "heading_true": 111,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 32.8657,
+          "longitude": -117.126999,
+          "elevation_ft": 473,
+          "heading_true": 291,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "SOCAL APP",
+      "mhz": 132.2
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.975
+    },
+    {
+      "type": "DEP",
+      "description": "SOCAL DEP",
+      "mhz": 119.6
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 128.625
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 135.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

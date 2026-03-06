@@ -1,0 +1,173 @@
+{
+  "icao": "KSGJ",
+  "iata": "UST",
+  "name": "Northeast Florida Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.9592,
+    "longitude": -81.339798,
+    "elevation_ft": 10,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "St Augustine"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Augustine_Airport",
+  "keywords": [
+    "St Augustine Airport",
+    "NAAS St. Augustine"
+  ],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 2609,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 29.9545002,
+          "longitude": -81.3411026,
+          "elevation_ft": 9,
+          "heading_true": 21,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 29.96120071,
+          "longitude": -81.33809662,
+          "elevation_ft": 6,
+          "heading_true": 201,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06/24",
+      "length_ft": 2701,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 29.95400047302246,
+          "longitude": -81.34130096435547,
+          "elevation_ft": 10,
+          "heading_true": 62,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 29.957500457763672,
+          "longitude": -81.33380126953125,
+          "elevation_ft": 6,
+          "heading_true": 242,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 8001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 29.9673996,
+          "longitude": -81.35070038,
+          "elevation_ft": 10,
+          "heading_true": 126,
+          "displaced_threshold_ft": 1058
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 29.95439911,
+          "longitude": -81.33039856,
+          "elevation_ft": 6,
+          "heading_true": 306,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16/34",
+      "length_ft": 4001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 29.965599060058594,
+          "longitude": -81.34310150146484,
+          "elevation_ft": 9,
+          "heading_true": 162,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 29.954999923706055,
+          "longitude": -81.33920288085938,
+          "elevation_ft": 10,
+          "heading_true": 342,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE APP/DEP",
+      "mhz": 120.75
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 119.625
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 127.625
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.175
+    },
+    {
+      "type": "OTHER",
+      "description": "GAINESVILLE RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 127.625
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

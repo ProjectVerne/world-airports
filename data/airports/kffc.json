@@ -1,0 +1,77 @@
+{
+  "icao": "KFFC",
+  "iata": null,
+  "name": "Peachtree City Falcon Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.3573,
+    "longitude": -84.5718,
+    "elevation_ft": 808,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Peachtree City"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Atlanta_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5768,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 33.36169815,
+          "longitude": -84.57849884,
+          "elevation_ft": 808,
+          "heading_true": 128,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 33.35279846,
+          "longitude": -84.56510162,
+          "elevation_ft": 808,
+          "heading_true": 308,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 119.8
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.525
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 119.8
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

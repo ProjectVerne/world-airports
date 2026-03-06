@@ -1,0 +1,96 @@
+{
+  "icao": "KAIB",
+  "iata": null,
+  "name": "Hopkins Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.239025,
+    "longitude": -108.563354,
+    "elevation_ft": 5940,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Nucla"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "6V6",
+    "Naturita"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5212,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 38.23550034,
+          "longitude": -108.5709991,
+          "elevation_ft": 5936,
+          "heading_true": 58.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 38.24209976,
+          "longitude": -108.5569992,
+          "elevation_ft": 5936,
+          "heading_true": 238.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 4000,
+      "width_ft": 80,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 38.241798400878906,
+          "longitude": -108.56800079345703,
+          "elevation_ft": 5897,
+          "heading_true": 123.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 38.235599517822266,
+          "longitude": -108.55699920654297,
+          "elevation_ft": 5925,
+          "heading_true": 303.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 132.525
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

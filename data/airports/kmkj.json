@@ -1,0 +1,72 @@
+{
+  "icao": "KMKJ",
+  "iata": null,
+  "name": "Mountain Empire Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.894901,
+    "longitude": -81.349899,
+    "elevation_ft": 2558,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Rural Retreat"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Mountain_Empire_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 5252,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 36.892799377441406,
+          "longitude": -81.3584976196289,
+          "elevation_ft": 2558,
+          "heading_true": 73.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 36.89690017700195,
+          "longitude": -81.34130096435547,
+          "elevation_ft": 2502,
+          "heading_true": 253.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 123.875
+    },
+    {
+      "type": "OTHER",
+      "description": "ATLANTA CNTR",
+      "mhz": 132.9
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "icao": "KGTF",
+  "iata": "GTF",
+  "name": "Great Falls International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.481998,
+    "longitude": -111.371002,
+    "elevation_ft": 3680,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Great Falls"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Great_Falls_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 10502,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 47.46929931640625,
+          "longitude": -111.38400268554688,
+          "elevation_ft": 3677,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 47.48970031738281,
+          "longitude": -111.35399627685547,
+          "elevation_ft": 3659,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07/25",
+      "length_ft": 4294,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 47.48379898071289,
+          "longitude": -111.38099670410156,
+          "elevation_ft": 3652,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 47.48379898071289,
+          "longitude": -111.36299896240234,
+          "elevation_ft": 3668,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 6030,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 47.49359894,
+          "longitude": -111.3730011,
+          "elevation_ft": 3645,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 47.4762001,
+          "longitude": -111.3730011,
+          "elevation_ft": 3669,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 128.6
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.6
+    },
+    {
+      "type": "GND",
+      "description": "GND/CLNC DEL",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

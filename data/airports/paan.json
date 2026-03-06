@@ -1,0 +1,58 @@
+{
+  "icao": "PAAN",
+  "iata": null,
+  "name": "Gold King Creek Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.198328,
+    "longitude": -147.929492,
+    "elevation_ft": 1720,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Fairbanks"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gold_King_Creek_Airport",
+  "keywords": [
+    "AK32"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2558,
+      "width_ft": 17,
+      "surface": "gravel",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 64.20050049,
+          "longitude": -147.9349976,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 64.19740295,
+          "longitude": -147.9199982,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

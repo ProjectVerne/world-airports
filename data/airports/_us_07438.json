@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Ward Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.845699310302734,
+    "longitude": -123.98500061035156,
+    "elevation_ft": 356,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Gasquet"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 2990,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 41.845001220703125,
+          "longitude": -123.98999786376953,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 500
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 41.84619903564453,
+          "longitude": -123.97899627685547,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 490
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 7438,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

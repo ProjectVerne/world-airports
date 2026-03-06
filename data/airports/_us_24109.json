@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Echo Airport",
+  "type": "closed",
+  "status": "open",
+  "location": {
+    "latitude": 41.540298,
+    "longitude": -77.306396,
+    "elevation_ft": 1800,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Morris"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "PN0"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 24109,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

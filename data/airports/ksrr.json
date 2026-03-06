@@ -1,0 +1,105 @@
+{
+  "icao": "KSRR",
+  "iata": "RUI",
+  "name": "Sierra Blanca Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.462799,
+    "longitude": -105.535004,
+    "elevation_ft": 6814,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Alto"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sierra_Blanca_Regional_Airport",
+  "keywords": [
+    "Ruidoso"
+  ],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 8120,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 33.45930099,
+          "longitude": -105.5469971,
+          "elevation_ft": 6814,
+          "heading_true": 71,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 33.46640015,
+          "longitude": -105.5220032,
+          "elevation_ft": 6751,
+          "heading_true": 251,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 6309,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 33.4640007,
+          "longitude": -105.5309982,
+          "elevation_ft": 6769,
+          "heading_true": 130,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 33.45259857,
+          "longitude": -105.5139999,
+          "elevation_ft": 6718,
+          "heading_true": 310,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 126.475
+    },
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE CNTR",
+      "mhz": 132.65
+    },
+    {
+      "type": "FSS",
+      "description": "ALBUQUERQUE RDO",
+      "mhz": 122.25
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "icao": "KIWI",
+  "iata": "ISS",
+  "name": "Wiscasset Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.9613990784,
+    "longitude": -69.712600708,
+    "elevation_ft": 70,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Wiscasset"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wiscasset_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3397,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 43.958499908447266,
+          "longitude": -69.71759796142578,
+          "elevation_ft": 70,
+          "heading_true": 51.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 43.964298248291016,
+          "longitude": -69.7074966430664,
+          "elevation_ft": 56,
+          "heading_true": 231.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BRUNSWICK APP/DEP",
+      "mhz": 118.15
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.725
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

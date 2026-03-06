@@ -1,0 +1,98 @@
+{
+  "icao": "KLNL",
+  "iata": null,
+  "name": "Kings Land O' Lakes Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.153999,
+    "longitude": -89.212097,
+    "elevation_ft": 1704,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Land O' Lakes"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Kings_Land_o%27_Lakes_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2577,
+      "width_ft": 130,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 46.15129852,
+          "longitude": -89.2161026,
+          "elevation_ft": 1697,
+          "heading_true": 46,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 46.15620041,
+          "longitude": -89.20870209,
+          "elevation_ft": 1703,
+          "heading_true": 226,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 46.15869903564453,
+          "longitude": -89.21640014648438,
+          "elevation_ft": 1704,
+          "heading_true": 143,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 46.149898529052734,
+          "longitude": -89.20690155029297,
+          "elevation_ft": 1704,
+          "heading_true": 323,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.525
+    },
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS CNTR",
+      "mhz": 133.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

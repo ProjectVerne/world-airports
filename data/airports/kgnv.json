@@ -1,0 +1,123 @@
+{
+  "icao": "KGNV",
+  "iata": "GNV",
+  "name": "Gainesville Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.6900997162,
+    "longitude": -82.2717971802,
+    "elevation_ft": 152,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Gainesville"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Gainesville_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4158,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 29.69029998779297,
+          "longitude": -82.28240203857422,
+          "elevation_ft": 152,
+          "heading_true": 61,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 29.69580078125,
+          "longitude": -82.2708969116211,
+          "elevation_ft": 130,
+          "heading_true": 241,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 7504,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 29.69059944152832,
+          "longitude": -82.28060150146484,
+          "elevation_ft": 147,
+          "heading_true": 102,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 29.686199188232422,
+          "longitude": -82.25749969482422,
+          "elevation_ft": 105,
+          "heading_true": 282,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE APP/DEP",
+      "mhz": 118.175
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 127.15
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 119.55
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.1
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.55
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

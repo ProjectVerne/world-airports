@@ -1,0 +1,82 @@
+{
+  "icao": "KRWI",
+  "iata": "RWI",
+  "name": "Rocky Mount Wilson Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.8563,
+    "longitude": -77.891899,
+    "elevation_ft": 159,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Rocky Mount"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rocky_Mount%E2%80%93Wilson_Regional_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 7099,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 35.84809875,
+          "longitude": -77.89849854,
+          "elevation_ft": 159,
+          "heading_true": 33.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 35.86439896,
+          "longitude": -77.88539886,
+          "elevation_ft": 151,
+          "heading_true": 213.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.875
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 122.3
+    },
+    {
+      "type": "OTHER",
+      "description": "WASHINGTON CNTR",
+      "mhz": 135.3
+    },
+    {
+      "type": "OTHER",
+      "description": "RALEIGH RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

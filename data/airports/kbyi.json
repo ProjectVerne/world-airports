@@ -1,0 +1,110 @@
+{
+  "icao": "KBYI",
+  "iata": "BYI",
+  "name": "Burley Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.542598724399994,
+    "longitude": -113.772003174,
+    "elevation_ft": 4150,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Burley"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Burley_Municipal_Airport",
+  "keywords": [
+    "J R Jack Simplot Airport"
+  ],
+  "runways": [
+    {
+      "id": "02/20",
+      "length_ft": 4092,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "02",
+          "latitude": 42.53770065,
+          "longitude": -113.7740021,
+          "elevation_ft": 4149,
+          "heading_true": 37,
+          "displaced_threshold_ft": 620
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 42.54660034,
+          "longitude": -113.7649994,
+          "elevation_ft": 4138,
+          "heading_true": 217,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "06/24",
+      "length_ft": 4072,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 42.54199982,
+          "longitude": -113.7809982,
+          "elevation_ft": 4149,
+          "heading_true": 79,
+          "displaced_threshold_ft": 800
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 42.5442009,
+          "longitude": -113.7659988,
+          "elevation_ft": 4140,
+          "heading_true": 259,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TWIN FALLS APP/DEP",
+      "mhz": 126.7
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.575
+    },
+    {
+      "type": "OTHER",
+      "description": "SALT LAKE CITY CNTR",
+      "mhz": 118.05
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    },
+    {
+      "type": "OTHER",
+      "description": "BOISE RDO",
+      "mhz": 122.05
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

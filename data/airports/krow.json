@@ -1,0 +1,152 @@
+{
+  "icao": "KROW",
+  "iata": "ROW",
+  "name": "Roswell Air Center Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.301601,
+    "longitude": -104.530998,
+    "elevation_ft": 3671,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Roswell"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Roswell_International_Air_Center",
+  "keywords": [
+    "Roswell Army Air Field",
+    "Walker Air Force Base"
+  ],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 13000,
+      "width_ft": 150,
+      "surface": "pem",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 33.28609848,
+          "longitude": -104.5370026,
+          "elevation_ft": 3667,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 33.31129837,
+          "longitude": -104.5070038,
+          "elevation_ft": 3624,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 7425,
+      "width_ft": 200,
+      "surface": "pem",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 33.31399917602539,
+          "longitude": -104.54299926757812,
+          "elevation_ft": 3665,
+          "heading_true": 135.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 33.29949951171875,
+          "longitude": -104.5260009765625,
+          "elevation_ft": 3648,
+          "heading_true": 315.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 10008,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.31510162,
+          "longitude": -104.5390015,
+          "elevation_ft": 3663,
+          "heading_true": 180.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.28770065,
+          "longitude": -104.5390015,
+          "elevation_ft": 3671,
+          "heading_true": 0.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.6
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 128.45
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 132.875
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "ALBUQUERQUE RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

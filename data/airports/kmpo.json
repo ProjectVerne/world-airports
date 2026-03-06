@@ -1,0 +1,103 @@
+{
+  "icao": "KMPO",
+  "iata": "MPO",
+  "name": "Pocono Mountains Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.136025,
+    "longitude": -75.379572,
+    "elevation_ft": 1915,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Mount Pocono"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Pocono_Mountains_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 3999,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 41.13399887,
+          "longitude": -75.38150024,
+          "elevation_ft": 1876,
+          "heading_true": 36.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 41.14279938,
+          "longitude": -75.37290192,
+          "elevation_ft": 1916,
+          "heading_true": 216.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 41.138802,
+          "longitude": -75.3871,
+          "elevation_ft": 1884,
+          "heading_true": 115,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 41.134201,
+          "longitude": -75.3741,
+          "elevation_ft": 1879,
+          "heading_true": 295,
+          "displaced_threshold_ft": 180
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "WILKES BARRE APP/DEP",
+      "mhz": 126.3
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 120.275
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 125.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

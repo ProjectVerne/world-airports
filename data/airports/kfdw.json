@@ -1,0 +1,72 @@
+{
+  "icao": "KFDW",
+  "iata": null,
+  "name": "Fairfield County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.315498,
+    "longitude": -81.108803,
+    "elevation_ft": 577,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Winnsboro"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fairfield_County_Airport_(South_Carolina)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5243,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 34.31010056,
+          "longitude": -81.11389923,
+          "elevation_ft": 577,
+          "heading_true": 38.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 34.32089996,
+          "longitude": -81.10369873,
+          "elevation_ft": 561,
+          "heading_true": 218.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "COLUMBIA APP/DEP",
+      "mhz": 133.4
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.075
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

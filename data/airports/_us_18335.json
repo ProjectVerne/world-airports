@@ -1,0 +1,32 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Harvard State Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.651402,
+    "longitude": -98.079803,
+    "elevation_ft": 1815,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Harvard"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Harvard_State_Airport",
+  "keywords": [
+    "Harvard AAF"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 18335,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

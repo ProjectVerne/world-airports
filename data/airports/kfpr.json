@@ -1,0 +1,115 @@
+{
+  "icao": "KFPR",
+  "iata": "FPR",
+  "name": "Treasure Coast International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.4951,
+    "longitude": -80.368301,
+    "elevation_ft": 24,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Fort Pierce"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Lucie_County_International_Airport",
+  "keywords": [
+    "St Lucie County"
+  ],
+  "runways": [
+    {
+      "id": "10R/28L",
+      "length_ft": 6492,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10R",
+          "latitude": 27.497299194335938,
+          "longitude": -80.37940216064453,
+          "elevation_ft": 23,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28L",
+          "latitude": 27.497100830078125,
+          "longitude": -80.3593978881836,
+          "elevation_ft": 21,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 4755,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 27.49679947,
+          "longitude": -80.37190247,
+          "elevation_ft": 23,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 27.48749924,
+          "longitude": -80.36160278,
+          "elevation_ft": 23,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 134.825
+    },
+    {
+      "type": "OTHER",
+      "description": "MIAMI CNTR",
+      "mhz": 132.25
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 128.2
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 119.55
+    },
+    {
+      "type": "OTHER",
+      "description": "MIAMI RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "TWR",
+      "description": "FORT PIERCE TWR",
+      "mhz": 128.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

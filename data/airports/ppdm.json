@@ -1,0 +1,31 @@
+{
+  "icao": "PPDM",
+  "iata": "DIO",
+  "name": "Diomede Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 65.758367,
+    "longitude": -168.953676,
+    "elevation_ft": 20,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Diomede"
+  },
+  "scheduled_service": true,
+  "wikipedia": null,
+  "keywords": [
+    "DIO"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

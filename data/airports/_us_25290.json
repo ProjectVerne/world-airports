@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Grassy Meadows/Sky Ranch Landowners Assn Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.1018981934,
+    "longitude": -113.314002991,
+    "elevation_ft": 3350,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Hurricane"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "N/S",
+      "length_ft": 4400,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "N",
+          "latitude": 37.108001708984375,
+          "longitude": -113.31300354003906,
+          "elevation_ft": 0,
+          "heading_true": 183.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "S",
+          "latitude": 37.09590148925781,
+          "longitude": -113.31400299072266,
+          "elevation_ft": 3350,
+          "heading_true": 3.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123.05
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 25290,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

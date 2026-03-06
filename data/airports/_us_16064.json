@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "East Gull Lake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.383767,
+    "longitude": -94.374361,
+    "elevation_ft": 1236,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "East Gull Lake"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 2618,
+      "width_ft": 160,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 46.38650131225586,
+          "longitude": -94.3770980834961,
+          "elevation_ft": 1230,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 46.38119888305664,
+          "longitude": -94.37010192871094,
+          "elevation_ft": 1230,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 16064,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

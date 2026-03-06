@@ -1,0 +1,113 @@
+{
+  "icao": "KNTD",
+  "iata": "NTD",
+  "name": "Point Mugu Naval Air Station (Naval Base Ventura Co)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.120300293,
+    "longitude": -119.121002197,
+    "elevation_ft": 13,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Point Mugu"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Point_Mugu",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 11102,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 34.1083984375,
+          "longitude": -119.13400268554688,
+          "elevation_ft": 11,
+          "heading_true": 43.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 34.13050079345703,
+          "longitude": -119.10900115966797,
+          "elevation_ft": 13,
+          "heading_true": 223.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 5502,
+      "width_ft": 200,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 34.1208992,
+          "longitude": -119.1240005,
+          "elevation_ft": 10,
+          "heading_true": 105,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 34.11700058,
+          "longitude": -119.1060028,
+          "elevation_ft": 12,
+          "heading_true": 285,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 128.65
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 125.55
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.75
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.6
+    },
+    {
+      "type": "OTHER",
+      "description": "HAWTHORNE RDO",
+      "mhz": 112.5
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 124.85
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

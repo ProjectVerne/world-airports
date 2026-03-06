@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Spanish Peaks Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.696602,
+    "longitude": -104.783997,
+    "elevation_ft": 6047,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Walsenburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Spanish_Peaks_Airfield",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2500,
+      "width_ft": 40,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 37.69390106201172,
+          "longitude": -104.79000091552734,
+          "elevation_ft": 6050,
+          "heading_true": 30.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 37.69990158081055,
+          "longitude": -104.78500366210938,
+          "elevation_ft": 6026,
+          "heading_true": 210.1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 4896,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 37.69710159301758,
+          "longitude": -104.79199981689453,
+          "elevation_ft": 6019,
+          "heading_true": 93.8,
+          "displaced_threshold_ft": 419
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 37.69620132446289,
+          "longitude": -104.7750015258789,
+          "elevation_ft": 6019,
+          "heading_true": 273.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18858,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

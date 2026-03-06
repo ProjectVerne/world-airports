@@ -1,0 +1,96 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "C E 'Rusty' Williams Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.0735015869,
+    "longitude": -93.7655029297,
+    "elevation_ft": 324,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Mansfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "De Soto Parish Airport"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5070,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 32.065799713134766,
+          "longitude": -93.77059936523438,
+          "elevation_ft": 0,
+          "heading_true": 45.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 32.075599670410156,
+          "longitude": -93.75890350341797,
+          "elevation_ft": 0,
+          "heading_true": 225.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5005,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.07960129,
+          "longitude": -93.76480103,
+          "elevation_ft": 317,
+          "heading_true": 185.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.06729889,
+          "longitude": -93.76629639,
+          "elevation_ft": 324,
+          "heading_true": 5.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SHREVEPORT APP/DEP",
+      "mhz": 119.9
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18685,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

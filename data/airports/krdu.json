@@ -1,0 +1,149 @@
+{
+  "icao": "KRDU",
+  "iata": "RDU",
+  "name": "Raleigh-Durham International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.878659,
+    "longitude": -78.7873,
+    "elevation_ft": 435,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Raleigh/Durham"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Raleigh-Durham_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05L/23R",
+      "length_ft": 10000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05L",
+          "latitude": 35.8745002746582,
+          "longitude": -78.802001953125,
+          "elevation_ft": 367,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23R",
+          "latitude": 35.893798828125,
+          "longitude": -78.77799987792969,
+          "elevation_ft": 409,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "05R/23L",
+      "length_ft": 7500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05R",
+          "latitude": 35.864601135253906,
+          "longitude": -78.79730224609375,
+          "elevation_ft": 397,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23L",
+          "latitude": 35.87919998168945,
+          "longitude": -78.77940368652344,
+          "elevation_ft": 431,
+          "heading_true": 225,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3570,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 35.875,
+          "longitude": -78.78269958496094,
+          "elevation_ft": 432,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 35.868099212646484,
+          "longitude": -78.77420043945312,
+          "elevation_ft": 425,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP",
+      "mhz": 124.8
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 123.8
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 120.1
+    },
+    {
+      "type": "DEP",
+      "description": "DEP",
+      "mhz": 125.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 119.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

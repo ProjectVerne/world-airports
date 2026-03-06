@@ -1,0 +1,67 @@
+{
+  "icao": "PATL",
+  "iata": "TLJ",
+  "name": "Tatalina LRRS Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.894401550299996,
+    "longitude": -155.977005005,
+    "elevation_ft": 964,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Takotna"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tatalina_LRRS_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3820,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 62.8997,
+          "longitude": -155.977005,
+          "elevation_ft": 0,
+          "heading_true": 179,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 62.889198,
+          "longitude": -155.975998,
+          "elevation_ft": 0,
+          "heading_true": 359,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "FSS",
+      "description": "KENAI RDO",
+      "mhz": 122.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 126.2
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

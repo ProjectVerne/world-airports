@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Pine Mountain Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.4152984619,
+    "longitude": -92.6943969727,
+    "elevation_ft": 880,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Flippin"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 3000,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 36.41550064086914,
+          "longitude": -92.69950103759766,
+          "elevation_ft": 0,
+          "heading_true": 92.1,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 36.41510009765625,
+          "longitude": -92.68939971923828,
+          "elevation_ft": 0,
+          "heading_true": 202.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 13194,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

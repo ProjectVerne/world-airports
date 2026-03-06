@@ -1,0 +1,118 @@
+{
+  "icao": "PAOT",
+  "iata": "OTZ",
+  "name": "Ralph Wien Memorial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.88469696,
+    "longitude": -162.598999,
+    "elevation_ft": 14,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Kotzebue"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Wien_Memorial_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 6300,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 66.88939667,
+          "longitude": -162.6089935,
+          "elevation_ft": 13,
+          "heading_true": 102,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 66.88610077,
+          "longitude": -162.5677948,
+          "elevation_ft": 14,
+          "heading_true": 282,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 3800,
+      "width_ft": 90,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 66.88510131835938,
+          "longitude": -162.60899353027344,
+          "elevation_ft": 8,
+          "heading_true": 194,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 66.87480163574219,
+          "longitude": -162.61599731445312,
+          "elevation_ft": 8,
+          "heading_true": 14,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.45
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 135.45
+    },
+    {
+      "type": "OTHER",
+      "description": "ANCHORAGE CNTR",
+      "mhz": 119.2
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 123.6
+    },
+    {
+      "type": "FSS",
+      "description": "KOTZEBUE RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "OTHER",
+      "description": "TWEB",
+      "mhz": 115.7
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

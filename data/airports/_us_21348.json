@@ -1,0 +1,73 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Upshur County Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.00049973,
+    "longitude": -80.2736969,
+    "elevation_ft": 1635,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Buckhannon"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 4201,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 39.00139999,
+          "longitude": -80.28230286,
+          "elevation_ft": 1630,
+          "heading_true": 98.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 38.99980164,
+          "longitude": -80.26760101,
+          "elevation_ft": 1634,
+          "heading_true": 278.2,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CLARKSBURG APP",
+      "mhz": 121.15
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.975
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 21348,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Port of Ilwaco Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.31489944458008,
+    "longitude": -124.00399780273438,
+    "elevation_ft": 13,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Ilwaco"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 2080,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 46.31629943847656,
+          "longitude": -124.00700378417969,
+          "elevation_ft": 0,
+          "heading_true": 120,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 46.313499450683594,
+          "longitude": -124,
+          "elevation_ft": 0,
+          "heading_true": 300,
+          "displaced_threshold_ft": 300
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 14445,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

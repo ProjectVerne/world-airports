@@ -1,0 +1,103 @@
+{
+  "icao": "KGFL",
+  "iata": "GFL",
+  "name": "Floyd Bennett Memorial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.3412017822,
+    "longitude": -73.6102981567,
+    "elevation_ft": 328,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Glens Falls"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Floyd_Bennett_Memorial_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 43.33570098876953,
+          "longitude": -73.60870361328125,
+          "elevation_ft": 321,
+          "heading_true": 358.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 43.34939956665039,
+          "longitude": -73.60919952392578,
+          "elevation_ft": 327,
+          "heading_true": 178.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "12/30",
+      "length_ft": 3999,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 43.34149933,
+          "longitude": -73.61910248,
+          "elevation_ft": 328,
+          "heading_true": 110.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 43.33760071,
+          "longitude": -73.60500336,
+          "elevation_ft": 324,
+          "heading_true": 290.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ALBANY APP/DEP",
+      "mhz": 125
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 119.25
+    },
+    {
+      "type": "OTHER",
+      "description": "BURLINGTON RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

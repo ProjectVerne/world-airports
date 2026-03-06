@@ -1,0 +1,58 @@
+{
+  "icao": "PAUT",
+  "iata": "KQA",
+  "name": "Akutan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.14459,
+    "longitude": -165.604332,
+    "elevation_ft": 133,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Akutan"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Akutan_Airport",
+  "keywords": [
+    "Akun Airport"
+  ],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 54.145542,
+          "longitude": -165.614487,
+          "elevation_ft": 113,
+          "heading_true": 99,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 54.143677,
+          "longitude": -165.593735,
+          "elevation_ft": 129,
+          "heading_true": 279,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "icao": "KFWS",
+  "iata": null,
+  "name": "Fort Worth Spinks Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.565201,
+    "longitude": -97.308098,
+    "elevation_ft": 700,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Worth_Spinks_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18L/36R",
+      "length_ft": 3660,
+      "width_ft": 60,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18L",
+          "latitude": 32.572498,
+          "longitude": -97.306396,
+          "elevation_ft": 694,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36R",
+          "latitude": 32.561501,
+          "longitude": -97.306396,
+          "elevation_ft": 695,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "18R/36L",
+      "length_ft": 6002,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18R",
+          "latitude": 32.572498,
+          "longitude": -97.3097,
+          "elevation_ft": 700,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36L",
+          "latitude": 32.556,
+          "longitude": -97.3097,
+          "elevation_ft": 689,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "REGIONAL APP/DEP",
+      "mhz": 135.975
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 120.025
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 124.625
+    },
+    {
+      "type": "FSS",
+      "description": "FORT WORTH RDO",
+      "mhz": 121.725
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 119.475
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 124.625
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

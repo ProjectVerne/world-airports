@@ -1,0 +1,72 @@
+{
+  "icao": "KAXQ",
+  "iata": null,
+  "name": "Clarion County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.2258,
+    "longitude": -79.441002,
+    "elevation_ft": 1458,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Clarion"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Clarion_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 5003,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 41.22180176,
+          "longitude": -79.44629669,
+          "elevation_ft": 1441,
+          "heading_true": 44.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 41.22980118,
+          "longitude": -79.43579865,
+          "elevation_ft": 1457,
+          "heading_true": 224.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.275
+    },
+    {
+      "type": "OTHER",
+      "description": "CLEVELAND CNTR APP",
+      "mhz": 126.72
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "icao": "KAFP",
+  "iata": null,
+  "name": "Anson County Airport - Jeff Cloud Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.020599,
+    "longitude": -80.077103,
+    "elevation_ft": 300,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Wadesboro"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Anson_County_Airport",
+  "keywords": [
+    "3A3"
+  ],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 5498,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 35.02750015258789,
+          "longitude": -80.08110046386719,
+          "elevation_ft": 297,
+          "heading_true": 154.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 35.01380157470703,
+          "longitude": -80.07319641113281,
+          "elevation_ft": 295,
+          "heading_true": 334.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHARLOTTE APP/DEP",
+      "mhz": 120.05
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.325
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

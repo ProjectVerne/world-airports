@@ -1,0 +1,101 @@
+{
+  "icao": "KGZH",
+  "iata": null,
+  "name": "Evergreen Regional Airport/Middleton Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.4158,
+    "longitude": -87.043999,
+    "elevation_ft": 259,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Evergreen"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Middleton_Field",
+  "keywords": [
+    "39J",
+    "Middleton Field"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5005,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 31.40929985,
+          "longitude": -87.04750061,
+          "elevation_ft": 250,
+          "heading_true": 5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 31.42020035,
+          "longitude": -87.0463028,
+          "elevation_ft": 257,
+          "heading_true": 185,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 5004,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 31.4178009,
+          "longitude": -87.04759979,
+          "elevation_ft": 258,
+          "heading_true": 100,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 31.41589928,
+          "longitude": -87.03500366,
+          "elevation_ft": 243,
+          "heading_true": 280,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 133.425
+    },
+    {
+      "type": "OTHER",
+      "description": "JACKSONVILLE CNTR",
+      "mhz": 120.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

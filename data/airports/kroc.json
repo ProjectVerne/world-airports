@@ -1,0 +1,149 @@
+{
+  "icao": "KROC",
+  "iata": "ROC",
+  "name": "Frederick Douglass Greater Rochester International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.1189,
+    "longitude": -77.672401,
+    "elevation_ft": 559,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Rochester"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Greater_Rochester_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 8001,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 43.10689926147461,
+          "longitude": -77.68769836425781,
+          "elevation_ft": 527,
+          "heading_true": 32,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 43.1255989074707,
+          "longitude": -77.6719970703125,
+          "elevation_ft": 559,
+          "heading_true": 212,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "07/25",
+      "length_ft": 4000,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 43.115699768066406,
+          "longitude": -77.67259979248047,
+          "elevation_ft": 540,
+          "heading_true": 62,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 43.12099838256836,
+          "longitude": -77.65910339355469,
+          "elevation_ft": 536,
+          "heading_true": 242,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 6402,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 43.122798919677734,
+          "longitude": -77.67649841308594,
+          "elevation_ft": 554,
+          "heading_true": 87,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 43.1234016418457,
+          "longitude": -77.65589904785156,
+          "elevation_ft": 541,
+          "heading_true": 267,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 119.55
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.825
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118.3
+    },
+    {
+      "type": "OTHER",
+      "description": "Rochester Emergency",
+      "mhz": 121.5
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "OTHER",
+      "description": "BUFFALO RDO",
+      "mhz": 122.6
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

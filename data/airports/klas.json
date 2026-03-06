@@ -1,0 +1,172 @@
+{
+  "icao": "KLAS",
+  "iata": "LAS",
+  "name": "Harry Reid International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.083361,
+    "longitude": -115.151817,
+    "elevation_ft": 2181,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Las Vegas"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Harry_Reid_International_Airport",
+  "keywords": [
+    "McCarran International Airport"
+  ],
+  "runways": [
+    {
+      "id": "01L/19R",
+      "length_ft": 9770,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01L",
+          "latitude": 36.07529831,
+          "longitude": -115.1699982,
+          "elevation_ft": 2176,
+          "heading_true": 25,
+          "displaced_threshold_ft": 587
+        },
+        "high": {
+          "ident": "19R",
+          "latitude": 36.09769821,
+          "longitude": -115.1579971,
+          "elevation_ft": 2083,
+          "heading_true": 205,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "01R/19L",
+      "length_ft": 9769,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01R",
+          "latitude": 36.074167,
+          "longitude": -115.1675,
+          "elevation_ft": 2170,
+          "heading_true": 25,
+          "displaced_threshold_ft": 491
+        },
+        "high": {
+          "ident": "19L",
+          "latitude": 36.0985,
+          "longitude": -115.1535,
+          "elevation_ft": 2080,
+          "heading_true": 205,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08L/26R",
+      "length_ft": 14835,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08L",
+          "latitude": 36.076333,
+          "longitude": -115.171333,
+          "elevation_ft": 2155,
+          "heading_true": 90,
+          "displaced_threshold_ft": 2139
+        },
+        "high": {
+          "ident": "26R",
+          "latitude": 36.076333,
+          "longitude": -115.121,
+          "elevation_ft": 2044,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08R/26L",
+      "length_ft": 10526,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08R",
+          "latitude": 36.07360076904297,
+          "longitude": -115.16100311279297,
+          "elevation_ft": 2157,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26L",
+          "latitude": 36.073699951171875,
+          "longitude": -115.1259994506836,
+          "elevation_ft": 2048,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "LAS VEGAS APP",
+      "mhz": 125.025
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 132.4
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 118
+    },
+    {
+      "type": "DEP",
+      "description": "LAS VEGAS DEP",
+      "mhz": 125.02
+    },
+    {
+      "type": "GND",
+      "description": "Ground",
+      "mhz": 121.1
+    },
+    {
+      "type": "TWR",
+      "description": "Tower",
+      "mhz": 119.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

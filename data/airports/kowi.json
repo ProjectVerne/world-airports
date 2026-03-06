@@ -1,0 +1,119 @@
+{
+  "icao": "KOWI",
+  "iata": null,
+  "name": "Ottawa Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.5387,
+    "longitude": -95.252998,
+    "elevation_ft": 966,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Ottawa"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ottawa_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 2345,
+      "width_ft": 81,
+      "surface": "grass",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 38.536098,
+          "longitude": -95.256302,
+          "elevation_ft": 962,
+          "heading_true": 52,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 38.5401,
+          "longitude": -95.249901,
+          "elevation_ft": 962,
+          "heading_true": 232,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 1550,
+      "width_ft": 95,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 38.53969955,
+          "longitude": -95.25689697,
+          "elevation_ft": 958,
+          "heading_true": 131.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 38.53630066,
+          "longitude": -95.25189972,
+          "elevation_ft": 961,
+          "heading_true": 311.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 4500,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 38.54560089111328,
+          "longitude": -95.2520980834961,
+          "elevation_ft": 966,
+          "heading_true": 179.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 38.53329849243164,
+          "longitude": -95.2520980834961,
+          "elevation_ft": 964,
+          "heading_true": 359.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KANSAS CITY CNTR",
+      "mhz": 127.725
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

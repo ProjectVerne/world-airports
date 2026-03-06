@@ -1,0 +1,74 @@
+{
+  "icao": "KDVP",
+  "iata": "NSL",
+  "name": "Slayton Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.986801,
+    "longitude": -95.7826,
+    "elevation_ft": 1623,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Slayton"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "60Y"
+  ],
+  "runways": [
+    {
+      "id": "17/35",
+      "length_ft": 3005,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 43.99029922,
+          "longitude": -95.7818985,
+          "elevation_ft": 1615,
+          "heading_true": 183,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 43.98270035,
+          "longitude": -95.78250122,
+          "elevation_ft": 1623,
+          "heading_true": 3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS APP/DEP",
+      "mhz": 132.05
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.55
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "icao": "KCFJ",
+  "iata": null,
+  "name": "Crawfordsville Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.975602,
+    "longitude": -86.919899,
+    "elevation_ft": 799,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Crawfordsville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Crawfordsville_Regional_Airport",
+  "keywords": [
+    "Crawfordsville Municipal"
+  ],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5506,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 39.97109985,
+          "longitude": -86.9253006,
+          "elevation_ft": 795,
+          "heading_true": 42.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 39.98020172,
+          "longitude": -86.91439819,
+          "elevation_ft": 799,
+          "heading_true": 222.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS APP/DEP",
+      "mhz": 119.05
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

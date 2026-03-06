@@ -1,0 +1,164 @@
+{
+  "icao": "KIND",
+  "iata": "IND",
+  "name": "Indianapolis International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.7173,
+    "longitude": -86.294403,
+    "elevation_ft": 797,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Indianapolis"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Indianapolis_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05L/23R",
+      "length_ft": 11200,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05L",
+          "latitude": 39.70640182495117,
+          "longitude": -86.32080078125,
+          "elevation_ft": 738,
+          "heading_true": 44.5,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23R",
+          "latitude": 39.72829818725586,
+          "longitude": -86.29290008544922,
+          "elevation_ft": 783,
+          "heading_true": 224.5,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "05R/23L",
+      "length_ft": 10000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05R",
+          "latitude": 39.700199127197266,
+          "longitude": -86.30439758300781,
+          "elevation_ft": 789,
+          "heading_true": 44.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23L",
+          "latitude": 39.71979904174805,
+          "longitude": -86.27950286865234,
+          "elevation_ft": 788,
+          "heading_true": 224.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 7278,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 39.73419952,
+          "longitude": -86.2888031,
+          "elevation_ft": 788,
+          "heading_true": 134.6,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 39.71960068,
+          "longitude": -86.26959991,
+          "elevation_ft": 781,
+          "heading_true": 314.6,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "APP INITIAL CONTACT",
+      "mhz": 128.175
+    },
+    {
+      "type": "OTHER",
+      "description": "APP EAST OF ACTIVE RWY",
+      "mhz": 127.15
+    },
+    {
+      "type": "OTHER",
+      "description": "APP WEST OF ACTIVE RUNWAY",
+      "mhz": 124.65
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 134.25
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 128.75
+    },
+    {
+      "type": "DEP",
+      "description": "DEP EAST",
+      "mhz": 124.95
+    },
+    {
+      "type": "DEP",
+      "description": "DEP WEST",
+      "mhz": 119.05
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.8
+    },
+    {
+      "type": "OTHER",
+      "description": "TERRE HAUTE RDO",
+      "mhz": 122.55
+    },
+    {
+      "type": "TWR",
+      "description": "INDY TWR",
+      "mhz": 120.9
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

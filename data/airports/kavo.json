@@ -1,0 +1,93 @@
+{
+  "icao": "KAVO",
+  "iata": "AVO",
+  "name": "Avon Park Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.59119987,
+    "longitude": -81.52780151,
+    "elevation_ft": 160,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Avon Park"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Avon_Park_Executive_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5374,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 27.584499,
+          "longitude": -81.535103,
+          "elevation_ft": 156,
+          "heading_true": 45,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 27.5949,
+          "longitude": -81.5233,
+          "elevation_ft": 153,
+          "heading_true": 225,
+          "displaced_threshold_ft": 1000
+        }
+      }
+    },
+    {
+      "id": "10/28",
+      "length_ft": 3844,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 27.593599,
+          "longitude": -81.5345,
+          "elevation_ft": 154,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 27.5935,
+          "longitude": -81.522697,
+          "elevation_ft": 153,
+          "heading_true": 270,
+          "displaced_threshold_ft": 500
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MIAMI CNTR",
+      "mhz": 134.55
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

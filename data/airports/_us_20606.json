@@ -1,0 +1,94 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Monticello Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.622501,
+    "longitude": -74.701302,
+    "elevation_ft": 1545,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Monticello"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Monticello_Airport_(New_York)",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 2595,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 41.61790084838867,
+          "longitude": -74.70230102539062,
+          "elevation_ft": 1541,
+          "heading_true": 360,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 41.625,
+          "longitude": -74.70230102539062,
+          "elevation_ft": 1528,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 2072,
+      "width_ft": 24,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 41.62580108642578,
+          "longitude": -74.70259857177734,
+          "elevation_ft": 1523,
+          "heading_true": 138,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 41.62160110473633,
+          "longitude": -74.69750213623047,
+          "elevation_ft": 1532,
+          "heading_true": 318,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "NEW YORK CNTR",
+      "mhz": 132.75
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20606,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

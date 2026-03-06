@@ -1,0 +1,89 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Independence Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.815383,
+    "longitude": -118.204463,
+    "elevation_ft": 3908,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Independence"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Independence_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 1498,
+      "width_ft": 30,
+      "surface": "dirt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 36.81629943847656,
+          "longitude": -118.20800018310547,
+          "elevation_ft": 3908,
+          "heading_true": 68,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 36.81779861450195,
+          "longitude": -118.2030029296875,
+          "elevation_ft": 3880,
+          "heading_true": 248,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 3533,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 36.82059860229492,
+          "longitude": -118.20800018310547,
+          "elevation_ft": 3894,
+          "heading_true": 157,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 36.81159973144531,
+          "longitude": -118.2020034790039,
+          "elevation_ft": 3893,
+          "heading_true": 337,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18610,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "icao": "KDLL",
+  "iata": null,
+  "name": "Baraboo Wisconsin Dells Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.522701,
+    "longitude": -89.770203,
+    "elevation_ft": 979,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Baraboo"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Baraboo%E2%80%93Wisconsin_Dells_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 5010,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 43.516201,
+          "longitude": -89.771599,
+          "elevation_ft": 976,
+          "heading_true": 9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 43.529202,
+          "longitude": -89.768898,
+          "elevation_ft": 967,
+          "heading_true": 189,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 2725,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 43.52330017,
+          "longitude": -89.77570343,
+          "elevation_ft": 976,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 43.51800156,
+          "longitude": -89.76850128,
+          "elevation_ft": 976,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MADISON APP/DEP",
+      "mhz": 135.45
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.325
+    },
+    {
+      "type": "OTHER",
+      "description": "GREEN BAY RDO",
+      "mhz": 117
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

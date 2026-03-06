@@ -1,0 +1,170 @@
+{
+  "icao": "KSLC",
+  "iata": "SLC",
+  "name": "Salt Lake City International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.78886,
+    "longitude": -111.979866,
+    "elevation_ft": 4227,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Salt Lake City"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Salt_Lake_City_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "14/32",
+      "length_ft": 4893,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 40.78570175,
+          "longitude": -111.9710007,
+          "elevation_ft": 4222,
+          "heading_true": 153,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 40.7737999,
+          "longitude": -111.9629974,
+          "elevation_ft": 4224,
+          "heading_true": 333,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16L/34R",
+      "length_ft": 12002,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16L",
+          "latitude": 40.80739975,
+          "longitude": -111.9769974,
+          "elevation_ft": 4226,
+          "heading_true": 175,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34R",
+          "latitude": 40.77460098,
+          "longitude": -111.9729996,
+          "elevation_ft": 4221,
+          "heading_true": 355,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "16R/34L",
+      "length_ft": 12000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16R",
+          "latitude": 40.80780029296875,
+          "longitude": -111.9990005493164,
+          "elevation_ft": 4221,
+          "heading_true": 174.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34L",
+          "latitude": 40.775001525878906,
+          "longitude": -111.99500274658203,
+          "elevation_ft": 4226,
+          "heading_true": 354.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 9596,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 40.79890060424805,
+          "longitude": -111.96199798583984,
+          "elevation_ft": 4219,
+          "heading_true": 180,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 40.77259826660156,
+          "longitude": -111.96199798583984,
+          "elevation_ft": 4224,
+          "heading_true": 360,
+          "displaced_threshold_ft": 324
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 121.1
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.75
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 127.3
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "CEDAR CITY  RDO",
+      "mhz": 122.4
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

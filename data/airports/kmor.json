@@ -1,0 +1,74 @@
+{
+  "icao": "KMOR",
+  "iata": "MOR",
+  "name": "Morristown Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.179401,
+    "longitude": -83.375504,
+    "elevation_ft": 1313,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Morristown"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Morristown_Regional_Airport",
+  "keywords": [
+    "Moore-Murrell Airport"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5718,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 36.17419815,
+          "longitude": -83.38289642,
+          "elevation_ft": 1313,
+          "heading_true": 49.4,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 36.18439865,
+          "longitude": -83.36820221,
+          "elevation_ft": 1275,
+          "heading_true": 229.4,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "KNOXVILLE APP/DEP",
+      "mhz": 132.8
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 126.725
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

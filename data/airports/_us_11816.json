@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Para Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.20220184326172,
+    "longitude": -82.75409698486328,
+    "elevation_ft": 800,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Yale"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 2500,
+      "width_ft": 65,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 43.20050048828125,
+          "longitude": -82.75789642333984,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 476
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 43.20399856567383,
+          "longitude": -82.74980163574219,
+          "elevation_ft": 0,
+          "heading_true": 249,
+          "displaced_threshold_ft": 200
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11816,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

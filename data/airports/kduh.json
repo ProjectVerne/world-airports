@@ -1,0 +1,77 @@
+{
+  "icao": "KDUH",
+  "iata": null,
+  "name": "Toledo Suburban Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.73590087890625,
+    "longitude": -83.65540313720703,
+    "elevation_ft": 669,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Lambertville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Toledo_Suburban_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 4807,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.73550034,
+          "longitude": -83.66459656,
+          "elevation_ft": 669,
+          "heading_true": 86.9,
+          "displaced_threshold_ft": 1274
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.73630142,
+          "longitude": -83.64620209,
+          "elevation_ft": 669,
+          "heading_true": 266.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 134.35
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 119.175
+    },
+    {
+      "type": "OTHER",
+      "description": "CLEVELAND RDO",
+      "mhz": 113.1
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.7
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

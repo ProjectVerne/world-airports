@@ -1,0 +1,74 @@
+{
+  "icao": "KFBL",
+  "iata": "FBL",
+  "name": "Faribault Municipal Airport-Liz Wall Strohfus Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.32844,
+    "longitude": -93.312534,
+    "elevation_ft": 1060,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Faribault"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "Faribault Municipal"
+  ],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 4257,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 44.33150101,
+          "longitude": -93.31809998,
+          "elevation_ft": 1057,
+          "heading_true": 127,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 44.32440186,
+          "longitude": -93.30509949,
+          "elevation_ft": 1048,
+          "heading_true": 307,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "MINNEAPOLIS APP/DEP",
+      "mhz": 125
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 111.2
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "icao": "KMCX",
+  "iata": null,
+  "name": "White County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.708801,
+    "longitude": -86.7668,
+    "elevation_ft": 676,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Monticello"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/White_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "18/36",
+      "length_ft": 5001,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 40.71429825,
+          "longitude": -86.76689911,
+          "elevation_ft": 676,
+          "heading_true": 178.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 40.70330048,
+          "longitude": -86.76660156,
+          "elevation_ft": 670,
+          "heading_true": 358.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "CHICAGO CNTR",
+      "mhz": 123.85
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "icao": "KMSO",
+  "iata": "MSO",
+  "name": "Missoula Montana Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.915816,
+    "longitude": -114.091107,
+    "elevation_ft": 3206,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Missoula"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Missoula_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4612,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 46.91600036621094,
+          "longitude": -114.09700012207031,
+          "elevation_ft": 3199,
+          "heading_true": 89,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 46.91619873046875,
+          "longitude": -114.0780029296875,
+          "elevation_ft": 3204,
+          "heading_true": 269,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 9501,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 46.924800872802734,
+          "longitude": -114.10700225830078,
+          "elevation_ft": 3192,
+          "heading_true": 130,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 46.907901763916016,
+          "longitude": -114.0780029296875,
+          "elevation_ft": 3205,
+          "heading_true": 310,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "SPOKANE APP/DEP",
+      "mhz": 124.9
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 126.65
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.4
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "GREAT FALLS RDO",
+      "mhz": 122.45
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.4
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

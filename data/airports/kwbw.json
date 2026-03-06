@@ -1,0 +1,93 @@
+{
+  "icao": "KWBW",
+  "iata": "WBW",
+  "name": "Wilkes Barre Wyoming Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.2971992493,
+    "longitude": -75.8511962891,
+    "elevation_ft": 545,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Wilkes-Barre"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wilkes-Barre_Wyoming_Valley_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 3375,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 41.29439926,
+          "longitude": -75.85610199,
+          "elevation_ft": 545,
+          "heading_true": 54,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 41.29990005,
+          "longitude": -75.84629822,
+          "elevation_ft": 545,
+          "heading_true": 234,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "09/27",
+      "length_ft": 2193,
+      "width_ft": 100,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.2969017,
+          "longitude": -75.85780334,
+          "elevation_ft": 0,
+          "heading_true": 79.9,
+          "displaced_threshold_ft": 662
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.29809952,
+          "longitude": -75.84940338,
+          "elevation_ft": 0,
+          "heading_true": 259.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 126.3
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

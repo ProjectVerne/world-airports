@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Dauphin Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.2605,
+    "longitude": -88.127502,
+    "elevation_ft": 5,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Dauphin Island"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Jeremiah_Denton_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "12/30",
+      "length_ft": 3000,
+      "width_ft": 80,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "12",
+          "latitude": 30.262800216674805,
+          "longitude": -88.13140106201172,
+          "elevation_ft": 5,
+          "heading_true": 123,
+          "displaced_threshold_ft": 202
+        },
+        "high": {
+          "ident": "30",
+          "latitude": 30.25819969177246,
+          "longitude": -88.12349700927734,
+          "elevation_ft": 5,
+          "heading_true": 303,
+          "displaced_threshold_ft": 140
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 18848,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

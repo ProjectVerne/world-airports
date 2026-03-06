@@ -1,0 +1,62 @@
+{
+  "icao": "KFFA",
+  "iata": "FFA",
+  "name": "First Flight Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.0181999207,
+    "longitude": -75.67130279540001,
+    "elevation_ft": 13,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Kill Devil Hills"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/First_Flight_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 3000,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 36.014599,
+          "longitude": -75.6735,
+          "elevation_ft": 13,
+          "heading_true": 24,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 36.022099,
+          "longitude": -75.669296,
+          "elevation_ft": 9,
+          "heading_true": 204,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

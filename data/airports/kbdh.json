@@ -1,0 +1,82 @@
+{
+  "icao": "KBDH",
+  "iata": "ILL",
+  "name": "Willmar Municipal Airport John L Rice Field (2006)",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.117552,
+    "longitude": -95.132259,
+    "elevation_ft": 1126,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Willmar"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Willmar_Municipal_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 2980,
+      "width_ft": 250,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 45.11240005493164,
+          "longitude": -95.127197265625,
+          "elevation_ft": 1125,
+          "heading_true": 35,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 45.11909866333008,
+          "longitude": -95.12049865722656,
+          "elevation_ft": 1123,
+          "heading_true": 215,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5500,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 45.122501373291016,
+          "longitude": -95.1405029296875,
+          "elevation_ft": 1123,
+          "heading_true": 130,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 45.11289978027344,
+          "longitude": -95.12409973144531,
+          "elevation_ft": 1126,
+          "heading_true": 310,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

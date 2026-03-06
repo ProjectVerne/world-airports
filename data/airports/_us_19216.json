@@ -1,0 +1,65 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "California Pines Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.412399,
+    "longitude": -120.683998,
+    "elevation_ft": 4398,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Alturas"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/California_Pines_Airport",
+  "keywords": [
+    "CA02"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 4159,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 41.41030121,
+          "longitude": -120.6920013,
+          "elevation_ft": 4394,
+          "heading_true": 67.7,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 41.41469955,
+          "longitude": -120.677002,
+          "elevation_ft": 4398,
+          "heading_true": 247.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 19216,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

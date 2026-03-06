@@ -1,0 +1,105 @@
+{
+  "icao": "KAUO",
+  "iata": "AUO",
+  "name": "Auburn University Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.615101,
+    "longitude": -85.433998,
+    "elevation_ft": 777,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Auburn"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Auburn-Opelika_Robert_G._Pitts_Airport",
+  "keywords": [
+    "Auburn–Opelika Robert G. Pitts Field"
+  ],
+  "runways": [
+    {
+      "id": "11/29",
+      "length_ft": 4000,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 32.619598388671875,
+          "longitude": -85.43730163574219,
+          "elevation_ft": 775,
+          "heading_true": 107,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 32.61629867553711,
+          "longitude": -85.42489624023438,
+          "elevation_ft": 764,
+          "heading_true": 287,
+          "displaced_threshold_ft": 297
+        }
+      }
+    },
+    {
+      "id": "18/36",
+      "length_ft": 5264,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "18",
+          "latitude": 32.620201110839844,
+          "longitude": -85.43599700927734,
+          "elevation_ft": 776,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "36",
+          "latitude": 32.6057014465332,
+          "longitude": -85.4363021850586,
+          "elevation_ft": 731,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "ATLANTA APP/DEP",
+      "mhz": 125.5
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 132.575
+    },
+    {
+      "type": "OTHER",
+      "description": "ATLANTA CLNC DEL",
+      "mhz": 118.7
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

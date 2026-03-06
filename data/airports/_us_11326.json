@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Wolf Lake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.639311,
+    "longitude": -149.291105,
+    "elevation_ft": 572,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Palmer"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Wolf_Lake_Airport,_Alaska",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "08/26",
+      "length_ft": 3800,
+      "width_ft": 40,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 61.639375,
+          "longitude": -149.294875,
+          "elevation_ft": 533,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 61.642502,
+          "longitude": -149.266998,
+          "elevation_ft": 530,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 11326,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

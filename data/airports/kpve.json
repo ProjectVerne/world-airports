@@ -1,0 +1,80 @@
+{
+  "icao": "KPVE",
+  "iata": null,
+  "name": "Beech River Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.656399,
+    "longitude": -88.195396,
+    "elevation_ft": 488,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Darden"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Beech_River_Regional_Airport",
+  "keywords": [
+    "Lexington",
+    "Parsons"
+  ],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 6000,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 35.64830017089844,
+          "longitude": -88.19740295410156,
+          "elevation_ft": 446,
+          "heading_true": 11.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 35.664398193359375,
+          "longitude": -88.19329833984375,
+          "elevation_ft": 488,
+          "heading_true": 191.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 125.85
+    },
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 118.125
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 123
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 123
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

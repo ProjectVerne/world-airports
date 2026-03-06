@@ -1,0 +1,120 @@
+{
+  "icao": "KBED",
+  "iata": "BED",
+  "name": "Laurence G Hanscom Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.470001,
+    "longitude": -71.289001,
+    "elevation_ft": 133,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Bedford"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hanscom_Field",
+  "keywords": [
+    "Hanscom Air Force Base"
+  ],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5107,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 42.46340179,
+          "longitude": -71.29689789,
+          "elevation_ft": 128,
+          "heading_true": 37,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 42.47460175,
+          "longitude": -71.28540039,
+          "elevation_ft": 128,
+          "heading_true": 217,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 7011,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 42.47180176,
+          "longitude": -71.30039978,
+          "elevation_ft": 133,
+          "heading_true": 97.8,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 42.4693985,
+          "longitude": -71.27459717,
+          "elevation_ft": 124,
+          "heading_true": 277.8,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "BOSTON APP/DEP",
+      "mhz": 124.4
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.6
+    },
+    {
+      "type": "OTHER",
+      "description": "CLNC DEL",
+      "mhz": 121.85
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.5
+    },
+    {
+      "type": "GND",
+      "description": "HANSCOM GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "TWR",
+      "description": "HANSCOM TWR",
+      "mhz": 118.5
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Nellis Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.962592,
+    "longitude": -74.681904,
+    "elevation_ft": 700,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Fort Plain"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 2750,
+      "width_ft": 20,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 42.96009826660156,
+          "longitude": -74.68340301513672,
+          "elevation_ft": 0,
+          "heading_true": 116.2,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 42.95669937133789,
+          "longitude": -74.67410278320312,
+          "elevation_ft": 0,
+          "heading_true": 296.2,
+          "displaced_threshold_ft": 475
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 23402,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

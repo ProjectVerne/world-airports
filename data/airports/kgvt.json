@@ -1,0 +1,113 @@
+{
+  "icao": "KGVT",
+  "iata": "GVT",
+  "name": "Majors Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.0677986145,
+    "longitude": -96.0652999878,
+    "elevation_ft": 535,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Greenville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Majors_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "13/31",
+      "length_ft": 5000,
+      "width_ft": 150,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 33.07440185546875,
+          "longitude": -96.06749725341797,
+          "elevation_ft": 0,
+          "heading_true": 135,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 33.064701080322266,
+          "longitude": -96.05580139160156,
+          "elevation_ft": 0,
+          "heading_true": 315,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 8030,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.07889938354492,
+          "longitude": -96.06520080566406,
+          "elevation_ft": 520,
+          "heading_true": 181,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.056800842285156,
+          "longitude": -96.06549835205078,
+          "elevation_ft": 524,
+          "heading_true": 1,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "AWOS",
+      "description": "AWOS 3",
+      "mhz": 133.425
+    },
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 132.85
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 118.65
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.7
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 118.65
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

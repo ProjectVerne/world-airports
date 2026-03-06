@@ -1,0 +1,113 @@
+{
+  "icao": "KDET",
+  "iata": "DET",
+  "name": "Coleman A. Young Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.40919876,
+    "longitude": -83.00990295,
+    "elevation_ft": 626,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Detroit"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Coleman_A._Young_International_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "07/25",
+      "length_ft": 4025,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": true,
+      "ends": {
+        "low": {
+          "ident": "07",
+          "latitude": 42.402901,
+          "longitude": -83.015701,
+          "elevation_ft": 626,
+          "heading_true": 68,
+          "displaced_threshold_ft": 715
+        },
+        "high": {
+          "ident": "25",
+          "latitude": 42.407001,
+          "longitude": -83.002403,
+          "elevation_ft": 624,
+          "heading_true": 248,
+          "displaced_threshold_ft": 716
+        }
+      }
+    },
+    {
+      "id": "15/33",
+      "length_ft": 5092,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "15",
+          "latitude": 42.41799927,
+          "longitude": -83.0161972,
+          "elevation_ft": 624,
+          "heading_true": 143,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "33",
+          "latitude": 42.40679932,
+          "longitude": -83.00499725,
+          "elevation_ft": 625,
+          "heading_true": 323,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "APP/DEP",
+      "mhz": 126.85
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 124.875
+    },
+    {
+      "type": "GND",
+      "description": "GND",
+      "mhz": 121.85
+    },
+    {
+      "type": "OTHER",
+      "description": "LANSING RDO",
+      "mhz": 122.2
+    },
+    {
+      "type": "TWR",
+      "description": "TWR",
+      "mhz": 121.3
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

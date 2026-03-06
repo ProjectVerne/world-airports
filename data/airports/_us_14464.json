@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Weatherbee Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.47050094604492,
+    "longitude": -89.35900115966797,
+    "elevation_ft": 960,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Wyocena"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "06/24",
+      "length_ft": 1200,
+      "width_ft": 30,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06",
+          "latitude": 43.46969985961914,
+          "longitude": -89.36100006103516,
+          "elevation_ft": 0,
+          "heading_true": 61,
+          "displaced_threshold_ft": 200
+        },
+        "high": {
+          "ident": "24",
+          "latitude": 43.47129821777344,
+          "longitude": -89.35700225830078,
+          "elevation_ft": 0,
+          "heading_true": 197.7,
+          "displaced_threshold_ft": 75
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 14464,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

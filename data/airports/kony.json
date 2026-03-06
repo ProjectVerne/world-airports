@@ -1,0 +1,119 @@
+{
+  "icao": "KONY",
+  "iata": "ONY",
+  "name": "Olney Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.350899,
+    "longitude": -98.819199,
+    "elevation_ft": 1275,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Olney"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 5100,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 33.34830093,
+          "longitude": -98.82450104,
+          "elevation_ft": 1264,
+          "heading_true": 45.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 33.35810089,
+          "longitude": -98.81269836,
+          "elevation_ft": 1269,
+          "heading_true": 225.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "13/31",
+      "length_ft": 5099,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "13",
+          "latitude": 33.35350037,
+          "longitude": -98.82450104,
+          "elevation_ft": 1271,
+          "heading_true": 135.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "31",
+          "latitude": 33.34360123,
+          "longitude": -98.81279755,
+          "elevation_ft": 1243,
+          "heading_true": 315.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "17/35",
+      "length_ft": 5101,
+      "width_ft": 75,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "17",
+          "latitude": 33.3578987121582,
+          "longitude": -98.82019805908203,
+          "elevation_ft": 1275,
+          "heading_true": 180.3,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "35",
+          "latitude": 33.34389877319336,
+          "longitude": -98.82029724121094,
+          "elevation_ft": 1261,
+          "heading_true": 0.3,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "FORT WORTH CNTR",
+      "mhz": 133.5
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

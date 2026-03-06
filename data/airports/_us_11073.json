@@ -1,0 +1,57 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Betz Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.855598,
+    "longitude": -83.870796,
+    "elevation_ft": 691,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Blissfield"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Betz_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2602,
+      "width_ft": 92,
+      "surface": "grass",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 41.855098724365234,
+          "longitude": -83.87550354003906,
+          "elevation_ft": 691,
+          "heading_true": 89,
+          "displaced_threshold_ft": 415
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 41.855098724365234,
+          "longitude": -83.86599731445312,
+          "elevation_ft": 691,
+          "heading_true": 270,
+          "displaced_threshold_ft": 390
+        }
+      }
+    }
+  ],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 11073,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

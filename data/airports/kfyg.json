@@ -1,0 +1,31 @@
+{
+  "icao": "KFYG",
+  "iata": null,
+  "name": "Washington Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.587601,
+    "longitude": -90.993797,
+    "elevation_ft": 488,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Washington"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [
+    "MO6"
+  ],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

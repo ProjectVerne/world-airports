@@ -1,0 +1,98 @@
+{
+  "icao": "KADG",
+  "iata": "ADG",
+  "name": "Lenawee County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.866205,
+    "longitude": -84.077983,
+    "elevation_ft": 798,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Adrian"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lenawee_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "05/23",
+      "length_ft": 5001,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "05",
+          "latitude": 41.86159896850586,
+          "longitude": -84.08470153808594,
+          "elevation_ft": 795,
+          "heading_true": 47,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "23",
+          "latitude": 41.87089920043945,
+          "longitude": -84.07119750976562,
+          "elevation_ft": 799,
+          "heading_true": 227,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11/29",
+      "length_ft": 1779,
+      "width_ft": 150,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11",
+          "latitude": 41.87229919,
+          "longitude": -84.07859802,
+          "elevation_ft": 798,
+          "heading_true": 107,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29",
+          "latitude": 41.87080002,
+          "longitude": -84.07230377,
+          "elevation_ft": 797,
+          "heading_true": 287,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "OTHER",
+      "description": "TOLEDO APP/DEP",
+      "mhz": 134.35
+    },
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 118.375
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

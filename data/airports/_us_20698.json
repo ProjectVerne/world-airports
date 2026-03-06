@@ -1,0 +1,63 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Cedarville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.55270004272461,
+    "longitude": -120.16600036621094,
+    "elevation_ft": 4623,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Cedarville"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cedarville_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "01/19",
+      "length_ft": 4415,
+      "width_ft": 50,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "01",
+          "latitude": 41.54750061035156,
+          "longitude": -120.1709976196289,
+          "elevation_ft": 4623,
+          "heading_true": 29.7,
+          "displaced_threshold_ft": 120
+        },
+        "high": {
+          "ident": "19",
+          "latitude": 41.558101654052734,
+          "longitude": -120.16200256347656,
+          "elevation_ft": 4564,
+          "heading_true": 209.7,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 20698,
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

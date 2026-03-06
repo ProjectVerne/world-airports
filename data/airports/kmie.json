@@ -1,0 +1,123 @@
+{
+  "icao": "KMIE",
+  "iata": "MIE",
+  "name": "Delaware County Johnson Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.242298,
+    "longitude": -85.395897,
+    "elevation_ft": 937,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Muncie"
+  },
+  "scheduled_service": false,
+  "wikipedia": "https://en.wikipedia.org/wiki/Delaware_County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 5198,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 40.235699,
+          "longitude": -85.3983,
+          "elevation_ft": 937,
+          "heading_true": 16,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 40.249001,
+          "longitude": -85.393402,
+          "elevation_ft": 934,
+          "heading_true": 196,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "14/32",
+      "length_ft": 6500,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "14",
+          "latitude": 40.24869918823242,
+          "longitude": -85.40589904785156,
+          "elevation_ft": 929,
+          "heading_true": 136,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "32",
+          "latitude": 40.235801696777344,
+          "longitude": -85.38980102539062,
+          "elevation_ft": 936,
+          "heading_true": 316,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 114.4
+    },
+    {
+      "type": "ATIS",
+      "description": "ATIS",
+      "mhz": 133.25
+    },
+    {
+      "type": "OTHER",
+      "description": "INDIANAPOLIS CNTR",
+      "mhz": 120.65
+    },
+    {
+      "type": "CTAF",
+      "description": "CTAF",
+      "mhz": 120.1
+    },
+    {
+      "type": "GND",
+      "description": "MUNCIE GND",
+      "mhz": 121.9
+    },
+    {
+      "type": "OTHER",
+      "description": "TERRE HAUTE RDO",
+      "mhz": 114.4
+    },
+    {
+      "type": "TWR",
+      "description": "MUNCIE TWR",
+      "mhz": 120.1
+    },
+    {
+      "type": "UNIC",
+      "description": "UNICOM",
+      "mhz": 122.95
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

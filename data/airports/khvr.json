@@ -1,0 +1,98 @@
+{
+  "icao": "KHVR",
+  "iata": "HVR",
+  "name": "Havre City County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.541387,
+    "longitude": -109.762859,
+    "elevation_ft": 2591,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Havre"
+  },
+  "scheduled_service": true,
+  "wikipedia": "https://en.wikipedia.org/wiki/Havre_City%E2%80%93County_Airport",
+  "keywords": [],
+  "runways": [
+    {
+      "id": "03/21",
+      "length_ft": 3699,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "03",
+          "latitude": 48.537899017333984,
+          "longitude": -109.76799774169922,
+          "elevation_ft": 2588,
+          "heading_true": 44.9,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "21",
+          "latitude": 48.545101165771484,
+          "longitude": -109.75700378417969,
+          "elevation_ft": 2581,
+          "heading_true": 224.9,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "08/26",
+      "length_ft": 5205,
+      "width_ft": 100,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "08",
+          "latitude": 48.54399871826172,
+          "longitude": -109.77300262451172,
+          "elevation_ft": 2581,
+          "heading_true": 90,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "26",
+          "latitude": 48.54399871826172,
+          "longitude": -109.7509994506836,
+          "elevation_ft": 2580,
+          "heading_true": 270,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
+  "frequencies": [
+    {
+      "type": "ASOS",
+      "description": "ASOS",
+      "mhz": 135.225
+    },
+    {
+      "type": "OTHER",
+      "description": "GREAT FALLS RDO",
+      "mhz": 123.65
+    },
+    {
+      "type": "UNIC",
+      "description": "CTAF/UNICOM",
+      "mhz": 122.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-06",
+    "updated": "2026-03-06",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}
