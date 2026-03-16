@@ -1,17 +1,17 @@
 {
-  "icao": null,
-  "iata": null,
-  "name": "III Corps HQ Heliport",
-  "type": "heliport",
+  "icao": "PTFK",
+  "iata": "TKL",
+  "name": "Taku Lodge Seaplane Base",
+  "type": "seaplane_base",
   "status": "open",
   "location": {
-    "latitude": 31.13506,
-    "longitude": -97.772328,
-    "elevation_ft": 906,
+    "latitude": 58.491645,
+    "longitude": -133.941575,
+    "elevation_ft": 0,
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-TX",
-    "municipality": "Fort Hood"
+    "iso_region": "US-AK",
+    "municipality": "Taku Lodge"
   },
   "scheduled_service": false,
   "wikipedia": null,
@@ -19,8 +19,7 @@
   "runways": [],
   "frequencies": [],
   "metadata": {
-    "ourairports_id": 599134,
-    "created": "2026-03-06",
+    "created": "2026-03-16",
     "updated": "2026-03-16",
     "sources": [
       "ourairports",

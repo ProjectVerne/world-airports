@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Beaver Creek Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 33.6542626352,
-    "longitude": -96.77635967730002,
+    "latitude": 33.654263,
+    "longitude": -96.77636,
     "elevation_ft": 708,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "9XS2"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 16055,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-03-16",
     "sources": [
       "ourairports",
       "faa"
