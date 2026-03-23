@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Public Service Company/Mdc Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 39.86669921875,
-    "longitude": -104.9010009765625,
+    "latitude": 39.866699,
+    "longitude": -104.901001,
     "elevation_ft": 5110,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "CD08"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 16639,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-03-23",
     "sources": [
       "ourairports",
       "faa"

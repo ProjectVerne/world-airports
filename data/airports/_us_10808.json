@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Pinoak Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 30.10580062866211,
-    "longitude": -94.95880126953125,
+    "latitude": 30.105801,
+    "longitude": -94.958801,
     "elevation_ft": 91,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "3TE9"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 10808,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-03-23",
     "sources": [
       "ourairports",
       "faa"

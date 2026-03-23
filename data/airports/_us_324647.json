@@ -2,7 +2,7 @@
   "icao": null,
   "iata": null,
   "name": "Wilkeys Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
     "latitude": 32.175986,
@@ -15,51 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
-  "runways": [
-    {
-      "id": "NE/SW",
-      "length_ft": 4000,
-      "width_ft": 50,
-      "surface": "asphalt",
-      "lighted": true,
-      "closed": false,
-      "ends": {
-        "low": {
-          "ident": "NE",
-          "latitude": 31.905799865722656,
-          "longitude": -106.64600372314453,
-          "elevation_ft": 0,
-          "heading_true": 50.3,
-          "displaced_threshold_ft": 0
-        },
-        "high": {
-          "ident": "SW",
-          "latitude": 31.912799835205078,
-          "longitude": -106.63600158691406,
-          "elevation_ft": 3750,
-          "heading_true": 230.3,
-          "displaced_threshold_ft": 0
-        }
-      }
-    }
+  "keywords": [
+    "TA50"
   ],
-  "frequencies": [
-    {
-      "type": "OTHER",
-      "description": "RWY AND ROT BCN LGT",
-      "mhz": 122.9
-    },
-    {
-      "type": "UNIC",
-      "description": "UNICOM",
-      "mhz": 122.8
-    }
-  ],
+  "runways": [],
+  "frequencies": [],
   "metadata": {
     "ourairports_id": 324647,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-03-23",
     "sources": [
       "ourairports",
       "faa"

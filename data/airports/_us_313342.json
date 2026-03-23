@@ -1,12 +1,12 @@
 {
   "icao": null,
-  "iata": "KYL",
+  "iata": null,
   "name": "Port Largo Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 25.09334,
-    "longitude": -80.42992,
+    "latitude": 25.093365,
+    "longitude": -80.429921,
     "elevation_ft": 4,
     "continent": "NA",
     "iso_country": "US",
@@ -16,14 +16,15 @@
   "scheduled_service": false,
   "wikipedia": null,
   "keywords": [
-    "KYL"
+    "KYL",
+    "KKYL"
   ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 313342,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-03-23",
     "sources": [
       "ourairports",
       "faa"
