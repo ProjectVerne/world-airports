@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Randolph's Landing Area Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 43.113187,
-    "longitude": -84.520526,
+    "latitude": 43.113946,
+    "longitude": -84.519174,
     "elevation_ft": 700,
     "continent": "NA",
     "iso_country": "US",
@@ -16,14 +16,15 @@
   "scheduled_service": false,
   "wikipedia": "https://en.wikipedia.org/wiki/Randolph%27s_Landing_Area",
   "keywords": [
-    "61G"
+    "61G",
+    "82MI"
   ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 12815,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-03-30",
     "sources": [
       "ourairports",
       "faa"

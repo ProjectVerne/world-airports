@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Irlbeck Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 45.09550094604492,
-    "longitude": -92.67379760742188,
+    "latitude": 45.095708,
+    "longitude": -92.670982,
     "elevation_ft": 990,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "24WI"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 9035,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-03-30",
     "sources": [
       "ourairports",
       "faa"
