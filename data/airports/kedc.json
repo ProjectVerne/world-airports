@@ -2,7 +2,7 @@
   "icao": "KEDC",
   "iata": null,
   "name": "Austin Executive Airport",
-  "type": "small_airport",
+  "type": "medium_airport",
   "status": "open",
   "location": {
     "latitude": 30.398049,
@@ -13,7 +13,7 @@
     "iso_region": "US-TX",
     "municipality": "Pflugerville"
   },
-  "scheduled_service": false,
+  "scheduled_service": true,
   "wikipedia": "https://en.wikipedia.org/wiki/Austin_Executive_Airport",
   "keywords": [
     "6R4",
@@ -76,7 +76,7 @@
   "frequencies": [],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-04-13",
     "sources": [
       "ourairports",
       "faa"

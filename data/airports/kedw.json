@@ -45,9 +45,9 @@
     },
     {
       "id": "05R/23L",
-      "length_ft": 15024,
+      "length_ft": 16798,
       "width_ft": 300,
-      "surface": "concrete",
+      "surface": "unknown",
       "lighted": true,
       "closed": false,
       "ends": {
@@ -65,7 +65,7 @@
           "longitude": -117.862,
           "elevation_ft": 2282,
           "heading_true": 238,
-          "displaced_threshold_ft": 0
+          "displaced_threshold_ft": 1760
         }
       }
     },
@@ -120,7 +120,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-04-13",
     "sources": [
       "ourairports",
       "faa"
