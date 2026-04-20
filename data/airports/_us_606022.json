@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Falcon Flight Station Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.917003,
+    "longitude": -76.955781,
+    "elevation_ft": 51,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 606022,
+    "created": "2026-04-20",
+    "updated": "2026-04-20",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

@@ -5,23 +5,25 @@
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 61.21870040893555,
-    "longitude": -142.88999938964844,
+    "latitude": 61.2187,
+    "longitude": -142.889999,
     "elevation_ft": 1052,
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-AK",
-    "municipality": "Mccarthy"
+    "municipality": "McCarthy"
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "4AK4"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 16096,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-04-20",
     "sources": [
       "ourairports",
       "faa"
