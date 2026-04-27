@@ -18,7 +18,7 @@
   "keywords": [],
   "runways": [
     {
-      "id": "N/S",
+      "id": "S/N",
       "length_ft": 3800,
       "width_ft": 50,
       "surface": "asphalt",
@@ -26,17 +26,17 @@
       "closed": false,
       "ends": {
         "low": {
-          "ident": "N",
-          "latitude": 30.08289909362793,
-          "longitude": -97.9655990600586,
+          "ident": "S",
+          "latitude": 30.082899,
+          "longitude": -97.965599,
           "elevation_ft": 0,
           "heading_true": 180,
           "displaced_threshold_ft": 0
         },
         "high": {
-          "ident": "S",
-          "latitude": 30.072500228881836,
-          "longitude": -97.9655990600586,
+          "ident": "N",
+          "latitude": 30.0725,
+          "longitude": -97.965599,
           "elevation_ft": 0,
           "heading_true": 360,
           "displaced_threshold_ft": 0
@@ -54,7 +54,7 @@
   "metadata": {
     "ourairports_id": 14704,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-04-27",
     "sources": [
       "ourairports",
       "faa"

@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Phillipsburg Landing Heliport",
-  "type": "closed",
+  "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 41.432319,
-    "longitude": -74.36364,
+    "latitude": 41.432333,
+    "longitude": -74.365168,
     "elevation_ft": 430,
     "continent": "NA",
     "iso_country": "US",
@@ -15,17 +15,13 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [
-    "NY93",
-    "NY93",
-    "NY93"
-  ],
+  "keywords": [],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 45661,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-04-27",
     "sources": [
       "ourairports",
       "faa"

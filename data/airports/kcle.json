@@ -44,7 +44,33 @@
       }
     },
     {
-      "id": "06L/24R",
+      "id": "10/28",
+      "length_ft": 6018,
+      "width_ft": 150,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 41.417024,
+          "longitude": -81.854233,
+          "elevation_ft": 762,
+          "heading_true": 93,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 41.416071,
+          "longitude": -81.832369,
+          "elevation_ft": 791,
+          "heading_true": 273,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "6L/24R",
       "length_ft": 9000,
       "width_ft": 150,
       "surface": "unknown",
@@ -52,25 +78,25 @@
       "closed": false,
       "ends": {
         "low": {
-          "ident": "06L",
-          "latitude": 41.399898529052734,
-          "longitude": -81.87349700927734,
+          "ident": "6L",
+          "latitude": 41.399887,
+          "longitude": -81.873479,
           "elevation_ft": 770,
-          "heading_true": 49.9,
+          "heading_true": 50,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "24R",
-          "latitude": 41.41579818725586,
-          "longitude": -81.84839630126953,
+          "latitude": 41.415762,
+          "longitude": -81.848396,
           "elevation_ft": 780,
-          "heading_true": 229.9,
+          "heading_true": 230,
           "displaced_threshold_ft": 0
         }
       }
     },
     {
-      "id": "06R/24L",
+      "id": "6R/24L",
       "length_ft": 9953,
       "width_ft": 150,
       "surface": "unknown",
@@ -78,45 +104,19 @@
       "closed": false,
       "ends": {
         "low": {
-          "ident": "06R",
-          "latitude": 41.29999923706055,
-          "longitude": -81.80000305175781,
+          "ident": "6R",
+          "latitude": 41.401156,
+          "longitude": -81.864447,
           "elevation_ft": 767,
           "heading_true": 50,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "24L",
-          "latitude": 41.41699981689453,
-          "longitude": -81.83930206298828,
+          "latitude": 41.415312,
+          "longitude": -81.842067,
           "elevation_ft": 786,
           "heading_true": 230,
-          "displaced_threshold_ft": 0
-        }
-      }
-    },
-    {
-      "id": "10/28",
-      "length_ft": 6018,
-      "width_ft": 150,
-      "surface": "pem",
-      "lighted": true,
-      "closed": false,
-      "ends": {
-        "low": {
-          "ident": "10",
-          "latitude": 41.41709899902344,
-          "longitude": -81.85540008544922,
-          "elevation_ft": 762,
-          "heading_true": 93,
-          "displaced_threshold_ft": 0
-        },
-        "high": {
-          "ident": "28",
-          "latitude": 41.416099548339844,
-          "longitude": -81.83350372314453,
-          "elevation_ft": 791,
-          "heading_true": 273,
           "displaced_threshold_ft": 0
         }
       }
@@ -171,7 +171,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-04-27",
     "sources": [
       "ourairports",
       "faa"

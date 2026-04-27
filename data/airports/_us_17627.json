@@ -2,26 +2,28 @@
   "icao": null,
   "iata": null,
   "name": "Honokaa Airstrip",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 20.083599,
-    "longitude": -155.501999,
+    "latitude": 20.08334,
+    "longitude": -155.502252,
     "elevation_ft": 1440,
-    "continent": "OC",
+    "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-HI",
     "municipality": "Honokaa"
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "HI05"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 17627,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-04-27",
     "sources": [
       "ourairports",
       "faa"

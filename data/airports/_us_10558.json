@@ -16,12 +16,39 @@
   "scheduled_service": false,
   "wikipedia": "https://en.wikipedia.org/wiki/Milwrick_Flying_%22M%22_Airport",
   "keywords": [],
-  "runways": [],
+  "runways": [
+    {
+      "id": "09/27",
+      "length_ft": 2200,
+      "width_ft": 90,
+      "surface": "grass",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "09",
+          "latitude": 44.7383,
+          "longitude": -83.383698,
+          "elevation_ft": 830,
+          "heading_true": 0,
+          "displaced_threshold_ft": 600
+        },
+        "high": {
+          "ident": "27",
+          "latitude": 44.7383,
+          "longitude": -83.375702,
+          "elevation_ft": 830,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 10558,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-04-27",
     "sources": [
       "ourairports",
       "faa"

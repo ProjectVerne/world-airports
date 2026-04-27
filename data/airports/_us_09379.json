@@ -1,12 +1,12 @@
 {
   "icao": null,
   "iata": null,
-  "name": "Southern Ranch Airport",
-  "type": "small_airport",
+  "name": "Southern Ranch Airstrip",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 26.379499435424805,
-    "longitude": -80.94560241699219,
+    "latitude": 26.397799,
+    "longitude": -80.945994,
     "elevation_ft": 18,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "2FA4"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 9379,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-04-27",
     "sources": [
       "ourairports",
       "faa"

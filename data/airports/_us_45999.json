@@ -2,7 +2,7 @@
   "icao": null,
   "iata": null,
   "name": "Jim's Private Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
     "latitude": 33.599868,
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "8GA0"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 45999,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-04-27",
     "sources": [
       "ourairports",
       "faa"

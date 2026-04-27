@@ -2,12 +2,12 @@
   "icao": null,
   "iata": null,
   "name": "Taylor Flat Airport",
-  "type": "closed",
+  "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 40.88985,
-    "longitude": -109.16491,
-    "elevation_ft": 5626,
+    "latitude": 40.889829,
+    "longitude": -109.164435,
+    "elevation_ft": 5636,
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-UT",
@@ -21,7 +21,7 @@
   "metadata": {
     "ourairports_id": 335942,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-04-27",
     "sources": [
       "ourairports",
       "faa"
