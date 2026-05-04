@@ -16,39 +16,12 @@
   "scheduled_service": false,
   "wikipedia": null,
   "keywords": [],
-  "runways": [
-    {
-      "id": "12/30",
-      "length_ft": 3009,
-      "width_ft": 98,
-      "surface": "asphalt",
-      "lighted": false,
-      "closed": false,
-      "ends": {
-        "low": {
-          "ident": "12",
-          "latitude": -6.954179763793945,
-          "longitude": 115.9280014038086,
-          "elevation_ft": 0,
-          "heading_true": 126,
-          "displaced_threshold_ft": 0
-        },
-        "high": {
-          "ident": "30",
-          "latitude": -6.95904016494751,
-          "longitude": 115.93499755859375,
-          "elevation_ft": 0,
-          "heading_true": 306,
-          "displaced_threshold_ft": 0
-        }
-      }
-    }
-  ],
+  "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 45886,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-04",
     "sources": [
       "ourairports",
       "faa"

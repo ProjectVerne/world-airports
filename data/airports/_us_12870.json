@@ -2,7 +2,7 @@
   "icao": null,
   "iata": null,
   "name": "Ken Guidry #4 Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
     "latitude": 30.074877,
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "62LA"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 12870,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-04",
     "sources": [
       "ourairports",
       "faa"

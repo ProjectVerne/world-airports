@@ -5,8 +5,8 @@
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 37.60400009,
-    "longitude": -101.3740005,
+    "latitude": 37.604,
+    "longitude": -101.374001,
     "elevation_ft": 3071,
     "continent": "NA",
     "iso_country": "US",
@@ -14,7 +14,7 @@
     "municipality": "Ulysses"
   },
   "scheduled_service": false,
-  "wikipedia": null,
+  "wikipedia": "https://ceb.wikipedia.org/wiki/Ulysses_Airport",
   "keywords": [],
   "runways": [
     {
@@ -89,7 +89,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-04",
     "sources": [
       "ourairports",
       "faa"

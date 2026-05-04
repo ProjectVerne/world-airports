@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "AT&T - Apache Junction Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 33.495937,
-    "longitude": -111.639826,
+    "latitude": 33.495991,
+    "longitude": -111.639786,
     "elevation_ft": 2527,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "63AZ"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 12893,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-04",
     "sources": [
       "ourairports",
       "faa"

@@ -18,39 +18,12 @@
   "keywords": [
     "SD50"
   ],
-  "runways": [
-    {
-      "id": "15/33",
-      "length_ft": 2250,
-      "width_ft": 200,
-      "surface": "asphalt",
-      "lighted": false,
-      "closed": false,
-      "ends": {
-        "low": {
-          "ident": "15",
-          "latitude": 44.53379821777344,
-          "longitude": -99.7489013671875,
-          "elevation_ft": 1775,
-          "heading_true": 160,
-          "displaced_threshold_ft": 0
-        },
-        "high": {
-          "ident": "33",
-          "latitude": 44.52799987792969,
-          "longitude": -99.74590301513672,
-          "elevation_ft": 1787,
-          "heading_true": 340,
-          "displaced_threshold_ft": 0
-        }
-      }
-    }
-  ],
+  "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 12360,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-04",
     "sources": [
       "ourairports",
       "faa"
