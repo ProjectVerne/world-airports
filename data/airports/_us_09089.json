@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Richardson Field",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 30.62420082092285,
-    "longitude": -88.27860260009766,
+    "latitude": 30.631424,
+    "longitude": -88.279748,
     "elevation_ft": 180,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "26AL"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 9089,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-11",
     "sources": [
       "ourairports",
       "faa"

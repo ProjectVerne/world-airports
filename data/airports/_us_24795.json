@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Premier Aviation Inc Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 32.70009994506836,
-    "longitude": -97.05030059814453,
+    "latitude": 32.700127,
+    "longitude": -97.050562,
     "elevation_ft": 590,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "TA88"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 24795,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-11",
     "sources": [
       "ourairports",
       "faa"

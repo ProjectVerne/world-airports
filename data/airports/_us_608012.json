@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Swank Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.546863,
+    "longitude": -79.336436,
+    "elevation_ft": 1221,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Clarksburg"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 608012,
+    "created": "2026-05-11",
+    "updated": "2026-05-11",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

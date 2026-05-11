@@ -1,0 +1,30 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "Franjo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.293906,
+    "longitude": -74.345515,
+    "elevation_ft": 735,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Warwick"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [],
+  "metadata": {
+    "ourairports_id": 606045,
+    "created": "2026-05-11",
+    "updated": "2026-05-11",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

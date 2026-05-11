@@ -17,11 +17,17 @@
   "wikipedia": null,
   "keywords": [],
   "runways": [],
-  "frequencies": [],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "",
+      "mhz": 122.9
+    }
+  ],
   "metadata": {
     "ourairports_id": 9668,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-11",
     "sources": [
       "ourairports",
       "faa"
