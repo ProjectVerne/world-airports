@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Redfield Ag Strip",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 48.75889968869999,
-    "longitude": -106.364997864,
+    "latitude": 48.7589,
+    "longitude": -106.364998,
     "elevation_ft": 3100,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "MT85"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 22480,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-18",
     "sources": [
       "ourairports",
       "faa"

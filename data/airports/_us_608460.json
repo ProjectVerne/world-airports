@@ -1,0 +1,36 @@
+{
+  "icao": null,
+  "iata": null,
+  "name": "St Michaels Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 38.790278,
+    "longitude": -76.205833,
+    "elevation_ft": 0,
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "St Michaels"
+  },
+  "scheduled_service": false,
+  "wikipedia": null,
+  "keywords": [],
+  "runways": [],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "",
+      "mhz": 122.9
+    }
+  ],
+  "metadata": {
+    "ourairports_id": 608460,
+    "created": "2026-05-18",
+    "updated": "2026-05-18",
+    "sources": [
+      "ourairports",
+      "faa"
+    ]
+  }
+}

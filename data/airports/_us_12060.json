@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Donn Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 41.47589874267578,
-    "longitude": -81.95069885253906,
+    "latitude": 41.475899,
+    "longitude": -81.950699,
     "elevation_ft": 650,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "55OH"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 12060,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-18",
     "sources": [
       "ourairports",
       "faa"

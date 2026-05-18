@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Tiger Lake Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 27.88360023498535,
-    "longitude": -81.36309814453125,
+    "latitude": 27.883599,
+    "longitude": -81.363148,
     "elevation_ft": 54,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "2FL8"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 9399,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-18",
     "sources": [
       "ourairports",
       "faa"

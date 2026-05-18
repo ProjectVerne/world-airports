@@ -22,58 +22,6 @@
   ],
   "runways": [
     {
-      "id": "04L/22R",
-      "length_ft": 11000,
-      "width_ft": 150,
-      "surface": "asphalt",
-      "lighted": true,
-      "closed": false,
-      "ends": {
-        "low": {
-          "ident": "04L",
-          "latitude": 40.67539978027344,
-          "longitude": -74.17949676513672,
-          "elevation_ft": 10,
-          "heading_true": 26,
-          "displaced_threshold_ft": 2543
-        },
-        "high": {
-          "ident": "22R",
-          "latitude": 40.702598571777344,
-          "longitude": -74.16220092773438,
-          "elevation_ft": 10,
-          "heading_true": 206,
-          "displaced_threshold_ft": 1423
-        }
-      }
-    },
-    {
-      "id": "04R/22L",
-      "length_ft": 9999,
-      "width_ft": 150,
-      "surface": "asphalt",
-      "lighted": true,
-      "closed": false,
-      "ends": {
-        "low": {
-          "ident": "04R",
-          "latitude": 40.67760086,
-          "longitude": -74.17420197,
-          "elevation_ft": 11,
-          "heading_true": 26,
-          "displaced_threshold_ft": 1190
-        },
-        "high": {
-          "ident": "22L",
-          "latitude": 40.70230103,
-          "longitude": -74.15850067,
-          "elevation_ft": 10,
-          "heading_true": 206,
-          "displaced_threshold_ft": 0
-        }
-      }
-    },
-    {
       "id": "11/29",
       "length_ft": 6725,
       "width_ft": 150,
@@ -83,19 +31,71 @@
       "ends": {
         "low": {
           "ident": "11",
-          "latitude": 40.702801,
-          "longitude": -74.180702,
+          "latitude": 40.702815,
+          "longitude": -74.180748,
           "elevation_ft": 18,
           "heading_true": 95,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "29",
-          "latitude": 40.701199,
-          "longitude": -74.156303,
+          "latitude": 40.701203,
+          "longitude": -74.156502,
           "elevation_ft": 10,
           "heading_true": 275,
-          "displaced_threshold_ft": 0
+          "displaced_threshold_ft": 235
+        }
+      }
+    },
+    {
+      "id": "4L/22R",
+      "length_ft": 11000,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "4L",
+          "latitude": 40.675392,
+          "longitude": -74.179456,
+          "elevation_ft": 10,
+          "heading_true": 26,
+          "displaced_threshold_ft": 2543
+        },
+        "high": {
+          "ident": "22R",
+          "latitude": 40.70257,
+          "longitude": -74.16217,
+          "elevation_ft": 10,
+          "heading_true": 206,
+          "displaced_threshold_ft": 1423
+        }
+      }
+    },
+    {
+      "id": "4R/22L",
+      "length_ft": 9999,
+      "width_ft": 150,
+      "surface": "asphalt",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "4R",
+          "latitude": 40.677588,
+          "longitude": -74.174253,
+          "elevation_ft": 11,
+          "heading_true": 26,
+          "displaced_threshold_ft": 1190
+        },
+        "high": {
+          "ident": "22L",
+          "latitude": 40.702299,
+          "longitude": -74.158539,
+          "elevation_ft": 10,
+          "heading_true": 206,
+          "displaced_threshold_ft": 1800
         }
       }
     }
@@ -139,7 +139,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-18",
     "sources": [
       "ourairports",
       "faa"

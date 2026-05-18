@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Nichols Farms Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 34.58890151977539,
-    "longitude": -117.82599639892578,
+    "latitude": 34.588902,
+    "longitude": -117.825996,
     "elevation_ft": 2700,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "8CL0"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 14881,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-18",
     "sources": [
       "ourairports",
       "faa"

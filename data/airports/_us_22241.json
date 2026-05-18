@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Riddle's Roost Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 38.832000732421875,
-    "longitude": -90.92510223388672,
+    "latitude": 38.832001,
+    "longitude": -90.925102,
     "elevation_ft": 650,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "MO36"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 22241,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-18",
     "sources": [
       "ourairports",
       "faa"
