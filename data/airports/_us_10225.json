@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Blue Bird Field",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 34.90039825439453,
-    "longitude": -84.77850341796875,
+    "latitude": 34.900398,
+    "longitude": -84.778503,
     "elevation_ft": 800,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "37GA"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 10225,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-25",
     "sources": [
       "ourairports",
       "faa"

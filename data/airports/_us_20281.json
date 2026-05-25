@@ -2,7 +2,7 @@
   "icao": null,
   "iata": null,
   "name": "Holtville Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
     "latitude": 32.840302,
@@ -15,46 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": "https://en.wikipedia.org/wiki/Holtville_Airport",
-  "keywords": [],
-  "runways": [
-    {
-      "id": "08/26",
-      "length_ft": 6000,
-      "width_ft": 150,
-      "surface": "unknown",
-      "lighted": false,
-      "closed": false,
-      "ends": {
-        "low": {
-          "ident": "08",
-          "latitude": 32.840599060058594,
-          "longitude": -115.2770004272461,
-          "elevation_ft": 0,
-          "heading_true": 91.9,
-          "displaced_threshold_ft": 0
-        },
-        "high": {
-          "ident": "26",
-          "latitude": 32.84000015258789,
-          "longitude": -115.25800323486328,
-          "elevation_ft": 59,
-          "heading_true": 272,
-          "displaced_threshold_ft": 0
-        }
-      }
-    }
+  "keywords": [
+    "L04"
   ],
-  "frequencies": [
-    {
-      "type": "UNIC",
-      "description": "CTAF/UNICOM",
-      "mhz": 123
-    }
-  ],
+  "runways": [],
+  "frequencies": [],
   "metadata": {
     "ourairports_id": 20281,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-25",
     "sources": [
       "ourairports",
       "faa"

@@ -1,12 +1,12 @@
 {
   "icao": null,
-  "iata": "BWL",
+  "iata": null,
   "name": "Earl Henry Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 36.7958984375,
-    "longitude": -97.3170013428,
+    "latitude": 36.795898,
+    "longitude": -97.317001,
     "elevation_ft": 1054,
     "continent": "NA",
     "iso_country": "US",
@@ -14,14 +14,16 @@
     "municipality": "Blackwell"
   },
   "scheduled_service": false,
-  "wikipedia": "https://en.wikipedia.org/wiki/Earl_Henry_Airport",
-  "keywords": [],
+  "wikipedia": "https://web.archive.org/web/20150212194309/http://en.wikipedia.org/wiki/Earl_Henry_Airport",
+  "keywords": [
+    "6OK6"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 13485,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-25",
     "sources": [
       "ourairports",
       "faa"

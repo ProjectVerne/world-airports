@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Exxon Intracoastal City Terminal Seaplane Base",
-  "type": "seaplane_base",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 29.824899673461914,
-    "longitude": -92.13289642333984,
+    "latitude": 29.824867,
+    "longitude": -92.132052,
     "elevation_ft": 8,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "2LA3"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 9511,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-25",
     "sources": [
       "ourairports",
       "faa"

@@ -18,12 +18,39 @@
   "keywords": [
     "QNY"
   ],
-  "runways": [],
+  "runways": [
+    {
+      "id": "S/N",
+      "length_ft": 10000,
+      "width_ft": 1000,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "S",
+          "latitude": 40.720361,
+          "longitude": -73.970159,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "N",
+          "latitude": 40.747117,
+          "longitude": -73.966264,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 13407,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-25",
     "sources": [
       "ourairports",
       "faa"

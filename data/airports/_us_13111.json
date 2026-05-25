@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Lee's Airpark",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 37.02330017089844,
-    "longitude": -84.72969818115234,
+    "latitude": 37.023497,
+    "longitude": -84.729829,
     "elevation_ft": 970,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "68KY"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 13111,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-25",
     "sources": [
       "ourairports",
       "faa"

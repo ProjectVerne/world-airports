@@ -18,7 +18,7 @@
   "keywords": [],
   "runways": [
     {
-      "id": "NW/SE",
+      "id": "16/34",
       "length_ft": 4200,
       "width_ft": 65,
       "surface": "asphalt",
@@ -26,17 +26,17 @@
       "closed": false,
       "ends": {
         "low": {
-          "ident": "NW",
-          "latitude": 32.82529830932617,
-          "longitude": -98.4834976196289,
+          "ident": "16",
+          "latitude": 32.831909,
+          "longitude": -98.481085,
           "elevation_ft": 0,
           "heading_true": 135,
           "displaced_threshold_ft": 0
         },
         "high": {
-          "ident": "SE",
-          "latitude": 32.81719970703125,
-          "longitude": -98.47380065917969,
+          "ident": "34",
+          "latitude": 32.820422,
+          "longitude": -98.479713,
           "elevation_ft": 0,
           "heading_true": 315,
           "displaced_threshold_ft": 0
@@ -54,7 +54,7 @@
   "metadata": {
     "ourairports_id": 24772,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-25",
     "sources": [
       "ourairports",
       "faa"

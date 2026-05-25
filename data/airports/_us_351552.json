@@ -2,7 +2,7 @@
   "icao": null,
   "iata": null,
   "name": "Barsons Utilities Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
     "latitude": 32.690669,
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "53TX"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 351552,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-25",
     "sources": [
       "ourairports",
       "faa"

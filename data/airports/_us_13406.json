@@ -16,12 +16,39 @@
   "scheduled_service": false,
   "wikipedia": null,
   "keywords": [],
-  "runways": [],
+  "runways": [
+    {
+      "id": "ALL/WAY",
+      "length_ft": 5000,
+      "width_ft": 400,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "ALL",
+          "latitude": 40.851194,
+          "longitude": -73.808345,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "WAY",
+          "latitude": 40.837891,
+          "longitude": -73.804276,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 13406,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-25",
     "sources": [
       "ourairports",
       "faa"

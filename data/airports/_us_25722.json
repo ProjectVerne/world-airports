@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Walter's Agri-Center Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 44.586102,
-    "longitude": -87.557602,
+    "latitude": 44.585758,
+    "longitude": -87.557038,
     "elevation_ft": 717,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "WI28"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 25722,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-05-25",
     "sources": [
       "ourairports",
       "faa"
