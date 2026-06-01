@@ -27,18 +27,18 @@
       "ends": {
         "low": {
           "ident": "03",
-          "latitude": 34.1083984375,
-          "longitude": -119.13400268554688,
+          "latitude": 34.108452,
+          "longitude": -119.134516,
           "elevation_ft": 11,
-          "heading_true": 43.8,
+          "heading_true": 44,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "21",
-          "latitude": 34.13050079345703,
-          "longitude": -119.10900115966797,
+          "latitude": 34.130464,
+          "longitude": -119.109111,
           "elevation_ft": 13,
-          "heading_true": 223.8,
+          "heading_true": 224,
           "displaced_threshold_ft": 0
         }
       }
@@ -53,16 +53,16 @@
       "ends": {
         "low": {
           "ident": "09",
-          "latitude": 34.1208992,
-          "longitude": -119.1240005,
+          "latitude": 34.120876,
+          "longitude": -119.123896,
           "elevation_ft": 10,
           "heading_true": 105,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "27",
-          "latitude": 34.11700058,
-          "longitude": -119.1060028,
+          "latitude": 34.116958,
+          "longitude": -119.10634,
           "elevation_ft": 12,
           "heading_true": 285,
           "displaced_threshold_ft": 0
@@ -104,7 +104,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-01",
     "sources": [
       "ourairports",
       "faa"

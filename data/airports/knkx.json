@@ -20,6 +20,32 @@
   ],
   "runways": [
     {
+      "id": "06H/24H",
+      "length_ft": 1000,
+      "width_ft": 100,
+      "surface": "concrete",
+      "lighted": true,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "06H",
+          "latitude": 32.863325,
+          "longitude": -117.130082,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "24H",
+          "latitude": 32.864012,
+          "longitude": -117.126928,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
       "id": "06L/24R",
       "length_ft": 12000,
       "width_ft": 200,
@@ -29,18 +55,18 @@
       "ends": {
         "low": {
           "ident": "06L",
-          "latitude": 32.864601135253906,
-          "longitude": -117.16500091552734,
+          "latitude": 32.864566,
+          "longitude": -117.164848,
           "elevation_ft": 425,
-          "heading_true": 75.4,
+          "heading_true": 75,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "24R",
-          "latitude": 32.87289810180664,
-          "longitude": -117.12699890136719,
+          "latitude": 32.872875,
+          "longitude": -117.127031,
           "elevation_ft": 475,
-          "heading_true": 255.4,
+          "heading_true": 255,
           "displaced_threshold_ft": 0
         }
       }
@@ -55,18 +81,18 @@
       "ends": {
         "low": {
           "ident": "06R",
-          "latitude": 32.8655014,
-          "longitude": -117.1520004,
+          "latitude": 32.865474,
+          "longitude": -117.151675,
           "elevation_ft": 430,
-          "heading_true": 75.4,
+          "heading_true": 75,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "24L",
-          "latitude": 32.87099838,
-          "longitude": -117.1259995,
+          "latitude": 32.871013,
+          "longitude": -117.126455,
           "elevation_ft": 478,
-          "heading_true": 255.4,
+          "heading_true": 255,
           "displaced_threshold_ft": 0
         }
       }
@@ -127,7 +153,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-01",
     "sources": [
       "ourairports",
       "faa"

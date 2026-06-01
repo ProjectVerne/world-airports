@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Oglesby Farms Inc Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 48.66669845581055,
-    "longitude": -105.93399810791016,
+    "latitude": 48.666698,
+    "longitude": -105.933998,
     "elevation_ft": 2850,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "MT87"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 22482,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-01",
     "sources": [
       "ourairports",
       "faa"

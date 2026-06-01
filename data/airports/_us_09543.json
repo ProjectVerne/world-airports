@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Hoby Wolf Airport",
-  "type": "small_airport",
+  "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 39.4079444,
-    "longitude": -76.9275556,
+    "latitude": 39.407944,
+    "longitude": -76.927556,
     "elevation_ft": 600,
     "continent": "NA",
     "iso_country": "US",
@@ -23,7 +23,7 @@
   "metadata": {
     "ourairports_id": 9543,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-01",
     "sources": [
       "ourairports",
       "faa"

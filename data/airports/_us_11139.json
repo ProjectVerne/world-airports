@@ -1,12 +1,12 @@
 {
   "icao": null,
   "iata": null,
-  "name": "Spl Heliport",
-  "type": "heliport",
+  "name": "Southern Petroleum Lab Heliport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 29.659099578857422,
-    "longitude": -95.42880249023438,
+    "latitude": 29.6591,
+    "longitude": -95.428802,
     "elevation_ft": 63,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "45TA"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 11139,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-01",
     "sources": [
       "ourairports",
       "faa"

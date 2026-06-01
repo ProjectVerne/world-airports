@@ -29,18 +29,18 @@
       "ends": {
         "low": {
           "ident": "13L",
-          "latitude": 33.83520126,
-          "longitude": -116.5100021,
+          "latitude": 33.835171,
+          "longitude": -116.509682,
           "elevation_ft": 449,
-          "heading_true": 143.5,
+          "heading_true": 144,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "31R",
-          "latitude": 33.82419968,
-          "longitude": -116.5,
+          "latitude": 33.824247,
+          "longitude": -116.499957,
           "elevation_ft": 407,
-          "heading_true": 323.5,
+          "heading_true": 324,
           "displaced_threshold_ft": 0
         }
       }
@@ -55,18 +55,18 @@
       "ends": {
         "low": {
           "ident": "13R",
-          "latitude": 33.8406982421875,
-          "longitude": -116.51699829101562,
+          "latitude": 33.840685,
+          "longitude": -116.51746,
           "elevation_ft": 451,
-          "heading_true": 143.5,
+          "heading_true": 144,
           "displaced_threshold_ft": 3000
         },
         "high": {
           "ident": "31L",
-          "latitude": 33.818599700927734,
-          "longitude": -116.49800109863281,
+          "latitude": 33.818629,
+          "longitude": -116.497826,
           "elevation_ft": 405,
-          "heading_true": 323.5,
+          "heading_true": 324,
           "displaced_threshold_ft": 1500
         }
       }
@@ -116,7 +116,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-01",
     "sources": [
       "ourairports",
       "faa"

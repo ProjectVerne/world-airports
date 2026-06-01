@@ -1,12 +1,12 @@
 {
   "icao": null,
   "iata": null,
-  "name": "Era Denali Heliport",
+  "name": "Temsco Helicopters Inc. Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 63.738399505615234,
-    "longitude": -148.8820037841797,
+    "latitude": 63.737439,
+    "longitude": -148.882818,
     "elevation_ft": 1580,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "Era Denali"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 14045,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-01",
     "sources": [
       "ourairports",
       "faa"

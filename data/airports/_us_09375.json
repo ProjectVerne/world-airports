@@ -44,7 +44,7 @@
       }
     },
     {
-      "id": "N/S",
+      "id": "S/N",
       "length_ft": 2600,
       "width_ft": 40,
       "surface": "grass",
@@ -52,17 +52,17 @@
       "closed": false,
       "ends": {
         "low": {
-          "ident": "N",
-          "latitude": 36.35850143432617,
-          "longitude": -96.01029968261719,
+          "ident": "S",
+          "latitude": 36.358501,
+          "longitude": -96.0103,
           "elevation_ft": 670,
           "heading_true": 180,
           "displaced_threshold_ft": 0
         },
         "high": {
-          "ident": "S",
-          "latitude": 36.35139846801758,
-          "longitude": -96.0103988647461,
+          "ident": "N",
+          "latitude": 36.351398,
+          "longitude": -96.010399,
           "elevation_ft": 670,
           "heading_true": 0,
           "displaced_threshold_ft": 0
@@ -74,7 +74,7 @@
   "metadata": {
     "ourairports_id": 9375,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-01",
     "sources": [
       "ourairports",
       "faa"

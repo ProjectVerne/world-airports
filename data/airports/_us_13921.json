@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Viking Gas Transmission County Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
     "latitude": 45.3125,
-    "longitude": -92.58910369873047,
+    "longitude": -92.589104,
     "elevation_ft": 1115,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "76WI"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 13921,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-01",
     "sources": [
       "ourairports",
       "faa"
