@@ -23,25 +23,25 @@
       "id": "09/27",
       "length_ft": 9401,
       "width_ft": 200,
-      "surface": "pem",
+      "surface": "asphalt",
       "lighted": true,
       "closed": false,
       "ends": {
         "low": {
           "ident": "09",
-          "latitude": 32.737098693847656,
-          "longitude": -117.2040023803711,
+          "latitude": 32.737129,
+          "longitude": -117.204371,
           "elevation_ft": 14,
           "heading_true": 106,
-          "displaced_threshold_ft": 700
+          "displaced_threshold_ft": 1000
         },
         "high": {
           "ident": "27",
-          "latitude": 32.72999954223633,
-          "longitude": -117.17500305175781,
+          "latitude": 32.730004,
+          "longitude": -117.17499,
           "elevation_ft": 13,
           "heading_true": 286,
-          "displaced_threshold_ft": 1810
+          "displaced_threshold_ft": 1806
         }
       }
     }
@@ -90,7 +90,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

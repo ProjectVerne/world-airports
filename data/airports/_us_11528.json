@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Dow Jones Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 42.162899017333984,
-    "longitude": -72.55039978027344,
+    "latitude": 42.163838,
+    "longitude": -72.552656,
     "elevation_ft": 200,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "4MA2"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 11528,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

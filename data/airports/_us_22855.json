@@ -20,7 +20,7 @@
   ],
   "runways": [
     {
-      "id": "18/36",
+      "id": "17/35",
       "length_ft": 2300,
       "width_ft": 40,
       "surface": "grass",
@@ -28,17 +28,17 @@
       "closed": false,
       "ends": {
         "low": {
-          "ident": "18",
-          "latitude": 45.90250015258789,
-          "longitude": -103.65899658203125,
+          "ident": "17",
+          "latitude": 47.902594,
+          "longitude": -103.662788,
           "elevation_ft": 2100,
           "heading_true": 0,
           "displaced_threshold_ft": 0
         },
         "high": {
-          "ident": "36",
-          "latitude": 45.897499084472656,
-          "longitude": -103.65899658203125,
+          "ident": "35",
+          "latitude": 47.896468,
+          "longitude": -103.662839,
           "elevation_ft": 2100,
           "heading_true": 0,
           "displaced_threshold_ft": 0
@@ -50,7 +50,7 @@
   "metadata": {
     "ourairports_id": 22855,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

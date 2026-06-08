@@ -2,7 +2,7 @@
   "icao": null,
   "iata": null,
   "name": "Griffith Field",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
     "latitude": 39.507833,
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "65KS"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 12993,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

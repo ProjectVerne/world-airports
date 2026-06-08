@@ -18,11 +18,90 @@
   "keywords": [
     "Lake Hood Seaplane Base"
   ],
-  "runways": [],
+  "runways": [
+    {
+      "id": "E/W",
+      "length_ft": 4541,
+      "width_ft": 188,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "E",
+          "latitude": 61.180916,
+          "longitude": -149.976725,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "W",
+          "latitude": 61.177041,
+          "longitude": -149.94591,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "S/N",
+      "length_ft": 1930,
+      "width_ft": 200,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "S",
+          "latitude": 61.186529,
+          "longitude": -149.96896,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "N",
+          "latitude": 61.179005,
+          "longitude": -149.975627,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "SE/NW",
+      "length_ft": 1370,
+      "width_ft": 150,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "SE",
+          "latitude": 61.183815,
+          "longitude": -149.977218,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "NW",
+          "latitude": 61.179037,
+          "longitude": -149.967216,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
   "frequencies": [],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

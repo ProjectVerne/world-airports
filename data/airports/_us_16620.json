@@ -18,12 +18,65 @@
   "keywords": [
     "Skylark Field"
   ],
-  "runways": [],
+  "runways": [
+    {
+      "id": "11L/29R",
+      "length_ft": 2575,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11L",
+          "latitude": 33.635902,
+          "longitude": -117.304632,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29R",
+          "latitude": 33.630336,
+          "longitude": -117.29626,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "11R/29L",
+      "length_ft": 2701,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "11R",
+          "latitude": 33.634775,
+          "longitude": -117.305643,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "29L",
+          "latitude": 33.62899,
+          "longitude": -117.296865,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 16620,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

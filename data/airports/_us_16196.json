@@ -2,12 +2,12 @@
   "icao": null,
   "iata": null,
   "name": "Pleasant View Farm Airport",
-  "type": "closed",
+  "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 30.4627,
-    "longitude": -87.525002,
-    "elevation_ft": 105,
+    "latitude": 30.461757,
+    "longitude": -87.52346,
+    "elevation_ft": 104,
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-AL",
@@ -23,7 +23,7 @@
   "metadata": {
     "ourairports_id": 16196,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

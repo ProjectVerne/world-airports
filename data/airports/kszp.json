@@ -16,11 +16,38 @@
   "scheduled_service": false,
   "wikipedia": "https://en.wikipedia.org/wiki/Santa_Paula_Airport",
   "keywords": [],
-  "runways": [],
+  "runways": [
+    {
+      "id": "04/22",
+      "length_ft": 2665,
+      "width_ft": 60,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "04",
+          "latitude": 34.345048,
+          "longitude": -119.06533,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 144
+        },
+        "high": {
+          "ident": "22",
+          "latitude": 34.348983,
+          "longitude": -119.057903,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 220
+        }
+      }
+    }
+  ],
   "frequencies": [],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

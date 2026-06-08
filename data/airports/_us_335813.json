@@ -2,7 +2,7 @@
   "icao": null,
   "iata": null,
   "name": "VFT, LLC Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
     "latitude": 26.707389,
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "18FL"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 335813,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

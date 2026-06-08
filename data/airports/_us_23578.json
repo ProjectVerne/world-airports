@@ -19,11 +19,17 @@
     "OH12"
   ],
   "runways": [],
-  "frequencies": [],
+  "frequencies": [
+    {
+      "type": "CTAF",
+      "description": "",
+      "mhz": 122.9
+    }
+  ],
   "metadata": {
     "ourairports_id": 23578,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

@@ -5,8 +5,8 @@
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 31.71380043029785,
-    "longitude": -82.393798828125,
+    "latitude": 31.7138,
+    "longitude": -82.393799,
     "elevation_ft": 201,
     "continent": "NA",
     "iso_country": "US",
@@ -15,7 +15,9 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "30J"
+  ],
   "runways": [
     {
       "id": "08/26",
@@ -58,7 +60,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

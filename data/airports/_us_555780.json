@@ -1,7 +1,7 @@
 {
   "icao": null,
   "iata": null,
-  "name": "North Fort Cavazos Heliport",
+  "name": "Fort Hood North Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
@@ -11,17 +11,19 @@
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-TX",
-    "municipality": "Fort Cavazos"
+    "municipality": "Fort Hood"
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "Fort Cavazos"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 555780,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

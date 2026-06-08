@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Stauss Hospital - Galena Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 42.42110061649999,
-    "longitude": -90.4383010864,
+    "latitude": 42.420649,
+    "longitude": -90.438377,
     "elevation_ft": 780,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "24IS"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 9001,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

@@ -5,8 +5,8 @@
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 34.587501525878906,
-    "longitude": -120.01300048828125,
+    "latitude": 34.587502,
+    "longitude": -120.013,
     "elevation_ft": 570,
     "continent": "NA",
     "iso_country": "US",
@@ -16,12 +16,39 @@
   "scheduled_service": false,
   "wikipedia": null,
   "keywords": [],
-  "runways": [],
+  "runways": [
+    {
+      "id": "10/28",
+      "length_ft": 2100,
+      "width_ft": 20,
+      "surface": "asphalt",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "10",
+          "latitude": 34.590311,
+          "longitude": -120.018854,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "28",
+          "latitude": 34.587576,
+          "longitude": -120.012346,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 7110,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

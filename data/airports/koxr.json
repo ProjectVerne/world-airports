@@ -27,19 +27,19 @@
       "ends": {
         "low": {
           "ident": "07",
-          "latitude": 34.20090103149414,
-          "longitude": -119.21700286865234,
+          "latitude": 34.200891,
+          "longitude": -119.217102,
           "elevation_ft": 34,
-          "heading_true": 90.5,
+          "heading_true": 91,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "25",
-          "latitude": 34.20069885253906,
-          "longitude": -119.1969985961914,
+          "latitude": 34.200744,
+          "longitude": -119.197409,
           "elevation_ft": 41,
-          "heading_true": 270.5,
-          "displaced_threshold_ft": 1377
+          "heading_true": 271,
+          "displaced_threshold_ft": 450
         }
       }
     }
@@ -73,7 +73,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"

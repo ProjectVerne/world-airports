@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Park 90 Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 47.58449935913086,
-    "longitude": -122.32599639892578,
+    "latitude": 47.58491,
+    "longitude": -122.326821,
     "elevation_ft": 70,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "WN93"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 25887,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-08",
     "sources": [
       "ourairports",
       "faa"
