@@ -1,7 +1,7 @@
 {
   "icao": "KBUR",
   "iata": "BUR",
-  "name": "Hollywood Burbank Airport",
+  "name": "Hollywood Burbank/Bob Hope Airport",
   "type": "large_airport",
   "status": "open",
   "location": {
@@ -32,18 +32,18 @@
       "ends": {
         "low": {
           "ident": "08",
-          "latitude": 34.19789886,
-          "longitude": -118.3690033,
+          "latitude": 34.197918,
+          "longitude": -118.369165,
           "elevation_ft": 727,
-          "heading_true": 90.9,
+          "heading_true": 91,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "26",
-          "latitude": 34.19760132,
-          "longitude": -118.3499985,
+          "latitude": 34.197654,
+          "longitude": -118.349982,
           "elevation_ft": 697,
-          "heading_true": 270.9,
+          "heading_true": 271,
           "displaced_threshold_ft": 0
         }
       }
@@ -58,18 +58,18 @@
       "ends": {
         "low": {
           "ident": "15",
-          "latitude": 34.21229934692383,
-          "longitude": -118.36000061035156,
+          "latitude": 34.212342,
+          "longitude": -118.360479,
           "elevation_ft": 768,
-          "heading_true": 167.1,
+          "heading_true": 167,
           "displaced_threshold_ft": 909
         },
         "high": {
           "ident": "33",
-          "latitude": 34.19390106201172,
-          "longitude": -118.3550033569336,
+          "latitude": 34.193908,
+          "longitude": -118.355392,
           "elevation_ft": 698,
-          "heading_true": 347.1,
+          "heading_true": 347,
           "displaced_threshold_ft": 350
         }
       }
@@ -114,7 +114,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

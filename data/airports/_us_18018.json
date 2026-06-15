@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Rural King Supply Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 39.492801666259766,
-    "longitude": -88.41220092773438,
+    "latitude": 39.493791,
+    "longitude": -88.410818,
     "elevation_ft": 715,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "IL43"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 18018,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

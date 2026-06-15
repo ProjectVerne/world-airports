@@ -2,7 +2,7 @@
   "icao": null,
   "iata": null,
   "name": "Robinson Ranch Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
     "latitude": 30.52596,
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "52TE"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 11937,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

@@ -22,25 +22,25 @@
     {
       "id": "36/18",
       "length_ft": 4200,
-      "width_ft": 7075,
+      "width_ft": 75,
       "surface": "asphalt",
       "lighted": true,
       "closed": false,
       "ends": {
         "low": {
           "ident": "36",
-          "latitude": 32.489498138427734,
-          "longitude": -80.99449920654297,
+          "latitude": 32.489498,
+          "longitude": -80.994499,
           "elevation_ft": 65,
-          "heading_true": 360,
+          "heading_true": 8,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "18",
-          "latitude": 32.49589920043945,
-          "longitude": -80.99019622802734,
+          "latitude": 32.495899,
+          "longitude": -80.990196,
           "elevation_ft": 76,
-          "heading_true": 180,
+          "heading_true": 188,
           "displaced_threshold_ft": 0
         }
       }
@@ -56,7 +56,7 @@
   "metadata": {
     "ourairports_id": 18708,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

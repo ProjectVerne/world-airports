@@ -27,16 +27,16 @@
       "ends": {
         "low": {
           "ident": "05L",
-          "latitude": 34.903801,
-          "longitude": -117.901001,
+          "latitude": 34.90274,
+          "longitude": -117.90481,
           "elevation_ft": 2312,
           "heading_true": 0,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "23R",
-          "latitude": 34.9212,
-          "longitude": -117.866997,
+          "latitude": 34.920096,
+          "longitude": -117.870785,
           "elevation_ft": 2289,
           "heading_true": 0,
           "displaced_threshold_ft": 0
@@ -45,27 +45,27 @@
     },
     {
       "id": "05R/23L",
-      "length_ft": 15024,
+      "length_ft": 16798,
       "width_ft": 300,
-      "surface": "concrete",
+      "surface": "unknown",
       "lighted": true,
       "closed": false,
       "ends": {
         "low": {
           "ident": "05R",
-          "latitude": 34.8946,
-          "longitude": -117.904999,
+          "latitude": 34.894565,
+          "longitude": -117.905,
           "elevation_ft": 2303,
           "heading_true": 58,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "23L",
-          "latitude": 34.916302,
-          "longitude": -117.862,
+          "latitude": 34.916274,
+          "longitude": -117.862436,
           "elevation_ft": 2282,
           "heading_true": 238,
-          "displaced_threshold_ft": 0
+          "displaced_threshold_ft": 1760
         }
       }
     },
@@ -120,7 +120,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

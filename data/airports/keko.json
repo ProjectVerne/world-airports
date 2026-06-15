@@ -18,7 +18,7 @@
   "keywords": [],
   "runways": [
     {
-      "id": "05/23",
+      "id": "06/24",
       "length_ft": 7214,
       "width_ft": 150,
       "surface": "asphalt",
@@ -26,20 +26,20 @@
       "closed": false,
       "ends": {
         "low": {
-          "ident": "05",
-          "latitude": 40.81909942626953,
-          "longitude": -115.80599975585938,
+          "ident": "06",
+          "latitude": 40.81909,
+          "longitude": -115.805626,
           "elevation_ft": 5051,
           "heading_true": 69,
           "displaced_threshold_ft": 0
         },
         "high": {
-          "ident": "23",
-          "latitude": 40.82630157470703,
-          "longitude": -115.78099822998047,
-          "elevation_ft": 5064,
+          "ident": "24",
+          "latitude": 40.826531,
+          "longitude": -115.780597,
+          "elevation_ft": 5075,
           "heading_true": 249,
-          "displaced_threshold_ft": 795
+          "displaced_threshold_ft": 1039
         }
       }
     },
@@ -53,17 +53,17 @@
       "ends": {
         "low": {
           "ident": "12",
-          "latitude": 40.83330154,
-          "longitude": -115.7910004,
-          "elevation_ft": 5140,
+          "latitude": 40.833359,
+          "longitude": -115.790859,
+          "elevation_ft": 5143,
           "heading_true": 134,
-          "displaced_threshold_ft": 0
+          "displaced_threshold_ft": 910
         },
         "high": {
           "ident": "30",
-          "latitude": 40.82780075,
-          "longitude": -115.7829971,
-          "elevation_ft": 5084,
+          "latitude": 40.827817,
+          "longitude": -115.783511,
+          "elevation_ft": 5086,
           "heading_true": 314,
           "displaced_threshold_ft": 0
         }
@@ -94,7 +94,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

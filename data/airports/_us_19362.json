@@ -5,8 +5,8 @@
   "type": "seaplane_base",
   "status": "open",
   "location": {
-    "latitude": 55.9291000366,
-    "longitude": -131.572006226,
+    "latitude": 55.9291,
+    "longitude": -131.572006,
     "elevation_ft": 0,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "KBE"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 19362,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

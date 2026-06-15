@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Iron Mountain Ranch Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 30.266235,
-    "longitude": -103.23349,
+    "latitude": 30.266409,
+    "longitude": -103.233543,
     "elevation_ft": 4313,
     "continent": "NA",
     "iso_country": "US",
@@ -15,40 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
-  "runways": [
-    {
-      "id": "16/34",
-      "length_ft": 4000,
-      "width_ft": 30,
-      "surface": "asphalt",
-      "lighted": true,
-      "closed": false,
-      "ends": {
-        "low": {
-          "ident": "16",
-          "latitude": 30.279300689697266,
-          "longitude": -103.23799896240234,
-          "elevation_ft": 0,
-          "heading_true": 167.9,
-          "displaced_threshold_ft": 0
-        },
-        "high": {
-          "ident": "34",
-          "latitude": 30.26849937438965,
-          "longitude": -103.23500061035156,
-          "elevation_ft": 0,
-          "heading_true": 0,
-          "displaced_threshold_ft": 0
-        }
-      }
-    }
+  "keywords": [
+    "5TE5"
   ],
+  "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 12670,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

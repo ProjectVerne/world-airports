@@ -1,12 +1,12 @@
 {
   "icao": null,
   "iata": null,
-  "name": "Massillon Community Hospital Heliport",
-  "type": "heliport",
+  "name": "Affinity Medical Center Heliport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 40.80580139160156,
-    "longitude": -81.5156021118164,
+    "latitude": 40.804603,
+    "longitude": -81.5166,
     "elevation_ft": 1026,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,16 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "OA06",
+    "Massillon Community Hospital"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 23505,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

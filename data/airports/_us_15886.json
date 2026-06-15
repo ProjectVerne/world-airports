@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Crocker Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 41.28229904174805,
-    "longitude": -81.9489974975586,
+    "latitude": 41.282299,
+    "longitude": -81.948997,
     "elevation_ft": 830,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "9OA8"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 15886,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

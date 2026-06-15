@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Hess Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 32.555999755859375,
-    "longitude": -97.2063980102539,
+    "latitude": 32.557009,
+    "longitude": -97.206753,
     "elevation_ft": 673,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "6TX8"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 13580,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

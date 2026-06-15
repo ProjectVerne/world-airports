@@ -29,16 +29,16 @@
       "ends": {
         "low": {
           "ident": "05",
-          "latitude": 32.81489944,
-          "longitude": -117.1460037,
+          "latitude": 32.814856,
+          "longitude": -117.146029,
           "elevation_ft": 417,
           "heading_true": 65,
           "displaced_threshold_ft": 389
         },
         "high": {
           "ident": "23",
-          "latitude": 32.81880188,
-          "longitude": -117.1360016,
+          "latitude": 32.818812,
+          "longitude": -117.135995,
           "elevation_ft": 425,
           "heading_true": 245,
           "displaced_threshold_ft": 0
@@ -55,16 +55,16 @@
       "ends": {
         "low": {
           "ident": "10L",
-          "latitude": 32.81819916,
-          "longitude": -117.1449966,
+          "latitude": 32.818172,
+          "longitude": -117.144698,
           "elevation_ft": 414,
           "heading_true": 115,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "28R",
-          "latitude": 32.81290054,
-          "longitude": -117.1309967,
+          "latitude": 32.81283,
+          "longitude": -117.131134,
           "elevation_ft": 422,
           "heading_true": 295,
           "displaced_threshold_ft": 0
@@ -81,16 +81,16 @@
       "ends": {
         "low": {
           "ident": "10R",
-          "latitude": 32.81689835,
-          "longitude": -117.1449966,
+          "latitude": 32.816923,
+          "longitude": -117.14539,
           "elevation_ft": 414,
           "heading_true": 115,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "28L",
-          "latitude": 32.81299973,
-          "longitude": -117.1350021,
+          "latitude": 32.812977,
+          "longitude": -117.135357,
           "elevation_ft": 421,
           "heading_true": 295,
           "displaced_threshold_ft": 0
@@ -147,7 +147,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

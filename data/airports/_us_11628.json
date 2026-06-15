@@ -16,12 +16,91 @@
   "scheduled_service": false,
   "wikipedia": null,
   "keywords": [],
-  "runways": [],
+  "runways": [
+    {
+      "id": "NE/SW",
+      "length_ft": 10000,
+      "width_ft": 500,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "NE",
+          "latitude": 40.781494,
+          "longitude": -73.867329,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "SW",
+          "latitude": 40.803586,
+          "longitude": -73.846928,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "S/N",
+      "length_ft": 5000,
+      "width_ft": 500,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "S",
+          "latitude": 40.792712,
+          "longitude": -73.861538,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "N",
+          "latitude": 40.779045,
+          "longitude": -73.861611,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "SE/NW",
+      "length_ft": 10000,
+      "width_ft": 500,
+      "surface": "water",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "SE",
+          "latitude": 40.788746,
+          "longitude": -73.863318,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "NW",
+          "latitude": 40.764126,
+          "longitude": -73.848669,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 11628,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

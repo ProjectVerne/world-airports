@@ -2,7 +2,7 @@
   "icao": null,
   "iata": null,
   "name": "Zoellner Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
     "latitude": 41.402517,
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "10OH"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 7684,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

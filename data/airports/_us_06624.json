@@ -1,12 +1,12 @@
 {
   "icao": null,
   "iata": null,
-  "name": "Thirty Thirty Matlock Office Center Heliport",
-  "type": "heliport",
+  "name": "Thirty Thirty Matlock Office Center Helistop",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 32.69419860839844,
-    "longitude": -97.11579895019531,
+    "latitude": 32.694867,
+    "longitude": -97.115964,
     "elevation_ft": 630,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "01TA"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 6624,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

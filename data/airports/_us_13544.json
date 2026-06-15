@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Norman & White Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 26.361499786376953,
-    "longitude": -98.15249633789062,
+    "latitude": 26.357003,
+    "longitude": -98.14932,
     "elevation_ft": 90,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "6TE1"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 13544,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

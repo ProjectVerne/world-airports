@@ -72,10 +72,26 @@
       }
     }
   ],
-  "frequencies": [],
+  "frequencies": [
+    {
+      "type": "APP",
+      "description": "",
+      "mhz": 124.525
+    },
+    {
+      "type": "AWOS",
+      "description": "",
+      "mhz": 120.425
+    },
+    {
+      "type": "CTAF",
+      "description": "",
+      "mhz": 123
+    }
+  ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

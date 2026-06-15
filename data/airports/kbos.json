@@ -29,19 +29,19 @@
       "ends": {
         "low": {
           "ident": "04L",
-          "latitude": 42.358002,
-          "longitude": -71.014297,
+          "latitude": 42.357997,
+          "longitude": -71.014344,
           "elevation_ft": 14,
           "heading_true": 20,
           "displaced_threshold_ft": 0
         },
         "high": {
           "ident": "22R",
-          "latitude": 42.3783,
-          "longitude": -71.004501,
+          "latitude": 42.378322,
+          "longitude": -71.004511,
           "elevation_ft": 15,
           "heading_true": 200,
-          "displaced_threshold_ft": 0
+          "displaced_threshold_ft": 825
         }
       }
     },
@@ -55,19 +55,19 @@
       "ends": {
         "low": {
           "ident": "04R",
-          "latitude": 42.35110092,
-          "longitude": -71.01180267,
+          "latitude": 42.351064,
+          "longitude": -71.011801,
           "elevation_ft": 18,
           "heading_true": 20,
           "displaced_threshold_ft": 1154
         },
         "high": {
           "ident": "22L",
-          "latitude": 42.37689972,
-          "longitude": -70.9992981,
+          "latitude": 42.376923,
+          "longitude": -70.999288,
           "elevation_ft": 16,
           "heading_true": 200,
-          "displaced_threshold_ft": 0
+          "displaced_threshold_ft": 1200
         }
       }
     },
@@ -245,7 +245,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

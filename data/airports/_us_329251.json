@@ -16,12 +16,65 @@
   "scheduled_service": false,
   "wikipedia": null,
   "keywords": [],
-  "runways": [],
+  "runways": [
+    {
+      "id": "16/34",
+      "length_ft": 2700,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "16",
+          "latitude": 60.630866,
+          "longitude": -151.294658,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "34",
+          "latitude": 60.624066,
+          "longitude": -151.294586,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    },
+    {
+      "id": "2/20",
+      "length_ft": 1370,
+      "width_ft": 100,
+      "surface": "unknown",
+      "lighted": false,
+      "closed": false,
+      "ends": {
+        "low": {
+          "ident": "2",
+          "latitude": 60.620868,
+          "longitude": -151.299501,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        },
+        "high": {
+          "ident": "20",
+          "latitude": 60.623994,
+          "longitude": -151.294597,
+          "elevation_ft": 0,
+          "heading_true": 0,
+          "displaced_threshold_ft": 0
+        }
+      }
+    }
+  ],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 329251,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Horseshoe Acres Airpark",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 27.093299865722656,
-    "longitude": -80.61219787597656,
+    "latitude": 27.0933,
+    "longitude": -80.612198,
     "elevation_ft": 9,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "FA24"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 17216,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Agua Caliente Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 32.95009994506836,
-    "longitude": -116.29299926757812,
+    "latitude": 32.955673,
+    "longitude": -116.294712,
     "elevation_ft": 1220,
     "continent": "NA",
     "iso_country": "US",
@@ -15,40 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": "https://en.wikipedia.org/wiki/Agua_Caliente_Airport",
-  "keywords": [],
-  "runways": [
-    {
-      "id": "11/29",
-      "length_ft": 2500,
-      "width_ft": 60,
-      "surface": "asphalt",
-      "lighted": false,
-      "closed": false,
-      "ends": {
-        "low": {
-          "ident": "11",
-          "latitude": 32.957298278808594,
-          "longitude": -116.2979965209961,
-          "elevation_ft": 0,
-          "heading_true": 0,
-          "displaced_threshold_ft": 0
-        },
-        "high": {
-          "ident": "29",
-          "latitude": 32.9541015625,
-          "longitude": -116.29100036621094,
-          "elevation_ft": 0,
-          "heading_true": 0,
-          "displaced_threshold_ft": 0
-        }
-      }
-    }
+  "keywords": [
+    "L54"
   ],
+  "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 21455,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

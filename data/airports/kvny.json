@@ -2,7 +2,7 @@
   "icao": "KVNY",
   "iata": "VNY",
   "name": "Van Nuys Airport",
-  "type": "large_airport",
+  "type": "medium_airport",
   "status": "open",
   "location": {
     "latitude": 34.209801,
@@ -27,18 +27,18 @@
       "ends": {
         "low": {
           "ident": "16L",
-          "latitude": 34.21900177,
-          "longitude": -118.4899979,
+          "latitude": 34.218995,
+          "longitude": -118.490021,
           "elevation_ft": 791,
-          "heading_true": 175.5,
+          "heading_true": 176,
           "displaced_threshold_ft": 1431
         },
         "high": {
           "ident": "34R",
-          "latitude": 34.20800018,
-          "longitude": -118.4889984,
+          "latitude": 34.208006,
+          "longitude": -118.488983,
           "elevation_ft": 772,
-          "heading_true": 355.5,
+          "heading_true": 356,
           "displaced_threshold_ft": 0
         }
       }
@@ -53,18 +53,18 @@
       "ends": {
         "low": {
           "ident": "16R",
-          "latitude": 34.21889877319336,
-          "longitude": -118.49099731445312,
+          "latitude": 34.218915,
+          "longitude": -118.491258,
           "elevation_ft": 793,
-          "heading_true": 175.5,
+          "heading_true": 176,
           "displaced_threshold_ft": 1431
         },
         "high": {
           "ident": "34L",
-          "latitude": 34.196998596191406,
-          "longitude": -118.48899841308594,
+          "latitude": 34.197001,
+          "longitude": -118.489186,
           "elevation_ft": 746,
-          "heading_true": 355.5,
+          "heading_true": 356,
           "displaced_threshold_ft": 0
         }
       }
@@ -114,7 +114,7 @@
   ],
   "metadata": {
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

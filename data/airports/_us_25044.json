@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Northeast Community Hospital Heliport",
-  "type": "heliport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 32.8390007019043,
-    "longitude": -97.14749908447266,
+    "latitude": 32.839001,
+    "longitude": -97.147499,
     "elevation_ft": 690,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "TS28"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 25044,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"

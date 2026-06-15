@@ -2,11 +2,11 @@
   "icao": null,
   "iata": null,
   "name": "Crystal Airport",
-  "type": "small_airport",
+  "type": "closed",
   "status": "open",
   "location": {
-    "latitude": 36.213401794433594,
-    "longitude": -96.63700103759766,
+    "latitude": 36.211428,
+    "longitude": -96.637626,
     "elevation_ft": 1016,
     "continent": "NA",
     "iso_country": "US",
@@ -15,13 +15,15 @@
   },
   "scheduled_service": false,
   "wikipedia": null,
-  "keywords": [],
+  "keywords": [
+    "0OK9"
+  ],
   "runways": [],
   "frequencies": [],
   "metadata": {
     "ourairports_id": 7462,
     "created": "2026-03-06",
-    "updated": "2026-03-06",
+    "updated": "2026-06-15",
     "sources": [
       "ourairports",
       "faa"
