@@ -1,0 +1,32 @@
+{
+  "key": "hhal",
+  "codes": {
+    "icao": "HHAL",
+    "iata": null,
+    "gps": "HHAL",
+    "local": null
+  },
+  "name": "Alghena Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 17.335379,
+    "longitude": 38.519347,
+    "elevation_ft": 1262,
+    "iso_country": "ER",
+    "iso_region": "ER-DU",
+    "municipality": "Alghena"
+  },
+  "keywords": [
+    "Alghiena"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 607205
+  }
+}

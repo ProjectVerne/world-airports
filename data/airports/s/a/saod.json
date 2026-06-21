@@ -1,0 +1,31 @@
+{
+  "key": "saod",
+  "codes": {
+    "icao": "SAOD",
+    "iata": "VDR",
+    "gps": "SAOD",
+    "local": "LDR"
+  },
+  "name": "Villa Dolores Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -31.9452,
+    "longitude": -65.146301,
+    "elevation_ft": 1847,
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Villa Dolores"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Villa_Dolores_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5797
+  }
+}

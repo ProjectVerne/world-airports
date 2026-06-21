@@ -1,0 +1,33 @@
+{
+  "key": "kmcd",
+  "codes": {
+    "icao": "KMCD",
+    "iata": "MCD",
+    "gps": "KMCD",
+    "local": "MCD"
+  },
+  "name": "Mackinac Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.864899,
+    "longitude": -84.637299,
+    "elevation_ft": 739,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Mackinac Island"
+  },
+  "keywords": [
+    "Y84"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mackinac_Island_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20479
+  }
+}

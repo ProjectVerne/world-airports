@@ -1,0 +1,32 @@
+{
+  "key": "_us_352138",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Lambert Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 34.20805,
+    "longitude": -90.29036,
+    "elevation_ft": 151,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Lambert"
+  },
+  "keywords": [
+    "US-6400"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 352138
+  }
+}

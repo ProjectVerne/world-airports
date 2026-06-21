@@ -1,0 +1,31 @@
+{
+  "key": "kfam",
+  "codes": {
+    "icao": "KFAM",
+    "iata": "FAM",
+    "gps": "KFAM",
+    "local": "FAM"
+  },
+  "name": "Farmington Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.761101,
+    "longitude": -90.428597,
+    "elevation_ft": 946,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Farmington"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Farmington_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19844
+  }
+}

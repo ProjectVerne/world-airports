@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01559",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSS4",
+    "local": "CSS4"
+  },
+  "name": "St-Dominique Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.6325,
+    "longitude": -72.818901,
+    "elevation_ft": 250,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "St-Dominique"
+  },
+  "keywords": [
+    "SS4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St-Dominique_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1559
+  }
+}

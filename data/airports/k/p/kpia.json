@@ -1,0 +1,33 @@
+{
+  "key": "kpia",
+  "codes": {
+    "icao": "KPIA",
+    "iata": "PIA",
+    "gps": "KPIA",
+    "local": "PIA"
+  },
+  "name": "General Wayne A. Downing Peoria International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.663841,
+    "longitude": -89.692631,
+    "elevation_ft": 660,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Peoria"
+  },
+  "keywords": [
+    "Peoria International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/General_Wayne_A._Downing_Peoria_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3773
+  }
+}

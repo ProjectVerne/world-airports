@@ -1,0 +1,33 @@
+{
+  "key": "_us_10620",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Aysta Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 45.522701,
+    "longitude": -94.122803,
+    "elevation_ft": 1024,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Saint Cloud"
+  },
+  "keywords": [
+    "3MN8",
+    "US-10058"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10620
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_25279",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UT36",
+    "local": "UT36"
+  },
+  "name": "Wecco Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.316601,
+    "longitude": -113.317001,
+    "elevation_ft": 5315,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Cedar City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25279
+  }
+}

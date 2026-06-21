@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01321",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNM2",
+    "local": "CNM2"
+  },
+  "name": "Melbourne Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.8242,
+    "longitude": -81.548599,
+    "elevation_ft": 735,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Melbourne"
+  },
+  "keywords": [
+    "NM2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Melbourne_Airport_(Ontario)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1321
+  }
+}

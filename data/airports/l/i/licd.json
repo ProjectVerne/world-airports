@@ -1,0 +1,31 @@
+{
+  "key": "licd",
+  "codes": {
+    "icao": "LICD",
+    "iata": "LMP",
+    "gps": "LICD",
+    "local": "AG01"
+  },
+  "name": "Lampedusa Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.497898,
+    "longitude": 12.6181,
+    "elevation_ft": 70,
+    "iso_country": "IT",
+    "iso_region": "IT-82",
+    "municipality": "Lampedusa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lampedusa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4319
+  }
+}

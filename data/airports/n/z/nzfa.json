@@ -1,0 +1,32 @@
+{
+  "key": "nzfa",
+  "codes": {
+    "icao": "NZFA",
+    "iata": null,
+    "gps": "NZFA",
+    "local": null
+  },
+  "name": "Te Haupa Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -34.516234,
+    "longitude": 172.911336,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-NTL",
+    "municipality": "Te Haupa"
+  },
+  "keywords": [
+    "Te Haupa"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605013
+  }
+}

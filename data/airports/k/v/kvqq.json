@@ -1,0 +1,35 @@
+{
+  "key": "kvqq",
+  "codes": {
+    "icao": "KVQQ",
+    "iata": "VQQ",
+    "gps": "KVQQ",
+    "local": "VQQ"
+  },
+  "name": "Cecil Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.2187,
+    "longitude": -81.876701,
+    "elevation_ft": 81,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville"
+  },
+  "keywords": [
+    "NZC",
+    "KNCZ",
+    "Cecil Field NAS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21335
+  }
+}

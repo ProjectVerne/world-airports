@@ -1,0 +1,31 @@
+{
+  "key": "dfoo",
+  "codes": {
+    "icao": "DFOO",
+    "iata": "BOY",
+    "gps": "DFOO",
+    "local": null
+  },
+  "name": "Bobo Dioulasso Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.1601,
+    "longitude": -4.33097,
+    "elevation_ft": 1511,
+    "iso_country": "BF",
+    "iso_region": "BF-HOU",
+    "municipality": "Bobo Dioulasso"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bobo_Dioulasso_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2089
+  }
+}

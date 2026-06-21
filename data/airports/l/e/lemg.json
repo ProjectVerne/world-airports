@@ -1,0 +1,34 @@
+{
+  "key": "lemg",
+  "codes": {
+    "icao": "LEMG",
+    "iata": "AGP",
+    "gps": "LEMG",
+    "local": null
+  },
+  "name": "Málaga-Costa del Sol Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.6749,
+    "longitude": -4.49911,
+    "elevation_ft": 53,
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Málaga"
+  },
+  "keywords": [
+    "Costa del Sol",
+    "Malaga"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A1laga_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4020
+  }
+}

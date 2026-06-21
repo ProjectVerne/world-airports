@@ -1,0 +1,32 @@
+{
+  "key": "lptt",
+  "codes": {
+    "icao": "LPTT",
+    "iata": null,
+    "gps": "LPTT",
+    "local": null
+  },
+  "name": "Hospital de Sao Teotonio heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.649082,
+    "longitude": -7.905788,
+    "elevation_ft": 1500,
+    "iso_country": "PT",
+    "iso_region": "PT-18",
+    "municipality": "Viseu"
+  },
+  "keywords": [
+    "PT-0006"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43774
+  }
+}

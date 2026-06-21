@@ -1,0 +1,31 @@
+{
+  "key": "kmmi",
+  "codes": {
+    "icao": "KMMI",
+    "iata": "MMI",
+    "gps": "KMMI",
+    "local": "MMI"
+  },
+  "name": "McMinn County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.397301,
+    "longitude": -84.562599,
+    "elevation_ft": 875,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Athens"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/McMinn_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20528
+  }
+}

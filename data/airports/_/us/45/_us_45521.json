@@ -1,0 +1,30 @@
+{
+  "key": "_us_45521",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "62NH",
+    "local": "62NH"
+  },
+  "name": "Carleton Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.063611,
+    "longitude": -71.152778,
+    "elevation_ft": 920,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Hales Location"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45521
+  }
+}

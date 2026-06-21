@@ -1,0 +1,31 @@
+{
+  "key": "nzwn",
+  "codes": {
+    "icao": "NZWN",
+    "iata": "WLG",
+    "gps": "NZWN",
+    "local": null
+  },
+  "name": "Wellington International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -41.326839,
+    "longitude": 174.806862,
+    "elevation_ft": 41,
+    "iso_country": "NZ",
+    "iso_region": "NZ-WGN",
+    "municipality": "Wellington"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wellington_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5063
+  }
+}

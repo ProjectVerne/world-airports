@@ -1,0 +1,30 @@
+{
+  "key": "_us_23685",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OI37",
+    "local": "OI37"
+  },
+  "name": "Rogers Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.800098,
+    "longitude": -84.120796,
+    "elevation_ft": 800,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Dayton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23685
+  }
+}

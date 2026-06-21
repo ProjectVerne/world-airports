@@ -1,0 +1,36 @@
+{
+  "key": "lrtz",
+  "codes": {
+    "icao": "LRTZ",
+    "iata": null,
+    "gps": "LRTZ",
+    "local": null
+  },
+  "name": "Tuzla Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.984493,
+    "longitude": 28.606225,
+    "elevation_ft": 161,
+    "iso_country": "RO",
+    "iso_region": "RO-CT",
+    "municipality": "Tuzla"
+  },
+  "keywords": [
+    "Aerodrom Regional Tuzla",
+    "Aeroportul Utilitar Tuzla",
+    "Aeroportul Internațional Alexandru Podgoreanu Tuzla",
+    "Tuzla Regional Airport"
+  ],
+  "wikipedia": "https://ro.wikipedia.org/wiki/Aeroportul_Utilitar_Tuzla",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30501
+  }
+}

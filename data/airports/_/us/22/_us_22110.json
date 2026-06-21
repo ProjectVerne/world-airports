@@ -1,0 +1,33 @@
+{
+  "key": "_us_22110",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MN02",
+    "local": "MN02"
+  },
+  "name": "Lake Minnewashta Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 44.880501,
+    "longitude": -93.6091,
+    "elevation_ft": 944,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Excelsior"
+  },
+  "keywords": [
+    "MY23",
+    "Andings Landing"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22110
+  }
+}

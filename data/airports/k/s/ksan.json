@@ -1,0 +1,33 @@
+{
+  "key": "ksan",
+  "codes": {
+    "icao": "KSAN",
+    "iata": "SAN",
+    "gps": "KSAN",
+    "local": "SAN"
+  },
+  "name": "San Diego International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.733601,
+    "longitude": -117.190002,
+    "elevation_ft": 17,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Diego"
+  },
+  "keywords": [
+    "Lindbergh Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Diego_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3862
+  }
+}

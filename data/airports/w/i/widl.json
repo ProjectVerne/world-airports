@@ -1,0 +1,31 @@
+{
+  "key": "widl",
+  "codes": {
+    "icao": "WIDL",
+    "iata": "LMU",
+    "gps": "WIDL",
+    "local": null
+  },
+  "name": "Letung Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 2.96447,
+    "longitude": 105.75484,
+    "elevation_ft": 33,
+    "iso_country": "ID",
+    "iso_region": "ID-KR",
+    "municipality": "Bukit Padi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Letung_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333092
+  }
+}

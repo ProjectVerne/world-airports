@@ -1,0 +1,37 @@
+{
+  "key": "cykf",
+  "codes": {
+    "icao": "CYKF",
+    "iata": "YKF",
+    "gps": "CYKF",
+    "local": null
+  },
+  "name": "Region of Waterloo International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.4608,
+    "longitude": -80.378601,
+    "elevation_ft": 1054,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Breslau"
+  },
+  "keywords": [
+    "Breslau",
+    "Kitchener",
+    "Waterloo",
+    "Cambridge",
+    "YKF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Region_of_Waterloo_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1787
+  }
+}

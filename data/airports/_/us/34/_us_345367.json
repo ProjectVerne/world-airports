@@ -1,0 +1,32 @@
+{
+  "key": "_us_345367",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "3FA1"
+  },
+  "name": "AdventHealth Tampa Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.07043,
+    "longitude": -82.42225,
+    "elevation_ft": 41,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Tampa"
+  },
+  "keywords": [
+    "US-4437"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345367
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "lfrg",
+  "codes": {
+    "icao": "LFRG",
+    "iata": "DOL",
+    "gps": "LFRG",
+    "local": null
+  },
+  "name": "Deauville Normandie airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.365237,
+    "longitude": 0.154481,
+    "elevation_ft": 479,
+    "iso_country": "FR",
+    "iso_region": "FR-NOR",
+    "municipality": "Deauville"
+  },
+  "keywords": [
+    "Deauville-Saint Gatien"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Deauville_%E2%80%93_Normandie_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4211
+  }
+}

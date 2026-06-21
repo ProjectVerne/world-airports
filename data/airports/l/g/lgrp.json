@@ -1,0 +1,33 @@
+{
+  "key": "lgrp",
+  "codes": {
+    "icao": "LGRP",
+    "iata": "RHO",
+    "gps": "LGRP",
+    "local": null
+  },
+  "name": "Rhodes International Airport \"Diagoras\"",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.405399,
+    "longitude": 28.086201,
+    "elevation_ft": 17,
+    "iso_country": "GR",
+    "iso_region": "GR-L",
+    "municipality": "Rhodes"
+  },
+  "keywords": [
+    "Diagoras International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rhodes_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4279
+  }
+}

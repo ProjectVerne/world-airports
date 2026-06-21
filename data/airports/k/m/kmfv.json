@@ -1,0 +1,33 @@
+{
+  "key": "kmfv",
+  "codes": {
+    "icao": "KMFV",
+    "iata": "MFV",
+    "gps": "KMFV",
+    "local": "MFV"
+  },
+  "name": "Accomack County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.6469,
+    "longitude": -75.761101,
+    "elevation_ft": 47,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Melfa"
+  },
+  "keywords": [
+    "Melfa Flight Strip"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Accomack_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20497
+  }
+}

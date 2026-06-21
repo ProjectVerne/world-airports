@@ -1,0 +1,32 @@
+{
+  "key": "_us_13773",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "73MO",
+    "local": "73MO"
+  },
+  "name": "SSM Health St Mary's Hospital-St Louis Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.633293,
+    "longitude": -90.311523,
+    "elevation_ft": 688,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "St Louis"
+  },
+  "keywords": [
+    "St Mary's Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13773
+  }
+}

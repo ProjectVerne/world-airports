@@ -1,0 +1,35 @@
+{
+  "key": "uhkm",
+  "codes": {
+    "icao": "UHKM",
+    "iata": "GVN",
+    "gps": "UHKM",
+    "local": null
+  },
+  "name": "Sovetskaya Gavan (Maygatka) Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.925067,
+    "longitude": 140.035348,
+    "elevation_ft": 768,
+    "iso_country": "RU",
+    "iso_region": "RU-KHA",
+    "municipality": "Sovetskaya Gavan"
+  },
+  "keywords": [
+    "Sovietskaya Gavan Airport",
+    "May-Gatka Airport",
+    "Аэропорт Советская Гавань",
+    "Аэропорт Май-Гатка"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43866
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_06590",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01GA",
+    "local": "01GA"
+  },
+  "name": "Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.479301,
+    "longitude": -84.979103,
+    "elevation_ft": 319,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Columbus"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6590
+  }
+}

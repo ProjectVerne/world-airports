@@ -1,0 +1,30 @@
+{
+  "key": "_us_25560",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VT70",
+    "local": "VT70"
+  },
+  "name": "North Country Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.956402,
+    "longitude": -72.199501,
+    "elevation_ft": 720,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Newport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25560
+  }
+}

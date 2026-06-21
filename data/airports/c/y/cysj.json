@@ -1,0 +1,31 @@
+{
+  "key": "cysj",
+  "codes": {
+    "icao": "CYSJ",
+    "iata": "YSJ",
+    "gps": "CYSJ",
+    "local": null
+  },
+  "name": "Saint John Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.316101,
+    "longitude": -65.890297,
+    "elevation_ft": 357,
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Saint John"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saint_John_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1904
+  }
+}

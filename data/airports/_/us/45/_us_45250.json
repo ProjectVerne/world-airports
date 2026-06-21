@@ -1,0 +1,30 @@
+{
+  "key": "_us_45250",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "75AK",
+    "local": "75AK"
+  },
+  "name": "Henley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.593067,
+    "longitude": -151.327956,
+    "elevation_ft": 100,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Kenai"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45250
+  }
+}

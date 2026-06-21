@@ -1,0 +1,33 @@
+{
+  "key": "lbpg",
+  "codes": {
+    "icao": "LBPG",
+    "iata": null,
+    "gps": "LBPG",
+    "local": null
+  },
+  "name": "Graf Ignatievo Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.290401,
+    "longitude": 24.714001,
+    "elevation_ft": 190,
+    "iso_country": "BG",
+    "iso_region": "BG-16",
+    "municipality": "Graf Ignatievo"
+  },
+  "keywords": [
+    "LB21"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Graf_Ignatievo_Airbase",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 89
+  }
+}

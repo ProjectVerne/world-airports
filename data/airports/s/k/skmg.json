@@ -1,0 +1,31 @@
+{
+  "key": "skmg",
+  "codes": {
+    "icao": "SKMG",
+    "iata": "MGN",
+    "gps": "SKMG",
+    "local": "MGN"
+  },
+  "name": "Baracoa Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.28474,
+    "longitude": -74.8461,
+    "elevation_ft": 178,
+    "iso_country": "CO",
+    "iso_region": "CO-BOL",
+    "municipality": "Magangué"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Baracoa_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6134
+  }
+}

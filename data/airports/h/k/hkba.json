@@ -1,0 +1,32 @@
+{
+  "key": "hkba",
+  "codes": {
+    "icao": "HKBA",
+    "iata": null,
+    "gps": "HKBA",
+    "local": null
+  },
+  "name": "Busia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 0.454903,
+    "longitude": 34.130728,
+    "elevation_ft": 3989,
+    "iso_country": "KE",
+    "iso_region": "KE-40",
+    "municipality": "Busia"
+  },
+  "keywords": [
+    "KE-6997"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42530
+  }
+}

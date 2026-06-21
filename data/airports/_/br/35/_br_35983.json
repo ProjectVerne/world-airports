@@ -1,0 +1,32 @@
+{
+  "key": "_br_35983",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDTT",
+    "local": "RS0103"
+  },
+  "name": "Região das Hortências Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -29.361552,
+    "longitude": -50.853144,
+    "elevation_ft": 2805,
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Gramado"
+  },
+  "keywords": [
+    "SIGR"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35983
+  }
+}

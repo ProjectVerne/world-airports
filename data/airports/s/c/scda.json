@@ -1,0 +1,31 @@
+{
+  "key": "scda",
+  "codes": {
+    "icao": "SCDA",
+    "iata": "IQQ",
+    "gps": "SCDA",
+    "local": null
+  },
+  "name": "Diego Aracena International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.536273,
+    "longitude": -70.181373,
+    "elevation_ft": 155,
+    "iso_country": "CL",
+    "iso_region": "CL-TA",
+    "municipality": "Iquique"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Diego_Aracena_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6012
+  }
+}

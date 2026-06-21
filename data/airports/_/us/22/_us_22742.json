@@ -1,0 +1,33 @@
+{
+  "key": "_us_22742",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KNBV",
+    "local": "NBV"
+  },
+  "name": "Coastal Systems Station Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.174101,
+    "longitude": -85.753304,
+    "elevation_ft": 10,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Panama City"
+  },
+  "keywords": [
+    "Naval Surface Warfare Center Panama City Heliport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Support_Activity_Panama_City",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22742
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_12130",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "57IN",
+    "local": "57IN"
+  },
+  "name": "IU Health Bedford Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.858149,
+    "longitude": -86.512656,
+    "elevation_ft": 660,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Bedford"
+  },
+  "keywords": [
+    "Bedford Medical Center"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12130
+  }
+}

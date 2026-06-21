@@ -1,0 +1,32 @@
+{
+  "key": "_us_06617",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01OI",
+    "local": "01OI"
+  },
+  "name": "Avita Health System Galion Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.730267,
+    "longitude": -82.802022,
+    "elevation_ft": 1140,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Galion"
+  },
+  "keywords": [
+    "Galion Community Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6617
+  }
+}

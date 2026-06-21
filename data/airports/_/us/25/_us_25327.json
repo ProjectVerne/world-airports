@@ -1,0 +1,30 @@
+{
+  "key": "_us_25327",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UT84",
+    "local": "UT84"
+  },
+  "name": "Skaggs Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.688301,
+    "longitude": -111.891998,
+    "elevation_ft": 4289,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "South Salt Lake City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25327
+  }
+}

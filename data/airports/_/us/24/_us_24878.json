@@ -1,0 +1,33 @@
+{
+  "key": "_us_24878",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Palmer Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 33.197688,
+    "longitude": -97.316201,
+    "elevation_ft": 800,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Ponder"
+  },
+  "keywords": [
+    "TE70",
+    "US-12228"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24878
+  }
+}

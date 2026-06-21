@@ -1,0 +1,34 @@
+{
+  "key": "cykm",
+  "codes": {
+    "icao": "CYKM",
+    "iata": "YKD",
+    "gps": "CYKM",
+    "local": "CYKM"
+  },
+  "name": "Kincardine Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.201401,
+    "longitude": -81.606697,
+    "elevation_ft": 772,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Kincardine"
+  },
+  "keywords": [
+    "NS7",
+    "CNS7"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kincardine_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1340
+  }
+}

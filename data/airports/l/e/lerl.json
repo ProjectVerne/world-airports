@@ -1,0 +1,33 @@
+{
+  "key": "lerl",
+  "codes": {
+    "icao": "LERL",
+    "iata": "CQM",
+    "gps": "LERL",
+    "local": null
+  },
+  "name": "Ciudad Real International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.856479,
+    "longitude": -3.969944,
+    "elevation_ft": 2120,
+    "iso_country": "ES",
+    "iso_region": "ES-CM",
+    "municipality": "Ciudad Real"
+  },
+  "keywords": [
+    "Ciudad Real Central Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ciudad_Real_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46583
+  }
+}

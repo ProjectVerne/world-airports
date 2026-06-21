@@ -1,0 +1,30 @@
+{
+  "key": "_us_07154",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0CT7",
+    "local": "0CT7"
+  },
+  "name": "Bridgeport Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.188408,
+    "longitude": -73.1667,
+    "elevation_ft": 80,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Bridgeport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7154
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_348272",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "24FD",
+    "local": "24FD"
+  },
+  "name": "HCA Florida Poinciana Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.144702,
+    "longitude": -81.475602,
+    "elevation_ft": 75,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Kissimmee"
+  },
+  "keywords": [
+    "Poinciana Medical Center Heliport",
+    "US-5420"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 348272
+  }
+}

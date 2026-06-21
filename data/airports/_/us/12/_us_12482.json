@@ -1,0 +1,33 @@
+{
+  "key": "_us_12482",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "AAI Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.469601,
+    "longitude": -76.640503,
+    "elevation_ft": 350,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Cockeysville"
+  },
+  "keywords": [
+    "5MD4",
+    "US-10396"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12482
+  }
+}

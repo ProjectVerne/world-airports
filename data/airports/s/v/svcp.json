@@ -1,0 +1,31 @@
+{
+  "key": "svcp",
+  "codes": {
+    "icao": "SVCP",
+    "iata": "CUP",
+    "gps": "SVCP",
+    "local": null
+  },
+  "name": "General Francisco Bermúdez Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.660014,
+    "longitude": -63.261681,
+    "elevation_ft": 33,
+    "iso_country": "VE",
+    "iso_region": "VE-R",
+    "municipality": "Carúpano"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/General_Jos%C3%A9_Francisco_Berm%C3%BAdez_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6270
+  }
+}

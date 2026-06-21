@@ -1,0 +1,31 @@
+{
+  "key": "keyw",
+  "codes": {
+    "icao": "KEYW",
+    "iata": "EYW",
+    "gps": "KEYW",
+    "local": "EYW"
+  },
+  "name": "Key West International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.556119,
+    "longitude": -81.759579,
+    "elevation_ft": 3,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Key West"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Key_West_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3522
+  }
+}

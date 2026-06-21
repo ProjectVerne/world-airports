@@ -1,0 +1,33 @@
+{
+  "key": "mmsp",
+  "codes": {
+    "icao": "MMSP",
+    "iata": "SLP",
+    "gps": "MMSP",
+    "local": null
+  },
+  "name": "Ponciano Arriaga International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.262026,
+    "longitude": -100.935692,
+    "elevation_ft": 6035,
+    "iso_country": "MX",
+    "iso_region": "MX-SLP",
+    "municipality": "San Luis Potosí"
+  },
+  "keywords": [
+    "Estafeta"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ponciano_Arriaga_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4752
+  }
+}

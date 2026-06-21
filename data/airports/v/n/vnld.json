@@ -1,0 +1,31 @@
+{
+  "key": "vnld",
+  "codes": {
+    "icao": "VNLD",
+    "iata": "LDN",
+    "gps": "VNLD",
+    "local": null
+  },
+  "name": "Lamidanda Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.253099,
+    "longitude": 86.669998,
+    "elevation_ft": 4100,
+    "iso_country": "NP",
+    "iso_region": "NP-P1",
+    "municipality": "Lamidanda"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lamidanda_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31802
+  }
+}

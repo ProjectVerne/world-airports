@@ -1,0 +1,34 @@
+{
+  "key": "etoa",
+  "codes": {
+    "icao": "ETOA",
+    "iata": null,
+    "gps": "ETOA",
+    "local": null
+  },
+  "name": "Schweinfurt Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.049753,
+    "longitude": 10.167905,
+    "elevation_ft": 738,
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Geldersheim"
+  },
+  "keywords": [
+    "ZPW",
+    "USAG Schweinfurt"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Schweinfurt_Army_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29402
+  }
+}

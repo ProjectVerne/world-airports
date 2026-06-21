@@ -1,0 +1,35 @@
+{
+  "key": "wayc",
+  "codes": {
+    "icao": "WAYC",
+    "iata": null,
+    "gps": "WAYC",
+    "local": "KEN"
+  },
+  "name": "Keneyan Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.5995,
+    "longitude": 138.3844,
+    "elevation_ft": 449,
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Keneyan"
+  },
+  "keywords": [
+    "WZ41",
+    "Kenyem",
+    "Kenyam",
+    "ID-0078"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310455
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_25505",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VT09",
+    "local": "VT09"
+  },
+  "name": "Spencer Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.113602,
+    "longitude": -73.290298,
+    "elevation_ft": 310,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Addison"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25505
+  }
+}

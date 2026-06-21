@@ -1,0 +1,30 @@
+{
+  "key": "_us_18281",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "JY22",
+    "local": "JY22"
+  },
+  "name": "Hackettstown Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.861676,
+    "longitude": -74.81462,
+    "elevation_ft": 607,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Hackettstown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18281
+  }
+}

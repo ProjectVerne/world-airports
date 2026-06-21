@@ -1,0 +1,30 @@
+{
+  "key": "_us_10601",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3MD9",
+    "local": "3MD9"
+  },
+  "name": "Chandler Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.118198,
+    "longitude": -76.391296,
+    "elevation_ft": 17,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Ridge"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10601
+  }
+}

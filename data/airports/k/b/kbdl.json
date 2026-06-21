@@ -1,0 +1,34 @@
+{
+  "key": "kbdl",
+  "codes": {
+    "icao": "KBDL",
+    "iata": "BDL",
+    "gps": "KBDL",
+    "local": "BDL"
+  },
+  "name": "Bradley International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.938555,
+    "longitude": -72.688016,
+    "elevation_ft": 173,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Hartford"
+  },
+  "keywords": [
+    "HFD",
+    "Hartford"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bradley_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3396
+  }
+}

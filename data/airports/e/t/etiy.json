@@ -1,0 +1,30 @@
+{
+  "key": "etiy",
+  "codes": {
+    "icao": "ETIY",
+    "iata": null,
+    "gps": "ETIY",
+    "local": null
+  },
+  "name": "Landstuhl Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.402481,
+    "longitude": 7.558588,
+    "elevation_ft": 1136,
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Landstuhl"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300111
+  }
+}

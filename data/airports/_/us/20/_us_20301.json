@@ -1,0 +1,35 @@
+{
+  "key": "_us_20301",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Olla Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 31.895829,
+    "longitude": -92.218031,
+    "elevation_ft": 130,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Olla"
+  },
+  "keywords": [
+    "LA32",
+    "L47",
+    "KL47",
+    "US-11531"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20301
+  }
+}

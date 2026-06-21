@@ -1,0 +1,33 @@
+{
+  "key": "_us_511637",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TX01",
+    "local": "TX01"
+  },
+  "name": "LYJ Austin Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.422981,
+    "longitude": -97.928336,
+    "elevation_ft": 706,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Austin"
+  },
+  "keywords": [
+    "Gatsby Mansion",
+    "US-8130"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 511637
+  }
+}

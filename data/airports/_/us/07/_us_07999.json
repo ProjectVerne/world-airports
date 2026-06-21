@@ -1,0 +1,30 @@
+{
+  "key": "_us_07999",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "16MA",
+    "local": "16MA"
+  },
+  "name": "Lawrence General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.709801,
+    "longitude": -71.150597,
+    "elevation_ft": 60,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Lawrence"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7999
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "hkol",
+  "codes": {
+    "icao": "HKOL",
+    "iata": null,
+    "gps": "HKOL",
+    "local": null
+  },
+  "name": "Oropoi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 3.810904,
+    "longitude": 34.360943,
+    "elevation_ft": 2842,
+    "iso_country": "KE",
+    "iso_region": "KE-23",
+    "municipality": "Oropoi"
+  },
+  "keywords": [
+    "KE-0004"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42647
+  }
+}

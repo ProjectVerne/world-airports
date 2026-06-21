@@ -1,0 +1,31 @@
+{
+  "key": "sazr",
+  "codes": {
+    "icao": "SAZR",
+    "iata": "RSA",
+    "gps": "SAZR",
+    "local": "OSA"
+  },
+  "name": "Santa Rosa Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -36.588299,
+    "longitude": -64.275703,
+    "elevation_ft": 630,
+    "iso_country": "AR",
+    "iso_region": "AR-L",
+    "municipality": "Santa Rosa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Santa_Rosa_Airport_(Argentina)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5851
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "slet",
+  "codes": {
+    "icao": "SLET",
+    "iata": "SRZ",
+    "gps": "SLET",
+    "local": null
+  },
+  "name": "El Trompillo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -17.8116,
+    "longitude": -63.171501,
+    "elevation_ft": 1371,
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Santa Cruz"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Trompillo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6183
+  }
+}

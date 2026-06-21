@@ -1,0 +1,30 @@
+{
+  "key": "lpag",
+  "codes": {
+    "icao": "LPAG",
+    "iata": null,
+    "gps": "LPAG",
+    "local": null
+  },
+  "name": "Albergaria-a-Velha Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.707119,
+    "longitude": -8.4914,
+    "elevation_ft": 460,
+    "iso_country": "PT",
+    "iso_region": "PT-01",
+    "municipality": "Albergaria-a-Velha"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 321238
+  }
+}

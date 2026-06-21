@@ -1,0 +1,31 @@
+{
+  "key": "pags",
+  "codes": {
+    "icao": "PAGS",
+    "iata": "GST",
+    "gps": "PAGS",
+    "local": "GST"
+  },
+  "name": "Gustavus Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.425301,
+    "longitude": -135.707001,
+    "elevation_ft": 35,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Gustavus"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gustavus_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5369
+  }
+}

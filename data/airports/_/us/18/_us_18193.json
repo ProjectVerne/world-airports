@@ -1,0 +1,32 @@
+{
+  "key": "_us_18193",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS30",
+    "local": "IS30"
+  },
+  "name": "Franciscan Health - Olympia Fields Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.523636,
+    "longitude": -87.709705,
+    "elevation_ft": 718,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Olympia Fields"
+  },
+  "keywords": [
+    "St James Hospital and Health Center"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18193
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_24262",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS22",
+    "local": "PS22"
+  },
+  "name": "Hazleton General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.949402,
+    "longitude": -75.9636,
+    "elevation_ft": 1670,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Hazleton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24262
+  }
+}

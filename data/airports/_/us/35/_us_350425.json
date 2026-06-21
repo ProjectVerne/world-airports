@@ -1,0 +1,32 @@
+{
+  "key": "_us_350425",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Earley Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 32.86435,
+    "longitude": -111.54707,
+    "elevation_ft": 1486,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Coolidge"
+  },
+  "keywords": [
+    "US-5985"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350425
+  }
+}

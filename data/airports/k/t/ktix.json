@@ -1,0 +1,31 @@
+{
+  "key": "ktix",
+  "codes": {
+    "icao": "KTIX",
+    "iata": "TIX",
+    "gps": "KTIX",
+    "local": "TIX"
+  },
+  "name": "Space Coast Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.514799,
+    "longitude": -80.799202,
+    "elevation_ft": 34,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Titusville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Space_Coast_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3923
+  }
+}

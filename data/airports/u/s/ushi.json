@@ -1,0 +1,33 @@
+{
+  "key": "ushi",
+  "codes": {
+    "icao": "USHI",
+    "iata": "IRM",
+    "gps": "USHI",
+    "local": null
+  },
+  "name": "Igrim Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.200391,
+    "longitude": 64.440136,
+    "elevation_ft": 79,
+    "iso_country": "RU",
+    "iso_region": "RU-KHM",
+    "municipality": null
+  },
+  "keywords": [
+    "Аэропорт Игрим"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Igrim_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43688
+  }
+}

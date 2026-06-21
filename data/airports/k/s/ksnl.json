@@ -1,0 +1,31 @@
+{
+  "key": "ksnl",
+  "codes": {
+    "icao": "KSNL",
+    "iata": "SNL",
+    "gps": "KSNL",
+    "local": "SNL"
+  },
+  "name": "Shawnee Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.357899,
+    "longitude": -96.942802,
+    "elevation_ft": 1073,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Shawnee"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shawnee_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21093
+  }
+}

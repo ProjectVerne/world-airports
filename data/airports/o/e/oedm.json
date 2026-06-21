@@ -1,0 +1,33 @@
+{
+  "key": "oedm",
+  "codes": {
+    "icao": "OEDM",
+    "iata": "DWD",
+    "gps": "OEDM",
+    "local": null
+  },
+  "name": "Dawadmi Domestic Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.4499,
+    "longitude": 44.121201,
+    "elevation_ft": 3026,
+    "iso_country": "SA",
+    "iso_region": "SA-01",
+    "municipality": "Dawadmi"
+  },
+  "keywords": [
+    "Al Dawadmi Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dawadmi_Domestic_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5088
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_16326",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AR36",
+    "local": "AR36"
+  },
+  "name": "Medi-Port Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.332989,
+    "longitude": -94.13202,
+    "elevation_ft": 1350,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Rogers"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16326
+  }
+}

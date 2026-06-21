@@ -1,0 +1,31 @@
+{
+  "key": "lfvm",
+  "codes": {
+    "icao": "LFVM",
+    "iata": "MQC",
+    "gps": "LFVM",
+    "local": null
+  },
+  "name": "Miquelon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.095501,
+    "longitude": -56.380299,
+    "elevation_ft": 10,
+    "iso_country": "PM",
+    "iso_region": "PM-ML",
+    "municipality": "Miquelon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Miquelon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4244
+  }
+}

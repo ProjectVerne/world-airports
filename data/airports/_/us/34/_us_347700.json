@@ -1,0 +1,33 @@
+{
+  "key": "_us_347700",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "02MN",
+    "local": "02MN"
+  },
+  "name": "Gregory Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.629736,
+    "longitude": -93.174972,
+    "elevation_ft": 950,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Cambridge"
+  },
+  "keywords": [
+    "https://www.airnav.com/airport/02MN",
+    "US-5168"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 347700
+  }
+}

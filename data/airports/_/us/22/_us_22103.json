@@ -1,0 +1,32 @@
+{
+  "key": "_us_22103",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "K13D",
+    "local": "13D"
+  },
+  "name": "Ponderosa Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.62912,
+    "longitude": -83.683065,
+    "elevation_ft": 1017,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Highland"
+  },
+  "keywords": [
+    "Formerly MI96"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22103
+  }
+}

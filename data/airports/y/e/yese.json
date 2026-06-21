@@ -1,0 +1,31 @@
+{
+  "key": "yese",
+  "codes": {
+    "icao": "YESE",
+    "iata": "ERQ",
+    "gps": "YESE",
+    "local": "YESE"
+  },
+  "name": "Elrose Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.9764,
+    "longitude": 141.0066,
+    "elevation_ft": 645,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Elrose Mine"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Elrose_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 318064
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "sfal",
+  "codes": {
+    "icao": "SFAL",
+    "iata": "PSY",
+    "gps": "SFAL",
+    "local": null
+  },
+  "name": "Port Stanley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -51.685699,
+    "longitude": -57.777599,
+    "elevation_ft": 75,
+    "iso_country": "FK",
+    "iso_region": "FK-U-A",
+    "municipality": "Stanley"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Stanley_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6087
+  }
+}

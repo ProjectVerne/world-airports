@@ -1,0 +1,30 @@
+{
+  "key": "_us_25912",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WS18",
+    "local": "WS18"
+  },
+  "name": "Aurora Medical Center Sheboygan County Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.772125,
+    "longitude": -87.710281,
+    "elevation_ft": 749,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Sheboygan"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25912
+  }
+}

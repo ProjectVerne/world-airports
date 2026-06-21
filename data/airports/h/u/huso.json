@@ -1,0 +1,31 @@
+{
+  "key": "huso",
+  "codes": {
+    "icao": "HUSO",
+    "iata": "SRT",
+    "gps": "HUSO",
+    "local": null
+  },
+  "name": "Soroti Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.72769,
+    "longitude": 33.622799,
+    "elevation_ft": 3697,
+    "iso_country": "UG",
+    "iso_region": "UG-E",
+    "municipality": "Soroti"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Soroti_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3265
+  }
+}

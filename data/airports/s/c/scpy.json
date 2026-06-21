@@ -1,0 +1,31 @@
+{
+  "key": "scpy",
+  "codes": {
+    "icao": "SCPY",
+    "iata": null,
+    "gps": "SCPY",
+    "local": null
+  },
+  "name": "Cerro Castillo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -51.260193,
+    "longitude": -72.335414,
+    "elevation_ft": 427,
+    "iso_country": "CL",
+    "iso_region": "CL-MA",
+    "municipality": "Cerro Castillo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cerro_Castillo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39254
+  }
+}

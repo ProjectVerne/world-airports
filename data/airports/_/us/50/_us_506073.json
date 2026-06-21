@@ -1,0 +1,32 @@
+{
+  "key": "_us_506073",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ME37",
+    "local": "ME37"
+  },
+  "name": "Bridgton Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.046158,
+    "longitude": -70.713053,
+    "elevation_ft": 560,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Bridgton"
+  },
+  "keywords": [
+    "2ME6"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 506073
+  }
+}

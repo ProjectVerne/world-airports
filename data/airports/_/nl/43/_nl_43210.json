@@ -1,0 +1,33 @@
+{
+  "key": "_nl_43210",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "EHVD",
+    "local": null
+  },
+  "name": "Vlieland Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.296912,
+    "longitude": 5.085601,
+    "elevation_ft": 37,
+    "iso_country": "NL",
+    "iso_region": "NL-FR",
+    "municipality": "Oost-Vlieland"
+  },
+  "keywords": [
+    "EHVL"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vlieland_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43210
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_23711",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Bush Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.680282,
+    "longitude": -81.031485,
+    "elevation_ft": 1145,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Thompson"
+  },
+  "keywords": [
+    "OI64"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23711
+  }
+}

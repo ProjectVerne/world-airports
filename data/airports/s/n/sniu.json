@@ -1,0 +1,30 @@
+{
+  "key": "sniu",
+  "codes": {
+    "icao": "SNIU",
+    "iata": "IPU",
+    "gps": "SNIU",
+    "local": "BA0030"
+  },
+  "name": "Ipiaú Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -14.173538,
+    "longitude": -39.68399,
+    "elevation_ft": 433,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Ipiaú"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 327
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "16NC",
+    "local": "16NC"
+  },
+  "name": "Lee's Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.196098,
+    "longitude": -76.665298,
+    "elevation_ft": 31,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Edenton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8005
+  }
+}

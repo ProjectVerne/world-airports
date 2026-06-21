@@ -1,0 +1,33 @@
+{
+  "key": "lgpa",
+  "codes": {
+    "icao": "LGPA",
+    "iata": "PAS",
+    "gps": "LGPA",
+    "local": null
+  },
+  "name": "Paros National Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.020495,
+    "longitude": 25.113195,
+    "elevation_ft": 131,
+    "iso_country": "GR",
+    "iso_region": "GR-L",
+    "municipality": "Paros"
+  },
+  "keywords": [
+    "New Paros Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Paros_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30243
+  }
+}

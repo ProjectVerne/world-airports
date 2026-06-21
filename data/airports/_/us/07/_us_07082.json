@@ -1,0 +1,33 @@
+{
+  "key": "_us_07082",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0AR0",
+    "local": "0AR0"
+  },
+  "name": "Northwest Medical Center Springdale Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.181509,
+    "longitude": -94.137252,
+    "elevation_ft": 1352,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Springdale"
+  },
+  "keywords": [
+    "SMH Heliport",
+    "Air Evac 4 Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7082
+  }
+}

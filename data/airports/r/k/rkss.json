@@ -1,0 +1,31 @@
+{
+  "key": "rkss",
+  "codes": {
+    "icao": "RKSS",
+    "iata": "GMP",
+    "gps": "RKSS",
+    "local": null
+  },
+  "name": "Gimpo International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.5583,
+    "longitude": 126.791,
+    "elevation_ft": 59,
+    "iso_country": "KR",
+    "iso_region": "KR-11",
+    "municipality": "Seoul"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gimpo_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5656
+  }
+}

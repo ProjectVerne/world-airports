@@ -1,0 +1,31 @@
+{
+  "key": "kcps",
+  "codes": {
+    "icao": "KCPS",
+    "iata": "CPS",
+    "gps": "KCPS",
+    "local": "CPS"
+  },
+  "name": "St Louis Downtown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.570702,
+    "longitude": -90.156197,
+    "elevation_ft": 413,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Cahokia/St Louis"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Louis_Downtown_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19540
+  }
+}

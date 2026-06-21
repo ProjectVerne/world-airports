@@ -1,0 +1,33 @@
+{
+  "key": "hknw",
+  "codes": {
+    "icao": "HKNW",
+    "iata": "WIL",
+    "gps": "HKNW",
+    "local": null
+  },
+  "name": "Nairobi Wilson Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.32172,
+    "longitude": 36.8148,
+    "elevation_ft": 5536,
+    "iso_country": "KE",
+    "iso_region": "KE-47",
+    "municipality": "Nairobi"
+  },
+  "keywords": [
+    "WLN"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wilson_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3215
+  }
+}

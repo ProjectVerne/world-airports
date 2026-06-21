@@ -1,0 +1,33 @@
+{
+  "key": "_us_24286",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS50",
+    "local": "PS50"
+  },
+  "name": "MSM Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.768015,
+    "longitude": -75.723925,
+    "elevation_ft": 1600,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Kingsley"
+  },
+  "keywords": [
+    "Adams Airport",
+    "Huf Airport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24286
+  }
+}

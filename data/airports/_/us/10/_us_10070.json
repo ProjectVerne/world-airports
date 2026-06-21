@@ -1,0 +1,30 @@
+{
+  "key": "_us_10070",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "33TA",
+    "local": "33TA"
+  },
+  "name": "Lake Bonanza Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.333,
+    "longitude": -95.612198,
+    "elevation_ft": 301,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Montgomery"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10070
+  }
+}

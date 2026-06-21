@@ -1,0 +1,30 @@
+{
+  "key": "_us_16230",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AL38",
+    "local": "AL38"
+  },
+  "name": "University of Alabama Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.505901,
+    "longitude": -86.802803,
+    "elevation_ft": 787,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Birmingham"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16230
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "syap",
+  "codes": {
+    "icao": "SYAP",
+    "iata": null,
+    "gps": "SYAP",
+    "local": null
+  },
+  "name": "Apoteri Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.015973,
+    "longitude": -58.602934,
+    "elevation_ft": 301,
+    "iso_country": "GY",
+    "iso_region": "GY-UT",
+    "municipality": "Apoteri"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32410
+  }
+}

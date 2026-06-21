@@ -1,0 +1,31 @@
+{
+  "key": "snga",
+  "codes": {
+    "icao": "SNGA",
+    "iata": "GUZ",
+    "gps": "SNGA",
+    "local": "ES0007"
+  },
+  "name": "Guarapari Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.6465,
+    "longitude": -40.491901,
+    "elevation_ft": 30,
+    "iso_country": "BR",
+    "iso_region": "BR-ES",
+    "municipality": "Guarapari"
+  },
+  "keywords": [],
+  "wikipedia": "http://pt.wikipedia.org/wiki/Aeroporto_de_Guarapari",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 312
+  }
+}

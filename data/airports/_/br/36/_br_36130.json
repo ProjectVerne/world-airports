@@ -1,0 +1,30 @@
+{
+  "key": "_br_36130",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SINE",
+    "local": "SP0532"
+  },
+  "name": "Ibar Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.524477,
+    "longitude": -46.330215,
+    "elevation_ft": 2412,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Poá"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36130
+  }
+}

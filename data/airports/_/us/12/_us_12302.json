@@ -1,0 +1,30 @@
+{
+  "key": "_us_12302",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5CL2",
+    "local": "5CL2"
+  },
+  "name": "St Louise Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.035801,
+    "longitude": -121.571999,
+    "elevation_ft": 214,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Gilroy"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12302
+  }
+}

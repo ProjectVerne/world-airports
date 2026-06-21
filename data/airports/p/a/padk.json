@@ -1,0 +1,31 @@
+{
+  "key": "padk",
+  "codes": {
+    "icao": "PADK",
+    "iata": "ADK",
+    "gps": "PADK",
+    "local": "ADK"
+  },
+  "name": "Adak Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.883564,
+    "longitude": -176.642783,
+    "elevation_ft": 18,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Adak"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Adak_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16092
+  }
+}

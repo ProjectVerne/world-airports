@@ -1,0 +1,30 @@
+{
+  "key": "_us_10735",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3OR7",
+    "local": "3OR7"
+  },
+  "name": "Trojan Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.033199,
+    "longitude": -123.117996,
+    "elevation_ft": 26,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Rainier"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10735
+  }
+}

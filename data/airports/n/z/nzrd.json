@@ -1,0 +1,30 @@
+{
+  "key": "nzrd",
+  "codes": {
+    "icao": "NZRD",
+    "iata": null,
+    "gps": "NZRD",
+    "local": null
+  },
+  "name": "Rosedale Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -36.742492,
+    "longitude": 174.715866,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-AUK",
+    "municipality": "Rosedale"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605007
+  }
+}

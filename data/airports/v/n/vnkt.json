@@ -1,0 +1,34 @@
+{
+  "key": "vnkt",
+  "codes": {
+    "icao": "VNKT",
+    "iata": "KTM",
+    "gps": "VNKT",
+    "local": null
+  },
+  "name": "Tribhuvan International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.6966,
+    "longitude": 85.3591,
+    "elevation_ft": 4390,
+    "iso_country": "NP",
+    "iso_region": "NP-P3",
+    "municipality": "Kathmandu"
+  },
+  "keywords": [
+    "gaucharan",
+    "Bagmati"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tribhuvan_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26596
+  }
+}

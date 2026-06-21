@@ -1,0 +1,31 @@
+{
+  "key": "komk",
+  "codes": {
+    "icao": "KOMK",
+    "iata": "OMK",
+    "gps": "KOMK",
+    "local": "OMK"
+  },
+  "name": "Omak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.464401,
+    "longitude": -119.517998,
+    "elevation_ft": 1305,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Omak"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Omak_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20746
+  }
+}

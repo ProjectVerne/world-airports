@@ -1,0 +1,33 @@
+{
+  "key": "vind",
+  "codes": {
+    "icao": "VIND",
+    "iata": "DXN",
+    "gps": "VIND",
+    "local": null
+  },
+  "name": "Noida International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.179868,
+    "longitude": 77.611843,
+    "elevation_ft": 644,
+    "iso_country": "IN",
+    "iso_region": "IN-UP",
+    "municipality": "Gautam Buddha Nagar"
+  },
+  "keywords": [
+    "IN-0392"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Noida_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 597786
+  }
+}

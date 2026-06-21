@@ -1,0 +1,33 @@
+{
+  "key": "nzdn",
+  "codes": {
+    "icao": "NZDN",
+    "iata": "DUD",
+    "gps": "NZDN",
+    "local": null
+  },
+  "name": "Dunedin International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -45.929017,
+    "longitude": 170.197758,
+    "elevation_ft": 4,
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Dunedin"
+  },
+  "keywords": [
+    "Momona Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dunedin_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5028
+  }
+}

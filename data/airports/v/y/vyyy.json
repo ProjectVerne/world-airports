@@ -1,0 +1,33 @@
+{
+  "key": "vyyy",
+  "codes": {
+    "icao": "VYYY",
+    "iata": "RGN",
+    "gps": "VYYY",
+    "local": null
+  },
+  "name": "Yangon International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.907301,
+    "longitude": 96.133202,
+    "elevation_ft": 109,
+    "iso_country": "MM",
+    "iso_region": "MM-06",
+    "municipality": "Yangon"
+  },
+  "keywords": [
+    "Rangoon"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yangon_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26744
+  }
+}

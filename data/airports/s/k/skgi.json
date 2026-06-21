@@ -1,0 +1,31 @@
+{
+  "key": "skgi",
+  "codes": {
+    "icao": "SKGI",
+    "iata": "GIR",
+    "gps": "SKGI",
+    "local": "GIR"
+  },
+  "name": "Santiago Vila Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.27624,
+    "longitude": -74.7967,
+    "elevation_ft": 900,
+    "iso_country": "CO",
+    "iso_region": "CO-CUN",
+    "municipality": "Girardot"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Santiago_Vila_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6120
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_16101",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AK06",
+    "local": "AK06"
+  },
+  "name": "Denali Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.640088,
+    "longitude": -148.791618,
+    "elevation_ft": 2050,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Denali Park"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16101
+  }
+}

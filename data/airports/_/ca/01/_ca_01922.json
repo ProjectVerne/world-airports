@@ -1,0 +1,34 @@
+{
+  "key": "_ca_01922",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CYTN",
+    "local": null
+  },
+  "name": "Trenton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.611904,
+    "longitude": -62.621102,
+    "elevation_ft": 319,
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Trenton"
+  },
+  "keywords": [
+    "YTN",
+    "CU3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Trenton_Airport_(Nova_Scotia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1922
+  }
+}

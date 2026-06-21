@@ -1,0 +1,33 @@
+{
+  "key": "zpdl",
+  "codes": {
+    "icao": "ZPDL",
+    "iata": "DLU",
+    "gps": "ZPDL",
+    "local": null
+  },
+  "name": "Dali Fengyi Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.649401,
+    "longitude": 100.319,
+    "elevation_ft": 7050,
+    "iso_country": "CN",
+    "iso_region": "CN-53",
+    "municipality": "Dali (Xiaguan)"
+  },
+  "keywords": [
+    "Dali Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dali_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30925
+  }
+}

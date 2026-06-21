@@ -1,0 +1,34 @@
+{
+  "key": "lipe",
+  "codes": {
+    "icao": "LIPE",
+    "iata": "BLQ",
+    "gps": "LIPE",
+    "local": "BO08"
+  },
+  "name": "Bologna Guglielmo Marconi Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.5354,
+    "longitude": 11.2887,
+    "elevation_ft": 123,
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Bologna"
+  },
+  "keywords": [
+    "Guglielmo Marconi Airport",
+    "Borgo Panigale Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bologna_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4354
+  }
+}

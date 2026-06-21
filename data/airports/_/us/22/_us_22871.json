@@ -1,0 +1,33 @@
+{
+  "key": "_us_22871",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ND45",
+    "local": "ND45"
+  },
+  "name": "Essentia Health Fargo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.831501,
+    "longitude": -96.829201,
+    "elevation_ft": 908,
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Fargo"
+  },
+  "keywords": [
+    "Dakota Specialty Institute Hospital Heliport",
+    "Innovis Health Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22871
+  }
+}

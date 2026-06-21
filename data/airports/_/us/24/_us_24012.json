@@ -1,0 +1,30 @@
+{
+  "key": "_us_24012",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA41",
+    "local": "PA41"
+  },
+  "name": "Butler Memorial Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.866699,
+    "longitude": -79.881401,
+    "elevation_ft": 1190,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Butler"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24012
+  }
+}

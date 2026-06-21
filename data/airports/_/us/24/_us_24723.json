@@ -1,0 +1,30 @@
+{
+  "key": "_us_24723",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TA15",
+    "local": "TA15"
+  },
+  "name": "Columbus Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.695243,
+    "longitude": -96.543805,
+    "elevation_ft": 196,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Columbus"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24723
+  }
+}

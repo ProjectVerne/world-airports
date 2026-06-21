@@ -1,0 +1,30 @@
+{
+  "key": "_us_07318",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0MD8",
+    "local": "0MD8"
+  },
+  "name": "Security Ford Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.245899,
+    "longitude": -76.676102,
+    "elevation_ft": 30,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Arbutus"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7318
+  }
+}

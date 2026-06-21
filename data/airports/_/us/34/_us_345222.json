@@ -1,0 +1,32 @@
+{
+  "key": "_us_345222",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "7OK5",
+    "local": "7OK5"
+  },
+  "name": "Sayre Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.313611,
+    "longitude": -99.626196,
+    "elevation_ft": 1874,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Sayre"
+  },
+  "keywords": [
+    "US-4367"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345222
+  }
+}

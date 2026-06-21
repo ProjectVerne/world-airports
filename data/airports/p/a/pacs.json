@@ -1,0 +1,31 @@
+{
+  "key": "pacs",
+  "codes": {
+    "icao": "PACS",
+    "iata": "WSF",
+    "gps": "PACS",
+    "local": "26AK"
+  },
+  "name": "Cape Sarichef Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.583934,
+    "longitude": -164.905727,
+    "elevation_ft": 291,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Cape Sarichef"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cape_Sarichef_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9088
+  }
+}

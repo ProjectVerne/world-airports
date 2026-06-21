@@ -1,0 +1,35 @@
+{
+  "key": "kaus",
+  "codes": {
+    "icao": "KAUS",
+    "iata": "AUS",
+    "gps": "KAUS",
+    "local": "AUS"
+  },
+  "name": "Austin Bergstrom International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.197535,
+    "longitude": -97.662015,
+    "elevation_ft": 542,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Austin"
+  },
+  "keywords": [
+    "BSM",
+    "KBSM",
+    "Bergstrom AFB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Austin-Bergstrom_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3386
+  }
+}

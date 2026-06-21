@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00711",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBR2",
+    "local": "CBR2"
+  },
+  "name": "Kaslo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.903599,
+    "longitude": -116.934998,
+    "elevation_ft": 2354,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Kaslo"
+  },
+  "keywords": [
+    "BR2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kaslo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 711
+  }
+}

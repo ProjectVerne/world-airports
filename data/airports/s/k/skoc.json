@@ -1,0 +1,31 @@
+{
+  "key": "skoc",
+  "codes": {
+    "icao": "SKOC",
+    "iata": "OCV",
+    "gps": "SKOC",
+    "local": "OCV"
+  },
+  "name": "Aguas Claras Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.31506,
+    "longitude": -73.3583,
+    "elevation_ft": 3850,
+    "iso_country": "CO",
+    "iso_region": "CO-NSA",
+    "municipality": "Ocaña"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aguas_Claras_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6142
+  }
+}

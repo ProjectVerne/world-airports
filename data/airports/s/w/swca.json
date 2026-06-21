@@ -1,0 +1,31 @@
+{
+  "key": "swca",
+  "codes": {
+    "icao": "SWCA",
+    "iata": "CAF",
+    "gps": "SWCA",
+    "local": "AM0007"
+  },
+  "name": "Carauari Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.871473,
+    "longitude": -66.897552,
+    "elevation_ft": 355,
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Carauari"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Carauari_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 523
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "rjcc",
+  "codes": {
+    "icao": "RJCC",
+    "iata": "CTS",
+    "gps": "RJCC",
+    "local": null
+  },
+  "name": "New Chitose Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.774753,
+    "longitude": 141.690414,
+    "elevation_ft": 82,
+    "iso_country": "JP",
+    "iso_region": "JP-01",
+    "municipality": "Sapporo"
+  },
+  "keywords": [
+    "新千歳空港"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Chitose_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5544
+  }
+}

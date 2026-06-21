@@ -1,0 +1,30 @@
+{
+  "key": "snic",
+  "codes": {
+    "icao": "SNIC",
+    "iata": "IRE",
+    "gps": "SNIC",
+    "local": "SNIC"
+  },
+  "name": "Irecê Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -11.3399,
+    "longitude": -41.847,
+    "elevation_ft": 2561,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Irecê"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322
+  }
+}

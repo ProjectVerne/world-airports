@@ -1,0 +1,33 @@
+{
+  "key": "edmn",
+  "codes": {
+    "icao": "EDMN",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Mindelheim-Mattsies Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.106945,
+    "longitude": 10.525,
+    "elevation_ft": 1857,
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Tussenhausen"
+  },
+  "keywords": [
+    "GrobAircraft"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Mindelheim-Mattsies",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2251
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_327239",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2TS6",
+    "local": "2TS6"
+  },
+  "name": "Air Evac 139 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.688641,
+    "longitude": -95.550414,
+    "elevation_ft": 459,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Paris"
+  },
+  "keywords": [
+    "US-0858"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 327239
+  }
+}

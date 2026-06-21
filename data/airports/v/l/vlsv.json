@@ -1,0 +1,32 @@
+{
+  "key": "vlsv",
+  "codes": {
+    "icao": "VLSV",
+    "iata": "VNA",
+    "gps": "VLSV",
+    "local": null
+  },
+  "name": "Salavan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.709026,
+    "longitude": 106.410937,
+    "elevation_ft": 574,
+    "iso_country": "LA",
+    "iso_region": "LA-SL",
+    "municipality": "Salavan"
+  },
+  "keywords": [
+    "Saravane"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32585
+  }
+}

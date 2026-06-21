@@ -1,0 +1,34 @@
+{
+  "key": "egja",
+  "codes": {
+    "icao": "EGJA",
+    "iata": "ACI",
+    "gps": "EGJA",
+    "local": null
+  },
+  "name": "Alderney Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.706104,
+    "longitude": -2.21472,
+    "elevation_ft": 290,
+    "iso_country": "GG",
+    "iso_region": "GG-A",
+    "municipality": "Saint Anne"
+  },
+  "keywords": [
+    "The Blaye",
+    "Channel Islands"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Alderney_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2424
+  }
+}

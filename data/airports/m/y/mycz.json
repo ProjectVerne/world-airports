@@ -1,0 +1,33 @@
+{
+  "key": "mycz",
+  "codes": {
+    "icao": "MYCZ",
+    "iata": null,
+    "gps": "MYCZ",
+    "local": "NCZ"
+  },
+  "name": "AUTEC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 24.709722,
+    "longitude": -77.7725,
+    "elevation_ft": 37,
+    "iso_country": "BS",
+    "iso_region": "BS-NS",
+    "municipality": "Andros Town"
+  },
+  "keywords": [
+    "Atlantic Undersea Test and Evaluation Center"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Autec_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300108
+  }
+}

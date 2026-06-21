@@ -1,0 +1,31 @@
+{
+  "key": "nzaa",
+  "codes": {
+    "icao": "NZAA",
+    "iata": "AKL",
+    "gps": "NZAA",
+    "local": null
+  },
+  "name": "Auckland International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -37.01199,
+    "longitude": 174.786331,
+    "elevation_ft": 23,
+    "iso_country": "NZ",
+    "iso_region": "NZ-AUK",
+    "municipality": "Auckland"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Auckland_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5023
+  }
+}

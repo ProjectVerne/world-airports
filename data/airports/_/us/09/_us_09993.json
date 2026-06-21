@@ -1,0 +1,30 @@
+{
+  "key": "_us_09993",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32CL",
+    "local": "32CL"
+  },
+  "name": "Bob's Flying Service Inc Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.833199,
+    "longitude": -121.718002,
+    "elevation_ft": 40,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Knights Landing"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9993
+  }
+}

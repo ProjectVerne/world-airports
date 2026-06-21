@@ -1,0 +1,30 @@
+{
+  "key": "opke",
+  "codes": {
+    "icao": "OPKE",
+    "iata": null,
+    "gps": "OPKE",
+    "local": null
+  },
+  "name": "Chore Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.525999,
+    "longitude": 69.771797,
+    "elevation_ft": 200,
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Chore"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32122
+  }
+}

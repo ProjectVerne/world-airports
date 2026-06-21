@@ -1,0 +1,33 @@
+{
+  "key": "lspv",
+  "codes": {
+    "icao": "LSPV",
+    "iata": null,
+    "gps": "LSPV",
+    "local": null
+  },
+  "name": "Wangen-Lachen Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.204835,
+    "longitude": 8.867346,
+    "elevation_ft": 1335,
+    "iso_country": "CH",
+    "iso_region": "CH-SZ",
+    "municipality": "Wangen"
+  },
+  "keywords": [
+    "Flugplatz Wangen-Lachen"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Wangen-Lachen",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29513
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "loai",
+  "codes": {
+    "icao": "LOAI",
+    "iata": null,
+    "gps": "LOAI",
+    "local": null
+  },
+  "name": "Wiener Neustadt Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.8159,
+    "longitude": 16.24713,
+    "elevation_ft": 0,
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Wiener Neustadt"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 515406
+  }
+}

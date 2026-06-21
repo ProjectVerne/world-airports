@@ -1,0 +1,34 @@
+{
+  "key": "kaik",
+  "codes": {
+    "icao": "KAIK",
+    "iata": "AIK",
+    "gps": "KAIK",
+    "local": "AIK"
+  },
+  "name": "Aiken Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.649399,
+    "longitude": -81.684998,
+    "elevation_ft": 528,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Aiken"
+  },
+  "keywords": [
+    "Aiken Air Force Station",
+    "Aiken Municipal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aiken_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19261
+  }
+}

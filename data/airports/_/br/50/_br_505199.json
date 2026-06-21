@@ -1,0 +1,30 @@
+{
+  "key": "_br_505199",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNHV",
+    "local": "SP0705"
+  },
+  "name": "Vaska Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.388919,
+    "longitude": -46.409476,
+    "elevation_ft": 2651,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Guarulhos"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505199
+  }
+}

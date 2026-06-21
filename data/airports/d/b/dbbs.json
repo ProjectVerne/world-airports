@@ -1,0 +1,31 @@
+{
+  "key": "dbbs",
+  "codes": {
+    "icao": "DBBS",
+    "iata": "SVF",
+    "gps": "DBBS",
+    "local": null
+  },
+  "name": "Savé Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.01817,
+    "longitude": 2.46458,
+    "elevation_ft": 597,
+    "iso_country": "BJ",
+    "iso_region": "BJ-CO",
+    "municipality": "Savé"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sav%C3%A9_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35350
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_br_505207",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SSGX",
+    "local": "SP0246"
+  },
+  "name": "Guacho Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.818111,
+    "longitude": -49.380855,
+    "elevation_ft": 2001,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Santa Cruz do Rio Pardo"
+  },
+  "keywords": [
+    "BR-1753"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505207
+  }
+}

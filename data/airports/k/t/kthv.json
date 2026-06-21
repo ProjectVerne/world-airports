@@ -1,0 +1,31 @@
+{
+  "key": "kthv",
+  "codes": {
+    "icao": "KTHV",
+    "iata": "THV",
+    "gps": "KTHV",
+    "local": "THV"
+  },
+  "name": "York Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.917,
+    "longitude": -76.873001,
+    "elevation_ft": 495,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Thomasville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/York_Airport_(Pennsylvania)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21194
+  }
+}

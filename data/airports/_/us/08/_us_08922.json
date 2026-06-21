@@ -1,0 +1,30 @@
+{
+  "key": "_us_08922",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "22WN",
+    "local": "22WN"
+  },
+  "name": "Southwind Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.0686,
+    "longitude": -90.219498,
+    "elevation_ft": 1030,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Dodgeville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8922
+  }
+}

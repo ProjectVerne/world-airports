@@ -1,0 +1,32 @@
+{
+  "key": "_us_533732",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "7MI9",
+    "local": "7MI9"
+  },
+  "name": "SCS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.158165,
+    "longitude": -85.721273,
+    "elevation_ft": 768,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Sparta"
+  },
+  "keywords": [
+    "US-8514"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 533732
+  }
+}

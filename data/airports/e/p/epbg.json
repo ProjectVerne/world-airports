@@ -1,0 +1,30 @@
+{
+  "key": "epbg",
+  "codes": {
+    "icao": "EPBG",
+    "iata": null,
+    "gps": "EPBG",
+    "local": null
+  },
+  "name": "Gołubie Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 54.1975,
+    "longitude": 18.0025,
+    "elevation_ft": 558,
+    "iso_country": "PL",
+    "iso_region": "PL-U-A",
+    "municipality": "Gołubie"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600199
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "oacc",
+  "codes": {
+    "icao": "OACC",
+    "iata": "CCN",
+    "gps": "OACC",
+    "local": null
+  },
+  "name": "Chaghcharan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.526465,
+    "longitude": 65.27102,
+    "elevation_ft": 7383,
+    "iso_country": "AF",
+    "iso_region": "AF-GHO",
+    "municipality": "Chaghcharan"
+  },
+  "keywords": [
+    "Chakcharan"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chaghcharan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30815
+  }
+}

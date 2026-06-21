@@ -1,0 +1,33 @@
+{
+  "key": "oaks",
+  "codes": {
+    "icao": "OAKS",
+    "iata": "KHT",
+    "gps": "OAKS",
+    "local": null
+  },
+  "name": "Khost International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.284605,
+    "longitude": 69.80734,
+    "elevation_ft": 4204,
+    "iso_country": "AF",
+    "iso_region": "AF-KHO",
+    "municipality": "Khost"
+  },
+  "keywords": [
+    "FOB Chapman"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Khost_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 332240
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_509080",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Northville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.19183,
+    "longitude": -81.88623,
+    "elevation_ft": 630,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Thedford"
+  },
+  "keywords": [
+    "CA-0869"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509080
+  }
+}

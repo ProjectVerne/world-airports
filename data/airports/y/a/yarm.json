@@ -1,0 +1,31 @@
+{
+  "key": "yarm",
+  "codes": {
+    "icao": "YARM",
+    "iata": "ARM",
+    "gps": "YARM",
+    "local": null
+  },
+  "name": "Armidale Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -30.528099,
+    "longitude": 151.617004,
+    "elevation_ft": 3556,
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Armidale"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Armidale_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26893
+  }
+}

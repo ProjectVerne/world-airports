@@ -1,0 +1,30 @@
+{
+  "key": "_us_08015",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "16PA",
+    "local": "16PA"
+  },
+  "name": "Gregg Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.180599,
+    "longitude": -80.127602,
+    "elevation_ft": 1200,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Eighty Four"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8015
+  }
+}

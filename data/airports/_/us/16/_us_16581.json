@@ -1,0 +1,32 @@
+{
+  "key": "_us_16581",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CA50",
+    "local": "CA50"
+  },
+  "name": "Hughes/Malibu Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.045201,
+    "longitude": -118.695034,
+    "elevation_ft": 455,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Malibu"
+  },
+  "keywords": [
+    "L55"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16581
+  }
+}

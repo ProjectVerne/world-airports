@@ -1,0 +1,30 @@
+{
+  "key": "_us_21945",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ME11",
+    "local": "ME11"
+  },
+  "name": "Cooper Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 44.3423,
+    "longitude": -70.287804,
+    "elevation_ft": 373,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Hartford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21945
+  }
+}

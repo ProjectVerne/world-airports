@@ -1,0 +1,31 @@
+{
+  "key": "nznr",
+  "codes": {
+    "icao": "NZNR",
+    "iata": "NPE",
+    "gps": "NZNR",
+    "local": null
+  },
+  "name": "Hawke's Bay Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -39.465801,
+    "longitude": 176.869995,
+    "elevation_ft": 6,
+    "iso_country": "NZ",
+    "iso_region": "NZ-HKB",
+    "municipality": "Napier"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Napier_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5043
+  }
+}

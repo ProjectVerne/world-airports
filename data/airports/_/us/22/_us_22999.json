@@ -1,0 +1,30 @@
+{
+  "key": "_us_22999",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH44",
+    "local": "NH44"
+  },
+  "name": "Dean Kamen Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.916698,
+    "longitude": -71.5121,
+    "elevation_ft": 250,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Bedford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22999
+  }
+}

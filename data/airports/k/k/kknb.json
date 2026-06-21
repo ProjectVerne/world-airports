@@ -1,0 +1,31 @@
+{
+  "key": "kknb",
+  "codes": {
+    "icao": "KKNB",
+    "iata": "KNB",
+    "gps": "KKNB",
+    "local": "KNB"
+  },
+  "name": "Kanab Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.011101,
+    "longitude": -112.530998,
+    "elevation_ft": 4868,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Kanab"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kanab_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20278
+  }
+}

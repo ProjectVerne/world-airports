@@ -1,0 +1,31 @@
+{
+  "key": "hear",
+  "codes": {
+    "icao": "HEAR",
+    "iata": "AAC",
+    "gps": "HEAR",
+    "local": null
+  },
+  "name": "El Arish International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.055324,
+    "longitude": 33.827964,
+    "elevation_ft": 118,
+    "iso_country": "EG",
+    "iso_region": "EG-SIN",
+    "municipality": "El Arish"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Arish_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3176
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "eshm",
+  "codes": {
+    "icao": "ESHM",
+    "iata": null,
+    "gps": "ESHM",
+    "local": null
+  },
+  "name": "Kungälvs Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 57.877115,
+    "longitude": 11.968177,
+    "elevation_ft": 36,
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Kungälv"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600414
+  }
+}

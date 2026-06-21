@@ -1,0 +1,33 @@
+{
+  "key": "sejd",
+  "codes": {
+    "icao": "SEJD",
+    "iata": "TNW",
+    "gps": "SEJD",
+    "local": null
+  },
+  "name": "Jumandy Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.060185,
+    "longitude": -77.580525,
+    "elevation_ft": 1234,
+    "iso_country": "EC",
+    "iso_region": "EC-N",
+    "municipality": "Ahuano"
+  },
+  "keywords": [
+    "Tena"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jumandy_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 309411
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "edtz",
+  "codes": {
+    "icao": "EDTZ",
+    "iata": null,
+    "gps": "EDTZ",
+    "local": null
+  },
+  "name": "Konstanz Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.681435,
+    "longitude": 9.139258,
+    "elevation_ft": 1302,
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Konstanz"
+  },
+  "keywords": [
+    "QKZ",
+    "Flugplatz Konstanz"
+  ],
+  "wikipedia": "http://de.wikipedia.org/wiki/Flugplatz_Konstanz",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28623
+  }
+}

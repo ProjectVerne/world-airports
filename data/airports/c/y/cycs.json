@@ -1,0 +1,31 @@
+{
+  "key": "cycs",
+  "codes": {
+    "icao": "CYCS",
+    "iata": "YCS",
+    "gps": "CYCS",
+    "local": null
+  },
+  "name": "Chesterfield Inlet Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.346901,
+    "longitude": -90.731102,
+    "elevation_ft": 32,
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Chesterfield Inlet"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chesterfield_Inlet_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1697
+  }
+}

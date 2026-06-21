@@ -1,0 +1,36 @@
+{
+  "key": "vnlk",
+  "codes": {
+    "icao": "VNLK",
+    "iata": "LUA",
+    "gps": "VNLK",
+    "local": null
+  },
+  "name": "Tenzing-Hillary Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.686768,
+    "longitude": 86.729479,
+    "elevation_ft": 9380,
+    "iso_country": "NP",
+    "iso_region": "NP-P1",
+    "municipality": "Lukla"
+  },
+  "keywords": [
+    "Lukla",
+    "Mount Everest",
+    "Tenzing Norgay",
+    "Sir Edmund Hillary"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tenzing-Hillary_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28150
+  }
+}

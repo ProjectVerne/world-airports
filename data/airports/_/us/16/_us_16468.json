@@ -1,0 +1,30 @@
+{
+  "key": "_us_16468",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AZ81",
+    "local": "AZ81"
+  },
+  "name": "Boeing Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.473099,
+    "longitude": -111.726997,
+    "elevation_ft": 1385,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Mesa"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16468
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ksus",
+  "codes": {
+    "icao": "KSUS",
+    "iata": "SUS",
+    "gps": "KSUS",
+    "local": "SUS"
+  },
+  "name": "Spirit of St Louis Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.662102,
+    "longitude": -90.652,
+    "elevation_ft": 463,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "St Louis"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Spirit_of_St._Louis_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3907
+  }
+}

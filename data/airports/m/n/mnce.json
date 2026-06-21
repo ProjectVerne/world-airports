@@ -1,0 +1,31 @@
+{
+  "key": "mnce",
+  "codes": {
+    "icao": "MNCE",
+    "iata": "ECI",
+    "gps": "MNCE",
+    "local": "ECI"
+  },
+  "name": "Costa Esmeralda Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.427542,
+    "longitude": -86.033361,
+    "elevation_ft": 84,
+    "iso_country": "NI",
+    "iso_region": "NI-RI",
+    "municipality": "Tola"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Costa_Esmeralda_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 316239
+  }
+}

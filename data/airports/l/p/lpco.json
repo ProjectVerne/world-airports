@@ -1,0 +1,33 @@
+{
+  "key": "lpco",
+  "codes": {
+    "icao": "LPCO",
+    "iata": null,
+    "gps": "LPCO",
+    "local": null
+  },
+  "name": "Aerodromo Municipal de Coimbra",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.158758,
+    "longitude": -8.470815,
+    "elevation_ft": 587,
+    "iso_country": "PT",
+    "iso_region": "PT-06",
+    "municipality": "Coimbra"
+  },
+  "keywords": [
+    "CBP"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Coimbra_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4443
+  }
+}

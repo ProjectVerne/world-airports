@@ -1,0 +1,30 @@
+{
+  "key": "ebbm",
+  "codes": {
+    "icao": "EBBM",
+    "iata": null,
+    "gps": "EBBM",
+    "local": null
+  },
+  "name": "Michelbeke Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.830885,
+    "longitude": 3.774096,
+    "elevation_ft": 0,
+    "iso_country": "BE",
+    "iso_region": "BE-VOV",
+    "municipality": "Brakel"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323793
+  }
+}

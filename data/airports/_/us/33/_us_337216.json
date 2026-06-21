@@ -1,0 +1,32 @@
+{
+  "key": "_us_337216",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IN95",
+    "local": "IN95"
+  },
+  "name": "Gateway Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.974536,
+    "longitude": -87.446162,
+    "elevation_ft": 395,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Newburgh"
+  },
+  "keywords": [
+    "US-1983"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 337216
+  }
+}

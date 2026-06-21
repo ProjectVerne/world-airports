@@ -1,0 +1,31 @@
+{
+  "key": "cyyy",
+  "codes": {
+    "icao": "CYYY",
+    "iata": "YYY",
+    "gps": "CYYY",
+    "local": null
+  },
+  "name": "Mont Joli Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.608601,
+    "longitude": -68.208099,
+    "elevation_ft": 172,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Mont-Joli"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mont-Joli_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1989
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kafj",
+  "codes": {
+    "icao": "KAFJ",
+    "iata": "WSG",
+    "gps": "KAFJ",
+    "local": "AFJ"
+  },
+  "name": "Washington County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.136501,
+    "longitude": -80.290199,
+    "elevation_ft": 1184,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Washington"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Washington_County_Airport_(Pennsylvania)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19246
+  }
+}

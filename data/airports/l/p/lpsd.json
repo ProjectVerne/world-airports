@@ -1,0 +1,33 @@
+{
+  "key": "lpsd",
+  "codes": {
+    "icao": "LPSD",
+    "iata": null,
+    "gps": "LPSD",
+    "local": null
+  },
+  "name": "Sardoal Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.54254,
+    "longitude": -8.160328,
+    "elevation_ft": 712,
+    "iso_country": "PT",
+    "iso_region": "PT-14",
+    "municipality": "Sardoal"
+  },
+  "keywords": [
+    "Tapada da Torre",
+    "PT-0048"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 321270
+  }
+}

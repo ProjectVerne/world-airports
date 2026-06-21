@@ -1,0 +1,30 @@
+{
+  "key": "_us_24256",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS16",
+    "local": "PS16"
+  },
+  "name": "Holy Redeemer Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.110401,
+    "longitude": -75.082901,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philadelphia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24256
+  }
+}

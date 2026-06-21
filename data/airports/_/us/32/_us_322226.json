@@ -1,0 +1,33 @@
+{
+  "key": "_us_322226",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "12NJ",
+    "local": "12NJ"
+  },
+  "name": "Honeywell Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.837083,
+    "longitude": -74.476694,
+    "elevation_ft": 201,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Morris Plains"
+  },
+  "keywords": [
+    "Johnson & Johnson Heliport",
+    "US-0432"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322226
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "key": "epkt",
+  "codes": {
+    "icao": "EPKT",
+    "iata": "KTW",
+    "gps": "EPKT",
+    "local": null
+  },
+  "name": "Katowice Wojciech Korfanty International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.476015,
+    "longitude": 19.080705,
+    "elevation_ft": 995,
+    "iso_country": "PL",
+    "iso_region": "PL-SL",
+    "municipality": "Katowice"
+  },
+  "keywords": [
+    "Pyrzowice",
+    "Dąbrowa Górnicza",
+    "Katowice",
+    "Silesia",
+    "GOP",
+    "Silesia Metropolis",
+    "Gliwice",
+    "Piekary Śląskie",
+    "Bytom",
+    "Zabrze",
+    "Sosnowiec"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Katowice_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2613
+  }
+}

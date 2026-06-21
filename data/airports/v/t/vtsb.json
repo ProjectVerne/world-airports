@@ -1,0 +1,31 @@
+{
+  "key": "vtsb",
+  "codes": {
+    "icao": "VTSB",
+    "iata": "URT",
+    "gps": "VTSB",
+    "local": null
+  },
+  "name": "Surat Thani Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.1326,
+    "longitude": 99.135597,
+    "elevation_ft": 20,
+    "iso_country": "TH",
+    "iso_region": "TH-84",
+    "municipality": "Surat Thani"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Surat_Thani_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26665
+  }
+}

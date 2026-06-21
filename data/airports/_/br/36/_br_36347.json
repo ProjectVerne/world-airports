@@ -1,0 +1,33 @@
+{
+  "key": "_br_36347",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SSIL",
+    "local": "SP0752"
+  },
+  "name": "Blau Farmacêutica Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.598274,
+    "longitude": -46.897845,
+    "elevation_ft": 2658,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Cotia"
+  },
+  "keywords": [
+    "SIWX",
+    "Blausiegel"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36347
+  }
+}

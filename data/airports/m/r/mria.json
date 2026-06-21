@@ -1,0 +1,31 @@
+{
+  "key": "mria",
+  "codes": {
+    "icao": "MRIA",
+    "iata": "PBP",
+    "gps": "MRIA",
+    "local": null
+  },
+  "name": "Islita Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.85611,
+    "longitude": -85.370796,
+    "elevation_ft": 7,
+    "iso_country": "CR",
+    "iso_region": "CR-G",
+    "municipality": "Nandayure"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Punta_Islita_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32147
+  }
+}

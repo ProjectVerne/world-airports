@@ -1,0 +1,31 @@
+{
+  "key": "kjot",
+  "codes": {
+    "icao": "KJOT",
+    "iata": "JOT",
+    "gps": "KJOT",
+    "local": "JOT"
+  },
+  "name": "Joliet Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.517799,
+    "longitude": -88.175499,
+    "elevation_ft": 582,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Joliet"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Joliet_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20219
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "schr",
+  "codes": {
+    "icao": "SCHR",
+    "iata": "LGR",
+    "gps": "SCHR",
+    "local": null
+  },
+  "name": "Cochrane Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -47.243591,
+    "longitude": -72.58815,
+    "elevation_ft": 643,
+    "iso_country": "CL",
+    "iso_region": "CL-AI",
+    "municipality": "Cochrane"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cochrane_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6024
+  }
+}

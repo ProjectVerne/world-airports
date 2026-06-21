@@ -1,0 +1,33 @@
+{
+  "key": "hsrn",
+  "codes": {
+    "icao": "HSRN",
+    "iata": null,
+    "gps": "HSRN",
+    "local": null
+  },
+  "name": "Renk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.644773,
+    "longitude": 32.81045,
+    "elevation_ft": 1278,
+    "iso_country": "SS",
+    "iso_region": "SS-NU",
+    "municipality": "Renk"
+  },
+  "keywords": [
+    "Renk City"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Renk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 299486
+  }
+}

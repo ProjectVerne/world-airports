@@ -1,0 +1,31 @@
+{
+  "key": "efhk",
+  "codes": {
+    "icao": "EFHK",
+    "iata": "HEL",
+    "gps": "EFHK",
+    "local": null
+  },
+  "name": "Helsinki Vantaa Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.318363,
+    "longitude": 24.963341,
+    "elevation_ft": 179,
+    "iso_country": "FI",
+    "iso_region": "FI-18",
+    "municipality": "Helsinki (Vantaa)"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Helsinki_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2307
+  }
+}

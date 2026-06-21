@@ -1,0 +1,30 @@
+{
+  "key": "_us_08849",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "21NC",
+    "local": "21NC"
+  },
+  "name": "Isbell Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.186699,
+    "longitude": -76.279404,
+    "elevation_ft": 12,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Hertford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8849
+  }
+}

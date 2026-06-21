@@ -1,0 +1,30 @@
+{
+  "key": "liag",
+  "codes": {
+    "icao": "LIAG",
+    "iata": null,
+    "gps": "LIAG",
+    "local": null
+  },
+  "name": "Colacem Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.341513,
+    "longitude": 12.576869,
+    "elevation_ft": 1532,
+    "iso_country": "IT",
+    "iso_region": "IT-55",
+    "municipality": "Gubbio (PG)"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599892
+  }
+}

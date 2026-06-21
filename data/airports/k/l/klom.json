@@ -1,0 +1,31 @@
+{
+  "key": "klom",
+  "codes": {
+    "icao": "KLOM",
+    "iata": "BBX",
+    "gps": "KLOM",
+    "local": "LOM"
+  },
+  "name": "Wings Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.137501,
+    "longitude": -75.265099,
+    "elevation_ft": 302,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philadelphia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wings_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20365
+  }
+}

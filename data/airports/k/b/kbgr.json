@@ -1,0 +1,31 @@
+{
+  "key": "kbgr",
+  "codes": {
+    "icao": "KBGR",
+    "iata": "BGR",
+    "gps": "KBGR",
+    "local": "BGR"
+  },
+  "name": "Bangor International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.806364,
+    "longitude": -68.826668,
+    "elevation_ft": 192,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Bangor"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bangor_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3405
+  }
+}

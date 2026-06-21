@@ -1,0 +1,30 @@
+{
+  "key": "svds",
+  "codes": {
+    "icao": "SVDS",
+    "iata": null,
+    "gps": null,
+    "local": "SVWD"
+  },
+  "name": "CODSA Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.780924,
+    "longitude": -61.125569,
+    "elevation_ft": 2850,
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40116
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08791",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "20IS",
+    "local": "20IS"
+  },
+  "name": "Mitek Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.4972,
+    "longitude": -89.791801,
+    "elevation_ft": 777,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Winslow"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8791
+  }
+}

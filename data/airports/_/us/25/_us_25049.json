@@ -1,0 +1,30 @@
+{
+  "key": "_us_25049",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS33",
+    "local": "TS33"
+  },
+  "name": "Tex-Star Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.7822,
+    "longitude": -95.417397,
+    "elevation_ft": 83,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25049
+  }
+}

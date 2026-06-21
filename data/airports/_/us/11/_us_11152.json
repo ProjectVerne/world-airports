@@ -1,0 +1,32 @@
+{
+  "key": "_us_11152",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "46CL",
+    "local": "46CL"
+  },
+  "name": "AT&T Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.039611,
+    "longitude": -118.261704,
+    "elevation_ft": 679,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Los Angeles"
+  },
+  "keywords": [
+    "Transamerica Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11152
+  }
+}

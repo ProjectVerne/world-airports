@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01700",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CYCX",
+    "local": null
+  },
+  "name": "CFB Gagetown Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.837766,
+    "longitude": -66.436729,
+    "elevation_ft": 166,
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Oromocto"
+  },
+  "keywords": [
+    "YCX"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/CFB_Gagetown",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1700
+  }
+}

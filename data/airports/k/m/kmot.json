@@ -1,0 +1,31 @@
+{
+  "key": "kmot",
+  "codes": {
+    "icao": "KMOT",
+    "iata": "MOT",
+    "gps": "KMOT",
+    "local": "MOT"
+  },
+  "name": "Minot International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.25801,
+    "longitude": -101.279123,
+    "elevation_ft": 1716,
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Minot"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Minot_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3702
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_br_335400",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SIGD",
+    "local": "ES0015"
+  },
+  "name": "Guidoni Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -19.190467,
+    "longitude": -40.630563,
+    "elevation_ft": 538,
+    "iso_country": "BR",
+    "iso_region": "BR-ES",
+    "municipality": "São Domingos do Norte"
+  },
+  "keywords": [
+    "BR-0865"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 335400
+  }
+}

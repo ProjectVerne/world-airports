@@ -1,0 +1,33 @@
+{
+  "key": "_us_45757",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Nielsen Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.919796,
+    "longitude": -77.140524,
+    "elevation_ft": 1040,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Tioga"
+  },
+  "keywords": [
+    "99PA",
+    "US-12557"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45757
+  }
+}

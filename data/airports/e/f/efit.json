@@ -1,0 +1,31 @@
+{
+  "key": "efit",
+  "codes": {
+    "icao": "EFIT",
+    "iata": "KTQ",
+    "gps": "EFIT",
+    "local": null
+  },
+  "name": "Kitee Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.1661,
+    "longitude": 30.073601,
+    "elevation_ft": 364,
+    "iso_country": "FI",
+    "iso_region": "FI-13",
+    "municipality": "Kitee"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kitee_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2313
+  }
+}

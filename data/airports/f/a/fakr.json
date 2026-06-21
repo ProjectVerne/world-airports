@@ -1,0 +1,32 @@
+{
+  "key": "fakr",
+  "codes": {
+    "icao": "FAKR",
+    "iata": null,
+    "gps": "FAKR",
+    "local": null
+  },
+  "name": "Krugersdorp Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.080826,
+    "longitude": 27.725915,
+    "elevation_ft": 5499,
+    "iso_country": "ZA",
+    "iso_region": "ZA-GT",
+    "municipality": "Krugersdorp"
+  },
+  "keywords": [
+    "Jack Taylor"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2796
+  }
+}

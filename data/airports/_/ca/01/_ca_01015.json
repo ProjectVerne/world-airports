@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01015",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFX3",
+    "local": "CFX3"
+  },
+  "name": "Doig Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.956315,
+    "longitude": -119.514886,
+    "elevation_ft": 3500,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Doig"
+  },
+  "keywords": [
+    "FX3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Doig_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1015
+  }
+}

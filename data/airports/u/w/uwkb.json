@@ -1,0 +1,34 @@
+{
+  "key": "uwkb",
+  "codes": {
+    "icao": "UWKB",
+    "iata": "UUA",
+    "gps": "UWKB",
+    "local": null
+  },
+  "name": "Bugulma Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.641184,
+    "longitude": 52.800229,
+    "elevation_ft": 991,
+    "iso_country": "RU",
+    "iso_region": "RU-TA",
+    "municipality": "Bugulma"
+  },
+  "keywords": [
+    "УВКБ",
+    "Аэропорт Бугульма"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bugulma_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35174
+  }
+}

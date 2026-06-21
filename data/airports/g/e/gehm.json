@@ -1,0 +1,32 @@
+{
+  "key": "gehm",
+  "codes": {
+    "icao": "GEHM",
+    "iata": null,
+    "gps": "GEHM",
+    "local": null
+  },
+  "name": "Melilla Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.3021,
+    "longitude": -2.94448,
+    "elevation_ft": 225,
+    "iso_country": "ES",
+    "iso_region": "ES-ML",
+    "municipality": "Melilla"
+  },
+  "keywords": [
+    "ES-0324"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 429793
+  }
+}

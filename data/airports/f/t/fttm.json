@@ -1,0 +1,31 @@
+{
+  "key": "fttm",
+  "codes": {
+    "icao": "FTTM",
+    "iata": "MVO",
+    "gps": "FTTM",
+    "local": null
+  },
+  "name": "Mongo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.17048,
+    "longitude": 18.675642,
+    "elevation_ft": 1414,
+    "iso_country": "TD",
+    "iso_region": "TD-GR",
+    "municipality": "Mongo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mongo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31975
+  }
+}

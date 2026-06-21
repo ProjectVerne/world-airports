@@ -1,0 +1,31 @@
+{
+  "key": "ayfa",
+  "codes": {
+    "icao": "AYFA",
+    "iata": "FNE",
+    "gps": "AYFA",
+    "local": "FANE"
+  },
+  "name": "Fane Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.549278,
+    "longitude": 147.085833,
+    "elevation_ft": 4500,
+    "iso_country": "PG",
+    "iso_region": "PG-CPM",
+    "municipality": "Fane Mission"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fane_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307150
+  }
+}

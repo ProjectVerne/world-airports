@@ -1,0 +1,32 @@
+{
+  "key": "_br_343200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SWCV",
+    "local": "SP1276"
+  },
+  "name": "CMA Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -20.569706,
+    "longitude": -48.69323,
+    "elevation_ft": 1683,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Barretos"
+  },
+  "keywords": [
+    "BR-1515"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 343200
+  }
+}

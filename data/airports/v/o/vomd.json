@@ -1,0 +1,33 @@
+{
+  "key": "vomd",
+  "codes": {
+    "icao": "VOMD",
+    "iata": "IXM",
+    "gps": "VOMD",
+    "local": null
+  },
+  "name": "Madurai Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.83451,
+    "longitude": 78.093399,
+    "elevation_ft": 459,
+    "iso_country": "IN",
+    "iso_region": "IN-TN",
+    "municipality": "Madurai"
+  },
+  "keywords": [
+    "Madurai Air Force Station"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Madurai_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26616
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "cydo",
+  "codes": {
+    "icao": "CYDO",
+    "iata": "YDO",
+    "gps": "CYDO",
+    "local": null
+  },
+  "name": "Dolbeau-Saint-Felicien Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.7785,
+    "longitude": -72.375,
+    "elevation_ft": 372,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Dolbeau-Saint-Felicien"
+  },
+  "keywords": [
+    "Dolbeau St Methode"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dolbeau-St-F%C3%A9licien_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1711
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFU9",
+    "local": "CFU9"
+  },
+  "name": "Olds (Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.801408,
+    "longitude": -114.116887,
+    "elevation_ft": 3360,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Olds"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1003
+  }
+}

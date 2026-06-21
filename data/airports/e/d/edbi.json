@@ -1,0 +1,33 @@
+{
+  "key": "edbi",
+  "codes": {
+    "icao": "EDBI",
+    "iata": null,
+    "gps": "EDBI",
+    "local": null
+  },
+  "name": "Zwickau Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.701668,
+    "longitude": 12.453889,
+    "elevation_ft": 1050,
+    "iso_country": "DE",
+    "iso_region": "DE-SN",
+    "municipality": "Zwickau"
+  },
+  "keywords": [
+    "Flugplatz Zwickau"
+  ],
+  "wikipedia": "http://de.wikipedia.org/wiki/Flugplatz_Zwickau",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28766
+  }
+}

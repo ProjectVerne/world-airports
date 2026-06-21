@@ -1,0 +1,31 @@
+{
+  "key": "kdec",
+  "codes": {
+    "icao": "KDEC",
+    "iata": "DEC",
+    "gps": "KDEC",
+    "local": "DEC"
+  },
+  "name": "Decatur Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.834599,
+    "longitude": -88.8657,
+    "elevation_ft": 682,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Decatur"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Decatur_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3485
+  }
+}

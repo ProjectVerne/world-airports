@@ -1,0 +1,33 @@
+{
+  "key": "kdfw",
+  "codes": {
+    "icao": "KDFW",
+    "iata": "DFW",
+    "gps": "KDFW",
+    "local": "DFW"
+  },
+  "name": "Dallas Fort Worth International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.896801,
+    "longitude": -97.038002,
+    "elevation_ft": 607,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dallas-Fort Worth"
+  },
+  "keywords": [
+    "QDF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dallas/Fort_Worth_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3488
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_24415",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SC17",
+    "local": "SC17"
+  },
+  "name": "Russell Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.357703,
+    "longitude": -80.459146,
+    "elevation_ft": 110,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Holly Hill"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24415
+  }
+}

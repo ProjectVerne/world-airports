@@ -1,0 +1,30 @@
+{
+  "key": "_us_10365",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3AK4",
+    "local": "3AK4"
+  },
+  "name": "Johnson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.632522,
+    "longitude": -151.337657,
+    "elevation_ft": 102,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Kenai"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10365
+  }
+}

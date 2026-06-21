@@ -1,0 +1,33 @@
+{
+  "key": "loak",
+  "codes": {
+    "icao": "LOAK",
+    "iata": null,
+    "gps": "LOAK",
+    "local": null
+  },
+  "name": "Krems University Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.412753,
+    "longitude": 15.615224,
+    "elevation_ft": 647,
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Krems"
+  },
+  "keywords": [
+    "Christophorus 2",
+    "AT-0053"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43810
+  }
+}

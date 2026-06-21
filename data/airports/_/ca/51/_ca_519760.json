@@ -1,0 +1,32 @@
+{
+  "key": "_ca_519760",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPV3",
+    "local": "CPV3"
+  },
+  "name": "Victoria Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.190458,
+    "longitude": -105.783584,
+    "elevation_ft": 1515,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Prince Albert"
+  },
+  "keywords": [
+    "CA-0921"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 519760
+  }
+}

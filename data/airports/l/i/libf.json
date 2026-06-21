@@ -1,0 +1,33 @@
+{
+  "key": "libf",
+  "codes": {
+    "icao": "LIBF",
+    "iata": "FOG",
+    "gps": "LIBF",
+    "local": "FG05"
+  },
+  "name": "Foggia Gino Lisa Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.433596,
+    "longitude": 15.534566,
+    "elevation_ft": 265,
+    "iso_country": "IT",
+    "iso_region": "IT-75",
+    "municipality": "Foggia (FG)"
+  },
+  "keywords": [
+    "Foggia Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Foggia_%22Gino_Lisa%22_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4311
+  }
+}

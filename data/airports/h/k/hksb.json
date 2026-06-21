@@ -1,0 +1,33 @@
+{
+  "key": "hksb",
+  "codes": {
+    "icao": "HKSB",
+    "iata": "UAS",
+    "gps": "HKSB",
+    "local": null
+  },
+  "name": "Samburu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 0.534069,
+    "longitude": 37.531991,
+    "elevation_ft": 3295,
+    "iso_country": "KE",
+    "iso_region": "KE-11",
+    "municipality": "Isiolo West"
+  },
+  "keywords": [
+    "Buffalo Spring"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Samburu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32500
+  }
+}

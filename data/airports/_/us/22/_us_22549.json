@@ -1,0 +1,33 @@
+{
+  "key": "_us_22549",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Brown Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 36.708801,
+    "longitude": -90.268204,
+    "elevation_ft": 323,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Broseley"
+  },
+  "keywords": [
+    "MU56",
+    "US-11784"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22549
+  }
+}

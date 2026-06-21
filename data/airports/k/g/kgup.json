@@ -1,0 +1,31 @@
+{
+  "key": "kgup",
+  "codes": {
+    "icao": "KGUP",
+    "iata": "GUP",
+    "gps": "KGUP",
+    "local": "GUP"
+  },
+  "name": "Gallup Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.511653,
+    "longitude": -108.788166,
+    "elevation_ft": 6472,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Gallup"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gallup_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3572
+  }
+}

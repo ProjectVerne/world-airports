@@ -1,0 +1,31 @@
+{
+  "key": "mrqp",
+  "codes": {
+    "icao": "MRQP",
+    "iata": "XQP",
+    "gps": "MRQP",
+    "local": null
+  },
+  "name": "Quepos Managua Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.44316,
+    "longitude": -84.129799,
+    "elevation_ft": 85,
+    "iso_country": "CR",
+    "iso_region": "CR-P",
+    "municipality": "Quepos"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Quepos_Managua_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4814
+  }
+}

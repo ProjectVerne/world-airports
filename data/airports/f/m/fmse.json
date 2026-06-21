@@ -1,0 +1,30 @@
+{
+  "key": "fmse",
+  "codes": {
+    "icao": "FMSE",
+    "iata": null,
+    "gps": "FMSE",
+    "local": null
+  },
+  "name": "Betroka Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.274308,
+    "longitude": 46.124983,
+    "elevation_ft": 2841,
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Betroka"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31188
+  }
+}

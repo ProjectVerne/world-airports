@@ -1,0 +1,34 @@
+{
+  "key": "lsph",
+  "codes": {
+    "icao": "LSPH",
+    "iata": null,
+    "gps": "LSPH",
+    "local": null
+  },
+  "name": "Winterthur Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.514999,
+    "longitude": 8.77194,
+    "elevation_ft": 1506,
+    "iso_country": "CH",
+    "iso_region": "CH-ZH",
+    "municipality": "Winterthur"
+  },
+  "keywords": [
+    "Flugplatz Winterthur",
+    "Flugplatz Hegmatten"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Winterthur",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29508
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_17102",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "DC06",
+    "local": "DC06"
+  },
+  "name": "Metropolitan Police Department 2nd District Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.934833,
+    "longitude": -77.074821,
+    "elevation_ft": 106,
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington"
+  },
+  "keywords": [
+    "MPD"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17102
+  }
+}

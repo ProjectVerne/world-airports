@@ -1,0 +1,31 @@
+{
+  "key": "khnb",
+  "codes": {
+    "icao": "KHNB",
+    "iata": "HNB",
+    "gps": "KHNB",
+    "local": "HNB"
+  },
+  "name": "Huntingburg Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.249001,
+    "longitude": -86.953697,
+    "elevation_ft": 529,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Huntingburg"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Huntingburg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20067
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "lokk",
+  "codes": {
+    "icao": "LOKK",
+    "iata": null,
+    "gps": "LOKK",
+    "local": null
+  },
+  "name": "Hallegg Castle HLS",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.647659,
+    "longitude": 14.244107,
+    "elevation_ft": 1493,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Klagenfurt"
+  },
+  "keywords": [
+    "AT-0041"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43797
+  }
+}

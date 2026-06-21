@@ -1,0 +1,35 @@
+{
+  "key": "yaba",
+  "codes": {
+    "icao": "YABA",
+    "iata": "ALH",
+    "gps": "YABA",
+    "local": null
+  },
+  "name": "Albany Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.943333,
+    "longitude": 117.808889,
+    "elevation_ft": 233,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Albany"
+  },
+  "keywords": [
+    "ABA",
+    "YPAL",
+    "Harry Riggs Albany Regional"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Albany_Airport_(Australia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26888
+  }
+}

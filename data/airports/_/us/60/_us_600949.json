@@ -1,0 +1,32 @@
+{
+  "key": "_us_600949",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "29AZ",
+    "local": "29AZ"
+  },
+  "name": "Abrazo Buckeye Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.458289,
+    "longitude": -112.511497,
+    "elevation_ft": 1093,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Buckeye"
+  },
+  "keywords": [
+    "US-12765"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600949
+  }
+}

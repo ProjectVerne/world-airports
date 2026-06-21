@@ -1,0 +1,35 @@
+{
+  "key": "lbrs",
+  "codes": {
+    "icao": "LBRS",
+    "iata": "ROU",
+    "gps": "LBRS",
+    "local": null
+  },
+  "name": "Ruse Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.694801,
+    "longitude": 26.0567,
+    "elevation_ft": 614,
+    "iso_country": "BG",
+    "iso_region": "BG-18",
+    "municipality": "Shtraklevo"
+  },
+  "keywords": [
+    "LB24",
+    "Shtraklevo Air Base",
+    "Shtruklovo"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ruse_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 92
+  }
+}

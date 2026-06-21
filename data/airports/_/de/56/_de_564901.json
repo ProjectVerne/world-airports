@@ -1,0 +1,32 @@
+{
+  "key": "_de_564901",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Ingolstadt Municipal Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.77016,
+    "longitude": 11.41878,
+    "elevation_ft": 1234,
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Ingolstadt"
+  },
+  "keywords": [
+    "DE-0835"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 564901
+  }
+}

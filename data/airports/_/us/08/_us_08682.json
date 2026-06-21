@@ -1,0 +1,30 @@
+{
+  "key": "_us_08682",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1TN5",
+    "local": "1TN5"
+  },
+  "name": "Maury Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.556198,
+    "longitude": -87.053902,
+    "elevation_ft": 651,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Columbia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8682
+  }
+}

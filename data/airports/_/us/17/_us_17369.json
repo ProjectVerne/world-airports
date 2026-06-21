@@ -1,0 +1,32 @@
+{
+  "key": "_us_17369",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KFHK",
+    "local": "FHK"
+  },
+  "name": "Knox Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.319633,
+    "longitude": -85.673806,
+    "elevation_ft": 225,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Fort Novosel/Ozark"
+  },
+  "keywords": [
+    "Fort Rucker"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17369
+  }
+}

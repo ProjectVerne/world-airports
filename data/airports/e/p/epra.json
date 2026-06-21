@@ -1,0 +1,37 @@
+{
+  "key": "epra",
+  "codes": {
+    "icao": "EPRA",
+    "iata": "RDO",
+    "gps": "EPRA",
+    "local": null
+  },
+  "name": "Warsaw Radom Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.38937,
+    "longitude": 21.214742,
+    "elevation_ft": 610,
+    "iso_country": "PL",
+    "iso_region": "PL-MZ",
+    "municipality": "Radom"
+  },
+  "keywords": [
+    "Radom Military Air Base",
+    "Radom-Sadków Airport",
+    "Warszawa-Radom",
+    "Lotnisko Warszawa-Radom im. Bohaterów Radomskiego Czerwca 1976 Roku",
+    "Heroes of Radom June 1976 Warsaw Radom"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Warsaw_Radom_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2628
+  }
+}

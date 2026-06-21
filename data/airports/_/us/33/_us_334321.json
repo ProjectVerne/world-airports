@@ -1,0 +1,33 @@
+{
+  "key": "_us_334321",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VT24",
+    "local": "VT24"
+  },
+  "name": "West Street Property Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.987683,
+    "longitude": -73.25274,
+    "elevation_ft": 181,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Cornwall"
+  },
+  "keywords": [
+    "Quesnel Farm",
+    "US-1279"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 334321
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "keri",
+  "codes": {
+    "icao": "KERI",
+    "iata": "ERI",
+    "gps": "KERI",
+    "local": "ERI"
+  },
+  "name": "Erie International Tom Ridge Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.083127,
+    "longitude": -80.173867,
+    "elevation_ft": 732,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Erie"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Erie_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3515
+  }
+}

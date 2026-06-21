@@ -1,0 +1,31 @@
+{
+  "key": "kand",
+  "codes": {
+    "icao": "KAND",
+    "iata": "AND",
+    "gps": "KAND",
+    "local": "AND"
+  },
+  "name": "Anderson Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.494598,
+    "longitude": -82.709396,
+    "elevation_ft": 782,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Anderson"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Anderson_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3379
+  }
+}

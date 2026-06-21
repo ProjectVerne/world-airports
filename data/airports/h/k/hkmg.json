@@ -1,0 +1,32 @@
+{
+  "key": "hkmg",
+  "codes": {
+    "icao": "HKMG",
+    "iata": null,
+    "gps": "HKMG",
+    "local": null
+  },
+  "name": "Magadi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.947953,
+    "longitude": 36.279916,
+    "elevation_ft": 1955,
+    "iso_country": "KE",
+    "iso_region": "KE-34",
+    "municipality": "Magadi"
+  },
+  "keywords": [
+    "KE-7001"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42534
+  }
+}

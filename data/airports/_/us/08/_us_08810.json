@@ -1,0 +1,30 @@
+{
+  "key": "_us_08810",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "20PN",
+    "local": "20PN"
+  },
+  "name": "Msd Landing Area Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.213699,
+    "longitude": -75.308197,
+    "elevation_ft": 350,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "West Point"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8810
+  }
+}

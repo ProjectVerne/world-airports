@@ -1,0 +1,36 @@
+{
+  "key": "unbb",
+  "codes": {
+    "icao": "UNBB",
+    "iata": "BAX",
+    "gps": "UNBB",
+    "local": null
+  },
+  "name": "Barnaul Gherman Titov International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.361285,
+    "longitude": 83.539701,
+    "elevation_ft": 837,
+    "iso_country": "RU",
+    "iso_region": "RU-ALT",
+    "municipality": "Barnaul"
+  },
+  "keywords": [
+    "Аэропорт Барнаул",
+    "Barnaul West",
+    "Mikhaylovka",
+    "Novomikhaylovka"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Barnaul_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6504
+  }
+}

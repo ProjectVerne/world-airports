@@ -1,0 +1,33 @@
+{
+  "key": "llha",
+  "codes": {
+    "icao": "LLHA",
+    "iata": "HFA",
+    "gps": "LLHA",
+    "local": null
+  },
+  "name": "Uri Michaeli Haifa International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.810219,
+    "longitude": 35.043719,
+    "elevation_ft": 28,
+    "iso_country": "IL",
+    "iso_region": "IL-HA",
+    "municipality": "Haifa"
+  },
+  "keywords": [
+    "RAF Haifa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Haifa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4417
+  }
+}

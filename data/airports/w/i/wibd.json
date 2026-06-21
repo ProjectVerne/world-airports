@@ -1,0 +1,31 @@
+{
+  "key": "wibd",
+  "codes": {
+    "icao": "WIBD",
+    "iata": "DUM",
+    "gps": "WIBD",
+    "local": null
+  },
+  "name": "Pinang Kampai Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.609026,
+    "longitude": 101.433493,
+    "elevation_ft": 55,
+    "iso_country": "ID",
+    "iso_region": "ID-RI",
+    "municipality": "Dumai"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pinang_Kampai_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26822
+  }
+}

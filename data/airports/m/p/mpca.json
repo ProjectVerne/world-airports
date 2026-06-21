@@ -1,0 +1,33 @@
+{
+  "key": "mpca",
+  "codes": {
+    "icao": "MPCA",
+    "iata": null,
+    "gps": "MPCA",
+    "local": null
+  },
+  "name": "Caledonia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.90201,
+    "longitude": -77.69286,
+    "elevation_ft": 3,
+    "iso_country": "PA",
+    "iso_region": "PA-GY",
+    "municipality": "Suletupu"
+  },
+  "keywords": [
+    "CDE",
+    "PA-0032"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 342555
+  }
+}

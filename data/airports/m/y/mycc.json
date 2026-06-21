@@ -1,0 +1,31 @@
+{
+  "key": "mycc",
+  "codes": {
+    "icao": "MYCC",
+    "iata": "CXY",
+    "gps": "MYCC",
+    "local": null
+  },
+  "name": "Cat Cay Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.554425,
+    "longitude": -79.275404,
+    "elevation_ft": 14,
+    "iso_country": "BS",
+    "iso_region": "BS-BI",
+    "municipality": "North Cat Cay"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cat_Cays_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30866
+  }
+}

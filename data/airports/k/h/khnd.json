@@ -1,0 +1,34 @@
+{
+  "key": "khnd",
+  "codes": {
+    "icao": "KHND",
+    "iata": "HSH",
+    "gps": "KHND",
+    "local": "HND"
+  },
+  "name": "Henderson Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.972801,
+    "longitude": -115.134003,
+    "elevation_ft": 2492,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Las Vegas"
+  },
+  "keywords": [
+    "L15",
+    "Sky Harbor Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Henderson_Executive_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20068
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "eshc",
+  "codes": {
+    "icao": "ESHC",
+    "iata": null,
+    "gps": "ESHC",
+    "local": null
+  },
+  "name": "Södersjukhuset Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 59.308529,
+    "longitude": 18.054789,
+    "elevation_ft": 136,
+    "iso_country": "SE",
+    "iso_region": "SE-AB",
+    "municipality": "Stockholm"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599571
+  }
+}

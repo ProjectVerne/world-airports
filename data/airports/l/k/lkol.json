@@ -1,0 +1,31 @@
+{
+  "key": "lkol",
+  "codes": {
+    "icao": "LKOL",
+    "iata": "OLO",
+    "gps": "LKOL",
+    "local": null
+  },
+  "name": "Olomouc Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.587712,
+    "longitude": 17.209275,
+    "elevation_ft": 869,
+    "iso_country": "CZ",
+    "iso_region": "CZ-OL",
+    "municipality": "Olomouc"
+  },
+  "keywords": [],
+  "wikipedia": "https://cs.wikipedia.org/wiki/Letiště_Olomouc",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30212
+  }
+}

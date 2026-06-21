@@ -1,0 +1,33 @@
+{
+  "key": "egsa",
+  "codes": {
+    "icao": "EGSA",
+    "iata": null,
+    "gps": "EGSA",
+    "local": null
+  },
+  "name": "Shipdham Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.629398,
+    "longitude": 0.928056,
+    "elevation_ft": 210,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Thetford, Norfolk"
+  },
+  "keywords": [
+    "RAF Shipdham"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/RAF_Shipdham",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29179
+  }
+}

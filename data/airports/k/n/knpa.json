@@ -1,0 +1,34 @@
+{
+  "key": "knpa",
+  "codes": {
+    "icao": "KNPA",
+    "iata": "NPA",
+    "gps": "KNPA",
+    "local": "NPA"
+  },
+  "name": "Naval Air Station Pensacola Forrest Sherman Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.352699,
+    "longitude": -87.318604,
+    "elevation_ft": 28,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Pensacola"
+  },
+  "keywords": [
+    "NAS",
+    "KNAS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Pensacola",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3735
+  }
+}

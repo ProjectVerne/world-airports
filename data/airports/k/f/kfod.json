@@ -1,0 +1,31 @@
+{
+  "key": "kfod",
+  "codes": {
+    "icao": "KFOD",
+    "iata": "FOD",
+    "gps": "KFOD",
+    "local": "FOD"
+  },
+  "name": "Fort Dodge Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.552624,
+    "longitude": -94.191237,
+    "elevation_ft": 1156,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Fort Dodge"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Dodge_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3536
+  }
+}

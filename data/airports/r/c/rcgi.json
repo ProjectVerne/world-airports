@@ -1,0 +1,34 @@
+{
+  "key": "rcgi",
+  "codes": {
+    "icao": "RCGI",
+    "iata": "GNI",
+    "gps": "RCGI",
+    "local": null
+  },
+  "name": "Lüdao Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.673901,
+    "longitude": 121.466003,
+    "elevation_ft": 28,
+    "iso_country": "TW",
+    "iso_region": "TW-TTT",
+    "municipality": "Lüdao"
+  },
+  "keywords": [
+    "Green Island",
+    "Lyudao"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/L%C3%BCdao_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5515
+  }
+}

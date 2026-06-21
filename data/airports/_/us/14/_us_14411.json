@@ -1,0 +1,30 @@
+{
+  "key": "_us_14411",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "7TN9",
+    "local": "7TN9"
+  },
+  "name": "Jacques Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.957802,
+    "longitude": -83.296097,
+    "elevation_ft": 1160,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Newport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 14411
+  }
+}

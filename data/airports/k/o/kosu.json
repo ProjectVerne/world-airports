@@ -1,0 +1,31 @@
+{
+  "key": "kosu",
+  "codes": {
+    "icao": "KOSU",
+    "iata": "OSU",
+    "gps": "KOSU",
+    "local": "OSU"
+  },
+  "name": "The Ohio State University Airport - Don Scott Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.0798,
+    "longitude": -83.072998,
+    "elevation_ft": 905,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Columbus"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ohio_State_University_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3758
+  }
+}

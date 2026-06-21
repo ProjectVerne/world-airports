@@ -1,0 +1,30 @@
+{
+  "key": "_us_12087",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "56KS",
+    "local": "56KS"
+  },
+  "name": "Robinson Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.9772,
+    "longitude": -100.845001,
+    "elevation_ft": 3000,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Garden City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12087
+  }
+}

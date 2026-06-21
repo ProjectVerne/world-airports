@@ -1,0 +1,31 @@
+{
+  "key": "vism",
+  "codes": {
+    "icao": "VISM",
+    "iata": "SLV",
+    "gps": "VISM",
+    "local": null
+  },
+  "name": "Shimla Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.0818,
+    "longitude": 77.068001,
+    "elevation_ft": 5072,
+    "iso_country": "IN",
+    "iso_region": "IN-HP",
+    "municipality": "Jubbarhatti"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shimla_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26576
+  }
+}

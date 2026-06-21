@@ -1,0 +1,30 @@
+{
+  "key": "_us_16425",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AZ37",
+    "local": "AZ37"
+  },
+  "name": "Tucson Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.251701,
+    "longitude": -110.878998,
+    "elevation_ft": 2485,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Tucson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16425
+  }
+}

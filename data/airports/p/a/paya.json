@@ -1,0 +1,31 @@
+{
+  "key": "paya",
+  "codes": {
+    "icao": "PAYA",
+    "iata": "YAK",
+    "gps": "PAYA",
+    "local": "YAK"
+  },
+  "name": "Yakutat Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.508717,
+    "longitude": -139.660435,
+    "elevation_ft": 33,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Yakutat"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yakutat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26343
+  }
+}

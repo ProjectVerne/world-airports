@@ -1,0 +1,30 @@
+{
+  "key": "_us_10585",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3MA3",
+    "local": "3MA3"
+  },
+  "name": "Seapuit Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.6115,
+    "longitude": -70.415298,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Barnstable"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10585
+  }
+}

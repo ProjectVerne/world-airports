@@ -1,0 +1,30 @@
+{
+  "key": "_us_06838",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "05NH",
+    "local": "05NH"
+  },
+  "name": "Stumpfield Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.923901,
+    "longitude": -70.951401,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Kensington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6838
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01306",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNG5",
+    "local": "CNG5"
+  },
+  "name": "Pembroke (Regional Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.8153,
+    "longitude": -77.107803,
+    "elevation_ft": 496,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Pembroke"
+  },
+  "keywords": [
+    "NG5"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1306
+  }
+}

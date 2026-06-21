@@ -1,0 +1,31 @@
+{
+  "key": "kinl",
+  "codes": {
+    "icao": "KINL",
+    "iata": "INL",
+    "gps": "KINL",
+    "local": "INL"
+  },
+  "name": "Falls International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.5662,
+    "longitude": -93.403099,
+    "elevation_ft": 1185,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "International Falls"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Falls_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3612
+  }
+}

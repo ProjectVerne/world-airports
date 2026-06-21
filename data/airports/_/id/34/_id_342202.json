@@ -1,0 +1,32 @@
+{
+  "key": "_id_342202",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Landasan Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -6.14067,
+    "longitude": 106.1983,
+    "elevation_ft": 89,
+    "iso_country": "ID",
+    "iso_region": "ID-BT",
+    "municipality": "Serang"
+  },
+  "keywords": [
+    "ID-0183"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 342202
+  }
+}

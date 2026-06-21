@@ -1,0 +1,32 @@
+{
+  "key": "svtn",
+  "codes": {
+    "icao": "SVTN",
+    "iata": null,
+    "gps": "SVTN",
+    "local": null
+  },
+  "name": "Turen Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.270328,
+    "longitude": -69.113254,
+    "elevation_ft": 521,
+    "iso_country": "VE",
+    "iso_region": "VE-P",
+    "municipality": null
+  },
+  "keywords": [
+    "SVTV"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40328
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "uitt",
+  "codes": {
+    "icao": "UITT",
+    "iata": "UKX",
+    "gps": "UITT",
+    "local": null
+  },
+  "name": "Ust-Kut Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.856701,
+    "longitude": 105.730003,
+    "elevation_ft": 2188,
+    "iso_country": "RU",
+    "iso_region": "RU-IRK",
+    "municipality": "Ust-Kut"
+  },
+  "keywords": [
+    "Аэропорт Усть-Кут"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ust-Kut_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42930
+  }
+}

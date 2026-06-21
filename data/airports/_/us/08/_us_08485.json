@@ -1,0 +1,30 @@
+{
+  "key": "_us_08485",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MS7",
+    "local": "1MS7"
+  },
+  "name": "Smith County General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.999599,
+    "longitude": -89.519501,
+    "elevation_ft": 535,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Raleigh"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8485
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_09801",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Hedley Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 34.8937,
+    "longitude": -100.610001,
+    "elevation_ft": 2510,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Hedley"
+  },
+  "keywords": [
+    "2TS5",
+    "US-9921"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9801
+  }
+}

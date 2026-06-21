@@ -1,0 +1,31 @@
+{
+  "key": "kogs",
+  "codes": {
+    "icao": "KOGS",
+    "iata": "OGS",
+    "gps": "KOGS",
+    "local": "OGS"
+  },
+  "name": "Ogdensburg International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.6819,
+    "longitude": -75.4655,
+    "elevation_ft": 297,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Ogdensburg"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ogdensburg_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20727
+  }
+}

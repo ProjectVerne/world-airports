@@ -1,0 +1,34 @@
+{
+  "key": "libp",
+  "codes": {
+    "icao": "LIBP",
+    "iata": "PSR",
+    "gps": "LIBP",
+    "local": "PE01"
+  },
+  "name": "Abruzzo Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.431079,
+    "longitude": 14.182981,
+    "elevation_ft": 48,
+    "iso_country": "IT",
+    "iso_region": "IT-65",
+    "municipality": "Pescara"
+  },
+  "keywords": [
+    "Pescara",
+    "Abruzzo Pasquale Liberi International"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Abruzzo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4314
+  }
+}

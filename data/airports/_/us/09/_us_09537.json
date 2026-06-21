@@ -1,0 +1,30 @@
+{
+  "key": "_us_09537",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2MA8",
+    "local": "2MA8"
+  },
+  "name": "Compaq Stow Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.430901,
+    "longitude": -71.541702,
+    "elevation_ft": 250,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Stow"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9537
+  }
+}

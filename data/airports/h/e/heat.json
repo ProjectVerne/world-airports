@@ -1,0 +1,33 @@
+{
+  "key": "heat",
+  "codes": {
+    "icao": "HEAT",
+    "iata": "ATZ",
+    "gps": "HEAT",
+    "local": null
+  },
+  "name": "Asyut International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.045962,
+    "longitude": 31.01276,
+    "elevation_ft": 748,
+    "iso_country": "EG",
+    "iso_region": "EG-AST",
+    "municipality": "Asyut"
+  },
+  "keywords": [
+    "Asyut"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Assiut_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3177
+  }
+}

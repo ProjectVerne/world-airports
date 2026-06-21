@@ -1,0 +1,30 @@
+{
+  "key": "_us_10510",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3IL3",
+    "local": "3IL3"
+  },
+  "name": "Stillman Fire Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.105598,
+    "longitude": -89.183296,
+    "elevation_ft": 720,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Stillman Valley"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10510
+  }
+}

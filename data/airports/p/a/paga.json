@@ -1,0 +1,31 @@
+{
+  "key": "paga",
+  "codes": {
+    "icao": "PAGA",
+    "iata": "GAL",
+    "gps": "PAGA",
+    "local": "GAL"
+  },
+  "name": "Edward G. Pitka Sr Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.736198,
+    "longitude": -156.936997,
+    "elevation_ft": 153,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Galena"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Edward_G._Pitka_Sr._Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5365
+  }
+}

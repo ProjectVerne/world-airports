@@ -1,0 +1,34 @@
+{
+  "key": "ksdf",
+  "codes": {
+    "icao": "KSDF",
+    "iata": "SDF",
+    "gps": "KSDF",
+    "local": "SDF"
+  },
+  "name": "Louisville Muhammad Ali International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.1706,
+    "longitude": -85.735076,
+    "elevation_ft": 501,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Louisville"
+  },
+  "keywords": [
+    "Louisville International",
+    "Standiford Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Louisville_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3873
+  }
+}

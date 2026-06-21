@@ -1,0 +1,32 @@
+{
+  "key": "_us_25751",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WI57",
+    "local": "WI57"
+  },
+  "name": "Advent Health Durand Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.621029,
+    "longitude": -91.962706,
+    "elevation_ft": 852,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Durand"
+  },
+  "keywords": [
+    "Chippewa Valley Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25751
+  }
+}

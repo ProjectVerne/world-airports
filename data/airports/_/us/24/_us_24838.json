@@ -1,0 +1,30 @@
+{
+  "key": "_us_24838",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE30",
+    "local": "TE30"
+  },
+  "name": "Harris Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.736801,
+    "longitude": -97.338097,
+    "elevation_ft": 753,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24838
+  }
+}

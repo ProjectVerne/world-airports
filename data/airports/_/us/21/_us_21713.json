@@ -1,0 +1,30 @@
+{
+  "key": "_us_21713",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LS81",
+    "local": "LS81"
+  },
+  "name": "Lake Charles Office Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.114401,
+    "longitude": -93.212097,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Lake Charles"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21713
+  }
+}

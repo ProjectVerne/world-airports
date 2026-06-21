@@ -1,0 +1,32 @@
+{
+  "key": "_ro_342108",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Telecabina Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.5883,
+    "longitude": 25.5508,
+    "elevation_ft": 3399,
+    "iso_country": "RO",
+    "iso_region": "RO-BV",
+    "municipality": "Brașov"
+  },
+  "keywords": [
+    "RO-0030"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 342108
+  }
+}

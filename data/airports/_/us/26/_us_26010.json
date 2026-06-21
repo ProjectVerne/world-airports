@@ -1,0 +1,30 @@
+{
+  "key": "_us_26010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WV27",
+    "local": "WV27"
+  },
+  "name": "Cabell Huntington Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.410301,
+    "longitude": -82.428299,
+    "elevation_ft": 591,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Huntington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26010
+  }
+}

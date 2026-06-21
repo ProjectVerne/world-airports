@@ -1,0 +1,30 @@
+{
+  "key": "_us_25978",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WS98",
+    "local": "WS98"
+  },
+  "name": "St Joseph's Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.6772,
+    "longitude": -90.179703,
+    "elevation_ft": 1350,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Marshfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25978
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "ayet",
+  "codes": {
+    "icao": "AYET",
+    "iata": "BOT",
+    "gps": "AYET",
+    "local": "BST"
+  },
+  "name": "Bosset Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.237257,
+    "longitude": 141.106322,
+    "elevation_ft": 80,
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Bosset"
+  },
+  "keywords": [
+    "Boset"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bosset_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301979
+  }
+}

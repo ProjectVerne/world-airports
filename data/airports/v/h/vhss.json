@@ -1,0 +1,33 @@
+{
+  "key": "vhss",
+  "codes": {
+    "icao": "VHSS",
+    "iata": "HHP",
+    "gps": "VHSS",
+    "local": null
+  },
+  "name": "Shun Tak Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 22.288868,
+    "longitude": 114.152369,
+    "elevation_ft": 107,
+    "iso_country": "HK",
+    "iso_region": "HK-HK",
+    "municipality": "Central and Western"
+  },
+  "keywords": [
+    "VHST"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong-Macau_Ferry_Pier,_Hong_Kong#Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43192
+  }
+}

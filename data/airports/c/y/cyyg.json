@@ -1,0 +1,33 @@
+{
+  "key": "cyyg",
+  "codes": {
+    "icao": "CYYG",
+    "iata": "YYG",
+    "gps": "CYYG",
+    "local": null
+  },
+  "name": "Charlottetown Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.288911,
+    "longitude": -63.125174,
+    "elevation_ft": 160,
+    "iso_country": "CA",
+    "iso_region": "CA-PE",
+    "municipality": "Charlottetown"
+  },
+  "keywords": [
+    "PEI"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Charlottetown_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1977
+  }
+}

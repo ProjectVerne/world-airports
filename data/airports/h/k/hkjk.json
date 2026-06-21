@@ -1,0 +1,35 @@
+{
+  "key": "hkjk",
+  "codes": {
+    "icao": "HKJK",
+    "iata": "NBO",
+    "gps": "HKJK",
+    "local": null
+  },
+  "name": "Jomo Kenyatta International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.318886,
+    "longitude": 36.928233,
+    "elevation_ft": 5330,
+    "iso_country": "KE",
+    "iso_region": "KE-47",
+    "municipality": "Nairobi"
+  },
+  "keywords": [
+    "Jkia Airport",
+    "Embakasi Airport",
+    "Nairobi International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jomo_Kenyatta_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3206
+  }
+}

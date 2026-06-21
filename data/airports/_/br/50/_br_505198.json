@@ -1,0 +1,32 @@
+{
+  "key": "_br_505198",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNEM",
+    "local": "BA0213"
+  },
+  "name": "Enseada Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -12.795614,
+    "longitude": -38.643712,
+    "elevation_ft": 43,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Salvador"
+  },
+  "keywords": [
+    "BR-1751"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505198
+  }
+}

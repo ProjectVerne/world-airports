@@ -1,0 +1,31 @@
+{
+  "key": "lgle",
+  "codes": {
+    "icao": "LGLE",
+    "iata": "LRS",
+    "gps": "LGLE",
+    "local": null
+  },
+  "name": "Leros Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.184898,
+    "longitude": 26.800301,
+    "elevation_ft": 39,
+    "iso_country": "GR",
+    "iso_region": "GR-L",
+    "municipality": "Leros Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Leros_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4270
+  }
+}

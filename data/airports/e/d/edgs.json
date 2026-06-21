@@ -1,0 +1,33 @@
+{
+  "key": "edgs",
+  "codes": {
+    "icao": "EDGS",
+    "iata": "SGE",
+    "gps": "EDGS",
+    "local": null
+  },
+  "name": "Siegerland Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.707699,
+    "longitude": 8.08297,
+    "elevation_ft": 1966,
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Burbach"
+  },
+  "keywords": [
+    "EDKS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Siegerland_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2233
+  }
+}

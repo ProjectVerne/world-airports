@@ -1,0 +1,32 @@
+{
+  "key": "_us_17394",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FL24",
+    "local": "FL24"
+  },
+  "name": "HCA Florida West Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.516544,
+    "longitude": -87.219685,
+    "elevation_ft": 100,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Pensacola"
+  },
+  "keywords": [
+    "West Florida Regional Medical Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17394
+  }
+}

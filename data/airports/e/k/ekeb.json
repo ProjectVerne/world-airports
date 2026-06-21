@@ -1,0 +1,34 @@
+{
+  "key": "ekeb",
+  "codes": {
+    "icao": "EKEB",
+    "iata": "EBJ",
+    "gps": "EKEB",
+    "local": null
+  },
+  "name": "Esbjerg Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.525902,
+    "longitude": 8.5534,
+    "elevation_ft": 97,
+    "iso_country": "DK",
+    "iso_region": "DK-83",
+    "municipality": "Esbjerg"
+  },
+  "keywords": [
+    "offshore",
+    "North Sea"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Esbjerg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2543
+  }
+}

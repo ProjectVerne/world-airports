@@ -1,0 +1,33 @@
+{
+  "key": "egpb",
+  "codes": {
+    "icao": "EGPB",
+    "iata": "LSI",
+    "gps": "EGPB",
+    "local": null
+  },
+  "name": "Sumburgh Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.878899,
+    "longitude": -1.29556,
+    "elevation_ft": 20,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Lerwick, Shetland"
+  },
+  "keywords": [
+    "Shetlands"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sumburgh_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2457
+  }
+}

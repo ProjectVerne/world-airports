@@ -1,0 +1,32 @@
+{
+  "key": "loko",
+  "codes": {
+    "icao": "LOKO",
+    "iata": null,
+    "gps": "LOKO",
+    "local": null
+  },
+  "name": "Goldeck Talstation Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.792967,
+    "longitude": 13.483221,
+    "elevation_ft": 1761,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Spittal an der Drau"
+  },
+  "keywords": [
+    "AT-0059"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43820
+  }
+}

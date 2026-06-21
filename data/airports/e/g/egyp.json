@@ -1,0 +1,33 @@
+{
+  "key": "egyp",
+  "codes": {
+    "icao": "EGYP",
+    "iata": "MPN",
+    "gps": "EGYP",
+    "local": null
+  },
+  "name": "Mount Pleasant Airport / RAF Mount Pleasant",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -51.822642,
+    "longitude": -58.445777,
+    "elevation_ft": 244,
+    "iso_country": "FK",
+    "iso_region": "FK-U-A",
+    "municipality": "Mount Pleasant"
+  },
+  "keywords": [
+    "RAF Mount Pleasant"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/RAF_Mount_Pleasant",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2512
+  }
+}

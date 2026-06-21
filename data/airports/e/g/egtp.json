@@ -1,0 +1,34 @@
+{
+  "key": "egtp",
+  "codes": {
+    "icao": "EGTP",
+    "iata": null,
+    "gps": "EGTP",
+    "local": null
+  },
+  "name": "Perranporth Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.330617,
+    "longitude": -5.179317,
+    "elevation_ft": 330,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Perranporth, Cornwall"
+  },
+  "keywords": [
+    "RAF Perranporth",
+    "Trevallis Downs"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Perranporth_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2484
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "sbrd",
+  "codes": {
+    "icao": "SBRD",
+    "iata": "ROO",
+    "gps": "SBRD",
+    "local": "MT0004"
+  },
+  "name": "Maestro Marinho Franco Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.584292,
+    "longitude": -54.724803,
+    "elevation_ft": 1467,
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Rondonópolis"
+  },
+  "keywords": [
+    "SWRD",
+    "Rondonópolis Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rondon%C3%B3polis_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 575
+  }
+}

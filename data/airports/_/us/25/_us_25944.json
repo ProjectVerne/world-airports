@@ -1,0 +1,30 @@
+{
+  "key": "_us_25944",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WS50",
+    "local": "WS50"
+  },
+  "name": "Mercy Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.023701,
+    "longitude": -88.522797,
+    "elevation_ft": 775,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Oshkosh"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25944
+  }
+}

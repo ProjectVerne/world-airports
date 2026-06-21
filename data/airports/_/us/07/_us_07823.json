@@ -1,0 +1,30 @@
+{
+  "key": "_us_07823",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "13JY",
+    "local": "13JY"
+  },
+  "name": "Hess Port Reading Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.644402,
+    "longitude": -74.2453,
+    "elevation_ft": 70,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Port Reading"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7823
+  }
+}

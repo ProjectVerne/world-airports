@@ -1,0 +1,32 @@
+{
+  "key": "_us_08202",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1AR7",
+    "local": "1AR7"
+  },
+  "name": "Wadley Regional Medical Center at Hope Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.648448,
+    "longitude": -93.585337,
+    "elevation_ft": 375,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Hope"
+  },
+  "keywords": [
+    "Medical Park Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8202
+  }
+}

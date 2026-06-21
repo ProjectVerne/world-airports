@@ -1,0 +1,30 @@
+{
+  "key": "_us_07632",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0XA6",
+    "local": "0XA6"
+  },
+  "name": "Jaxon Landing Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.450001,
+    "longitude": -101.939003,
+    "elevation_ft": 3270,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lubbock"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7632
+  }
+}

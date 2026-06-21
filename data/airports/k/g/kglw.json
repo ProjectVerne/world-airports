@@ -1,0 +1,31 @@
+{
+  "key": "kglw",
+  "codes": {
+    "icao": "KGLW",
+    "iata": "GLW",
+    "gps": "KGLW",
+    "local": "GLW"
+  },
+  "name": "Glasgow Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.031799,
+    "longitude": -85.953697,
+    "elevation_ft": 716,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Glasgow"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Glasgow_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19960
+  }
+}

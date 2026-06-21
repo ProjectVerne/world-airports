@@ -1,0 +1,30 @@
+{
+  "key": "_us_10670",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3NJ5",
+    "local": "3NJ5"
+  },
+  "name": "Mock Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.533401,
+    "longitude": -74.916298,
+    "elevation_ft": 560,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Quakertown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10670
+  }
+}

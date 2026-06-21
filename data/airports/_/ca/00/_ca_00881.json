@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00881",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CEN6",
+    "local": "CEN6"
+  },
+  "name": "Vauxhall Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.033298,
+    "longitude": -112.083,
+    "elevation_ft": 2579,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Vauxhall"
+  },
+  "keywords": [
+    "EN6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vauxhall_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 881
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "efki",
+  "codes": {
+    "icao": "EFKI",
+    "iata": "KAJ",
+    "gps": "EFKI",
+    "local": null
+  },
+  "name": "Kajaani Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.2855,
+    "longitude": 27.6924,
+    "elevation_ft": 483,
+    "iso_country": "FI",
+    "iso_region": "FI-05",
+    "municipality": "Kajaani"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kajaani_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2319
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "_ca_01032",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Golden (Canadian Helicopters) Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 51.304475,
+    "longitude": -116.983535,
+    "elevation_ft": 2575,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Golden"
+  },
+  "keywords": [
+    "GN2",
+    "CGN2",
+    "CA-1045"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1032
+  }
+}

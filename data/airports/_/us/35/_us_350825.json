@@ -1,0 +1,32 @@
+{
+  "key": "_us_350825",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Simpson Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 35.8611,
+    "longitude": -90.08038,
+    "elevation_ft": 241,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Dell"
+  },
+  "keywords": [
+    "US-6217"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350825
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_509121",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Landing Zone X-1 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.0928,
+    "longitude": -94.35013,
+    "elevation_ft": 1145,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Fort Ripley"
+  },
+  "keywords": [
+    "US-7769"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509121
+  }
+}

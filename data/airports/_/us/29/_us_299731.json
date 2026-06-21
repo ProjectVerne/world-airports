@@ -1,0 +1,32 @@
+{
+  "key": "_us_299731",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "GA13",
+    "local": "GA13"
+  },
+  "name": "University Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.470792,
+    "longitude": -81.983817,
+    "elevation_ft": 174,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Augusta"
+  },
+  "keywords": [
+    "US-0171"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 299731
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "votr",
+  "codes": {
+    "icao": "VOTR",
+    "iata": "TRZ",
+    "gps": "VOTR",
+    "local": null
+  },
+  "name": "Tiruchirappalli International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.762915,
+    "longitude": 78.717741,
+    "elevation_ft": 288,
+    "iso_country": "IN",
+    "iso_region": "IN-TN",
+    "municipality": "Tiruchirappalli"
+  },
+  "keywords": [
+    "Trichy",
+    "Trichinopoly",
+    "RAF Kajamalai"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tiruchirappalli_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26628
+  }
+}

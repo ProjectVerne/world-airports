@@ -1,0 +1,30 @@
+{
+  "key": "_us_09350",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2CL5",
+    "local": "2CL5"
+  },
+  "name": "Kovr Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.591599,
+    "longitude": -121.544998,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "West Sacramento"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9350
+  }
+}

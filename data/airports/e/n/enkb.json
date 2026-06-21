@@ -1,0 +1,34 @@
+{
+  "key": "enkb",
+  "codes": {
+    "icao": "ENKB",
+    "iata": "KSU",
+    "gps": "ENKB",
+    "local": null
+  },
+  "name": "Kristiansund Airport, Kvernberget",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.111801,
+    "longitude": 7.82452,
+    "elevation_ft": 204,
+    "iso_country": "NO",
+    "iso_region": "NO-15",
+    "municipality": "Kvernberget"
+  },
+  "keywords": [
+    "Kristiansund lufthavn",
+    "Kvernberget"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kristiansund_Airport%2C_Kvernberget",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2581
+  }
+}

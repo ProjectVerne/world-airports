@@ -1,0 +1,33 @@
+{
+  "key": "nzos",
+  "codes": {
+    "icao": "NZOS",
+    "iata": null,
+    "gps": "NZOS",
+    "local": null
+  },
+  "name": "Otehei Bay Helibarge",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -35.22242,
+    "longitude": 174.230833,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-NTL",
+    "municipality": "Otehei Bay"
+  },
+  "keywords": [
+    "Otehei Bay Restaurant",
+    "Otehei Bay"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605003
+  }
+}

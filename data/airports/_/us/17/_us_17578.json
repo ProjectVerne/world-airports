@@ -1,0 +1,30 @@
+{
+  "key": "_us_17578",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "GE00",
+    "local": "GE00"
+  },
+  "name": "Morris Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 33.609699,
+    "longitude": -82.135803,
+    "elevation_ft": 102,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Evans"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17578
+  }
+}

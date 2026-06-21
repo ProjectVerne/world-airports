@@ -1,0 +1,33 @@
+{
+  "key": "_us_353049",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8MI1",
+    "local": "8MI1"
+  },
+  "name": "Henry Ford Genesys Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.890885,
+    "longitude": -83.641883,
+    "elevation_ft": 885,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Grand Blanc"
+  },
+  "keywords": [
+    "Ascension",
+    "US-6552"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 353049
+  }
+}

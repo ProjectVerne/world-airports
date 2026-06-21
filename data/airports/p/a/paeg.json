@@ -1,0 +1,31 @@
+{
+  "key": "paeg",
+  "codes": {
+    "icao": "PAEG",
+    "iata": "EAA",
+    "gps": "PAEG",
+    "local": "EAA"
+  },
+  "name": "Eagle Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.778003,
+    "longitude": -141.150455,
+    "elevation_ft": 908,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Eagle"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Eagle_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17174
+  }
+}

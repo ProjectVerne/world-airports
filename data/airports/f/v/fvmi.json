@@ -1,0 +1,32 @@
+{
+  "key": "fvmi",
+  "codes": {
+    "icao": "FVMI",
+    "iata": null,
+    "gps": "FVMI",
+    "local": null
+  },
+  "name": "Mubayira Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -18.316966,
+    "longitude": 30.586681,
+    "elevation_ft": 4102,
+    "iso_country": "ZW",
+    "iso_region": "ZW-MW",
+    "municipality": "Mubayira"
+  },
+  "keywords": [
+    "Mubaira"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599048
+  }
+}

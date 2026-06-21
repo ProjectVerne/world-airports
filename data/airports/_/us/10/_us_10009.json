@@ -1,0 +1,32 @@
+{
+  "key": "_us_10009",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32MA",
+    "local": "32MA"
+  },
+  "name": "Berkshire Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.708035,
+    "longitude": -73.110328,
+    "elevation_ft": 855,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "North Adams"
+  },
+  "keywords": [
+    "North Adams Regional Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10009
+  }
+}

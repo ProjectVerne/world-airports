@@ -1,0 +1,30 @@
+{
+  "key": "_us_21782",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA39",
+    "local": "MA39"
+  },
+  "name": "Brigham & Women's Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.336382,
+    "longitude": -71.106809,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Boston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21782
+  }
+}

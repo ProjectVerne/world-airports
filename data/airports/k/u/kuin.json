@@ -1,0 +1,31 @@
+{
+  "key": "kuin",
+  "codes": {
+    "icao": "KUIN",
+    "iata": "UIN",
+    "gps": "KUIN",
+    "local": "UIN"
+  },
+  "name": "Quincy Regional Airport Baldwin Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.942699,
+    "longitude": -91.194603,
+    "elevation_ft": 768,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Quincy"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Quincy_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3940
+  }
+}

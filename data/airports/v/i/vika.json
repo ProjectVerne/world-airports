@@ -1,0 +1,32 @@
+{
+  "key": "vika",
+  "codes": {
+    "icao": "VIKA",
+    "iata": null,
+    "gps": "VIKA",
+    "local": null
+  },
+  "name": "Kanpur Civil Airport (Old)",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.440857,
+    "longitude": 80.365029,
+    "elevation_ft": 411,
+    "iso_country": "IN",
+    "iso_region": "IN-UP",
+    "municipality": "Kanpur"
+  },
+  "keywords": [
+    "KNU"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26566
+  }
+}

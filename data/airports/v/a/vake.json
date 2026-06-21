@@ -1,0 +1,31 @@
+{
+  "key": "vake",
+  "codes": {
+    "icao": "VAKE",
+    "iata": "IXY",
+    "gps": "VAKE",
+    "local": null
+  },
+  "name": "Kandla Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.1127,
+    "longitude": 70.100304,
+    "elevation_ft": 96,
+    "iso_country": "IN",
+    "iso_region": "IN-GJ",
+    "municipality": "Kandla"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kandla_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26449
+  }
+}

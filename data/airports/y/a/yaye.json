@@ -1,0 +1,34 @@
+{
+  "key": "yaye",
+  "codes": {
+    "icao": "YAYE",
+    "iata": "AYQ",
+    "gps": "YAYE",
+    "local": null
+  },
+  "name": "Ayers Rock Connellan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.185913,
+    "longitude": 130.97703,
+    "elevation_ft": 1626,
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Yulara"
+  },
+  "keywords": [
+    "Ayers Rock",
+    "Uluru"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ayers_Rock_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26895
+  }
+}

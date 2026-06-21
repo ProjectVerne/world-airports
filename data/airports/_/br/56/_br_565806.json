@@ -1,0 +1,32 @@
+{
+  "key": "_br_565806",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SD40",
+    "local": "SC0224"
+  },
+  "name": "Bon Voyage Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -26.760776,
+    "longitude": -49.174032,
+    "elevation_ft": 194,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Pomerode"
+  },
+  "keywords": [
+    "BR-1919"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 565806
+  }
+}

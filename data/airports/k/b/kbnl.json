@@ -1,0 +1,31 @@
+{
+  "key": "kbnl",
+  "codes": {
+    "icao": "KBNL",
+    "iata": "BNL",
+    "gps": "KBNL",
+    "local": "BNL"
+  },
+  "name": "Barnwell Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.257801,
+    "longitude": -81.388298,
+    "elevation_ft": 246,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Barnwell"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Barnwell_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19396
+  }
+}

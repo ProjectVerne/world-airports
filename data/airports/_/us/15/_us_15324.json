@@ -1,0 +1,33 @@
+{
+  "key": "_us_15324",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Cross Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.777301,
+    "longitude": -81.458702,
+    "elevation_ft": 1125,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Canton"
+  },
+  "keywords": [
+    "91OI",
+    "US-10933"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15324
+  }
+}

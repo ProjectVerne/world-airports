@@ -1,0 +1,32 @@
+{
+  "key": "_us_506301",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "14FA",
+    "local": "14FA"
+  },
+  "name": "KB Helo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.598889,
+    "longitude": -84.103056,
+    "elevation_ft": 17,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Tallahassee"
+  },
+  "keywords": [
+    "US-7512"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 506301
+  }
+}

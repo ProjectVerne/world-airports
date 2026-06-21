@@ -1,0 +1,32 @@
+{
+  "key": "_us_333201",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IN89",
+    "local": "IN89"
+  },
+  "name": "Parkview Wabash Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.819961,
+    "longitude": -85.824131,
+    "elevation_ft": 789,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Wabash"
+  },
+  "keywords": [
+    "US-1182"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333201
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_323300",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID67",
+    "local": "ID67"
+  },
+  "name": "Sands Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.860681,
+    "longitude": -116.262708,
+    "elevation_ft": 4310,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Horseshoe Bend"
+  },
+  "keywords": [
+    "US-0561"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323300
+  }
+}

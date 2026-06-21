@@ -1,0 +1,30 @@
+{
+  "key": "aytz",
+  "codes": {
+    "icao": "AYTZ",
+    "iata": "TKB",
+    "gps": "AYTZ",
+    "local": "TKD"
+  },
+  "name": "Tekadu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.6808,
+    "longitude": 146.5503,
+    "elevation_ft": 1310,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Tekadu"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 312258
+  }
+}

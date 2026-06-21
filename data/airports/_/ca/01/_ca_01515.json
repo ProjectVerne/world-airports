@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01515",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSF6",
+    "local": "CSF6"
+  },
+  "name": "Ste-Marguerite Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.031101,
+    "longitude": -74.053299,
+    "elevation_ft": 1100,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Ste-Marguerite"
+  },
+  "keywords": [
+    "SF6"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1515
+  }
+}

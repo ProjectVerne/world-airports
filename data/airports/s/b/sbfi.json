@@ -1,0 +1,31 @@
+{
+  "key": "sbfi",
+  "codes": {
+    "icao": "SBFI",
+    "iata": "IGU",
+    "gps": "SBFI",
+    "local": "PR0002"
+  },
+  "name": "Cataratas International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.594167,
+    "longitude": -54.489444,
+    "elevation_ft": 786,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Foz do Iguaçu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Foz_do_Igua%C3%A7u_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5900
+  }
+}

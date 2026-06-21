@@ -1,0 +1,30 @@
+{
+  "key": "_us_25951",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WS57",
+    "local": "WS57"
+  },
+  "name": "Westosha Emergency Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.5425,
+    "longitude": -88.170403,
+    "elevation_ft": 750,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Silver Lake"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25951
+  }
+}

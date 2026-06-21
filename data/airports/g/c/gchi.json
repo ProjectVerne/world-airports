@@ -1,0 +1,34 @@
+{
+  "key": "gchi",
+  "codes": {
+    "icao": "GCHI",
+    "iata": "VDE",
+    "gps": "GCHI",
+    "local": null
+  },
+  "name": "El Hierro Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.8148,
+    "longitude": -17.8871,
+    "elevation_ft": 103,
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "El Hierro Island"
+  },
+  "keywords": [
+    "Hierro",
+    "El Hierro"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Hierro_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3079
+  }
+}

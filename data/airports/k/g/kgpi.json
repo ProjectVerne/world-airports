@@ -1,0 +1,33 @@
+{
+  "key": "kgpi",
+  "codes": {
+    "icao": "KGPI",
+    "iata": "FCA",
+    "gps": "KGPI",
+    "local": "GPI"
+  },
+  "name": "Glacier Park International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.310501,
+    "longitude": -114.255997,
+    "elevation_ft": 2977,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Kalispell"
+  },
+  "keywords": [
+    "Formerly KFCA"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Glacier_Park_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3527
+  }
+}

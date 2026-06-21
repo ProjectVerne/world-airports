@@ -1,0 +1,30 @@
+{
+  "key": "_us_345683",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA09",
+    "local": "MA09"
+  },
+  "name": "Mojarr Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.050324,
+    "longitude": -71.890213,
+    "elevation_ft": 458,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Dudley"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345683
+  }
+}

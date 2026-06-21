@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01158",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKA4",
+    "local": "CKA4"
+  },
+  "name": "Zhoda Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.2808,
+    "longitude": -96.501099,
+    "elevation_ft": 950,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Zhoda"
+  },
+  "keywords": [
+    "KA4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Zhoda_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1158
+  }
+}

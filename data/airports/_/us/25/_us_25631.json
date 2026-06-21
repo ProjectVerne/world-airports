@@ -1,0 +1,30 @@
+{
+  "key": "_us_25631",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WA34",
+    "local": "WA34"
+  },
+  "name": "Newhalem Office Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.671895,
+    "longitude": -121.252213,
+    "elevation_ft": 504,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Newhalem"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25631
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "lipk",
+  "codes": {
+    "icao": "LIPK",
+    "iata": "FRL",
+    "gps": "LIPK",
+    "local": "FC03"
+  },
+  "name": "Forlì-Luigi Ridolfi International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.194801,
+    "longitude": 12.0701,
+    "elevation_ft": 97,
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Forlì (FC)"
+  },
+  "keywords": [
+    "L Ridolfi",
+    "Ronco di Forlì"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Forl%C3%AC_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4357
+  }
+}

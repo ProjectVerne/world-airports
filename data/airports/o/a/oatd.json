@@ -1,0 +1,32 @@
+{
+  "key": "oatd",
+  "codes": {
+    "icao": "OATD",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Toorghodi Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.222198,
+    "longitude": 62.2906,
+    "elevation_ft": 2600,
+    "iso_country": "AF",
+    "iso_region": "AF-HER",
+    "municipality": "Kara Tapa"
+  },
+  "keywords": [
+    "AF-0019"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35370
+  }
+}

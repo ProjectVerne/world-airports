@@ -1,0 +1,33 @@
+{
+  "key": "_us_20945",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KRNM",
+    "local": "RNM"
+  },
+  "name": "Ramona Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.0392,
+    "longitude": -116.915001,
+    "elevation_ft": 1395,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Ramona"
+  },
+  "keywords": [
+    "L39"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ramona_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20945
+  }
+}

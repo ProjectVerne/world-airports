@@ -1,0 +1,31 @@
+{
+  "key": "kdrt",
+  "codes": {
+    "icao": "KDRT",
+    "iata": "DRT",
+    "gps": "KDRT",
+    "local": "DRT"
+  },
+  "name": "Del Rio International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.374201,
+    "longitude": -100.927002,
+    "elevation_ft": 1002,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Del Rio"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Del_Rio_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19655
+  }
+}

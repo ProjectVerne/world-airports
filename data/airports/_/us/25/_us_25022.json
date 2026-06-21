@@ -1,0 +1,33 @@
+{
+  "key": "_us_25022",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Progreso Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 26.0837,
+    "longitude": -97.950302,
+    "elevation_ft": 70,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Progreso"
+  },
+  "keywords": [
+    "TS05",
+    "US-12258"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25022
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_br_36412",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SIZY",
+    "local": "SP0584"
+  },
+  "name": "IMOCOP Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -22.695981,
+    "longitude": -47.561842,
+    "elevation_ft": 1775,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Piracicaba"
+  },
+  "keywords": [
+    "Coopersucar CTC"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36412
+  }
+}

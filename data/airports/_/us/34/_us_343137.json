@@ -1,0 +1,32 @@
+{
+  "key": "_us_343137",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Air Evac 99 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.49293,
+    "longitude": -91.3664,
+    "elevation_ft": 320,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Natchez"
+  },
+  "keywords": [
+    "US-3689"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 343137
+  }
+}

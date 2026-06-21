@@ -1,0 +1,31 @@
+{
+  "key": "kjac",
+  "codes": {
+    "icao": "KJAC",
+    "iata": "JAC",
+    "gps": "KJAC",
+    "local": "JAC"
+  },
+  "name": "Jackson Hole Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.6073,
+    "longitude": -110.737999,
+    "elevation_ft": 6451,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Jackson"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jackson_Hole_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3618
+  }
+}

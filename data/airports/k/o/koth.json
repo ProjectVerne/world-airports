@@ -1,0 +1,31 @@
+{
+  "key": "koth",
+  "codes": {
+    "icao": "KOTH",
+    "iata": "OTH",
+    "gps": "KOTH",
+    "local": "OTH"
+  },
+  "name": "Southwest Oregon Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.417099,
+    "longitude": -124.246002,
+    "elevation_ft": 17,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "North Bend"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Southwest_Oregon_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3759
+  }
+}

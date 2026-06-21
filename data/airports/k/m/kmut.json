@@ -1,0 +1,31 @@
+{
+  "key": "kmut",
+  "codes": {
+    "icao": "KMUT",
+    "iata": "MUT",
+    "gps": "KMUT",
+    "local": "MUT"
+  },
+  "name": "Muscatine Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.367803,
+    "longitude": -91.148201,
+    "elevation_ft": 547,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Muscatine"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Muscatine_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20571
+  }
+}

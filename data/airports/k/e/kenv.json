@@ -1,0 +1,33 @@
+{
+  "key": "kenv",
+  "codes": {
+    "icao": "KENV",
+    "iata": "ENV",
+    "gps": "KENV",
+    "local": "ENV"
+  },
+  "name": "Wendover Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.7187,
+    "longitude": -114.030998,
+    "elevation_ft": 4237,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Wendover"
+  },
+  "keywords": [
+    "Wendover AFB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wendover_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19760
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "vyns",
+  "codes": {
+    "icao": "VYNS",
+    "iata": "NMS",
+    "gps": "VYNS",
+    "local": null
+  },
+  "name": "Namsang Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.890499,
+    "longitude": 97.735901,
+    "elevation_ft": 3100,
+    "iso_country": "MM",
+    "iso_region": "MM-17",
+    "municipality": "Namsang"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26734
+  }
+}

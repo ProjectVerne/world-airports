@@ -1,0 +1,33 @@
+{
+  "key": "paws",
+  "codes": {
+    "icao": "PAWS",
+    "iata": "WWA",
+    "gps": "PAWS",
+    "local": "IYS"
+  },
+  "name": "Wasilla Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.571701,
+    "longitude": -149.539993,
+    "elevation_ft": 354,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Wasilla"
+  },
+  "keywords": [
+    "4A1"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wasilla_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5424
+  }
+}

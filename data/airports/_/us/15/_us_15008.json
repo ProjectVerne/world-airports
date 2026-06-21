@@ -1,0 +1,30 @@
+{
+  "key": "_us_15008",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8LL1",
+    "local": "8LL1"
+  },
+  "name": "Hunter Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.356701,
+    "longitude": -88.506203,
+    "elevation_ft": 914,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Woodstock"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15008
+  }
+}

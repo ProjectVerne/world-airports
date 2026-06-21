@@ -1,0 +1,31 @@
+{
+  "key": "cyqa",
+  "codes": {
+    "icao": "CYQA",
+    "iata": "YQA",
+    "gps": "CYQA",
+    "local": null
+  },
+  "name": "Muskoka Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.975376,
+    "longitude": -79.306546,
+    "elevation_ft": 925,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Gravenhurst"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Muskoka_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1863
+  }
+}

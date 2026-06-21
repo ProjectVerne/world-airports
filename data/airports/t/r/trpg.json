@@ -1,0 +1,34 @@
+{
+  "key": "trpg",
+  "codes": {
+    "icao": "TRPG",
+    "iata": "MNI",
+    "gps": "TRPG",
+    "local": null
+  },
+  "name": "John A. Osborne Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.791835,
+    "longitude": -62.193204,
+    "elevation_ft": 550,
+    "iso_country": "MS",
+    "iso_region": "MS-SP",
+    "municipality": "Gerald's Park"
+  },
+  "keywords": [
+    "Gerald's Airport",
+    "Brades"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/John_A._Osborne_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43074
+  }
+}

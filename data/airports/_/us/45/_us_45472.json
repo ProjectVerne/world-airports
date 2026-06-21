@@ -1,0 +1,30 @@
+{
+  "key": "_us_45472",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "85MA",
+    "local": "85MA"
+  },
+  "name": "Lahey Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.484749,
+    "longitude": -71.201549,
+    "elevation_ft": 241,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Burlington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45472
+  }
+}

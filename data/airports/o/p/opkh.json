@@ -1,0 +1,31 @@
+{
+  "key": "opkh",
+  "codes": {
+    "icao": "OPKH",
+    "iata": "KDD",
+    "gps": "OPKH",
+    "local": null
+  },
+  "name": "Khuzdar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.7906,
+    "longitude": 66.647301,
+    "elevation_ft": 4012,
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Khuzdar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Khuzdar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31735
+  }
+}

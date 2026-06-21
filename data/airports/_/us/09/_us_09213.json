@@ -1,0 +1,30 @@
+{
+  "key": "_us_09213",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "28NC",
+    "local": "28NC"
+  },
+  "name": "Balloonport of Greensboro Balloonport",
+  "type": "balloonport",
+  "status": "open",
+  "location": {
+    "latitude": 35.955799,
+    "longitude": -79.818901,
+    "elevation_ft": 800,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Greensboro"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9213
+  }
+}

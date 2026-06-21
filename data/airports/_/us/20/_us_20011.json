@@ -1,0 +1,32 @@
+{
+  "key": "_us_20011",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "H37",
+    "local": "H37"
+  },
+  "name": "Herlong Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.138802,
+    "longitude": -120.179001,
+    "elevation_ft": 4055,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Herlong"
+  },
+  "keywords": [
+    "KH37"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20011
+  }
+}

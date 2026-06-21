@@ -1,0 +1,32 @@
+{
+  "key": "nztx",
+  "codes": {
+    "icao": "NZTX",
+    "iata": null,
+    "gps": "NZTX",
+    "local": null
+  },
+  "name": "Te Anau Medical Centre Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -45.416189,
+    "longitude": 167.719883,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-STL",
+    "municipality": "Te Anau"
+  },
+  "keywords": [
+    "Te Anau"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605012
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_325432",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "56NK",
+    "local": "56NK"
+  },
+  "name": "Buffalo General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.901116,
+    "longitude": -78.866489,
+    "elevation_ft": 1026,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Buffalo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325432
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_511005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Mayer Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.42032,
+    "longitude": -103.24897,
+    "elevation_ft": 4535,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Dalton"
+  },
+  "keywords": [
+    "US-8000"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 511005
+  }
+}

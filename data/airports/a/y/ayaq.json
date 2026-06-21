@@ -1,0 +1,30 @@
+{
+  "key": "ayaq",
+  "codes": {
+    "icao": "AYAQ",
+    "iata": "KPM",
+    "gps": "AYAQ",
+    "local": "KOM"
+  },
+  "name": "Kompiam Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.381667,
+    "longitude": 143.924722,
+    "elevation_ft": 5100,
+    "iso_country": "PG",
+    "iso_region": "PG-EPW",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307980
+  }
+}

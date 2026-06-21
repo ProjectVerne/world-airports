@@ -1,0 +1,34 @@
+{
+  "key": "hcma",
+  "codes": {
+    "icao": "HCMA",
+    "iata": "ALU",
+    "gps": "HCMA",
+    "local": null
+  },
+  "name": "Alula Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.9582,
+    "longitude": 50.748,
+    "elevation_ft": 6,
+    "iso_country": "SO",
+    "iso_region": "SO-BR",
+    "municipality": "Alula"
+  },
+  "keywords": [
+    "Aluula",
+    "Caluula"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Alula_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30638
+  }
+}

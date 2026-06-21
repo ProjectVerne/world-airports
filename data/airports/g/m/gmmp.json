@@ -1,0 +1,35 @@
+{
+  "key": "gmmp",
+  "codes": {
+    "icao": "GMMP",
+    "iata": "NNA",
+    "gps": "GMMP",
+    "local": null
+  },
+  "name": "Kenitra Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.298901,
+    "longitude": -6.59588,
+    "elevation_ft": 16,
+    "iso_country": "MA",
+    "iso_region": "MA-04",
+    "municipality": "Kenitra"
+  },
+  "keywords": [
+    "GMMY",
+    "Craw Field",
+    "Naval Air Station Port Lyautey"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kenitra_Air_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3116
+  }
+}

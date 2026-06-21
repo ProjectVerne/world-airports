@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01305",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNF9",
+    "local": "CNF9"
+  },
+  "name": "Niagara South Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.999401,
+    "longitude": -79.063599,
+    "elevation_ft": 576,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Niagara Falls"
+  },
+  "keywords": [
+    "NF9"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Niagara_Falls/Niagara_South_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1305
+  }
+}

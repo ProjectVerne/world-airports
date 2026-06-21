@@ -1,0 +1,31 @@
+{
+  "key": "sazh",
+  "codes": {
+    "icao": "SAZH",
+    "iata": "OYO",
+    "gps": "SAZH",
+    "local": "YOS"
+  },
+  "name": "Tres Arroyos Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -38.3869,
+    "longitude": -60.3297,
+    "elevation_ft": 400,
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Tres Arroyos"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tres_Arroyos_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5844
+  }
+}

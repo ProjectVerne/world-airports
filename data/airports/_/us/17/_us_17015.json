@@ -1,0 +1,33 @@
+{
+  "key": "_us_17015",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Portland Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.565899,
+    "longitude": -72.641502,
+    "elevation_ft": 40,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Portland"
+  },
+  "keywords": [
+    "CT58",
+    "US-11211"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17015
+  }
+}

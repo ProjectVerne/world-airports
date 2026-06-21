@@ -1,0 +1,30 @@
+{
+  "key": "_us_22045",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MI32",
+    "local": "MI32"
+  },
+  "name": "Ummc Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.2859,
+    "longitude": -83.727997,
+    "elevation_ft": 802,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Ann Arbor"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22045
+  }
+}

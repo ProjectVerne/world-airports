@@ -1,0 +1,31 @@
+{
+  "key": "kbvi",
+  "codes": {
+    "icao": "KBVI",
+    "iata": "BFP",
+    "gps": "KBVI",
+    "local": "BVI"
+  },
+  "name": "Beaver County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.772499,
+    "longitude": -80.391403,
+    "elevation_ft": 1253,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Beaver Falls"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Beaver_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19417
+  }
+}

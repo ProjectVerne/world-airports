@@ -1,0 +1,31 @@
+{
+  "key": "nfns",
+  "codes": {
+    "icao": "NFNS",
+    "iata": "SVU",
+    "gps": "NFNS",
+    "local": null
+  },
+  "name": "Savusavu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.803394,
+    "longitude": 179.340587,
+    "elevation_ft": 17,
+    "iso_country": "FJ",
+    "iso_region": "FJ-N",
+    "municipality": "Savusavu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Savusavu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32397
+  }
+}

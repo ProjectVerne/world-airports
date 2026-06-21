@@ -1,0 +1,31 @@
+{
+  "key": "nzgs",
+  "codes": {
+    "icao": "NZGS",
+    "iata": "GIS",
+    "gps": "NZGS",
+    "local": null
+  },
+  "name": "Gisborne Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -38.6633,
+    "longitude": 177.977997,
+    "elevation_ft": 15,
+    "iso_country": "NZ",
+    "iso_region": "NZ-GIS",
+    "municipality": "Gisborne"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gisborne_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5030
+  }
+}

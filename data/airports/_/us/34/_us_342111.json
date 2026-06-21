@@ -1,0 +1,33 @@
+{
+  "key": "_us_342111",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Miami Tower Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 25.77232,
+    "longitude": -80.19155,
+    "elevation_ft": 632,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Miami"
+  },
+  "keywords": [
+    "US-3306"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Miami_Tower",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 342111
+  }
+}

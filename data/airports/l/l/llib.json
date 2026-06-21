@@ -1,0 +1,33 @@
+{
+  "key": "llib",
+  "codes": {
+    "icao": "LLIB",
+    "iata": "RPN",
+    "gps": "LLIB",
+    "local": null
+  },
+  "name": "Rosh Pina Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.980999,
+    "longitude": 35.571899,
+    "elevation_ft": 884,
+    "iso_country": "IL",
+    "iso_region": "IL-Z",
+    "municipality": "Rosh Pina"
+  },
+  "keywords": [
+    "Mahanayim Ben Yaakov Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rosh_Pina_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4419
+  }
+}

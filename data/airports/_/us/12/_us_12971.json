@@ -1,0 +1,32 @@
+{
+  "key": "_us_12971",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "64TS",
+    "local": "64TS"
+  },
+  "name": "CHI Baylor St Luke's Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.707673,
+    "longitude": -95.39943,
+    "elevation_ft": 165,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [
+    "St Luke's Episcopal Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12971
+  }
+}

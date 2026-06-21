@@ -1,0 +1,30 @@
+{
+  "key": "_us_10646",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3NA2",
+    "local": "3NA2"
+  },
+  "name": "Lorentzen Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.302799,
+    "longitude": -101.067001,
+    "elevation_ft": 1790,
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Washburn"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10646
+  }
+}

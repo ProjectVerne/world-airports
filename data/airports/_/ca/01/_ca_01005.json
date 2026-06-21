@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFV3",
+    "local": "CFV3"
+  },
+  "name": "Mobil Bistcho Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.474733,
+    "longitude": -119.006138,
+    "elevation_ft": 2000,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Mobil Bistcho"
+  },
+  "keywords": [
+    "FV3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mobil_Bistcho_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1005
+  }
+}

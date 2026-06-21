@@ -1,0 +1,31 @@
+{
+  "key": "slti",
+  "codes": {
+    "icao": "SLTI",
+    "iata": "MQK",
+    "gps": "SLTI",
+    "local": null
+  },
+  "name": "San Matías Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.339199,
+    "longitude": -58.401901,
+    "elevation_ft": 403,
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "San Matías"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Mat%C3%ADas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30387
+  }
+}

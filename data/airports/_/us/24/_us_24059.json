@@ -1,0 +1,32 @@
+{
+  "key": "_us_24059",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA91",
+    "local": "PA91"
+  },
+  "name": "UPMC Kane Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.671191,
+    "longitude": -78.817911,
+    "elevation_ft": 2008,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Kane"
+  },
+  "keywords": [
+    "Kane Community Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24059
+  }
+}

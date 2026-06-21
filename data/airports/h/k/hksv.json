@@ -1,0 +1,32 @@
+{
+  "key": "hksv",
+  "codes": {
+    "icao": "HKSV",
+    "iata": null,
+    "gps": "HKSV",
+    "local": null
+  },
+  "name": "Tsavo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.990679,
+    "longitude": 38.454175,
+    "elevation_ft": 0,
+    "iso_country": "KE",
+    "iso_region": "KE-06",
+    "municipality": "Tsavo"
+  },
+  "keywords": [
+    "KE-7014"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 607284
+  }
+}

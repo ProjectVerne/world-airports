@@ -1,0 +1,31 @@
+{
+  "key": "kfsm",
+  "codes": {
+    "icao": "KFSM",
+    "iata": "FSM",
+    "gps": "KFSM",
+    "local": "FSM"
+  },
+  "name": "Fort Smith Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.336601,
+    "longitude": -94.367401,
+    "elevation_ft": 469,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Fort Smith"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Smith_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3543
+  }
+}

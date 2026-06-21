@@ -1,0 +1,33 @@
+{
+  "key": "_us_18756",
+  "codes": {
+    "icao": null,
+    "iata": "VLE",
+    "gps": "40G",
+    "local": "40G"
+  },
+  "name": "Valle Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.6506,
+    "longitude": -112.148003,
+    "elevation_ft": 5999,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Grand Canyon"
+  },
+  "keywords": [
+    "K40G"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Valle_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18756
+  }
+}

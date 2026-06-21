@@ -1,0 +1,30 @@
+{
+  "key": "gect",
+  "codes": {
+    "icao": "GECT",
+    "iata": null,
+    "gps": "GECT",
+    "local": null
+  },
+  "name": "Ceuta Military Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.889018,
+    "longitude": -5.346354,
+    "elevation_ft": 267,
+    "iso_country": "ES",
+    "iso_region": "ES-CE",
+    "municipality": "Ceuta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 598095
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "key": "oesk",
+  "codes": {
+    "icao": "OESK",
+    "iata": "AJF",
+    "gps": "OESK",
+    "local": null
+  },
+  "name": "Al-Jawf International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.783301,
+    "longitude": 40.100905,
+    "elevation_ft": 2261,
+    "iso_country": "SA",
+    "iso_region": "SA-12",
+    "municipality": "Al-Jawf"
+  },
+  "keywords": [
+    "Al Jouf Airport",
+    "Al Jawf",
+    "Al Jawf Airport",
+    "Al Jouf Regional Airport",
+    "Al Jawf Regional Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Al-Jouf_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5119
+  }
+}

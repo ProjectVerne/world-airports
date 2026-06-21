@@ -1,0 +1,33 @@
+{
+  "key": "spjc",
+  "codes": {
+    "icao": "SPJC",
+    "iata": "LIM",
+    "gps": "SPJC",
+    "local": null
+  },
+  "name": "Jorge Chávez International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -12.0219,
+    "longitude": -77.114305,
+    "elevation_ft": 113,
+    "iso_country": "PE",
+    "iso_region": "PE-LIM",
+    "municipality": "Lima"
+  },
+  "keywords": [
+    "SPIM"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Ch%C3%A1vez_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6217
+  }
+}

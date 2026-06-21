@@ -1,0 +1,30 @@
+{
+  "key": "_us_07813",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "13CO",
+    "local": "13CO"
+  },
+  "name": "Mann Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.555599,
+    "longitude": -106.844002,
+    "elevation_ft": 7500,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Steamboat Springs"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7813
+  }
+}

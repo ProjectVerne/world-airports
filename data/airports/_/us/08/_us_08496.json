@@ -1,0 +1,30 @@
+{
+  "key": "_us_08496",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MT8",
+    "local": "1MT8"
+  },
+  "name": "St James Healthcare Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.009027,
+    "longitude": -112.544371,
+    "elevation_ft": 5733,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Butte"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8496
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "kecp",
+  "codes": {
+    "icao": "KECP",
+    "iata": "ECP",
+    "gps": "KECP",
+    "local": "ECP"
+  },
+  "name": "Northwest Florida Beaches International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.357106,
+    "longitude": -85.795414,
+    "elevation_ft": 69,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Panama City Beach"
+  },
+  "keywords": [
+    "Northwest Florida Beaches International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Northwest_Florida_Beaches_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46530
+  }
+}

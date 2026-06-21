@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01423",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPK3",
+    "local": "CPK3"
+  },
+  "name": "Hamilton (General Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.261912,
+    "longitude": -79.854725,
+    "elevation_ft": 384,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Hamilton"
+  },
+  "keywords": [
+    "PK3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1423
+  }
+}

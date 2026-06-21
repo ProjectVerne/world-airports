@@ -1,0 +1,35 @@
+{
+  "key": "ltda",
+  "codes": {
+    "icao": "LTDA",
+    "iata": "HTY",
+    "gps": "LTDA",
+    "local": null
+  },
+  "name": "Hatay Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.36079,
+    "longitude": 36.285589,
+    "elevation_ft": 269,
+    "iso_country": "TR",
+    "iso_region": "TR-31",
+    "municipality": "Antakya"
+  },
+  "keywords": [
+    "hatay",
+    "antakya",
+    "samandag"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hatay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44484
+  }
+}

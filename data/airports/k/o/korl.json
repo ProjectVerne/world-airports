@@ -1,0 +1,40 @@
+{
+  "key": "korl",
+  "codes": {
+    "icao": "KORL",
+    "iata": "ORL",
+    "gps": "KORL",
+    "local": "ORL"
+  },
+  "name": "Orlando Executive Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.5455,
+    "longitude": -81.332901,
+    "elevation_ft": 113,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Orlando"
+  },
+  "keywords": [
+    "Herndon Airport",
+    "Orlando Executive Airport",
+    "KORL",
+    "ORL",
+    "Orlando Municipal Airport",
+    "Orlando Army Air Base",
+    "Orlando Air Force Base",
+    "Naval Training Center Orlando"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Orlando_Executive_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20765
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "kbow",
+  "codes": {
+    "icao": "KBOW",
+    "iata": "BOW",
+    "gps": "KBOW",
+    "local": "BOW"
+  },
+  "name": "Bartow Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.943399,
+    "longitude": -81.783401,
+    "elevation_ft": 125,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Bartow"
+  },
+  "keywords": [
+    "Bartow Municipal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bartow_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19399
+  }
+}

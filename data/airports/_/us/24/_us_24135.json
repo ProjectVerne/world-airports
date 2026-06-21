@@ -1,0 +1,32 @@
+{
+  "key": "_us_24135",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PN26",
+    "local": "PN26"
+  },
+  "name": "St Clair Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.378425,
+    "longitude": -80.065362,
+    "elevation_ft": 1150,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Pittsburgh"
+  },
+  "keywords": [
+    "St Clair Memorial"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24135
+  }
+}

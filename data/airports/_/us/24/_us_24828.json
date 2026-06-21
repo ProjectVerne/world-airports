@@ -1,0 +1,30 @@
+{
+  "key": "_us_24828",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE20",
+    "local": "TE20"
+  },
+  "name": "Putman Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.023417,
+    "longitude": -96.536887,
+    "elevation_ft": 550,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Wylie"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24828
+  }
+}

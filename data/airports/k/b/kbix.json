@@ -1,0 +1,31 @@
+{
+  "key": "kbix",
+  "codes": {
+    "icao": "KBIX",
+    "iata": "BIX",
+    "gps": "KBIX",
+    "local": "BIX"
+  },
+  "name": "Keesler Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.4104,
+    "longitude": -88.9244,
+    "elevation_ft": 33,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Biloxi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Keesler_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3410
+  }
+}

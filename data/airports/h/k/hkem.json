@@ -1,0 +1,31 @@
+{
+  "key": "hkem",
+  "codes": {
+    "icao": "HKEM",
+    "iata": null,
+    "gps": "HKEM",
+    "local": null
+  },
+  "name": "Embu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.574823,
+    "longitude": 37.496961,
+    "elevation_ft": 4150,
+    "iso_country": "KE",
+    "iso_region": "KE-14",
+    "municipality": "Embu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Embu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31580
+  }
+}

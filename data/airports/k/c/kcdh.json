@@ -1,0 +1,31 @@
+{
+  "key": "kcdh",
+  "codes": {
+    "icao": "KCDH",
+    "iata": "CDH",
+    "gps": "KCDH",
+    "local": "CDH"
+  },
+  "name": "Harrell Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.622799,
+    "longitude": -92.763397,
+    "elevation_ft": 130,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Camden"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Harrell_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19471
+  }
+}

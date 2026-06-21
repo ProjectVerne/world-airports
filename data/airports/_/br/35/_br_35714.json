@@ -1,0 +1,33 @@
+{
+  "key": "_br_35714",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "SDRV"
+  },
+  "name": "VR Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.594444,
+    "longitude": -46.706944,
+    "elevation_ft": 2614,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Paulo"
+  },
+  "keywords": [
+    "SDRV",
+    "BR-2303"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35714
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "fmfe",
+  "codes": {
+    "icao": "FMFE",
+    "iata": "OHB",
+    "gps": "FMFE",
+    "local": "OMB"
+  },
+  "name": "Ambohibary Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -18.9175,
+    "longitude": 48.218194,
+    "elevation_ft": 2960,
+    "iso_country": "MG",
+    "iso_region": "MG-A",
+    "municipality": "Moramanga"
+  },
+  "keywords": [
+    "Moramanga Aérodrome",
+    "Ambatovy Mine"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301200
+  }
+}

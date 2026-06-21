@@ -1,0 +1,30 @@
+{
+  "key": "_us_22902",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NE02",
+    "local": "NE02"
+  },
+  "name": "Pender Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.106098,
+    "longitude": -96.711098,
+    "elevation_ft": 1348,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Pender"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22902
+  }
+}

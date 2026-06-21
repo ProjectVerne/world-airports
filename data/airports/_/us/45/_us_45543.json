@@ -1,0 +1,32 @@
+{
+  "key": "_us_45543",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM93",
+    "local": "NM93"
+  },
+  "name": "Lovelace Regional Hospital - Roswell Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.41762,
+    "longitude": -104.521378,
+    "elevation_ft": 3599,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Roswell"
+  },
+  "keywords": [
+    "Roswell Regional Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45543
+  }
+}

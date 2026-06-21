@@ -1,0 +1,30 @@
+{
+  "key": "mmca",
+  "codes": {
+    "icao": "MMCA",
+    "iata": "CNA",
+    "gps": "MMCA",
+    "local": "CNA"
+  },
+  "name": "Cananea National Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.06615,
+    "longitude": -110.097878,
+    "elevation_ft": 4921,
+    "iso_country": "MX",
+    "iso_region": "MX-SON",
+    "municipality": "Cananea"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29753
+  }
+}

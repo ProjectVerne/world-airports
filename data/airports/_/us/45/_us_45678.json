@@ -1,0 +1,30 @@
+{
+  "key": "_us_45678",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "22NA",
+    "local": "22NA"
+  },
+  "name": "Davis Regional Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.818417,
+    "longitude": -80.830417,
+    "elevation_ft": 865,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Statesville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45678
+  }
+}

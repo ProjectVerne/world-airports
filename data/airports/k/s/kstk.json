@@ -1,0 +1,33 @@
+{
+  "key": "kstk",
+  "codes": {
+    "icao": "KSTK",
+    "iata": "STK",
+    "gps": "KSTK",
+    "local": "STK"
+  },
+  "name": "Sterling Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.613497,
+    "longitude": -103.263833,
+    "elevation_ft": 4040,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Sterling"
+  },
+  "keywords": [
+    "Crosson Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sterling_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21113
+  }
+}

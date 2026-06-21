@@ -1,0 +1,31 @@
+{
+  "key": "svpt",
+  "codes": {
+    "icao": "SVPT",
+    "iata": "PTM",
+    "gps": "SVPT",
+    "local": null
+  },
+  "name": "Palmarito Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.575479,
+    "longitude": -70.174435,
+    "elevation_ft": 347,
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "Palmarito"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Palmarito_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6316
+  }
+}

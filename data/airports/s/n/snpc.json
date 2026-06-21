@@ -1,0 +1,31 @@
+{
+  "key": "snpc",
+  "codes": {
+    "icao": "SNPC",
+    "iata": "PCS",
+    "gps": "SNPC",
+    "local": "PI0009"
+  },
+  "name": "Picos Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.061385,
+    "longitude": -41.525871,
+    "elevation_ft": 1099,
+    "iso_country": "BR",
+    "iso_region": "BR-PI",
+    "municipality": "Picos"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Picos_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 368
+  }
+}

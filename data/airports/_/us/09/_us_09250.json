@@ -1,0 +1,30 @@
+{
+  "key": "_us_09250",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "29IS",
+    "local": "29IS"
+  },
+  "name": "Norman Rittenhouse Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.7575,
+    "longitude": -88.513397,
+    "elevation_ft": 640,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Fairbury"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9250
+  }
+}

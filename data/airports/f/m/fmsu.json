@@ -1,0 +1,30 @@
+{
+  "key": "fmsu",
+  "codes": {
+    "icao": "FMSU",
+    "iata": "VND",
+    "gps": "FMSU",
+    "local": null
+  },
+  "name": "Vangaindrano Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.350767,
+    "longitude": 47.581701,
+    "elevation_ft": 45,
+    "iso_country": "MG",
+    "iso_region": "MG-F",
+    "municipality": "Vangaindrano"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41919
+  }
+}

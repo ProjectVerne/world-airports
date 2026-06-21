@@ -1,0 +1,32 @@
+{
+  "key": "_zz_02790",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Non-Existent Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": -46.181902,
+    "longitude": -12.114796,
+    "elevation_ft": 1743,
+    "iso_country": "ZZ",
+    "iso_region": "ZZ-U-A",
+    "municipality": null
+  },
+  "keywords": [
+    "FAHS"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2790
+  }
+}

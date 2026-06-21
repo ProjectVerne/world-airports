@@ -1,0 +1,31 @@
+{
+  "key": "kaio",
+  "codes": {
+    "icao": "KAIO",
+    "iata": "AIO",
+    "gps": "KAIO",
+    "local": "AIO"
+  },
+  "name": "Atlantic Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.407299,
+    "longitude": -95.046898,
+    "elevation_ft": 1165,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Atlantic"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Atlantic_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19262
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "limb",
+  "codes": {
+    "icao": "LIMB",
+    "iata": null,
+    "gps": "LIMB",
+    "local": "MI08"
+  },
+  "name": "Milano-Bresso Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.541389,
+    "longitude": 9.202222,
+    "elevation_ft": 484,
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Bresso (MI)"
+  },
+  "keywords": [
+    "Bresso",
+    "Aeroclub Milano"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bresso_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4339
+  }
+}

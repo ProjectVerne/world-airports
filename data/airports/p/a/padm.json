@@ -1,0 +1,33 @@
+{
+  "key": "padm",
+  "codes": {
+    "icao": "PADM",
+    "iata": "MLL",
+    "gps": "PADM",
+    "local": "MDM"
+  },
+  "name": "Marshall Don Hunter Sr Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.8643,
+    "longitude": -162.026001,
+    "elevation_ft": 103,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Marshall"
+  },
+  "keywords": [
+    "3A5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Marshall_Don_Hunter_Sr._Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5352
+  }
+}

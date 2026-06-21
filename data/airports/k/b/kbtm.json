@@ -1,0 +1,31 @@
+{
+  "key": "kbtm",
+  "codes": {
+    "icao": "KBTM",
+    "iata": "BTM",
+    "gps": "KBTM",
+    "local": "BTM"
+  },
+  "name": "Bert Mooney Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.9548,
+    "longitude": -112.497002,
+    "elevation_ft": 5550,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Butte"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bert_Mooney_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3428
+  }
+}

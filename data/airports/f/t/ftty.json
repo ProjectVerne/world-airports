@@ -1,0 +1,31 @@
+{
+  "key": "ftty",
+  "codes": {
+    "icao": "FTTY",
+    "iata": "FYT",
+    "gps": "FTTY",
+    "local": null
+  },
+  "name": "Faya-Largeau Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 17.917101,
+    "longitude": 19.111099,
+    "elevation_ft": 771,
+    "iso_country": "TD",
+    "iso_region": "TD-BO",
+    "municipality": "Faya-Largeau"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Faya-Largeau_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2999
+  }
+}

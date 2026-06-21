@@ -1,0 +1,31 @@
+{
+  "key": "oims",
+  "codes": {
+    "icao": "OIMS",
+    "iata": "AFZ",
+    "gps": "OIMS",
+    "local": null
+  },
+  "name": "Sabzevar National Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.168098,
+    "longitude": 57.5952,
+    "elevation_ft": 3010,
+    "iso_country": "IR",
+    "iso_region": "IR-09",
+    "municipality": "Sabzevar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sabzevar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5185
+  }
+}

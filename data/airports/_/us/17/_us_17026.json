@@ -1,0 +1,33 @@
+{
+  "key": "_us_17026",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT71",
+    "local": "CT71"
+  },
+  "name": "RTX Farmington Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.708928,
+    "longitude": -72.8021,
+    "elevation_ft": 362,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Farmington"
+  },
+  "keywords": [
+    "Otis Helistop Division of UTC",
+    "Raytheon Technologies"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17026
+  }
+}

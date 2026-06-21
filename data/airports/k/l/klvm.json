@@ -1,0 +1,31 @@
+{
+  "key": "klvm",
+  "codes": {
+    "icao": "KLVM",
+    "iata": "LVM",
+    "gps": "KLVM",
+    "local": "LVM"
+  },
+  "name": "Mission Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.699402,
+    "longitude": -110.447998,
+    "elevation_ft": 4660,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Livingston"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mission_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20386
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "svrb",
+  "codes": {
+    "icao": "SVRB",
+    "iata": null,
+    "gps": "SVRB",
+    "local": null
+  },
+  "name": "Cumarebo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.512376,
+    "longitude": -69.314507,
+    "elevation_ft": 26,
+    "iso_country": "VE",
+    "iso_region": "VE-I",
+    "municipality": "Tocópero"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6319
+  }
+}

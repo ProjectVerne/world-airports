@@ -1,0 +1,32 @@
+{
+  "key": "_us_23023",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH70",
+    "local": "NH70"
+  },
+  "name": "Forbes Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.0431,
+    "longitude": -71.157222,
+    "elevation_ft": 540,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "North Conway"
+  },
+  "keywords": [
+    "US-12686"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23023
+  }
+}

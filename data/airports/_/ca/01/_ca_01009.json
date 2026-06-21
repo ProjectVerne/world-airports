@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01009",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFV9",
+    "local": "CFV9"
+  },
+  "name": "Drayton Valley (Health Centre) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.2117,
+    "longitude": -114.971001,
+    "elevation_ft": 2879,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Drayton Valley"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1009
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "hkma",
+  "codes": {
+    "icao": "HKMA",
+    "iata": "NDE",
+    "gps": "HKMA",
+    "local": null
+  },
+  "name": "Mandera Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 3.933816,
+    "longitude": 41.844114,
+    "elevation_ft": 805,
+    "iso_country": "KE",
+    "iso_region": "KE-09",
+    "municipality": "Mandera"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mandera_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32014
+  }
+}

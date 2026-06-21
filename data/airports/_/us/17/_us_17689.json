@@ -1,0 +1,32 @@
+{
+  "key": "_us_17689",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IA10",
+    "local": "IA10"
+  },
+  "name": "MercyOne Dubuque Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.49165,
+    "longitude": -90.675864,
+    "elevation_ft": 1050,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Dubuque"
+  },
+  "keywords": [
+    "Mercy Health Center"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17689
+  }
+}

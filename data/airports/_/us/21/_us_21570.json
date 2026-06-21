@@ -1,0 +1,30 @@
+{
+  "key": "_us_21570",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LL04",
+    "local": "LL04"
+  },
+  "name": "Morris Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.370119,
+    "longitude": -88.42731,
+    "elevation_ft": 512,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Morris"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21570
+  }
+}

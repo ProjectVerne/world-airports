@@ -1,0 +1,35 @@
+{
+  "key": "_nl_601257",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "KNMI Weather Station",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.441372,
+    "longitude": 3.595994,
+    "elevation_ft": 3,
+    "iso_country": "NL",
+    "iso_region": "NL-ZL",
+    "municipality": "Vlissingen"
+  },
+  "keywords": [
+    "KNMI",
+    "weather station",
+    "EHFS",
+    "not an airport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 601257
+  }
+}

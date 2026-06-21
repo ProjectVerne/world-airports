@@ -1,0 +1,33 @@
+{
+  "key": "kptw",
+  "codes": {
+    "icao": "KPTW",
+    "iata": "PTW",
+    "gps": "KPTW",
+    "local": "PTW"
+  },
+  "name": "Heritage Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.239601,
+    "longitude": -75.556702,
+    "elevation_ft": 309,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Pottstown"
+  },
+  "keywords": [
+    "Pottstown Limerick Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pottstown_Limerick_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20881
+  }
+}

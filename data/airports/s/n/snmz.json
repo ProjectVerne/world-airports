@@ -1,0 +1,31 @@
+{
+  "key": "snmz",
+  "codes": {
+    "icao": "SNMZ",
+    "iata": "PTQ",
+    "gps": "SNMZ",
+    "local": "PA0020"
+  },
+  "name": "Porto de Moz Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.741307,
+    "longitude": -52.236026,
+    "elevation_ft": 52,
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Porto de Moz"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Porto_de_Moz_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 355
+  }
+}

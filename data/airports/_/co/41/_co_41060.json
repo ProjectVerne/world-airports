@@ -1,0 +1,33 @@
+{
+  "key": "_co_41060",
+  "codes": {
+    "icao": null,
+    "iata": "PCC",
+    "gps": null,
+    "local": "PCC"
+  },
+  "name": "Puerto Rico Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.916667,
+    "longitude": -75.166667,
+    "elevation_ft": 980,
+    "iso_country": "CO",
+    "iso_region": "CO-CAQ",
+    "municipality": "Puerto Rico"
+  },
+  "keywords": [
+    "SK-045"
+  ],
+  "wikipedia": "https://es.wikipedia.org/wiki/Aeropuerto_de_Puerto_Rico",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41060
+  }
+}

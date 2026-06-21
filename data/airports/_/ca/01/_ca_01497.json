@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01497",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CRV2",
+    "local": "CRV2"
+  },
+  "name": "Barrie (Royal Victoria Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.41441,
+    "longitude": -79.665744,
+    "elevation_ft": 855,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Barrie"
+  },
+  "keywords": [
+    "RV2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1497
+  }
+}

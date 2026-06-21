@@ -1,0 +1,30 @@
+{
+  "key": "_us_24277",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS40",
+    "local": "PS40"
+  },
+  "name": "Tri-County Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.986198,
+    "longitude": -75.834396,
+    "elevation_ft": 1700,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Eckley"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24277
+  }
+}

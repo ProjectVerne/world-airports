@@ -1,0 +1,33 @@
+{
+  "key": "kpbg",
+  "codes": {
+    "icao": "KPBG",
+    "iata": "PBG",
+    "gps": "KPBG",
+    "local": "PBG"
+  },
+  "name": "Plattsburgh International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.650902,
+    "longitude": -73.468102,
+    "elevation_ft": 234,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Plattsburgh"
+  },
+  "keywords": [
+    "Plattsburgh Air Force Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Plattsburgh_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20808
+  }
+}

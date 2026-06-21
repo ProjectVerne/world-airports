@@ -1,0 +1,33 @@
+{
+  "key": "rpmr",
+  "codes": {
+    "icao": "RPMR",
+    "iata": "GES",
+    "gps": "RPMR",
+    "local": null
+  },
+  "name": "General Santos International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.057208,
+    "longitude": 125.096243,
+    "elevation_ft": 505,
+    "iso_country": "PH",
+    "iso_region": "PH-SCO",
+    "municipality": "General Santos"
+  },
+  "keywords": [
+    "Tambler Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/General_Santos_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5709
+  }
+}

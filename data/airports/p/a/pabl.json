@@ -1,0 +1,33 @@
+{
+  "key": "pabl",
+  "codes": {
+    "icao": "PABL",
+    "iata": "BKC",
+    "gps": "PABL",
+    "local": "BVK"
+  },
+  "name": "Buckland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.981598,
+    "longitude": -161.149002,
+    "elevation_ft": 31,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Buckland"
+  },
+  "keywords": [
+    "7K5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Buckland_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5340
+  }
+}

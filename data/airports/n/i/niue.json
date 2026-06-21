@@ -1,0 +1,33 @@
+{
+  "key": "niue",
+  "codes": {
+    "icao": "NIUE",
+    "iata": "IUE",
+    "gps": "NIUE",
+    "local": null
+  },
+  "name": "Niue International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.080109,
+    "longitude": -169.923493,
+    "elevation_ft": 209,
+    "iso_country": "NU",
+    "iso_region": "NU-U-A",
+    "municipality": "Alofi"
+  },
+  "keywords": [
+    "Hanan International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Niue_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4974
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01283",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CMR6",
+    "local": "CMR6"
+  },
+  "name": "Camrose / St Mary's Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.015138,
+    "longitude": -112.830169,
+    "elevation_ft": 2413,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Camrose"
+  },
+  "keywords": [
+    "MR6"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1283
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "edca",
+  "codes": {
+    "icao": "EDCA",
+    "iata": null,
+    "gps": "EDCA",
+    "local": null
+  },
+  "name": "Anklam Otto Lilienthal Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.832801,
+    "longitude": 13.668607,
+    "elevation_ft": 16,
+    "iso_country": "DE",
+    "iso_region": "DE-MV",
+    "municipality": "Anklam"
+  },
+  "keywords": [
+    "QKQ",
+    "Anklamer Flugplatz Otto Lilienthal"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Anklam",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2203
+  }
+}

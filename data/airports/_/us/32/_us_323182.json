@@ -1,0 +1,32 @@
+{
+  "key": "_us_323182",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "82AK",
+    "local": "82AK"
+  },
+  "name": "PRL Logistics Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 60.529526,
+    "longitude": -151.256733,
+    "elevation_ft": 29,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Kenai"
+  },
+  "keywords": [
+    "US-0543"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323182
+  }
+}

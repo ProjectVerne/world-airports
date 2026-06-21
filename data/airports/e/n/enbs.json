@@ -1,0 +1,31 @@
+{
+  "key": "enbs",
+  "codes": {
+    "icao": "ENBS",
+    "iata": "BJF",
+    "gps": "ENBS",
+    "local": null
+  },
+  "name": "Båtsfjord Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 70.60025,
+    "longitude": 29.692612,
+    "elevation_ft": 490,
+    "iso_country": "NO",
+    "iso_region": "NO-56",
+    "municipality": "Båtsfjord"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A5tsfjord_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2571
+  }
+}

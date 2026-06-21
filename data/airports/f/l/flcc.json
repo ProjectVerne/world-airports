@@ -1,0 +1,30 @@
+{
+  "key": "flcc",
+  "codes": {
+    "icao": "FLCC",
+    "iata": null,
+    "gps": "FLCC",
+    "local": null
+  },
+  "name": "Chocha Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.43184,
+    "longitude": 29.805057,
+    "elevation_ft": 3270,
+    "iso_country": "ZM",
+    "iso_region": "ZM-05",
+    "municipality": "Chocha"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31137
+  }
+}

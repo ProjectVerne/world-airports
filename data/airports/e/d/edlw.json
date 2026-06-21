@@ -1,0 +1,31 @@
+{
+  "key": "edlw",
+  "codes": {
+    "icao": "EDLW",
+    "iata": "DTM",
+    "gps": "EDLW",
+    "local": null
+  },
+  "name": "Dortmund Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.518299,
+    "longitude": 7.61224,
+    "elevation_ft": 425,
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Dortmund"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dortmund_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2247
+  }
+}

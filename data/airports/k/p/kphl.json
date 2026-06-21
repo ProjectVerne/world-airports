@@ -1,0 +1,31 @@
+{
+  "key": "kphl",
+  "codes": {
+    "icao": "KPHL",
+    "iata": "PHL",
+    "gps": "KPHL",
+    "local": "PHL"
+  },
+  "name": "Philadelphia International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.871899,
+    "longitude": -75.241096,
+    "elevation_ft": 36,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philadelphia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Philadelphia_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3771
+  }
+}

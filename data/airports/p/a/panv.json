@@ -1,0 +1,31 @@
+{
+  "key": "panv",
+  "codes": {
+    "icao": "PANV",
+    "iata": "ANV",
+    "gps": "PANV",
+    "local": "ANV"
+  },
+  "name": "Anvik Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.646702,
+    "longitude": -160.190994,
+    "elevation_ft": 291,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Anvik"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Anvik_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5392
+  }
+}

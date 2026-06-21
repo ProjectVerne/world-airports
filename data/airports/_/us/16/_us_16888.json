@@ -1,0 +1,30 @@
+{
+  "key": "_us_16888",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CO34",
+    "local": "CO34"
+  },
+  "name": "St Lukes Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.7472,
+    "longitude": -104.981003,
+    "elevation_ft": 5330,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Denver"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16888
+  }
+}

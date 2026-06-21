@@ -1,0 +1,34 @@
+{
+  "key": "lpbr",
+  "codes": {
+    "icao": "LPBR",
+    "iata": null,
+    "gps": "LPBR",
+    "local": null
+  },
+  "name": "Braga Municipal Aerodrome",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.587,
+    "longitude": -8.445189,
+    "elevation_ft": 247,
+    "iso_country": "PT",
+    "iso_region": "PT-03",
+    "municipality": "Braga"
+  },
+  "keywords": [
+    "BGZ",
+    "Aeródromo Municipal de Braga"
+  ],
+  "wikipedia": "http://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Braga",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4442
+  }
+}

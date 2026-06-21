@@ -1,0 +1,30 @@
+{
+  "key": "gcpu",
+  "codes": {
+    "icao": "GCPU",
+    "iata": null,
+    "gps": "GCPU",
+    "local": null
+  },
+  "name": "Puntagorda Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.77882,
+    "longitude": -17.9957,
+    "elevation_ft": 1440,
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "La Palma"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 524726
+  }
+}

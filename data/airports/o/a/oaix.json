@@ -1,0 +1,33 @@
+{
+  "key": "oaix",
+  "codes": {
+    "icao": "OAIX",
+    "iata": "OAI",
+    "gps": "OAIX",
+    "local": null
+  },
+  "name": "Bagram Airfield",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.946098,
+    "longitude": 69.264999,
+    "elevation_ft": 4895,
+    "iso_country": "AF",
+    "iso_region": "AF-PAR",
+    "municipality": "Bagram"
+  },
+  "keywords": [
+    "Bagram Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bagram_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5070
+  }
+}

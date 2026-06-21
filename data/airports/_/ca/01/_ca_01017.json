@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01017",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFX6",
+    "local": "CFX6"
+  },
+  "name": "Vulcan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.40447,
+    "longitude": -113.285223,
+    "elevation_ft": 3437,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Vulcan"
+  },
+  "keywords": [
+    "FX6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vulcan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1017
+  }
+}

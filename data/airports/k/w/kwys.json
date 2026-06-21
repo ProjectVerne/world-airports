@@ -1,0 +1,31 @@
+{
+  "key": "kwys",
+  "codes": {
+    "icao": "KWYS",
+    "iata": "WYS",
+    "gps": "KWYS",
+    "local": "WYS"
+  },
+  "name": "Yellowstone Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.6884,
+    "longitude": -111.117996,
+    "elevation_ft": 6649,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "West Yellowstone"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yellowstone_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3955
+  }
+}

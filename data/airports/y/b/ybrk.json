@@ -1,0 +1,31 @@
+{
+  "key": "ybrk",
+  "codes": {
+    "icao": "YBRK",
+    "iata": "ROK",
+    "gps": "YBRK",
+    "local": null
+  },
+  "name": "Rockhampton Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.380019,
+    "longitude": 150.475359,
+    "elevation_ft": 34,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Rockhampton"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rockhampton_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26925
+  }
+}

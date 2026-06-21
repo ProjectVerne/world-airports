@@ -1,0 +1,30 @@
+{
+  "key": "_us_10995",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "42IL",
+    "local": "42IL"
+  },
+  "name": "Lynn Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.2033,
+    "longitude": -88.497498,
+    "elevation_ft": 870,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Union"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10995
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "hsto",
+  "codes": {
+    "icao": "HSTO",
+    "iata": null,
+    "gps": "HSTO",
+    "local": null
+  },
+  "name": "Tonj Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.26631,
+    "longitude": 28.662424,
+    "elevation_ft": 1413,
+    "iso_country": "SS",
+    "iso_region": "SS-WR",
+    "municipality": "Tonj"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31630
+  }
+}

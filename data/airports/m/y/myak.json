@@ -1,0 +1,34 @@
+{
+  "key": "myak",
+  "codes": {
+    "icao": "MYAK",
+    "iata": "TZN",
+    "gps": "MYAK",
+    "local": "COX"
+  },
+  "name": "Congo Town Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.158701,
+    "longitude": -77.589798,
+    "elevation_ft": 15,
+    "iso_country": "BS",
+    "iso_region": "BS-SA",
+    "municipality": "Andros"
+  },
+  "keywords": [
+    "Congotown Airport",
+    "South Andros Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/South_Andros_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4926
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_09987",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KW11",
+    "local": "W11"
+  },
+  "name": "Sullivan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.007432,
+    "longitude": -88.602237,
+    "elevation_ft": 875,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Sullivan"
+  },
+  "keywords": [
+    "31WI",
+    "McDermott Air Park"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9987
+  }
+}

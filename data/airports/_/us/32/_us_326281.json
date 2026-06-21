@@ -1,0 +1,32 @@
+{
+  "key": "_us_326281",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OK89",
+    "local": "OK89"
+  },
+  "name": "L&L Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.693435,
+    "longitude": -97.898155,
+    "elevation_ft": 1416,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Marlow"
+  },
+  "keywords": [
+    "US-0817"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 326281
+  }
+}

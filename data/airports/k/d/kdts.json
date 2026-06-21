@@ -1,0 +1,34 @@
+{
+  "key": "kdts",
+  "codes": {
+    "icao": "KDTS",
+    "iata": "DSI",
+    "gps": "KDTS",
+    "local": "DTS"
+  },
+  "name": "Destin Executive Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.400101,
+    "longitude": -86.471497,
+    "elevation_ft": 23,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Destin"
+  },
+  "keywords": [
+    "81J",
+    "Destin-Fort Walton Beach Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Destin-Fort_Walton_Beach_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19661
+  }
+}

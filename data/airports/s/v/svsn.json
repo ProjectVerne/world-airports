@@ -1,0 +1,32 @@
+{
+  "key": "svsn",
+  "codes": {
+    "icao": "SVSN",
+    "iata": null,
+    "gps": "SVSN",
+    "local": null
+  },
+  "name": "Sabaneta Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.744275,
+    "longitude": -69.913814,
+    "elevation_ft": 530,
+    "iso_country": "VE",
+    "iso_region": "VE-E",
+    "municipality": "Sabaneta"
+  },
+  "keywords": [
+    "SVOE"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6305
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_17500",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "GA26",
+    "local": "GA26"
+  },
+  "name": "Fort Gordon HQ Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.420399,
+    "longitude": -82.139603,
+    "elevation_ft": 458,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Augusta"
+  },
+  "keywords": [
+    "Fort Eisenhower"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17500
+  }
+}

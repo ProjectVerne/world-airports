@@ -1,0 +1,32 @@
+{
+  "key": "_br_509298",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SN47",
+    "local": "GO0309"
+  },
+  "name": "FASAM Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -16.721789,
+    "longitude": -49.236739,
+    "elevation_ft": 2717,
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Goiânia"
+  },
+  "keywords": [
+    "BR-1834"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509298
+  }
+}

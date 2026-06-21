@@ -1,0 +1,32 @@
+{
+  "key": "_us_45259",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PPNU",
+    "local": "AA27"
+  },
+  "name": "Otp Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 70.414028,
+    "longitude": -150.018563,
+    "elevation_ft": 38,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Nuiqsut"
+  },
+  "keywords": [
+    "Pioneer Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45259
+  }
+}

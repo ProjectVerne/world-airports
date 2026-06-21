@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01418",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPJ3",
+    "local": "CPJ3"
+  },
+  "name": "Hamilton (Chedoke-McMaster Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.265989,
+    "longitude": -79.928922,
+    "elevation_ft": 260,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Hamilton"
+  },
+  "keywords": [
+    "PJ3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1418
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "cyml",
+  "codes": {
+    "icao": "CYML",
+    "iata": "YML",
+    "gps": "CYML",
+    "local": null
+  },
+  "name": "Charlevoix Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.5975,
+    "longitude": -70.2239,
+    "elevation_ft": 977,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Charlevoix"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Charlevoix_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1814
+  }
+}

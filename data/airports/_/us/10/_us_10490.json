@@ -1,0 +1,33 @@
+{
+  "key": "_us_10490",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Kerr Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.877201,
+    "longitude": -95.8825,
+    "elevation_ft": 1450,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Marcus"
+  },
+  "keywords": [
+    "3IA5",
+    "US-10032"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10490
+  }
+}

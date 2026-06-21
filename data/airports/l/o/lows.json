@@ -1,0 +1,33 @@
+{
+  "key": "lows",
+  "codes": {
+    "icao": "LOWS",
+    "iata": "SZG",
+    "gps": "LOWS",
+    "local": null
+  },
+  "name": "Salzburg Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.793301,
+    "longitude": 13.0043,
+    "elevation_ft": 1411,
+    "iso_country": "AT",
+    "iso_region": "AT-5",
+    "municipality": "Salzburg"
+  },
+  "keywords": [
+    "Christophorus 6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Salzburg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4433
+  }
+}

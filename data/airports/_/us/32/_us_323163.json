@@ -1,0 +1,30 @@
+{
+  "key": "_us_323163",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "30AL",
+    "local": "30AL"
+  },
+  "name": "Med Flight 2 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.373001,
+    "longitude": -87.0805,
+    "elevation_ft": 650,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Danville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323163
+  }
+}

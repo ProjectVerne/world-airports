@@ -1,0 +1,31 @@
+{
+  "key": "vlap",
+  "codes": {
+    "icao": "VLAP",
+    "iata": "AOU",
+    "gps": "VLAP",
+    "local": null
+  },
+  "name": "Attopeu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 14.793056,
+    "longitude": 107.045278,
+    "elevation_ft": 344,
+    "iso_country": "LA",
+    "iso_region": "LA-AT",
+    "municipality": "Attopeu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Attapeu_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30647
+  }
+}

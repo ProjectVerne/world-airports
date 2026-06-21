@@ -1,0 +1,33 @@
+{
+  "key": "eick",
+  "codes": {
+    "icao": "EICK",
+    "iata": "ORK",
+    "gps": "EICK",
+    "local": null
+  },
+  "name": "Cork International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.841301,
+    "longitude": -8.49111,
+    "elevation_ft": 502,
+    "iso_country": "IE",
+    "iso_region": "IE-CO",
+    "municipality": "Cork"
+  },
+  "keywords": [
+    "Aerfort Chorcaí"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cork_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2530
+  }
+}

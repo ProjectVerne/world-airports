@@ -1,0 +1,31 @@
+{
+  "key": "skyp",
+  "codes": {
+    "icao": "SKYP",
+    "iata": "EYP",
+    "gps": "SKYP",
+    "local": "EYP"
+  },
+  "name": "El Alcaravan - Yopal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.31911,
+    "longitude": -72.384,
+    "elevation_ft": 1028,
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Yopal"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Alcarav%C3%A1n_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6178
+  }
+}

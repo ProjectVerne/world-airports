@@ -1,0 +1,31 @@
+{
+  "key": "kfft",
+  "codes": {
+    "icao": "KFFT",
+    "iata": "FFT",
+    "gps": "KFFT",
+    "local": "FFT"
+  },
+  "name": "Capital City Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.181698,
+    "longitude": -84.906764,
+    "elevation_ft": 806,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Frankfort"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Capital_City_Airport_(Kentucky)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19865
+  }
+}

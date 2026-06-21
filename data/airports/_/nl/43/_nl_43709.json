@@ -1,0 +1,33 @@
+{
+  "key": "_nl_43709",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Medisch Spectrum Twente Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 52.215477,
+    "longitude": 6.89125,
+    "elevation_ft": 130,
+    "iso_country": "NL",
+    "iso_region": "NL-OV",
+    "municipality": "Enschede"
+  },
+  "keywords": [
+    "EH0008",
+    "NL-0014"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43709
+  }
+}

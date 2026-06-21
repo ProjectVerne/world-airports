@@ -1,0 +1,30 @@
+{
+  "key": "swvb",
+  "codes": {
+    "icao": "SWVB",
+    "iata": null,
+    "gps": "SWVB",
+    "local": "SC0206"
+  },
+  "name": "ICPB Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -27.143296,
+    "longitude": -48.532353,
+    "elevation_ft": 18,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Porto Belo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 564920
+  }
+}

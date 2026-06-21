@@ -1,0 +1,33 @@
+{
+  "key": "klbx",
+  "codes": {
+    "icao": "KLBX",
+    "iata": "LJN",
+    "gps": "KLBX",
+    "local": "LBX"
+  },
+  "name": "Texas Gulf Coast Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.108601,
+    "longitude": -95.462097,
+    "elevation_ft": 25,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Angleton"
+  },
+  "keywords": [
+    "Texas Gulf Coast Regional Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Texas_Gulf_Coast_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20323
+  }
+}

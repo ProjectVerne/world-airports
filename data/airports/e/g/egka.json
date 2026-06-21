@@ -1,0 +1,33 @@
+{
+  "key": "egka",
+  "codes": {
+    "icao": "EGKA",
+    "iata": "ESH",
+    "gps": "EGKA",
+    "local": null
+  },
+  "name": "Brighton City Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.835602,
+    "longitude": -0.297222,
+    "elevation_ft": 7,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Brighton, East Sussex"
+  },
+  "keywords": [
+    "Shoreham Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brighton_City_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2427
+  }
+}

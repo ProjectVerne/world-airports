@@ -1,0 +1,31 @@
+{
+  "key": "scrd",
+  "codes": {
+    "icao": "SCRD",
+    "iata": "VAP",
+    "gps": "SCRD",
+    "local": null
+  },
+  "name": "Rodelillo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.0681,
+    "longitude": -71.557503,
+    "elevation_ft": 1100,
+    "iso_country": "CL",
+    "iso_region": "CL-VS",
+    "municipality": "Viña Del Mar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rodelillo_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32565
+  }
+}

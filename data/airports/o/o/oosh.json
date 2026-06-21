@@ -1,0 +1,35 @@
+{
+  "key": "oosh",
+  "codes": {
+    "icao": "OOSH",
+    "iata": "OHS",
+    "gps": "OOSH",
+    "local": null
+  },
+  "name": "Suhar International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.38604,
+    "longitude": 56.62541,
+    "elevation_ft": 20,
+    "iso_country": "OM",
+    "iso_region": "OM-BA",
+    "municipality": "Suhar"
+  },
+  "keywords": [
+    "Majis",
+    "Sohar",
+    "Sohar Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sohar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 299742
+  }
+}

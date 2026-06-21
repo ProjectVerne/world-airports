@@ -1,0 +1,33 @@
+{
+  "key": "_us_23736",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Conklin Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.391701,
+    "longitude": -83.7033,
+    "elevation_ft": 675,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Bowling Green"
+  },
+  "keywords": [
+    "OI92",
+    "US-12017"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23736
+  }
+}

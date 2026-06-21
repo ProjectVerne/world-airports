@@ -1,0 +1,30 @@
+{
+  "key": "_us_12898",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "63FD",
+    "local": "63FD"
+  },
+  "name": "Link Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.698099,
+    "longitude": -82.491402,
+    "elevation_ft": 108,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Alachua"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12898
+  }
+}

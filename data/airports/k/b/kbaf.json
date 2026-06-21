@@ -1,0 +1,34 @@
+{
+  "key": "kbaf",
+  "codes": {
+    "icao": "KBAF",
+    "iata": "BAF",
+    "gps": "KBAF",
+    "local": "BAF"
+  },
+  "name": "Westfield-Barnes Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.157799,
+    "longitude": -72.715599,
+    "elevation_ft": 271,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Westfield"
+  },
+  "keywords": [
+    "Barnes Municipal Airport",
+    "Springfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Westfield-Barnes_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3393
+  }
+}

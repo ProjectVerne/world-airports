@@ -1,0 +1,33 @@
+{
+  "key": "enbl",
+  "codes": {
+    "icao": "ENBL",
+    "iata": "FDE",
+    "gps": "ENBL",
+    "local": null
+  },
+  "name": "Førde Airport, Bringeland",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.391102,
+    "longitude": 5.75694,
+    "elevation_ft": 1046,
+    "iso_country": "NO",
+    "iso_region": "NO-46",
+    "municipality": "Førde"
+  },
+  "keywords": [
+    "bringeland"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/F%C3%B8rde_Airport%2C_Bringeland",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29254
+  }
+}

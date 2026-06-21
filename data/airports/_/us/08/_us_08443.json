@@ -1,0 +1,30 @@
+{
+  "key": "_us_08443",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MD5",
+    "local": "1MD5"
+  },
+  "name": "Federal Support Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.192101,
+    "longitude": -77.106598,
+    "elevation_ft": 510,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Laytonsville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8443
+  }
+}

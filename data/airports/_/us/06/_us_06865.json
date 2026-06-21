@@ -1,0 +1,30 @@
+{
+  "key": "_us_06865",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "06CA",
+    "local": "06CA"
+  },
+  "name": "SCE Solar I Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.868942,
+    "longitude": -116.832024,
+    "elevation_ft": 1942,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Daggett"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6865
+  }
+}

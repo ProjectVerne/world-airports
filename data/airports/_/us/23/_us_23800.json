@@ -1,0 +1,32 @@
+{
+  "key": "_us_23800",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OK65",
+    "local": "OK65"
+  },
+  "name": "Hillcrest Hospital Cushing Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.97816,
+    "longitude": -96.757479,
+    "elevation_ft": 914,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Cushing"
+  },
+  "keywords": [
+    "Cushing Regional Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23800
+  }
+}

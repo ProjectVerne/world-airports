@@ -1,0 +1,33 @@
+{
+  "key": "unbg",
+  "codes": {
+    "icao": "UNBG",
+    "iata": "RGK",
+    "gps": "UNBG",
+    "local": null
+  },
+  "name": "Gorno-Altaysk Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.969204,
+    "longitude": 85.836539,
+    "elevation_ft": 965,
+    "iso_country": "RU",
+    "iso_region": "RU-AL",
+    "municipality": "Gorno-Altaysk"
+  },
+  "keywords": [
+    "Аэропорт Горно-Алтайск"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gorno-Altaysk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42913
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "czbd",
+  "codes": {
+    "icao": "CZBD",
+    "iata": "ILF",
+    "gps": "CZBD",
+    "local": null
+  },
+  "name": "Ilford Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.051622,
+    "longitude": -95.61882,
+    "elevation_ft": 642,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Ilford"
+  },
+  "keywords": [
+    "ZBD"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ilford_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2009
+  }
+}

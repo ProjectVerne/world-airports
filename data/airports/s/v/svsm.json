@@ -1,0 +1,32 @@
+{
+  "key": "svsm",
+  "codes": {
+    "icao": "SVSM",
+    "iata": null,
+    "gps": "SVSM",
+    "local": null
+  },
+  "name": "Santa Bárbara de Monagas Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.702262,
+    "longitude": -63.625424,
+    "elevation_ft": 804,
+    "iso_country": "VE",
+    "iso_region": "VE-N",
+    "municipality": "Punta de Mata"
+  },
+  "keywords": [
+    "SVOF"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6306
+  }
+}

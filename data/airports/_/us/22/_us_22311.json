@@ -1,0 +1,32 @@
+{
+  "key": "_us_22311",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MS05",
+    "local": "MS05"
+  },
+  "name": "Delta Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.411566,
+    "longitude": -91.034068,
+    "elevation_ft": 123,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Greenville"
+  },
+  "keywords": [
+    "Air Evac 87 Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22311
+  }
+}

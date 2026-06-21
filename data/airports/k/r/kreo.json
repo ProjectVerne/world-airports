@@ -1,0 +1,31 @@
+{
+  "key": "kreo",
+  "codes": {
+    "icao": "KREO",
+    "iata": "REO",
+    "gps": "KREO",
+    "local": "REO"
+  },
+  "name": "Rome State Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.577702,
+    "longitude": -117.885002,
+    "elevation_ft": 4053,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Rome"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rome_State_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20924
+  }
+}

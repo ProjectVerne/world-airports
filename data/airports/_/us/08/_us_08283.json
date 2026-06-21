@@ -1,0 +1,30 @@
+{
+  "key": "_us_08283",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1FD7",
+    "local": "1FD7"
+  },
+  "name": "Pga National Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 26.8328,
+    "longitude": -80.143402,
+    "elevation_ft": 19,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Palm Beach Gardens"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8283
+  }
+}

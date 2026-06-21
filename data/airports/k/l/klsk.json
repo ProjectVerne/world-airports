@@ -1,0 +1,30 @@
+{
+  "key": "klsk",
+  "codes": {
+    "icao": "KLSK",
+    "iata": "LSK",
+    "gps": "KLSK",
+    "local": "LSK"
+  },
+  "name": "Lusk Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.753799,
+    "longitude": -104.404999,
+    "elevation_ft": 4964,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Lusk"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20376
+  }
+}

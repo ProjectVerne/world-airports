@@ -1,0 +1,30 @@
+{
+  "key": "_us_09352",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2CL7",
+    "local": "2CL7"
+  },
+  "name": "Glendale Plaza Emergency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.155692,
+    "longitude": -118.258515,
+    "elevation_ft": 904,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Glendale"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9352
+  }
+}

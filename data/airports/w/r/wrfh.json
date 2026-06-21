@@ -1,0 +1,33 @@
+{
+  "key": "wrfh",
+  "codes": {
+    "icao": "WRFH",
+    "iata": null,
+    "gps": "WRFH",
+    "local": "ERI"
+  },
+  "name": "Eri Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.637412,
+    "longitude": 138.101757,
+    "elevation_ft": 440,
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Eri"
+  },
+  "keywords": [
+    "WX83",
+    "ID-0049"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310330
+  }
+}

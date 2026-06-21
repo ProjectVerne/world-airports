@@ -1,0 +1,30 @@
+{
+  "key": "_us_10005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32KY",
+    "local": "32KY"
+  },
+  "name": "St Elizabeth Medical Center South Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.013546,
+    "longitude": -84.56019,
+    "elevation_ft": 873,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Edgewood"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10005
+  }
+}

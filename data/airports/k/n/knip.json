@@ -1,0 +1,31 @@
+{
+  "key": "knip",
+  "codes": {
+    "icao": "KNIP",
+    "iata": "NIP",
+    "gps": "KNIP",
+    "local": "NIP"
+  },
+  "name": "Jacksonville Naval Air Station (Towers Field)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.2358,
+    "longitude": -81.680603,
+    "elevation_ft": 21,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Jacksonville",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3730
+  }
+}

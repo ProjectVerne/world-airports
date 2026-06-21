@@ -1,0 +1,31 @@
+{
+  "key": "lszl",
+  "codes": {
+    "icao": "LSZL",
+    "iata": null,
+    "gps": "LSZL",
+    "local": null
+  },
+  "name": "Locarno Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.162535,
+    "longitude": 8.878908,
+    "elevation_ft": 650,
+    "iso_country": "CH",
+    "iso_region": "CH-TI",
+    "municipality": "Locarno"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Locarno_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29523
+  }
+}

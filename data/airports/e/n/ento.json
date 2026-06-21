@@ -1,0 +1,33 @@
+{
+  "key": "ento",
+  "codes": {
+    "icao": "ENTO",
+    "iata": "TRF",
+    "gps": "ENTO",
+    "local": null
+  },
+  "name": "Sandefjord Airport, Torp",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.186699,
+    "longitude": 10.2586,
+    "elevation_ft": 286,
+    "iso_country": "NO",
+    "iso_region": "NO-39",
+    "municipality": "Sandefjord(Torp)"
+  },
+  "keywords": [
+    "Torp"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sandefjord_Airport%2C_Torp",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2600
+  }
+}

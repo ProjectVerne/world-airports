@@ -1,0 +1,30 @@
+{
+  "key": "_us_333141",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "99MS",
+    "local": "99MS"
+  },
+  "name": "Paradise Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.712408,
+    "longitude": -90.294872,
+    "elevation_ft": 250,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Yazoo City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333141
+  }
+}

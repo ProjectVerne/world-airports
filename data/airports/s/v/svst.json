@@ -1,0 +1,34 @@
+{
+  "key": "svst",
+  "codes": {
+    "icao": "SVST",
+    "iata": "SOM",
+    "gps": "SVST",
+    "local": null
+  },
+  "name": "San Tomé Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.945147,
+    "longitude": -64.151085,
+    "elevation_ft": 861,
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "El Tigre"
+  },
+  "keywords": [
+    "Don Edmundo Barrios",
+    "San José de Guanipa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Tom%C3%A9_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6328
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "ayim",
+  "codes": {
+    "icao": "AYIM",
+    "iata": "KGM",
+    "gps": "AYIM",
+    "local": "KNM"
+  },
+  "name": "Kungim Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.671,
+    "longitude": 141.03,
+    "elevation_ft": 349,
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Kungim"
+  },
+  "keywords": [
+    "Kungum"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 313419
+  }
+}

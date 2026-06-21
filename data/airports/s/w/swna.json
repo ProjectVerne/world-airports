@@ -1,0 +1,30 @@
+{
+  "key": "swna",
+  "codes": {
+    "icao": "SWNA",
+    "iata": "NVP",
+    "gps": "SWNA",
+    "local": "AM0050"
+  },
+  "name": "Novo Aripuanã Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.11803,
+    "longitude": -60.364899,
+    "elevation_ft": 118,
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Novo Aripuanã"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 563
+  }
+}

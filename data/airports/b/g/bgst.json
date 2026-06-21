@@ -1,0 +1,31 @@
+{
+  "key": "bgst",
+  "codes": {
+    "icao": "BGST",
+    "iata": "SAE",
+    "gps": "BGST",
+    "local": "SAA"
+  },
+  "name": "Saattut Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 70.811172,
+    "longitude": -51.63129,
+    "elevation_ft": 131,
+    "iso_country": "GL",
+    "iso_region": "GL-AV",
+    "municipality": "Saattut"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saattut_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43222
+  }
+}

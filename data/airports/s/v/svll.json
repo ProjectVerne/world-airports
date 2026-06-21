@@ -1,0 +1,32 @@
+{
+  "key": "svll",
+  "codes": {
+    "icao": "SVLL",
+    "iata": null,
+    "gps": "SVLL",
+    "local": null
+  },
+  "name": "El Callao Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.333353,
+    "longitude": -61.829939,
+    "elevation_ft": 787,
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "El Callao"
+  },
+  "keywords": [
+    "SVEL"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40125
+  }
+}

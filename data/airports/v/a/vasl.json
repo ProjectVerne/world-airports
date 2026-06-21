@@ -1,0 +1,33 @@
+{
+  "key": "vasl",
+  "codes": {
+    "icao": "VASL",
+    "iata": "SSE",
+    "gps": "VASL",
+    "local": null
+  },
+  "name": "Solapur Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 17.628,
+    "longitude": 75.934799,
+    "elevation_ft": 1584,
+    "iso_country": "IN",
+    "iso_region": "IN-MM",
+    "municipality": "Solapur"
+  },
+  "keywords": [
+    "Sholapur"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Solapur_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26460
+  }
+}

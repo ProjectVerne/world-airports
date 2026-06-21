@@ -1,0 +1,31 @@
+{
+  "key": "ncrg",
+  "codes": {
+    "icao": "NCRG",
+    "iata": "RAR",
+    "gps": "NCRG",
+    "local": null
+  },
+  "name": "Rarotonga International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -21.2027,
+    "longitude": -159.806,
+    "elevation_ft": 19,
+    "iso_country": "CK",
+    "iso_region": "CK-U-A",
+    "municipality": "Avarua"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rarotonga_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4958
+  }
+}

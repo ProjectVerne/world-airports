@@ -1,0 +1,33 @@
+{
+  "key": "gvac",
+  "codes": {
+    "icao": "GVAC",
+    "iata": "SID",
+    "gps": "GVAC",
+    "local": null
+  },
+  "name": "Amílcar Cabral International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.7414,
+    "longitude": -22.9494,
+    "elevation_ft": 177,
+    "iso_country": "CV",
+    "iso_region": "CV-B",
+    "municipality": "Espargos"
+  },
+  "keywords": [
+    "Sal Island"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Am%C3%ADlcar_Cabral_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3150
+  }
+}

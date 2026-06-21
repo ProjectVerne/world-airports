@@ -1,0 +1,31 @@
+{
+  "key": "mhpl",
+  "codes": {
+    "icao": "MHPL",
+    "iata": "PEU",
+    "gps": "MHPL",
+    "local": null
+  },
+  "name": "Puerto Lempira Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.2622,
+    "longitude": -83.781197,
+    "elevation_ft": 33,
+    "iso_country": "HN",
+    "iso_region": "HN-GD",
+    "municipality": "Puerto Lempira"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Puerto_Lempira_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32153
+  }
+}

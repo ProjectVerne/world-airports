@@ -1,0 +1,34 @@
+{
+  "key": "ymav",
+  "codes": {
+    "icao": "YMAV",
+    "iata": "AVV",
+    "gps": "YMAV",
+    "local": null
+  },
+  "name": "Melbourne Avalon International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -38.040269,
+    "longitude": 144.467196,
+    "elevation_ft": 35,
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Geelong/Melbourne"
+  },
+  "keywords": [
+    "Lara",
+    "Geelong"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Avalon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27043
+  }
+}

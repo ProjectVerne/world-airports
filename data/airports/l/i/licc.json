@@ -1,0 +1,34 @@
+{
+  "key": "licc",
+  "codes": {
+    "icao": "LICC",
+    "iata": "CTA",
+    "gps": "LICC",
+    "local": "CT03"
+  },
+  "name": "Catania-Fontanarossa Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.466801,
+    "longitude": 15.0664,
+    "elevation_ft": 39,
+    "iso_country": "IT",
+    "iso_region": "IT-82",
+    "municipality": "Catania"
+  },
+  "keywords": [
+    "Lanza Di Trabie",
+    "Catania-Fontanarossa Vincenzo Bellini"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Catania-Fontanarossa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4318
+  }
+}

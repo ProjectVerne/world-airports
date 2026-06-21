@@ -1,0 +1,30 @@
+{
+  "key": "aydk",
+  "codes": {
+    "icao": "AYDK",
+    "iata": "MDM",
+    "gps": "AYDK",
+    "local": "MUN"
+  },
+  "name": "Munduku Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.6204,
+    "longitude": 143.4516,
+    "elevation_ft": 100,
+    "iso_country": "PG",
+    "iso_region": "PG-ESW",
+    "municipality": "Munduku"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 313962
+  }
+}

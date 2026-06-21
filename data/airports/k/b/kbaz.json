@@ -1,0 +1,34 @@
+{
+  "key": "kbaz",
+  "codes": {
+    "icao": "KBAZ",
+    "iata": null,
+    "gps": "KBAZ",
+    "local": "BAZ"
+  },
+  "name": "New Braunfels National Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.7045,
+    "longitude": -98.042198,
+    "elevation_ft": 651,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "New Braunfels"
+  },
+  "keywords": [
+    "3R5",
+    "Clear Springs AFB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Braunfels_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19351
+  }
+}

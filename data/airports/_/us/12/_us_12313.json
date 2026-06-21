@@ -1,0 +1,30 @@
+{
+  "key": "_us_12313",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5CO3",
+    "local": "5CO3"
+  },
+  "name": "Jim's Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.703611,
+    "longitude": -108.063164,
+    "elevation_ft": 5093,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Delta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12313
+  }
+}

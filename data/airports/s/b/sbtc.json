@@ -1,0 +1,33 @@
+{
+  "key": "sbtc",
+  "codes": {
+    "icao": "SBTC",
+    "iata": "UNA",
+    "gps": "SBTC",
+    "local": "BA0067"
+  },
+  "name": "Una-Comandatuba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -15.354358,
+    "longitude": -38.998729,
+    "elevation_ft": 23,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Una"
+  },
+  "keywords": [
+    "Hotel Transamérica"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Una-Comandatuba_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5980
+  }
+}

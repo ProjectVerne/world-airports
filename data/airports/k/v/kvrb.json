@@ -1,0 +1,33 @@
+{
+  "key": "kvrb",
+  "codes": {
+    "icao": "KVRB",
+    "iata": "VRB",
+    "gps": "KVRB",
+    "local": "VRB"
+  },
+  "name": "Vero Beach Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.6556,
+    "longitude": -80.417901,
+    "elevation_ft": 24,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Vero Beach"
+  },
+  "keywords": [
+    "Vero Beach Municipal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vero_Beach_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3950
+  }
+}

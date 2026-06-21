@@ -1,0 +1,34 @@
+{
+  "key": "klse",
+  "codes": {
+    "icao": "KLSE",
+    "iata": "LSE",
+    "gps": "KLSE",
+    "local": "LSE"
+  },
+  "name": "La Crosse Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.879002,
+    "longitude": -91.256699,
+    "elevation_ft": 655,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "La Crosse"
+  },
+  "keywords": [
+    "airport",
+    "regional"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Crosse_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3654
+  }
+}

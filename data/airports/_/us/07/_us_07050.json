@@ -1,0 +1,30 @@
+{
+  "key": "_us_07050",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "09PN",
+    "local": "09PN"
+  },
+  "name": "Hundley Residence Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.562,
+    "longitude": -75.1427,
+    "elevation_ft": 480,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Kintersville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7050
+  }
+}

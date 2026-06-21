@@ -1,0 +1,31 @@
+{
+  "key": "mtpx",
+  "codes": {
+    "icao": "MTPX",
+    "iata": "PAX",
+    "gps": "MTPX",
+    "local": null
+  },
+  "name": "Port-de-Paix Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 19.934045,
+    "longitude": -72.84801,
+    "elevation_ft": 9,
+    "iso_country": "HT",
+    "iso_region": "HT-NO",
+    "municipality": "Port-de-Paix"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Port-de-Paix_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32146
+  }
+}

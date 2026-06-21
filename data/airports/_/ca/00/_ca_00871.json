@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00871",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CEL5",
+    "local": "CEL5"
+  },
+  "name": "Valleyview Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.032941,
+    "longitude": -117.294545,
+    "elevation_ft": 2435,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Valleyview"
+  },
+  "keywords": [
+    "EL5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Valleyview_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 871
+  }
+}

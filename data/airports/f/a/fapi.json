@@ -1,0 +1,32 @@
+{
+  "key": "fapi",
+  "codes": {
+    "icao": "FAPI",
+    "iata": null,
+    "gps": "FAPI",
+    "local": null
+  },
+  "name": "Pietersburg Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.9261,
+    "longitude": 29.4844,
+    "elevation_ft": 4354,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Polokwane"
+  },
+  "keywords": [
+    "PTG"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2823
+  }
+}

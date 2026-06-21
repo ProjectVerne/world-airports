@@ -1,0 +1,35 @@
+{
+  "key": "lybr",
+  "codes": {
+    "icao": "LYBR",
+    "iata": "IVG",
+    "gps": "LYBR",
+    "local": null
+  },
+  "name": "Berane Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.839001,
+    "longitude": 19.862,
+    "elevation_ft": 2287,
+    "iso_country": "ME",
+    "iso_region": "ME-03",
+    "municipality": "Berane"
+  },
+  "keywords": [
+    "Dolac Airport",
+    "Аеродром Беране",
+    "Aerodrom Berane"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Berane_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42777
+  }
+}

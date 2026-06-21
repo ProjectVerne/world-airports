@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01569",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSV3",
+    "local": "CSV3"
+  },
+  "name": "Bécancour Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.365002,
+    "longitude": -72.396103,
+    "elevation_ft": 31,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Bécancour"
+  },
+  "keywords": [
+    "SV3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1569
+  }
+}

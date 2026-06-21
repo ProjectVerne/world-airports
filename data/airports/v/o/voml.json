@@ -1,0 +1,33 @@
+{
+  "key": "voml",
+  "codes": {
+    "icao": "VOML",
+    "iata": "IXE",
+    "gps": "VOML",
+    "local": null
+  },
+  "name": "Mangaluru International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.95471,
+    "longitude": 74.886812,
+    "elevation_ft": 337,
+    "iso_country": "IN",
+    "iso_region": "IN-KA",
+    "municipality": "Mangaluru"
+  },
+  "keywords": [
+    "Bajpe Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mangalore_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26617
+  }
+}

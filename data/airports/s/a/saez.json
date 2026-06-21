@@ -1,0 +1,34 @@
+{
+  "key": "saez",
+  "codes": {
+    "icao": "SAEZ",
+    "iata": "EZE",
+    "gps": "SAEZ",
+    "local": "EZE"
+  },
+  "name": "Ezeiza International Airport - Ministro Pistarini",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.8222,
+    "longitude": -58.5358,
+    "elevation_ft": 67,
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Buenos Aires (Ezeiza)"
+  },
+  "keywords": [
+    "BUE",
+    "Ezeiza International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ministro_Pistarini_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5781
+  }
+}

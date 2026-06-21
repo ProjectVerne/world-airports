@@ -1,0 +1,35 @@
+{
+  "key": "_ca_01023",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Colomac Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 64.385002,
+    "longitude": -115.125,
+    "elevation_ft": 1073,
+    "iso_country": "CA",
+    "iso_region": "CA-NT",
+    "municipality": "Colomac"
+  },
+  "keywords": [
+    "FY8",
+    "CFY8",
+    "CA-1044"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Colomac_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1023
+  }
+}

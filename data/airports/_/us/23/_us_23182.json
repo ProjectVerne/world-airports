@@ -1,0 +1,30 @@
+{
+  "key": "_us_23182",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NK50",
+    "local": "NK50"
+  },
+  "name": "St Mary's Hospital Elevated Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.954201,
+    "longitude": -74.215401,
+    "elevation_ft": 335,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Amsterdam"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23182
+  }
+}

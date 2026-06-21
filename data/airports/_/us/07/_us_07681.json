@@ -1,0 +1,30 @@
+{
+  "key": "_us_07681",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "10NH",
+    "local": "10NH"
+  },
+  "name": "Clark Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.8741,
+    "longitude": -71.179703,
+    "elevation_ft": 320,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Hampstead"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7681
+  }
+}

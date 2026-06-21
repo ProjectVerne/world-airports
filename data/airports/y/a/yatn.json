@@ -1,0 +1,30 @@
+{
+  "key": "yatn",
+  "codes": {
+    "icao": "YATN",
+    "iata": null,
+    "gps": "YATN",
+    "local": null
+  },
+  "name": "Atherton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -17.256402,
+    "longitude": 145.511482,
+    "elevation_ft": 2450,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Atherton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27344
+  }
+}

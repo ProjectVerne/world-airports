@@ -1,0 +1,36 @@
+{
+  "key": "ldri",
+  "codes": {
+    "icao": "LDRI",
+    "iata": "RJK",
+    "gps": "LDRI",
+    "local": null
+  },
+  "name": "Rijeka Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.216376,
+    "longitude": 14.57085,
+    "elevation_ft": 278,
+    "iso_country": "HR",
+    "iso_region": "HR-08",
+    "municipality": "Rijeka(Omišalj)"
+  },
+  "keywords": [
+    "Reka",
+    "Rika",
+    "Fiume",
+    "Omišalj"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rijeka_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3989
+  }
+}

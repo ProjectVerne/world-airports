@@ -1,0 +1,33 @@
+{
+  "key": "mmep",
+  "codes": {
+    "icao": "MMEP",
+    "iata": "TPQ",
+    "gps": "MMEP",
+    "local": "TNY"
+  },
+  "name": "Amado Nervo National Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.419833,
+    "longitude": -104.842472,
+    "elevation_ft": 3020,
+    "iso_country": "MX",
+    "iso_region": "MX-NAY",
+    "municipality": "Tepic"
+  },
+  "keywords": [
+    "Tepic Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Amado_Nervo_National_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4708
+  }
+}

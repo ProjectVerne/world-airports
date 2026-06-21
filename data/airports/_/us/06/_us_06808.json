@@ -1,0 +1,30 @@
+{
+  "key": "_us_06808",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "05AL",
+    "local": "05AL"
+  },
+  "name": "Allen Stagefield Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.231199,
+    "longitude": -85.649696,
+    "elevation_ft": 365,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Fort Rucker/Wicksburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6808
+  }
+}

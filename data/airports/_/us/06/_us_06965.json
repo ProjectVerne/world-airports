@@ -1,0 +1,30 @@
+{
+  "key": "_us_06965",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "08AZ",
+    "local": "08AZ"
+  },
+  "name": "Mesa Police Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.417669,
+    "longitude": -111.838835,
+    "elevation_ft": 1240,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Mesa"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6965
+  }
+}

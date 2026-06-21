@@ -1,0 +1,33 @@
+{
+  "key": "cyvg",
+  "codes": {
+    "icao": "CYVG",
+    "iata": "YVG",
+    "gps": "CYVG",
+    "local": "YVG"
+  },
+  "name": "Vermilion Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.357714,
+    "longitude": -110.827388,
+    "elevation_ft": 2025,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Vermilion"
+  },
+  "keywords": [
+    "YVG"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vermilion_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1935
+  }
+}

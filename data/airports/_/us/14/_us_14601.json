@@ -1,0 +1,33 @@
+{
+  "key": "_us_14601",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Miller Aeroplane Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.234741,
+    "longitude": -96.299679,
+    "elevation_ft": 1020,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Wamego"
+  },
+  "keywords": [
+    "83KS",
+    "US-10805"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 14601
+  }
+}

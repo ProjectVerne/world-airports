@@ -1,0 +1,32 @@
+{
+  "key": "agti",
+  "codes": {
+    "icao": "AGTI",
+    "iata": "TLG",
+    "gps": "AGTI",
+    "local": null
+  },
+  "name": "Tulaghi Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -9.108,
+    "longitude": 160.149167,
+    "elevation_ft": 3,
+    "iso_country": "SB",
+    "iso_region": "SB-CE",
+    "municipality": "Tulaghi Island"
+  },
+  "keywords": [
+    "Tulagi"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 306999
+  }
+}

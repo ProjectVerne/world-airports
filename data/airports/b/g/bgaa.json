@@ -1,0 +1,35 @@
+{
+  "key": "bgaa",
+  "codes": {
+    "icao": "BGAA",
+    "iata": "JEG",
+    "gps": "BGAA",
+    "local": null
+  },
+  "name": "Aasiaat Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 68.721802,
+    "longitude": -52.784698,
+    "elevation_ft": 74,
+    "iso_country": "GL",
+    "iso_region": "GL-QK",
+    "municipality": "Aasiaat"
+  },
+  "keywords": [
+    "Mittarfik Aasiaat",
+    "Aasiaat Lufthavn",
+    "Egedesminde"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aasiaat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31697
+  }
+}

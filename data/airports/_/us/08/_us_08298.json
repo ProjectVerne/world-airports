@@ -1,0 +1,30 @@
+{
+  "key": "_us_08298",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1GA1",
+    "local": "1GA1"
+  },
+  "name": "Pratt and Whitney Aircraft Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.543201,
+    "longitude": -84.831902,
+    "elevation_ft": 430,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Columbus"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8298
+  }
+}

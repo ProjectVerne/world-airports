@@ -1,0 +1,33 @@
+{
+  "key": "paoc",
+  "codes": {
+    "icao": "PAOC",
+    "iata": "PCA",
+    "gps": "PAOC",
+    "local": "A14"
+  },
+  "name": "Portage Creek Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.9065,
+    "longitude": -157.714,
+    "elevation_ft": 137,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Portage Creek"
+  },
+  "keywords": [
+    "AK14"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Portage_Creek_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16073
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "pail",
+  "codes": {
+    "icao": "PAIL",
+    "iata": "ILI",
+    "gps": "PAIL",
+    "local": "ILI"
+  },
+  "name": "Iliamna Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.754398,
+    "longitude": -154.910996,
+    "elevation_ft": 192,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Iliamna"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Iliamna_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5377
+  }
+}

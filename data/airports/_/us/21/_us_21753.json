@@ -1,0 +1,30 @@
+{
+  "key": "_us_21753",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA10",
+    "local": "MA10"
+  },
+  "name": "Chambers Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.378163,
+    "longitude": -71.088552,
+    "elevation_ft": 60,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Somerville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21753
+  }
+}

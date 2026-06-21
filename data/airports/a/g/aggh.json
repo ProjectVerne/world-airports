@@ -1,0 +1,33 @@
+{
+  "key": "aggh",
+  "codes": {
+    "icao": "AGGH",
+    "iata": "HIR",
+    "gps": "AGGH",
+    "local": null
+  },
+  "name": "Honiara International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.428,
+    "longitude": 160.054993,
+    "elevation_ft": 28,
+    "iso_country": "SB",
+    "iso_region": "SB-GU",
+    "municipality": "Honiara"
+  },
+  "keywords": [
+    "Henderson Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Honiara_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "keka",
+  "codes": {
+    "icao": "KEKA",
+    "iata": "EKA",
+    "gps": "KEKA",
+    "local": "EKA"
+  },
+  "name": "Murray Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.803398,
+    "longitude": -124.112999,
+    "elevation_ft": 7,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Eureka"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Murray_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3506
+  }
+}

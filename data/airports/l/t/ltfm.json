@@ -1,0 +1,33 @@
+{
+  "key": "ltfm",
+  "codes": {
+    "icao": "LTFM",
+    "iata": "IST",
+    "gps": "LTFM",
+    "local": null
+  },
+  "name": "İstanbul Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.274874,
+    "longitude": 28.732136,
+    "elevation_ft": 325,
+    "iso_country": "TR",
+    "iso_region": "TR-34",
+    "municipality": "Istanbul"
+  },
+  "keywords": [
+    "Arnavutköy"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 317457
+  }
+}

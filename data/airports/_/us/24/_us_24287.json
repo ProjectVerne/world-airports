@@ -1,0 +1,30 @@
+{
+  "key": "_us_24287",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS51",
+    "local": "PS51"
+  },
+  "name": "Anzio Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.280602,
+    "longitude": -76.816399,
+    "elevation_ft": 500,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Harrisburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24287
+  }
+}

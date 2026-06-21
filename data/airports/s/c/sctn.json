@@ -1,0 +1,31 @@
+{
+  "key": "sctn",
+  "codes": {
+    "icao": "SCTN",
+    "iata": "WCH",
+    "gps": "SCTN",
+    "local": null
+  },
+  "name": "Nuevo Chaitén Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -42.781943,
+    "longitude": -72.834999,
+    "elevation_ft": 95,
+    "iso_country": "CL",
+    "iso_region": "CL-LL",
+    "municipality": "Chaitén"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nuevo_Chait%C3%A9n_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505530
+  }
+}

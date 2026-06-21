@@ -1,0 +1,31 @@
+{
+  "key": "eddw",
+  "codes": {
+    "icao": "EDDW",
+    "iata": "BRE",
+    "gps": "EDDW",
+    "local": null
+  },
+  "name": "Bremen Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.046786,
+    "longitude": 8.78932,
+    "elevation_ft": 14,
+    "iso_country": "DE",
+    "iso_region": "DE-HB",
+    "municipality": "Bremen"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bremen_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2225
+  }
+}

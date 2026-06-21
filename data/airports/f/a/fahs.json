@@ -1,0 +1,35 @@
+{
+  "key": "fahs",
+  "codes": {
+    "icao": "FAHS",
+    "iata": "HDS",
+    "gps": null,
+    "local": null
+  },
+  "name": "Eastgate Airport / Air Force Base Hoedspruit",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -24.361864,
+    "longitude": 31.052921,
+    "elevation_ft": 1801,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Hoedspruit"
+  },
+  "keywords": [
+    "Hoedspruit Airport",
+    "Hoedspruit Air Force Base",
+    "FAHT"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Air_Force_Base_Hoedspruit",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29953
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_kr_328028",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "KODIT Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.545514,
+    "longitude": 126.952853,
+    "elevation_ft": 0,
+    "iso_country": "KR",
+    "iso_region": "KR-11",
+    "municipality": "Seoul"
+  },
+  "keywords": [
+    "KODIT",
+    "KR-0702"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 328028
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "edtl",
+  "codes": {
+    "icao": "EDTL",
+    "iata": "LHA",
+    "gps": "EDTL",
+    "local": null
+  },
+  "name": "Lahr Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.369301,
+    "longitude": 7.82772,
+    "elevation_ft": 511,
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Lahr/Schwarzwald"
+  },
+  "keywords": [
+    "Black Forest Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/CFB_Lahr",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2276
+  }
+}

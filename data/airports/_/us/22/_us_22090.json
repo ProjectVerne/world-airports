@@ -1,0 +1,30 @@
+{
+  "key": "_us_22090",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MI81",
+    "local": "MI81"
+  },
+  "name": "Express Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.513901,
+    "longitude": -83.357803,
+    "elevation_ft": 895,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Farmington Hills"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22090
+  }
+}

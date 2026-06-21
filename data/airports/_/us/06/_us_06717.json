@@ -1,0 +1,30 @@
+{
+  "key": "_us_06717",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "03MA",
+    "local": "03MA"
+  },
+  "name": "Hadley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.393431,
+    "longitude": -72.551553,
+    "elevation_ft": 150,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Hadley"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6717
+  }
+}

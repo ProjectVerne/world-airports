@@ -1,0 +1,31 @@
+{
+  "key": "vtsp",
+  "codes": {
+    "icao": "VTSP",
+    "iata": "HKT",
+    "gps": "VTSP",
+    "local": null
+  },
+  "name": "Phuket International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.113257,
+    "longitude": 98.3174,
+    "elevation_ft": 82,
+    "iso_country": "TH",
+    "iso_region": "TH-83",
+    "municipality": "Phuket"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Phuket_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26674
+  }
+}

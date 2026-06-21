@@ -1,0 +1,32 @@
+{
+  "key": "_br_00255",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SD53",
+    "local": "SP1448"
+  },
+  "name": "Porto Primavera Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.525679,
+    "longitude": -52.972172,
+    "elevation_ft": 1071,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Rosana"
+  },
+  "keywords": [
+    "BR-1941"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 255
+  }
+}

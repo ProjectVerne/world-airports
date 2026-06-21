@@ -1,0 +1,33 @@
+{
+  "key": "ksle",
+  "codes": {
+    "icao": "KSLE",
+    "iata": "SLE",
+    "gps": "KSLE",
+    "local": "SLE"
+  },
+  "name": "Salem-Willamette Valley Airport/McNary Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.9095,
+    "longitude": -123.002998,
+    "elevation_ft": 214,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Salem"
+  },
+  "keywords": [
+    "4OR1"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/McNary_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3888
+  }
+}

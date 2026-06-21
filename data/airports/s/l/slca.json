@@ -1,0 +1,31 @@
+{
+  "key": "slca",
+  "codes": {
+    "icao": "SLCA",
+    "iata": "CAM",
+    "gps": "SLCA",
+    "local": null
+  },
+  "name": "Camiri Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.00656,
+    "longitude": -63.527827,
+    "elevation_ft": 2614,
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Camiri"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Camiri_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29751
+  }
+}

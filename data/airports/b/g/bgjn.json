@@ -1,0 +1,35 @@
+{
+  "key": "bgjn",
+  "codes": {
+    "icao": "BGJN",
+    "iata": "JAV",
+    "gps": "BGJN",
+    "local": null
+  },
+  "name": "Ilulissat Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 69.243202,
+    "longitude": -51.057098,
+    "elevation_ft": 95,
+    "iso_country": "GL",
+    "iso_region": "GL-AV",
+    "municipality": "Ilulissat"
+  },
+  "keywords": [
+    "Mittarfik Ilulissat",
+    "Ilulissat Lufthavn",
+    "Jakobshavn"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ilulissat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31694
+  }
+}

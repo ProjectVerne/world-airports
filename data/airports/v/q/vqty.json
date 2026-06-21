@@ -1,0 +1,34 @@
+{
+  "key": "vqty",
+  "codes": {
+    "icao": "VQTY",
+    "iata": "YON",
+    "gps": "VQTY",
+    "local": null
+  },
+  "name": "Yongphulla Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.25627,
+    "longitude": 91.514633,
+    "elevation_ft": 9000,
+    "iso_country": "BT",
+    "iso_region": "BT-41",
+    "municipality": "Yongphulla"
+  },
+  "keywords": [
+    "Yonphula Airport",
+    "VQ10"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yongphulla_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 606
+  }
+}

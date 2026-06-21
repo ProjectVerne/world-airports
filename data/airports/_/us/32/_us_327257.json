@@ -1,0 +1,32 @@
+{
+  "key": "_us_327257",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4OK1",
+    "local": "4OK1"
+  },
+  "name": "Air Evac 122 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.539857,
+    "longitude": -98.662398,
+    "elevation_ft": 1595,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Weatherford"
+  },
+  "keywords": [
+    "US-0862"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 327257
+  }
+}

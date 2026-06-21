@@ -1,0 +1,32 @@
+{
+  "key": "_us_07571",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0TX3",
+    "local": "0TX3"
+  },
+  "name": "UT Health East Texas Carthage Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.166429,
+    "longitude": -94.346098,
+    "elevation_ft": 296,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Carthage"
+  },
+  "keywords": [
+    "Panola General Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7571
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "daag",
+  "codes": {
+    "icao": "DAAG",
+    "iata": "ALG",
+    "gps": "DAAG",
+    "local": null
+  },
+  "name": "Houari Boumediene Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.693886,
+    "longitude": 3.214531,
+    "elevation_ft": 82,
+    "iso_country": "DZ",
+    "iso_region": "DZ-16",
+    "municipality": "Algiers"
+  },
+  "keywords": [
+    "Algiers",
+    "Maison Blanche"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Houari_Boumediene_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2050
+  }
+}

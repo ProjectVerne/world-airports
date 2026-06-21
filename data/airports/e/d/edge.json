@@ -1,0 +1,33 @@
+{
+  "key": "edge",
+  "codes": {
+    "icao": "EDGE",
+    "iata": "EIB",
+    "gps": "EDGE",
+    "local": null
+  },
+  "name": "Eisenach-Kindel Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.991604,
+    "longitude": 10.47973,
+    "elevation_ft": 1112,
+    "iso_country": "DE",
+    "iso_region": "DE-TH",
+    "municipality": "Hörselberg-Hainich"
+  },
+  "keywords": [
+    "Flugplatz Eisenach-Kindel"
+  ],
+  "wikipedia": "http://de.wikipedia.org/wiki/Flugplatz_Eisenach-Kindel",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2232
+  }
+}

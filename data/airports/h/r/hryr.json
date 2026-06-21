@@ -1,0 +1,34 @@
+{
+  "key": "hryr",
+  "codes": {
+    "icao": "HRYR",
+    "iata": "KGL",
+    "gps": "HRYR",
+    "local": null
+  },
+  "name": "Kigali International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.96863,
+    "longitude": 30.1395,
+    "elevation_ft": 4859,
+    "iso_country": "RW",
+    "iso_region": "RW-01",
+    "municipality": "Kigali"
+  },
+  "keywords": [
+    "Gregoire Kayibanda International Airport",
+    "Kanombe International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kigali_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3237
+  }
+}

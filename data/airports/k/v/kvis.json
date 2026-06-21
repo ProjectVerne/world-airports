@@ -1,0 +1,31 @@
+{
+  "key": "kvis",
+  "codes": {
+    "icao": "KVIS",
+    "iata": "VIS",
+    "gps": "KVIS",
+    "local": "VIS"
+  },
+  "name": "Visalia Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.318699,
+    "longitude": -119.392998,
+    "elevation_ft": 295,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Visalia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Visalia_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21325
+  }
+}

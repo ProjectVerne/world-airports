@@ -1,0 +1,31 @@
+{
+  "key": "vtch",
+  "codes": {
+    "icao": "VTCH",
+    "iata": "HGN",
+    "gps": "VTCH",
+    "local": null
+  },
+  "name": "Mae Hong Son Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 19.3013,
+    "longitude": 97.9758,
+    "elevation_ft": 929,
+    "iso_country": "TH",
+    "iso_region": "TH-58",
+    "municipality": "Mae Hong Son"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mae_Hong_Son_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26648
+  }
+}

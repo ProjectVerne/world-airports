@@ -1,0 +1,30 @@
+{
+  "key": "_us_45494",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MS84",
+    "local": "MS84"
+  },
+  "name": "Beaman Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.361556,
+    "longitude": -89.161333,
+    "elevation_ft": 250,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Petal"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45494
+  }
+}

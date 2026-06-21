@@ -1,0 +1,33 @@
+{
+  "key": "ycfs",
+  "codes": {
+    "icao": "YCFS",
+    "iata": "CFS",
+    "gps": "YCFS",
+    "local": null
+  },
+  "name": "Coffs Harbour Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -30.320601,
+    "longitude": 153.115997,
+    "elevation_ft": 18,
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Coffs Harbour"
+  },
+  "keywords": [
+    "RAAF Base Coffs Harbour"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Coffs_Harbour_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27132
+  }
+}

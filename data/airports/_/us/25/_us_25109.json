@@ -1,0 +1,32 @@
+{
+  "key": "_us_25109",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS93",
+    "local": "TS93"
+  },
+  "name": "Cathexis Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.762834,
+    "longitude": -95.32775,
+    "elevation_ft": 29,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [
+    "Brown & Root-Clinton Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25109
+  }
+}

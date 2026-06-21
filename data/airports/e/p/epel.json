@@ -1,0 +1,35 @@
+{
+  "key": "epel",
+  "codes": {
+    "icao": "EPEL",
+    "iata": null,
+    "gps": "EPEL",
+    "local": null
+  },
+  "name": "Elbląg Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.1408,
+    "longitude": 19.4233,
+    "elevation_ft": 10,
+    "iso_country": "PL",
+    "iso_region": "PL-WN",
+    "municipality": "Elbląg"
+  },
+  "keywords": [
+    "ZBG",
+    "Elblag",
+    "Elbing"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Elbl%C4%85g",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29843
+  }
+}

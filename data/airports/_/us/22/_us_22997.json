@@ -1,0 +1,30 @@
+{
+  "key": "_us_22997",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH42",
+    "local": "NH42"
+  },
+  "name": "C.S.S. Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.736801,
+    "longitude": -71.481499,
+    "elevation_ft": 212,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Nashua"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22997
+  }
+}

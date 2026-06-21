@@ -1,0 +1,30 @@
+{
+  "key": "_us_08235",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1CD5",
+    "local": "1CD5"
+  },
+  "name": "Rio Grande Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.674999,
+    "longitude": -106.362999,
+    "elevation_ft": 7190,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Del Norte"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8235
+  }
+}

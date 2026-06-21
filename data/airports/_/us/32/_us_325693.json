@@ -1,0 +1,32 @@
+{
+  "key": "_us_325693",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "7PA0",
+    "local": "7PA0"
+  },
+  "name": "OPA Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.651027,
+    "longitude": -76.114111,
+    "elevation_ft": 670,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Orwigsburg"
+  },
+  "keywords": [
+    "US-0761"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325693
+  }
+}

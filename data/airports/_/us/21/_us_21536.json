@@ -1,0 +1,30 @@
+{
+  "key": "_us_21536",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LA69",
+    "local": "LA69"
+  },
+  "name": "Jenkins Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.4716,
+    "longitude": -91.079597,
+    "elevation_ft": 50,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Baton Rouge"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21536
+  }
+}

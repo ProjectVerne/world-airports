@@ -1,0 +1,31 @@
+{
+  "key": "zubd",
+  "codes": {
+    "icao": "ZUBD",
+    "iata": "BPX",
+    "gps": "ZUBD",
+    "local": null
+  },
+  "name": "Qamdo Bangda Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.5536,
+    "longitude": 97.108299,
+    "elevation_ft": 14219,
+    "iso_country": "CN",
+    "iso_region": "CN-54",
+    "municipality": "Bangda"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bangda_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30788
+  }
+}

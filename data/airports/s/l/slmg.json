@@ -1,0 +1,30 @@
+{
+  "key": "slmg",
+  "codes": {
+    "icao": "SLMG",
+    "iata": "MGD",
+    "gps": "SLMG",
+    "local": null
+  },
+  "name": "Magdalena Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -13.260748,
+    "longitude": -64.060764,
+    "elevation_ft": 462,
+    "iso_country": "BO",
+    "iso_region": "BO-B",
+    "municipality": "Magdalena"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30099
+  }
+}

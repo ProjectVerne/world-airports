@@ -1,0 +1,33 @@
+{
+  "key": "mmpr",
+  "codes": {
+    "icao": "MMPR",
+    "iata": "PVR",
+    "gps": "MMPR",
+    "local": null
+  },
+  "name": "Puerto Vallarta International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.679913,
+    "longitude": -105.254391,
+    "elevation_ft": 23,
+    "iso_country": "MX",
+    "iso_region": "MX-JAL",
+    "municipality": "Puerto Vallarta"
+  },
+  "keywords": [
+    "Licenciado Gustavo Díaz Ordaz"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lic._Gustavo_D%C3%ADaz_Ordaz_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4745
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "huji",
+  "codes": {
+    "icao": "HUJI",
+    "iata": "JIN",
+    "gps": "HUJI",
+    "local": null
+  },
+  "name": "Jinja Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 0.453094,
+    "longitude": 33.19356,
+    "elevation_ft": 3855,
+    "iso_country": "UG",
+    "iso_region": "UG-E",
+    "municipality": "Jinja"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jinja_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31702
+  }
+}

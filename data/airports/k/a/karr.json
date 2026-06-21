@@ -1,0 +1,31 @@
+{
+  "key": "karr",
+  "codes": {
+    "icao": "KARR",
+    "iata": "AUZ",
+    "gps": "KARR",
+    "local": "ARR"
+  },
+  "name": "Aurora Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.7719,
+    "longitude": -88.4757,
+    "elevation_ft": 712,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Chicago/Aurora"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aurora_Municipal_Airport_(Illinois)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19305
+  }
+}

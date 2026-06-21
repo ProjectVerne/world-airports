@@ -1,0 +1,33 @@
+{
+  "key": "epst",
+  "codes": {
+    "icao": "EPST",
+    "iata": null,
+    "gps": "EPST",
+    "local": null
+  },
+  "name": "Stalowa Wola-Turbia Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.62638,
+    "longitude": 21.998963,
+    "elevation_ft": 492,
+    "iso_country": "PL",
+    "iso_region": "PL-PK",
+    "municipality": "Zaleszany"
+  },
+  "keywords": [
+    "QXQ"
+  ],
+  "wikipedia": "https://pl.wikipedia.org/wiki/Lotnisko_Stalowa_Wola-Turbia",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30434
+  }
+}

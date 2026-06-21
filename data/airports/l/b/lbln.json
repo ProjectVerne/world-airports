@@ -1,0 +1,30 @@
+{
+  "key": "lbln",
+  "codes": {
+    "icao": "LBLN",
+    "iata": null,
+    "gps": "LBLN",
+    "local": null
+  },
+  "name": "Lozen Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.618534,
+    "longitude": 23.500622,
+    "elevation_ft": 1923,
+    "iso_country": "BG",
+    "iso_region": "BG-22",
+    "municipality": "Lozen"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43911
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_14851",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8A4",
+    "local": "8A4"
+  },
+  "name": "Indianapolis Downtown Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.7659,
+    "longitude": -86.148903,
+    "elevation_ft": 732,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Indianapolis"
+  },
+  "keywords": [
+    "IN03"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Indianapolis_Downtown_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 14851
+  }
+}

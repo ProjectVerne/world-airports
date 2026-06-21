@@ -1,0 +1,33 @@
+{
+  "key": "_us_06730",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "AT&T Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.667907,
+    "longitude": -74.411071,
+    "elevation_ft": 360,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Berkeley Heights"
+  },
+  "keywords": [
+    "03NJ",
+    "US-9387"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6730
+  }
+}

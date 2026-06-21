@@ -1,0 +1,31 @@
+{
+  "key": "vtui",
+  "codes": {
+    "icao": "VTUI",
+    "iata": "SNO",
+    "gps": "VTUI",
+    "local": null
+  },
+  "name": "Sakon Nakhon Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 17.195101,
+    "longitude": 104.119003,
+    "elevation_ft": 529,
+    "iso_country": "TH",
+    "iso_region": "TH-47",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sakon_Nakhon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26679
+  }
+}

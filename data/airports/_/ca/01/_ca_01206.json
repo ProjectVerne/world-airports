@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01206",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKM2",
+    "local": "CKM2"
+  },
+  "name": "Sioux Narrows Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.389999,
+    "longitude": -93.9953,
+    "elevation_ft": 1100,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Sioux Narrows"
+  },
+  "keywords": [
+    "KM2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sioux_Narrows_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1206
+  }
+}

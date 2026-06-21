@@ -1,0 +1,31 @@
+{
+  "key": "vnrt",
+  "codes": {
+    "icao": "VNRT",
+    "iata": "RUM",
+    "gps": "VNRT",
+    "local": null
+  },
+  "name": "Rumjatar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.303499,
+    "longitude": 86.5504,
+    "elevation_ft": 4500,
+    "iso_country": "NP",
+    "iso_region": "NP-P1",
+    "municipality": "Rumjatar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rumjatar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32237
+  }
+}

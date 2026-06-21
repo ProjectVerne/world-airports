@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00987",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFR5",
+    "local": "CFR5"
+  },
+  "name": "Alban Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.091185,
+    "longitude": -80.608456,
+    "elevation_ft": 700,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "French River"
+  },
+  "keywords": [
+    "FR5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/French_River/Alban_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 987
+  }
+}

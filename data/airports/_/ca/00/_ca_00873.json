@@ -1,0 +1,30 @@
+{
+  "key": "_ca_00873",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CEM2",
+    "local": "CEM2"
+  },
+  "name": "Calgary (Rockyview Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.988279,
+    "longitude": -114.098302,
+    "elevation_ft": 3590,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Calgary"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 873
+  }
+}

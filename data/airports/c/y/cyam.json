@@ -1,0 +1,31 @@
+{
+  "key": "cyam",
+  "codes": {
+    "icao": "CYAM",
+    "iata": "YAM",
+    "gps": "CYAM",
+    "local": null
+  },
+  "name": "Sault Ste Marie Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.483216,
+    "longitude": -84.508467,
+    "elevation_ft": 630,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Sault Ste Marie"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sault_Ste._Marie_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1657
+  }
+}

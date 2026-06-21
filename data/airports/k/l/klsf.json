@@ -1,0 +1,33 @@
+{
+  "key": "klsf",
+  "codes": {
+    "icao": "KLSF",
+    "iata": "LSF",
+    "gps": "KLSF",
+    "local": "LSF"
+  },
+  "name": "Lawson Army Air Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.332546,
+    "longitude": -84.988003,
+    "elevation_ft": 232,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Fort Benning"
+  },
+  "keywords": [
+    "Columbus"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lawson_Army_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3655
+  }
+}

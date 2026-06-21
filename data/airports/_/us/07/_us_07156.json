@@ -1,0 +1,30 @@
+{
+  "key": "_us_07156",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0CT9",
+    "local": "0CT9"
+  },
+  "name": "Hartford Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.754501,
+    "longitude": -72.678703,
+    "elevation_ft": 211,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Hartford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7156
+  }
+}

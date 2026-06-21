@@ -1,0 +1,32 @@
+{
+  "key": "_us_510740",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Smith Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.41932,
+    "longitude": -120.8126,
+    "elevation_ft": 3220,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Prineville"
+  },
+  "keywords": [
+    "US-7879"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 510740
+  }
+}

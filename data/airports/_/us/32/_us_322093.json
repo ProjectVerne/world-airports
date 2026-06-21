@@ -1,0 +1,32 @@
+{
+  "key": "_us_322093",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "30KS",
+    "local": "30KS"
+  },
+  "name": "Flugplatz Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.024839,
+    "longitude": -97.733939,
+    "elevation_ft": 1472,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Hutchinson"
+  },
+  "keywords": [
+    "US-0400"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322093
+  }
+}

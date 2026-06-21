@@ -1,0 +1,31 @@
+{
+  "key": "papo",
+  "codes": {
+    "icao": "PAPO",
+    "iata": "PHO",
+    "gps": "PAPO",
+    "local": "PHO"
+  },
+  "name": "Point Hope Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 68.348801,
+    "longitude": -166.798996,
+    "elevation_ft": 12,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Point Hope"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Point_Hope_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24089
+  }
+}

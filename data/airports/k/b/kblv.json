@@ -1,0 +1,33 @@
+{
+  "key": "kblv",
+  "codes": {
+    "icao": "KBLV",
+    "iata": "BLV",
+    "gps": "KBLV",
+    "local": "BLV"
+  },
+  "name": "Scott AFB/Midamerica Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.5452,
+    "longitude": -89.835197,
+    "elevation_ft": 459,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Belleville"
+  },
+  "keywords": [
+    "Scott Air Force Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Scott_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3417
+  }
+}

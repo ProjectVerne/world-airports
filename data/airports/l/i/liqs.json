@@ -1,0 +1,34 @@
+{
+  "key": "liqs",
+  "codes": {
+    "icao": "LIQS",
+    "iata": null,
+    "gps": "LIQS",
+    "local": "SI01"
+  },
+  "name": "Siena-Ampugnano Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.254942,
+    "longitude": 11.255084,
+    "elevation_ft": 634,
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "Ampugnano (SI)"
+  },
+  "keywords": [
+    "SAY",
+    "Malignano Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Siena-Ampugnano_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4369
+  }
+}

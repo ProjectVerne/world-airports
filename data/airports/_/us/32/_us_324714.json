@@ -1,0 +1,33 @@
+{
+  "key": "_us_324714",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "57FD",
+    "local": "57FD"
+  },
+  "name": "AdventHealth Ocala Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.172472,
+    "longitude": -82.139111,
+    "elevation_ft": 85,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Ocala"
+  },
+  "keywords": [
+    "Munroe Regional Medical Center",
+    "US-0620"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 324714
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_16563",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CA32",
+    "local": "CA32"
+  },
+  "name": "San Joaquin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.606525,
+    "longitude": -120.219499,
+    "elevation_ft": 165,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Joaquin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16563
+  }
+}

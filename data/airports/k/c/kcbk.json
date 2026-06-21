@@ -1,0 +1,33 @@
+{
+  "key": "kcbk",
+  "codes": {
+    "icao": "KCBK",
+    "iata": "CBK",
+    "gps": "KCBK",
+    "local": "CBK"
+  },
+  "name": "Shalz Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.427502,
+    "longitude": -101.046997,
+    "elevation_ft": 3187,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Colby"
+  },
+  "keywords": [
+    "Colby Municipal Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Colby_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19465
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "fagg",
+  "codes": {
+    "icao": "FAGG",
+    "iata": "GRJ",
+    "gps": "FAGG",
+    "local": null
+  },
+  "name": "George Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.0056,
+    "longitude": 22.378902,
+    "elevation_ft": 648,
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "George"
+  },
+  "keywords": [
+    "P.W. Botha Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/George_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2783
+  }
+}

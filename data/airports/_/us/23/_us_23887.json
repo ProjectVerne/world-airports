@@ -1,0 +1,30 @@
+{
+  "key": "_us_23887",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OR37",
+    "local": "OR37"
+  },
+  "name": "Lincoln Tower Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.445099,
+    "longitude": -122.774002,
+    "elevation_ft": 370,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Tigard"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23887
+  }
+}

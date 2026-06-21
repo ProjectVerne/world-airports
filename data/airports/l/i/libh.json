@@ -1,0 +1,30 @@
+{
+  "key": "libh",
+  "codes": {
+    "icao": "LIBH",
+    "iata": null,
+    "gps": "LIBH",
+    "local": null
+  },
+  "name": "Marina di Ginosa Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.424131,
+    "longitude": 16.887517,
+    "elevation_ft": 26,
+    "iso_country": "IT",
+    "iso_region": "IT-75",
+    "municipality": "Marina di Ginosa"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 317011
+  }
+}

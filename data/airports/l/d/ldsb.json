@@ -1,0 +1,33 @@
+{
+  "key": "ldsb",
+  "codes": {
+    "icao": "LDSB",
+    "iata": "BWK",
+    "gps": "LDSB",
+    "local": null
+  },
+  "name": "Brač Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.284454,
+    "longitude": 16.678362,
+    "elevation_ft": 1776,
+    "iso_country": "HR",
+    "iso_region": "HR-17",
+    "municipality": "Gornji Humac"
+  },
+  "keywords": [
+    "Bol Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bra%C4%8D_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3990
+  }
+}

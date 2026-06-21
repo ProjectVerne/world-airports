@@ -1,0 +1,32 @@
+{
+  "key": "_us_45750",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "37PN",
+    "local": "37PN"
+  },
+  "name": "UPMC Hanover Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.808025,
+    "longitude": -76.982344,
+    "elevation_ft": 672,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Hanover"
+  },
+  "keywords": [
+    "Hanover Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45750
+  }
+}

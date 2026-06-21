@@ -1,0 +1,31 @@
+{
+  "key": "kccr",
+  "codes": {
+    "icao": "KCCR",
+    "iata": "CCR",
+    "gps": "KCCR",
+    "local": "CCR"
+  },
+  "name": "Buchanan Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.9897,
+    "longitude": -122.056999,
+    "elevation_ft": 26,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Concord"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Buchanan_Field_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19469
+  }
+}

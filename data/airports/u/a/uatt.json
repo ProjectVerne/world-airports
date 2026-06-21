@@ -1,0 +1,35 @@
+{
+  "key": "uatt",
+  "codes": {
+    "icao": "UATT",
+    "iata": "AKX",
+    "gps": "UATT",
+    "local": null
+  },
+  "name": "Aktobe International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.248116,
+    "longitude": 57.204144,
+    "elevation_ft": 738,
+    "iso_country": "KZ",
+    "iso_region": "KZ-AKT",
+    "municipality": "Aktobe"
+  },
+  "keywords": [
+    "Aktyubinsk Airport",
+    "Aktubinsk Airport",
+    "Аэропорт Актюбинск"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aktobe_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6438
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_11530",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4MA4",
+    "local": "4MA4"
+  },
+  "name": "J K L Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.621485,
+    "longitude": -71.014225,
+    "elevation_ft": 30,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "New Bedford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11530
+  }
+}

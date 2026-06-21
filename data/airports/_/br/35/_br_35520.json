@@ -1,0 +1,32 @@
+{
+  "key": "_br_35520",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNLP",
+    "local": "SP0712"
+  },
+  "name": "Acapulco Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.954475,
+    "longitude": -46.201794,
+    "elevation_ft": 36,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Guarujá"
+  },
+  "keywords": [
+    "SDGA"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35520
+  }
+}

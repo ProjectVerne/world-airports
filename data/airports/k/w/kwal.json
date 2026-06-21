@@ -1,0 +1,33 @@
+{
+  "key": "kwal",
+  "codes": {
+    "icao": "KWAL",
+    "iata": "WAL",
+    "gps": "KWAL",
+    "local": "WAL"
+  },
+  "name": "Wallops Flight Facility Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.940813,
+    "longitude": -75.462255,
+    "elevation_ft": 40,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Wallops Island"
+  },
+  "keywords": [
+    "Naval Auxiliary Air Station Chincoteague"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wallops_Flight_Facility",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21368
+  }
+}

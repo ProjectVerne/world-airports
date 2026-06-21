@@ -1,0 +1,30 @@
+{
+  "key": "aylt",
+  "codes": {
+    "icao": "AYLT",
+    "iata": "LNC",
+    "gps": "AYLT",
+    "local": "LNG"
+  },
+  "name": "Lengbati Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.384611,
+    "longitude": 147.368639,
+    "elevation_ft": 5750,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 302388
+  }
+}

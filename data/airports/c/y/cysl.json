@@ -1,0 +1,34 @@
+{
+  "key": "cysl",
+  "codes": {
+    "icao": "CYSL",
+    "iata": "YSL",
+    "gps": "CYSL",
+    "local": null
+  },
+  "name": "Saint-Léonard Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.157097,
+    "longitude": -67.836242,
+    "elevation_ft": 793,
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Saint-Léonard"
+  },
+  "keywords": [
+    "St. Leonard",
+    "St Leonard"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Leonard_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1906
+  }
+}

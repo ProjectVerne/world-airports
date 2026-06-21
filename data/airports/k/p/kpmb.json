@@ -1,0 +1,31 @@
+{
+  "key": "kpmb",
+  "codes": {
+    "icao": "KPMB",
+    "iata": "PMB",
+    "gps": "KPMB",
+    "local": "PMB"
+  },
+  "name": "Pembina Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.942501,
+    "longitude": -97.240799,
+    "elevation_ft": 795,
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Pembina"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pembina_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20842
+  }
+}

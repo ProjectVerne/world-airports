@@ -1,0 +1,30 @@
+{
+  "key": "fadk",
+  "codes": {
+    "icao": "FADK",
+    "iata": "DUK",
+    "gps": "FADK",
+    "local": "FA65"
+  },
+  "name": "Mubatuba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -28.368401,
+    "longitude": 32.2481,
+    "elevation_ft": 210,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Mubatuba"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2777
+  }
+}

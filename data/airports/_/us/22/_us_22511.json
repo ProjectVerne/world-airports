@@ -1,0 +1,30 @@
+{
+  "key": "_us_22511",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MU15",
+    "local": "MU15"
+  },
+  "name": "Madison Memorial Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.555599,
+    "longitude": -90.304001,
+    "elevation_ft": 875,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Fredericktown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22511
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_24503",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "SD1"
+  },
+  "name": "Soldotna Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 60.492637,
+    "longitude": -151.078967,
+    "elevation_ft": 99,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Soldotna"
+  },
+  "keywords": [
+    "AK32"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24503
+  }
+}

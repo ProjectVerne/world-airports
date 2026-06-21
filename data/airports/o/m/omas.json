@@ -1,0 +1,31 @@
+{
+  "key": "omas",
+  "codes": {
+    "icao": "OMAS",
+    "iata": null,
+    "gps": "OMAS",
+    "local": null
+  },
+  "name": "Das Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.138234,
+    "longitude": 52.874429,
+    "elevation_ft": 12,
+    "iso_country": "AE",
+    "iso_region": "AE-AZ",
+    "municipality": "Das Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Das_Island_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5233
+  }
+}

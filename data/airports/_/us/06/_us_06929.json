@@ -1,0 +1,33 @@
+{
+  "key": "_us_06929",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Interstate Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.274991,
+    "longitude": -113.301229,
+    "elevation_ft": 4580,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Malta"
+  },
+  "keywords": [
+    "07ID",
+    "US-9420"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6929
+  }
+}

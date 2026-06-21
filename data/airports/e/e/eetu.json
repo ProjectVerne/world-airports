@@ -1,0 +1,34 @@
+{
+  "key": "eetu",
+  "codes": {
+    "icao": "EETU",
+    "iata": "TAY",
+    "gps": "EETU",
+    "local": null
+  },
+  "name": "Tartu Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.307438,
+    "longitude": 26.686473,
+    "elevation_ft": 220,
+    "iso_country": "EE",
+    "iso_region": "EE-7B",
+    "municipality": "Tartu"
+  },
+  "keywords": [
+    "Reola",
+    "Ülenurme Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tartu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2302
+  }
+}

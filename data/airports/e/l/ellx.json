@@ -1,0 +1,31 @@
+{
+  "key": "ellx",
+  "codes": {
+    "icao": "ELLX",
+    "iata": "LUX",
+    "gps": "ELLX",
+    "local": null
+  },
+  "name": "Luxembourg-Findel International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.626845,
+    "longitude": 6.212134,
+    "elevation_ft": 1234,
+    "iso_country": "LU",
+    "iso_region": "LU-L",
+    "municipality": "Luxembourg"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Luxembourg-Findel_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2563
+  }
+}

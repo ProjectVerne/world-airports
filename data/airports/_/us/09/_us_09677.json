@@ -1,0 +1,30 @@
+{
+  "key": "_us_09677",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2OI3",
+    "local": "2OI3"
+  },
+  "name": "Railway Stop Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.567799,
+    "longitude": -83.528,
+    "elevation_ft": 620,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Walbridge"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9677
+  }
+}

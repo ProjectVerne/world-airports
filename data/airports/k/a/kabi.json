@@ -1,0 +1,31 @@
+{
+  "key": "kabi",
+  "codes": {
+    "icao": "KABI",
+    "iata": "ABI",
+    "gps": "KABI",
+    "local": "ABI"
+  },
+  "name": "Abilene Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.411301,
+    "longitude": -99.6819,
+    "elevation_ft": 1791,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Abilene"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Abilene_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3357
+  }
+}

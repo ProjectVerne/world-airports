@@ -1,0 +1,32 @@
+{
+  "key": "_us_350121",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Elkview General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.03829,
+    "longitude": -99.09799,
+    "elevation_ft": 1581,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Hobart"
+  },
+  "keywords": [
+    "US-5902"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350121
+  }
+}

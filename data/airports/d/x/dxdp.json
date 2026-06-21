@@ -1,0 +1,31 @@
+{
+  "key": "dxdp",
+  "codes": {
+    "icao": "DXDP",
+    "iata": null,
+    "gps": "DXDP",
+    "local": null
+  },
+  "name": "Djangou Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.800417,
+    "longitude": 0.242372,
+    "elevation_ft": 886,
+    "iso_country": "TG",
+    "iso_region": "TG-S",
+    "municipality": "Dapaong"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Djangou_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30954
+  }
+}

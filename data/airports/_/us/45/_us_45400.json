@@ -1,0 +1,30 @@
+{
+  "key": "_us_45400",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2ID9",
+    "local": "2ID9"
+  },
+  "name": "St. Benedicts Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.73,
+    "longitude": -114.518333,
+    "elevation_ft": 4000,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Jerome"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45400
+  }
+}

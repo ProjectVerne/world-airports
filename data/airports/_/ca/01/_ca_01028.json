@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01028",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CGL2",
+    "local": "CGL2"
+  },
+  "name": "Harrow Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.059399,
+    "longitude": -82.840797,
+    "elevation_ft": 610,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Harrow"
+  },
+  "keywords": [
+    "GL2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Harrow_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1028
+  }
+}

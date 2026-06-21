@@ -1,0 +1,32 @@
+{
+  "key": "_us_345001",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Camp Ocala Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 29.10476,
+    "longitude": -81.62976,
+    "elevation_ft": 64,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Altoona"
+  },
+  "keywords": [
+    "US-4300"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345001
+  }
+}

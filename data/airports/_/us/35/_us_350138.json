@@ -1,0 +1,32 @@
+{
+  "key": "_us_350138",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Smith Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.63424,
+    "longitude": -90.13838,
+    "elevation_ft": 700,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Franklin"
+  },
+  "keywords": [
+    "US-5903"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350138
+  }
+}

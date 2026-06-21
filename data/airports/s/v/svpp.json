@@ -1,0 +1,33 @@
+{
+  "key": "svpp",
+  "codes": {
+    "icao": "SVPP",
+    "iata": "PPZ",
+    "gps": "SVPP",
+    "local": null
+  },
+  "name": "Puerto Paez Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.220095,
+    "longitude": -67.447508,
+    "elevation_ft": 146,
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "Puerto Paez"
+  },
+  "keywords": [
+    "SVDZ"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Puerto_Páez_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40119
+  }
+}

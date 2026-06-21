@@ -1,0 +1,30 @@
+{
+  "key": "evap",
+  "codes": {
+    "icao": "EVAP",
+    "iata": null,
+    "gps": "EVAP",
+    "local": null
+  },
+  "name": "AMO Plant Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 56.66598,
+    "longitude": 23.779761,
+    "elevation_ft": 7,
+    "iso_country": "LV",
+    "iso_region": "LV-JEL",
+    "municipality": "Jelgava"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308833
+  }
+}

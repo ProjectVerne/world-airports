@@ -1,0 +1,32 @@
+{
+  "key": "_us_345338",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "San Diego Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.90138,
+    "longitude": -117.20488,
+    "elevation_ft": 315,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Diego"
+  },
+  "keywords": [
+    "US-4423"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345338
+  }
+}

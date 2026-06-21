@@ -1,0 +1,30 @@
+{
+  "key": "_us_506036",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "02NR",
+    "local": "02NR"
+  },
+  "name": "McGee 02 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.592197,
+    "longitude": -77.377372,
+    "elevation_ft": 25,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Greenville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 506036
+  }
+}

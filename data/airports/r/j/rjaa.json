@@ -1,0 +1,40 @@
+{
+  "key": "rjaa",
+  "codes": {
+    "icao": "RJAA",
+    "iata": "NRT",
+    "gps": "RJAA",
+    "local": null
+  },
+  "name": "Narita International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.76858,
+    "longitude": 140.388714,
+    "elevation_ft": 141,
+    "iso_country": "JP",
+    "iso_region": "JP-12",
+    "municipality": "Narita"
+  },
+  "keywords": [
+    "TYO",
+    "Tokyo",
+    "Tokyo Narita Airport",
+    "New Tokyo International Airport",
+    "成田国際空港",
+    "成田空港",
+    "東京都",
+    "東京成田"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Narita_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5531
+  }
+}

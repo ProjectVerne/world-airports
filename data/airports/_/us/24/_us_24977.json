@@ -1,0 +1,30 @@
+{
+  "key": "_us_24977",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TN61",
+    "local": "TN61"
+  },
+  "name": "Ranger Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.201801,
+    "longitude": -89.868401,
+    "elevation_ft": 300,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Bartlett"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24977
+  }
+}

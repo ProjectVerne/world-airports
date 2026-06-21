@@ -1,0 +1,33 @@
+{
+  "key": "cyfr",
+  "codes": {
+    "icao": "CYFR",
+    "iata": "YFR",
+    "gps": "CYFR",
+    "local": null
+  },
+  "name": "Fort Resolution Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.180801,
+    "longitude": -113.690002,
+    "elevation_ft": 526,
+    "iso_country": "CA",
+    "iso_region": "CA-NT",
+    "municipality": "Fort Resolution"
+  },
+  "keywords": [
+    "YFR"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Resolution_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1736
+  }
+}

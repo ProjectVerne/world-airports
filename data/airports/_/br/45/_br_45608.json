@@ -1,0 +1,33 @@
+{
+  "key": "_br_45608",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Itaipu Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -25.421175,
+    "longitude": -54.590002,
+    "elevation_ft": 574,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Foz do Iguaçu"
+  },
+  "keywords": [
+    "SSHY",
+    "BR-3200"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45608
+  }
+}

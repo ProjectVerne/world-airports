@@ -1,0 +1,30 @@
+{
+  "key": "fabu",
+  "codes": {
+    "icao": "FABU",
+    "iata": "UTE",
+    "gps": "FABU",
+    "local": null
+  },
+  "name": "Bultfontein Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -28.273369,
+    "longitude": 26.135835,
+    "elevation_ft": 4400,
+    "iso_country": "ZA",
+    "iso_region": "ZA-FS",
+    "municipality": "Bultfontein"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41152
+  }
+}

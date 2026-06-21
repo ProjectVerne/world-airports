@@ -1,0 +1,34 @@
+{
+  "key": "ennm",
+  "codes": {
+    "icao": "ENNM",
+    "iata": "OSY",
+    "gps": "ENNM",
+    "local": null
+  },
+  "name": "Namsos Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.472198,
+    "longitude": 11.5786,
+    "elevation_ft": 7,
+    "iso_country": "NO",
+    "iso_region": "NO-50",
+    "municipality": "Namsos"
+  },
+  "keywords": [
+    "Namsos lufthavn",
+    "Høknesøra"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Namsos_Airport%2C_H%C3%B8knes%C3%B8ra",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29267
+  }
+}

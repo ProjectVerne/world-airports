@@ -1,0 +1,31 @@
+{
+  "key": "ltbs",
+  "codes": {
+    "icao": "LTBS",
+    "iata": "DLM",
+    "gps": "LTBS",
+    "local": null
+  },
+  "name": "Dalaman International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.7131,
+    "longitude": 28.7925,
+    "elevation_ft": 20,
+    "iso_country": "TR",
+    "iso_region": "TR-48",
+    "municipality": "Dalaman"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dalaman_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4542
+  }
+}

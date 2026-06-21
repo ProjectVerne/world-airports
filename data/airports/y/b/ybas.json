@@ -1,0 +1,31 @@
+{
+  "key": "ybas",
+  "codes": {
+    "icao": "YBAS",
+    "iata": "ASP",
+    "gps": "YBAS",
+    "local": null
+  },
+  "name": "Alice Springs Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.806588,
+    "longitude": 133.903427,
+    "elevation_ft": 1789,
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Alice Springs"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Alice_Springs_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26900
+  }
+}

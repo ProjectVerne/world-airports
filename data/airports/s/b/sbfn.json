@@ -1,0 +1,31 @@
+{
+  "key": "sbfn",
+  "codes": {
+    "icao": "SBFN",
+    "iata": "FEN",
+    "gps": "SBFN",
+    "local": "PE0003"
+  },
+  "name": "Fernando de Noronha Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.854534,
+    "longitude": -32.423017,
+    "elevation_ft": 193,
+    "iso_country": "BR",
+    "iso_region": "BR-PE",
+    "municipality": "Fernando de Noronha"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fernando_de_Noronha_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5902
+  }
+}

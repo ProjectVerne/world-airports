@@ -1,0 +1,31 @@
+{
+  "key": "kcfd",
+  "codes": {
+    "icao": "KCFD",
+    "iata": "CFD",
+    "gps": "KCFD",
+    "local": "CFD"
+  },
+  "name": "Coulter Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.7157,
+    "longitude": -96.331398,
+    "elevation_ft": 367,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Bryan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Coulter_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19483
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "egcs",
+  "codes": {
+    "icao": "EGCS",
+    "iata": null,
+    "gps": "EGCS",
+    "local": null
+  },
+  "name": "Sturgate Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.381242,
+    "longitude": -0.6848,
+    "elevation_ft": 58,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Gainsborough, Lincolnshire"
+  },
+  "keywords": [
+    "RAF Sturgate"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sturgate_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29120
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "oalg",
+  "codes": {
+    "icao": "OALG",
+    "iata": null,
+    "gps": "OALG",
+    "local": null
+  },
+  "name": "Logar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.9865,
+    "longitude": 69.023102,
+    "elevation_ft": 6333,
+    "iso_country": "AF",
+    "iso_region": "AF-LOW",
+    "municipality": null
+  },
+  "keywords": [
+    "AF-0021"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35375
+  }
+}

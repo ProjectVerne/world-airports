@@ -1,0 +1,33 @@
+{
+  "key": "egsd",
+  "codes": {
+    "icao": "EGSD",
+    "iata": null,
+    "gps": "EGSD",
+    "local": null
+  },
+  "name": "Great Yarmouth - North Denes Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 52.635576,
+    "longitude": 1.723016,
+    "elevation_ft": 6,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Great Yarmouth, Norfolk"
+  },
+  "keywords": [
+    "Yarmouth Heliport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Great_Yarmouth_-_North_Denes_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29181
+  }
+}

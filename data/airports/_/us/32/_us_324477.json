@@ -1,0 +1,32 @@
+{
+  "key": "_us_324477",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FD01",
+    "local": "FD01"
+  },
+  "name": "Hillsborough County Fire Rescue Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.969981,
+    "longitude": -82.345583,
+    "elevation_ft": 39,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Tampa"
+  },
+  "keywords": [
+    "US-0577"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 324477
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "kvay",
+  "codes": {
+    "icao": "KVAY",
+    "iata": "LLY",
+    "gps": "KVAY",
+    "local": "VAY"
+  },
+  "name": "South Jersey Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.942902,
+    "longitude": -74.845703,
+    "elevation_ft": 53,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Lumberton"
+  },
+  "keywords": [
+    "Burlington County Airport",
+    "Mount Holly"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/South_Jersey_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21311
+  }
+}

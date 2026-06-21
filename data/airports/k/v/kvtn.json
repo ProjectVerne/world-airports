@@ -1,0 +1,33 @@
+{
+  "key": "kvtn",
+  "codes": {
+    "icao": "KVTN",
+    "iata": "VTN",
+    "gps": "KVTN",
+    "local": "VTN"
+  },
+  "name": "Miller Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.856211,
+    "longitude": -100.549192,
+    "elevation_ft": 2596,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Valentine"
+  },
+  "keywords": [
+    "Valentine Municipal Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Miller_Field_(airport)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21339
+  }
+}

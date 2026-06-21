@@ -1,0 +1,32 @@
+{
+  "key": "_us_24591",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KM64",
+    "local": "M64"
+  },
+  "name": "Jenkinson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.362463,
+    "longitude": -100.472463,
+    "elevation_ft": 2737,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Meade"
+  },
+  "keywords": [
+    "SN12"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24591
+  }
+}

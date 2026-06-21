@@ -1,0 +1,31 @@
+{
+  "key": "scss",
+  "codes": {
+    "icao": "SCSS",
+    "iata": null,
+    "gps": "SCSS",
+    "local": null
+  },
+  "name": "San Sebastián Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -53.316205,
+    "longitude": -68.657301,
+    "elevation_ft": 50,
+    "iso_country": "CL",
+    "iso_region": "CL-MA",
+    "municipality": "Porvenir"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n_Airport_(Chile)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32271
+  }
+}

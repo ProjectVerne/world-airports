@@ -1,0 +1,30 @@
+{
+  "key": "shab",
+  "codes": {
+    "icao": "SHAB",
+    "iata": null,
+    "gps": "SHAB",
+    "local": null
+  },
+  "name": "Aguas Blancas Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -32.665528,
+    "longitude": -71.440337,
+    "elevation_ft": 102,
+    "iso_country": "CL",
+    "iso_region": "CL-VS",
+    "municipality": "Puchuncavi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45083
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vagd",
+  "codes": {
+    "icao": "VAGD",
+    "iata": "GDB",
+    "gps": "VAGD",
+    "local": "VA2C"
+  },
+  "name": "Gondia Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.526817,
+    "longitude": 80.290347,
+    "elevation_ft": 987,
+    "iso_country": "IN",
+    "iso_region": "IN-MM",
+    "municipality": "Gondia"
+  },
+  "keywords": [
+    "Birsi"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gondia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3299
+  }
+}

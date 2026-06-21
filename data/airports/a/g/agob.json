@@ -1,0 +1,30 @@
+{
+  "key": "agob",
+  "codes": {
+    "icao": "AGOB",
+    "iata": "MHM",
+    "gps": "AGOB",
+    "local": null
+  },
+  "name": "Manaoba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.325008,
+    "longitude": 160.80051,
+    "elevation_ft": 14,
+    "iso_country": "SB",
+    "iso_region": "SB-ML",
+    "municipality": "Manaoba"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 508090
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "fdst",
+  "codes": {
+    "icao": "FDST",
+    "iata": null,
+    "gps": "FDST",
+    "local": null
+  },
+  "name": "Siteki Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.471957,
+    "longitude": 31.942567,
+    "elevation_ft": 2220,
+    "iso_country": "SZ",
+    "iso_region": "SZ-LU",
+    "municipality": "Siteki"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31109
+  }
+}

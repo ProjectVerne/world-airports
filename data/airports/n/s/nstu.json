@@ -1,0 +1,31 @@
+{
+  "key": "nstu",
+  "codes": {
+    "icao": "NSTU",
+    "iata": "PPG",
+    "gps": "NSTU",
+    "local": "PPG"
+  },
+  "name": "Pago Pago International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -14.331,
+    "longitude": -170.710007,
+    "elevation_ft": 32,
+    "iso_country": "AS",
+    "iso_region": "AS-WT",
+    "municipality": "Pago Pago"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pago_Pago_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4978
+  }
+}

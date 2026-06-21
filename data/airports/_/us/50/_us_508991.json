@@ -1,0 +1,32 @@
+{
+  "key": "_us_508991",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Allen Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.73069,
+    "longitude": -118.07883,
+    "elevation_ft": 2979,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Juntura"
+  },
+  "keywords": [
+    "US-7717"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 508991
+  }
+}

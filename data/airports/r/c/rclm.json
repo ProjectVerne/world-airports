@@ -1,0 +1,33 @@
+{
+  "key": "rclm",
+  "codes": {
+    "icao": "RCLM",
+    "iata": "DSX",
+    "gps": "RCLM",
+    "local": null
+  },
+  "name": "Dongsha Island (Pratas Island) Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.7066,
+    "longitude": 116.721001,
+    "elevation_ft": 10,
+    "iso_country": "TW",
+    "iso_region": "TW-KHH",
+    "municipality": "Kaohsiung (Cijin - Pratas Island)"
+  },
+  "keywords": [
+    "Pratas Islands; Dongsha; 東沙環礁機場"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dongsha_Island_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42427
+  }
+}

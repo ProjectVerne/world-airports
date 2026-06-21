@@ -1,0 +1,33 @@
+{
+  "key": "ssln",
+  "codes": {
+    "icao": "SSLN",
+    "iata": "LOI",
+    "gps": "SSLN",
+    "local": "SSLN"
+  },
+  "name": "Helmuth Baungarten Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.16,
+    "longitude": -49.5425,
+    "elevation_ft": 1095,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Lontras"
+  },
+  "keywords": [
+    "Baungartem"
+  ],
+  "wikipedia": "http://pt.wikipedia.org/wiki/Aeroporto_de_Lontras",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 475
+  }
+}

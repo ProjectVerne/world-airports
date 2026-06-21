@@ -1,0 +1,33 @@
+{
+  "key": "kcda",
+  "codes": {
+    "icao": "KCDA",
+    "iata": "LLX",
+    "gps": "KCDA",
+    "local": "CDA"
+  },
+  "name": "Caledonia County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.569099,
+    "longitude": -72.017998,
+    "elevation_ft": 1188,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Lyndonville"
+  },
+  "keywords": [
+    "Formerly 6B8"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Caledonia_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18977
+  }
+}

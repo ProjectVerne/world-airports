@@ -1,0 +1,31 @@
+{
+  "key": "kpvf",
+  "codes": {
+    "icao": "KPVF",
+    "iata": "PVF",
+    "gps": "KPVF",
+    "local": "PVF"
+  },
+  "name": "Placerville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.724201,
+    "longitude": -120.752998,
+    "elevation_ft": 2585,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Placerville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Placerville_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20887
+  }
+}

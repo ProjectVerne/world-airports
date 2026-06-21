@@ -1,0 +1,30 @@
+{
+  "key": "swpq",
+  "codes": {
+    "icao": "SWPQ",
+    "iata": "PBX",
+    "gps": "SWPQ",
+    "local": "MT0380"
+  },
+  "name": "Fazenda Piraguassu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -10.85935,
+    "longitude": -51.688152,
+    "elevation_ft": 643,
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Porto Alegre do Norte"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 38028
+  }
+}

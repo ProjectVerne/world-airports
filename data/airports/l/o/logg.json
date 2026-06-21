@@ -1,0 +1,34 @@
+{
+  "key": "logg",
+  "codes": {
+    "icao": "LOGG",
+    "iata": null,
+    "gps": "LOGG",
+    "local": null
+  },
+  "name": "Punitz-Güssing Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.146654,
+    "longitude": 16.317058,
+    "elevation_ft": 950,
+    "iso_country": "AT",
+    "iso_region": "AT-1",
+    "municipality": "Punitz"
+  },
+  "keywords": [
+    "Güssing",
+    "Flugplatz Punitz-Güssing"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Punitz-G%C3%BCssing_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28133
+  }
+}

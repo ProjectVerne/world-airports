@@ -1,0 +1,34 @@
+{
+  "key": "vomy",
+  "codes": {
+    "icao": "VOMY",
+    "iata": "MYQ",
+    "gps": "VOMY",
+    "local": null
+  },
+  "name": "Mysore Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.229751,
+    "longitude": 76.653683,
+    "elevation_ft": 2349,
+    "iso_country": "IN",
+    "iso_region": "IN-KA",
+    "municipality": "Mysore"
+  },
+  "keywords": [
+    "Mysuru",
+    "Mandakalli airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mysore_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31996
+  }
+}

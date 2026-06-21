@@ -1,0 +1,31 @@
+{
+  "key": "nzns",
+  "codes": {
+    "icao": "NZNS",
+    "iata": "NSN",
+    "gps": "NZNS",
+    "local": null
+  },
+  "name": "Nelson Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -41.298302,
+    "longitude": 173.220993,
+    "elevation_ft": 17,
+    "iso_country": "NZ",
+    "iso_region": "NZ-NSN",
+    "municipality": "Nelson"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nelson_Airport_(New_Zealand)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5044
+  }
+}

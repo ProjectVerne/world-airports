@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01405",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPG3",
+    "local": "CPG3"
+  },
+  "name": "Fort Erie (Eurocopter Canada) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.92119,
+    "longitude": -78.956133,
+    "elevation_ft": 625,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Fort Erie"
+  },
+  "keywords": [
+    "PG3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1405
+  }
+}

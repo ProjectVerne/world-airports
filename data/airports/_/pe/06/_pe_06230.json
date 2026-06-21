@@ -1,0 +1,33 @@
+{
+  "key": "_pe_06230",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Collique Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": -11.9287,
+    "longitude": -77.061096,
+    "elevation_ft": 410,
+    "iso_country": "PE",
+    "iso_region": "PE-LIM",
+    "municipality": "Collique Bajo"
+  },
+  "keywords": [
+    "SPOL",
+    "PE-0035"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6230
+  }
+}

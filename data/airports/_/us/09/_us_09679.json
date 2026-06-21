@@ -1,0 +1,34 @@
+{
+  "key": "_us_09679",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OH11",
+    "local": "OH11"
+  },
+  "name": "West Chester Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.358282,
+    "longitude": -84.369059,
+    "elevation_ft": 886,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "West Chester"
+  },
+  "keywords": [
+    "2OI5",
+    "University Pointe Medical Office Building",
+    "Mason"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9679
+  }
+}

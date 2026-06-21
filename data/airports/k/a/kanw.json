@@ -1,0 +1,33 @@
+{
+  "key": "kanw",
+  "codes": {
+    "icao": "KANW",
+    "iata": "ANW",
+    "gps": "KANW",
+    "local": "ANW"
+  },
+  "name": "Ainsworth Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.579201,
+    "longitude": -99.992995,
+    "elevation_ft": 2589,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Ainsworth"
+  },
+  "keywords": [
+    "Ainsworth Municipal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ainsworth_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19286
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kack",
+  "codes": {
+    "icao": "KACK",
+    "iata": "ACK",
+    "gps": "KACK",
+    "local": "ACK"
+  },
+  "name": "Nantucket Memorial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.253101,
+    "longitude": -70.060204,
+    "elevation_ft": 47,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Nantucket"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nantucket_Memorial_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3360
+  }
+}

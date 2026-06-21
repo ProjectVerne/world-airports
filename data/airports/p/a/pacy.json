@@ -1,0 +1,33 @@
+{
+  "key": "pacy",
+  "codes": {
+    "icao": "PACY",
+    "iata": "CYT",
+    "gps": "PACY",
+    "local": "0AA1"
+  },
+  "name": "Yakataga Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.080974,
+    "longitude": -142.494541,
+    "elevation_ft": 12,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Yakataga"
+  },
+  "keywords": [
+    "Cape Yakataga"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yakataga_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17058
+  }
+}

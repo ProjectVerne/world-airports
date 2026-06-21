@@ -1,0 +1,32 @@
+{
+  "key": "_us_24531",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "SD54"
+  },
+  "name": "Avera St. Luke's Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.461866,
+    "longitude": -98.47685,
+    "elevation_ft": 1308,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Aberdeen"
+  },
+  "keywords": [
+    "St. Luke's MRMC"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24531
+  }
+}

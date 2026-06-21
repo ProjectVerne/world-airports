@@ -1,0 +1,30 @@
+{
+  "key": "eseb",
+  "codes": {
+    "icao": "ESEB",
+    "iata": null,
+    "gps": "ESEB",
+    "local": null
+  },
+  "name": "Borås Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 57.724183,
+    "longitude": 12.964318,
+    "elevation_ft": 597,
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Borås"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599670
+  }
+}

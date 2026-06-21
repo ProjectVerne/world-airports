@@ -1,0 +1,30 @@
+{
+  "key": "_us_506124",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2NH1",
+    "local": "2NH1"
+  },
+  "name": "Foote Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.860257,
+    "longitude": -71.487382,
+    "elevation_ft": 235,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Merrimack"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 506124
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_10637",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3MS5",
+    "local": "3MS5"
+  },
+  "name": "Mitchells Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.300218,
+    "longitude": -89.814039,
+    "elevation_ft": 323,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Vaiden"
+  },
+  "keywords": [
+    "Mitchell's"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10637
+  }
+}

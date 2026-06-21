@@ -1,0 +1,36 @@
+{
+  "key": "lrbs",
+  "codes": {
+    "icao": "LRBS",
+    "iata": "BBU",
+    "gps": "LRBS",
+    "local": null
+  },
+  "name": "Bucharest Băneasa Aurel Vlaicu International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.503133,
+    "longitude": 26.102944,
+    "elevation_ft": 297,
+    "iso_country": "RO",
+    "iso_region": "RO-B",
+    "municipality": "Bucharest"
+  },
+  "keywords": [
+    "BUH",
+    "Băneasa",
+    "Aurel Vlaicu International",
+    "Bucharest City"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aurel_Vlaicu_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4474
+  }
+}

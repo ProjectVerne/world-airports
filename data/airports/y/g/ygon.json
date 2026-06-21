@@ -1,0 +1,31 @@
+{
+  "key": "ygon",
+  "codes": {
+    "icao": "YGON",
+    "iata": "GPD",
+    "gps": "YGON",
+    "local": null
+  },
+  "name": "Mount Gordon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.77265,
+    "longitude": 139.40425,
+    "elevation_ft": 900,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Mount Gordon Mine"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mount_Gordon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 309003
+  }
+}

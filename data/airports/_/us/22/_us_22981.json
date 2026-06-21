@@ -1,0 +1,30 @@
+{
+  "key": "_us_22981",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH21",
+    "local": "NH21"
+  },
+  "name": "Abbott Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.148102,
+    "longitude": -71.168098,
+    "elevation_ft": 1300,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Jackson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22981
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "vtcn",
+  "codes": {
+    "icao": "VTCN",
+    "iata": "NNT",
+    "gps": "VTCN",
+    "local": null
+  },
+  "name": "Nan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.807899,
+    "longitude": 100.782997,
+    "elevation_ft": 685,
+    "iso_country": "TH",
+    "iso_region": "TH-55",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26650
+  }
+}

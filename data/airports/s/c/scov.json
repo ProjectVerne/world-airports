@@ -1,0 +1,31 @@
+{
+  "key": "scov",
+  "codes": {
+    "icao": "SCOV",
+    "iata": "OVL",
+    "gps": "SCOV",
+    "local": null
+  },
+  "name": "El Tuqui Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -30.5592,
+    "longitude": -71.175598,
+    "elevation_ft": 1100,
+    "iso_country": "CL",
+    "iso_region": "CL-CO",
+    "municipality": "Ovalle"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Tuqui_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32137
+  }
+}

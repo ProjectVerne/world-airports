@@ -1,0 +1,33 @@
+{
+  "key": "kict",
+  "codes": {
+    "icao": "KICT",
+    "iata": "ICT",
+    "gps": "KICT",
+    "local": "ICT"
+  },
+  "name": "Wichita Dwight D. Eisenhower National Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.650314,
+    "longitude": -97.428583,
+    "elevation_ft": 1333,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Wichita"
+  },
+  "keywords": [
+    "Mid-Continent Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wichita_Dwight_D._Eisenhower_National_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3605
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "sbmk",
+  "codes": {
+    "icao": "SBMK",
+    "iata": "MOC",
+    "gps": "SBMK",
+    "local": "MG0004"
+  },
+  "name": "Mário Ribeiro Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.706919,
+    "longitude": -43.818901,
+    "elevation_ft": 2191,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Montes Claros"
+  },
+  "keywords": [
+    "Montes Claros Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Montes_Claros_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5939
+  }
+}

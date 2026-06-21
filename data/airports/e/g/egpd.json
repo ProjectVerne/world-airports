@@ -1,0 +1,33 @@
+{
+  "key": "egpd",
+  "codes": {
+    "icao": "EGPD",
+    "iata": "ABZ",
+    "gps": "EGPD",
+    "local": null
+  },
+  "name": "Aberdeen International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.2019,
+    "longitude": -2.19778,
+    "elevation_ft": 215,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Aberdeen"
+  },
+  "keywords": [
+    "Dyce"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aberdeen_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2459
+  }
+}

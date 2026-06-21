@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00632",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CAM5",
+    "local": "CAM5"
+  },
+  "name": "Houston Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.440299,
+    "longitude": -126.780023,
+    "elevation_ft": 2150,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Houston"
+  },
+  "keywords": [
+    "AM5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Houston_Airport_(British_Columbia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 632
+  }
+}

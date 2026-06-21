@@ -1,0 +1,32 @@
+{
+  "key": "_us_555789",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Graham Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.08895,
+    "longitude": -98.58363,
+    "elevation_ft": 1068,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Graham"
+  },
+  "keywords": [
+    "US-9051"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 555789
+  }
+}

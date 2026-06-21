@@ -1,0 +1,33 @@
+{
+  "key": "hcad",
+  "codes": {
+    "icao": "HCAD",
+    "iata": "AAD",
+    "gps": "HCAD",
+    "local": null
+  },
+  "name": "Adado Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.095802,
+    "longitude": 46.6375,
+    "elevation_ft": 1001,
+    "iso_country": "SO",
+    "iso_region": "SO-GA",
+    "municipality": "Adado"
+  },
+  "keywords": [
+    "Cadaado Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Adado_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 324756
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "fmmv",
+  "codes": {
+    "icao": "FMMV",
+    "iata": "MOQ",
+    "gps": "FMMV",
+    "local": null
+  },
+  "name": "Morondava Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.2847,
+    "longitude": 44.3176,
+    "elevation_ft": 30,
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Morondava"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Morondava_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2912
+  }
+}

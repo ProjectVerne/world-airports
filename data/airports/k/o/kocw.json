@@ -1,0 +1,30 @@
+{
+  "key": "kocw",
+  "codes": {
+    "icao": "KOCW",
+    "iata": "OCW",
+    "gps": "KOCW",
+    "local": "OCW"
+  },
+  "name": "Warren Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.570499,
+    "longitude": -77.049797,
+    "elevation_ft": 38,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Washington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20715
+  }
+}

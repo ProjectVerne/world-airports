@@ -1,0 +1,34 @@
+{
+  "key": "vapo",
+  "codes": {
+    "icao": "VAPO",
+    "iata": "PNQ",
+    "gps": "VAPO",
+    "local": null
+  },
+  "name": "Pune International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.5821,
+    "longitude": 73.919701,
+    "elevation_ft": 1942,
+    "iso_country": "IN",
+    "iso_region": "IN-MM",
+    "municipality": "Pune"
+  },
+  "keywords": [
+    "Lohegaon Airport",
+    "Lohegaon Air Force Station"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pune_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26455
+  }
+}

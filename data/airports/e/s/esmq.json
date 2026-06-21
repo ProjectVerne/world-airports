@@ -1,0 +1,31 @@
+{
+  "key": "esmq",
+  "codes": {
+    "icao": "ESMQ",
+    "iata": "KLR",
+    "gps": "ESMQ",
+    "local": null
+  },
+  "name": "Kalmar Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.685501,
+    "longitude": 16.2876,
+    "elevation_ft": 17,
+    "iso_country": "SE",
+    "iso_region": "SE-H",
+    "municipality": "Kalmar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kalmar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2668
+  }
+}

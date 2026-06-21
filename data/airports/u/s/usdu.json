@@ -1,0 +1,32 @@
+{
+  "key": "usdu",
+  "codes": {
+    "icao": "USDU",
+    "iata": "UEN",
+    "gps": "USDU",
+    "local": null
+  },
+  "name": "Urengoy Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.959999,
+    "longitude": 78.436996,
+    "elevation_ft": 56,
+    "iso_country": "RU",
+    "iso_region": "RU-YAN",
+    "municipality": "Urengoy"
+  },
+  "keywords": [
+    "Аэропорт Уренгой"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44860
+  }
+}

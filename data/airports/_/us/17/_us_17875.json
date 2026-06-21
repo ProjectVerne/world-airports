@@ -1,0 +1,30 @@
+{
+  "key": "_us_17875",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID99",
+    "local": "ID99"
+  },
+  "name": "MVRMC Number 2 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.567626,
+    "longitude": -114.495456,
+    "elevation_ft": 3680,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Twin Falls"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17875
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "egel",
+  "codes": {
+    "icao": "EGEL",
+    "iata": "COL",
+    "gps": "EGEL",
+    "local": null
+  },
+  "name": "Coll Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.601898,
+    "longitude": -6.61778,
+    "elevation_ft": 21,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Coll Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Coll_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44408
+  }
+}

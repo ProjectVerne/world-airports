@@ -1,0 +1,33 @@
+{
+  "key": "_br_36092",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "CFAPP Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.471768,
+    "longitude": -46.415386,
+    "elevation_ft": 2390,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Guarulhos"
+  },
+  "keywords": [
+    "SILO",
+    "BR-2436"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36092
+  }
+}

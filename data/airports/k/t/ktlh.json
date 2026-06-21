@@ -1,0 +1,31 @@
+{
+  "key": "ktlh",
+  "codes": {
+    "icao": "KTLH",
+    "iata": "TLH",
+    "gps": "KTLH",
+    "local": "TLH"
+  },
+  "name": "Tallahassee International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.401209,
+    "longitude": -84.35433,
+    "elevation_ft": 81,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Tallahassee"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tallahassee_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3924
+  }
+}

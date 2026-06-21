@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01270",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CLH4",
+    "local": "CLH4"
+  },
+  "name": "Lethbridge/Chinook Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.685891,
+    "longitude": -112.816785,
+    "elevation_ft": 2993,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Lethbridge"
+  },
+  "keywords": [
+    "LH4"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1270
+  }
+}

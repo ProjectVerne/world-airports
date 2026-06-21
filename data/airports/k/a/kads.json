@@ -1,0 +1,31 @@
+{
+  "key": "kads",
+  "codes": {
+    "icao": "KADS",
+    "iata": "ADS",
+    "gps": "KADS",
+    "local": "ADS"
+  },
+  "name": "Addison Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.968601,
+    "longitude": -96.836403,
+    "elevation_ft": 644,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dallas"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Addison_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19237
+  }
+}

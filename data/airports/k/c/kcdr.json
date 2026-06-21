@@ -1,0 +1,31 @@
+{
+  "key": "kcdr",
+  "codes": {
+    "icao": "KCDR",
+    "iata": "CDR",
+    "gps": "KCDR",
+    "local": "CDR"
+  },
+  "name": "Chadron Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.837601,
+    "longitude": -103.095001,
+    "elevation_ft": 3297,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Chadron"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chadron_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19474
+  }
+}

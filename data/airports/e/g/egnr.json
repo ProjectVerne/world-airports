@@ -1,0 +1,33 @@
+{
+  "key": "egnr",
+  "codes": {
+    "icao": "EGNR",
+    "iata": "CEG",
+    "gps": "EGNR",
+    "local": null
+  },
+  "name": "Hawarden Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.178101,
+    "longitude": -2.97778,
+    "elevation_ft": 45,
+    "iso_country": "GB",
+    "iso_region": "GB-WLS",
+    "municipality": "Broughton"
+  },
+  "keywords": [
+    "Chester"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hawarden_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2446
+  }
+}

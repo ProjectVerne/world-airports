@@ -1,0 +1,36 @@
+{
+  "key": "uwws",
+  "codes": {
+    "icao": "UWWS",
+    "iata": null,
+    "gps": "UWWS",
+    "local": null
+  },
+  "name": "Smyshlyayevka Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.241318,
+    "longitude": 50.374982,
+    "elevation_ft": 131,
+    "iso_country": "RU",
+    "iso_region": "RU-SAM",
+    "municipality": "Samara"
+  },
+  "keywords": [
+    "УВВС",
+    "Самара",
+    "Smyshlyaevka Airport",
+    "Аэропорт Смышляевка"
+  ],
+  "wikipedia": "https://es.wikipedia.org/wiki/Aeropuerto_de_Samara-Smyshliayevka",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44613
+  }
+}

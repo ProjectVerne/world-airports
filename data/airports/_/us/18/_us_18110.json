@@ -1,0 +1,33 @@
+{
+  "key": "_us_18110",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Nuckols Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.354801,
+    "longitude": -85.049103,
+    "elevation_ft": 1025,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Redkey"
+  },
+  "keywords": [
+    "IN41",
+    "US-11446"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18110
+  }
+}

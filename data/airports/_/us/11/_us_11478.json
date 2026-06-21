@@ -1,0 +1,30 @@
+{
+  "key": "_us_11478",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4IS3",
+    "local": "4IS3"
+  },
+  "name": "University of Chicago Hospitals Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.788399,
+    "longitude": -87.604202,
+    "elevation_ft": 665,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Chicago"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11478
+  }
+}

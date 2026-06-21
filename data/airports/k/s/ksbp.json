@@ -1,0 +1,33 @@
+{
+  "key": "ksbp",
+  "codes": {
+    "icao": "KSBP",
+    "iata": "SBP",
+    "gps": "KSBP",
+    "local": "SBP"
+  },
+  "name": "San Luis County Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.236801,
+    "longitude": -120.641998,
+    "elevation_ft": 212,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Luis Obispo"
+  },
+  "keywords": [
+    "SLO Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3869
+  }
+}

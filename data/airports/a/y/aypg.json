@@ -1,0 +1,30 @@
+{
+  "key": "aypg",
+  "codes": {
+    "icao": "AYPG",
+    "iata": "PGN",
+    "gps": "AYPG",
+    "local": "PNA"
+  },
+  "name": "Pangia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.386,
+    "longitude": 144.1084,
+    "elevation_ft": 5340,
+    "iso_country": "PG",
+    "iso_region": "PG-SHM",
+    "municipality": "Pangia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 316621
+  }
+}

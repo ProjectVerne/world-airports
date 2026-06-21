@@ -1,0 +1,35 @@
+{
+  "key": "_us_16100",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3AK1",
+    "local": "3AK1"
+  },
+  "name": "Skelton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.937983,
+    "longitude": -147.170081,
+    "elevation_ft": 3289,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Eureka"
+  },
+  "keywords": [
+    "PAZK",
+    "AZK",
+    "AK04",
+    "Z37"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16100
+  }
+}

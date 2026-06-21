@@ -1,0 +1,31 @@
+{
+  "key": "saso",
+  "codes": {
+    "icao": "SASO",
+    "iata": "ORA",
+    "gps": "SASO",
+    "local": "ORA"
+  },
+  "name": "Orán Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.1528,
+    "longitude": -64.329201,
+    "elevation_ft": 1171,
+    "iso_country": "AR",
+    "iso_region": "AR-A",
+    "municipality": "Orán"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Or%C3%A1n_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5813
+  }
+}

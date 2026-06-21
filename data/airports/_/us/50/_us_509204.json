@@ -1,0 +1,32 @@
+{
+  "key": "_us_509204",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Angle Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.603016,
+    "longitude": -91.373872,
+    "elevation_ft": 224,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Newport"
+  },
+  "keywords": [
+    "US-7816"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509204
+  }
+}

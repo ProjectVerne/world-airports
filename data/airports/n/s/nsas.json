@@ -1,0 +1,31 @@
+{
+  "key": "nsas",
+  "codes": {
+    "icao": "NSAS",
+    "iata": "OFU",
+    "gps": "NSAS",
+    "local": "Z08"
+  },
+  "name": "Ofu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -14.1844,
+    "longitude": -169.669998,
+    "elevation_ft": 9,
+    "iso_country": "AS",
+    "iso_region": "AS-MA",
+    "municipality": "Ofu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ofu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32097
+  }
+}

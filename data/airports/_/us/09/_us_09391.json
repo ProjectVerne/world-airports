@@ -1,0 +1,32 @@
+{
+  "key": "_us_09391",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2FD9",
+    "local": "2FD9"
+  },
+  "name": "AdventHealth DeLand Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.044626,
+    "longitude": -81.317844,
+    "elevation_ft": 78,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "DeLand"
+  },
+  "keywords": [
+    "West Volusia Memorial Hospital Helistop"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9391
+  }
+}

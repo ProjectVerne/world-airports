@@ -1,0 +1,30 @@
+{
+  "key": "_us_15470",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "95TE",
+    "local": "95TE"
+  },
+  "name": "Star Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.2178,
+    "longitude": -96.983299,
+    "elevation_ft": 615,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Cross Roads"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15470
+  }
+}

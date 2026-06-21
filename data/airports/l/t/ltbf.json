@@ -1,0 +1,35 @@
+{
+  "key": "ltbf",
+  "codes": {
+    "icao": "LTBF",
+    "iata": "BZI",
+    "gps": "LTBF",
+    "local": null
+  },
+  "name": "Balıkesir Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.619301,
+    "longitude": 27.926001,
+    "elevation_ft": 340,
+    "iso_country": "TR",
+    "iso_region": "TR-10",
+    "municipality": "Balıkesir"
+  },
+  "keywords": [
+    "Balıkesir Air Base",
+    "Balıkesir Central",
+    "Balıkesir Merkez"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bal%C4%B1kesir_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4529
+  }
+}

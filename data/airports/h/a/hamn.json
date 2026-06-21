@@ -1,0 +1,30 @@
+{
+  "key": "hamn",
+  "codes": {
+    "icao": "HAMN",
+    "iata": "NDM",
+    "gps": "HAMN",
+    "local": null
+  },
+  "name": "Mendi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.767,
+    "longitude": 35.099998,
+    "elevation_ft": 5500,
+    "iso_country": "ET",
+    "iso_region": "ET-OR",
+    "municipality": "Mendi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32017
+  }
+}

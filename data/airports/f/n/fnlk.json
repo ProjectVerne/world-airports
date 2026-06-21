@@ -1,0 +1,33 @@
+{
+  "key": "fnlk",
+  "codes": {
+    "icao": "FNLK",
+    "iata": "LBZ",
+    "gps": "FNLK",
+    "local": null
+  },
+  "name": "Lucapa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.442339,
+    "longitude": 20.732701,
+    "elevation_ft": 3029,
+    "iso_country": "AO",
+    "iso_region": "AO-LNO",
+    "municipality": "Lucapa"
+  },
+  "keywords": [
+    "Lukapa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lucapa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43321
+  }
+}

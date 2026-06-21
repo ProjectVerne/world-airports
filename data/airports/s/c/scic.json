@@ -1,0 +1,33 @@
+{
+  "key": "scic",
+  "codes": {
+    "icao": "SCIC",
+    "iata": null,
+    "gps": "SCIC",
+    "local": null
+  },
+  "name": "General Freire Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.966667,
+    "longitude": -71.216393,
+    "elevation_ft": 722,
+    "iso_country": "CL",
+    "iso_region": "CL-ML",
+    "municipality": "Curico"
+  },
+  "keywords": [
+    "Curicó"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/General_Freire_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39169
+  }
+}

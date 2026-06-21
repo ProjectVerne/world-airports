@@ -1,0 +1,30 @@
+{
+  "key": "ayto",
+  "codes": {
+    "icao": "AYTO",
+    "iata": "KDQ",
+    "gps": "AYTO",
+    "local": "KTO"
+  },
+  "name": "Kamberatoro Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.600556,
+    "longitude": 141.051667,
+    "elevation_ft": 1350,
+    "iso_country": "PG",
+    "iso_region": "PG-SAN",
+    "municipality": "Kamberatoro Mission"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308208
+  }
+}

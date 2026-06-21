@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01421",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPJ7",
+    "local": "CPJ7"
+  },
+  "name": "Kingston (General Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.222145,
+    "longitude": -76.493259,
+    "elevation_ft": 261,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Kingston"
+  },
+  "keywords": [
+    "PJ7"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1421
+  }
+}

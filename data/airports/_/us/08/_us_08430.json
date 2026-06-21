@@ -1,0 +1,32 @@
+{
+  "key": "_us_08430",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MA0",
+    "local": "1MA0"
+  },
+  "name": "Beth Israel Deaconess Hospital Plymouth Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.940135,
+    "longitude": -70.6472,
+    "elevation_ft": 122,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Plymouth"
+  },
+  "keywords": [
+    "Jordan Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8430
+  }
+}

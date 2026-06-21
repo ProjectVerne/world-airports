@@ -1,0 +1,32 @@
+{
+  "key": "_us_23194",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NK64",
+    "local": "NK64"
+  },
+  "name": "Albany Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.653692,
+    "longitude": -73.775366,
+    "elevation_ft": 209,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Albany"
+  },
+  "keywords": [
+    "AMCH Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23194
+  }
+}

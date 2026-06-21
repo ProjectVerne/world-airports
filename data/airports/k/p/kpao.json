@@ -1,0 +1,33 @@
+{
+  "key": "kpao",
+  "codes": {
+    "icao": "KPAO",
+    "iata": "PAO",
+    "gps": "KPAO",
+    "local": "PAO"
+  },
+  "name": "Palo Alto Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.461102,
+    "longitude": -122.114998,
+    "elevation_ft": 4,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Palo Alto"
+  },
+  "keywords": [
+    "Santa Clara County"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Palo_Alto_Airport_of_Santa_Clara_County",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20805
+  }
+}

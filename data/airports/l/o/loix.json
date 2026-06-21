@@ -1,0 +1,32 @@
+{
+  "key": "loix",
+  "codes": {
+    "icao": "LOIX",
+    "iata": null,
+    "gps": "LOIX",
+    "local": null
+  },
+  "name": "Bregenz Hospital Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.496662,
+    "longitude": 9.745111,
+    "elevation_ft": 1492,
+    "iso_country": "AT",
+    "iso_region": "AT-8",
+    "municipality": "Bregenz"
+  },
+  "keywords": [
+    "AT-0084"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43861
+  }
+}

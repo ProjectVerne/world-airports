@@ -1,0 +1,33 @@
+{
+  "key": "sazm",
+  "codes": {
+    "icao": "SAZM",
+    "iata": "MDQ",
+    "gps": "SAZM",
+    "local": "MDP"
+  },
+  "name": "Ástor Piazzola International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -37.9342,
+    "longitude": -57.5733,
+    "elevation_ft": 72,
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Mar del Plata"
+  },
+  "keywords": [
+    "Brigadier General Bartolome De La Colina International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/%C3%81stor_Piazzola_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5847
+  }
+}

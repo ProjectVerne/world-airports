@@ -1,0 +1,32 @@
+{
+  "key": "_us_15561",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Hawarden Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.998468,
+    "longitude": -96.481038,
+    "elevation_ft": 1174,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Hawarden"
+  },
+  "keywords": [
+    "98IA"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15561
+  }
+}

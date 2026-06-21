@@ -1,0 +1,34 @@
+{
+  "key": "kbyh",
+  "codes": {
+    "icao": "KBYH",
+    "iata": "BYH",
+    "gps": "KBYH",
+    "local": "BYH"
+  },
+  "name": "Arkansas International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.964298,
+    "longitude": -89.944,
+    "elevation_ft": 254,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Blytheville"
+  },
+  "keywords": [
+    "Blytheville AFB",
+    "Eaker AFB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Arkansas_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3436
+  }
+}

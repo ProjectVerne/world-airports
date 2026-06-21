@@ -1,0 +1,32 @@
+{
+  "key": "hkmt",
+  "codes": {
+    "icao": "HKMT",
+    "iata": null,
+    "gps": "HKMT",
+    "local": null
+  },
+  "name": "Mtito Andei Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.713806,
+    "longitude": 38.195006,
+    "elevation_ft": 2397,
+    "iso_country": "KE",
+    "iso_region": "KE-06",
+    "municipality": "Mtito Andei"
+  },
+  "keywords": [
+    "KE-7003"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42536
+  }
+}

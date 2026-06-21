@@ -1,0 +1,32 @@
+{
+  "key": "_us_17110",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "DC16",
+    "local": "DC16"
+  },
+  "name": "Metropolitan Police Department  3rd District Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.917922,
+    "longitude": -77.038125,
+    "elevation_ft": 130,
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington"
+  },
+  "keywords": [
+    "MPD"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17110
+  }
+}

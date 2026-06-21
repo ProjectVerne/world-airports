@@ -1,0 +1,31 @@
+{
+  "key": "svpc",
+  "codes": {
+    "icao": "SVPC",
+    "iata": "PBL",
+    "gps": "SVPC",
+    "local": null
+  },
+  "name": "General Bartolome Salom International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.4805,
+    "longitude": -68.072998,
+    "elevation_ft": 32,
+    "iso_country": "VE",
+    "iso_region": "VE-G",
+    "municipality": "Puerto Cabello"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/General_Bartolom%C3%A9_Salom_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6310
+  }
+}

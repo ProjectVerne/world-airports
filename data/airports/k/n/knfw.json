@@ -1,0 +1,34 @@
+{
+  "key": "knfw",
+  "codes": {
+    "icao": "KNFW",
+    "iata": "FWH",
+    "gps": "KNFW",
+    "local": "NFW"
+  },
+  "name": "NAS Fort Worth JRB / Carswell Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.769199,
+    "longitude": -97.441498,
+    "elevation_ft": 650,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth"
+  },
+  "keywords": [
+    "Carswell AFB",
+    "Tarrant Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Joint_Reserve_Base_Fort_Worth",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20639
+  }
+}

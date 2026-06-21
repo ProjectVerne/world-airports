@@ -1,0 +1,31 @@
+{
+  "key": "kbdg",
+  "codes": {
+    "icao": "KBDG",
+    "iata": "BDG",
+    "gps": "KBDG",
+    "local": "BDG"
+  },
+  "name": "Blanding Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.583302,
+    "longitude": -109.483002,
+    "elevation_ft": 5868,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Blanding"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Blanding_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19360
+  }
+}

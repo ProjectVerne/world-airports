@@ -1,0 +1,30 @@
+{
+  "key": "nzbw",
+  "codes": {
+    "icao": "NZBW",
+    "iata": null,
+    "gps": "NZBW",
+    "local": null
+  },
+  "name": "Burwood Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -43.479648,
+    "longitude": 172.687041,
+    "elevation_ft": 16,
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Christchurch"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44678
+  }
+}

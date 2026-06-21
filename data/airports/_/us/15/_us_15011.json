@@ -1,0 +1,32 @@
+{
+  "key": "_us_15011",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8LL5",
+    "local": "8LL5"
+  },
+  "name": "Horizon Health Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.607106,
+    "longitude": -87.675941,
+    "elevation_ft": 734,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Paris"
+  },
+  "keywords": [
+    "Paris Community Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15011
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "yssy",
+  "codes": {
+    "icao": "YSSY",
+    "iata": "SYD",
+    "gps": "YSSY",
+    "local": null
+  },
+  "name": "Sydney Kingsford Smith International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.946098,
+    "longitude": 151.177002,
+    "elevation_ft": 21,
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Sydney (Mascot)"
+  },
+  "keywords": [
+    "Kingsford Smith",
+    "Mascot",
+    "RAAF Station Mascot"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27145
+  }
+}

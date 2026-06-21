@@ -1,0 +1,30 @@
+{
+  "key": "_us_08556",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1NV2",
+    "local": "1NV2"
+  },
+  "name": "Lake Las Vegas Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.124802,
+    "longitude": -114.908997,
+    "elevation_ft": 1380,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Henderson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8556
+  }
+}

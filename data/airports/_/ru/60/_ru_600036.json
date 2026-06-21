@@ -1,0 +1,33 @@
+{
+  "key": "_ru_600036",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UUTK",
+    "local": null
+  },
+  "name": "Kalyazin Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 57.23238,
+    "longitude": 37.86075,
+    "elevation_ft": 385,
+    "iso_country": "RU",
+    "iso_region": "RU-TVE",
+    "municipality": "Kalyazin"
+  },
+  "keywords": [
+    "УУТК",
+    "Калязин"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600036
+  }
+}

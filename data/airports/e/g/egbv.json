@@ -1,0 +1,34 @@
+{
+  "key": "egbv",
+  "codes": {
+    "icao": "EGBV",
+    "iata": null,
+    "gps": "EGBV",
+    "local": null
+  },
+  "name": "Silverstone Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 52.070172,
+    "longitude": -1.012675,
+    "elevation_ft": 502,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Silverstone, Buckinghamshire"
+  },
+  "keywords": [
+    "RAF Silverstone",
+    "British Grand Prix"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Silverstone_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29113
+  }
+}

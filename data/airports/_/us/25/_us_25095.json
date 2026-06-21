@@ -1,0 +1,33 @@
+{
+  "key": "_us_25095",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Air Logistics Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 28.439699,
+    "longitude": -96.419702,
+    "elevation_ft": 5,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Port O'Connor"
+  },
+  "keywords": [
+    "TS79",
+    "US-12275"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25095
+  }
+}

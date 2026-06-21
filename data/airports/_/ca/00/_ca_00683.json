@@ -1,0 +1,30 @@
+{
+  "key": "_ca_00683",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBG5",
+    "local": "CBG5"
+  },
+  "name": "Nanaimo (Regional General Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.185749,
+    "longitude": -123.971757,
+    "elevation_ft": 292,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Nanaimo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 683
+  }
+}

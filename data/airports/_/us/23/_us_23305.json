@@ -1,0 +1,30 @@
+{
+  "key": "_us_23305",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM87",
+    "local": "NM87"
+  },
+  "name": "Jenkins Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.239231,
+    "longitude": -104.474158,
+    "elevation_ft": 3600,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Roswell"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23305
+  }
+}

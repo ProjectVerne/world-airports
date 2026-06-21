@@ -1,0 +1,31 @@
+{
+  "key": "egac",
+  "codes": {
+    "icao": "EGAC",
+    "iata": "BHD",
+    "gps": "EGAC",
+    "local": null
+  },
+  "name": "George Best Belfast City Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.618099,
+    "longitude": -5.8725,
+    "elevation_ft": 15,
+    "iso_country": "GB",
+    "iso_region": "GB-NIR",
+    "municipality": "Belfast"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/George_Best_Belfast_City_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2387
+  }
+}

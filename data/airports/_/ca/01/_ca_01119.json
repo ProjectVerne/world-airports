@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01119",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJR9",
+    "local": "CJR9"
+  },
+  "name": "Naicam Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.4114,
+    "longitude": -104.484001,
+    "elevation_ft": 1780,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Naicam"
+  },
+  "keywords": [
+    "JR9"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naicam_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1119
+  }
+}

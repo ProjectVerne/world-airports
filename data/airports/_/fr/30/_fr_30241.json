@@ -1,0 +1,33 @@
+{
+  "key": "_fr_30241",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LFPI",
+    "local": null
+  },
+  "name": "Paris Issy-les-Moulineaux Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.832987,
+    "longitude": 2.273043,
+    "elevation_ft": 112,
+    "iso_country": "FR",
+    "iso_region": "FR-IDF",
+    "municipality": "Issy-les-Moulineaux, Hauts-de-Seine"
+  },
+  "keywords": [
+    "JDP"
+  ],
+  "wikipedia": "https://fr.wikipedia.org/wiki/H%C3%A9liport_de_Paris_-_Issy-les-Moulineaux_-_Val%C3%A9rie-Andr%C3%A9",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30241
+  }
+}

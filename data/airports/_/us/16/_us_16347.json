@@ -1,0 +1,32 @@
+{
+  "key": "_us_16347",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AR60",
+    "local": "AR60"
+  },
+  "name": "NEA Baptist Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.807603,
+    "longitude": -90.666472,
+    "elevation_ft": 260,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Jonesboro"
+  },
+  "keywords": [
+    "Methodist Hospital of Jonesboro Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16347
+  }
+}

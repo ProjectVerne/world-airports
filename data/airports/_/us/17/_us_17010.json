@@ -1,0 +1,30 @@
+{
+  "key": "_us_17010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT53",
+    "local": "CT53"
+  },
+  "name": "Mountain View Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.019299,
+    "longitude": -72.483704,
+    "elevation_ft": 290,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Somers"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17010
+  }
+}

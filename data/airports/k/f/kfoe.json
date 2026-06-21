@@ -1,0 +1,35 @@
+{
+  "key": "kfoe",
+  "codes": {
+    "icao": "KFOE",
+    "iata": "FOE",
+    "gps": "KFOE",
+    "local": "FOE"
+  },
+  "name": "Topeka Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.950901,
+    "longitude": -95.663597,
+    "elevation_ft": 1078,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Topeka"
+  },
+  "keywords": [
+    "Topeka Army Airfield",
+    "Forbes AFB",
+    "Forbes Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Topeka_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3537
+  }
+}

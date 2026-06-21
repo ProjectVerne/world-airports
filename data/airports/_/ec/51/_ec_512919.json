@@ -1,0 +1,30 @@
+{
+  "key": "_ec_512919",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SEES",
+    "local": null
+  },
+  "name": "Endesa Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -0.288714,
+    "longitude": -78.540891,
+    "elevation_ft": 9400,
+    "iso_country": "EC",
+    "iso_region": "EC-P",
+    "municipality": "Quito"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 512919
+  }
+}

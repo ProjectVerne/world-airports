@@ -1,0 +1,34 @@
+{
+  "key": "uinn",
+  "codes": {
+    "icao": "UINN",
+    "iata": null,
+    "gps": "UINN",
+    "local": null
+  },
+  "name": "Nizhneudinsk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.890007,
+    "longitude": 99.065985,
+    "elevation_ft": 1340,
+    "iso_country": "RU",
+    "iso_region": "RU-IRK",
+    "municipality": "Nizhneudinsk"
+  },
+  "keywords": [
+    "УИНН",
+    "Аэропорт Нижнеудинск"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nizhneudinsk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308489
+  }
+}

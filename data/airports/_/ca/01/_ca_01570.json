@@ -1,0 +1,31 @@
+{
+  "key": "_ca_01570",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSV4",
+    "local": "CSV4"
+  },
+  "name": "Fort Saskatchewan Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.6931,
+    "longitude": -113.2102,
+    "elevation_ft": 2056,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Fort Saskatchewan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Saskatchewan_Community_Hospital",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1570
+  }
+}

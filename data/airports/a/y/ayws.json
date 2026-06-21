@@ -1,0 +1,30 @@
+{
+  "key": "ayws",
+  "codes": {
+    "icao": "AYWS",
+    "iata": "WSU",
+    "gps": "AYWS",
+    "local": "WASU"
+  },
+  "name": "Wasu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.961709,
+    "longitude": 147.198225,
+    "elevation_ft": 34,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Wasu"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307291
+  }
+}

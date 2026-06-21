@@ -1,0 +1,35 @@
+{
+  "key": "krrt",
+  "codes": {
+    "icao": "KRRT",
+    "iata": "RRT",
+    "gps": "KRRT",
+    "local": "RRT"
+  },
+  "name": "Warroad International Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.941399,
+    "longitude": -95.348396,
+    "elevation_ft": 1076,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Warroad"
+  },
+  "keywords": [
+    "RAD",
+    "KRAD",
+    "Swede Carlson Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Warroad_International_Memorial_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20961
+  }
+}

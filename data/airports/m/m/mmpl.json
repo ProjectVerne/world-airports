@@ -1,0 +1,31 @@
+{
+  "key": "mmpl",
+  "codes": {
+    "icao": "MMPL",
+    "iata": "PCO",
+    "gps": "MMPL",
+    "local": "PCL"
+  },
+  "name": "Punta Colorada Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.575011,
+    "longitude": -109.535826,
+    "elevation_ft": 55,
+    "iso_country": "MX",
+    "iso_region": "MX-BCS",
+    "municipality": "La Ribera"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Punta_Colorada_Airstrip",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308382
+  }
+}

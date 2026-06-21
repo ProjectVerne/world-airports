@@ -1,0 +1,32 @@
+{
+  "key": "_us_345549",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "42MI",
+    "local": "42MI"
+  },
+  "name": "Turner Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.291006,
+    "longitude": -83.740025,
+    "elevation_ft": 652,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Birch Run"
+  },
+  "keywords": [
+    "US-4489"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345549
+  }
+}

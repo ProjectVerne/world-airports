@@ -1,0 +1,30 @@
+{
+  "key": "loif",
+  "codes": {
+    "icao": "LOIF",
+    "iata": null,
+    "gps": "LOIF",
+    "local": null
+  },
+  "name": "Feldkirch State Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.2312,
+    "longitude": 9.578721,
+    "elevation_ft": 1588,
+    "iso_country": "AT",
+    "iso_region": "AT-8",
+    "municipality": "Feldkirch"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 353991
+  }
+}

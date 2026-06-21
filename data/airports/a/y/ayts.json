@@ -1,0 +1,30 @@
+{
+  "key": "ayts",
+  "codes": {
+    "icao": "AYTS",
+    "iata": "TSW",
+    "gps": "AYTS",
+    "local": "TSE"
+  },
+  "name": "Tsewi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.0695,
+    "longitude": 146.1272,
+    "elevation_ft": 4185,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Tsewi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 312313
+  }
+}

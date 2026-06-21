@@ -1,0 +1,30 @@
+{
+  "key": "_us_10142",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "35KY",
+    "local": "35KY"
+  },
+  "name": "Welcome Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.711504,
+    "longitude": -86.636038,
+    "elevation_ft": 695,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Franklin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10142
+  }
+}

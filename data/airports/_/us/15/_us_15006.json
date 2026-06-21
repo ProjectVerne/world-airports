@@ -1,0 +1,33 @@
+{
+  "key": "_us_15006",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Koll Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 30.338516,
+    "longitude": -92.736905,
+    "elevation_ft": 40,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Welsh"
+  },
+  "keywords": [
+    "8LA9",
+    "US-10880"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15006
+  }
+}

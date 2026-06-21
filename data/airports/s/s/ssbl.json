@@ -1,0 +1,31 @@
+{
+  "key": "ssbl",
+  "codes": {
+    "icao": "SSBL",
+    "iata": "BNU",
+    "gps": "SSBL",
+    "local": "SC0019"
+  },
+  "name": "Blumenau Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.831661,
+    "longitude": -49.093569,
+    "elevation_ft": 60,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Blumenau"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Blumenau_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 436
+  }
+}

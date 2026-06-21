@@ -1,0 +1,32 @@
+{
+  "key": "_us_345002",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Camp Ocala Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.105389,
+    "longitude": -81.629949,
+    "elevation_ft": 61,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Altoona"
+  },
+  "keywords": [
+    "US-4301"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345002
+  }
+}

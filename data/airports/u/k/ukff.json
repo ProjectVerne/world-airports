@@ -1,0 +1,31 @@
+{
+  "key": "ukff",
+  "codes": {
+    "icao": "UKFF",
+    "iata": "SIP",
+    "gps": "UKFF",
+    "local": "URFF"
+  },
+  "name": "Simferopol International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.0522,
+    "longitude": 33.975101,
+    "elevation_ft": 639,
+    "iso_country": "UA",
+    "iso_region": "UA-43",
+    "municipality": "Simferopol"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Simferopol_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6474
+  }
+}

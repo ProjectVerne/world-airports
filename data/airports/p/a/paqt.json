@@ -1,0 +1,33 @@
+{
+  "key": "paqt",
+  "codes": {
+    "icao": "PAQT",
+    "iata": "NUI",
+    "gps": "PAQT",
+    "local": "AQT"
+  },
+  "name": "Nuiqsut Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 70.209999,
+    "longitude": -151.005998,
+    "elevation_ft": 38,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Nuiqsut"
+  },
+  "keywords": [
+    "10AK"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nuiqsut_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5401
+  }
+}

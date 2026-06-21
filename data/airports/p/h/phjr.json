@@ -1,0 +1,35 @@
+{
+  "key": "phjr",
+  "codes": {
+    "icao": "PHJR",
+    "iata": "JRF",
+    "gps": "PHJR",
+    "local": "JRF"
+  },
+  "name": "Kalaeloa Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.3074,
+    "longitude": -158.070009,
+    "elevation_ft": 30,
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Kapolei"
+  },
+  "keywords": [
+    "NAX",
+    "Naval Air Station Barbers Point",
+    "John Rodgers Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kalaeloa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5447
+  }
+}

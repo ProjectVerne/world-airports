@@ -1,0 +1,34 @@
+{
+  "key": "mmia",
+  "codes": {
+    "icao": "MMIA",
+    "iata": "CLQ",
+    "gps": "MMIA",
+    "local": "COL"
+  },
+  "name": "Licenciado Miguel de la Madrid International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 19.277,
+    "longitude": -103.577002,
+    "elevation_ft": 2467,
+    "iso_country": "MX",
+    "iso_region": "MX-COL",
+    "municipality": "Colima"
+  },
+  "keywords": [
+    "Aeropuerto Internacional Licenciado Miguel de la Madrid",
+    "Colima Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lic._Miguel_de_la_Madrid_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4714
+  }
+}

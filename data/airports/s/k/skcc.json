@@ -1,0 +1,31 @@
+{
+  "key": "skcc",
+  "codes": {
+    "icao": "SKCC",
+    "iata": "CUC",
+    "gps": "SKCC",
+    "local": "CUC"
+  },
+  "name": "Camilo Daza International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.92757,
+    "longitude": -72.5115,
+    "elevation_ft": 1096,
+    "iso_country": "CO",
+    "iso_region": "CO-NSA",
+    "municipality": "Cúcuta"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Camilo_Daza_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6108
+  }
+}

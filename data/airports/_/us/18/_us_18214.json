@@ -1,0 +1,30 @@
+{
+  "key": "_us_18214",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS55",
+    "local": "IS55"
+  },
+  "name": "Morton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.5909,
+    "longitude": -90.942398,
+    "elevation_ft": 705,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "La Harpe"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18214
+  }
+}

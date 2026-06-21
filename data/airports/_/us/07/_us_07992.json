@@ -1,0 +1,32 @@
+{
+  "key": "_us_07992",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "16IN",
+    "local": "16IN"
+  },
+  "name": "Deaconess Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.984119,
+    "longitude": -87.572095,
+    "elevation_ft": 390,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Evansville"
+  },
+  "keywords": [
+    "Air Evac 46 Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7992
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "kfnl",
+  "codes": {
+    "icao": "KFNL",
+    "iata": "FNL",
+    "gps": "KFNL",
+    "local": "FNL"
+  },
+  "name": "Northern Colorado Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.44969,
+    "longitude": -105.011272,
+    "elevation_ft": 5016,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Loveland"
+  },
+  "keywords": [
+    "Fort Collins Loveland Municipal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Northern_Colorado_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19885
+  }
+}

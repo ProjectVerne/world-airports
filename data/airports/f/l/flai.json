@@ -1,0 +1,30 @@
+{
+  "key": "flai",
+  "codes": {
+    "icao": "FLAI",
+    "iata": null,
+    "gps": "FLAI",
+    "local": null
+  },
+  "name": "Amelia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -13.755705,
+    "longitude": 29.338077,
+    "elevation_ft": 4206,
+    "iso_country": "ZM",
+    "iso_region": "ZM-02",
+    "municipality": "Mkushi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 354501
+  }
+}

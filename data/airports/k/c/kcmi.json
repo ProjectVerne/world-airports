@@ -1,0 +1,34 @@
+{
+  "key": "kcmi",
+  "codes": {
+    "icao": "KCMI",
+    "iata": "CMI",
+    "gps": "KCMI",
+    "local": "CMI"
+  },
+  "name": "University of Illinois Willard Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.039819,
+    "longitude": -88.276249,
+    "elevation_ft": 755,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Savoy"
+  },
+  "keywords": [
+    "Champaign",
+    "Urbana"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/University_of_Illinois_Willard_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3459
+  }
+}

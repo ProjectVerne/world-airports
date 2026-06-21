@@ -1,0 +1,30 @@
+{
+  "key": "_us_06650",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "02HI",
+    "local": "02HI"
+  },
+  "name": "K3 Helipad Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 21.35839,
+    "longitude": -157.94789,
+    "elevation_ft": 9,
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Honolulu"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6650
+  }
+}

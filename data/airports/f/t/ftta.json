@@ -1,0 +1,31 @@
+{
+  "key": "ftta",
+  "codes": {
+    "icao": "FTTA",
+    "iata": "SRH",
+    "gps": "FTTA",
+    "local": null
+  },
+  "name": "Sarh Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.14444,
+    "longitude": 18.374399,
+    "elevation_ft": 1198,
+    "iso_country": "TD",
+    "iso_region": "TD-MC",
+    "municipality": "Sarh"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sarh_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32383
+  }
+}

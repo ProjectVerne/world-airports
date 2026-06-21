@@ -1,0 +1,30 @@
+{
+  "key": "_us_08561",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1NY6",
+    "local": "1NY6"
+  },
+  "name": "Tgp-249 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.754002,
+    "longitude": -74.400703,
+    "elevation_ft": 1300,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Carlisle"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8561
+  }
+}

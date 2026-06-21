@@ -1,0 +1,31 @@
+{
+  "key": "levx",
+  "codes": {
+    "icao": "LEVX",
+    "iata": "VGO",
+    "gps": "LEVX",
+    "local": null
+  },
+  "name": "Vigo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.2318,
+    "longitude": -8.62677,
+    "elevation_ft": 856,
+    "iso_country": "ES",
+    "iso_region": "ES-GA",
+    "municipality": "Vigo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vigo-Peinador_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4046
+  }
+}

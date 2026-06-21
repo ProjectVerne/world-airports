@@ -1,0 +1,30 @@
+{
+  "key": "_br_00403",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNTR",
+    "local": "SNTR"
+  },
+  "name": "Piritiba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -11.7381,
+    "longitude": -40.5695,
+    "elevation_ft": 1896,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Piritiba"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 403
+  }
+}

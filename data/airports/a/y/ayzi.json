@@ -1,0 +1,30 @@
+{
+  "key": "ayzi",
+  "codes": {
+    "icao": "AYZI",
+    "iata": "SWR",
+    "gps": "AYZI",
+    "local": "SLR"
+  },
+  "name": "Silur Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.529889,
+    "longitude": 153.054444,
+    "elevation_ft": 217,
+    "iso_country": "PG",
+    "iso_region": "PG-NIK",
+    "municipality": "Silur Mission"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308106
+  }
+}

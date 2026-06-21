@@ -1,0 +1,32 @@
+{
+  "key": "faco",
+  "codes": {
+    "icao": "FACO",
+    "iata": null,
+    "gps": "FACO",
+    "local": null
+  },
+  "name": "Alkantpan Test Range Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.933201,
+    "longitude": 22.265741,
+    "elevation_ft": 3530,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": null
+  },
+  "keywords": [
+    "ZA-0324"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 525707
+  }
+}

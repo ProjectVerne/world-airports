@@ -1,0 +1,32 @@
+{
+  "key": "_id_345106",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Pertamina Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -7.15784,
+    "longitude": 115.78948,
+    "elevation_ft": 20,
+    "iso_country": "ID",
+    "iso_region": "ID-JI",
+    "municipality": "Sapeken"
+  },
+  "keywords": [
+    "ID-0185"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345106
+  }
+}

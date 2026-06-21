@@ -1,0 +1,31 @@
+{
+  "key": "swek",
+  "codes": {
+    "icao": "SWEK",
+    "iata": "CQA",
+    "gps": "SWEK",
+    "local": "MT0024"
+  },
+  "name": "Canarana Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -13.576545,
+    "longitude": -52.268296,
+    "elevation_ft": 1306,
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Canarana"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Canarana_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 37848
+  }
+}

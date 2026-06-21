@@ -1,0 +1,33 @@
+{
+  "key": "vomm",
+  "codes": {
+    "icao": "VOMM",
+    "iata": "MAA",
+    "gps": "VOMM",
+    "local": null
+  },
+  "name": "Chennai International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.990005,
+    "longitude": 80.169296,
+    "elevation_ft": 52,
+    "iso_country": "IN",
+    "iso_region": "IN-TN",
+    "municipality": "Chennai"
+  },
+  "keywords": [
+    "Madras"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chennai_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26618
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_25383",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VA51",
+    "local": "VA51"
+  },
+  "name": "DMME Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.855263,
+    "longitude": -82.759758,
+    "elevation_ft": 1950,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Big Stone Gap"
+  },
+  "keywords": [
+    "US-VA51"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25383
+  }
+}

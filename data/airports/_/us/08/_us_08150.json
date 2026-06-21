@@ -1,0 +1,30 @@
+{
+  "key": "_us_08150",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "19NE",
+    "local": "19NE"
+  },
+  "name": "Hoyt Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.108299,
+    "longitude": -100.808998,
+    "elevation_ft": 2707,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Mc Cook/Culbertson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8150
+  }
+}

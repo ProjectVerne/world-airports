@@ -1,0 +1,33 @@
+{
+  "key": "lrsp",
+  "codes": {
+    "icao": "LRSP",
+    "iata": null,
+    "gps": "LRSP",
+    "local": null
+  },
+  "name": "Sânpetru-Brașov Aerodrome",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.721036,
+    "longitude": 25.633707,
+    "elevation_ft": 1716,
+    "iso_country": "RO",
+    "iso_region": "RO-BV",
+    "municipality": "Sânpetru"
+  },
+  "keywords": [
+    "Aerodromul Sânpetru-Brașov",
+    "RO-0006"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 315482
+  }
+}

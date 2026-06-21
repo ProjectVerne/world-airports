@@ -1,0 +1,31 @@
+{
+  "key": "lpcr",
+  "codes": {
+    "icao": "LPCR",
+    "iata": "CVU",
+    "gps": "LPCR",
+    "local": null
+  },
+  "name": "Corvo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.671501,
+    "longitude": -31.1136,
+    "elevation_ft": 62,
+    "iso_country": "PT",
+    "iso_region": "PT-20",
+    "municipality": "Corvo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Corvo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29487
+  }
+}

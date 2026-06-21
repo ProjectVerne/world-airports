@@ -1,0 +1,33 @@
+{
+  "key": "egma",
+  "codes": {
+    "icao": "EGMA",
+    "iata": null,
+    "gps": "EGMA",
+    "local": null
+  },
+  "name": "Fowlmere Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.077499,
+    "longitude": 0.061667,
+    "elevation_ft": 124,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Fowlmere, Cambridgeshire"
+  },
+  "keywords": [
+    "RAF Fowlmere"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/RAF_Fowlmere",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29162
+  }
+}

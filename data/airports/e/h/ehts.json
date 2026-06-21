@@ -1,0 +1,30 @@
+{
+  "key": "ehts",
+  "codes": {
+    "icao": "EHTS",
+    "iata": null,
+    "gps": "EHTS",
+    "local": null
+  },
+  "name": "Terschelling Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.384129,
+    "longitude": 5.278094,
+    "elevation_ft": 0,
+    "iso_country": "NL",
+    "iso_region": "NL-FR",
+    "municipality": "Midsland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 340432
+  }
+}

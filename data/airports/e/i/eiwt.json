@@ -1,0 +1,33 @@
+{
+  "key": "eiwt",
+  "codes": {
+    "icao": "EIWT",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Weston Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.351622,
+    "longitude": -6.490357,
+    "elevation_ft": 150,
+    "iso_country": "IE",
+    "iso_region": "IE-D",
+    "municipality": "Leixlip"
+  },
+  "keywords": [
+    "Dublin"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Weston_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27310
+  }
+}

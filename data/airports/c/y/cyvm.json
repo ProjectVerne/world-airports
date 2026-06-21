@@ -1,0 +1,33 @@
+{
+  "key": "cyvm",
+  "codes": {
+    "icao": "CYVM",
+    "iata": "YVM",
+    "gps": "CYVM",
+    "local": null
+  },
+  "name": "Qikiqtarjuaq Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 67.54656,
+    "longitude": -64.03141,
+    "elevation_ft": 21,
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Qikiqtarjuaq"
+  },
+  "keywords": [
+    "Broughton Island"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Qikiqtarjuaq_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1937
+  }
+}

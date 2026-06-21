@@ -1,0 +1,31 @@
+{
+  "key": "httb",
+  "codes": {
+    "icao": "HTTB",
+    "iata": "TBO",
+    "gps": "HTTB",
+    "local": null
+  },
+  "name": "Tabora Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.07639,
+    "longitude": 32.833302,
+    "elevation_ft": 3868,
+    "iso_country": "TZ",
+    "iso_region": "TZ-24",
+    "municipality": "Tabora"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tabora_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32426
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "lokv",
+  "codes": {
+    "icao": "LOKV",
+    "iata": null,
+    "gps": "LOKV",
+    "local": null
+  },
+  "name": "Febau Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.66111,
+    "longitude": 14.615833,
+    "elevation_ft": 1568,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Völkermarkt"
+  },
+  "keywords": [
+    "AT-0046"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43802
+  }
+}

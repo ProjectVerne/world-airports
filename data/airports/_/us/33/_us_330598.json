@@ -1,0 +1,32 @@
+{
+  "key": "_us_330598",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1FA2",
+    "local": "1FA2"
+  },
+  "name": "AdventHealth Apopka Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.649692,
+    "longitude": -81.541483,
+    "elevation_ft": 123,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Apopka"
+  },
+  "keywords": [
+    "US-1086"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 330598
+  }
+}

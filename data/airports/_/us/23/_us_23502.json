@@ -1,0 +1,30 @@
+{
+  "key": "_us_23502",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OA03",
+    "local": "OA03"
+  },
+  "name": "B & W Metals Company Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.343399,
+    "longitude": -84.536598,
+    "elevation_ft": 670,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Fairfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23502
+  }
+}

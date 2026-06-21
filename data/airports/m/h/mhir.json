@@ -1,0 +1,30 @@
+{
+  "key": "mhir",
+  "codes": {
+    "icao": "MHIR",
+    "iata": "IRN",
+    "gps": "MHIR",
+    "local": null
+  },
+  "name": "Iriona Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.939167,
+    "longitude": -85.137222,
+    "elevation_ft": 8,
+    "iso_country": "HN",
+    "iso_region": "HN-CL",
+    "municipality": "Iriona"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42077
+  }
+}

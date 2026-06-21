@@ -1,0 +1,32 @@
+{
+  "key": "_eg_505469",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "EDC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.6642,
+    "longitude": 33.20473,
+    "elevation_ft": 33,
+    "iso_country": "EG",
+    "iso_region": "EG-JS",
+    "municipality": "Ras Abu Rudeis"
+  },
+  "keywords": [
+    "EG-0055"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505469
+  }
+}

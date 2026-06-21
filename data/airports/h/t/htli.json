@@ -1,0 +1,33 @@
+{
+  "key": "htli",
+  "codes": {
+    "icao": "HTLI",
+    "iata": "LDI",
+    "gps": "HTLI",
+    "local": null
+  },
+  "name": "Lindi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.851005,
+    "longitude": 39.75911,
+    "elevation_ft": 100,
+    "iso_country": "TZ",
+    "iso_region": "TZ-12",
+    "municipality": "Lindi"
+  },
+  "keywords": [
+    "Kikwetu Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lindi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31801
+  }
+}

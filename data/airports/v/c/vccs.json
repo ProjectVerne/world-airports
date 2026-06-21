@@ -1,0 +1,34 @@
+{
+  "key": "vccs",
+  "codes": {
+    "icao": "VCCS",
+    "iata": "GIU",
+    "gps": "VCCS",
+    "local": null
+  },
+  "name": "Sigiriya Air Force Base",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.95667,
+    "longitude": 80.7285,
+    "elevation_ft": 630,
+    "iso_country": "LK",
+    "iso_region": "LK-2",
+    "municipality": "Sigiriya"
+  },
+  "keywords": [
+    "VC15",
+    "SLAF Sigiriya"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sigiriya_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4392
+  }
+}

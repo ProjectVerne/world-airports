@@ -1,0 +1,31 @@
+{
+  "key": "ltca",
+  "codes": {
+    "icao": "LTCA",
+    "iata": "EZS",
+    "gps": "LTCA",
+    "local": null
+  },
+  "name": "Elazığ Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.597974,
+    "longitude": 39.28348,
+    "elevation_ft": 2927,
+    "iso_country": "TR",
+    "iso_region": "TR-23",
+    "municipality": "Elazığ"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Elaz%C4%B1%C4%9F_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4548
+  }
+}

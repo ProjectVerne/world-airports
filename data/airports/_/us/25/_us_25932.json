@@ -1,0 +1,30 @@
+{
+  "key": "_us_25932",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WS38",
+    "local": "WS38"
+  },
+  "name": "Luther Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.813764,
+    "longitude": -91.512069,
+    "elevation_ft": 796,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Eau Claire"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25932
+  }
+}

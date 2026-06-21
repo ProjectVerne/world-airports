@@ -1,0 +1,30 @@
+{
+  "key": "_us_17780",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID02",
+    "local": "ID02"
+  },
+  "name": "Coeur D'Alene Resort Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.6721,
+    "longitude": -116.783997,
+    "elevation_ft": 2174,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Coeur D'Alene"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17780
+  }
+}

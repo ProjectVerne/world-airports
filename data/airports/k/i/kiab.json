@@ -1,0 +1,35 @@
+{
+  "key": "kiab",
+  "codes": {
+    "icao": "KIAB",
+    "iata": "IAB",
+    "gps": "KIAB",
+    "local": "IAB"
+  },
+  "name": "McConnell Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.621899,
+    "longitude": -97.268204,
+    "elevation_ft": 1371,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Wichita"
+  },
+  "keywords": [
+    "22nd Air Refueling Wing",
+    "931st Air Refueling Group",
+    "184th Intelligence Wing"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/McConnell_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3601
+  }
+}

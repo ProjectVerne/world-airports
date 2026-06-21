@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01363",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNY8",
+    "local": "CNY8"
+  },
+  "name": "Toronto (Sunnybrook Medical Centre) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.7213,
+    "longitude": -79.370765,
+    "elevation_ft": 480,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Toronto"
+  },
+  "keywords": [
+    "NY8"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1363
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_18200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Eudy Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.093648,
+    "longitude": -89.027567,
+    "elevation_ft": 785,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Monroe Center"
+  },
+  "keywords": [
+    "IS40",
+    "US-11473"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18200
+  }
+}

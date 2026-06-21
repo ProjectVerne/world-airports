@@ -1,0 +1,31 @@
+{
+  "key": "yesp",
+  "codes": {
+    "icao": "YESP",
+    "iata": "EPR",
+    "gps": "YESP",
+    "local": null
+  },
+  "name": "Esperance Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.684399,
+    "longitude": 121.822998,
+    "elevation_ft": 470,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Esperance"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Esperance_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26982
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_ca_46531",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CEL9",
+    "local": "CEL9"
+  },
+  "name": "Calgary (Eastlake) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.955011,
+    "longitude": -113.972867,
+    "elevation_ft": 3418,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Calgary"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46531
+  }
+}

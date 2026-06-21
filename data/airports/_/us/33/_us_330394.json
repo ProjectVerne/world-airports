@@ -1,0 +1,32 @@
+{
+  "key": "_us_330394",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0XA0",
+    "local": "0XA0"
+  },
+  "name": "RNW Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.014005,
+    "longitude": -97.70848,
+    "elevation_ft": 930,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Paradise"
+  },
+  "keywords": [
+    "US-1079"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 330394
+  }
+}

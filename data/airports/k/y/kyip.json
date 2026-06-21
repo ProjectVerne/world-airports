@@ -1,0 +1,33 @@
+{
+  "key": "kyip",
+  "codes": {
+    "icao": "KYIP",
+    "iata": "YIP",
+    "gps": "KYIP",
+    "local": "YIP"
+  },
+  "name": "Willow Run Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.2379,
+    "longitude": -83.530403,
+    "elevation_ft": 716,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Detroit"
+  },
+  "keywords": [
+    "DTT"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Willow_Run_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3957
+  }
+}

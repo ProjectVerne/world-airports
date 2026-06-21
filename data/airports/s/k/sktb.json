@@ -1,0 +1,31 @@
+{
+  "key": "sktb",
+  "codes": {
+    "icao": "SKTB",
+    "iata": "TIB",
+    "gps": "SKTB",
+    "local": "TBU"
+  },
+  "name": "Tibú Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.63152,
+    "longitude": -72.7304,
+    "elevation_ft": 194,
+    "iso_country": "CO",
+    "iso_region": "CO-NSA",
+    "municipality": "Tibú"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tib%C3%BA_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6165
+  }
+}

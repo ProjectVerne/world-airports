@@ -1,0 +1,31 @@
+{
+  "key": "sndv",
+  "codes": {
+    "icao": "SNDV",
+    "iata": "DIQ",
+    "gps": "SNDV",
+    "local": "SNDV"
+  },
+  "name": "Brigadeiro Cabral Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.1807,
+    "longitude": -44.870899,
+    "elevation_ft": 2608,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Divinópolis"
+  },
+  "keywords": [],
+  "wikipedia": "https://pt.wikipedia.org/wiki/Aeroporto_de_Divin%C3%B3polis",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300
+  }
+}

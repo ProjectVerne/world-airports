@@ -1,0 +1,33 @@
+{
+  "key": "kmwa",
+  "codes": {
+    "icao": "KMWA",
+    "iata": "MWA",
+    "gps": "KMWA",
+    "local": "MWA"
+  },
+  "name": "Veterans Airport of Southern Illinois",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.751208,
+    "longitude": -89.016568,
+    "elevation_ft": 472,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Marion"
+  },
+  "keywords": [
+    "Williamson County Regional Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Veterans_Airport_of_Southern_Illinois",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20579
+  }
+}

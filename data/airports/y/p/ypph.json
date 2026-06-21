@@ -1,0 +1,31 @@
+{
+  "key": "ypph",
+  "codes": {
+    "icao": "YPPH",
+    "iata": "PER",
+    "gps": "YPPH",
+    "local": null
+  },
+  "name": "Perth International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -31.9403,
+    "longitude": 115.967003,
+    "elevation_ft": 67,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Perth"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Perth_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27119
+  }
+}

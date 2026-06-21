@@ -1,0 +1,30 @@
+{
+  "key": "_us_09452",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2IL2",
+    "local": "2IL2"
+  },
+  "name": "Watters Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.055176,
+    "longitude": -88.462375,
+    "elevation_ft": 660,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Dwight"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9452
+  }
+}

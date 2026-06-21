@@ -1,0 +1,34 @@
+{
+  "key": "klan",
+  "codes": {
+    "icao": "KLAN",
+    "iata": "LAN",
+    "gps": "KLAN",
+    "local": "LAN"
+  },
+  "name": "Capital Region International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.777582,
+    "longitude": -84.585721,
+    "elevation_ft": 861,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Lansing"
+  },
+  "keywords": [
+    "Lansing Capital City",
+    "Capital City"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lansing_Capital_City_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3629
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "kcxp",
+  "codes": {
+    "icao": "KCXP",
+    "iata": "CSN",
+    "gps": "KCXP",
+    "local": "CXP"
+  },
+  "name": "Carson Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.194331,
+    "longitude": -119.734312,
+    "elevation_ft": 4697,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Carson City"
+  },
+  "keywords": [
+    "O04",
+    "Carson City Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Carson_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19577
+  }
+}

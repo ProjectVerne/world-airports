@@ -1,0 +1,30 @@
+{
+  "key": "_us_21799",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA56",
+    "local": "MA56"
+  },
+  "name": "Boston Scientific Natick Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.305,
+    "longitude": -71.375298,
+    "elevation_ft": 167,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Natick"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21799
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "skac",
+  "codes": {
+    "icao": "SKAC",
+    "iata": "ACR",
+    "gps": "SKAC",
+    "local": "ACR"
+  },
+  "name": "Araracuara Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.600854,
+    "longitude": -72.398011,
+    "elevation_ft": 1250,
+    "iso_country": "CO",
+    "iso_region": "CO-CAQ",
+    "municipality": "Araracuara"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Araracuara_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30615
+  }
+}

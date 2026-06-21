@@ -1,0 +1,30 @@
+{
+  "key": "_us_21253",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KU10",
+    "local": "U10"
+  },
+  "name": "Preston Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.106899,
+    "longitude": -111.913002,
+    "elevation_ft": 4728,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Preston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21253
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_330495",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM15",
+    "local": "NM15"
+  },
+  "name": "Los Alamos Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.881661,
+    "longitude": -106.317528,
+    "elevation_ft": 0,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Los Alamos"
+  },
+  "keywords": [
+    "US-1084"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 330495
+  }
+}

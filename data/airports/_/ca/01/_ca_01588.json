@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01588",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CTA9",
+    "local": "CTA9"
+  },
+  "name": "Ottawa / Gatineau (Casino) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.446702,
+    "longitude": -75.726764,
+    "elevation_ft": 220,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Ottawa"
+  },
+  "keywords": [
+    "TA9"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1588
+  }
+}

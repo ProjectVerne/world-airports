@@ -1,0 +1,31 @@
+{
+  "key": "kspf",
+  "codes": {
+    "icao": "KSPF",
+    "iata": "SPF",
+    "gps": "KSPF",
+    "local": "SPF"
+  },
+  "name": "Black Hills Airport-Clyde Ice Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.480301,
+    "longitude": -103.782997,
+    "elevation_ft": 3931,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Spearfish"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Black_Hills_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21100
+  }
+}

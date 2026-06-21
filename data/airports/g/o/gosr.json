@@ -1,0 +1,31 @@
+{
+  "key": "gosr",
+  "codes": {
+    "icao": "GOSR",
+    "iata": "RDT",
+    "gps": "GOSR",
+    "local": null
+  },
+  "name": "Richard Toll Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.437816,
+    "longitude": -15.656376,
+    "elevation_ft": 20,
+    "iso_country": "SN",
+    "iso_region": "SN-SL",
+    "municipality": "Richard Toll"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Richard_Toll_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32202
+  }
+}

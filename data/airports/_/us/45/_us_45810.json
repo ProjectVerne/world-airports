@@ -1,0 +1,33 @@
+{
+  "key": "_us_45810",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3XA5",
+    "local": "3XA5"
+  },
+  "name": "Houston Methodist Clear Lake Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.550536,
+    "longitude": -95.085742,
+    "elevation_ft": 12,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Nassau Bay"
+  },
+  "keywords": [
+    "Christus St. John",
+    "Houston Methodist St John Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45810
+  }
+}

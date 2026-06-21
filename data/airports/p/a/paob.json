@@ -1,0 +1,31 @@
+{
+  "key": "paob",
+  "codes": {
+    "icao": "PAOB",
+    "iata": "OBU",
+    "gps": "PAOB",
+    "local": "OBU"
+  },
+  "name": "Kobuk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.9123,
+    "longitude": -156.897003,
+    "elevation_ft": 137,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Kobuk"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kobuk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23513
+  }
+}

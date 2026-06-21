@@ -1,0 +1,31 @@
+{
+  "key": "knew",
+  "codes": {
+    "icao": "KNEW",
+    "iata": "NEW",
+    "gps": "KNEW",
+    "local": "NEW"
+  },
+  "name": "Lakefront Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.0424,
+    "longitude": -90.028297,
+    "elevation_ft": 8,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "New Orleans"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Orleans_Lakefront_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3723
+  }
+}

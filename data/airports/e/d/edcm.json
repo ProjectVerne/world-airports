@@ -1,0 +1,31 @@
+{
+  "key": "edcm",
+  "codes": {
+    "icao": "EDCM",
+    "iata": null,
+    "gps": "EDCM",
+    "local": null
+  },
+  "name": "Kamenz Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.296944,
+    "longitude": 14.1275,
+    "elevation_ft": 495,
+    "iso_country": "DE",
+    "iso_region": "DE-SN",
+    "municipality": "Kamenz"
+  },
+  "keywords": [],
+  "wikipedia": "http://de.wikipedia.org/wiki/Flugplatz_Kamenz",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2205
+  }
+}

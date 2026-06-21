@@ -1,0 +1,31 @@
+{
+  "key": "fagc",
+  "codes": {
+    "icao": "FAGC",
+    "iata": "GCJ",
+    "gps": "FAGC",
+    "local": null
+  },
+  "name": "Grand Central Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.9863,
+    "longitude": 28.1401,
+    "elevation_ft": 5325,
+    "iso_country": "ZA",
+    "iso_region": "ZA-GT",
+    "municipality": "Midrand"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Grand_Central_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2782
+  }
+}

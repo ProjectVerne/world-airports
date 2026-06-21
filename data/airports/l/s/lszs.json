@@ -1,0 +1,33 @@
+{
+  "key": "lszs",
+  "codes": {
+    "icao": "LSZS",
+    "iata": "SMV",
+    "gps": "LSZS",
+    "local": null
+  },
+  "name": "Engadin Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.5341,
+    "longitude": 9.88411,
+    "elevation_ft": 5600,
+    "iso_country": "CH",
+    "iso_region": "CH-GR",
+    "municipality": "Samedan"
+  },
+  "keywords": [
+    "Engadin"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Samedan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4507
+  }
+}

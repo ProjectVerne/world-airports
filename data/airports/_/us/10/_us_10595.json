@@ -1,0 +1,30 @@
+{
+  "key": "_us_10595",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3MD3",
+    "local": "3MD3"
+  },
+  "name": "Hoopers Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.311501,
+    "longitude": -75.120499,
+    "elevation_ft": 3,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Ocean City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10595
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "lfqq",
+  "codes": {
+    "icao": "LFQQ",
+    "iata": "LIL",
+    "gps": "LFQQ",
+    "local": null
+  },
+  "name": "Lille Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.566564,
+    "longitude": 3.102429,
+    "elevation_ft": 157,
+    "iso_country": "FR",
+    "iso_region": "FR-HDF",
+    "municipality": "Lesquin"
+  },
+  "keywords": [
+    "Aéroport de Lille. Lille-Lesquin Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lille_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4202
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_345066",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UT76",
+    "local": "UT76"
+  },
+  "name": "LR Wasatch Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.248972,
+    "longitude": -111.776722,
+    "elevation_ft": 4938,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Huntsville"
+  },
+  "keywords": [
+    "US-4330"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345066
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08049",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "17MI",
+    "local": "17MI"
+  },
+  "name": "Grace Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.417801,
+    "longitude": -83.182999,
+    "elevation_ft": 662,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Detroit"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8049
+  }
+}

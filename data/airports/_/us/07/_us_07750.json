@@ -1,0 +1,32 @@
+{
+  "key": "_us_07750",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "K12A",
+    "local": "12A"
+  },
+  "name": "Arkavalley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.177483,
+    "longitude": -92.33509,
+    "elevation_ft": 329,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Conway"
+  },
+  "keywords": [
+    "Formerly 12AR"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7750
+  }
+}

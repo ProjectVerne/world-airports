@@ -1,0 +1,30 @@
+{
+  "key": "_us_10889",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3WV2",
+    "local": "3WV2"
+  },
+  "name": "Va Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.3778,
+    "longitude": -82.516701,
+    "elevation_ft": 885,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Huntington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10889
+  }
+}

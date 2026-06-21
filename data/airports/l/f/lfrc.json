@@ -1,0 +1,35 @@
+{
+  "key": "lfrc",
+  "codes": {
+    "icao": "LFRC",
+    "iata": "CER",
+    "gps": "LFRC",
+    "local": null
+  },
+  "name": "Cherbourg Manche airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.650101,
+    "longitude": -1.47028,
+    "elevation_ft": 459,
+    "iso_country": "FR",
+    "iso_region": "FR-NOR",
+    "municipality": "Cherbourg"
+  },
+  "keywords": [
+    "Aéroport de Cherbourg - Maupertus",
+    "Aéroport de Cherbourg - Manche",
+    "Cherbourg-Manche"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cherbourg_-_Maupertus_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4207
+  }
+}

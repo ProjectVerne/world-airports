@@ -1,0 +1,32 @@
+{
+  "key": "_us_354012",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Texas Department of Public Safety Austin Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.327702,
+    "longitude": -97.72458,
+    "elevation_ft": 695,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Austin"
+  },
+  "keywords": [
+    "US-6795"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 354012
+  }
+}

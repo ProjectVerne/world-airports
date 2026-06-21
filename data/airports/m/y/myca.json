@@ -1,0 +1,31 @@
+{
+  "key": "myca",
+  "codes": {
+    "icao": "MYCA",
+    "iata": "ATC",
+    "gps": "MYCA",
+    "local": null
+  },
+  "name": "Arthur's Town Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.6294,
+    "longitude": -75.673797,
+    "elevation_ft": 18,
+    "iso_country": "BS",
+    "iso_region": "BS-CI",
+    "municipality": "Arthur's Town"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Arthur's_Town_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4936
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "tncc",
+  "codes": {
+    "icao": "TNCC",
+    "iata": "CUR",
+    "gps": "TNCC",
+    "local": null
+  },
+  "name": "Hato International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.1889,
+    "longitude": -68.959801,
+    "elevation_ft": 29,
+    "iso_country": "CW",
+    "iso_region": "CW-U-A",
+    "municipality": "Willemstad"
+  },
+  "keywords": [
+    "Curaçao"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hato_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6404
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "eflp",
+  "codes": {
+    "icao": "EFLP",
+    "iata": "LPP",
+    "gps": "EFLP",
+    "local": null
+  },
+  "name": "Lappeenranta Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.044601,
+    "longitude": 28.144743,
+    "elevation_ft": 349,
+    "iso_country": "FI",
+    "iso_region": "FI-02",
+    "municipality": "Lappeenranta"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lappeenranta_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2329
+  }
+}

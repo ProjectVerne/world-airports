@@ -1,0 +1,34 @@
+{
+  "key": "_ca_01234",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Thompson (Canadian Helicopters) Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 55.766701,
+    "longitude": -97.816704,
+    "elevation_ft": 630,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Thompson"
+  },
+  "keywords": [
+    "KT2",
+    "CKT2",
+    "CA-1062"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1234
+  }
+}

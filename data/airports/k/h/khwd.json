@@ -1,0 +1,33 @@
+{
+  "key": "khwd",
+  "codes": {
+    "icao": "KHWD",
+    "iata": "HWD",
+    "gps": "KHWD",
+    "local": "HWD"
+  },
+  "name": "Hayward Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.659199,
+    "longitude": -122.122002,
+    "elevation_ft": 52,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Hayward"
+  },
+  "keywords": [
+    "Hayward Air Terminal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hayward_Executive_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20101
+  }
+}

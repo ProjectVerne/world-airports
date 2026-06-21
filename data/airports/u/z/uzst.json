@@ -1,0 +1,33 @@
+{
+  "key": "uzst",
+  "codes": {
+    "icao": "UZST",
+    "iata": "TMJ",
+    "gps": "UZST",
+    "local": null
+  },
+  "name": "Termez Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.287261,
+    "longitude": 67.311869,
+    "elevation_ft": 1027,
+    "iso_country": "UZ",
+    "iso_region": "UZ-SU",
+    "municipality": "Termez"
+  },
+  "keywords": [
+    "UTST"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Termez_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26391
+  }
+}

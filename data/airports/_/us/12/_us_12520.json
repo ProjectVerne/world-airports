@@ -1,0 +1,30 @@
+{
+  "key": "_us_12520",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5MS3",
+    "local": "5MS3"
+  },
+  "name": "Porter Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.174999,
+    "longitude": -89.803101,
+    "elevation_ft": 158,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Columbia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12520
+  }
+}

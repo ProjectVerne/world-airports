@@ -1,0 +1,31 @@
+{
+  "key": "panw",
+  "codes": {
+    "icao": "PANW",
+    "iata": "KNW",
+    "gps": "PANW",
+    "local": "KNW"
+  },
+  "name": "New Stuyahok Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.451838,
+    "longitude": -157.373829,
+    "elevation_ft": 364,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "New Stuyahok"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Stuyahok_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20664
+  }
+}

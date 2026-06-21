@@ -1,0 +1,35 @@
+{
+  "key": "rjbh",
+  "codes": {
+    "icao": "RJBH",
+    "iata": "HIW",
+    "gps": "RJBH",
+    "local": null
+  },
+  "name": "Hiroshima Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.371451,
+    "longitude": 132.417666,
+    "elevation_ft": 15,
+    "iso_country": "JP",
+    "iso_region": "JP-34",
+    "municipality": "Hiroshima"
+  },
+  "keywords": [
+    "hiroshimanishi",
+    "hiroshima-nishi",
+    "hiroshima heliport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hiroshima-Nishi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5539
+  }
+}

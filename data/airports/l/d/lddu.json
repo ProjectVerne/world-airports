@@ -1,0 +1,34 @@
+{
+  "key": "lddu",
+  "codes": {
+    "icao": "LDDU",
+    "iata": "DBV",
+    "gps": "LDDU",
+    "local": null
+  },
+  "name": "Dubrovnik Ruđer Bošković Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.562247,
+    "longitude": 18.265543,
+    "elevation_ft": 527,
+    "iso_country": "HR",
+    "iso_region": "HR-19",
+    "municipality": "Dubrovnik"
+  },
+  "keywords": [
+    "Močići Airport",
+    "Zračna luka Ruđer Bošković Dubrovnik"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dubrovnik_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3984
+  }
+}

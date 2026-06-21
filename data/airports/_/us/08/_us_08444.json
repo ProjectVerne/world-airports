@@ -1,0 +1,30 @@
+{
+  "key": "_us_08444",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MD6",
+    "local": "1MD6"
+  },
+  "name": "Metroplex Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.946201,
+    "longitude": -76.868301,
+    "elevation_ft": 99,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "New Carrollton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8444
+  }
+}

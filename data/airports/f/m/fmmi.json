@@ -1,0 +1,31 @@
+{
+  "key": "fmmi",
+  "codes": {
+    "icao": "FMMI",
+    "iata": "TNR",
+    "gps": "FMMI",
+    "local": null
+  },
+  "name": "Ivato International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -18.7969,
+    "longitude": 47.478802,
+    "elevation_ft": 4198,
+    "iso_country": "MG",
+    "iso_region": "MG-T",
+    "municipality": "Antananarivo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ivato_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2908
+  }
+}

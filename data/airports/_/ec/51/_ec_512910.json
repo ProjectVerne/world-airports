@@ -1,0 +1,30 @@
+{
+  "key": "_ec_512910",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SEEM",
+    "local": null
+  },
+  "name": "Emsecor Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -0.222535,
+    "longitude": -78.377947,
+    "elevation_ft": 8000,
+    "iso_country": "EC",
+    "iso_region": "EC-P",
+    "municipality": "Tumbaco"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 512910
+  }
+}

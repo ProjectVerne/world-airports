@@ -1,0 +1,33 @@
+{
+  "key": "eiim",
+  "codes": {
+    "icao": "EIIM",
+    "iata": "IOR",
+    "gps": "EIIM",
+    "local": null
+  },
+  "name": "Inishmore Aerodrome",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.106701,
+    "longitude": -9.65361,
+    "elevation_ft": 24,
+    "iso_country": "IE",
+    "iso_region": "IE-G",
+    "municipality": "Inis Mór"
+  },
+  "keywords": [
+    "Aran Islands"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Inishmore_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29221
+  }
+}

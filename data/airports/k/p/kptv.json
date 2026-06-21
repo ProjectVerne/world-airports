@@ -1,0 +1,33 @@
+{
+  "key": "kptv",
+  "codes": {
+    "icao": "KPTV",
+    "iata": "PTV",
+    "gps": "KPTV",
+    "local": "PTV"
+  },
+  "name": "Porterville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.029598,
+    "longitude": -119.063004,
+    "elevation_ft": 442,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Porterville"
+  },
+  "keywords": [
+    "Porterville AAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Porterville_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20880
+  }
+}

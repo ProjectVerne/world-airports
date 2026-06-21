@@ -1,0 +1,30 @@
+{
+  "key": "_us_16427",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AZ39",
+    "local": "AZ39"
+  },
+  "name": "Turf Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.4632,
+    "longitude": -111.728996,
+    "elevation_ft": 1385,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Mesa"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16427
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_18000",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IL21",
+    "local": "IL21"
+  },
+  "name": "Ascension Mercy Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.785811,
+    "longitude": -88.324533,
+    "elevation_ft": 700,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Aurora"
+  },
+  "keywords": [
+    "Mercy Center For Health Care Services Heliport",
+    "Presence Mercy Medical Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18000
+  }
+}

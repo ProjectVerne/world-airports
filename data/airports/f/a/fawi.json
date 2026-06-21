@@ -1,0 +1,30 @@
+{
+  "key": "fawi",
+  "codes": {
+    "icao": "FAWI",
+    "iata": null,
+    "gps": "FAWI",
+    "local": null
+  },
+  "name": "Witbank Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.8323,
+    "longitude": 29.191999,
+    "elevation_ft": 5078,
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Witbank"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2855
+  }
+}

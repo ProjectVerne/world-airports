@@ -1,0 +1,30 @@
+{
+  "key": "_us_21472",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LA05",
+    "local": "LA05"
+  },
+  "name": "Baton Rouge Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.365631,
+    "longitude": -91.050058,
+    "elevation_ft": 22,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Baton Rouge"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21472
+  }
+}

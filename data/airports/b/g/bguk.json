@@ -1,0 +1,33 @@
+{
+  "key": "bguk",
+  "codes": {
+    "icao": "BGUK",
+    "iata": "JUV",
+    "gps": "BGUK",
+    "local": null
+  },
+  "name": "Upernavik Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 72.790199,
+    "longitude": -56.1306,
+    "elevation_ft": 414,
+    "iso_country": "GL",
+    "iso_region": "GL-AV",
+    "municipality": "Upernavik"
+  },
+  "keywords": [
+    "Mittarfik Upernavik"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Upernavik_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31713
+  }
+}

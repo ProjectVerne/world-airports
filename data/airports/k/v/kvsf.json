@@ -1,0 +1,33 @@
+{
+  "key": "kvsf",
+  "codes": {
+    "icao": "KVSF",
+    "iata": "VSF",
+    "gps": "KVSF",
+    "local": "VSF"
+  },
+  "name": "Hartness State Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.343601,
+    "longitude": -72.517303,
+    "elevation_ft": 577,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "North Springfield"
+  },
+  "keywords": [
+    "Springfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hartness_State_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21336
+  }
+}

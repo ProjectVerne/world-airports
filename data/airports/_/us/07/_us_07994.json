@@ -1,0 +1,32 @@
+{
+  "key": "_us_07994",
+  "codes": {
+    "icao": null,
+    "iata": "PTC",
+    "gps": "16K",
+    "local": "16K"
+  },
+  "name": "Port Alice Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 55.803,
+    "longitude": -133.597,
+    "elevation_ft": 0,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Port Alice"
+  },
+  "keywords": [
+    "AK16"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7994
+  }
+}

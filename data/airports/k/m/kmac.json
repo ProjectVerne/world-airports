@@ -1,0 +1,31 @@
+{
+  "key": "kmac",
+  "codes": {
+    "icao": "KMAC",
+    "iata": "MAC",
+    "gps": "KMAC",
+    "local": "MAC"
+  },
+  "name": "Macon Downtown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.822102,
+    "longitude": -83.561996,
+    "elevation_ft": 437,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Macon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Macon_Downtown_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20468
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "eiah",
+  "codes": {
+    "icao": "EIAH",
+    "iata": null,
+    "gps": "EIAH",
+    "local": null
+  },
+  "name": "Adona Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.442752,
+    "longitude": -6.26176,
+    "elevation_ft": 220,
+    "iso_country": "IE",
+    "iso_region": "IE-D",
+    "municipality": "Dublin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 594583
+  }
+}

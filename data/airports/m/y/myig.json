@@ -1,0 +1,33 @@
+{
+  "key": "myig",
+  "codes": {
+    "icao": "MYIG",
+    "iata": "IGA",
+    "gps": "MYIG",
+    "local": null
+  },
+  "name": "Inagua Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.975,
+    "longitude": -73.666901,
+    "elevation_ft": 8,
+    "iso_country": "BS",
+    "iso_region": "BS-IN",
+    "municipality": "Matthew Town"
+  },
+  "keywords": [
+    "Inagua International"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Inagua_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4947
+  }
+}

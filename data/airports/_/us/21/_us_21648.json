@@ -1,0 +1,32 @@
+{
+  "key": "_us_21648",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LS14",
+    "local": "LS14"
+  },
+  "name": "Lyon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.070999,
+    "longitude": -92.825104,
+    "elevation_ft": 6,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Thornwell"
+  },
+  "keywords": [
+    "3L0"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21648
+  }
+}

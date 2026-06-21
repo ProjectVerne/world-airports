@@ -1,0 +1,34 @@
+{
+  "key": "_de_43123",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Pellworm Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 54.536388,
+    "longitude": 8.68,
+    "elevation_ft": 3,
+    "iso_country": "DE",
+    "iso_region": "DE-SH",
+    "municipality": "Pellworm"
+  },
+  "keywords": [
+    "UL-Field",
+    "EDHP",
+    "DE-0905"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43123
+  }
+}

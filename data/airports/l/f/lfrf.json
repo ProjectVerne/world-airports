@@ -1,0 +1,33 @@
+{
+  "key": "lfrf",
+  "codes": {
+    "icao": "LFRF",
+    "iata": "GFR",
+    "gps": "LFRF",
+    "local": null
+  },
+  "name": "Granville Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.883099,
+    "longitude": -1.56417,
+    "elevation_ft": 45,
+    "iso_country": "FR",
+    "iso_region": "FR-NOR",
+    "municipality": "Bréville-sur-Mer, Manche"
+  },
+  "keywords": [
+    "Granville Mont-Saint-Michel"
+  ],
+  "wikipedia": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Granville-Mont-Saint-Michel",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4210
+  }
+}

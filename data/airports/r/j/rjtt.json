@@ -1,0 +1,38 @@
+{
+  "key": "rjtt",
+  "codes": {
+    "icao": "RJTT",
+    "iata": "HND",
+    "gps": "RJTT",
+    "local": null
+  },
+  "name": "Tokyo Haneda International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.549678,
+    "longitude": 139.786958,
+    "elevation_ft": 35,
+    "iso_country": "JP",
+    "iso_region": "JP-13",
+    "municipality": "Tokyo"
+  },
+  "keywords": [
+    "TYO",
+    "Haneda",
+    "羽田空港",
+    "東京国際空港",
+    "東京",
+    "東京都"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tokyo_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5627
+  }
+}

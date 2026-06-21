@@ -1,0 +1,35 @@
+{
+  "key": "egah",
+  "codes": {
+    "icao": "EGAH",
+    "iata": null,
+    "gps": "EGAH",
+    "local": null
+  },
+  "name": "Halley Research Station",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -75.567406,
+    "longitude": -25.516435,
+    "elevation_ft": 103,
+    "iso_country": "AQ",
+    "iso_region": "AQ-U-A",
+    "municipality": "Halley Research Station"
+  },
+  "keywords": [
+    "Halley",
+    "Antarctica",
+    "British Antarctic Survey"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Halley_Research_Station",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307365
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "zptc",
+  "codes": {
+    "icao": "ZPTC",
+    "iata": "TCZ",
+    "gps": "ZPTC",
+    "local": null
+  },
+  "name": "Tengchong Tuofeng Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.938056,
+    "longitude": 98.485833,
+    "elevation_ft": 6250,
+    "iso_country": "CN",
+    "iso_region": "CN-53",
+    "municipality": "Baoshan (Tengchong)"
+  },
+  "keywords": [
+    "ZUTC"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tengchong_Tuofeng_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300514
+  }
+}

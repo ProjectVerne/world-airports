@@ -1,0 +1,34 @@
+{
+  "key": "vejt",
+  "codes": {
+    "icao": "VEJT",
+    "iata": "JRH",
+    "gps": "VEJT",
+    "local": null
+  },
+  "name": "Jorhat Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.730456,
+    "longitude": 94.175416,
+    "elevation_ft": 311,
+    "iso_country": "IN",
+    "iso_region": "IN-AS",
+    "municipality": "Jorhat"
+  },
+  "keywords": [
+    "Rowriah Airport",
+    "Jorhat Air Force Station"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jorhat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26507
+  }
+}

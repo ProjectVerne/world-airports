@@ -1,0 +1,32 @@
+{
+  "key": "yang",
+  "codes": {
+    "icao": "YANG",
+    "iata": "WLP",
+    "gps": "YANG",
+    "local": null
+  },
+  "name": "West Angelas Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.135556,
+    "longitude": 118.707222,
+    "elevation_ft": 2340,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": null
+  },
+  "keywords": [
+    "West Angelas Mine"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 299438
+  }
+}

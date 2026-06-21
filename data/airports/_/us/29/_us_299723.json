@@ -1,0 +1,32 @@
+{
+  "key": "_us_299723",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "03NJ",
+    "local": "03NJ"
+  },
+  "name": "St. Joseph's Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.903483,
+    "longitude": -74.165493,
+    "elevation_ft": 206,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Paterson"
+  },
+  "keywords": [
+    "US-0169"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 299723
+  }
+}

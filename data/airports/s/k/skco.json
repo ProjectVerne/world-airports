@@ -1,0 +1,31 @@
+{
+  "key": "skco",
+  "codes": {
+    "icao": "SKCO",
+    "iata": "TCO",
+    "gps": "SKCO",
+    "local": "TCO"
+  },
+  "name": "La Florida Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.81442,
+    "longitude": -78.7492,
+    "elevation_ft": 8,
+    "iso_country": "CO",
+    "iso_region": "CO-NAR",
+    "municipality": "Tumaco"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Florida_Airport_(Colombia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6112
+  }
+}

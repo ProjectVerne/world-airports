@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01204",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKL8",
+    "local": "CKL8"
+  },
+  "name": "Upsala Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.049786,
+    "longitude": -90.469481,
+    "elevation_ft": 1581,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Upsala"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1204
+  }
+}

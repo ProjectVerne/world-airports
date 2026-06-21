@@ -1,0 +1,32 @@
+{
+  "key": "_us_11121",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "45IS",
+    "local": "45IS"
+  },
+  "name": "UChicago Medicine AdventHealth Bolingbrook Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.68091,
+    "longitude": -88.086345,
+    "elevation_ft": 690,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Bolingbrook"
+  },
+  "keywords": [
+    "Adventist Bolingbrook Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11121
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "surv",
+  "codes": {
+    "icao": "SURV",
+    "iata": "RVY",
+    "gps": "SURV",
+    "local": null
+  },
+  "name": "Pres. Gral. Óscar D. Gestido Binational Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -30.9746,
+    "longitude": -55.4762,
+    "elevation_ft": 712,
+    "iso_country": "UY",
+    "iso_region": "UY-RV",
+    "municipality": "Rivera/Santana do Livramento"
+  },
+  "keywords": [
+    "Santana do Livramento",
+    "Cerro Chapeu International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rivera_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32240
+  }
+}

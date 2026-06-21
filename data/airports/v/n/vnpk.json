@@ -1,0 +1,31 @@
+{
+  "key": "vnpk",
+  "codes": {
+    "icao": "VNPK",
+    "iata": "PKR",
+    "gps": "VNPK",
+    "local": null
+  },
+  "name": "Pokhara Domestic Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.200621,
+    "longitude": 83.981203,
+    "elevation_ft": 2712,
+    "iso_country": "NP",
+    "iso_region": "NP-P4",
+    "municipality": "Pokhara"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pokhara_Airport_(domestic)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26598
+  }
+}

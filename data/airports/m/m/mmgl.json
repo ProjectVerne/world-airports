@@ -1,0 +1,33 @@
+{
+  "key": "mmgl",
+  "codes": {
+    "icao": "MMGL",
+    "iata": "GDL",
+    "gps": "MMGL",
+    "local": "GDL"
+  },
+  "name": "Guadalajara International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.523342,
+    "longitude": -103.310108,
+    "elevation_ft": 5016,
+    "iso_country": "MX",
+    "iso_region": "MX-JAL",
+    "municipality": "Guadalajara"
+  },
+  "keywords": [
+    "Miguel Hidalgo y Costilla Guadalajara"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Don_Miguel_Hidalgo_y_Costilla_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4710
+  }
+}

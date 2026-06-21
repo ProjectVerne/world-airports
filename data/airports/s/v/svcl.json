@@ -1,0 +1,31 @@
+{
+  "key": "svcl",
+  "codes": {
+    "icao": "SVCL",
+    "iata": "CLZ",
+    "gps": "SVCL",
+    "local": null
+  },
+  "name": "Calabozo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.924656,
+    "longitude": -67.417091,
+    "elevation_ft": 328,
+    "iso_country": "VE",
+    "iso_region": "VE-J",
+    "municipality": "Guarico"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Calabozo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6267
+  }
+}

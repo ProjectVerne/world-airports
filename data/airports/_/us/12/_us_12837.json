@@ -1,0 +1,33 @@
+{
+  "key": "_us_12837",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Bassett Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 43.168701,
+    "longitude": -78.782303,
+    "elevation_ft": 629,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Lockport"
+  },
+  "keywords": [
+    "61NY",
+    "US-10464"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12837
+  }
+}

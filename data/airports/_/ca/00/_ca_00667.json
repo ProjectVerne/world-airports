@@ -1,0 +1,32 @@
+{
+  "key": "_ca_00667",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBC7",
+    "local": "CBC7"
+  },
+  "name": "Harbour (Public) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.286892,
+    "longitude": -123.106112,
+    "elevation_ft": 2,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Vancouver"
+  },
+  "keywords": [
+    "BC7"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 667
+  }
+}

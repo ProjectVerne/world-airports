@@ -1,0 +1,31 @@
+{
+  "key": "egfe",
+  "codes": {
+    "icao": "EGFE",
+    "iata": "HAW",
+    "gps": "EGFE",
+    "local": null
+  },
+  "name": "Haverfordwest Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.833099,
+    "longitude": -4.96111,
+    "elevation_ft": 159,
+    "iso_country": "GB",
+    "iso_region": "GB-WLS",
+    "municipality": "Haverfordwest"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Haverfordwest_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2414
+  }
+}

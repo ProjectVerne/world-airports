@@ -1,0 +1,31 @@
+{
+  "key": "edms",
+  "codes": {
+    "icao": "EDMS",
+    "iata": "RBM",
+    "gps": "EDMS",
+    "local": null
+  },
+  "name": "Straubing Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.900833,
+    "longitude": 12.516667,
+    "elevation_ft": 1047,
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Atting"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Straubing_Wallm%C3%BChle_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2253
+  }
+}

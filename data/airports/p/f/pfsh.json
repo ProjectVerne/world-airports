@@ -1,0 +1,31 @@
+{
+  "key": "pfsh",
+  "codes": {
+    "icao": "PFSH",
+    "iata": "SKK",
+    "gps": "PFSH",
+    "local": "2C7"
+  },
+  "name": "Shaktoolik Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.371101,
+    "longitude": -161.223999,
+    "elevation_ft": 24,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Shaktoolik"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shaktoolik_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9334
+  }
+}

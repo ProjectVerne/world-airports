@@ -1,0 +1,32 @@
+{
+  "key": "_us_24483",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SC85",
+    "local": "SC85"
+  },
+  "name": "Chester Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.68348,
+    "longitude": -81.184094,
+    "elevation_ft": 700,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Chester"
+  },
+  "keywords": [
+    "Chester County Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24483
+  }
+}

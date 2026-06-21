@@ -1,0 +1,35 @@
+{
+  "key": "ebbr",
+  "codes": {
+    "icao": "EBBR",
+    "iata": "BRU",
+    "gps": "EBBR",
+    "local": null
+  },
+  "name": "Brussels Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.901402,
+    "longitude": 4.48444,
+    "elevation_ft": 175,
+    "iso_country": "BE",
+    "iso_region": "BE-VBR",
+    "municipality": "Zaventem"
+  },
+  "keywords": [
+    "Brussels National",
+    "Zaventem",
+    "EBMB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brussels_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2155
+  }
+}

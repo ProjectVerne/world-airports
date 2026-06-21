@@ -1,0 +1,31 @@
+{
+  "key": "nvsm",
+  "codes": {
+    "icao": "NVSM",
+    "iata": "LNB",
+    "gps": "NVSM",
+    "local": null
+  },
+  "name": "Lamen Bay Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.5842,
+    "longitude": 168.158997,
+    "elevation_ft": 7,
+    "iso_country": "VU",
+    "iso_region": "VU-SEE",
+    "municipality": "Lamen Bay"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lamen_Bay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31835
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_509612",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "24FA",
+    "local": "24FA"
+  },
+  "name": "AdventHealth Minneola Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.603333,
+    "longitude": -81.719722,
+    "elevation_ft": 211,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Minneola"
+  },
+  "keywords": [
+    "US-7835"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509612
+  }
+}

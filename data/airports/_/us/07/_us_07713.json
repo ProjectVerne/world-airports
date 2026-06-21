@@ -1,0 +1,30 @@
+{
+  "key": "_us_07713",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "11IL",
+    "local": "11IL"
+  },
+  "name": "Presence St Mary's Hospital - Kankakee Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.120718,
+    "longitude": -87.873075,
+    "elevation_ft": 610,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Kankakee"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7713
+  }
+}

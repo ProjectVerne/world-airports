@@ -1,0 +1,31 @@
+{
+  "key": "skci",
+  "codes": {
+    "icao": "SKCI",
+    "iata": "CCO",
+    "gps": "SKCI",
+    "local": "CCO"
+  },
+  "name": "Carimagua Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.56417,
+    "longitude": -71.3364,
+    "elevation_ft": 700,
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "Puerto López"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Carimagua_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30816
+  }
+}

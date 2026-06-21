@@ -1,0 +1,31 @@
+{
+  "key": "esnl",
+  "codes": {
+    "icao": "ESNL",
+    "iata": "LYC",
+    "gps": "ESNL",
+    "local": null
+  },
+  "name": "Lycksele Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.548302,
+    "longitude": 18.7162,
+    "elevation_ft": 705,
+    "iso_country": "SE",
+    "iso_region": "SE-AC",
+    "municipality": "Lycksele"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lycksele_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2680
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "ksea",
+  "codes": {
+    "icao": "KSEA",
+    "iata": "SEA",
+    "gps": "KSEA",
+    "local": "SEA"
+  },
+  "name": "Seattle–Tacoma International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.447943,
+    "longitude": -122.310276,
+    "elevation_ft": 433,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Seattle"
+  },
+  "keywords": [
+    "Sea-Tac Airport",
+    "SeaTac Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Seattle%E2%80%93Tacoma_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3875
+  }
+}

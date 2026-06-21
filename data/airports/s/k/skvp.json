@@ -1,0 +1,31 @@
+{
+  "key": "skvp",
+  "codes": {
+    "icao": "SKVP",
+    "iata": "VUP",
+    "gps": "SKVP",
+    "local": "VUP"
+  },
+  "name": "Alfonso López Pumarejo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.435,
+    "longitude": -73.2495,
+    "elevation_ft": 483,
+    "iso_country": "CO",
+    "iso_region": "CO-CES",
+    "municipality": "Valledupar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Valledupar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6176
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_505187",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Road Atlanta Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.15156,
+    "longitude": -83.81528,
+    "elevation_ft": 971,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Braselton"
+  },
+  "keywords": [
+    "US-7365"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505187
+  }
+}

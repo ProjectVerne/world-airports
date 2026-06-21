@@ -1,0 +1,33 @@
+{
+  "key": "kbtl",
+  "codes": {
+    "icao": "KBTL",
+    "iata": "BTL",
+    "gps": "KBTL",
+    "local": "BTL"
+  },
+  "name": "Battle Creek Executive Airport at Kellogg Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.307301,
+    "longitude": -85.251503,
+    "elevation_ft": 952,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Battle Creek"
+  },
+  "keywords": [
+    "W K Kellogg"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/W.K._Kellogg_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3427
+  }
+}

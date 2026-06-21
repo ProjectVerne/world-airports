@@ -1,0 +1,30 @@
+{
+  "key": "_ca_562156",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSR2",
+    "local": "CSR2"
+  },
+  "name": "PVA1 Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.168543,
+    "longitude": -101.59113,
+    "elevation_ft": 1420,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Swan River"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 562156
+  }
+}

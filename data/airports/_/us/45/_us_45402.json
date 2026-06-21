@@ -1,0 +1,30 @@
+{
+  "key": "_us_45402",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS24",
+    "local": "IS24"
+  },
+  "name": "Harris Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.077778,
+    "longitude": -89.081667,
+    "elevation_ft": 551,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Ramsey"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45402
+  }
+}

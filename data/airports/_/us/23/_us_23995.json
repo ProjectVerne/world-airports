@@ -1,0 +1,30 @@
+{
+  "key": "_us_23995",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA24",
+    "local": "PA24"
+  },
+  "name": "Latrobe Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.320301,
+    "longitude": -79.3936,
+    "elevation_ft": 1039,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Latrobe"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23995
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "key": "uhpp",
+  "codes": {
+    "icao": "UHPP",
+    "iata": "PKC",
+    "gps": "UHPP",
+    "local": null
+  },
+  "name": "Yelizovo Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.168716,
+    "longitude": 158.451068,
+    "elevation_ft": 131,
+    "iso_country": "RU",
+    "iso_region": "RU-KAM",
+    "municipality": "Petropavlovsk-Kamchatsky"
+  },
+  "keywords": [
+    "УХПП",
+    "Елизово",
+    "ПРЛ",
+    "Elizovo"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Elizovo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6460
+  }
+}

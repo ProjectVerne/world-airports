@@ -1,0 +1,34 @@
+{
+  "key": "uler",
+  "codes": {
+    "icao": "ULER",
+    "iata": null,
+    "gps": "ULER",
+    "local": null
+  },
+  "name": "Kharuta Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.846122,
+    "longitude": 59.539305,
+    "elevation_ft": 165,
+    "iso_country": "RU",
+    "iso_region": "RU-NEN",
+    "municipality": "Kharuta"
+  },
+  "keywords": [
+    "УЛЕР",
+    "Аэропорт Харута"
+  ],
+  "wikipedia": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D1%83%D1%82%D0%B0_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44853
+  }
+}

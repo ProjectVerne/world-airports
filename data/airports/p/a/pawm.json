@@ -1,0 +1,31 @@
+{
+  "key": "pawm",
+  "codes": {
+    "icao": "PAWM",
+    "iata": "WMO",
+    "gps": "PAWM",
+    "local": "WMO"
+  },
+  "name": "White Mountain Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.689201,
+    "longitude": -163.412994,
+    "elevation_ft": 267,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "White Mountain"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/White_Mountain_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25794
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_508212",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NV81",
+    "local": "NV81"
+  },
+  "name": "Beatty Medical Clinic Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.904583,
+    "longitude": -116.760099,
+    "elevation_ft": 3333,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Beatty"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 508212
+  }
+}

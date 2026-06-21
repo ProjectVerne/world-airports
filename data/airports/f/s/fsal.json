@@ -1,0 +1,31 @@
+{
+  "key": "fsal",
+  "codes": {
+    "icao": "FSAL",
+    "iata": null,
+    "gps": "FSAL",
+    "local": null
+  },
+  "name": "Alphonse Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.00478,
+    "longitude": 52.7262,
+    "elevation_ft": 10,
+    "iso_country": "SC",
+    "iso_region": "SC-26",
+    "municipality": "Alphonse Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Alphonse_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2990
+  }
+}

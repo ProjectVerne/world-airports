@@ -1,0 +1,33 @@
+{
+  "key": "dnas",
+  "codes": {
+    "icao": "DNAS",
+    "iata": "ABB",
+    "gps": "DNAS",
+    "local": null
+  },
+  "name": "Asaba International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.204167,
+    "longitude": 6.665278,
+    "elevation_ft": 305,
+    "iso_country": "NG",
+    "iso_region": "NG-DE",
+    "municipality": "Asaba"
+  },
+  "keywords": [
+    "Onitsha"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Asaba_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300781
+  }
+}

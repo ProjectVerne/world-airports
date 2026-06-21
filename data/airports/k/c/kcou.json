@@ -1,0 +1,31 @@
+{
+  "key": "kcou",
+  "codes": {
+    "icao": "KCOU",
+    "iata": "COU",
+    "gps": "KCOU",
+    "local": "COU"
+  },
+  "name": "Columbia Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.8181,
+    "longitude": -92.219597,
+    "elevation_ft": 889,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Columbia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Columbia_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3464
+  }
+}

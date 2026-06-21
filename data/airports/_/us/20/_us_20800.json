@@ -1,0 +1,33 @@
+{
+  "key": "_us_20800",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "P23"
+  },
+  "name": "Seligman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.334999,
+    "longitude": -112.887001,
+    "elevation_ft": 5235,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Seligman"
+  },
+  "keywords": [
+    "KP23"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Seligman_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20800
+  }
+}

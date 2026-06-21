@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01435",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPN3",
+    "local": "CPN3"
+  },
+  "name": "Moose Factory Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.249401,
+    "longitude": -80.618896,
+    "elevation_ft": 20,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Moose Factory"
+  },
+  "keywords": [
+    "PN3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1435
+  }
+}

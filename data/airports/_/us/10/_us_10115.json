@@ -1,0 +1,32 @@
+{
+  "key": "_us_10115",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "JSI Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 33.167099,
+    "longitude": -96.487198,
+    "elevation_ft": 590,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Princeton"
+  },
+  "keywords": [
+    "34TA"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10115
+  }
+}

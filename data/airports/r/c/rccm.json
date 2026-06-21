@@ -1,0 +1,35 @@
+{
+  "key": "rccm",
+  "codes": {
+    "icao": "RCCM",
+    "iata": "CMJ",
+    "gps": "RCCM",
+    "local": null
+  },
+  "name": "Qimei Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.213127,
+    "longitude": 119.417539,
+    "elevation_ft": 63,
+    "iso_country": "TW",
+    "iso_region": "TW-PEN",
+    "municipality": "Qimei"
+  },
+  "keywords": [
+    "Qimei Airport",
+    "七美機場",
+    "七美机场"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Qimei_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30834
+  }
+}

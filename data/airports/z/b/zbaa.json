@@ -1,0 +1,39 @@
+{
+  "key": "zbaa",
+  "codes": {
+    "icao": "ZBAA",
+    "iata": "PEK",
+    "gps": "ZBAA",
+    "local": null
+  },
+  "name": "Beijing Capital International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.077349,
+    "longitude": 116.596702,
+    "elevation_ft": 116,
+    "iso_country": "CN",
+    "iso_region": "CN-11",
+    "municipality": "Beijing"
+  },
+  "keywords": [
+    "BJS",
+    "Beijing",
+    "Peking",
+    "北京",
+    "北京首都国际机场",
+    "北京首都机场",
+    "北京机场"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27188
+  }
+}

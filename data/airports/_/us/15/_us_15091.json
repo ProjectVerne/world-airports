@@ -1,0 +1,30 @@
+{
+  "key": "_us_15091",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8NJ8",
+    "local": "8NJ8"
+  },
+  "name": "Kraemer Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.744301,
+    "longitude": -75.158798,
+    "elevation_ft": 110,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Richwood"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15091
+  }
+}

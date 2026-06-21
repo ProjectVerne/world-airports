@@ -1,0 +1,30 @@
+{
+  "key": "ylnd",
+  "codes": {
+    "icao": "YLND",
+    "iata": "LKD",
+    "gps": "YLND",
+    "local": null
+  },
+  "name": "Lakeland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -15.841213,
+    "longitude": 144.849118,
+    "elevation_ft": 930,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Lakeland Downs"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27733
+  }
+}

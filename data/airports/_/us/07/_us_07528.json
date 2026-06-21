@@ -1,0 +1,32 @@
+{
+  "key": "_us_07528",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0TA0",
+    "local": "0TA0"
+  },
+  "name": "HCA Houston Healthcare Mainland Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.39501,
+    "longitude": -94.986355,
+    "elevation_ft": 16,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Texas City"
+  },
+  "keywords": [
+    "Mainland Regional Health Care System"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7528
+  }
+}

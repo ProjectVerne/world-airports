@@ -1,0 +1,30 @@
+{
+  "key": "_us_07744",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "11VA",
+    "local": "11VA"
+  },
+  "name": "Chesapeake General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.741798,
+    "longitude": -76.244102,
+    "elevation_ft": 21,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Chesapeake"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7744
+  }
+}

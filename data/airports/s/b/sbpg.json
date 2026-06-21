@@ -1,0 +1,33 @@
+{
+  "key": "sbpg",
+  "codes": {
+    "icao": "SBPG",
+    "iata": "PGZ",
+    "gps": "SBPG",
+    "local": "PR0012"
+  },
+  "name": "Ponta Grossa Airport - Comandante Antonio Amilton Beraldo",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.184476,
+    "longitude": -50.143822,
+    "elevation_ft": 2588,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Ponta Grossa"
+  },
+  "keywords": [
+    "SSZW"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ponta_Grossa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 517
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08435",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MA6",
+    "local": "1MA6"
+  },
+  "name": "Micron Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.067902,
+    "longitude": -72.744499,
+    "elevation_ft": 245,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Southwick"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8435
+  }
+}

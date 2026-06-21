@@ -1,0 +1,33 @@
+{
+  "key": "ksua",
+  "codes": {
+    "icao": "KSUA",
+    "iata": "SUA",
+    "gps": "KSUA",
+    "local": "SUA"
+  },
+  "name": "Witham Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.1817,
+    "longitude": -80.2211,
+    "elevation_ft": 16,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Stuart"
+  },
+  "keywords": [
+    "NAAS Witham Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Witham_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21115
+  }
+}

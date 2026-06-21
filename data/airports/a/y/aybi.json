@@ -1,0 +1,30 @@
+{
+  "key": "aybi",
+  "codes": {
+    "icao": "AYBI",
+    "iata": "BWP",
+    "gps": "AYBI",
+    "local": "BEW"
+  },
+  "name": "Bewani Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.021667,
+    "longitude": 141.165278,
+    "elevation_ft": 550,
+    "iso_country": "PG",
+    "iso_region": "PG-SAN",
+    "municipality": "Bewani"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301803
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "ssiq",
+  "codes": {
+    "icao": "SSIQ",
+    "iata": "ITQ",
+    "gps": "SSIQ",
+    "local": "RS0045"
+  },
+  "name": "Itaqui Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.171981,
+    "longitude": -56.538343,
+    "elevation_ft": 230,
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Itaqui"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29983
+  }
+}

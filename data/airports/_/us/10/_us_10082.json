@@ -1,0 +1,30 @@
+{
+  "key": "_us_10082",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "34CL",
+    "local": "34CL"
+  },
+  "name": "Burney Service Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.893609,
+    "longitude": -121.651354,
+    "elevation_ft": 3116,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Burney"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10082
+  }
+}

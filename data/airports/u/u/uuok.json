@@ -1,0 +1,33 @@
+{
+  "key": "uuok",
+  "codes": {
+    "icao": "UUOK",
+    "iata": "URS",
+    "gps": "UUOK",
+    "local": null
+  },
+  "name": "Kursk East Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.750599,
+    "longitude": 36.295601,
+    "elevation_ft": 686,
+    "iso_country": "RU",
+    "iso_region": "RU-KRS",
+    "municipality": "Kursk"
+  },
+  "keywords": [
+    "Kursk Vostochny Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kursk_Vostochny_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26399
+  }
+}

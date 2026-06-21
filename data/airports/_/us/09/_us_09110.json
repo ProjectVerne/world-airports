@@ -1,0 +1,32 @@
+{
+  "key": "_us_09110",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "26MI",
+    "local": "26MI"
+  },
+  "name": "Van Strien Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.923901,
+    "longitude": -85.378098,
+    "elevation_ft": 624,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Lowell"
+  },
+  "keywords": [
+    "Van Strien Company"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9110
+  }
+}

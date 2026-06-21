@@ -1,0 +1,30 @@
+{
+  "key": "vnji",
+  "codes": {
+    "icao": "VNJI",
+    "iata": "JIR",
+    "gps": "VNJI",
+    "local": null
+  },
+  "name": "Jiri Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.626313,
+    "longitude": 86.230581,
+    "elevation_ft": 6000,
+    "iso_country": "NP",
+    "iso_region": "NP-P3",
+    "municipality": "Jiri"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31703
+  }
+}

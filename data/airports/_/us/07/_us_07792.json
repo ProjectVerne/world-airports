@@ -1,0 +1,30 @@
+{
+  "key": "_us_07792",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "12PN",
+    "local": "12PN"
+  },
+  "name": "WCAU Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.007112,
+    "longitude": -75.216197,
+    "elevation_ft": 230,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philadelphia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7792
+  }
+}

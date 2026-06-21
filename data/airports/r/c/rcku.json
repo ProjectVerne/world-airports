@@ -1,0 +1,35 @@
+{
+  "key": "rcku",
+  "codes": {
+    "icao": "RCKU",
+    "iata": "CYI",
+    "gps": "RCKU",
+    "local": null
+  },
+  "name": "Chiayi Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.462577,
+    "longitude": 120.390544,
+    "elevation_ft": 85,
+    "iso_country": "TW",
+    "iso_region": "TW-CYQ",
+    "municipality": "Shuishang"
+  },
+  "keywords": [
+    "Shueishang Airport",
+    "嘉義航空站",
+    "水上機場"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chiayi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5517
+  }
+}

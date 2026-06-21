@@ -1,0 +1,31 @@
+{
+  "key": "skbg",
+  "codes": {
+    "icao": "SKBG",
+    "iata": "BGA",
+    "gps": "SKBG",
+    "local": "BGA"
+  },
+  "name": "Palonegro Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.1265,
+    "longitude": -73.1848,
+    "elevation_ft": 3897,
+    "iso_country": "CO",
+    "iso_region": "CO-SAN",
+    "municipality": "Bucaramanga"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Palonegro_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6102
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_345223",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VA86",
+    "local": "VA86"
+  },
+  "name": "Doctors Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.250289,
+    "longitude": -76.668863,
+    "elevation_ft": 90,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Williamsburg"
+  },
+  "keywords": [
+    "US-4368"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345223
+  }
+}

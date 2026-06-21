@@ -1,0 +1,30 @@
+{
+  "key": "_us_15134",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8OR0",
+    "local": "8OR0"
+  },
+  "name": "Danielson Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.533401,
+    "longitude": -122.955002,
+    "elevation_ft": 204,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Hillsboro"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15134
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "kvks",
+  "codes": {
+    "icao": "KVKS",
+    "iata": "VKS",
+    "gps": "KVKS",
+    "local": "VKS"
+  },
+  "name": "Vicksburg Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.2393,
+    "longitude": -90.928398,
+    "elevation_ft": 106,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Vicksburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21327
+  }
+}

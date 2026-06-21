@@ -1,0 +1,30 @@
+{
+  "key": "_us_22628",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MY65",
+    "local": "MY65"
+  },
+  "name": "University of Minnesota Hospitals & Clinics Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.97123,
+    "longitude": -93.23055,
+    "elevation_ft": 890,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Minneapolis"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22628
+  }
+}

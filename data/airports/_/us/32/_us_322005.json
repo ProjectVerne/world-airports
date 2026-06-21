@@ -1,0 +1,32 @@
+{
+  "key": "_us_322005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01OR",
+    "local": "01OR"
+  },
+  "name": "Grande Ronde Hospital EMS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.319519,
+    "longitude": -118.105363,
+    "elevation_ft": 2895,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "La Grande"
+  },
+  "keywords": [
+    "US-0386"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322005
+  }
+}

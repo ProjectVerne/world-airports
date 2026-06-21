@@ -1,0 +1,31 @@
+{
+  "key": "sccf",
+  "codes": {
+    "icao": "SCCF",
+    "iata": "CJC",
+    "gps": "SCCF",
+    "local": null
+  },
+  "name": "El Loa Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.498199,
+    "longitude": -68.903603,
+    "elevation_ft": 7543,
+    "iso_country": "CL",
+    "iso_region": "CL-AN",
+    "municipality": "Calama"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Loa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6007
+  }
+}

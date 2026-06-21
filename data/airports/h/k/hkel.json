@@ -1,0 +1,33 @@
+{
+  "key": "hkel",
+  "codes": {
+    "icao": "HKEL",
+    "iata": "EDL",
+    "gps": "HKEL",
+    "local": null
+  },
+  "name": "Eldoret International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 0.404458,
+    "longitude": 35.238899,
+    "elevation_ft": 6941,
+    "iso_country": "KE",
+    "iso_region": "KE-27",
+    "municipality": "Eldoret"
+  },
+  "keywords": [
+    "HKED"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Eldoret_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3205
+  }
+}

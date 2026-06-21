@@ -1,0 +1,33 @@
+{
+  "key": "_us_08139",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Clark Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.1945,
+    "longitude": -86.523102,
+    "elevation_ft": 880,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Frankfort"
+  },
+  "keywords": [
+    "19IN",
+    "US-9634"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8139
+  }
+}

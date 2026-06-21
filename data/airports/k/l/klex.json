@@ -1,0 +1,31 @@
+{
+  "key": "klex",
+  "codes": {
+    "icao": "KLEX",
+    "iata": "LEX",
+    "gps": "KLEX",
+    "local": "LEX"
+  },
+  "name": "Blue Grass Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.035066,
+    "longitude": -84.606738,
+    "elevation_ft": 979,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Lexington"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Blue_Grass_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3640
+  }
+}

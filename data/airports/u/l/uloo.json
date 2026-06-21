@@ -1,0 +1,35 @@
+{
+  "key": "uloo",
+  "codes": {
+    "icao": "ULOO",
+    "iata": "PKV",
+    "gps": "ULOO",
+    "local": "XLOO"
+  },
+  "name": "Princess Olga Pskov International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.781316,
+    "longitude": 28.39384,
+    "elevation_ft": 154,
+    "iso_country": "RU",
+    "iso_region": "RU-PSK",
+    "municipality": "Pskov"
+  },
+  "keywords": [
+    "УЛОО",
+    "ЬЛОО",
+    "Псков /Кресты"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pskov_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6491
+  }
+}

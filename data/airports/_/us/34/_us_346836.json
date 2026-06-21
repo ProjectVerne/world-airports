@@ -1,0 +1,32 @@
+{
+  "key": "_us_346836",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3WA9",
+    "local": "3WA9"
+  },
+  "name": "Sequim EMS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.088404,
+    "longitude": -123.110915,
+    "elevation_ft": 170,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Sequim"
+  },
+  "keywords": [
+    "US-4949"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 346836
+  }
+}

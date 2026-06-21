@@ -1,0 +1,30 @@
+{
+  "key": "_us_15609",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "99ID",
+    "local": "99ID"
+  },
+  "name": "CAHC Emergency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.511516,
+    "longitude": -114.224542,
+    "elevation_ft": 5149,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Challis"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15609
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kclm",
+  "codes": {
+    "icao": "KCLM",
+    "iata": "CLM",
+    "gps": "KCLM",
+    "local": "CLM"
+  },
+  "name": "William R Fairchild International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.120201,
+    "longitude": -123.5,
+    "elevation_ft": 291,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Port Angeles"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/William_R._Fairchild_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3456
+  }
+}

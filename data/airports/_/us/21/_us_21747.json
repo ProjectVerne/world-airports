@@ -1,0 +1,30 @@
+{
+  "key": "_us_21747",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "M62",
+    "local": "M62"
+  },
+  "name": "Rotorcraft Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.206699,
+    "longitude": -114.153,
+    "elevation_ft": 3630,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Hamilton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21747
+  }
+}

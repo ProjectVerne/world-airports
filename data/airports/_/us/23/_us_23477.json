@@ -1,0 +1,30 @@
+{
+  "key": "_us_23477",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "O01",
+    "local": "O01"
+  },
+  "name": "Heussler Hamburg Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.788795,
+    "longitude": -78.848991,
+    "elevation_ft": 590,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Hamburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23477
+  }
+}

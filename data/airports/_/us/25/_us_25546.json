@@ -1,0 +1,30 @@
+{
+  "key": "_us_25546",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VT51",
+    "local": "VT51"
+  },
+  "name": "Ibm Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.481701,
+    "longitude": -73.096497,
+    "elevation_ft": 385,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Essex Junction"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25546
+  }
+}

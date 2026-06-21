@@ -1,0 +1,30 @@
+{
+  "key": "_us_16787",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CL68",
+    "local": "CL68"
+  },
+  "name": "Platform Harvest Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.4692,
+    "longitude": -120.681999,
+    "elevation_ft": 178,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Lompoc"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16787
+  }
+}

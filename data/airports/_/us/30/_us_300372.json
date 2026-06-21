@@ -1,0 +1,32 @@
+{
+  "key": "_us_300372",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "Z21"
+  },
+  "name": "DeKalb Peachtree Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.884167,
+    "longitude": -84.306111,
+    "elevation_ft": 998,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Atlanta"
+  },
+  "keywords": [
+    "US-0175"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300372
+  }
+}

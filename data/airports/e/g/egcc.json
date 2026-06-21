@@ -1,0 +1,34 @@
+{
+  "key": "egcc",
+  "codes": {
+    "icao": "EGCC",
+    "iata": "MAN",
+    "gps": "EGCC",
+    "local": null
+  },
+  "name": "Manchester Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.349375,
+    "longitude": -2.279521,
+    "elevation_ft": 257,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Manchester, Greater Manchester"
+  },
+  "keywords": [
+    "Ringway Airport",
+    "RAF Ringway"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Manchester_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2398
+  }
+}

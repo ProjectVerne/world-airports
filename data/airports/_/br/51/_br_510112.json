@@ -1,0 +1,32 @@
+{
+  "key": "_br_510112",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SN48",
+    "local": "SP1455"
+  },
+  "name": "Almarias Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.135215,
+    "longitude": -46.78413,
+    "elevation_ft": 2536,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Jarinu"
+  },
+  "keywords": [
+    "BR-1840"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 510112
+  }
+}

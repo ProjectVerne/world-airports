@@ -1,0 +1,32 @@
+{
+  "key": "_us_505970",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "49NE",
+    "local": "49NE"
+  },
+  "name": "AM Aviation Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.305448,
+    "longitude": -96.319289,
+    "elevation_ft": 1133,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Valley"
+  },
+  "keywords": [
+    "US-7486"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505970
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kokv",
+  "codes": {
+    "icao": "KOKV",
+    "iata": "WGO",
+    "gps": "KOKV",
+    "local": "OKV"
+  },
+  "name": "Winchester Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.143501,
+    "longitude": -78.144402,
+    "elevation_ft": 726,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Winchester"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Winchester_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20736
+  }
+}

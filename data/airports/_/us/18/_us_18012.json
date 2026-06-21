@@ -1,0 +1,34 @@
+{
+  "key": "_us_18012",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Redpath Restricted Landing Area",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.181999,
+    "longitude": -89.808403,
+    "elevation_ft": 470,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Baldwin"
+  },
+  "keywords": [
+    "00K",
+    "IL35",
+    "US-11418"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18012
+  }
+}

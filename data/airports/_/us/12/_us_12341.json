@@ -1,0 +1,30 @@
+{
+  "key": "_us_12341",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5FD2",
+    "local": "5FD2"
+  },
+  "name": "Rybovich Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 26.749201,
+    "longitude": -80.049202,
+    "elevation_ft": 10,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "West Palm Beach"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12341
+  }
+}

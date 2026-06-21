@@ -1,0 +1,33 @@
+{
+  "key": "yplm",
+  "codes": {
+    "icao": "YPLM",
+    "iata": "LEA",
+    "gps": "YPLM",
+    "local": null
+  },
+  "name": "Learmonth Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.235201,
+    "longitude": 114.090024,
+    "elevation_ft": 19,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Exmouth"
+  },
+  "keywords": [
+    "RAAF Learmonth"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/RAAF_Learmonth",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27113
+  }
+}

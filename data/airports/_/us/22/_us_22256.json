@@ -1,0 +1,30 @@
+{
+  "key": "_us_22256",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MO50",
+    "local": "MO50"
+  },
+  "name": "Saint Francis Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.303445,
+    "longitude": -89.569853,
+    "elevation_ft": 455,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Cape Girardeau"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22256
+  }
+}

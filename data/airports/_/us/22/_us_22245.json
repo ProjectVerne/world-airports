@@ -1,0 +1,32 @@
+{
+  "key": "_us_22245",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MO40",
+    "local": "MO40"
+  },
+  "name": "Salem Memorial Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.659898,
+    "longitude": -91.570607,
+    "elevation_ft": 1170,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Salem"
+  },
+  "keywords": [
+    "Air Evac 18 Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22245
+  }
+}

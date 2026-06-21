@@ -1,0 +1,30 @@
+{
+  "key": "_us_09177",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "27TN",
+    "local": "27TN"
+  },
+  "name": "Memphis Police Department Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.249401,
+    "longitude": -90.0158,
+    "elevation_ft": 240,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Memphis"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9177
+  }
+}

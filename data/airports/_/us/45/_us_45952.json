@@ -1,0 +1,32 @@
+{
+  "key": "_us_45952",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "18MD",
+    "local": "18MD"
+  },
+  "name": "MedStar Montgomery Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.154705,
+    "longitude": -77.055012,
+    "elevation_ft": 472,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Olney"
+  },
+  "keywords": [
+    "Montgomery General Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45952
+  }
+}

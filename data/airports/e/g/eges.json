@@ -1,0 +1,31 @@
+{
+  "key": "eges",
+  "codes": {
+    "icao": "EGES",
+    "iata": "NDY",
+    "gps": "EGES",
+    "local": null
+  },
+  "name": "Sanday Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.250301,
+    "longitude": -2.57667,
+    "elevation_ft": 68,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Sanday"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sanday_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29132
+  }
+}

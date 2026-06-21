@@ -1,0 +1,30 @@
+{
+  "key": "_us_350967",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "50NH",
+    "local": "50NH"
+  },
+  "name": "Smith Point Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.555146,
+    "longitude": -71.309627,
+    "elevation_ft": 499,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Alton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350967
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "kvdi",
+  "codes": {
+    "icao": "KVDI",
+    "iata": "VDI",
+    "gps": "KVDI",
+    "local": "VDI"
+  },
+  "name": "Vidalia Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.192699,
+    "longitude": -82.371201,
+    "elevation_ft": 275,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Vidalia"
+  },
+  "keywords": [
+    "Vidalia-Lyons AAF",
+    "Turner AAF AuxAF No. 8"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vidalia_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21317
+  }
+}

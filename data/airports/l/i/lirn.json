@@ -1,0 +1,35 @@
+{
+  "key": "lirn",
+  "codes": {
+    "icao": "LIRN",
+    "iata": "NAP",
+    "gps": "LIRN",
+    "local": "NA01"
+  },
+  "name": "Naples International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.886002,
+    "longitude": 14.2908,
+    "elevation_ft": 294,
+    "iso_country": "IT",
+    "iso_region": "IT-72",
+    "municipality": "Napoli"
+  },
+  "keywords": [
+    "Capodichino Airport",
+    "Aeroporto Internazionale di Napoli-Capodichino Ugo Niutta",
+    "Ariopuorto 'nternazziunale 'e Napule-Capodichino Ugo Niutta"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naples_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4378
+  }
+}

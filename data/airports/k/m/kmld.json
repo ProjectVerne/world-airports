@@ -1,0 +1,30 @@
+{
+  "key": "kmld",
+  "codes": {
+    "icao": "KMLD",
+    "iata": "MLD",
+    "gps": "KMLD",
+    "local": "MLD"
+  },
+  "name": "Malad City Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.166599,
+    "longitude": -112.296997,
+    "elevation_ft": 4503,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Malad City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20522
+  }
+}

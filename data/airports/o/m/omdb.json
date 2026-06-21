@@ -1,0 +1,33 @@
+{
+  "key": "omdb",
+  "codes": {
+    "icao": "OMDB",
+    "iata": "DXB",
+    "gps": "OMDB",
+    "local": null
+  },
+  "name": "Dubai International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.24979,
+    "longitude": 55.370992,
+    "elevation_ft": 62,
+    "iso_country": "AE",
+    "iso_region": "AE-DU",
+    "municipality": "Dubai"
+  },
+  "keywords": [
+    "مطار دبي الدولي‎"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dubai_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5235
+  }
+}

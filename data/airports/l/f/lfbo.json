@@ -1,0 +1,33 @@
+{
+  "key": "lfbo",
+  "codes": {
+    "icao": "LFBO",
+    "iata": "TLS",
+    "gps": "LFBO",
+    "local": null
+  },
+  "name": "Toulouse-Blagnac Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.629101,
+    "longitude": 1.36382,
+    "elevation_ft": 499,
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Toulouse/Blagnac"
+  },
+  "keywords": [
+    "Airbus"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Toulouse_Blagnac_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4070
+  }
+}

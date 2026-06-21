@@ -1,0 +1,31 @@
+{
+  "key": "kvny",
+  "codes": {
+    "icao": "KVNY",
+    "iata": "VNY",
+    "gps": "KVNY",
+    "local": "VNY"
+  },
+  "name": "Van Nuys Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.209801,
+    "longitude": -118.489998,
+    "elevation_ft": 802,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Van Nuys"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Van_Nuys_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21333
+  }
+}

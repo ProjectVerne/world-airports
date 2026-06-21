@@ -1,0 +1,31 @@
+{
+  "key": "skcp",
+  "codes": {
+    "icao": "SKCP",
+    "iata": "BHF",
+    "gps": "SKCP",
+    "local": null
+  },
+  "name": "Cupica Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.694817,
+    "longitude": -77.493643,
+    "elevation_ft": 0,
+    "iso_country": "CO",
+    "iso_region": "CO-CHO",
+    "municipality": "Bahía Solano"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cupica_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45099
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01301",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNE9",
+    "local": "CNE9"
+  },
+  "name": "Essex Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.095798,
+    "longitude": -82.879402,
+    "elevation_ft": 620,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Essex"
+  },
+  "keywords": [
+    "NE9"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Essex_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1301
+  }
+}

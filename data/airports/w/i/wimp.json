@@ -1,0 +1,34 @@
+{
+  "key": "wimp",
+  "codes": {
+    "icao": "WIMP",
+    "iata": "SIW",
+    "gps": "WIMP",
+    "local": null
+  },
+  "name": "Sibisa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 2.601967,
+    "longitude": 98.962381,
+    "elevation_ft": 4234,
+    "iso_country": "ID",
+    "iso_region": "ID-SU",
+    "municipality": "Parapat-Sumatra Island"
+  },
+  "keywords": [
+    "Parapat Airport",
+    "Ajibata"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sibisa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41462
+  }
+}

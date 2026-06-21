@@ -1,0 +1,31 @@
+{
+  "key": "kotg",
+  "codes": {
+    "icao": "KOTG",
+    "iata": "OTG",
+    "gps": "KOTG",
+    "local": "OTG"
+  },
+  "name": "Worthington Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.65477,
+    "longitude": -95.577364,
+    "elevation_ft": 1574,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Worthington"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Worthington_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20769
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "nzdc",
+  "codes": {
+    "icao": "NZDC",
+    "iata": null,
+    "gps": "NZDC",
+    "local": null
+  },
+  "name": "Dunedin City Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -45.882596,
+    "longitude": 170.507947,
+    "elevation_ft": 5,
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Dunedin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44804
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_23303",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM85",
+    "local": "NM85"
+  },
+  "name": "Gila Regional Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.7981,
+    "longitude": -108.261002,
+    "elevation_ft": 6097,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Silver City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23303
+  }
+}

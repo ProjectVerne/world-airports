@@ -1,0 +1,30 @@
+{
+  "key": "_us_06580",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01AZ",
+    "local": "01AZ"
+  },
+  "name": "Yat Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.607406,
+    "longitude": -111.8609,
+    "elevation_ft": 3300,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Camp Verde"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6580
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "eppl",
+  "codes": {
+    "icao": "EPPL",
+    "iata": null,
+    "gps": "EPPL",
+    "local": null
+  },
+  "name": "Płock Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.562225,
+    "longitude": 19.720322,
+    "elevation_ft": 331,
+    "iso_country": "PL",
+    "iso_region": "PL-MZ",
+    "municipality": "Płock"
+  },
+  "keywords": [
+    "QPC"
+  ],
+  "wikipedia": "https://pl.wikipedia.org/wiki/Lotnisko_P%C5%82ock",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30271
+  }
+}

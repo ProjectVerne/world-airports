@@ -1,0 +1,34 @@
+{
+  "key": "lrbc",
+  "codes": {
+    "icao": "LRBC",
+    "iata": "BCM",
+    "gps": "LRBC",
+    "local": null
+  },
+  "name": "Bacău George Enescu International  Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.5219,
+    "longitude": 26.910299,
+    "elevation_ft": 607,
+    "iso_country": "RO",
+    "iso_region": "RO-BC",
+    "municipality": "Bacău"
+  },
+  "keywords": [
+    "Bacau",
+    "RoAF 95th Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bac%C4%83u_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4472
+  }
+}

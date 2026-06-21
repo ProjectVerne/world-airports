@@ -1,0 +1,33 @@
+{
+  "key": "fbxx",
+  "codes": {
+    "icao": "FBXX",
+    "iata": null,
+    "gps": "FBXX",
+    "local": null
+  },
+  "name": "Xudum Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.679458,
+    "longitude": 22.86833,
+    "elevation_ft": 3133,
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "Xudum"
+  },
+  "keywords": [
+    "BW-0054"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Xudum_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333208
+  }
+}

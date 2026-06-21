@@ -1,0 +1,33 @@
+{
+  "key": "_us_08579",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Fortman Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.555302,
+    "longitude": -84.386597,
+    "elevation_ft": 885,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "St Marys"
+  },
+  "keywords": [
+    "1OH4",
+    "US-4426"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8579
+  }
+}

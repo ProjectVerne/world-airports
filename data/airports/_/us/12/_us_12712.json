@@ -1,0 +1,30 @@
+{
+  "key": "_us_12712",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5VA2",
+    "local": "5VA2"
+  },
+  "name": "Sullins Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.612,
+    "longitude": -82.188698,
+    "elevation_ft": 1730,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Bristol"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12712
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "uacp",
+  "codes": {
+    "icao": "UACP",
+    "iata": "PPK",
+    "gps": "UACP",
+    "local": null
+  },
+  "name": "Petropavl International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.775622,
+    "longitude": 69.187415,
+    "elevation_ft": 453,
+    "iso_country": "KZ",
+    "iso_region": "KZ-SEV",
+    "municipality": "Petropavl"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Petropavl_Airport_(Kazakhstan)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32495
+  }
+}

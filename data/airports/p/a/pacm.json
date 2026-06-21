@@ -1,0 +1,31 @@
+{
+  "key": "pacm",
+  "codes": {
+    "icao": "PACM",
+    "iata": "SCM",
+    "gps": "PACM",
+    "local": "SCM"
+  },
+  "name": "Scammon Bay Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.84471,
+    "longitude": -165.575209,
+    "elevation_ft": 14,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Scammon Bay"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Scammon_Bay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5347
+  }
+}

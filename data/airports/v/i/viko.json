@@ -1,0 +1,31 @@
+{
+  "key": "viko",
+  "codes": {
+    "icao": "VIKO",
+    "iata": "KTU",
+    "gps": "VIKO",
+    "local": null
+  },
+  "name": "Kota Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.1602,
+    "longitude": 75.845596,
+    "elevation_ft": 896,
+    "iso_country": "IN",
+    "iso_region": "IN-RJ",
+    "municipality": "Kota"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kota_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26567
+  }
+}

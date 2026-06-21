@@ -1,0 +1,31 @@
+{
+  "key": "hadc",
+  "codes": {
+    "icao": "HADC",
+    "iata": "DSE",
+    "gps": "HADC",
+    "local": null
+  },
+  "name": "Kombolcha Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.10975,
+    "longitude": 39.725911,
+    "elevation_ft": 6120,
+    "iso_country": "ET",
+    "iso_region": "ET-AM",
+    "municipality": "Dessie"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kombolcha_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 507651
+  }
+}

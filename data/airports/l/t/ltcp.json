@@ -1,0 +1,31 @@
+{
+  "key": "ltcp",
+  "codes": {
+    "icao": "LTCP",
+    "iata": "ADF",
+    "gps": "LTCP",
+    "local": null
+  },
+  "name": "Adıyaman Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.7314,
+    "longitude": 38.468899,
+    "elevation_ft": 2216,
+    "iso_country": "TR",
+    "iso_region": "TR-02",
+    "municipality": "Adıyaman"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ad%C4%B1yaman_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4561
+  }
+}

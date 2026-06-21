@@ -1,0 +1,30 @@
+{
+  "key": "_us_09430",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2IA3",
+    "local": "2IA3"
+  },
+  "name": "Medical Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.962002,
+    "longitude": -91.559898,
+    "elevation_ft": 734,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Mount Pleasant"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9430
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_45777",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SD86",
+    "local": "SD86"
+  },
+  "name": "Monument Health Custer Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.772601,
+    "longitude": -103.593682,
+    "elevation_ft": 5300,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Custer"
+  },
+  "keywords": [
+    "Custer Regional Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45777
+  }
+}

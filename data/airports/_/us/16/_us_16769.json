@@ -1,0 +1,30 @@
+{
+  "key": "_us_16769",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CL50",
+    "local": "CL50"
+  },
+  "name": "Westwood Gateway I Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.04785,
+    "longitude": -118.444923,
+    "elevation_ft": 321,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Los Angeles"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16769
+  }
+}

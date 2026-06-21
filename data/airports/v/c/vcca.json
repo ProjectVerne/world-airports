@@ -1,0 +1,33 @@
+{
+  "key": "vcca",
+  "codes": {
+    "icao": "VCCA",
+    "iata": "ACJ",
+    "gps": "VCCA",
+    "local": null
+  },
+  "name": "Anuradhapura Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.301542,
+    "longitude": 80.42848,
+    "elevation_ft": 324,
+    "iso_country": "LK",
+    "iso_region": "LK-7",
+    "municipality": "Anuradhapura"
+  },
+  "keywords": [
+    "SLAF Anuradhapura"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Anuradhapura_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26464
+  }
+}

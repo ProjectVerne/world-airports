@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01269",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CLH2",
+    "local": "CLH2"
+  },
+  "name": "Stettler (Health Centre) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 52.323154,
+    "longitude": -112.725257,
+    "elevation_ft": 2694,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Stettler"
+  },
+  "keywords": [
+    "LH2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1269
+  }
+}

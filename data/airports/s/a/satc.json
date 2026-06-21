@@ -1,0 +1,31 @@
+{
+  "key": "satc",
+  "codes": {
+    "icao": "SATC",
+    "iata": "CLX",
+    "gps": "SATC",
+    "local": "CLO"
+  },
+  "name": "Aeródromo de Clorinda",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.3036,
+    "longitude": -57.7344,
+    "elevation_ft": 206,
+    "iso_country": "AR",
+    "iso_region": "AR-P",
+    "municipality": "Clorinda"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Clorinda_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29791
+  }
+}

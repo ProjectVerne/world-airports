@@ -1,0 +1,34 @@
+{
+  "key": "mslp",
+  "codes": {
+    "icao": "MSLP",
+    "iata": "SAL",
+    "gps": "MSLP",
+    "local": null
+  },
+  "name": "El Salvador International Airport Saint Óscar Arnulfo Romero y Galdámez",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.44447,
+    "longitude": -89.055784,
+    "elevation_ft": 101,
+    "iso_country": "SV",
+    "iso_region": "SV-PA",
+    "municipality": "San Salvador (San Luis Talpa)"
+  },
+  "keywords": [
+    "Monseñor Óscar Arnulfo Romero International Airport",
+    "Comalapa International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Salvador_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4820
+  }
+}

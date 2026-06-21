@@ -1,0 +1,30 @@
+{
+  "key": "_us_22945",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NE55",
+    "local": "NE55"
+  },
+  "name": "Humboldt Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.162201,
+    "longitude": -95.941902,
+    "elevation_ft": 978,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Humboldt"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22945
+  }
+}

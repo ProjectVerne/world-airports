@@ -1,0 +1,31 @@
+{
+  "key": "kgfk",
+  "codes": {
+    "icao": "KGFK",
+    "iata": "GFK",
+    "gps": "KGFK",
+    "local": "GFK"
+  },
+  "name": "Grand Forks International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.949299,
+    "longitude": -97.176102,
+    "elevation_ft": 845,
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Grand Forks"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Grand_Forks_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3553
+  }
+}

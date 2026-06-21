@@ -1,0 +1,30 @@
+{
+  "key": "_us_07280",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0LA7",
+    "local": "0LA7"
+  },
+  "name": "Exxon Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.254738,
+    "longitude": -89.96732,
+    "elevation_ft": 6,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Grand Isle"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7280
+  }
+}

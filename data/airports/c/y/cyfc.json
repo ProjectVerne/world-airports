@@ -1,0 +1,31 @@
+{
+  "key": "cyfc",
+  "codes": {
+    "icao": "CYFC",
+    "iata": "YFC",
+    "gps": "CYFC",
+    "local": null
+  },
+  "name": "Fredericton International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.868697,
+    "longitude": -66.529891,
+    "elevation_ft": 68,
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Fredericton"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Greater_Fredericton_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1730
+  }
+}

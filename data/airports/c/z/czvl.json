@@ -1,0 +1,33 @@
+{
+  "key": "czvl",
+  "codes": {
+    "icao": "CZVL",
+    "iata": null,
+    "gps": "CZVL",
+    "local": null
+  },
+  "name": "Edmonton / Villeneuve Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.6675,
+    "longitude": -113.853996,
+    "elevation_ft": 2256,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Edmonton"
+  },
+  "keywords": [
+    "ZVL"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Edmonton/Villeneuve_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2044
+  }
+}

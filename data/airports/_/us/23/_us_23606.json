@@ -1,0 +1,33 @@
+{
+  "key": "_us_23606",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Cutler Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.1931,
+    "longitude": -83.111902,
+    "elevation_ft": 945,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Powell"
+  },
+  "keywords": [
+    "OH41",
+    "US-11989"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23606
+  }
+}

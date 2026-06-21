@@ -1,0 +1,30 @@
+{
+  "key": "_us_26204",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "XA60",
+    "local": "XA60"
+  },
+  "name": "Paris Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.659698,
+    "longitude": -95.546501,
+    "elevation_ft": 615,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Paris"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26204
+  }
+}

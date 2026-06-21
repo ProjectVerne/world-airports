@@ -1,0 +1,31 @@
+{
+  "key": "sadl",
+  "codes": {
+    "icao": "SADL",
+    "iata": "LPG",
+    "gps": "SADL",
+    "local": "PTA"
+  },
+  "name": "La Plata Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.9722,
+    "longitude": -57.8947,
+    "elevation_ft": 72,
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "La Plata"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Plata_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5777
+  }
+}

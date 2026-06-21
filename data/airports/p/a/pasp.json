@@ -1,0 +1,30 @@
+{
+  "key": "pasp",
+  "codes": {
+    "icao": "PASP",
+    "iata": "SMU",
+    "gps": "PASP",
+    "local": "SMU"
+  },
+  "name": "Sheep Mountain Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.812,
+    "longitude": -147.507004,
+    "elevation_ft": 2750,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Sheep Mountain"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24579
+  }
+}

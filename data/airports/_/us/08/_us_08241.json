@@ -1,0 +1,32 @@
+{
+  "key": "_us_08241",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1CL5",
+    "local": "1CL5"
+  },
+  "name": "Palomar Medical Center Poway Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.996067,
+    "longitude": -117.055539,
+    "elevation_ft": 650,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Poway"
+  },
+  "keywords": [
+    "Pomerado Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8241
+  }
+}

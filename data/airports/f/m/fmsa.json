@@ -1,0 +1,30 @@
+{
+  "key": "fmsa",
+  "codes": {
+    "icao": "FMSA",
+    "iata": null,
+    "gps": "FMSA",
+    "local": null
+  },
+  "name": "Ambalavao Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -21.814891,
+    "longitude": 46.914024,
+    "elevation_ft": 3189,
+    "iso_country": "MG",
+    "iso_region": "MG-F",
+    "municipality": "Ambalavao"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31187
+  }
+}

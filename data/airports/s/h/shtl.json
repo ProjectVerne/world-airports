@@ -1,0 +1,30 @@
+{
+  "key": "shtl",
+  "codes": {
+    "icao": "SHTL",
+    "iata": null,
+    "gps": "SHTL",
+    "local": null
+  },
+  "name": "Torre Ligure Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -36.827656,
+    "longitude": -73.052527,
+    "elevation_ft": 182,
+    "iso_country": "CL",
+    "iso_region": "CL-BI",
+    "municipality": "Concepcion"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39409
+  }
+}

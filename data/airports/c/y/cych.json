@@ -1,0 +1,34 @@
+{
+  "key": "cych",
+  "codes": {
+    "icao": "CYCH",
+    "iata": "YCH",
+    "gps": "CYCH",
+    "local": null
+  },
+  "name": "Miramichi Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.007801,
+    "longitude": -65.449203,
+    "elevation_ft": 108,
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Miramichi"
+  },
+  "keywords": [
+    "CFB Chatham",
+    "RCAF Station Chatham"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Miramichi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1690
+  }
+}

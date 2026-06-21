@@ -1,0 +1,32 @@
+{
+  "key": "_us_07058",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "K09W",
+    "local": "09W"
+  },
+  "name": "South Capitol Street Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.868612,
+    "longitude": -77.008367,
+    "elevation_ft": 10,
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington"
+  },
+  "keywords": [
+    "DC12"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7058
+  }
+}

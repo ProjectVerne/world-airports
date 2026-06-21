@@ -1,0 +1,30 @@
+{
+  "key": "_us_09861",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2WI6",
+    "local": "2WI6"
+  },
+  "name": "Matson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.913601,
+    "longitude": -89.186203,
+    "elevation_ft": 915,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Stoughton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9861
+  }
+}

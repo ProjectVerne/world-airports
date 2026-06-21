@@ -1,0 +1,32 @@
+{
+  "key": "_us_510924",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Smith Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.75488,
+    "longitude": -73.27821,
+    "elevation_ft": 133,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Grand Isle"
+  },
+  "keywords": [
+    "US-7941"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 510924
+  }
+}

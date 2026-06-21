@@ -1,0 +1,32 @@
+{
+  "key": "_us_350500",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "US Border Patrol Oroville Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.9872,
+    "longitude": -119.4602,
+    "elevation_ft": 1029,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Oroville"
+  },
+  "keywords": [
+    "US-6005"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350500
+  }
+}

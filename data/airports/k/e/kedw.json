@@ -1,0 +1,31 @@
+{
+  "key": "kedw",
+  "codes": {
+    "icao": "KEDW",
+    "iata": "EDW",
+    "gps": "KEDW",
+    "local": "EDW"
+  },
+  "name": "Edwards Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.910781,
+    "longitude": -117.886391,
+    "elevation_ft": 2312,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Edwards"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Edwards_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3503
+  }
+}

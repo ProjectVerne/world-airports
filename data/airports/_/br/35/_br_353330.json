@@ -1,0 +1,32 @@
+{
+  "key": "_br_353330",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SWOP",
+    "local": "SP0821"
+  },
+  "name": "APTA Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.768049,
+    "longitude": -46.592816,
+    "elevation_ft": 2552,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Bernardo do Campo"
+  },
+  "keywords": [
+    "BR-1678"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 353330
+  }
+}

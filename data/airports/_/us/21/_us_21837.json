@@ -1,0 +1,30 @@
+{
+  "key": "_us_21837",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA94",
+    "local": "MA94"
+  },
+  "name": "Parker Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.275398,
+    "longitude": -71.798698,
+    "elevation_ft": 520,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Worcester"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21837
+  }
+}

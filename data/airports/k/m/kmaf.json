@@ -1,0 +1,33 @@
+{
+  "key": "kmaf",
+  "codes": {
+    "icao": "KMAF",
+    "iata": "MAF",
+    "gps": "KMAF",
+    "local": "MAF"
+  },
+  "name": "Midland International Air and Space Port",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.942499,
+    "longitude": -102.202003,
+    "elevation_ft": 2871,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Midland"
+  },
+  "keywords": [
+    "Midland International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Midland_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3663
+  }
+}

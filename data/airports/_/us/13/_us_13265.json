@@ -1,0 +1,30 @@
+{
+  "key": "_us_13265",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6GA7",
+    "local": "6GA7"
+  },
+  "name": "Mac Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.2061,
+    "longitude": -84.295303,
+    "elevation_ft": 1100,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Cumming"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13265
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "hkad",
+  "codes": {
+    "icao": "HKAD",
+    "iata": null,
+    "gps": "HKAD",
+    "local": null
+  },
+  "name": "Arabia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 3.566973,
+    "longitude": 41.511833,
+    "elevation_ft": 1212,
+    "iso_country": "KE",
+    "iso_region": "KE-09",
+    "municipality": "Arabia"
+  },
+  "keywords": [
+    "KE-0089"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 318692
+  }
+}

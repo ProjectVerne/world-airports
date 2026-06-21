@@ -1,0 +1,33 @@
+{
+  "key": "nfnm",
+  "codes": {
+    "icao": "NFNM",
+    "iata": "TVU",
+    "gps": "NFNM",
+    "local": null
+  },
+  "name": "Matei Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.690599,
+    "longitude": -179.876999,
+    "elevation_ft": 60,
+    "iso_country": "FJ",
+    "iso_region": "FJ-N",
+    "municipality": "Matei"
+  },
+  "keywords": [
+    "Taveuni"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Matei_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32485
+  }
+}

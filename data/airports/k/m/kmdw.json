@@ -1,0 +1,33 @@
+{
+  "key": "kmdw",
+  "codes": {
+    "icao": "KMDW",
+    "iata": "MDW",
+    "gps": "KMDW",
+    "local": "MDW"
+  },
+  "name": "Chicago Midway International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.785999,
+    "longitude": -87.752403,
+    "elevation_ft": 620,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Chicago"
+  },
+  "keywords": [
+    "CHI"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Midway_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3673
+  }
+}

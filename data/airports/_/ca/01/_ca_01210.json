@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01210",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKM7",
+    "local": "CKM7"
+  },
+  "name": "Thompson Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 55.707423,
+    "longitude": -97.891236,
+    "elevation_ft": 702,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Thompson"
+  },
+  "keywords": [
+    "KM7"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1210
+  }
+}

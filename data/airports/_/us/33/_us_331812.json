@@ -1,0 +1,32 @@
+{
+  "key": "_us_331812",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32TE",
+    "local": "32TE"
+  },
+  "name": "M-4 Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.403611,
+    "longitude": -95.438889,
+    "elevation_ft": 230,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Willis"
+  },
+  "keywords": [
+    "US-1134"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331812
+  }
+}

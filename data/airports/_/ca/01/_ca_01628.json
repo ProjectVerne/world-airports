@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01628",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CWH2",
+    "local": "CWH2"
+  },
+  "name": "Wainwright (Health Centre) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 52.842979,
+    "longitude": -110.864735,
+    "elevation_ft": 2262,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Wainwright"
+  },
+  "keywords": [
+    "WH2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1628
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vigr",
+  "codes": {
+    "icao": "VIGR",
+    "iata": "GWL",
+    "gps": "VIGR",
+    "local": null
+  },
+  "name": "Gwalior Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.293301,
+    "longitude": 78.227798,
+    "elevation_ft": 617,
+    "iso_country": "IN",
+    "iso_region": "IN-MP",
+    "municipality": "Gwalior"
+  },
+  "keywords": [
+    "Maharajpur Air Force Station"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gwalior_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26558
+  }
+}

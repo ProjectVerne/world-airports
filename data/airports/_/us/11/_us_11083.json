@@ -1,0 +1,30 @@
+{
+  "key": "_us_11083",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "44LL",
+    "local": "44LL"
+  },
+  "name": "Carlinville Area Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.2812,
+    "longitude": -89.869499,
+    "elevation_ft": 620,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Carlinville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11083
+  }
+}

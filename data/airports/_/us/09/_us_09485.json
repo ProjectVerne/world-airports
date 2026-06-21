@@ -1,0 +1,33 @@
+{
+  "key": "_us_09485",
+  "codes": {
+    "icao": null,
+    "iata": "TLF",
+    "gps": "2K5",
+    "local": "2K5"
+  },
+  "name": "Telida Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.393902,
+    "longitude": -153.268997,
+    "elevation_ft": 650,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Telida"
+  },
+  "keywords": [
+    "AK52"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Telida_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9485
+  }
+}

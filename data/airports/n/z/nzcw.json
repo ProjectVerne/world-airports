@@ -1,0 +1,33 @@
+{
+  "key": "nzcw",
+  "codes": {
+    "icao": "NZCW",
+    "iata": null,
+    "gps": "NZCW",
+    "local": null
+  },
+  "name": "Cromwell/Louburn Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -44.982756,
+    "longitude": 169.215696,
+    "elevation_ft": 1010,
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Cromwell"
+  },
+  "keywords": [
+    "Mount Pisa",
+    "NZ-0022"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 315006
+  }
+}

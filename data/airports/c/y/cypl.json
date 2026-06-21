@@ -1,0 +1,31 @@
+{
+  "key": "cypl",
+  "codes": {
+    "icao": "CYPL",
+    "iata": "YPL",
+    "gps": "CYPL",
+    "local": null
+  },
+  "name": "Pickle Lake Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.4464,
+    "longitude": -90.214203,
+    "elevation_ft": 1267,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Pickle Lake"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pickle_Lake_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1849
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_09418",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2GE6",
+    "local": "2GE6"
+  },
+  "name": "Virgil Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.595301,
+    "longitude": -84.422798,
+    "elevation_ft": 300,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Albany"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9418
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01392",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPD9",
+    "local": "CPD9"
+  },
+  "name": "Markdale (Centre Grey General Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.314999,
+    "longitude": -80.658096,
+    "elevation_ft": 1395,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Markdale"
+  },
+  "keywords": [
+    "PD9"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1392
+  }
+}

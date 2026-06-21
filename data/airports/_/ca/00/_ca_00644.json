@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00644",
+  "codes": {
+    "icao": null,
+    "iata": "YMP",
+    "gps": "CAT5",
+    "local": "CAT5"
+  },
+  "name": "Port McNeill Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.57348,
+    "longitude": -127.027702,
+    "elevation_ft": 225,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Port McNeill"
+  },
+  "keywords": [
+    "AT5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_McNeill_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 644
+  }
+}

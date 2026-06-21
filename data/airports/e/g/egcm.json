@@ -1,0 +1,34 @@
+{
+  "key": "egcm",
+  "codes": {
+    "icao": "EGCM",
+    "iata": null,
+    "gps": "EGCM",
+    "local": null
+  },
+  "name": "Leeds East Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.834747,
+    "longitude": -1.194678,
+    "elevation_ft": 29,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Tadcaster, North Yorkshire"
+  },
+  "keywords": [
+    "EGXG",
+    "RAF Church Fenton"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Leeds_East_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2500
+  }
+}

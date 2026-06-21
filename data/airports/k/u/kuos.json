@@ -1,0 +1,33 @@
+{
+  "key": "kuos",
+  "codes": {
+    "icao": "KUOS",
+    "iata": "UOS",
+    "gps": "KUOS",
+    "local": "UOS"
+  },
+  "name": "Franklin County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.204754,
+    "longitude": -85.899052,
+    "elevation_ft": 1953,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Sewanee"
+  },
+  "keywords": [
+    "Sewanee International"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Franklin_County_Airport_(Tennessee)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21301
+  }
+}

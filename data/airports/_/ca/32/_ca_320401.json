@@ -1,0 +1,30 @@
+{
+  "key": "_ca_320401",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CMH4",
+    "local": "CMH4"
+  },
+  "name": "Mirabel Hélico Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.69555,
+    "longitude": -73.9525,
+    "elevation_ft": 223,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320401
+  }
+}

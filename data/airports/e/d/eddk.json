@@ -1,0 +1,33 @@
+{
+  "key": "eddk",
+  "codes": {
+    "icao": "EDDK",
+    "iata": "CGN",
+    "gps": "EDDK",
+    "local": null
+  },
+  "name": "Cologne Bonn Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.865898,
+    "longitude": 7.14274,
+    "elevation_ft": 302,
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Köln (Cologne)"
+  },
+  "keywords": [
+    "Köln"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cologne_Bonn_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2216
+  }
+}

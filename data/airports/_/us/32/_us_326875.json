@@ -1,0 +1,32 @@
+{
+  "key": "_us_326875",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CA30",
+    "local": "CA30"
+  },
+  "name": "Manclark Airway Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.675027,
+    "longitude": -117.873166,
+    "elevation_ft": 77,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Costa Mesa"
+  },
+  "keywords": [
+    "US-0840"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 326875
+  }
+}

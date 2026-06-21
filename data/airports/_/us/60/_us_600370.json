@@ -1,0 +1,33 @@
+{
+  "key": "_us_600370",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Ortman Landing Strip",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 43.590175,
+    "longitude": -97.297436,
+    "elevation_ft": 1530,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Canistota"
+  },
+  "keywords": [
+    "97D",
+    "US-12749"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600370
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "tffs",
+  "codes": {
+    "icao": "TFFS",
+    "iata": "LSS",
+    "gps": "TFFS",
+    "local": null
+  },
+  "name": "Terre-de-Haut Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.8644,
+    "longitude": -61.580601,
+    "elevation_ft": 46,
+    "iso_country": "GP",
+    "iso_region": "GP-U-A",
+    "municipality": "Les Saintes"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Les_Saintes_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31853
+  }
+}

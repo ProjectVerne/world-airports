@@ -1,0 +1,30 @@
+{
+  "key": "_us_06720",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "03MI",
+    "local": "03MI"
+  },
+  "name": "Harold Miller Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.5509,
+    "longitude": -83.862198,
+    "elevation_ft": 585,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Bay City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6720
+  }
+}

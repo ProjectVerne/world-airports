@@ -1,0 +1,31 @@
+{
+  "key": "skui",
+  "codes": {
+    "icao": "SKUI",
+    "iata": "UIB",
+    "gps": "SKUI",
+    "local": "UIB"
+  },
+  "name": "El Caraño Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.69076,
+    "longitude": -76.6412,
+    "elevation_ft": 204,
+    "iso_country": "CO",
+    "iso_region": "CO-CHO",
+    "municipality": "Quibdó"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Cara%C3%B1o_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6172
+  }
+}

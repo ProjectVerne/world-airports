@@ -1,0 +1,33 @@
+{
+  "key": "ksgt",
+  "codes": {
+    "icao": "KSGT",
+    "iata": "SGT",
+    "gps": "KSGT",
+    "local": "SGT"
+  },
+  "name": "Stuttgart Municipal Airport / Carl Humphrey Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.599499,
+    "longitude": -91.574997,
+    "elevation_ft": 224,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Stuttgart"
+  },
+  "keywords": [
+    "Stuttgart AAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stuttgart_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21064
+  }
+}

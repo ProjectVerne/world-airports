@@ -1,0 +1,30 @@
+{
+  "key": "_us_24622",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SN45",
+    "local": "SN45"
+  },
+  "name": "Michael's Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.82841,
+    "longitude": -95.267215,
+    "elevation_ft": 1105,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Lawrence"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24622
+  }
+}

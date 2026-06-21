@@ -1,0 +1,33 @@
+{
+  "key": "_br_35574",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Itu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.349722,
+    "longitude": -47.327778,
+    "elevation_ft": 2231,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Itu"
+  },
+  "keywords": [
+    "SDIU",
+    "BR-2266"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35574
+  }
+}

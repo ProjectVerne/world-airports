@@ -1,0 +1,31 @@
+{
+  "key": "dnai",
+  "codes": {
+    "icao": "DNAI",
+    "iata": "QUO",
+    "gps": "DNAI",
+    "local": null
+  },
+  "name": "Akwa Ibom International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.8725,
+    "longitude": 8.093,
+    "elevation_ft": 170,
+    "iso_country": "NG",
+    "iso_region": "NG-AK",
+    "municipality": "Uyo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Akwa_Ibom_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 309668
+  }
+}

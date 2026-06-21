@@ -1,0 +1,31 @@
+{
+  "key": "kmml",
+  "codes": {
+    "icao": "KMML",
+    "iata": "MML",
+    "gps": "KMML",
+    "local": "MML"
+  },
+  "name": "Southwest Minnesota Regional Airport - Marshall/Ryan Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.4505,
+    "longitude": -95.821899,
+    "elevation_ft": 1183,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Marshall"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Southwest_Minnesota_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20530
+  }
+}

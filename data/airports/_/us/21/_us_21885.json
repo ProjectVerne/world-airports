@@ -1,0 +1,30 @@
+{
+  "key": "_us_21885",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MD40",
+    "local": "MD40"
+  },
+  "name": "Mrs Bozman Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.5495,
+    "longitude": -76.562698,
+    "elevation_ft": 620,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Jacksonville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21885
+  }
+}

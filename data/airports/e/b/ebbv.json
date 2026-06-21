@@ -1,0 +1,32 @@
+{
+  "key": "ebbv",
+  "codes": {
+    "icao": "EBBV",
+    "iata": null,
+    "gps": "EBBV",
+    "local": null
+  },
+  "name": "Brecht/Vochten Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.332,
+    "longitude": 4.62466,
+    "elevation_ft": 87,
+    "iso_country": "BE",
+    "iso_region": "BE-VAN",
+    "municipality": "Brecht"
+  },
+  "keywords": [
+    "BE-0008"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323796
+  }
+}

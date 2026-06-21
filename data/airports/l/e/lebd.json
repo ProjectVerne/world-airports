@@ -1,0 +1,30 @@
+{
+  "key": "lebd",
+  "codes": {
+    "icao": "LEBD",
+    "iata": null,
+    "gps": "LEBD",
+    "local": null
+  },
+  "name": "El Bodon Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.484557,
+    "longitude": -6.577145,
+    "elevation_ft": 2647,
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Salamanca"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 355324
+  }
+}

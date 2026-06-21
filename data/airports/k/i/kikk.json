@@ -1,0 +1,31 @@
+{
+  "key": "kikk",
+  "codes": {
+    "icao": "KIKK",
+    "iata": "IKK",
+    "gps": "KIKK",
+    "local": "IKK"
+  },
+  "name": "Greater Kankakee Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.0714,
+    "longitude": -87.846298,
+    "elevation_ft": 630,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Kankakee"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Greater_Kankakee_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3607
+  }
+}

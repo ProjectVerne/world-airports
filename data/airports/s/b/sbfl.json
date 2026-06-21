@@ -1,0 +1,33 @@
+{
+  "key": "sbfl",
+  "codes": {
+    "icao": "SBFL",
+    "iata": "FLN",
+    "gps": "SBFL",
+    "local": "SC0001"
+  },
+  "name": "Hercílio Luz International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.670279,
+    "longitude": -48.552502,
+    "elevation_ft": 16,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Florianópolis"
+  },
+  "keywords": [
+    "http://www.infraero.gov.br/usa/aero_prev_home.php?ai=228"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Herc%C3%ADlio_Luz_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5901
+  }
+}

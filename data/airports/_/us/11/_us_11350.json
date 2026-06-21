@@ -1,0 +1,30 @@
+{
+  "key": "_us_11350",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4AZ1",
+    "local": "4AZ1"
+  },
+  "name": "Moulder Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.7533,
+    "longitude": -112.416,
+    "elevation_ft": 1521,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Surprise"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11350
+  }
+}

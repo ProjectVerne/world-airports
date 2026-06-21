@@ -1,0 +1,31 @@
+{
+  "key": "sahc",
+  "codes": {
+    "icao": "SAHC",
+    "iata": "HOS",
+    "gps": "SAHC",
+    "local": "CHM"
+  },
+  "name": "Chos Malal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -37.444698,
+    "longitude": -70.222504,
+    "elevation_ft": 2788,
+    "iso_country": "AR",
+    "iso_region": "AR-Q",
+    "municipality": "Chos Malal"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chos_Malal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5782
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "nzwf",
+  "codes": {
+    "icao": "NZWF",
+    "iata": "WKA",
+    "gps": "NZWF",
+    "local": null
+  },
+  "name": "Wanaka Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -44.722091,
+    "longitude": 169.246287,
+    "elevation_ft": 1142,
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Wanaka"
+  },
+  "keywords": [
+    "Luggate Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wanaka_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5060
+  }
+}

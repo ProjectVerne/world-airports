@@ -1,0 +1,34 @@
+{
+  "key": "vosr",
+  "codes": {
+    "icao": "VOSR",
+    "iata": "SDW",
+    "gps": "VOSR",
+    "local": null
+  },
+  "name": "Sindhudurg Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.002552,
+    "longitude": 73.529846,
+    "elevation_ft": 203,
+    "iso_country": "IN",
+    "iso_region": "IN-MM",
+    "municipality": "Chipi"
+  },
+  "keywords": [
+    "VA85",
+    "IN-0107"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sindhudurg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331218
+  }
+}

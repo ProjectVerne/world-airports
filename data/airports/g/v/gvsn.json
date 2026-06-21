@@ -1,0 +1,33 @@
+{
+  "key": "gvsn",
+  "codes": {
+    "icao": "GVSN",
+    "iata": "SNE",
+    "gps": "GVSN",
+    "local": null
+  },
+  "name": "Preguiça Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.588852,
+    "longitude": -24.284132,
+    "elevation_ft": 669,
+    "iso_country": "CV",
+    "iso_region": "CV-B",
+    "municipality": "Preguiça"
+  },
+  "keywords": [
+    "Sao Nicolau Island"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pregui%C3%A7a_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3154
+  }
+}

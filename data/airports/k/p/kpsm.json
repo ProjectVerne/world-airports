@@ -1,0 +1,31 @@
+{
+  "key": "kpsm",
+  "codes": {
+    "icao": "KPSM",
+    "iata": "PSM",
+    "gps": "KPSM",
+    "local": "PSM"
+  },
+  "name": "Portsmouth International Airport at Pease",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.0779,
+    "longitude": -70.823303,
+    "elevation_ft": 100,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Portsmouth"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pease_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3791
+  }
+}

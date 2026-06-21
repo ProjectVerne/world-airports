@@ -1,0 +1,33 @@
+{
+  "key": "fgsl",
+  "codes": {
+    "icao": "FGSL",
+    "iata": "SSG",
+    "gps": "FGSL",
+    "local": null
+  },
+  "name": "Malabo International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 3.75527,
+    "longitude": 8.70872,
+    "elevation_ft": 76,
+    "iso_country": "GQ",
+    "iso_region": "GQ-BN",
+    "municipality": "Malabo"
+  },
+  "keywords": [
+    "Fernando Poo"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Malabo_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2876
+  }
+}

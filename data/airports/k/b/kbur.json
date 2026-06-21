@@ -1,0 +1,36 @@
+{
+  "key": "kbur",
+  "codes": {
+    "icao": "KBUR",
+    "iata": "BUR",
+    "gps": "KBUR",
+    "local": "BUR"
+  },
+  "name": "Hollywood Burbank/Bob Hope Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.202834,
+    "longitude": -118.35805,
+    "elevation_ft": 778,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Burbank"
+  },
+  "keywords": [
+    "United Airport",
+    "Union Air Terminal",
+    "Lockheed Air Terminal",
+    "Burbank–Glendale–Pasadena"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hollywood_Burbank_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3432
+  }
+}

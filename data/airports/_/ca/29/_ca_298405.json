@@ -1,0 +1,30 @@
+{
+  "key": "_ca_298405",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CWG2",
+    "local": "CWG2"
+  },
+  "name": "Winnipeg (City of Winnipeg) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.900473,
+    "longitude": -97.095553,
+    "elevation_ft": 763,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Winnipeg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 298405
+  }
+}

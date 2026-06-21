@@ -1,0 +1,30 @@
+{
+  "key": "kpoy",
+  "codes": {
+    "icao": "KPOY",
+    "iata": "POY",
+    "gps": "KPOY",
+    "local": "POY"
+  },
+  "name": "Powell Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.867199,
+    "longitude": -108.792999,
+    "elevation_ft": 5092,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Powell"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20857
+  }
+}

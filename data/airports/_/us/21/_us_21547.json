@@ -1,0 +1,30 @@
+{
+  "key": "_us_21547",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LA80",
+    "local": "LA80"
+  },
+  "name": "Popeyes Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.9683,
+    "longitude": -90.182297,
+    "elevation_ft": 6,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "New Orleans"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21547
+  }
+}

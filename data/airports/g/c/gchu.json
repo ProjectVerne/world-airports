@@ -1,0 +1,30 @@
+{
+  "key": "gchu",
+  "codes": {
+    "icao": "GCHU",
+    "iata": null,
+    "gps": "GCHU",
+    "local": null
+  },
+  "name": "Universitario de Canarias Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.456101,
+    "longitude": -16.291888,
+    "elevation_ft": 1080,
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "Santa Cruz de Tenerife"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43272
+  }
+}

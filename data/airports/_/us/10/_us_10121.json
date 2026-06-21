@@ -1,0 +1,30 @@
+{
+  "key": "_us_10121",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "34WA",
+    "local": "34WA"
+  },
+  "name": "Orbit Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.567902,
+    "longitude": -122.319,
+    "elevation_ft": 22,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Washougal"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10121
+  }
+}

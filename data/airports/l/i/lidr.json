@@ -1,0 +1,35 @@
+{
+  "key": "lidr",
+  "codes": {
+    "icao": "LIDR",
+    "iata": "RAN",
+    "gps": "LIDR",
+    "local": "RA06"
+  },
+  "name": "Ravenna Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.364291,
+    "longitude": 12.224996,
+    "elevation_ft": 1,
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Ravenna (RA)"
+  },
+  "keywords": [
+    "Foligno",
+    "Gastone Novelli",
+    "Ravenna Aero Club"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ravenna%20Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4328
+  }
+}

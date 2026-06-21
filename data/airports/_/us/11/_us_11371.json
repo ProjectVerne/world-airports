@@ -1,0 +1,32 @@
+{
+  "key": "_us_11371",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4CA5",
+    "local": "4CA5"
+  },
+  "name": "Children's Hospital of Orange County Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.781502,
+    "longitude": -117.865598,
+    "elevation_ft": 275,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Orange"
+  },
+  "keywords": [
+    "CHOC"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11371
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "khve",
+  "codes": {
+    "icao": "KHVE",
+    "iata": "HVE",
+    "gps": "KHVE",
+    "local": "HVE"
+  },
+  "name": "Hanksville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.417999,
+    "longitude": -110.704002,
+    "elevation_ft": 4444,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Hanksville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20098
+  }
+}

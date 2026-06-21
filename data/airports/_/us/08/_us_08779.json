@@ -1,0 +1,33 @@
+{
+  "key": "_us_08779",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "20CA",
+    "local": "20CA"
+  },
+  "name": "Clayton Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.603665,
+    "longitude": -114.644587,
+    "elevation_ft": 261,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Blythe"
+  },
+  "keywords": [
+    "blythe",
+    "clayton"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8779
+  }
+}

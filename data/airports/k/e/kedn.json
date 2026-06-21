@@ -1,0 +1,31 @@
+{
+  "key": "kedn",
+  "codes": {
+    "icao": "KEDN",
+    "iata": "ETS",
+    "gps": "KEDN",
+    "local": "EDN"
+  },
+  "name": "Enterprise Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.2997,
+    "longitude": -85.899902,
+    "elevation_ft": 361,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Enterprise"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Enterprise_Municipal_Airport_(Alabama)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19726
+  }
+}

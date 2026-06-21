@@ -1,0 +1,30 @@
+{
+  "key": "_us_17799",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID21",
+    "local": "ID21"
+  },
+  "name": "Smith Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.756302,
+    "longitude": -117.024002,
+    "elevation_ft": 2370,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Hauser Lake"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17799
+  }
+}

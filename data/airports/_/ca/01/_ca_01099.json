@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01099",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJN3",
+    "local": "CJN3"
+  },
+  "name": "Ignace Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.406399,
+    "longitude": -91.634697,
+    "elevation_ft": 1500,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Ignace"
+  },
+  "keywords": [
+    "JN3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1099
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "eday",
+  "codes": {
+    "icao": "EDAY",
+    "iata": null,
+    "gps": "EDAY",
+    "local": null
+  },
+  "name": "Strausberg Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.580555,
+    "longitude": 13.916667,
+    "elevation_ft": 262,
+    "iso_country": "DE",
+    "iso_region": "DE-BR",
+    "municipality": "Strausberg"
+  },
+  "keywords": [
+    "QPK"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Strausberg",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2194
+  }
+}

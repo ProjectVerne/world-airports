@@ -1,0 +1,32 @@
+{
+  "key": "_us_345278",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "31LL",
+    "local": "31LL"
+  },
+  "name": "Wilco Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.934226,
+    "longitude": -89.365041,
+    "elevation_ft": 805,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Oregon"
+  },
+  "keywords": [
+    "US-4396"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345278
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ksef",
+  "codes": {
+    "icao": "KSEF",
+    "iata": "SEF",
+    "gps": "KSEF",
+    "local": "SEF"
+  },
+  "name": "Sebring Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.4564,
+    "longitude": -81.3424,
+    "elevation_ft": 62,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Sebring"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sebring_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21048
+  }
+}

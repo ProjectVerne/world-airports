@@ -1,0 +1,34 @@
+{
+  "key": "kfme",
+  "codes": {
+    "icao": "KFME",
+    "iata": "FME",
+    "gps": "KFME",
+    "local": "FME"
+  },
+  "name": "Fort Meade Executive Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.0854,
+    "longitude": -76.759399,
+    "elevation_ft": 150,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Fort Meade(Odenton)"
+  },
+  "keywords": [
+    "Fort George G. Meade Army Airfield",
+    "Tipton Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tipton_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3534
+  }
+}

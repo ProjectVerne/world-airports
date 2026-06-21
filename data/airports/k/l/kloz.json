@@ -1,0 +1,31 @@
+{
+  "key": "kloz",
+  "codes": {
+    "icao": "KLOZ",
+    "iata": "LOZ",
+    "gps": "KLOZ",
+    "local": "LOZ"
+  },
+  "name": "London-Corbin Airport/Magee Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.082199,
+    "longitude": -84.0849,
+    "elevation_ft": 1212,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "London"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/London-Corbin_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3650
+  }
+}

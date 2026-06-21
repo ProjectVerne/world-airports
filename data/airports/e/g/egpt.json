@@ -1,0 +1,31 @@
+{
+  "key": "egpt",
+  "codes": {
+    "icao": "EGPT",
+    "iata": "PSL",
+    "gps": "EGPT",
+    "local": null
+  },
+  "name": "Perth/Scone Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.439201,
+    "longitude": -3.37222,
+    "elevation_ft": 397,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Perth, Perth and Kinross"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Perth_Airport_(Scotland)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29175
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_23980",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA09",
+    "local": "PA09"
+  },
+  "name": "Hendrick Landing Area Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.571499,
+    "longitude": -75.507401,
+    "elevation_ft": 1100,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Carbondale"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23980
+  }
+}

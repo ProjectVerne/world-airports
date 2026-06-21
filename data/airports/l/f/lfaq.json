@@ -1,0 +1,34 @@
+{
+  "key": "lfaq",
+  "codes": {
+    "icao": "LFAQ",
+    "iata": "BYF",
+    "gps": "LFAQ",
+    "local": null
+  },
+  "name": "Albert Bray airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.970049,
+    "longitude": 2.693939,
+    "elevation_ft": 364,
+    "iso_country": "FR",
+    "iso_region": "FR-HDF",
+    "municipality": "Albert"
+  },
+  "keywords": [
+    "Albert-Bray",
+    "Amiens-Henry Potez"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Albert_%E2%80%93_Picardie_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4054
+  }
+}

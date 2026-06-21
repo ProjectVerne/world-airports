@@ -1,0 +1,33 @@
+{
+  "key": "lbwn",
+  "codes": {
+    "icao": "LBWN",
+    "iata": "VAR",
+    "gps": "LBWN",
+    "local": null
+  },
+  "name": "Varna Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.232101,
+    "longitude": 27.8251,
+    "elevation_ft": 230,
+    "iso_country": "BG",
+    "iso_region": "BG-03",
+    "municipality": "Varna"
+  },
+  "keywords": [
+    "Aksakovo"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Varna_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3979
+  }
+}

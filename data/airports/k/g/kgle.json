@@ -1,0 +1,31 @@
+{
+  "key": "kgle",
+  "codes": {
+    "icao": "KGLE",
+    "iata": "GLE",
+    "gps": "KGLE",
+    "local": "GLE"
+  },
+  "name": "Gainesville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.651402,
+    "longitude": -97.196999,
+    "elevation_ft": 845,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Gainesville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gainesville_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19957
+  }
+}

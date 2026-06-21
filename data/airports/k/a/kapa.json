@@ -1,0 +1,33 @@
+{
+  "key": "kapa",
+  "codes": {
+    "icao": "KAPA",
+    "iata": "APA",
+    "gps": "KAPA",
+    "local": "APA"
+  },
+  "name": "Centennial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.570099,
+    "longitude": -104.848999,
+    "elevation_ft": 5885,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Denver"
+  },
+  "keywords": [
+    "Arapahoe County Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Centennial_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19291
+  }
+}

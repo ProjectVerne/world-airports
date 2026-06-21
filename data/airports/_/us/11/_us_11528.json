@@ -1,0 +1,32 @@
+{
+  "key": "_us_11528",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Dow Jones Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.163838,
+    "longitude": -72.552656,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Chicopee"
+  },
+  "keywords": [
+    "4MA2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11528
+  }
+}

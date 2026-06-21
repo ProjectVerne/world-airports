@@ -1,0 +1,30 @@
+{
+  "key": "klms",
+  "codes": {
+    "icao": "KLMS",
+    "iata": "LMS",
+    "gps": "KLMS",
+    "local": "LMS"
+  },
+  "name": "Louisville Winston County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.146198,
+    "longitude": -89.0625,
+    "elevation_ft": 575,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Louisville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20356
+  }
+}

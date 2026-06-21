@@ -1,0 +1,30 @@
+{
+  "key": "lpem",
+  "codes": {
+    "icao": "LPEM",
+    "iata": null,
+    "gps": "LPEM",
+    "local": null
+  },
+  "name": "EMFA Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.738453,
+    "longitude": -9.21507,
+    "elevation_ft": 464,
+    "iso_country": "PT",
+    "iso_region": "PT-11",
+    "municipality": "Alfragida"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599011
+  }
+}

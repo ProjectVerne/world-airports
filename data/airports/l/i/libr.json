@@ -1,0 +1,36 @@
+{
+  "key": "libr",
+  "codes": {
+    "icao": "LIBR",
+    "iata": "BDS",
+    "gps": "LIBR",
+    "local": "BR03"
+  },
+  "name": "Brindisi Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.6576,
+    "longitude": 17.947001,
+    "elevation_ft": 47,
+    "iso_country": "IT",
+    "iso_region": "IT-75",
+    "municipality": "Brindisi"
+  },
+  "keywords": [
+    "Brindisi Papola Casale Airport",
+    "Brindisi Salento Airport",
+    "Brindisi Casale Antonio Papolo Airport",
+    "Salento Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brindisi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4315
+  }
+}

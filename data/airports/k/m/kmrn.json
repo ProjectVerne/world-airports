@@ -1,0 +1,33 @@
+{
+  "key": "kmrn",
+  "codes": {
+    "icao": "KMRN",
+    "iata": "MRN",
+    "gps": "KMRN",
+    "local": "MRN"
+  },
+  "name": "Foothills Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.820202,
+    "longitude": -81.611397,
+    "elevation_ft": 1270,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Morganton"
+  },
+  "keywords": [
+    "Morganton-Lenoir"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Foothills_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20561
+  }
+}

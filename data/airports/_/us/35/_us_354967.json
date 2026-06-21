@@ -1,0 +1,32 @@
+{
+  "key": "_us_354967",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Jenkins Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 33.69516,
+    "longitude": -100.87875,
+    "elevation_ft": 2758,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dickens"
+  },
+  "keywords": [
+    "US-6858"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 354967
+  }
+}

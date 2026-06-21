@@ -1,0 +1,33 @@
+{
+  "key": "_us_21200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KTKV",
+    "local": "TKV"
+  },
+  "name": "Tomahawk Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.469101,
+    "longitude": -89.805702,
+    "elevation_ft": 1487,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Tomahawk"
+  },
+  "keywords": [
+    "WI46"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tomahawk_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21200
+  }
+}

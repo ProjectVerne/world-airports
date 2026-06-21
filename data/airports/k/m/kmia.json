@@ -1,0 +1,36 @@
+{
+  "key": "kmia",
+  "codes": {
+    "icao": "KMIA",
+    "iata": "MIA",
+    "gps": "KMIA",
+    "local": "MIA"
+  },
+  "name": "Miami International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.796011,
+    "longitude": -80.289751,
+    "elevation_ft": 8,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Miami"
+  },
+  "keywords": [
+    "MFW",
+    "South Florida",
+    "Wilcox Field",
+    "Pan American Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Miami_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3685
+  }
+}

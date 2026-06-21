@@ -1,0 +1,33 @@
+{
+  "key": "_us_25458",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Smith Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.927898,
+    "longitude": -77.562798,
+    "elevation_ft": 365,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Arcola"
+  },
+  "keywords": [
+    "VG23",
+    "US-12364"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25458
+  }
+}

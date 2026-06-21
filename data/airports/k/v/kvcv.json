@@ -1,0 +1,34 @@
+{
+  "key": "kvcv",
+  "codes": {
+    "icao": "KVCV",
+    "iata": "VCV",
+    "gps": "KVCV",
+    "local": "VCV"
+  },
+  "name": "Southern California Logistics Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.5975,
+    "longitude": -117.383003,
+    "elevation_ft": 2885,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Victorville"
+  },
+  "keywords": [
+    "George AFB",
+    "Victorville Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Southern_California_Logistics_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21315
+  }
+}

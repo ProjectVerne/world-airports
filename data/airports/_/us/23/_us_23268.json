@@ -1,0 +1,32 @@
+{
+  "key": "_us_23268",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM50",
+    "local": "NM50"
+  },
+  "name": "Lovelace Westside Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.206811,
+    "longitude": -106.676181,
+    "elevation_ft": 5218,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Albuquerque"
+  },
+  "keywords": [
+    "St Joseph West Mesa Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23268
+  }
+}

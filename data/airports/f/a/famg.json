@@ -1,0 +1,31 @@
+{
+  "key": "famg",
+  "codes": {
+    "icao": "FAMG",
+    "iata": "MGH",
+    "gps": "FAMG",
+    "local": null
+  },
+  "name": "Margate Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -30.857401,
+    "longitude": 30.343,
+    "elevation_ft": 495,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Margate"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Margate_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2809
+  }
+}

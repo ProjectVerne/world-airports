@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01310",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNH9",
+    "local": "CNH9"
+  },
+  "name": "Nanaimo (West Coast) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.184838,
+    "longitude": -123.989171,
+    "elevation_ft": 200,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Nanaimo"
+  },
+  "keywords": [
+    "NH9"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1310
+  }
+}

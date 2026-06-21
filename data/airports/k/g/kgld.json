@@ -1,0 +1,33 @@
+{
+  "key": "kgld",
+  "codes": {
+    "icao": "KGLD",
+    "iata": "GLD",
+    "gps": "KGLD",
+    "local": "GLD"
+  },
+  "name": "Goodland Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.370701,
+    "longitude": -101.699753,
+    "elevation_ft": 3656,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Goodland"
+  },
+  "keywords": [
+    "Renner Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Goodland_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19956
+  }
+}

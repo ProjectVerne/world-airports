@@ -1,0 +1,31 @@
+{
+  "key": "kolm",
+  "codes": {
+    "icao": "KOLM",
+    "iata": "OLM",
+    "gps": "KOLM",
+    "local": "OLM"
+  },
+  "name": "Olympia Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.969399,
+    "longitude": -122.903,
+    "elevation_ft": 209,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Olympia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Olympia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3749
+  }
+}

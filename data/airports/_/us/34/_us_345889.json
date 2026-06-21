@@ -1,0 +1,32 @@
+{
+  "key": "_us_345889",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "NASA Michoud Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.01918,
+    "longitude": -89.91717,
+    "elevation_ft": 1,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "New Orleans"
+  },
+  "keywords": [
+    "US-4607"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345889
+  }
+}

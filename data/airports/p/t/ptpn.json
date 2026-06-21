@@ -1,0 +1,33 @@
+{
+  "key": "ptpn",
+  "codes": {
+    "icao": "PTPN",
+    "iata": "PNI",
+    "gps": "PTPN",
+    "local": "PNI"
+  },
+  "name": "Pohnpei International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.985082,
+    "longitude": 158.20992,
+    "elevation_ft": 10,
+    "iso_country": "FM",
+    "iso_region": "FM-PNI",
+    "municipality": "Pohnpei Island"
+  },
+  "keywords": [
+    "Ponape"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pohnpei_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5500
+  }
+}

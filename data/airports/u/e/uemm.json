@@ -1,0 +1,34 @@
+{
+  "key": "uemm",
+  "codes": {
+    "icao": "UEMM",
+    "iata": "GYG",
+    "gps": "UEMM",
+    "local": null
+  },
+  "name": "Magan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.103484,
+    "longitude": 129.545288,
+    "elevation_ft": 577,
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Magan"
+  },
+  "keywords": [
+    "УЕММ",
+    "Маган"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Magan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42979
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "umms",
+  "codes": {
+    "icao": "UMMS",
+    "iata": "MSQ",
+    "gps": "UMMS",
+    "local": null
+  },
+  "name": "Minsk National Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.888071,
+    "longitude": 28.039964,
+    "elevation_ft": 670,
+    "iso_country": "BY",
+    "iso_region": "BY-MI",
+    "municipality": "Minsk"
+  },
+  "keywords": [
+    "Нацыянальны аэрапорт",
+    "Minsk 2 Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6501
+  }
+}

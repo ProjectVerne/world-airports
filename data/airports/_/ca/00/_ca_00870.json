@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00870",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CEL4",
+    "local": "CEL4"
+  },
+  "name": "Hanna Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.632158,
+    "longitude": -111.904651,
+    "elevation_ft": 2738,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Hanna"
+  },
+  "keywords": [
+    "EL4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hanna_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 870
+  }
+}

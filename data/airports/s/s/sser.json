@@ -1,0 +1,31 @@
+{
+  "key": "sser",
+  "codes": {
+    "icao": "SSER",
+    "iata": "ERM",
+    "gps": "SSER",
+    "local": "RS0018"
+  },
+  "name": "Erechim Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.663614,
+    "longitude": -52.271489,
+    "elevation_ft": 2498,
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Erechim"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Erechim_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 449
+  }
+}

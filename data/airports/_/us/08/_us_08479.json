@@ -1,0 +1,30 @@
+{
+  "key": "_us_08479",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MS1",
+    "local": "1MS1"
+  },
+  "name": "Neshoba General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.756061,
+    "longitude": -89.106336,
+    "elevation_ft": 388,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Philadelphia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8479
+  }
+}

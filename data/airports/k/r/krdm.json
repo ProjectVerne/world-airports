@@ -1,0 +1,31 @@
+{
+  "key": "krdm",
+  "codes": {
+    "icao": "KRDM",
+    "iata": "RDM",
+    "gps": "KRDM",
+    "local": "RDM"
+  },
+  "name": "Roberts Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.254101,
+    "longitude": -121.150002,
+    "elevation_ft": 3080,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Redmond"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Roberts_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3843
+  }
+}

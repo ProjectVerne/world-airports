@@ -1,0 +1,32 @@
+{
+  "key": "_us_08502",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Short Air Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.650929,
+    "longitude": -93.778873,
+    "elevation_ft": 840,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Warrensburg"
+  },
+  "keywords": [
+    "1MU4"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8502
+  }
+}

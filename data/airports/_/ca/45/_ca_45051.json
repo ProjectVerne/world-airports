@@ -1,0 +1,32 @@
+{
+  "key": "_ca_45051",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CLC3",
+    "local": null
+  },
+  "name": "Calgary (Peter Lougheed Centre) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.079527,
+    "longitude": -113.982634,
+    "elevation_ft": 3562,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Calgary"
+  },
+  "keywords": [
+    "LC3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45051
+  }
+}

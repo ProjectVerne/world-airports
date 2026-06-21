@@ -1,0 +1,34 @@
+{
+  "key": "lrcs",
+  "codes": {
+    "icao": "LRCS",
+    "iata": "CSB",
+    "gps": "LRCS",
+    "local": null
+  },
+  "name": "Caransebeş Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.420142,
+    "longitude": 22.252507,
+    "elevation_ft": 866,
+    "iso_country": "RO",
+    "iso_region": "RO-CS",
+    "municipality": "Caransebeş"
+  },
+  "keywords": [
+    "Caransebes",
+    "Reşiţa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Caransebe%C5%9F_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4477
+  }
+}

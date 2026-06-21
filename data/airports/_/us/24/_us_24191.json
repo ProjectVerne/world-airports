@@ -1,0 +1,33 @@
+{
+  "key": "_us_24191",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Brandon Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.875963,
+    "longitude": -80.032137,
+    "elevation_ft": 1290,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Prospect"
+  },
+  "keywords": [
+    "PN85",
+    "US-12108"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24191
+  }
+}

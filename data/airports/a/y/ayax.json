@@ -1,0 +1,31 @@
+{
+  "key": "ayax",
+  "codes": {
+    "icao": "AYAX",
+    "iata": "AEK",
+    "gps": "AYAX",
+    "local": "ASE"
+  },
+  "name": "Aseki Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.350805,
+    "longitude": 146.193994,
+    "elevation_ft": 4106,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Aseki"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aseki_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 299319
+  }
+}

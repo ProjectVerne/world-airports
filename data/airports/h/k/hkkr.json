@@ -1,0 +1,31 @@
+{
+  "key": "hkkr",
+  "codes": {
+    "icao": "HKKR",
+    "iata": "KEY",
+    "gps": "HKKR",
+    "local": null
+  },
+  "name": "Kericho Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.3899,
+    "longitude": 35.242093,
+    "elevation_ft": 6446,
+    "iso_country": "KE",
+    "iso_region": "KE-35",
+    "municipality": "Kericho"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kericho_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31743
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_20121",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "I16"
+  },
+  "name": "Kee Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.600399,
+    "longitude": -81.559303,
+    "elevation_ft": 1783,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Pineville"
+  },
+  "keywords": [
+    "KI16"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20121
+  }
+}

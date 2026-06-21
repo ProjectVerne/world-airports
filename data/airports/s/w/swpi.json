@@ -1,0 +1,31 @@
+{
+  "key": "swpi",
+  "codes": {
+    "icao": "SWPI",
+    "iata": "PIN",
+    "gps": "SWPI",
+    "local": "AM0006"
+  },
+  "name": "Parintins Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.673521,
+    "longitude": -56.777625,
+    "elevation_ft": 87,
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Parintins"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Parintins_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 571
+  }
+}

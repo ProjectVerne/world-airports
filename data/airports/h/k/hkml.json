@@ -1,0 +1,31 @@
+{
+  "key": "hkml",
+  "codes": {
+    "icao": "HKML",
+    "iata": "MYD",
+    "gps": "HKML",
+    "local": null
+  },
+  "name": "Malindi International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.22931,
+    "longitude": 40.1017,
+    "elevation_ft": 80,
+    "iso_country": "KE",
+    "iso_region": "KE-03",
+    "municipality": "Malindi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Malindi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31988
+  }
+}

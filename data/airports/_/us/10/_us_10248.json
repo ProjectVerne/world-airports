@@ -1,0 +1,32 @@
+{
+  "key": "_us_10248",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "37OK",
+    "local": "37OK"
+  },
+  "name": "Mercy Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.777329,
+    "longitude": -96.633577,
+    "elevation_ft": 1072,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Ada"
+  },
+  "keywords": [
+    "Valley View Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10248
+  }
+}

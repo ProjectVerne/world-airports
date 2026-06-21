@@ -1,0 +1,33 @@
+{
+  "key": "klee",
+  "codes": {
+    "icao": "KLEE",
+    "iata": "LEE",
+    "gps": "KLEE",
+    "local": "LEE"
+  },
+  "name": "Leesburg International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.823099,
+    "longitude": -81.808701,
+    "elevation_ft": 76,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Leesburg"
+  },
+  "keywords": [
+    "Leesburg AAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Leesburg_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20329
+  }
+}

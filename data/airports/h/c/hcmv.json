@@ -1,0 +1,31 @@
+{
+  "key": "hcmv",
+  "codes": {
+    "icao": "HCMV",
+    "iata": "BUO",
+    "gps": "HCMV",
+    "local": null
+  },
+  "name": "Burao Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.5275,
+    "longitude": 45.5549,
+    "elevation_ft": 3400,
+    "iso_country": "SO",
+    "iso_region": "SO-TO",
+    "municipality": "Burao"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Burao_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30802
+  }
+}

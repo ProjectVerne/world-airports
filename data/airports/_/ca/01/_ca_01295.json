@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01295",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNC4",
+    "local": "CNC4"
+  },
+  "name": "Guelph Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.5639,
+    "longitude": -80.196098,
+    "elevation_ft": 1100,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Guelph"
+  },
+  "keywords": [
+    "NC4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Guelph_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1295
+  }
+}

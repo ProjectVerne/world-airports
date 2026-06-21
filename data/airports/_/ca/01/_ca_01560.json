@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01560",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CST3",
+    "local": "CST3"
+  },
+  "name": "Montreal / St-Lazare Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.390328,
+    "longitude": -74.134004,
+    "elevation_ft": 175,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [
+    "ST3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Montr%C3%A9al/St-Lazare_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1560
+  }
+}

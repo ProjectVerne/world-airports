@@ -1,0 +1,35 @@
+{
+  "key": "cyyz",
+  "codes": {
+    "icao": "CYYZ",
+    "iata": "YYZ",
+    "gps": "CYYZ",
+    "local": "YYZ"
+  },
+  "name": "Toronto Pearson International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.675935,
+    "longitude": -79.629421,
+    "elevation_ft": 569,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Toronto"
+  },
+  "keywords": [
+    "YTO",
+    "Toronto International Airport",
+    "Malton"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Toronto_Pearson_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1990
+  }
+}

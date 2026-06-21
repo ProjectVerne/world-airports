@@ -1,0 +1,32 @@
+{
+  "key": "_br_45620",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SJUP",
+    "local": "SC0073"
+  },
+  "name": "Posthaus Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -26.880945,
+    "longitude": -49.138813,
+    "elevation_ft": 105,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Blumenau"
+  },
+  "keywords": [
+    "SNEV"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45620
+  }
+}

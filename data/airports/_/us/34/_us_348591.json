@@ -1,0 +1,32 @@
+{
+  "key": "_us_348591",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OR98",
+    "local": "OR98"
+  },
+  "name": "ODF Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.409444,
+    "longitude": -118.965556,
+    "elevation_ft": 3680,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "John Day"
+  },
+  "keywords": [
+    "US-5480"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 348591
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "nzrn",
+  "codes": {
+    "icao": "NZRN",
+    "iata": null,
+    "gps": "NZRN",
+    "local": null
+  },
+  "name": "Ranfurly Medical Centre Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -45.129662,
+    "longitude": 170.110686,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Ranfurly"
+  },
+  "keywords": [
+    "Ranfurly"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605006
+  }
+}

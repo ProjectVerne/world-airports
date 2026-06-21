@@ -1,0 +1,31 @@
+{
+  "key": "krnd",
+  "codes": {
+    "icao": "KRND",
+    "iata": "RND",
+    "gps": "KRND",
+    "local": "RND"
+  },
+  "name": "Randolph Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.529699,
+    "longitude": -98.2789,
+    "elevation_ft": 761,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Universal City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Randolph_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3852
+  }
+}

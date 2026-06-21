@@ -1,0 +1,31 @@
+{
+  "key": "krpx",
+  "codes": {
+    "icao": "KRPX",
+    "iata": "RPX",
+    "gps": "KRPX",
+    "local": "RPX"
+  },
+  "name": "Roundup Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.475095,
+    "longitude": -108.541497,
+    "elevation_ft": 3500,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Roundup"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Roundup_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20956
+  }
+}

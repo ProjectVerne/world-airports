@@ -1,0 +1,30 @@
+{
+  "key": "_us_09401",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2G6",
+    "local": "2G6"
+  },
+  "name": "Mc Laughlin Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 37.320599,
+    "longitude": -77.345802,
+    "elevation_ft": 7,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Chester"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9401
+  }
+}

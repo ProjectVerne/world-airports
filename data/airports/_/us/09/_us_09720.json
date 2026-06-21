@@ -1,0 +1,30 @@
+{
+  "key": "_us_09720",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2PN2",
+    "local": "2PN2"
+  },
+  "name": "Fortman Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.787498,
+    "longitude": -76.647202,
+    "elevation_ft": 990,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Shrewsbury"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9720
+  }
+}

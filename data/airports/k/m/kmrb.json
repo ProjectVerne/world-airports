@@ -1,0 +1,31 @@
+{
+  "key": "kmrb",
+  "codes": {
+    "icao": "KMRB",
+    "iata": "MRB",
+    "gps": "KMRB",
+    "local": "MRB"
+  },
+  "name": "Eastern WV Regional Airport/Shepherd Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.401901,
+    "longitude": -77.984596,
+    "elevation_ft": 565,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Martinsburg"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Eastern_WV_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3704
+  }
+}

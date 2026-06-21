@@ -1,0 +1,31 @@
+{
+  "key": "sbme",
+  "codes": {
+    "icao": "SBME",
+    "iata": "MEA",
+    "gps": "SBME",
+    "local": "RJ0004"
+  },
+  "name": "Macaé Benedito Lacerda Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.343,
+    "longitude": -41.765999,
+    "elevation_ft": 8,
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Macaé"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Maca%C3%A9_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5937
+  }
+}

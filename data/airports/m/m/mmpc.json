@@ -1,0 +1,33 @@
+{
+  "key": "mmpc",
+  "codes": {
+    "icao": "MMPC",
+    "iata": null,
+    "gps": "MMPC",
+    "local": "PCA"
+  },
+  "name": "Engineer Juan Guillermo Villasana National Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.0774,
+    "longitude": -98.782501,
+    "elevation_ft": 7600,
+    "iso_country": "MX",
+    "iso_region": "MX-HID",
+    "municipality": "Pachuca"
+  },
+  "keywords": [
+    "Aeropuerto Nacional Ingeniero Juan Guillermo Villasana"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ingeniero_Juan_Guillermo_Villasana_National_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4739
+  }
+}

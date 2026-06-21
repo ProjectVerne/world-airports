@@ -1,0 +1,31 @@
+{
+  "key": "fdns",
+  "codes": {
+    "icao": "FDNS",
+    "iata": null,
+    "gps": "FDNS",
+    "local": null
+  },
+  "name": "Nsoko Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.987222,
+    "longitude": 31.937222,
+    "elevation_ft": 614,
+    "iso_country": "SZ",
+    "iso_region": "SZ-LU",
+    "municipality": "Nsoko"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nsoko_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31108
+  }
+}

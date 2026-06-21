@@ -1,0 +1,31 @@
+{
+  "key": "glst",
+  "codes": {
+    "icao": "GLST",
+    "iata": "SAZ",
+    "gps": "GLST",
+    "local": null
+  },
+  "name": "Sasstown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.681845,
+    "longitude": -8.434668,
+    "elevation_ft": 6,
+    "iso_country": "LR",
+    "iso_region": "LR-GK",
+    "municipality": "Sasstown"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sasstown_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43203
+  }
+}

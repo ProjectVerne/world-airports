@@ -1,0 +1,34 @@
+{
+  "key": "llnv",
+  "codes": {
+    "icao": "LLNV",
+    "iata": "VTM",
+    "gps": "LLNV",
+    "local": null
+  },
+  "name": "Nevatim Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.2083,
+    "longitude": 35.012299,
+    "elevation_ft": 1330,
+    "iso_country": "IL",
+    "iso_region": "IL-D",
+    "municipality": "Beersheba"
+  },
+  "keywords": [
+    "Malhata",
+    "Be'er Sheva"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nevatim_Airbase",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4422
+  }
+}

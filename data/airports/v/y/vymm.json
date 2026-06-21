@@ -1,0 +1,31 @@
+{
+  "key": "vymm",
+  "codes": {
+    "icao": "VYMM",
+    "iata": "MNU",
+    "gps": "VYMM",
+    "local": null
+  },
+  "name": "Mawlamyine Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.4447,
+    "longitude": 97.660698,
+    "elevation_ft": 52,
+    "iso_country": "MM",
+    "iso_region": "MM-15",
+    "municipality": "Mawlamyine"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mawlamyaing_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26730
+  }
+}

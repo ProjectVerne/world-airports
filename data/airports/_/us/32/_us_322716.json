@@ -1,0 +1,32 @@
+{
+  "key": "_us_322716",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "GA15",
+    "local": "GA15"
+  },
+  "name": "Air Evac 95 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.39214,
+    "longitude": -81.751583,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Statesboro"
+  },
+  "keywords": [
+    "US-0516"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322716
+  }
+}

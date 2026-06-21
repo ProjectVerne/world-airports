@@ -1,0 +1,35 @@
+{
+  "key": "ktnt",
+  "codes": {
+    "icao": "KTNT",
+    "iata": "TNT",
+    "gps": "KTNT",
+    "local": "TNT"
+  },
+  "name": "Dade Collier Training and Transition Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.861788,
+    "longitude": -80.89701,
+    "elevation_ft": 13,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Miami"
+  },
+  "keywords": [
+    "Everglades Jetport",
+    "Big Cypress Swamp Jetport",
+    "Alligator Alcatraz"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dade-Collier_Training_and_Transition_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21206
+  }
+}

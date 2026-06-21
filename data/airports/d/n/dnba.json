@@ -1,0 +1,34 @@
+{
+  "key": "dnba",
+  "codes": {
+    "icao": "DNBA",
+    "iata": null,
+    "gps": "DNBA",
+    "local": null
+  },
+  "name": "Bauchi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.294402,
+    "longitude": 9.816672,
+    "elevation_ft": 1998,
+    "iso_country": "NG",
+    "iso_region": "NG-BA",
+    "municipality": "Bauchi"
+  },
+  "keywords": [
+    "BCU",
+    "NG-BCU"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bauchi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30689
+  }
+}

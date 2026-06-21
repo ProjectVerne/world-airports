@@ -1,0 +1,33 @@
+{
+  "key": "hego",
+  "codes": {
+    "icao": "HEGO",
+    "iata": null,
+    "gps": "HEGO",
+    "local": null
+  },
+  "name": "El Gouna Private Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.365594,
+    "longitude": 33.668461,
+    "elevation_ft": 39,
+    "iso_country": "EG",
+    "iso_region": "EG-BA",
+    "municipality": "El Gouna"
+  },
+  "keywords": [
+    "El Jona"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Gouna_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3187
+  }
+}

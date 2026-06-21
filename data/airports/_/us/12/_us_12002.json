@@ -1,0 +1,30 @@
+{
+  "key": "_us_12002",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "54KS",
+    "local": "54KS"
+  },
+  "name": "Michael Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.802799,
+    "longitude": -95.112701,
+    "elevation_ft": 1020,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Wellsville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12002
+  }
+}

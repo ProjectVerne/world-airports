@@ -1,0 +1,33 @@
+{
+  "key": "foos",
+  "codes": {
+    "icao": "FOOS",
+    "iata": null,
+    "gps": "FOOS",
+    "local": null
+  },
+  "name": "Sette Cama Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.53732,
+    "longitude": 9.76386,
+    "elevation_ft": 10,
+    "iso_country": "GA",
+    "iso_region": "GA-8",
+    "municipality": "Sette Cama"
+  },
+  "keywords": [
+    "ZKM"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sett%C3%A9_Cama_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32747
+  }
+}

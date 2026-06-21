@@ -1,0 +1,35 @@
+{
+  "key": "bgsq",
+  "codes": {
+    "icao": "BGSQ",
+    "iata": null,
+    "gps": "BGSQ",
+    "local": null
+  },
+  "name": "Saqqaq Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 70.011448,
+    "longitude": -51.932142,
+    "elevation_ft": 38,
+    "iso_country": "GL",
+    "iso_region": "GL-AV",
+    "municipality": "Saqqaq"
+  },
+  "keywords": [
+    "QUP",
+    "Sarqaq",
+    "Solsiden"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saqqaq_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35301
+  }
+}

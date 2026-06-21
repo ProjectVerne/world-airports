@@ -1,0 +1,32 @@
+{
+  "key": "seac",
+  "codes": {
+    "icao": "SEAC",
+    "iata": null,
+    "gps": "SEAC",
+    "local": null
+  },
+  "name": "Acado Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.397507,
+    "longitude": -77.19885,
+    "elevation_ft": 1102,
+    "iso_country": "EC",
+    "iso_region": "EC-Y",
+    "municipality": "Acado"
+  },
+  "keywords": [
+    "Tono Akoro"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 512193
+  }
+}

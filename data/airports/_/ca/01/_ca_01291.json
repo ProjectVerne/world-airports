@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01291",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNB2",
+    "local": "CNB2"
+  },
+  "name": "Bolton Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.852161,
+    "longitude": -79.694822,
+    "elevation_ft": 700,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Bolton"
+  },
+  "keywords": [
+    "NB2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1291
+  }
+}

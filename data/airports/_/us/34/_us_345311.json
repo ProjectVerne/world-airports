@@ -1,0 +1,32 @@
+{
+  "key": "_us_345311",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "San Diego Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 27.7436,
+    "longitude": -98.25392,
+    "elevation_ft": 341,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "San Diego"
+  },
+  "keywords": [
+    "US-4408"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345311
+  }
+}

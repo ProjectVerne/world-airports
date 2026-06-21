@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00906",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CEV3",
+    "local": "CEV3"
+  },
+  "name": "Vegreville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.5144,
+    "longitude": -112.027,
+    "elevation_ft": 2072,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Vegreville"
+  },
+  "keywords": [
+    "EV3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vegreville_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 906
+  }
+}

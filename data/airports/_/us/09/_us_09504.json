@@ -1,0 +1,32 @@
+{
+  "key": "_us_09504",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2KY7",
+    "local": "2KY7"
+  },
+  "name": "Taylor County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.367612,
+    "longitude": -85.336491,
+    "elevation_ft": 872,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Campbellsville"
+  },
+  "keywords": [
+    "Air Evac 43 Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9504
+  }
+}

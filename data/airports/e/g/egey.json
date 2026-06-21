@@ -1,0 +1,33 @@
+{
+  "key": "egey",
+  "codes": {
+    "icao": "EGEY",
+    "iata": "CSA",
+    "gps": "EGEY",
+    "local": null
+  },
+  "name": "Colonsay Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.057499,
+    "longitude": -6.24306,
+    "elevation_ft": 44,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Colonsay"
+  },
+  "keywords": [
+    "Machrins"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Colonsay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44409
+  }
+}

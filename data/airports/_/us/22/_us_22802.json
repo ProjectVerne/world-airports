@@ -1,0 +1,32 @@
+{
+  "key": "_us_22802",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NC60",
+    "local": "NC60"
+  },
+  "name": "Atrium Health Cabarrus Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.435101,
+    "longitude": -80.601382,
+    "elevation_ft": 711,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Concord"
+  },
+  "keywords": [
+    "CHS Northeast Medical Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22802
+  }
+}

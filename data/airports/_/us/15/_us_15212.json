@@ -1,0 +1,33 @@
+{
+  "key": "_us_15212",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Edwards Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 31.344642,
+    "longitude": -98.615272,
+    "elevation_ft": 1300,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Goldthwaite"
+  },
+  "keywords": [
+    "8TX3",
+    "US-10912"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15212
+  }
+}

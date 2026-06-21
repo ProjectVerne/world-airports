@@ -1,0 +1,30 @@
+{
+  "key": "fxls",
+  "codes": {
+    "icao": "FXLS",
+    "iata": "LES",
+    "gps": "FXLS",
+    "local": null
+  },
+  "name": "Lesobeng Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.755583,
+    "longitude": 28.357054,
+    "elevation_ft": 7130,
+    "iso_country": "LS",
+    "iso_region": "LS-F",
+    "municipality": "Lesobeng"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31808
+  }
+}

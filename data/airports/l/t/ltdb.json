@@ -1,0 +1,33 @@
+{
+  "key": "ltdb",
+  "codes": {
+    "icao": "LTDB",
+    "iata": "COV",
+    "gps": "LTDB",
+    "local": null
+  },
+  "name": "Çukurova International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.891478,
+    "longitude": 35.071235,
+    "elevation_ft": 35,
+    "iso_country": "TR",
+    "iso_region": "TR-33",
+    "municipality": "Tarsus"
+  },
+  "keywords": [
+    "Çukurova International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/%C3%87ukurova_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 324731
+  }
+}

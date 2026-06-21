@@ -1,0 +1,33 @@
+{
+  "key": "pabi",
+  "codes": {
+    "icao": "PABI",
+    "iata": "BIG",
+    "gps": "PABI",
+    "local": "BIG"
+  },
+  "name": "Allen Army Airfield",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.994499,
+    "longitude": -145.722,
+    "elevation_ft": 1291,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Delta Junction Ft Greely"
+  },
+  "keywords": [
+    "Big Delta Army Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Allen_Army_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5339
+  }
+}

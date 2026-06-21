@@ -1,0 +1,33 @@
+{
+  "key": "essf",
+  "codes": {
+    "icao": "ESSF",
+    "iata": "HLF",
+    "gps": "ESSF",
+    "local": null
+  },
+  "name": "Hultsfred Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.525799,
+    "longitude": 15.8233,
+    "elevation_ft": 366,
+    "iso_country": "SE",
+    "iso_region": "SE-H",
+    "municipality": "Hultsfred"
+  },
+  "keywords": [
+    "Hultsfred-Vimmerby"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hultsfred_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2704
+  }
+}

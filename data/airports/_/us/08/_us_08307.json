@@ -1,0 +1,30 @@
+{
+  "key": "_us_08307",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1GE1",
+    "local": "1GE1"
+  },
+  "name": "Georgia Mountain Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.828098,
+    "longitude": -84.354698,
+    "elevation_ft": 1600,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Blue Ridge"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8307
+  }
+}

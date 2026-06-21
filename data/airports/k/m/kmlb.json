@@ -1,0 +1,31 @@
+{
+  "key": "kmlb",
+  "codes": {
+    "icao": "KMLB",
+    "iata": "MLB",
+    "gps": "KMLB",
+    "local": "MLB"
+  },
+  "name": "Melbourne Orlando International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.102009,
+    "longitude": -80.641088,
+    "elevation_ft": 33,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Melbourne"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Melbourne_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3693
+  }
+}

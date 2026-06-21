@@ -1,0 +1,35 @@
+{
+  "key": "entc",
+  "codes": {
+    "icao": "ENTC",
+    "iata": "TOS",
+    "gps": "ENTC",
+    "local": null
+  },
+  "name": "Tromsø Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 69.683296,
+    "longitude": 18.9189,
+    "elevation_ft": 31,
+    "iso_country": "NO",
+    "iso_region": "NO-55",
+    "municipality": "Tromsø"
+  },
+  "keywords": [
+    "Langnes",
+    "Tromsøya",
+    "Tromso"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Troms%C3%B8_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2599
+  }
+}

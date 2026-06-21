@@ -1,0 +1,31 @@
+{
+  "key": "oppc",
+  "codes": {
+    "icao": "OPPC",
+    "iata": "PAJ",
+    "gps": "OPPC",
+    "local": null
+  },
+  "name": "Parachinar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.9021,
+    "longitude": 70.071602,
+    "elevation_ft": 5800,
+    "iso_country": "PK",
+    "iso_region": "PK-KP",
+    "municipality": "Parachinar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Parachinar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32145
+  }
+}

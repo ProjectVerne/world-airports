@@ -1,0 +1,30 @@
+{
+  "key": "aybp",
+  "codes": {
+    "icao": "AYBP",
+    "iata": "BPD",
+    "gps": "AYBP",
+    "local": "BAPI"
+  },
+  "name": "Bapi Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.743611,
+    "longitude": 147.020556,
+    "elevation_ft": 2930,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Bapi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301792
+  }
+}

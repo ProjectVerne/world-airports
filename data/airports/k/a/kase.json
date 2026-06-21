@@ -1,0 +1,31 @@
+{
+  "key": "kase",
+  "codes": {
+    "icao": "KASE",
+    "iata": "ASE",
+    "gps": "KASE",
+    "local": "ASE"
+  },
+  "name": "Aspen-Pitkin County Airport (Sardy Field)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.223202,
+    "longitude": -106.869003,
+    "elevation_ft": 7820,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Aspen"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aspen%E2%80%93Pitkin_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19308
+  }
+}

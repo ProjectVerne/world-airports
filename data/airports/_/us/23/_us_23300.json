@@ -1,0 +1,33 @@
+{
+  "key": "_us_23300",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "KRQE Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 35.066702,
+    "longitude": -106.649918,
+    "elevation_ft": 5000,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Albuquerque"
+  },
+  "keywords": [
+    "NM82",
+    "US-11924"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23300
+  }
+}

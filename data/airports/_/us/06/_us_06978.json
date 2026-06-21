@@ -1,0 +1,32 @@
+{
+  "key": "_us_06978",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "08II",
+    "local": "08II"
+  },
+  "name": "Parkview Lagrange Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.645085,
+    "longitude": -85.426386,
+    "elevation_ft": 943,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Lagrange"
+  },
+  "keywords": [
+    "Lagrange Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6978
+  }
+}

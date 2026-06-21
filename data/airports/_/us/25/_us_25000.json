@@ -1,0 +1,33 @@
+{
+  "key": "_us_25000",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Walden Ridge Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 35.798753,
+    "longitude": -84.763705,
+    "elevation_ft": 820,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Rockwood"
+  },
+  "keywords": [
+    "TN86",
+    "US-12253"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25000
+  }
+}

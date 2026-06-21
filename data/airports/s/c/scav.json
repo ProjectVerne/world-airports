@@ -1,0 +1,33 @@
+{
+  "key": "scav",
+  "codes": {
+    "icao": "SCAV",
+    "iata": null,
+    "gps": "SCAV",
+    "local": null
+  },
+  "name": "Achibueno Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -36.141999,
+    "longitude": -71.374,
+    "elevation_ft": 1673,
+    "iso_country": "CL",
+    "iso_region": "CL-ML",
+    "municipality": "Linares"
+  },
+  "keywords": [
+    "CL-0012"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Achibueno_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 348523
+  }
+}

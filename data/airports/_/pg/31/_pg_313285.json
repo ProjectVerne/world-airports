@@ -1,0 +1,33 @@
+{
+  "key": "_pg_313285",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Ileg Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": -5.4917,
+    "longitude": 145.8022,
+    "elevation_ft": 60,
+    "iso_country": "PG",
+    "iso_region": "PG-MPM",
+    "municipality": "Ileg"
+  },
+  "keywords": [
+    "ILX",
+    "PG-0136"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 313285
+  }
+}

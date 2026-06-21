@@ -1,0 +1,31 @@
+{
+  "key": "ksas",
+  "codes": {
+    "icao": "KSAS",
+    "iata": "SAS",
+    "gps": "KSAS",
+    "local": "SAS"
+  },
+  "name": "Salton Sea Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.241402,
+    "longitude": -115.952003,
+    "elevation_ft": -84,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Salton City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Salton_Sea_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24397
+  }
+}

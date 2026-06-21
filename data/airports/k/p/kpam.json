@@ -1,0 +1,31 @@
+{
+  "key": "kpam",
+  "codes": {
+    "icao": "KPAM",
+    "iata": "PAM",
+    "gps": "KPAM",
+    "local": "PAM"
+  },
+  "name": "Tyndall Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.069599,
+    "longitude": -85.575401,
+    "elevation_ft": 17,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Panama City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tyndall_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3765
+  }
+}

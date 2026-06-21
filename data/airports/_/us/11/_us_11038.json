@@ -1,0 +1,30 @@
+{
+  "key": "_us_11038",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "43KS",
+    "local": "43KS"
+  },
+  "name": "Smith Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.101898,
+    "longitude": -96.417801,
+    "elevation_ft": 1100,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Manhattan"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11038
+  }
+}

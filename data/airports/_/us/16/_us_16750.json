@@ -1,0 +1,30 @@
+{
+  "key": "_us_16750",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CL31",
+    "local": "CL31"
+  },
+  "name": "Caltrans District 7 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.051498,
+    "longitude": -118.242996,
+    "elevation_ft": 484,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Los Angeles"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16750
+  }
+}

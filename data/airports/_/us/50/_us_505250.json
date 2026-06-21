@@ -1,0 +1,32 @@
+{
+  "key": "_us_505250",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Johnson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.97511,
+    "longitude": -117.59244,
+    "elevation_ft": 2113,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Colville"
+  },
+  "keywords": [
+    "US-7371"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505250
+  }
+}

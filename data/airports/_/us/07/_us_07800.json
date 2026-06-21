@@ -1,0 +1,32 @@
+{
+  "key": "_us_07800",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "12TN",
+    "local": "12TN"
+  },
+  "name": "Meadowlake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.8237,
+    "longitude": -84.538803,
+    "elevation_ft": 750,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Kingston"
+  },
+  "keywords": [
+    "Riley Creek"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7800
+  }
+}

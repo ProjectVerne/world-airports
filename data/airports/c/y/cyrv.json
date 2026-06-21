@@ -1,0 +1,33 @@
+{
+  "key": "cyrv",
+  "codes": {
+    "icao": "CYRV",
+    "iata": "YRV",
+    "gps": "CYRV",
+    "local": null
+  },
+  "name": "Revelstoke Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.962245,
+    "longitude": -118.184258,
+    "elevation_ft": 1459,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Revelstoke"
+  },
+  "keywords": [
+    "YRV"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Revelstoke_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1896
+  }
+}

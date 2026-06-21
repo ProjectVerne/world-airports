@@ -1,0 +1,32 @@
+{
+  "key": "_us_17365",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FD97",
+    "local": "FD97"
+  },
+  "name": "NCH Downtown Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 26.151028,
+    "longitude": -81.797769,
+    "elevation_ft": 42,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Naples"
+  },
+  "keywords": [
+    "Naples Community Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17365
+  }
+}

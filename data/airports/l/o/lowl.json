@@ -1,0 +1,36 @@
+{
+  "key": "lowl",
+  "codes": {
+    "icao": "LOWL",
+    "iata": "LNZ",
+    "gps": "LOWL",
+    "local": null
+  },
+  "name": "Linz-Hörsching Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.235362,
+    "longitude": 14.188128,
+    "elevation_ft": 980,
+    "iso_country": "AT",
+    "iso_region": "AT-4",
+    "municipality": "Linz"
+  },
+  "keywords": [
+    "Blue Danube Airport",
+    "Vogler Air Base",
+    "Fliegerhorst Vogler",
+    "Christophorus 10"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Linz_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4432
+  }
+}

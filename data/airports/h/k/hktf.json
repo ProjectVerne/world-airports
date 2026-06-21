@@ -1,0 +1,32 @@
+{
+  "key": "hktf",
+  "codes": {
+    "icao": "HKTF",
+    "iata": null,
+    "gps": "HKTF",
+    "local": null
+  },
+  "name": "Taita Hills Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.515636,
+    "longitude": 38.246889,
+    "elevation_ft": 3150,
+    "iso_country": "KE",
+    "iso_region": "KE-06",
+    "municipality": "Taita Hills"
+  },
+  "keywords": [
+    "KE-6053"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42568
+  }
+}

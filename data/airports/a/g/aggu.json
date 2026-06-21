@@ -1,0 +1,31 @@
+{
+  "key": "aggu",
+  "codes": {
+    "icao": "AGGU",
+    "iata": "RUS",
+    "gps": "AGGU",
+    "local": null
+  },
+  "name": "Marau Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.86167,
+    "longitude": 160.824997,
+    "elevation_ft": 3,
+    "iso_country": "SB",
+    "iso_region": "SB-GU",
+    "municipality": "Marau"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Marau_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32238
+  }
+}

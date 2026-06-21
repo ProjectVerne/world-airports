@@ -1,0 +1,30 @@
+{
+  "key": "_us_09072",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "25NY",
+    "local": "25NY"
+  },
+  "name": "Carter's Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.800098,
+    "longitude": -72.699501,
+    "elevation_ft": 5,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Remsenburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9072
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "loig",
+  "codes": {
+    "icao": "LOIG",
+    "iata": null,
+    "gps": "LOIG",
+    "local": null
+  },
+  "name": "Ludesch Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.200313,
+    "longitude": 9.780208,
+    "elevation_ft": 1804,
+    "iso_country": "AT",
+    "iso_region": "AT-8",
+    "municipality": "Ludesch"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43859
+  }
+}

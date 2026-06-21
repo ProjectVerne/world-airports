@@ -1,0 +1,32 @@
+{
+  "key": "_us_333472",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IN67",
+    "local": "IN67"
+  },
+  "name": "Beacon Granger Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.734672,
+    "longitude": -86.151233,
+    "elevation_ft": 787,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "South Bend"
+  },
+  "keywords": [
+    "US-1211"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333472
+  }
+}

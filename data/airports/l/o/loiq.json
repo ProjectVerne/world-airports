@@ -1,0 +1,33 @@
+{
+  "key": "loiq",
+  "codes": {
+    "icao": "LOIQ",
+    "iata": null,
+    "gps": "LOIQ",
+    "local": null
+  },
+  "name": "Feldkirch Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.274818,
+    "longitude": 9.591209,
+    "elevation_ft": 1449,
+    "iso_country": "AT",
+    "iso_region": "AT-8",
+    "municipality": "Feldkirch"
+  },
+  "keywords": [
+    "Doctor Schenk Heliport",
+    "AT-0083"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43860
+  }
+}

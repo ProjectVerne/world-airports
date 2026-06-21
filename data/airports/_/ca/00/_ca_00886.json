@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00886",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CEP6",
+    "local": "CEP6"
+  },
+  "name": "Warner Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.29332,
+    "longitude": -112.189965,
+    "elevation_ft": 3319,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Warner"
+  },
+  "keywords": [
+    "EP6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Warner_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 886
+  }
+}

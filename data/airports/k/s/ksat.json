@@ -1,0 +1,31 @@
+{
+  "key": "ksat",
+  "codes": {
+    "icao": "KSAT",
+    "iata": "SAT",
+    "gps": "KSAT",
+    "local": "SAT"
+  },
+  "name": "San Antonio International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.533701,
+    "longitude": -98.469803,
+    "elevation_ft": 809,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "San Antonio"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Antonio_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3863
+  }
+}

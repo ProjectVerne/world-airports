@@ -1,0 +1,30 @@
+{
+  "key": "_us_23425",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NY43",
+    "local": "NY43"
+  },
+  "name": "Mountain View Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.156671,
+    "longitude": -73.999132,
+    "elevation_ft": 250,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Saugerties"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23425
+  }
+}

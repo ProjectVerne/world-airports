@@ -1,0 +1,30 @@
+{
+  "key": "_us_06595",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01IN",
+    "local": "01IN"
+  },
+  "name": "Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.130901,
+    "longitude": -85.695801,
+    "elevation_ft": 890,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Anderson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6595
+  }
+}

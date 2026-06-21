@@ -1,0 +1,30 @@
+{
+  "key": "sved",
+  "codes": {
+    "icao": "SVED",
+    "iata": "EOR",
+    "gps": "SVED",
+    "local": null
+  },
+  "name": "El Dorado Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.71573,
+    "longitude": -61.638786,
+    "elevation_ft": 318,
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Bolivar"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6277
+  }
+}

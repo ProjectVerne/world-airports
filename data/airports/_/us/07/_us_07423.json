@@ -1,0 +1,32 @@
+{
+  "key": "_us_07423",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0NK7",
+    "local": "0NK7"
+  },
+  "name": "King Street Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.10279,
+    "longitude": -73.725087,
+    "elevation_ft": 470,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Armonk"
+  },
+  "keywords": [
+    "IBM King Street"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7423
+  }
+}

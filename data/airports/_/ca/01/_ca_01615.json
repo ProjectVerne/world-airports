@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01615",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CTS2",
+    "local": "CTS2"
+  },
+  "name": "Quebec / Beauport (HQ) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.879521,
+    "longitude": -71.194144,
+    "elevation_ft": 320,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Québec"
+  },
+  "keywords": [
+    "TS2",
+    "Quebec City"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1615
+  }
+}

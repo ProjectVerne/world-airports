@@ -1,0 +1,33 @@
+{
+  "key": "kgic",
+  "codes": {
+    "icao": "KGIC",
+    "iata": "IDH",
+    "gps": "KGIC",
+    "local": "GIC"
+  },
+  "name": "Idaho County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.9426,
+    "longitude": -116.123001,
+    "elevation_ft": 3314,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Grangeville"
+  },
+  "keywords": [
+    "S80"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Idaho_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21022
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "vyms",
+  "codes": {
+    "icao": "VYMS",
+    "iata": "MOG",
+    "gps": "VYMS",
+    "local": null
+  },
+  "name": "Mong Hsat Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.5168,
+    "longitude": 99.256798,
+    "elevation_ft": 1875,
+    "iso_country": "MM",
+    "iso_region": "MM-17",
+    "municipality": "Mong Hsat"
+  },
+  "keywords": [
+    "Monghsat Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Monghsat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26732
+  }
+}

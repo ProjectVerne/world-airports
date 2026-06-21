@@ -1,0 +1,30 @@
+{
+  "key": "_us_10244",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "37NJ",
+    "local": "37NJ"
+  },
+  "name": "Deepwater Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.697601,
+    "longitude": -75.494904,
+    "elevation_ft": 0,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Deepwater"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10244
+  }
+}

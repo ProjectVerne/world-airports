@@ -1,0 +1,30 @@
+{
+  "key": "ayeo",
+  "codes": {
+    "icao": "AYEO",
+    "iata": "EMO",
+    "gps": "AYEO",
+    "local": "EMO"
+  },
+  "name": "Emo River Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.1234,
+    "longitude": 148.0415,
+    "elevation_ft": 2240,
+    "iso_country": "PG",
+    "iso_region": "PG-NPP",
+    "municipality": "Emo Mission"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 311200
+  }
+}

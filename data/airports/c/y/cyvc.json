@@ -1,0 +1,31 @@
+{
+  "key": "cyvc",
+  "codes": {
+    "icao": "CYVC",
+    "iata": "YVC",
+    "gps": "CYVC",
+    "local": null
+  },
+  "name": "La Ronge Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.151402,
+    "longitude": -105.262001,
+    "elevation_ft": 1242,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "La Ronge"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Ronge_(Barber_Field)_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1933
+  }
+}

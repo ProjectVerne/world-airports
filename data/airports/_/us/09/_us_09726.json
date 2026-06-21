@@ -1,0 +1,30 @@
+{
+  "key": "_us_09726",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2PN9",
+    "local": "2PN9"
+  },
+  "name": "Sun Company-Radnor Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.0471,
+    "longitude": -75.357697,
+    "elevation_ft": 425,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Radnor"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9726
+  }
+}

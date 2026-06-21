@@ -1,0 +1,33 @@
+{
+  "key": "vidp",
+  "codes": {
+    "icao": "VIDP",
+    "iata": "DEL",
+    "gps": "VIDP",
+    "local": null
+  },
+  "name": "Indira Gandhi International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.55563,
+    "longitude": 77.09519,
+    "elevation_ft": 777,
+    "iso_country": "IN",
+    "iso_region": "IN-DL",
+    "municipality": "New Delhi"
+  },
+  "keywords": [
+    "Palam Air Force Station"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26555
+  }
+}

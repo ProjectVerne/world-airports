@@ -1,0 +1,30 @@
+{
+  "key": "_us_322010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WS89",
+    "local": "WS89"
+  },
+  "name": "Appleton Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.279,
+    "longitude": -88.393091,
+    "elevation_ft": 769,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Appleton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322010
+  }
+}

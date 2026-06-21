@@ -1,0 +1,30 @@
+{
+  "key": "ayeb",
+  "codes": {
+    "icao": "AYEB",
+    "iata": "EMS",
+    "gps": "AYEB",
+    "local": "EMB"
+  },
+  "name": "Embessa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.447,
+    "longitude": 148.7628,
+    "elevation_ft": 131,
+    "iso_country": "PG",
+    "iso_region": "PG-NPP",
+    "municipality": "Embessa"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 311135
+  }
+}

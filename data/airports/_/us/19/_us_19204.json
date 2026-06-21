@@ -1,0 +1,34 @@
+{
+  "key": "_us_19204",
+  "codes": {
+    "icao": null,
+    "iata": "ASQ",
+    "gps": "KTMT",
+    "local": "TMT"
+  },
+  "name": "Austin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.467708,
+    "longitude": -117.197576,
+    "elevation_ft": 5730,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Austin"
+  },
+  "keywords": [
+    "9U3",
+    "K9U3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Austin_Airport_(Nevada)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19204
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kbbd",
+  "codes": {
+    "icao": "KBBD",
+    "iata": "BBD",
+    "gps": "KBBD",
+    "local": "BBD"
+  },
+  "name": "Curtis Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.178931,
+    "longitude": -99.324732,
+    "elevation_ft": 1827,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Brady"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Curtis_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19353
+  }
+}

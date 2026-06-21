@@ -1,0 +1,31 @@
+{
+  "key": "kpwa",
+  "codes": {
+    "icao": "KPWA",
+    "iata": "PWA",
+    "gps": "KPWA",
+    "local": "PWA"
+  },
+  "name": "Wiley Post Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.534199,
+    "longitude": -97.647102,
+    "elevation_ft": 1300,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Oklahoma City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wiley_Post_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20892
+  }
+}

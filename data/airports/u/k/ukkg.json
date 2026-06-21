@@ -1,0 +1,31 @@
+{
+  "key": "ukkg",
+  "codes": {
+    "icao": "UKKG",
+    "iata": "KGO",
+    "gps": "UKKG",
+    "local": null
+  },
+  "name": "Kirovograd Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.542801,
+    "longitude": 32.285,
+    "elevation_ft": 568,
+    "iso_country": "UA",
+    "iso_region": "UA-35",
+    "municipality": "Kirovograd"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kropyvnytskyi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31744
+  }
+}

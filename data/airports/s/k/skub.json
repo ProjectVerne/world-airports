@@ -1,0 +1,31 @@
+{
+  "key": "skub",
+  "codes": {
+    "icao": "SKUB",
+    "iata": "URI",
+    "gps": "SKUB",
+    "local": null
+  },
+  "name": "Uribe Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 3.2375,
+    "longitude": -74.347222,
+    "elevation_ft": 8377,
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "La Uribe"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Uribe_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41047
+  }
+}

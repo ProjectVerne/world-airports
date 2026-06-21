@@ -1,0 +1,33 @@
+{
+  "key": "egym",
+  "codes": {
+    "icao": "EGYM",
+    "iata": "KNF",
+    "gps": "EGYM",
+    "local": null
+  },
+  "name": "RAF Marham",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.648395,
+    "longitude": 0.550692,
+    "elevation_ft": 75,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "King's Lynn, Norfolk"
+  },
+  "keywords": [
+    "King's Lynn"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/RAF_Marham",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2511
+  }
+}

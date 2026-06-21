@@ -1,0 +1,30 @@
+{
+  "key": "_us_24125",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PN15",
+    "local": "PN15"
+  },
+  "name": "Greeley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.877518,
+    "longitude": -77.957139,
+    "elevation_ft": 2300,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Coudersport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24125
+  }
+}

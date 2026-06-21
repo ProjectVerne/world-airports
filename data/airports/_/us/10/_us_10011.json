@@ -1,0 +1,31 @@
+{
+  "key": "_us_10011",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32MI",
+    "local": "32MI"
+  },
+  "name": "William Beaumont Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.51503,
+    "longitude": -83.194095,
+    "elevation_ft": 705,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Royal Oak"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Corewell_Health_William_Beaumont_University_Hospital#Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10011
+  }
+}

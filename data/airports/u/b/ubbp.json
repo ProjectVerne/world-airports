@@ -1,0 +1,32 @@
+{
+  "key": "ubbp",
+  "codes": {
+    "icao": "UBBP",
+    "iata": null,
+    "gps": "UBBP",
+    "local": null
+  },
+  "name": "Pirallahı Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.4182,
+    "longitude": 50.35677,
+    "elevation_ft": -85,
+    "iso_country": "AZ",
+    "iso_region": "AZ-BA",
+    "municipality": "Pirallahı"
+  },
+  "keywords": [
+    "AZ-0022"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 341273
+  }
+}

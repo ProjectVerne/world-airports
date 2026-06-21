@@ -1,13 +1,9 @@
 name: Validate
 
-# NOTE (v2 migration): the live data/ tree is still in the v1 layout. Until the
-# global regeneration PR migrates it, this job validates the committed v2 `sample/`
-# dataset. That PR will repoint `--` from `sample/airports` to `data/airports`.
-
 on:
   pull_request:
     paths:
-      - "sample/**"
+      - "data/airports/**"
       - "scripts/**"
       - "schema/**"
       - "package.json"
@@ -16,7 +12,7 @@ on:
     branches:
       - main
     paths:
-      - "sample/**"
+      - "data/airports/**"
       - "scripts/**"
       - "schema/**"
       - "package.json"
@@ -34,6 +30,6 @@ jobs:
           cache: "npm"
       - run: npm ci
       - name: Validate (schema + key==filename + shard path)
-        run: node scripts/validate.js sample/airports
+        run: node scripts/validate.js data/airports
       - name: Build collision index (smoke test)
-        run: node scripts/export/to-codes.js sample/airports --out dist/codes.json
+        run: node scripts/export/to-codes.js data/airports --out dist/codes.json

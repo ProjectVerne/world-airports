@@ -1,0 +1,30 @@
+{
+  "key": "_us_17974",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "II95",
+    "local": "II95"
+  },
+  "name": "Rust's Landing Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.364498,
+    "longitude": -86.063301,
+    "elevation_ft": 820,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Bourbon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17974
+  }
+}

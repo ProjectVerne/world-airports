@@ -1,0 +1,31 @@
+{
+  "key": "vtbo",
+  "codes": {
+    "icao": "VTBO",
+    "iata": "TDX",
+    "gps": "VTBO",
+    "local": null
+  },
+  "name": "Trat Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.2746,
+    "longitude": 102.319,
+    "elevation_ft": 105,
+    "iso_country": "TH",
+    "iso_region": "TH-23",
+    "municipality": "Laem Ngop"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Trat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26643
+  }
+}

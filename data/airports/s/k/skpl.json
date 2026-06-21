@@ -1,0 +1,31 @@
+{
+  "key": "skpl",
+  "codes": {
+    "icao": "SKPL",
+    "iata": "PLT",
+    "gps": "SKPL",
+    "local": "PLT"
+  },
+  "name": "Plato Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.8,
+    "longitude": -74.7833,
+    "elevation_ft": 69,
+    "iso_country": "CO",
+    "iso_region": "CO-MAG",
+    "municipality": "Plato"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Plato_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32165
+  }
+}

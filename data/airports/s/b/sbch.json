@@ -1,0 +1,33 @@
+{
+  "key": "sbch",
+  "codes": {
+    "icao": "SBCH",
+    "iata": "XAP",
+    "gps": "SBCH",
+    "local": "SC0003"
+  },
+  "name": "Serafin Enoss Bertaso Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.134199,
+    "longitude": -52.656601,
+    "elevation_ft": 2154,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Chapecó"
+  },
+  "keywords": [
+    "Chapecó Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chapec%C3%B3_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5884
+  }
+}

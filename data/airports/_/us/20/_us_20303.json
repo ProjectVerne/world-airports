@@ -1,0 +1,35 @@
+{
+  "key": "_us_20303",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CN64",
+    "local": "CN64"
+  },
+  "name": "Desert Center Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.747609,
+    "longitude": -115.325117,
+    "elevation_ft": 559,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Desert Center"
+  },
+  "keywords": [
+    "L64",
+    "desert center",
+    "KL64"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Desert_Center_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20303
+  }
+}

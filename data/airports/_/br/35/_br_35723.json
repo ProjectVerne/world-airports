@@ -1,0 +1,33 @@
+{
+  "key": "_br_35723",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDZR",
+    "local": "SP0460"
+  },
+  "name": "SESI - FIESP Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.56379,
+    "longitude": -46.654558,
+    "elevation_ft": 2986,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Paulo"
+  },
+  "keywords": [
+    "SDSI",
+    "BR-2308"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35723
+  }
+}

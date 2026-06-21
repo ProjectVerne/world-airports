@@ -1,0 +1,32 @@
+{
+  "key": "_us_06588",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01FD",
+    "local": "01FD"
+  },
+  "name": "Advent Health Altamonte Springs Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.666639,
+    "longitude": -81.3697,
+    "elevation_ft": 86,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Altamonte Springs"
+  },
+  "keywords": [
+    "Florida Hospital-Altamonte"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6588
+  }
+}

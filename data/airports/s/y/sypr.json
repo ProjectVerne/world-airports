@@ -1,0 +1,31 @@
+{
+  "key": "sypr",
+  "codes": {
+    "icao": "SYPR",
+    "iata": "PRR",
+    "gps": "SYPR",
+    "local": null
+  },
+  "name": "Paruima Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.81724,
+    "longitude": -61.055489,
+    "elevation_ft": 1765,
+    "iso_country": "GY",
+    "iso_region": "GY-CU",
+    "municipality": "Paruima"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Paruima_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41522
+  }
+}

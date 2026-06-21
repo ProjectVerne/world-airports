@@ -1,0 +1,33 @@
+{
+  "key": "rpmn",
+  "codes": {
+    "icao": "RPMN",
+    "iata": "TWT",
+    "gps": "RPMN",
+    "local": null
+  },
+  "name": "Sanga Sanga Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.048196,
+    "longitude": 119.743338,
+    "elevation_ft": 15,
+    "iso_country": "PH",
+    "iso_region": "PH-TAW",
+    "municipality": "Bongao"
+  },
+  "keywords": [
+    "SGS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sanga-Sanga_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5705
+  }
+}

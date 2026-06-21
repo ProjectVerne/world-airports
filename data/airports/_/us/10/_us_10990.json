@@ -1,0 +1,30 @@
+{
+  "key": "_us_10990",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "42CO",
+    "local": "42CO"
+  },
+  "name": "Ptarmigan Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.6875,
+    "longitude": -105.396004,
+    "elevation_ft": 8198,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Evergreen"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10990
+  }
+}

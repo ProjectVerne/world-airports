@@ -1,0 +1,34 @@
+{
+  "key": "lfpt",
+  "codes": {
+    "icao": "LFPT",
+    "iata": "POX",
+    "gps": "LFPT",
+    "local": null
+  },
+  "name": "Pontoise-Cormeilles Aerodrome",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.096064,
+    "longitude": 2.035543,
+    "elevation_ft": 325,
+    "iso_country": "FR",
+    "iso_region": "FR-IDF",
+    "municipality": "Cormeilles-en-Vexin, Val-d'Oise"
+  },
+  "keywords": [
+    "Aérodrome de Pontoise-Cormeilles en Vexin",
+    "Cergy Pontoise"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pontoise_%E2%80%93_Cormeilles_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4190
+  }
+}

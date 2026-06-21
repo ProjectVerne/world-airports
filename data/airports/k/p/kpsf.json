@@ -1,0 +1,31 @@
+{
+  "key": "kpsf",
+  "codes": {
+    "icao": "KPSF",
+    "iata": "PSF",
+    "gps": "KPSF",
+    "local": "PSF"
+  },
+  "name": "Pittsfield Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.4268,
+    "longitude": -73.2929,
+    "elevation_ft": 1188,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Pittsfield"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pittsfield_Municipal_Airport_(Massachusetts)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20871
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01274",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CLQ2",
+    "local": "CLQ2"
+  },
+  "name": "Queens General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.038483,
+    "longitude": -64.705263,
+    "elevation_ft": 67,
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Liverpool"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1274
+  }
+}

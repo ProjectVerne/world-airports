@@ -1,0 +1,33 @@
+{
+  "key": "_br_38138",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "UNB Autotrac Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -15.772322,
+    "longitude": -47.870034,
+    "elevation_ft": 3435,
+    "iso_country": "BR",
+    "iso_region": "BR-DF",
+    "municipality": "Brasília"
+  },
+  "keywords": [
+    "SWWQ",
+    "BR-3159"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 38138
+  }
+}

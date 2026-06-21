@@ -1,0 +1,32 @@
+{
+  "key": "_ca_00784",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CCT3",
+    "local": "CCT3"
+  },
+  "name": "Castlegar (Tarrys Convention Centre) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.386101,
+    "longitude": -117.552002,
+    "elevation_ft": 1632,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Castlegar"
+  },
+  "keywords": [
+    "CT3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 784
+  }
+}

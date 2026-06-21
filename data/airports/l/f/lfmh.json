@@ -1,0 +1,33 @@
+{
+  "key": "lfmh",
+  "codes": {
+    "icao": "LFMH",
+    "iata": "EBU",
+    "gps": "LFMH",
+    "local": null
+  },
+  "name": "Saint-Étienne-Bouthéon Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.5406,
+    "longitude": 4.29639,
+    "elevation_ft": 1325,
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Andrézieux-Bouthéon, Loire"
+  },
+  "keywords": [
+    "Saint-Étienne-Loire"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saint-%C3%89tienne_-_Bouth%C3%A9on_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4152
+  }
+}

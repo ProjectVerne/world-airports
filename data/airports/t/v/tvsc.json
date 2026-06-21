@@ -1,0 +1,31 @@
+{
+  "key": "tvsc",
+  "codes": {
+    "icao": "TVSC",
+    "iata": "CIW",
+    "gps": "TVSC",
+    "local": null
+  },
+  "name": "Canouan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.699,
+    "longitude": -61.3424,
+    "elevation_ft": 11,
+    "iso_country": "VC",
+    "iso_region": "VC-06",
+    "municipality": "Canouan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Canouan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6413
+  }
+}

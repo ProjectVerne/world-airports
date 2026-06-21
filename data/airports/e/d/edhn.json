@@ -1,0 +1,31 @@
+{
+  "key": "edhn",
+  "codes": {
+    "icao": "EDHN",
+    "iata": "EUM",
+    "gps": "EDHN",
+    "local": null
+  },
+  "name": "Neumünster Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.079445,
+    "longitude": 9.941389,
+    "elevation_ft": 72,
+    "iso_country": "DE",
+    "iso_region": "DE-SH",
+    "municipality": "Neumünster"
+  },
+  "keywords": [],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Neum%C3%BCnster",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28662
+  }
+}

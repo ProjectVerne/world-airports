@@ -1,0 +1,31 @@
+{
+  "key": "edln",
+  "codes": {
+    "icao": "EDLN",
+    "iata": "MGL",
+    "gps": "EDLN",
+    "local": null
+  },
+  "name": "Mönchengladbach Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.230278,
+    "longitude": 6.504444,
+    "elevation_ft": 125,
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Mönchengladbach"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/D%C3%BCsseldorf-M%C3%B6nchengladbach_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2243
+  }
+}

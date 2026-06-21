@@ -1,0 +1,31 @@
+{
+  "key": "ypks",
+  "codes": {
+    "icao": "YPKS",
+    "iata": "PKE",
+    "gps": "YPKS",
+    "local": null
+  },
+  "name": "Parkes Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.131401,
+    "longitude": 148.238998,
+    "elevation_ft": 1069,
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Parkes"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Parkes_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27109
+  }
+}

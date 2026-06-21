@@ -1,0 +1,30 @@
+{
+  "key": "kicl",
+  "codes": {
+    "icao": "KICL",
+    "iata": "ICL",
+    "gps": "KICL",
+    "local": "ICL"
+  },
+  "name": "Schenck Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.721802,
+    "longitude": -95.026398,
+    "elevation_ft": 996,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Clarinda"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20152
+  }
+}

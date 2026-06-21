@@ -1,0 +1,33 @@
+{
+  "key": "otbd",
+  "codes": {
+    "icao": "OTBD",
+    "iata": "DIA",
+    "gps": "OTBD",
+    "local": null
+  },
+  "name": "Doha International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.259431,
+    "longitude": 51.565528,
+    "elevation_ft": 35,
+    "iso_country": "QA",
+    "iso_region": "QA-DA",
+    "municipality": "Doha"
+  },
+  "keywords": [
+    "مطار الدوحة الدولى"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Doha_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5308
+  }
+}

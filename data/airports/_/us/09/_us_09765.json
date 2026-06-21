@@ -1,0 +1,30 @@
+{
+  "key": "_us_09765",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2T7",
+    "local": "2T7"
+  },
+  "name": "Van Camp's Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.019199,
+    "longitude": -83.848602,
+    "elevation_ft": 740,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Tecumseh"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9765
+  }
+}

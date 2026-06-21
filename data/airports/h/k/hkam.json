@@ -1,0 +1,33 @@
+{
+  "key": "hkam",
+  "codes": {
+    "icao": "HKAM",
+    "iata": "ASV",
+    "gps": "HKAM",
+    "local": null
+  },
+  "name": "Amboseli Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.644786,
+    "longitude": 37.252922,
+    "elevation_ft": 3755,
+    "iso_country": "KE",
+    "iso_region": "KE-34",
+    "municipality": "Ol Tukai"
+  },
+  "keywords": [
+    "Maasai Amboseli Game Reserve"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Amboseli_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28481
+  }
+}

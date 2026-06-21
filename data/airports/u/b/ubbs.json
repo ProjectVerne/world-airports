@@ -1,0 +1,36 @@
+{
+  "key": "ubbs",
+  "codes": {
+    "icao": "UBBS",
+    "iata": null,
+    "gps": "UBBS",
+    "local": "UB13"
+  },
+  "name": "Khojaly Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.901402,
+    "longitude": 46.786999,
+    "elevation_ft": 2001,
+    "iso_country": "AZ",
+    "iso_region": "AZ-XCI",
+    "municipality": "Khojaly"
+  },
+  "keywords": [
+    "UB13",
+    "Khankendi",
+    "Stepanakert",
+    "Khojaly"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 74
+  }
+}

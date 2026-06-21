@@ -1,0 +1,34 @@
+{
+  "key": "ekrk",
+  "codes": {
+    "icao": "EKRK",
+    "iata": "RKE",
+    "gps": "EKRK",
+    "local": null
+  },
+  "name": "Copenhagen Roskilde Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.585602,
+    "longitude": 12.1314,
+    "elevation_ft": 146,
+    "iso_country": "DK",
+    "iso_region": "DK-85",
+    "municipality": "Roskilde"
+  },
+  "keywords": [
+    "København",
+    "Copenhagen"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Roskilde_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2551
+  }
+}

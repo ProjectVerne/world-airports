@@ -1,0 +1,35 @@
+{
+  "key": "mmpd",
+  "codes": {
+    "icao": "MMPD",
+    "iata": null,
+    "gps": "MMPD",
+    "local": "TRC"
+  },
+  "name": "Base Nº7 de la Fuerza Aérea Mexicana (Gustavo G. León González)",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.910716,
+    "longitude": -99.988328,
+    "elevation_ft": 20,
+    "iso_country": "MX",
+    "iso_region": "MX-GRO",
+    "municipality": "Ciudad de Acapulco"
+  },
+  "keywords": [
+    "MM41",
+    "MM1I",
+    "La Base Aérea n.º 7"
+  ],
+  "wikipedia": "https://es.wikipedia.org/wiki/Base_A%C3%A9rea_Militar_n.%C2%BA_7",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4888
+  }
+}

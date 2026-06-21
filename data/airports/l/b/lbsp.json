@@ -1,0 +1,35 @@
+{
+  "key": "lbsp",
+  "codes": {
+    "icao": "LBSP",
+    "iata": null,
+    "gps": "LBSP",
+    "local": null
+  },
+  "name": "Sapareva Banya Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.311254,
+    "longitude": 23.246098,
+    "elevation_ft": 2218,
+    "iso_country": "BG",
+    "iso_region": "BG-10",
+    "municipality": "Sapareva Banya"
+  },
+  "keywords": [
+    "LB22",
+    "Kraynitsi",
+    "Stanke Dimitrov Air Base",
+    "BG-0170"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 90
+  }
+}

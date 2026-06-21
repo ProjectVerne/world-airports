@@ -1,0 +1,33 @@
+{
+  "key": "hklt",
+  "codes": {
+    "icao": "HKLT",
+    "iata": null,
+    "gps": "HKLT",
+    "local": null
+  },
+  "name": "Oloitoktok Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.909822,
+    "longitude": 37.524862,
+    "elevation_ft": 5320,
+    "iso_country": "KE",
+    "iso_region": "KE-34",
+    "municipality": "Oloitoktok"
+  },
+  "keywords": [
+    "Loitokitok",
+    "KE-7000"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42533
+  }
+}

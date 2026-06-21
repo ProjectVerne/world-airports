@@ -1,0 +1,30 @@
+{
+  "key": "kcsv",
+  "codes": {
+    "icao": "KCSV",
+    "iata": "CSV",
+    "gps": "KCSV",
+    "local": "CSV"
+  },
+  "name": "Crossville Memorial Airport Whitson Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.95131,
+    "longitude": -85.08499,
+    "elevation_ft": 1881,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Crossville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3469
+  }
+}

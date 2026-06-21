@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01487",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CRF2",
+    "local": "CRF2"
+  },
+  "name": "Langley (Russell Farm) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.011046,
+    "longitude": -122.672213,
+    "elevation_ft": 250,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Langley"
+  },
+  "keywords": [
+    "RF2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1487
+  }
+}

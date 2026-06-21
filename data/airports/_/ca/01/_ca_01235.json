@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01235",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKT5",
+    "local": "CKT5"
+  },
+  "name": "Hartney Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.450001,
+    "longitude": -100.550003,
+    "elevation_ft": 1450,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Hartney"
+  },
+  "keywords": [
+    "KT5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hartney_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1235
+  }
+}

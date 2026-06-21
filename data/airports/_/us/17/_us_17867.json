@@ -1,0 +1,30 @@
+{
+  "key": "_us_17867",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID91",
+    "local": "ID91"
+  },
+  "name": "St Alphonsus Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.6143,
+    "longitude": -116.264,
+    "elevation_ft": 2800,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Boise"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17867
+  }
+}

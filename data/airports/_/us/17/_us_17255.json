@@ -1,0 +1,32 @@
+{
+  "key": "_us_17255",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FA65",
+    "local": "FA65"
+  },
+  "name": "Memorial Hospital Jacksonville Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.289331,
+    "longitude": -81.601429,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville"
+  },
+  "keywords": [
+    "Memorial Medical Center of Jacksonville Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17255
+  }
+}

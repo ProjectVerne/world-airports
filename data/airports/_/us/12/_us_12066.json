@@ -1,0 +1,32 @@
+{
+  "key": "_us_12066",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "55TA",
+    "local": "55TA"
+  },
+  "name": "Conroe Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.285218,
+    "longitude": -95.46762,
+    "elevation_ft": 162,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Conroe"
+  },
+  "keywords": [
+    "Montgomery County Medical Center Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12066
+  }
+}

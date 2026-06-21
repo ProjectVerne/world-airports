@@ -1,0 +1,30 @@
+{
+  "key": "_us_17800",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID22",
+    "local": "ID22"
+  },
+  "name": "Treeport Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.978001,
+    "longitude": -116.792999,
+    "elevation_ft": 2500,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Spirit Lake"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17800
+  }
+}

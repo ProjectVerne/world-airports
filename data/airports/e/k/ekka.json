@@ -1,0 +1,33 @@
+{
+  "key": "ekka",
+  "codes": {
+    "icao": "EKKA",
+    "iata": "KRP",
+    "gps": "EKKA",
+    "local": null
+  },
+  "name": "Midtjyllands Airport / Air Base Karup",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.297139,
+    "longitude": 9.104311,
+    "elevation_ft": 170,
+    "iso_country": "DK",
+    "iso_region": "DK-82",
+    "municipality": "Karup"
+  },
+  "keywords": [
+    "Karup Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Midtjyllands_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2546
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "udsg",
+  "codes": {
+    "icao": "UDSG",
+    "iata": "LWN",
+    "gps": "UDSG",
+    "local": null
+  },
+  "name": "Shirak International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.750401,
+    "longitude": 43.859299,
+    "elevation_ft": 5000,
+    "iso_country": "AM",
+    "iso_region": "AM-SH",
+    "municipality": "Gyumri"
+  },
+  "keywords": [
+    "UGEL"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shirak_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6444
+  }
+}

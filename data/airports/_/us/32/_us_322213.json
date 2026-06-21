@@ -1,0 +1,30 @@
+{
+  "key": "_us_322213",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "80CN",
+    "local": "80CN"
+  },
+  "name": "US Border Patrol Campo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.716072,
+    "longitude": -116.450054,
+    "elevation_ft": 3275,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Pine Valley"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322213
+  }
+}

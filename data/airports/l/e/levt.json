@@ -1,0 +1,34 @@
+{
+  "key": "levt",
+  "codes": {
+    "icao": "LEVT",
+    "iata": "VIT",
+    "gps": "LEVT",
+    "local": null
+  },
+  "name": "Vitoria Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.882801,
+    "longitude": -2.72447,
+    "elevation_ft": 1682,
+    "iso_country": "ES",
+    "iso_region": "ES-PV",
+    "municipality": "Alava"
+  },
+  "keywords": [
+    "Vitoria",
+    "Foronda"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vitoria_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4045
+  }
+}

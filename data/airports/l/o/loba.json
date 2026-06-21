@@ -1,0 +1,32 @@
+{
+  "key": "loba",
+  "codes": {
+    "icao": "LOBA",
+    "iata": null,
+    "gps": "LOBA",
+    "local": null
+  },
+  "name": "Vienna University Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.221426,
+    "longitude": 16.346201,
+    "elevation_ft": 689,
+    "iso_country": "AT",
+    "iso_region": "AT-9",
+    "municipality": "Wien"
+  },
+  "keywords": [
+    "AT-0088"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43865
+  }
+}

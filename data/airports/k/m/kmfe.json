@@ -1,0 +1,31 @@
+{
+  "key": "kmfe",
+  "codes": {
+    "icao": "KMFE",
+    "iata": "MFE",
+    "gps": "KMFE",
+    "local": "MFE"
+  },
+  "name": "McAllen Miller International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.176141,
+    "longitude": -98.237965,
+    "elevation_ft": 107,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "McAllen"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/McAllen-Miller_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3678
+  }
+}

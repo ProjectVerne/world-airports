@@ -1,0 +1,31 @@
+{
+  "key": "lfpo",
+  "codes": {
+    "icao": "LFPO",
+    "iata": "ORY",
+    "gps": "LFPO",
+    "local": null
+  },
+  "name": "Paris-Orly Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.729499,
+    "longitude": 2.358963,
+    "elevation_ft": 291,
+    "iso_country": "FR",
+    "iso_region": "FR-IDF",
+    "municipality": "Paris (Orly, Val-de-Marne)"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Orly_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4189
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "kpgd",
+  "codes": {
+    "icao": "KPGD",
+    "iata": "PGD",
+    "gps": "KPGD",
+    "local": "PGD"
+  },
+  "name": "Punta Gorda Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.9202,
+    "longitude": -81.990501,
+    "elevation_ft": 26,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Punta Gorda"
+  },
+  "keywords": [
+    "Charlotte County",
+    "Punta Gorda AAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Punta_Gorda_Airport_(Florida)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20822
+  }
+}

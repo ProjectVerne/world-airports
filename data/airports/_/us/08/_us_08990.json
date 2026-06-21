@@ -1,0 +1,32 @@
+{
+  "key": "_us_08990",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "24CL",
+    "local": "24CL"
+  },
+  "name": "Boswell Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.088444,
+    "longitude": -119.541392,
+    "elevation_ft": 205,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Corcoran"
+  },
+  "keywords": [
+    "Salyer Farms"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8990
+  }
+}

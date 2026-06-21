@@ -1,0 +1,33 @@
+{
+  "key": "eikk",
+  "codes": {
+    "icao": "EIKK",
+    "iata": "KKY",
+    "gps": "EIKK",
+    "local": null
+  },
+  "name": "Kilkenny Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.650799,
+    "longitude": -7.29611,
+    "elevation_ft": 319,
+    "iso_country": "IE",
+    "iso_region": "IE-KK",
+    "municipality": "Kilkenny"
+  },
+  "keywords": [
+    "EIKL"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kilkenny_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29224
+  }
+}

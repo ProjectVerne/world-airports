@@ -1,0 +1,31 @@
+{
+  "key": "scpu",
+  "codes": {
+    "icao": "SCPU",
+    "iata": null,
+    "gps": "SCPU",
+    "local": null
+  },
+  "name": "Peulla Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -41.057078,
+    "longitude": -72.013525,
+    "elevation_ft": 900,
+    "iso_country": "CL",
+    "iso_region": "CL-LL",
+    "municipality": "Peulla"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Peulla_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39251
+  }
+}

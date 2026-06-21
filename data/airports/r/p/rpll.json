@@ -1,0 +1,34 @@
+{
+  "key": "rpll",
+  "codes": {
+    "icao": "RPLL",
+    "iata": "MNL",
+    "gps": "RPLL",
+    "local": null
+  },
+  "name": "Ninoy Aquino International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 14.5086,
+    "longitude": 121.019997,
+    "elevation_ft": 75,
+    "iso_country": "PH",
+    "iso_region": "PH-00",
+    "municipality": "Manila (Pasay)"
+  },
+  "keywords": [
+    "Manila International Airport",
+    "Jesus Villamor Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ninoy_Aquino_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5689
+  }
+}

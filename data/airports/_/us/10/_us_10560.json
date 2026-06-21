@@ -1,0 +1,30 @@
+{
+  "key": "_us_10560",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3LA1",
+    "local": "3LA1"
+  },
+  "name": "Wilder Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.5585,
+    "longitude": -92.804298,
+    "elevation_ft": 55,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Kinder"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10560
+  }
+}

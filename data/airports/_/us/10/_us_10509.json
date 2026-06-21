@@ -1,0 +1,32 @@
+{
+  "key": "_us_10509",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Sweedler Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.4123,
+    "longitude": -88.048698,
+    "elevation_ft": 669,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Elwood"
+  },
+  "keywords": [
+    "3IL2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10509
+  }
+}

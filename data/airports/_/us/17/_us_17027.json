@@ -1,0 +1,30 @@
+{
+  "key": "_us_17027",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT72",
+    "local": "CT72"
+  },
+  "name": "Cigna Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.8195,
+    "longitude": -72.748199,
+    "elevation_ft": 150,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Bloomfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17027
+  }
+}

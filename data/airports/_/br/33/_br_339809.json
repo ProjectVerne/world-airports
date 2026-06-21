@@ -1,0 +1,32 @@
+{
+  "key": "_br_339809",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNKM",
+    "local": "PR0129"
+  },
+  "name": "MJ Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -25.440477,
+    "longitude": -49.391439,
+    "elevation_ft": 3038,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Campo Largo"
+  },
+  "keywords": [
+    "BR-1350"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 339809
+  }
+}

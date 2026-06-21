@@ -1,0 +1,33 @@
+{
+  "key": "kemt",
+  "codes": {
+    "icao": "KEMT",
+    "iata": "EMT",
+    "gps": "KEMT",
+    "local": "EMT"
+  },
+  "name": "San Gabriel Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.086102,
+    "longitude": -118.035004,
+    "elevation_ft": 296,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "El Monte"
+  },
+  "keywords": [
+    "El Monte Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Monte_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19757
+  }
+}

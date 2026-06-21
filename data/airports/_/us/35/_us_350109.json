@@ -1,0 +1,30 @@
+{
+  "key": "_us_350109",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "22NV",
+    "local": "22NV"
+  },
+  "name": "Humboldt General Hospital EMS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.972073,
+    "longitude": -117.728859,
+    "elevation_ft": 4336,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Winnemucca"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350109
+  }
+}

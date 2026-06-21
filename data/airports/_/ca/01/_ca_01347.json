@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01347",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNU3",
+    "local": "CNU3"
+  },
+  "name": "Peterborough (Civic Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.300598,
+    "longitude": -78.345802,
+    "elevation_ft": 738,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Peterborough"
+  },
+  "keywords": [
+    "NU3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1347
+  }
+}

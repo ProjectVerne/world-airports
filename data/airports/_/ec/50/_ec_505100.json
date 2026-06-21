@@ -1,0 +1,33 @@
+{
+  "key": "_ec_505100",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "DGAC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -0.23626,
+    "longitude": -78.47779,
+    "elevation_ft": 10010,
+    "iso_country": "EC",
+    "iso_region": "EC-P",
+    "municipality": "Quito"
+  },
+  "keywords": [
+    "Dirección General de Aviación Civil",
+    "EC-0054"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "yeml",
+  "codes": {
+    "icao": "YEML",
+    "iata": "EMD",
+    "gps": "YEML",
+    "local": null
+  },
+  "name": "Emerald Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.567499,
+    "longitude": 148.179001,
+    "elevation_ft": 624,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Emerald"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Emerald_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26981
+  }
+}

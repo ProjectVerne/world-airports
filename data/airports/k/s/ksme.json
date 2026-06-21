@@ -1,0 +1,31 @@
+{
+  "key": "ksme",
+  "codes": {
+    "icao": "KSME",
+    "iata": "SME",
+    "gps": "KSME",
+    "local": "SME"
+  },
+  "name": "Lake Cumberland Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.053398,
+    "longitude": -84.615898,
+    "elevation_ft": 927,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Somerset"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lake_Cumberland_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21085
+  }
+}

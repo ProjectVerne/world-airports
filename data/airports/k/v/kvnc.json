@@ -1,0 +1,33 @@
+{
+  "key": "kvnc",
+  "codes": {
+    "icao": "KVNC",
+    "iata": "VNC",
+    "gps": "KVNC",
+    "local": "VNC"
+  },
+  "name": "Venice Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.070541,
+    "longitude": -82.440815,
+    "elevation_ft": 18,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Venice"
+  },
+  "keywords": [
+    "Venice AAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Venice_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21331
+  }
+}

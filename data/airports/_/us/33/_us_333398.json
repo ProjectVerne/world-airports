@@ -1,0 +1,32 @@
+{
+  "key": "_us_333398",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VG45",
+    "local": "VG45"
+  },
+  "name": "VCU Health System-Main Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.539741,
+    "longitude": -77.429495,
+    "elevation_ft": 343,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Richmond"
+  },
+  "keywords": [
+    "US-1189"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333398
+  }
+}

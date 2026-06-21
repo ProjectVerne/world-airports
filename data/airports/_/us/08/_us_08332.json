@@ -1,0 +1,30 @@
+{
+  "key": "_us_08332",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1ID2",
+    "local": "1ID2"
+  },
+  "name": "Horseshoe Bend Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.914398,
+    "longitude": -116.196999,
+    "elevation_ft": 2300,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Horseshoe Bend"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8332
+  }
+}

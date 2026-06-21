@@ -1,0 +1,30 @@
+{
+  "key": "yala",
+  "codes": {
+    "icao": "YALA",
+    "iata": "MRP",
+    "gps": "YALA",
+    "local": null
+  },
+  "name": "Marla Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.334298,
+    "longitude": 133.627696,
+    "elevation_ft": 328,
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Marla"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27321
+  }
+}

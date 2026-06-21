@@ -1,0 +1,33 @@
+{
+  "key": "skps",
+  "codes": {
+    "icao": "SKPS",
+    "iata": "PSO",
+    "gps": "SKPS",
+    "local": "PSO"
+  },
+  "name": "Antonio Nariño Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.396722,
+    "longitude": -77.29093,
+    "elevation_ft": 5951,
+    "iso_country": "CO",
+    "iso_region": "CO-NAR",
+    "municipality": "Chachagüí"
+  },
+  "keywords": [
+    "Pasto"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Nari%C3%B1o_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6154
+  }
+}

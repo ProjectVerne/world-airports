@@ -1,0 +1,33 @@
+{
+  "key": "_us_06666",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Barrett Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 47.234035,
+    "longitude": -111.750592,
+    "elevation_ft": 3350,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Cascade"
+  },
+  "keywords": [
+    "02MT",
+    "US-9375"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6666
+  }
+}

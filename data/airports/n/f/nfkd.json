@@ -1,0 +1,33 @@
+{
+  "key": "nfkd",
+  "codes": {
+    "icao": "NFKD",
+    "iata": "KDV",
+    "gps": "NFKD",
+    "local": null
+  },
+  "name": "Vunisea Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.0581,
+    "longitude": 178.156998,
+    "elevation_ft": 6,
+    "iso_country": "FJ",
+    "iso_region": "FJ-E",
+    "municipality": "Vunisea"
+  },
+  "keywords": [
+    "Kadavu Island"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/List_of_airports_in_Fiji",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31738
+  }
+}

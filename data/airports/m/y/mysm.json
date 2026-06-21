@@ -1,0 +1,33 @@
+{
+  "key": "mysm",
+  "codes": {
+    "icao": "MYSM",
+    "iata": "ZSA",
+    "gps": "MYSM",
+    "local": null
+  },
+  "name": "San Salvador International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.063041,
+    "longitude": -74.523233,
+    "elevation_ft": 24,
+    "iso_country": "BS",
+    "iso_region": "BS-SS",
+    "municipality": "San Salvador"
+  },
+  "keywords": [
+    "Cockburn Town Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Salvador_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4954
+  }
+}

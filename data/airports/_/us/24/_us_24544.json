@@ -1,0 +1,30 @@
+{
+  "key": "_us_24544",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SD67",
+    "local": "SD67"
+  },
+  "name": "Flandreau Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.051601,
+    "longitude": -96.592003,
+    "elevation_ft": 1570,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Flandreau"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24544
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01453",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPS6",
+    "local": "CPS6"
+  },
+  "name": "Cornwall (Community Hospital McConnell Site) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.020302,
+    "longitude": -74.717796,
+    "elevation_ft": 230,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Cornwall"
+  },
+  "keywords": [
+    "PS6"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1453
+  }
+}

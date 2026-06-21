@@ -1,0 +1,35 @@
+{
+  "key": "rjoc",
+  "codes": {
+    "icao": "RJOC",
+    "iata": "IZO",
+    "gps": "RJOC",
+    "local": null
+  },
+  "name": "Izumo Enmusubi Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.413601,
+    "longitude": 132.889999,
+    "elevation_ft": 15,
+    "iso_country": "JP",
+    "iso_region": "JP-32",
+    "municipality": "Izumo"
+  },
+  "keywords": [
+    "izumo",
+    "enmusubi",
+    "en-musubi"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Izumo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5592
+  }
+}

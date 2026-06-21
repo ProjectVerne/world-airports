@@ -1,0 +1,30 @@
+{
+  "key": "_us_12080",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "56FL",
+    "local": "56FL"
+  },
+  "name": "Buchanan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.875999,
+    "longitude": -87.207497,
+    "elevation_ft": 246,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jay"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12080
+  }
+}

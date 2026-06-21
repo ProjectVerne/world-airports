@@ -1,0 +1,30 @@
+{
+  "key": "gcgo",
+  "codes": {
+    "icao": "GCGO",
+    "iata": null,
+    "gps": "GCGO",
+    "local": null
+  },
+  "name": "San Sebastián de La Gomera Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.0972,
+    "longitude": -17.1024,
+    "elevation_ft": 1,
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "La Gomera Island"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43297
+  }
+}

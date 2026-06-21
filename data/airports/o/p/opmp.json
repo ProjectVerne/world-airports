@@ -1,0 +1,30 @@
+{
+  "key": "opmp",
+  "codes": {
+    "icao": "OPMP",
+    "iata": "MPD",
+    "gps": "OPMP",
+    "local": null
+  },
+  "name": "Sindhri Tharparkar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.6828,
+    "longitude": 69.0728,
+    "elevation_ft": 51,
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Sindhri"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31936
+  }
+}

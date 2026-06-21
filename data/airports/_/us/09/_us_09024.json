@@ -1,0 +1,33 @@
+{
+  "key": "_us_09024",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "24OK",
+    "local": "24OK"
+  },
+  "name": "SSM Health St Anthony Hospital-Shawnee Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.244862,
+    "longitude": -96.697758,
+    "elevation_ft": 964,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Seminole"
+  },
+  "keywords": [
+    "Columbia Seminole",
+    "Alliance Health Seminole"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9024
+  }
+}

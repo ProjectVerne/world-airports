@@ -1,0 +1,30 @@
+{
+  "key": "ncmn",
+  "codes": {
+    "icao": "NCMN",
+    "iata": null,
+    "gps": "NCMN",
+    "local": null
+  },
+  "name": "Manuae Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.269152,
+    "longitude": -158.959408,
+    "elevation_ft": 15,
+    "iso_country": "CK",
+    "iso_region": "CK-U-A",
+    "municipality": "Manuae"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32011
+  }
+}

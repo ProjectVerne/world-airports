@@ -1,0 +1,31 @@
+{
+  "key": "kbdr",
+  "codes": {
+    "icao": "KBDR",
+    "iata": "BDR",
+    "gps": "KBDR",
+    "local": "BDR"
+  },
+  "name": "Igor I Sikorsky Memorial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.163502,
+    "longitude": -73.126198,
+    "elevation_ft": 9,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Bridgeport"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sikorsky_Memorial_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3397
+  }
+}

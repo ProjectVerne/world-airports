@@ -1,0 +1,30 @@
+{
+  "key": "_us_06900",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "06OR",
+    "local": "06OR"
+  },
+  "name": "Hayden Mountain Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.465099,
+    "longitude": -123.080002,
+    "elevation_ft": 850,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Forest Grove"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6900
+  }
+}

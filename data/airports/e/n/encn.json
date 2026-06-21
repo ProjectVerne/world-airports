@@ -1,0 +1,33 @@
+{
+  "key": "encn",
+  "codes": {
+    "icao": "ENCN",
+    "iata": "KRS",
+    "gps": "ENCN",
+    "local": null
+  },
+  "name": "Kristiansand Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.204201,
+    "longitude": 8.08537,
+    "elevation_ft": 57,
+    "iso_country": "NO",
+    "iso_region": "NO-42",
+    "municipality": "Kristiansand(Kjevik)"
+  },
+  "keywords": [
+    "Kjevik Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kristiansand_Airport%2C_Kjevik",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2572
+  }
+}

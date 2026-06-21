@@ -1,0 +1,33 @@
+{
+  "key": "koak",
+  "codes": {
+    "icao": "KOAK",
+    "iata": "OAK",
+    "gps": "KOAK",
+    "local": "OAK"
+  },
+  "name": "Oakland San Francisco Bay Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.720085,
+    "longitude": -122.221184,
+    "elevation_ft": 9,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Oakland"
+  },
+  "keywords": [
+    "Metro Oakland International"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Oakland_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3744
+  }
+}

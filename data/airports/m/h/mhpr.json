@@ -1,0 +1,38 @@
+{
+  "key": "mhpr",
+  "codes": {
+    "icao": "MHPR",
+    "iata": "XPL",
+    "gps": "MHPR",
+    "local": null
+  },
+  "name": "Palmerola International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 14.3824,
+    "longitude": -87.621201,
+    "elevation_ft": 2061,
+    "iso_country": "HN",
+    "iso_region": "HN-CM",
+    "municipality": "Palmerola"
+  },
+  "keywords": [
+    "Comayagua International",
+    "MHSC",
+    "Soto Cano",
+    "Palmerola Air Base",
+    "José Enrique Soto Cano Air Base",
+    "Tegucigalpa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Comayagua_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4664
+  }
+}

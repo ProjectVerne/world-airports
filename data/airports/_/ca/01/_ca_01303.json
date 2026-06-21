@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01303",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNF3",
+    "local": "CNF3"
+  },
+  "name": "Pendleton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.486099,
+    "longitude": -75.0961,
+    "elevation_ft": 260,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Pendleton"
+  },
+  "keywords": [
+    "NF3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pendleton_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1303
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01147",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJX3",
+    "local": "CJX3"
+  },
+  "name": "La Ronge Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 55.1147,
+    "longitude": -105.294998,
+    "elevation_ft": 1225,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "La Ronge"
+  },
+  "keywords": [
+    "JX3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1147
+  }
+}

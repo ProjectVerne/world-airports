@@ -1,0 +1,32 @@
+{
+  "key": "_us_16080",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KA51",
+    "local": "A51"
+  },
+  "name": "Costin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.75588,
+    "longitude": -85.288972,
+    "elevation_ft": 13,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Port St Joe"
+  },
+  "keywords": [
+    "FD51"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16080
+  }
+}

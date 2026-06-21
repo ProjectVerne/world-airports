@@ -1,0 +1,33 @@
+{
+  "key": "lemh",
+  "codes": {
+    "icao": "LEMH",
+    "iata": "MAH",
+    "gps": "LEMH",
+    "local": null
+  },
+  "name": "Menorca Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.862598,
+    "longitude": 4.21865,
+    "elevation_ft": 302,
+    "iso_country": "ES",
+    "iso_region": "ES-IB",
+    "municipality": "Mahón (Maó)"
+  },
+  "keywords": [
+    "Menorca"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Menorca_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4021
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "lomp",
+  "codes": {
+    "icao": "LOMP",
+    "iata": null,
+    "gps": "LOMP",
+    "local": null
+  },
+  "name": "Patergassen Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.819363,
+    "longitude": 13.857,
+    "elevation_ft": 3576,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Patergassen"
+  },
+  "keywords": [
+    "OAMTC",
+    "Reichenau",
+    "Feldkirchen",
+    "AT-0048"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43805
+  }
+}

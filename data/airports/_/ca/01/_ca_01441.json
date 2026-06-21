@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01441",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPP7",
+    "local": "CPP7"
+  },
+  "name": "Ottawa (Civic Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.391468,
+    "longitude": -75.720598,
+    "elevation_ft": 265,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Ottawa"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1441
+  }
+}

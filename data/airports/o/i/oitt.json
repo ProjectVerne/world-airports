@@ -1,0 +1,33 @@
+{
+  "key": "oitt",
+  "codes": {
+    "icao": "OITT",
+    "iata": "TBZ",
+    "gps": "OITT",
+    "local": null
+  },
+  "name": "Tabriz International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.1339,
+    "longitude": 46.235001,
+    "elevation_ft": 4459,
+    "iso_country": "IR",
+    "iso_region": "IR-03",
+    "municipality": "Tabriz"
+  },
+  "keywords": [
+    "IRIAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tabriz_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5204
+  }
+}

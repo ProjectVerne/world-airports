@@ -1,0 +1,31 @@
+{
+  "key": "nzhn",
+  "codes": {
+    "icao": "NZHN",
+    "iata": "HLZ",
+    "gps": "NZHN",
+    "local": null
+  },
+  "name": "Hamilton International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -37.866961,
+    "longitude": 175.331952,
+    "elevation_ft": 172,
+    "iso_country": "NZ",
+    "iso_region": "NZ-WKO",
+    "municipality": "Hamilton"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hamilton_Airport_(New_Zealand)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5033
+  }
+}

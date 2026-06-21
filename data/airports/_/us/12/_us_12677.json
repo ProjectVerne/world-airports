@@ -1,0 +1,30 @@
+{
+  "key": "_us_12677",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5TN3",
+    "local": "5TN3"
+  },
+  "name": "Boondocks Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.7384,
+    "longitude": -83.606598,
+    "elevation_ft": 1500,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Pigeon Forge"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12677
+  }
+}

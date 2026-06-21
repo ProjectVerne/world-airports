@@ -1,0 +1,33 @@
+{
+  "key": "pafb",
+  "codes": {
+    "icao": "PAFB",
+    "iata": "FBK",
+    "gps": "PAFB",
+    "local": "FBK"
+  },
+  "name": "Ladd Army Airfield",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.837502,
+    "longitude": -147.613998,
+    "elevation_ft": 454,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Fairbanks"
+  },
+  "keywords": [
+    "Fort Wainwright"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ladd_Army_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5361
+  }
+}

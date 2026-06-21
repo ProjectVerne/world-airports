@@ -1,0 +1,32 @@
+{
+  "key": "kfsw",
+  "codes": {
+    "icao": "KFSW",
+    "iata": "FMS",
+    "gps": "KFSW",
+    "local": "FSW"
+  },
+  "name": "Fort Madison Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.659113,
+    "longitude": -91.327763,
+    "elevation_ft": 724,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Fort Madison"
+  },
+  "keywords": [
+    "K27"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19902
+  }
+}

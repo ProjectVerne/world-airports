@@ -1,0 +1,31 @@
+{
+  "key": "zuws",
+  "codes": {
+    "icao": "ZUWS",
+    "iata": "WSK",
+    "gps": "ZUWS",
+    "local": "WSK"
+  },
+  "name": "Chongqing Wushan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.06896,
+    "longitude": 109.708958,
+    "elevation_ft": 0,
+    "iso_country": "CN",
+    "iso_region": "CN-50",
+    "municipality": "Wushan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chongqing_Wushan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 336105
+  }
+}

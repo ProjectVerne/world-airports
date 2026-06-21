@@ -1,0 +1,33 @@
+{
+  "key": "saar",
+  "codes": {
+    "icao": "SAAR",
+    "iata": "ROS",
+    "gps": "SAAR",
+    "local": "ROS"
+  },
+  "name": "Rosario Islas Malvinas International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -32.9036,
+    "longitude": -60.785,
+    "elevation_ft": 85,
+    "iso_country": "AR",
+    "iso_region": "AR-S",
+    "municipality": "Rosario"
+  },
+  "keywords": [
+    "Fisherton Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rosario_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5769
+  }
+}

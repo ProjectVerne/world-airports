@@ -1,0 +1,30 @@
+{
+  "key": "_us_09500",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2KY3",
+    "local": "2KY3"
+  },
+  "name": "Plane-O-Field Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.834702,
+    "longitude": -86.458298,
+    "elevation_ft": 655,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Bowling Green"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9500
+  }
+}

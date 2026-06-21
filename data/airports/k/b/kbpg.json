@@ -1,0 +1,36 @@
+{
+  "key": "kbpg",
+  "codes": {
+    "icao": "KBPG",
+    "iata": "HCA",
+    "gps": "KBPG",
+    "local": "BPG"
+  },
+  "name": "Big Spring Mc Mahon-Wrinkle Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.212601,
+    "longitude": -101.522003,
+    "elevation_ft": 2573,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Big Spring"
+  },
+  "keywords": [
+    "21XS",
+    "T49",
+    "Webb AFB",
+    "BGS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Big_Spring_McMahon-Wrinkle_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19400
+  }
+}

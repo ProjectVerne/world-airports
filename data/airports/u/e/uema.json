@@ -1,0 +1,33 @@
+{
+  "key": "uema",
+  "codes": {
+    "icao": "UEMA",
+    "iata": "MQJ",
+    "gps": "UEMA",
+    "local": null
+  },
+  "name": "Moma Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.450861,
+    "longitude": 143.261551,
+    "elevation_ft": 656,
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Khonuu"
+  },
+  "keywords": [
+    "Аэропорт Мома"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moma_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32509
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "egmd",
+  "codes": {
+    "icao": "EGMD",
+    "iata": "LYX",
+    "gps": "EGMD",
+    "local": null
+  },
+  "name": "Lydd London Ashford Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.956246,
+    "longitude": 0.939074,
+    "elevation_ft": 13,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Romney Marsh, Kent"
+  },
+  "keywords": [
+    "London Ashford"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lydd_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2436
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_10533",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3IS9",
+    "local": "3IS9"
+  },
+  "name": "Grand Tower Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.632801,
+    "longitude": -89.506203,
+    "elevation_ft": 370,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Grand Tower"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10533
+  }
+}

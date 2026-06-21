@@ -1,0 +1,34 @@
+{
+  "key": "lybe",
+  "codes": {
+    "icao": "LYBE",
+    "iata": "BEG",
+    "gps": "LYBE",
+    "local": null
+  },
+  "name": "Belgrade Nikola Tesla Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.818401,
+    "longitude": 20.309099,
+    "elevation_ft": 335,
+    "iso_country": "RS",
+    "iso_region": "RS-00",
+    "municipality": "Belgrade"
+  },
+  "keywords": [
+    "Beograd",
+    "Surčin Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Belgrade_Nikola_Tesla_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4610
+  }
+}

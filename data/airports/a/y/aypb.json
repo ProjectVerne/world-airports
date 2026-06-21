@@ -1,0 +1,30 @@
+{
+  "key": "aypb",
+  "codes": {
+    "icao": "AYPB",
+    "iata": "PLE",
+    "gps": "AYPB",
+    "local": "PAL"
+  },
+  "name": "Paiela Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.372407,
+    "longitude": 142.975774,
+    "elevation_ft": 6100,
+    "iso_country": "PG",
+    "iso_region": "PG-EPW",
+    "municipality": "Paiela"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 306995
+  }
+}

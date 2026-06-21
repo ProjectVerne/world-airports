@@ -1,0 +1,30 @@
+{
+  "key": "_us_10721",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3OK3",
+    "local": "3OK3"
+  },
+  "name": "Cedar Crest Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.105099,
+    "longitude": -95.235199,
+    "elevation_ft": 582,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Locust Grove"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10721
+  }
+}

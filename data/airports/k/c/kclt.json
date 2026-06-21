@@ -1,0 +1,31 @@
+{
+  "key": "kclt",
+  "codes": {
+    "icao": "KCLT",
+    "iata": "CLT",
+    "gps": "KCLT",
+    "local": "CLT"
+  },
+  "name": "Charlotte Douglas International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.214001,
+    "longitude": -80.9431,
+    "elevation_ft": 748,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Charlotte"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Charlotte/Douglas_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3457
+  }
+}

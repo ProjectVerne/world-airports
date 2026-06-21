@@ -1,0 +1,32 @@
+{
+  "key": "_us_17242",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FA52",
+    "local": "FA52"
+  },
+  "name": "AdventHealth Sebring Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.538057,
+    "longitude": -81.509274,
+    "elevation_ft": 154,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Sebring"
+  },
+  "keywords": [
+    "Florida Hospital-Sebring"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17242
+  }
+}

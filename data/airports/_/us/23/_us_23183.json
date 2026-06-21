@@ -1,0 +1,33 @@
+{
+  "key": "_us_23183",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Connelly Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.085098,
+    "longitude": -76.921303,
+    "elevation_ft": 1525,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Elmira"
+  },
+  "keywords": [
+    "NK52",
+    "US-11889"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23183
+  }
+}

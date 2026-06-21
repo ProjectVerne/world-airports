@@ -1,0 +1,32 @@
+{
+  "key": "_us_354137",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TX33",
+    "local": "TX33"
+  },
+  "name": "HCA Houston Healthcare Northwest Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.019864,
+    "longitude": -95.441131,
+    "elevation_ft": 115,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [
+    "US-6813"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 354137
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "ebci",
+  "codes": {
+    "icao": "EBCI",
+    "iata": "CRL",
+    "gps": "EBCI",
+    "local": null
+  },
+  "name": "Brussels South Charleroi Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.461963,
+    "longitude": 4.459562,
+    "elevation_ft": 614,
+    "iso_country": "BE",
+    "iso_region": "BE-WHT",
+    "municipality": "Charleroi"
+  },
+  "keywords": [
+    "Gosselies Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brussels_South_Charleroi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2157
+  }
+}

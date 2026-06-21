@@ -1,0 +1,32 @@
+{
+  "key": "_fk_322405",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Douglas Station Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -51.459942,
+    "longitude": -58.612131,
+    "elevation_ft": 0,
+    "iso_country": "FK",
+    "iso_region": "FK-U-A",
+    "municipality": "Douglas"
+  },
+  "keywords": [
+    "FK-0024"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322405
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "hkno",
+  "codes": {
+    "icao": "HKNO",
+    "iata": null,
+    "gps": "HKNO",
+    "local": null
+  },
+  "name": "Narok Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.13003,
+    "longitude": 35.789124,
+    "elevation_ft": 6311,
+    "iso_country": "KE",
+    "iso_region": "KE-33",
+    "municipality": "Narok"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Narok_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31595
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_608785",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "65KS",
+    "local": "65KS"
+  },
+  "name": "Ty Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.232486,
+    "longitude": -96.421806,
+    "elevation_ft": 1160,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Saint George"
+  },
+  "keywords": [
+    "US-12965"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 608785
+  }
+}

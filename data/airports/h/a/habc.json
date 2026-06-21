@@ -1,0 +1,34 @@
+{
+  "key": "habc",
+  "codes": {
+    "icao": "HABC",
+    "iata": "BCO",
+    "gps": "HABC",
+    "local": null
+  },
+  "name": "Jinka Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.749655,
+    "longitude": 36.560165,
+    "elevation_ft": 4475,
+    "iso_country": "ET",
+    "iso_region": "ET-SN",
+    "municipality": "Jinka"
+  },
+  "keywords": [
+    "Baco Airport",
+    "HAJK"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Baco_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 525781
+  }
+}

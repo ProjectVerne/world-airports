@@ -1,0 +1,34 @@
+{
+  "key": "egsc",
+  "codes": {
+    "icao": "EGSC",
+    "iata": "CBG",
+    "gps": "EGSC",
+    "local": null
+  },
+  "name": "Cambridge City Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.205002,
+    "longitude": 0.175,
+    "elevation_ft": 47,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Cambridge, Cambridgeshire"
+  },
+  "keywords": [
+    "Marshall",
+    "RAF Cambridge"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cambridge_City_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2473
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "ayoo",
+  "codes": {
+    "icao": "AYOO",
+    "iata": "KOM",
+    "gps": "AYOO",
+    "local": "KOMO"
+  },
+  "name": "Komo-Manda Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.0682,
+    "longitude": 142.8598,
+    "elevation_ft": 5057,
+    "iso_country": "PG",
+    "iso_region": "PG-HLA",
+    "municipality": "Komo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308516
+  }
+}

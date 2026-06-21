@@ -1,0 +1,30 @@
+{
+  "key": "_us_09750",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2SC6",
+    "local": "2SC6"
+  },
+  "name": "Sled Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.066101,
+    "longitude": -81.115601,
+    "elevation_ft": 275,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Columbia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9750
+  }
+}

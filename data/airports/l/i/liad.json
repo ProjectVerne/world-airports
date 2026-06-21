@@ -1,0 +1,32 @@
+{
+  "key": "liad",
+  "codes": {
+    "icao": "LIAD",
+    "iata": null,
+    "gps": "LIAD",
+    "local": null
+  },
+  "name": "Capitalia Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.824691,
+    "longitude": 12.381729,
+    "elevation_ft": 116,
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Rome"
+  },
+  "keywords": [
+    "IT-0061"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 314853
+  }
+}

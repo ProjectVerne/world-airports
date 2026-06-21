@@ -1,0 +1,30 @@
+{
+  "key": "_us_10135",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "35GA",
+    "local": "35GA"
+  },
+  "name": "Buford Precinct Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.0979,
+    "longitude": -84.012398,
+    "elevation_ft": 1070,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Buford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10135
+  }
+}

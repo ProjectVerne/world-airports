@@ -1,0 +1,32 @@
+{
+  "key": "_us_346683",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Air Evac 8 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.71727,
+    "longitude": -90.41183,
+    "elevation_ft": 866,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Farmington"
+  },
+  "keywords": [
+    "US-4885"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 346683
+  }
+}

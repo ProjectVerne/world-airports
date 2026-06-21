@@ -1,0 +1,30 @@
+{
+  "key": "ayxw",
+  "codes": {
+    "icao": "AYXW",
+    "iata": "WEP",
+    "gps": "AYXW",
+    "local": "WEAM"
+  },
+  "name": "Weam Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.6184,
+    "longitude": 141.1381,
+    "elevation_ft": 50,
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Weam"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 316476
+  }
+}

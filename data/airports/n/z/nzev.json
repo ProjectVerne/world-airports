@@ -1,0 +1,30 @@
+{
+  "key": "nzev",
+  "codes": {
+    "icao": "NZEV",
+    "iata": null,
+    "gps": "NZEV",
+    "local": null
+  },
+  "name": "Eves Valley Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -41.339777,
+    "longitude": 173.077614,
+    "elevation_ft": 126,
+    "iso_country": "NZ",
+    "iso_region": "NZ-NSN",
+    "municipality": "Eves Valley"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 355372
+  }
+}

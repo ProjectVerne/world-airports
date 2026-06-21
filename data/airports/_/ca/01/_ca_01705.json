@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01705",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CYDC",
+    "local": null
+  },
+  "name": "Princeton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.468102,
+    "longitude": -120.511002,
+    "elevation_ft": 2298,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Town of Princeton"
+  },
+  "keywords": [
+    "YDC"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Princeton_Airport_(British_Columbia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1705
+  }
+}

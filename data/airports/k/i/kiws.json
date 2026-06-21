@@ -1,0 +1,34 @@
+{
+  "key": "kiws",
+  "codes": {
+    "icao": "KIWS",
+    "iata": "IWS",
+    "gps": "KIWS",
+    "local": "IWS"
+  },
+  "name": "West Houston Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.818199,
+    "longitude": -95.6726,
+    "elevation_ft": 111,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [
+    "Lakeside",
+    "Memorial Skyland"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/West_Houston_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20198
+  }
+}

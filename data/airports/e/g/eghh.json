@@ -1,0 +1,33 @@
+{
+  "key": "eghh",
+  "codes": {
+    "icao": "EGHH",
+    "iata": "BOH",
+    "gps": "EGHH",
+    "local": null
+  },
+  "name": "Bournemouth Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.780483,
+    "longitude": -1.839576,
+    "elevation_ft": 38,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Bournemouth"
+  },
+  "keywords": [
+    "RAF Hurn"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bournemouth_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2421
+  }
+}

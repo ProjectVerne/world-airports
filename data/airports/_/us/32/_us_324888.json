@@ -1,0 +1,30 @@
+{
+  "key": "_us_324888",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OK71",
+    "local": "OK71"
+  },
+  "name": "TLC Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.503744,
+    "longitude": -98.008838,
+    "elevation_ft": 1367,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Carrier"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 324888
+  }
+}

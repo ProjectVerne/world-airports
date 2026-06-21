@@ -1,0 +1,35 @@
+{
+  "key": "rors",
+  "codes": {
+    "icao": "RORS",
+    "iata": "SHI",
+    "gps": "RORS",
+    "local": null
+  },
+  "name": "Shimojishima Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.8267,
+    "longitude": 125.144997,
+    "elevation_ft": 54,
+    "iso_country": "JP",
+    "iso_region": "JP-47",
+    "municipality": "Miyakojima"
+  },
+  "keywords": [
+    "Miyako",
+    "Shimoji",
+    "Shimojijima"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shimojishima_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5680
+  }
+}

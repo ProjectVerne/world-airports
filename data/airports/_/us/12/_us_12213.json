@@ -1,0 +1,33 @@
+{
+  "key": "_us_12213",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Dunn Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.408401,
+    "longitude": -95.019095,
+    "elevation_ft": 1060,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Beagle"
+  },
+  "keywords": [
+    "59KS",
+    "US-10347"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12213
+  }
+}

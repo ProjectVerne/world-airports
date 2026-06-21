@@ -1,0 +1,30 @@
+{
+  "key": "_us_23027",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH75",
+    "local": "NH75"
+  },
+  "name": "Psnh Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.1451,
+    "longitude": -71.475304,
+    "elevation_ft": 190,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Bow"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23027
+  }
+}

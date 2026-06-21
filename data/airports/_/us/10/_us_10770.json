@@ -1,0 +1,33 @@
+{
+  "key": "_us_10770",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "GA82",
+    "local": "GA82"
+  },
+  "name": "Rust Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.3326,
+    "longitude": -84.401901,
+    "elevation_ft": 810,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Woolsey"
+  },
+  "keywords": [
+    "3RU"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rust_Airstrip",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10770
+  }
+}

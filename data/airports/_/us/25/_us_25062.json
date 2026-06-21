@@ -1,0 +1,33 @@
+{
+  "key": "_us_25062",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "PPH Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 29.932699,
+    "longitude": -93.938499,
+    "elevation_ft": 5,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Port Arthur"
+  },
+  "keywords": [
+    "TS46",
+    "US-12269"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25062
+  }
+}

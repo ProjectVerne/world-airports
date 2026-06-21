@@ -1,0 +1,34 @@
+{
+  "key": "gmag",
+  "codes": {
+    "icao": "GMAG",
+    "iata": "GLN",
+    "gps": "GMAG",
+    "local": null
+  },
+  "name": "Guelmim Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.026699,
+    "longitude": -10.0503,
+    "elevation_ft": 984,
+    "iso_country": "MA",
+    "iso_region": "MA-10",
+    "municipality": "Guelmim"
+  },
+  "keywords": [
+    "Goulimime",
+    "MA-GLN"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Guelmim_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31539
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ekbi",
+  "codes": {
+    "icao": "EKBI",
+    "iata": "BLL",
+    "gps": "EKBI",
+    "local": null
+  },
+  "name": "Billund Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.740335,
+    "longitude": 9.157019,
+    "elevation_ft": 247,
+    "iso_country": "DK",
+    "iso_region": "DK-83",
+    "municipality": "Billund"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Billund_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2541
+  }
+}

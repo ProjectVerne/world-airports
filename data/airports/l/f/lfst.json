@@ -1,0 +1,33 @@
+{
+  "key": "lfst",
+  "codes": {
+    "icao": "LFST",
+    "iata": "SXB",
+    "gps": "LFST",
+    "local": null
+  },
+  "name": "Strasbourg Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.5383,
+    "longitude": 7.62823,
+    "elevation_ft": 505,
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "Strasbourg"
+  },
+  "keywords": [
+    "BA 124"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Strasbourg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4238
+  }
+}

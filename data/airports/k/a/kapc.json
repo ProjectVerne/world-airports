@@ -1,0 +1,31 @@
+{
+  "key": "kapc",
+  "codes": {
+    "icao": "KAPC",
+    "iata": "APC",
+    "gps": "KAPC",
+    "local": "APC"
+  },
+  "name": "Napa County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.2132,
+    "longitude": -122.280998,
+    "elevation_ft": 35,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Napa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Napa_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19292
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_06723",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "03MS",
+    "local": "03MS"
+  },
+  "name": "Vicksburg Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.318802,
+    "longitude": -90.883202,
+    "elevation_ft": 110,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Vicksburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6723
+  }
+}

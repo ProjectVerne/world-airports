@@ -1,0 +1,31 @@
+{
+  "key": "kbce",
+  "codes": {
+    "icao": "KBCE",
+    "iata": "BCE",
+    "gps": "KBCE",
+    "local": "BCE"
+  },
+  "name": "Bryce Canyon Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.706402,
+    "longitude": -112.144997,
+    "elevation_ft": 7590,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Bryce Canyon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bryce_Canyon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19357
+  }
+}

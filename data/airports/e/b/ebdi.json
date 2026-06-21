@@ -1,0 +1,31 @@
+{
+  "key": "ebdi",
+  "codes": {
+    "icao": "EBDI",
+    "iata": null,
+    "gps": "EBDI",
+    "local": null
+  },
+  "name": "Diksmuide Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.019276,
+    "longitude": 2.858205,
+    "elevation_ft": 13,
+    "iso_country": "BE",
+    "iso_region": "BE-VWV",
+    "municipality": "Diksmuide"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Diksmuide_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29032
+  }
+}

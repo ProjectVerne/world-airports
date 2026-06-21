@@ -1,0 +1,31 @@
+{
+  "key": "kftw",
+  "codes": {
+    "icao": "KFTW",
+    "iata": "FTW",
+    "gps": "KFTW",
+    "local": "FTW"
+  },
+  "name": "Fort Worth Meacham International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.819919,
+    "longitude": -97.360818,
+    "elevation_ft": 710,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Worth_Meacham_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3545
+  }
+}

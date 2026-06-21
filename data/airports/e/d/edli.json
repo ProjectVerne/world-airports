@@ -1,0 +1,33 @@
+{
+  "key": "edli",
+  "codes": {
+    "icao": "EDLI",
+    "iata": "BFE",
+    "gps": "EDLI",
+    "local": null
+  },
+  "name": "Bielefeld Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.964722,
+    "longitude": 8.544444,
+    "elevation_ft": 454,
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Bielefeld"
+  },
+  "keywords": [
+    "Flugplatz-Windelsbleiche"
+  ],
+  "wikipedia": "http://de.wikipedia.org/wiki/Flugplatz_Bielefeld",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2242
+  }
+}

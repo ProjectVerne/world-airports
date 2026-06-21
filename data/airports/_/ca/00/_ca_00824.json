@@ -1,0 +1,30 @@
+{
+  "key": "_ca_00824",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CDV3",
+    "local": "CDV3"
+  },
+  "name": "Charlottetown (Queen Elizabeth Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.255493,
+    "longitude": -63.098887,
+    "elevation_ft": 20,
+    "iso_country": "CA",
+    "iso_region": "CA-PE",
+    "municipality": "Charlottetown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 824
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "lfrn",
+  "codes": {
+    "icao": "LFRN",
+    "iata": "RNS",
+    "gps": "LFRN",
+    "local": null
+  },
+  "name": "Rennes-Saint-Jacques Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.0695,
+    "longitude": -1.73479,
+    "elevation_ft": 124,
+    "iso_country": "FR",
+    "iso_region": "FR-BRE",
+    "municipality": "Saint-Jacques-de-la-Lande, Ille-et-Vilaine"
+  },
+  "keywords": [
+    "Rennes Bretagne"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rennes_-_Saint-Jacques_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4218
+  }
+}

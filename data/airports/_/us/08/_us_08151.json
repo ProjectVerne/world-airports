@@ -1,0 +1,30 @@
+{
+  "key": "_us_08151",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "19NH",
+    "local": "19NH"
+  },
+  "name": "Lorden II Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.978194,
+    "longitude": -71.693806,
+    "elevation_ft": 700,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "New Boston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8151
+  }
+}

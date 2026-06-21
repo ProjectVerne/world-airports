@@ -1,0 +1,39 @@
+{
+  "key": "kixd",
+  "codes": {
+    "icao": "KIXD",
+    "iata": "JCI",
+    "gps": "KIXD",
+    "local": "IXD"
+  },
+  "name": "New Century AirCenter Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.830898,
+    "longitude": -94.890297,
+    "elevation_ft": 1087,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "New Century"
+  },
+  "keywords": [
+    "NUU",
+    "KNUU",
+    "Naval Air Station Olathe",
+    "NAS Olathe",
+    "Olathe",
+    "Flatley Field",
+    "Johnson County Industrial Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Century_AirCenter",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20199
+  }
+}

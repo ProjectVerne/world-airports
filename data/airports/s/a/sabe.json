@@ -1,0 +1,31 @@
+{
+  "key": "sabe",
+  "codes": {
+    "icao": "SABE",
+    "iata": "AEP",
+    "gps": "SABE",
+    "local": "AER"
+  },
+  "name": "Aeroparque Jorge Newbery",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.559419,
+    "longitude": -58.415536,
+    "elevation_ft": 18,
+    "iso_country": "AR",
+    "iso_region": "AR-C",
+    "municipality": "Buenos Aires"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aeroparque_Jorge_Newbery",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5771
+  }
+}

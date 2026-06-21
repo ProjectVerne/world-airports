@@ -1,0 +1,31 @@
+{
+  "key": "aggs",
+  "codes": {
+    "icao": "AGGS",
+    "iata": "EGM",
+    "gps": "AGGS",
+    "local": null
+  },
+  "name": "Sege Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.57889,
+    "longitude": 157.876007,
+    "elevation_ft": 0,
+    "iso_country": "SB",
+    "iso_region": "SB-WE",
+    "municipality": "Sege"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Seghe_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30989
+  }
+}

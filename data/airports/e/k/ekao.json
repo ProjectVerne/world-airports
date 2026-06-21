@@ -1,0 +1,30 @@
+{
+  "key": "ekao",
+  "codes": {
+    "icao": "EKAO",
+    "iata": null,
+    "gps": "EKAO",
+    "local": null
+  },
+  "name": "Ærø Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 54.89068,
+    "longitude": 10.398566,
+    "elevation_ft": 50,
+    "iso_country": "DK",
+    "iso_region": "DK-83",
+    "municipality": "Ærøskøbing"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 602262
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "urka",
+  "codes": {
+    "icao": "URKA",
+    "iata": "AAQ",
+    "gps": "URKA",
+    "local": null
+  },
+  "name": "Anapa Vityazevo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.002102,
+    "longitude": 37.347301,
+    "elevation_ft": 174,
+    "iso_country": "RU",
+    "iso_region": "RU-KDA",
+    "municipality": "Krasnyi Kurgan"
+  },
+  "keywords": [
+    "Vityazevo Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Anapa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6511
+  }
+}

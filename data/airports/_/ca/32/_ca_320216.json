@@ -1,0 +1,30 @@
+{
+  "key": "_ca_320216",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CWD2",
+    "local": "CWD2"
+  },
+  "name": "Collingwood / Alta Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.530007,
+    "longitude": -80.353693,
+    "elevation_ft": 725,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Collingwood"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320216
+  }
+}

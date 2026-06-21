@@ -1,0 +1,33 @@
+{
+  "key": "khst",
+  "codes": {
+    "icao": "KHST",
+    "iata": "HST",
+    "gps": "KHST",
+    "local": "HST"
+  },
+  "name": "Homestead Air Reserve Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.4886,
+    "longitude": -80.383598,
+    "elevation_ft": 5,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Homestead"
+  },
+  "keywords": [
+    "Dade County Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Homestead_Air_Reserve_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3593
+  }
+}

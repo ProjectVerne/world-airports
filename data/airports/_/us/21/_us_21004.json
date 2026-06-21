@@ -1,0 +1,33 @@
+{
+  "key": "_us_21004",
+  "codes": {
+    "icao": null,
+    "iata": "PRZ",
+    "gps": "S39",
+    "local": "S39"
+  },
+  "name": "Prineville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.286999,
+    "longitude": -120.903999,
+    "elevation_ft": 3250,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Prineville"
+  },
+  "keywords": [
+    "KS39"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Prineville_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21004
+  }
+}

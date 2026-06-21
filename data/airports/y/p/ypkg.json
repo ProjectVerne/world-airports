@@ -1,0 +1,31 @@
+{
+  "key": "ypkg",
+  "codes": {
+    "icao": "YPKG",
+    "iata": "KGI",
+    "gps": "YPKG",
+    "local": null
+  },
+  "name": "Kalgoorlie Boulder Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -30.791543,
+    "longitude": 121.464586,
+    "elevation_ft": 1203,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Broadwood"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kalgoorlie-Boulder_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27108
+  }
+}

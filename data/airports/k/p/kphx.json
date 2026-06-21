@@ -1,0 +1,31 @@
+{
+  "key": "kphx",
+  "codes": {
+    "icao": "KPHX",
+    "iata": "PHX",
+    "gps": "KPHX",
+    "local": "PHX"
+  },
+  "name": "Phoenix Sky Harbor International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.435302,
+    "longitude": -112.005905,
+    "elevation_ft": 1135,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Phoenix"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Phoenix_Sky_Harbor_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3772
+  }
+}

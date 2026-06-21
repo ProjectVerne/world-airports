@@ -1,0 +1,33 @@
+{
+  "key": "kfrg",
+  "codes": {
+    "icao": "KFRG",
+    "iata": "FRG",
+    "gps": "KFRG",
+    "local": "FRG"
+  },
+  "name": "Republic Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.728576,
+    "longitude": -73.414267,
+    "elevation_ft": 82,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "East Farmingdale"
+  },
+  "keywords": [
+    "Fairchild Flying Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Republic_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3539
+  }
+}

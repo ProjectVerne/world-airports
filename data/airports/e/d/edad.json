@@ -1,0 +1,31 @@
+{
+  "key": "edad",
+  "codes": {
+    "icao": "EDAD",
+    "iata": null,
+    "gps": "EDAD",
+    "local": null
+  },
+  "name": "Dessau Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.8318,
+    "longitude": 12.184011,
+    "elevation_ft": 187,
+    "iso_country": "DE",
+    "iso_region": "DE-ST",
+    "municipality": "Dessau-Roßlau"
+  },
+  "keywords": [],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Dessau",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2185
+  }
+}

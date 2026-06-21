@@ -1,0 +1,32 @@
+{
+  "key": "_ve_40492",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "SVNRT"
+  },
+  "name": "Muelle Seco Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 10.240283,
+    "longitude": -64.630423,
+    "elevation_ft": 15,
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "Puerto La Cruz"
+  },
+  "keywords": [
+    "VE-0143"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40492
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "dngu",
+  "codes": {
+    "icao": "DNGU",
+    "iata": null,
+    "gps": "DNGU",
+    "local": null
+  },
+  "name": "Gusau Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.17286,
+    "longitude": 6.696136,
+    "elevation_ft": 1520,
+    "iso_country": "NG",
+    "iso_region": "NG-ZA",
+    "municipality": "Gusau"
+  },
+  "keywords": [
+    "QUS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gusau_Airstrip",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2109
+  }
+}

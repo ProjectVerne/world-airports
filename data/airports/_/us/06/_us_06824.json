@@ -1,0 +1,30 @@
+{
+  "key": "_us_06824",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "05IS",
+    "local": "05IS"
+  },
+  "name": "Hardy Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.725899,
+    "longitude": -89.264,
+    "elevation_ft": 605,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Mount Auburn"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6824
+  }
+}

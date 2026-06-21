@@ -1,0 +1,33 @@
+{
+  "key": "sdrs",
+  "codes": {
+    "icao": "SDRS",
+    "iata": "REZ",
+    "gps": "SDRS",
+    "local": "RJ0007"
+  },
+  "name": "Resende Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.4785,
+    "longitude": -44.480301,
+    "elevation_ft": 1320,
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Resende"
+  },
+  "keywords": [
+    "QRZ"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Resende_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 200
+  }
+}

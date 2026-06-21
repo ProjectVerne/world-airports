@@ -1,0 +1,30 @@
+{
+  "key": "_us_26165",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "XA30",
+    "local": "XA30"
+  },
+  "name": "Etmc Trinity Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.9566,
+    "longitude": -95.3806,
+    "elevation_ft": 233,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Trinity"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26165
+  }
+}

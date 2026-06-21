@@ -1,0 +1,31 @@
+{
+  "key": "keok",
+  "codes": {
+    "icao": "KEOK",
+    "iata": "EOK",
+    "gps": "KEOK",
+    "local": "EOK"
+  },
+  "name": "Keokuk Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.4599,
+    "longitude": -91.428497,
+    "elevation_ft": 671,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Keokuk"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Keokuk_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19761
+  }
+}

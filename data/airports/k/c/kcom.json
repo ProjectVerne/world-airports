@@ -1,0 +1,31 @@
+{
+  "key": "kcom",
+  "codes": {
+    "icao": "KCOM",
+    "iata": "COM",
+    "gps": "KCOM",
+    "local": "COM"
+  },
+  "name": "Coleman Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.841101,
+    "longitude": -99.403603,
+    "elevation_ft": 1697,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Coleman"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Coleman_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19533
+  }
+}

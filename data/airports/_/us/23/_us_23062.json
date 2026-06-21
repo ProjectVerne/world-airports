@@ -1,0 +1,32 @@
+{
+  "key": "_us_23062",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NJ17",
+    "local": "NJ17"
+  },
+  "name": "Cooper University Hospital Kelemen Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.940771,
+    "longitude": -75.116272,
+    "elevation_ft": 172,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Camden"
+  },
+  "keywords": [
+    "Cooper Medical Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23062
+  }
+}

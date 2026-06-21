@@ -1,0 +1,33 @@
+{
+  "key": "_us_18080",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Clifton Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.5242,
+    "longitude": -87.411903,
+    "elevation_ft": 760,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Boswell"
+  },
+  "keywords": [
+    "IN09",
+    "US-11436"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18080
+  }
+}

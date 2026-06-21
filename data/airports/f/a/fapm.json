@@ -1,0 +1,31 @@
+{
+  "key": "fapm",
+  "codes": {
+    "icao": "FAPM",
+    "iata": "PZB",
+    "gps": "FAPM",
+    "local": null
+  },
+  "name": "Pietermaritzburg Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.649,
+    "longitude": 30.398701,
+    "elevation_ft": 2423,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Pietermaritzburg"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pietermaritzburg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2825
+  }
+}

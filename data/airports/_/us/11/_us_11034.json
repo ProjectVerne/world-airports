@@ -1,0 +1,30 @@
+{
+  "key": "_us_11034",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "43II",
+    "local": "43II"
+  },
+  "name": "Kirk Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.452301,
+    "longitude": -87.318901,
+    "elevation_ft": 710,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Merrillville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11034
+  }
+}

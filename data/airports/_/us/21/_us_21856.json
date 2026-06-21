@@ -1,0 +1,30 @@
+{
+  "key": "_us_21856",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MD10",
+    "local": "MD10"
+  },
+  "name": "Baltimore Police Department Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.290327,
+    "longitude": -76.607675,
+    "elevation_ft": 170,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Baltimore"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21856
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "hkfg",
+  "codes": {
+    "icao": "HKFG",
+    "iata": "KLK",
+    "gps": "HKFG",
+    "local": null
+  },
+  "name": "Kalokol Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 3.49161,
+    "longitude": 35.836777,
+    "elevation_ft": 1245,
+    "iso_country": "KE",
+    "iso_region": "KE-23",
+    "municipality": "Kalokol"
+  },
+  "keywords": [
+    "FER",
+    "Ferguson's Gulf"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kalokol_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31758
+  }
+}

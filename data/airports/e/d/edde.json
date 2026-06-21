@@ -1,0 +1,33 @@
+{
+  "key": "edde",
+  "codes": {
+    "icao": "EDDE",
+    "iata": "ERF",
+    "gps": "EDDE",
+    "local": null
+  },
+  "name": "Erfurt-Weimar Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.978281,
+    "longitude": 10.960713,
+    "elevation_ft": 1036,
+    "iso_country": "DE",
+    "iso_region": "DE-TH",
+    "municipality": "Erfurt"
+  },
+  "keywords": [
+    "Flughafen Erfurt-Weimar"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Erfurt_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2211
+  }
+}

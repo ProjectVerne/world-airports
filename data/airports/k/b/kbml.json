@@ -1,0 +1,31 @@
+{
+  "key": "kbml",
+  "codes": {
+    "icao": "KBML",
+    "iata": "BML",
+    "gps": "KBML",
+    "local": "BML"
+  },
+  "name": "Berlin Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.575401,
+    "longitude": -71.175903,
+    "elevation_ft": 1161,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Berlin"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Berlin_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19392
+  }
+}

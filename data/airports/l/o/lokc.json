@@ -1,0 +1,32 @@
+{
+  "key": "lokc",
+  "codes": {
+    "icao": "LOKC",
+    "iata": null,
+    "gps": "LOKC",
+    "local": null
+  },
+  "name": "Glock Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.522477,
+    "longitude": 14.297392,
+    "elevation_ft": 1539,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Ferlach"
+  },
+  "keywords": [
+    "AT-0079"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43852
+  }
+}

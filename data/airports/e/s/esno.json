@@ -1,0 +1,31 @@
+{
+  "key": "esno",
+  "codes": {
+    "icao": "ESNO",
+    "iata": "OER",
+    "gps": "ESNO",
+    "local": null
+  },
+  "name": "Örnsköldsvik Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.408298,
+    "longitude": 18.99,
+    "elevation_ft": 354,
+    "iso_country": "SE",
+    "iso_region": "SE-Y",
+    "municipality": "Örnsköldsvik"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/%C3%96rnsk%C3%B6ldsvik_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2683
+  }
+}

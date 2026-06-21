@@ -1,0 +1,31 @@
+{
+  "key": "kmem",
+  "codes": {
+    "icao": "KMEM",
+    "iata": "MEM",
+    "gps": "KMEM",
+    "local": "MEM"
+  },
+  "name": "Memphis International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.043845,
+    "longitude": -89.97634,
+    "elevation_ft": 341,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Memphis"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Memphis_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3675
+  }
+}

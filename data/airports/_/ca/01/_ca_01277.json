@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01277",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CMBH",
+    "local": "CMBH"
+  },
+  "name": "Mount Belcher Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.832802,
+    "longitude": -123.504997,
+    "elevation_ft": 1000,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Mount Belcher"
+  },
+  "keywords": [
+    "MBH"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1277
+  }
+}

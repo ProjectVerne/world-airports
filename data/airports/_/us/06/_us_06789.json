@@ -1,0 +1,30 @@
+{
+  "key": "_us_06789",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "04PA",
+    "local": "04PA"
+  },
+  "name": "S & C Distribution Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.879299,
+    "longitude": -75.228798,
+    "elevation_ft": 50,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philadelphia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6789
+  }
+}

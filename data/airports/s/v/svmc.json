@@ -1,0 +1,31 @@
+{
+  "key": "svmc",
+  "codes": {
+    "icao": "SVMC",
+    "iata": "MAR",
+    "gps": "SVMC",
+    "local": null
+  },
+  "name": "La Chinita International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.557542,
+    "longitude": -71.729307,
+    "elevation_ft": 239,
+    "iso_country": "VE",
+    "iso_region": "VE-V",
+    "municipality": "Maracaibo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Chinita_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6297
+  }
+}

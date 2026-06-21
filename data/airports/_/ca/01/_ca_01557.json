@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01557",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSS2",
+    "local": "CSS2"
+  },
+  "name": "Rivière-du-Loup Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.849039,
+    "longitude": -69.542253,
+    "elevation_ft": 10,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Rivière-du-Loup"
+  },
+  "keywords": [
+    "SS2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1557
+  }
+}

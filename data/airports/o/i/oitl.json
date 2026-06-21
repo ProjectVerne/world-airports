@@ -1,0 +1,31 @@
+{
+  "key": "oitl",
+  "codes": {
+    "icao": "OITL",
+    "iata": "ADU",
+    "gps": "OITL",
+    "local": null
+  },
+  "name": "Ardabil Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.325699,
+    "longitude": 48.4244,
+    "elevation_ft": 4315,
+    "iso_country": "IR",
+    "iso_region": "IR-24",
+    "municipality": "Ardabil"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ardabil_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5200
+  }
+}

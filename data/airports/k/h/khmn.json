@@ -1,0 +1,33 @@
+{
+  "key": "khmn",
+  "codes": {
+    "icao": "KHMN",
+    "iata": "HMN",
+    "gps": "KHMN",
+    "local": "HMN"
+  },
+  "name": "Holloman Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.852501,
+    "longitude": -106.107002,
+    "elevation_ft": 4093,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Alamogordo"
+  },
+  "keywords": [
+    "Alamogordo AAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Holloman_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3584
+  }
+}

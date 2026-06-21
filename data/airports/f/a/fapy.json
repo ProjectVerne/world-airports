@@ -1,0 +1,30 @@
+{
+  "key": "fapy",
+  "codes": {
+    "icao": "FAPY",
+    "iata": null,
+    "gps": "FAPY",
+    "local": null
+  },
+  "name": "Parys Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.889299,
+    "longitude": 27.503401,
+    "elevation_ft": 4740,
+    "iso_country": "ZA",
+    "iso_region": "ZA-FS",
+    "municipality": "Parys"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2829
+  }
+}

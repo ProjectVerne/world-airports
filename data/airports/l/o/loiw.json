@@ -1,0 +1,32 @@
+{
+  "key": "loiw",
+  "codes": {
+    "icao": "LOIW",
+    "iata": null,
+    "gps": "LOIW",
+    "local": null
+  },
+  "name": "Waidring Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.585304,
+    "longitude": 12.592628,
+    "elevation_ft": 2493,
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Waidring"
+  },
+  "keywords": [
+    "AT-0072"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43844
+  }
+}

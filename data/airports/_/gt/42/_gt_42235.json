@@ -1,0 +1,33 @@
+{
+  "key": "_gt_42235",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "El Petén Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 17.22823,
+    "longitude": -89.605549,
+    "elevation_ft": 774,
+    "iso_country": "GT",
+    "iso_region": "GT-PE",
+    "municipality": "Tikal"
+  },
+  "keywords": [
+    "TKM",
+    "GT-0006"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42235
+  }
+}

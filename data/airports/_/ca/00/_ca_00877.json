@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00877",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CEN2",
+    "local": "CEN2"
+  },
+  "name": "Bassano Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.804107,
+    "longitude": -112.464065,
+    "elevation_ft": 2613,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Bassano"
+  },
+  "keywords": [
+    "EN2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bassano_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 877
+  }
+}

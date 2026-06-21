@@ -1,0 +1,33 @@
+{
+  "key": "_us_14600",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Coastal Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 30.5319,
+    "longitude": -87.3853,
+    "elevation_ft": 110,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Pensacola"
+  },
+  "keywords": [
+    "83J",
+    "US-10804"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 14600
+  }
+}

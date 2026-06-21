@@ -1,0 +1,33 @@
+{
+  "key": "bgsi",
+  "codes": {
+    "icao": "BGSI",
+    "iata": "SRK",
+    "gps": "BGSI",
+    "local": "SIO"
+  },
+  "name": "Siorapaluk Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 77.786517,
+    "longitude": -70.638657,
+    "elevation_ft": 102,
+    "iso_country": "GL",
+    "iso_region": "GL-AV",
+    "municipality": "Siorapaluk"
+  },
+  "keywords": [
+    "Hiurapaluk"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Siorapaluk_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44070
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_17003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT46",
+    "local": "CT46"
+  },
+  "name": "Milford-Alexander Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.234501,
+    "longitude": -73.031799,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Milford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17003
+  }
+}

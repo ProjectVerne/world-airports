@@ -1,0 +1,31 @@
+{
+  "key": "hecp",
+  "codes": {
+    "icao": "HECP",
+    "iata": "CCE",
+    "gps": "HECP",
+    "local": null
+  },
+  "name": "Capital International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.06465,
+    "longitude": 31.839974,
+    "elevation_ft": 761,
+    "iso_country": "EG",
+    "iso_region": "EG-C",
+    "municipality": "New Cairo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Capital_International_Airport_(Egypt)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2356
+  }
+}

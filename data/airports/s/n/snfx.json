@@ -1,0 +1,31 @@
+{
+  "key": "snfx",
+  "codes": {
+    "icao": "SNFX",
+    "iata": "SXX",
+    "gps": "SNFX",
+    "local": "PA0013"
+  },
+  "name": "São Félix do Xingu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.6413,
+    "longitude": -51.9523,
+    "elevation_ft": 656,
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "São Félix do Xingu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A3o_F%C3%A9lix_do_Xingu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310
+  }
+}

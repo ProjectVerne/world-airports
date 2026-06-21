@@ -1,0 +1,31 @@
+{
+  "key": "aymd",
+  "codes": {
+    "icao": "AYMD",
+    "iata": "MAG",
+    "gps": "AYMD",
+    "local": null
+  },
+  "name": "Madang Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.20708,
+    "longitude": 145.789001,
+    "elevation_ft": 20,
+    "iso_country": "PG",
+    "iso_region": "PG-MPM",
+    "municipality": "Madang"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Madang_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 62
+  }
+}

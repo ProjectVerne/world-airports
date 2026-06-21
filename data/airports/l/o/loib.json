@@ -1,0 +1,30 @@
+{
+  "key": "loib",
+  "codes": {
+    "icao": "LOIB",
+    "iata": null,
+    "gps": "LOIB",
+    "local": null
+  },
+  "name": "Hörlahof Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.466857,
+    "longitude": 12.367752,
+    "elevation_ft": 2733,
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Kitzbühel"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43831
+  }
+}

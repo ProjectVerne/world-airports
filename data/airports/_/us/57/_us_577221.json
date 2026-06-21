@@ -1,0 +1,32 @@
+{
+  "key": "_us_577221",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Belcan Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.24916,
+    "longitude": -84.38054,
+    "elevation_ft": 820,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Blue Ash"
+  },
+  "keywords": [
+    "US-9309"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 577221
+  }
+}

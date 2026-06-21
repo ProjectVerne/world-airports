@@ -1,0 +1,31 @@
+{
+  "key": "phli",
+  "codes": {
+    "icao": "PHLI",
+    "iata": "LIH",
+    "gps": "PHLI",
+    "local": "LIH"
+  },
+  "name": "Lihue Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.974393,
+    "longitude": -159.337146,
+    "elevation_ft": 153,
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Lihue, Kauai"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lihu'e_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5449
+  }
+}

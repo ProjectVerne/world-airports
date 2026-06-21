@@ -1,0 +1,31 @@
+{
+  "key": "kbtv",
+  "codes": {
+    "icao": "KBTV",
+    "iata": "BTV",
+    "gps": "KBTV",
+    "local": "BTV"
+  },
+  "name": "Patrick Leahy Burlington International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.471901,
+    "longitude": -73.153297,
+    "elevation_ft": 335,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Burlington"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Burlington_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3430
+  }
+}

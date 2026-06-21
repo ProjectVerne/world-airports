@@ -1,0 +1,34 @@
+{
+  "key": "kavx",
+  "codes": {
+    "icao": "KAVX",
+    "iata": "AVX",
+    "gps": "KAVX",
+    "local": "AVX"
+  },
+  "name": "Catalina Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.4049,
+    "longitude": -118.416,
+    "elevation_ft": 1602,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Avalon"
+  },
+  "keywords": [
+    "CIB",
+    "Airport in the Sky"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Catalina_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19331
+  }
+}

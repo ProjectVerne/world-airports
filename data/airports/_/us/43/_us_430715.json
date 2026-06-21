@@ -1,0 +1,32 @@
+{
+  "key": "_us_430715",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "US Border Patrol Tornillo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.43591,
+    "longitude": -106.13979,
+    "elevation_ft": 3595,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Tornillo"
+  },
+  "keywords": [
+    "US-7231"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 430715
+  }
+}

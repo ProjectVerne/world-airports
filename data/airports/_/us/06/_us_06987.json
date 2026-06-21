@@ -1,0 +1,32 @@
+{
+  "key": "_us_06987",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "08MD",
+    "local": "08MD"
+  },
+  "name": "UM Saint Joseph Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.388411,
+    "longitude": -76.610815,
+    "elevation_ft": 470,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Towson"
+  },
+  "keywords": [
+    "St Joseph Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6987
+  }
+}

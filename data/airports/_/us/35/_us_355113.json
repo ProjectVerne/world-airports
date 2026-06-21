@@ -1,0 +1,32 @@
+{
+  "key": "_us_355113",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FL79",
+    "local": "FL79"
+  },
+  "name": "FPL RMO Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 25.917292,
+    "longitude": -80.281606,
+    "elevation_ft": 49,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Miami Gardens"
+  },
+  "keywords": [
+    "US-6886"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 355113
+  }
+}

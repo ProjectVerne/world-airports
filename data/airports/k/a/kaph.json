@@ -1,0 +1,34 @@
+{
+  "key": "kaph",
+  "codes": {
+    "icao": "KAPH",
+    "iata": "APH",
+    "gps": "KAPH",
+    "local": "APH"
+  },
+  "name": "Mary Walker LZ Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.068631,
+    "longitude": -77.319318,
+    "elevation_ft": 220,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Bowling Green"
+  },
+  "keywords": [
+    "A P Hill AAF",
+    "Fort A P Hill"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/A.P._Hill_Army_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19294
+  }
+}

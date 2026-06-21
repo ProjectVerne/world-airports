@@ -1,0 +1,32 @@
+{
+  "key": "_ch_43110",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LSEG",
+    "local": null
+  },
+  "name": "Gampel Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.310055,
+    "longitude": 7.724794,
+    "elevation_ft": 0,
+    "iso_country": "CH",
+    "iso_region": "CH-VS",
+    "municipality": "Gampel"
+  },
+  "keywords": [
+    "LSHG"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43110
+  }
+}

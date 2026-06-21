@@ -1,0 +1,32 @@
+{
+  "key": "_us_16622",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CA91",
+    "local": "CA91"
+  },
+  "name": "Quinn Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.008073,
+    "longitude": -117.343801,
+    "elevation_ft": 904,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Riverside"
+  },
+  "keywords": [
+    "Johnson Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16622
+  }
+}

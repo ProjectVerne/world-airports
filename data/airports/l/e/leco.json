@@ -1,0 +1,34 @@
+{
+  "key": "leco",
+  "codes": {
+    "icao": "LECO",
+    "iata": "LCG",
+    "gps": "LECO",
+    "local": null
+  },
+  "name": "A Coruña Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.302101,
+    "longitude": -8.37726,
+    "elevation_ft": 326,
+    "iso_country": "ES",
+    "iso_region": "ES-GA",
+    "municipality": "Culleredo"
+  },
+  "keywords": [
+    "The Groyne",
+    "La Coruña"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/A_Coru%C3%B1a_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4007
+  }
+}

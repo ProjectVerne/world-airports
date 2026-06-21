@@ -1,0 +1,30 @@
+{
+  "key": "_us_07805",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "12WI",
+    "local": "12WI"
+  },
+  "name": "Memorial Hospital of Taylor County Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.135899,
+    "longitude": -90.3563,
+    "elevation_ft": 1435,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Medford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7805
+  }
+}

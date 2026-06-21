@@ -1,0 +1,33 @@
+{
+  "key": "fooy",
+  "codes": {
+    "icao": "FOOY",
+    "iata": "MYB",
+    "gps": "FOOY",
+    "local": null
+  },
+  "name": "Mayumba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.458372,
+    "longitude": 10.676539,
+    "elevation_ft": 13,
+    "iso_country": "GA",
+    "iso_region": "GA-5",
+    "municipality": "Mayumba"
+  },
+  "keywords": [
+    "Mayoumba"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mayumba_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31984
+  }
+}

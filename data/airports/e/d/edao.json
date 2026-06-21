@@ -1,0 +1,34 @@
+{
+  "key": "edao",
+  "codes": {
+    "icao": "EDAO",
+    "iata": null,
+    "gps": "EDAO",
+    "local": null
+  },
+  "name": "Nordhausen Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.493475,
+    "longitude": 10.837562,
+    "elevation_ft": 689,
+    "iso_country": "DE",
+    "iso_region": "DE-TH",
+    "municipality": "Nordhausen"
+  },
+  "keywords": [
+    "Flugplatz Nordhausen",
+    "Sonderlandeplatz Nordhausen"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Nordhausen",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505079
+  }
+}

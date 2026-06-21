@@ -1,0 +1,32 @@
+{
+  "key": "nzam",
+  "codes": {
+    "icao": "NZAM",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Ashburton Medical Centre Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -43.894123,
+    "longitude": 171.747835,
+    "elevation_ft": 338,
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Ashburton"
+  },
+  "keywords": [
+    "NZ-0095"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 604962
+  }
+}

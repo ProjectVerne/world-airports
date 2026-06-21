@@ -1,0 +1,30 @@
+{
+  "key": "_us_18185",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS20",
+    "local": "IS20"
+  },
+  "name": "Presence St Joseph Hospital - Elgin Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.036543,
+    "longitude": -88.326448,
+    "elevation_ft": 846,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Elgin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18185
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kono",
+  "codes": {
+    "icao": "KONO",
+    "iata": "ONO",
+    "gps": "KONO",
+    "local": "ONO"
+  },
+  "name": "Ontario Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.0198,
+    "longitude": -117.013289,
+    "elevation_ft": 2193,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Oregon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ontario_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20751
+  }
+}

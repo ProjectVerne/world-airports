@@ -1,0 +1,30 @@
+{
+  "key": "_us_08340",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1II0",
+    "local": "1II0"
+  },
+  "name": "Webster Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.576698,
+    "longitude": -85.587799,
+    "elevation_ft": 910,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Homer"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8340
+  }
+}

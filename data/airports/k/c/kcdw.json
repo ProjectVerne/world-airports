@@ -1,0 +1,35 @@
+{
+  "key": "kcdw",
+  "codes": {
+    "icao": "KCDW",
+    "iata": "CDW",
+    "gps": "KCDW",
+    "local": "CDW"
+  },
+  "name": "Essex County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.875198,
+    "longitude": -74.281403,
+    "elevation_ft": 173,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Caldwell"
+  },
+  "keywords": [
+    "Manhattan",
+    "New York City",
+    "NYC"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Essex_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19476
+  }
+}

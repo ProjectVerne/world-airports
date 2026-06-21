@@ -1,0 +1,33 @@
+{
+  "key": "kbvs",
+  "codes": {
+    "icao": "KBVS",
+    "iata": "MVW",
+    "gps": "KBVS",
+    "local": "BVS"
+  },
+  "name": "Skagit Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.470901,
+    "longitude": -122.420998,
+    "elevation_ft": 144,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Burlington"
+  },
+  "keywords": [
+    "75S"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Skagit_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19420
+  }
+}

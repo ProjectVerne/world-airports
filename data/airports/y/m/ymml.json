@@ -1,0 +1,34 @@
+{
+  "key": "ymml",
+  "codes": {
+    "icao": "YMML",
+    "iata": "MEL",
+    "gps": "YMML",
+    "local": null
+  },
+  "name": "Melbourne Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -37.670732,
+    "longitude": 144.837898,
+    "elevation_ft": 434,
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Melbourne"
+  },
+  "keywords": [
+    "Melbourne International",
+    "Tullamarine"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Melbourne_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27066
+  }
+}

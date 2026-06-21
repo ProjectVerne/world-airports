@@ -1,0 +1,30 @@
+{
+  "key": "eses",
+  "codes": {
+    "icao": "ESES",
+    "iata": null,
+    "gps": "ESES",
+    "local": null
+  },
+  "name": "Sunderby Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 65.669523,
+    "longitude": 21.935366,
+    "elevation_ft": 35,
+    "iso_country": "SE",
+    "iso_region": "SE-BD",
+    "municipality": "Luleå"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599575
+  }
+}

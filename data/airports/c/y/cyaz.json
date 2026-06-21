@@ -1,0 +1,31 @@
+{
+  "key": "cyaz",
+  "codes": {
+    "icao": "CYAZ",
+    "iata": "YAZ",
+    "gps": "CYAZ",
+    "local": null
+  },
+  "name": "Tofino / Long Beach Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.079833,
+    "longitude": -125.775583,
+    "elevation_ft": 80,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Tofino"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tofino_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1666
+  }
+}

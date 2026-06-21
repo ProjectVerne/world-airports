@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01285",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNA2",
+    "local": "CNA2"
+  },
+  "name": "Highgate Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.553039,
+    "longitude": -81.801424,
+    "elevation_ft": 710,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Highgate"
+  },
+  "keywords": [
+    "NA2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Highgate_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1285
+  }
+}

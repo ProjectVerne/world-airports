@@ -1,0 +1,33 @@
+{
+  "key": "lbsz",
+  "codes": {
+    "icao": "LBSZ",
+    "iata": null,
+    "gps": "LBSZ",
+    "local": null
+  },
+  "name": "Stara Zagora Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.376667,
+    "longitude": 25.655,
+    "elevation_ft": 558,
+    "iso_country": "BG",
+    "iso_region": "BG-24",
+    "municipality": "Stara Zagora"
+  },
+  "keywords": [
+    "SZR"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stara_Zagora_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3978
+  }
+}

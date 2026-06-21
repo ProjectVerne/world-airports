@@ -1,0 +1,31 @@
+{
+  "key": "sahz",
+  "codes": {
+    "icao": "SAHZ",
+    "iata": "APZ",
+    "gps": "SAHZ",
+    "local": "ZAP"
+  },
+  "name": "Zapala Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -38.975498,
+    "longitude": -70.113602,
+    "elevation_ft": 3330,
+    "iso_country": "AR",
+    "iso_region": "AR-Q",
+    "municipality": "Zapala"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Zapala_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5785
+  }
+}

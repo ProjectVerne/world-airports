@@ -1,0 +1,33 @@
+{
+  "key": "_us_21431",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "Y93",
+    "local": "Y93"
+  },
+  "name": "Atlanta Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.996916,
+    "longitude": -84.126692,
+    "elevation_ft": 875,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Atlanta"
+  },
+  "keywords": [
+    "KY93"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Atlanta_Municipal_Airport_(Michigan)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21431
+  }
+}

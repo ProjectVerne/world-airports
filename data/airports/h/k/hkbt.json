@@ -1,0 +1,32 @@
+{
+  "key": "hkbt",
+  "codes": {
+    "icao": "HKBT",
+    "iata": null,
+    "gps": "HKBT",
+    "local": null
+  },
+  "name": "Bute Moyale Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 3.337517,
+    "longitude": 39.41424,
+    "elevation_ft": 2128,
+    "iso_country": "KE",
+    "iso_region": "KE-08",
+    "municipality": "Bute"
+  },
+  "keywords": [
+    "KE-0103"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 318706
+  }
+}

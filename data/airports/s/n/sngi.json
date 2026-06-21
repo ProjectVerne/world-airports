@@ -1,0 +1,31 @@
+{
+  "key": "sngi",
+  "codes": {
+    "icao": "SNGI",
+    "iata": "GNM",
+    "gps": "SNGI",
+    "local": "SNGI"
+  },
+  "name": "Guanambi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -14.2082,
+    "longitude": -42.746101,
+    "elevation_ft": 1815,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Guanambi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Guanambi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 315
+  }
+}

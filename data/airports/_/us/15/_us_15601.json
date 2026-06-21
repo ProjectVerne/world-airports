@@ -1,0 +1,32 @@
+{
+  "key": "_us_15601",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "99CN",
+    "local": "99CN"
+  },
+  "name": "Banner Lassen Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.437491,
+    "longitude": -120.628728,
+    "elevation_ft": 4419,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Susanville"
+  },
+  "keywords": [
+    "Lassen Community Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15601
+  }
+}

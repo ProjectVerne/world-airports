@@ -1,0 +1,33 @@
+{
+  "key": "zyld",
+  "codes": {
+    "icao": "ZYLD",
+    "iata": "LDS",
+    "gps": "ZYLD",
+    "local": null
+  },
+  "name": "Yichun Lindu Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.752056,
+    "longitude": 129.019125,
+    "elevation_ft": 791,
+    "iso_country": "CN",
+    "iso_region": "CN-23",
+    "municipality": "Yichun"
+  },
+  "keywords": [
+    "Yichun Shi Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yichun_Lindu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307012
+  }
+}

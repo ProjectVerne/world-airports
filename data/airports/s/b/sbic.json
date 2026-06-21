@@ -1,0 +1,31 @@
+{
+  "key": "sbic",
+  "codes": {
+    "icao": "SBIC",
+    "iata": "ITA",
+    "gps": "SBIC",
+    "local": "AM0012"
+  },
+  "name": "Itacoatiara Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.126539,
+    "longitude": -58.481668,
+    "elevation_ft": 142,
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Itacoatiara"
+  },
+  "keywords": [],
+  "wikipedia": "https://pt.wikipedia.org/wiki/Aeroporto_de_Itacoatiara",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5915
+  }
+}

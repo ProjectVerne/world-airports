@@ -1,0 +1,33 @@
+{
+  "key": "lezg",
+  "codes": {
+    "icao": "LEZG",
+    "iata": "ZAZ",
+    "gps": "LEZG",
+    "local": null
+  },
+  "name": "Zaragoza Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.666199,
+    "longitude": -1.04155,
+    "elevation_ft": 863,
+    "iso_country": "ES",
+    "iso_region": "ES-AR",
+    "municipality": "Zaragoza"
+  },
+  "keywords": [
+    "Zaragoza Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Zaragoza_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4048
+  }
+}

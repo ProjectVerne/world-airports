@@ -1,0 +1,31 @@
+{
+  "key": "spar",
+  "codes": {
+    "icao": "SPAR",
+    "iata": "ALD",
+    "gps": "SPAR",
+    "local": null
+  },
+  "name": "Alerta Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -11.65018,
+    "longitude": -69.229614,
+    "elevation_ft": 797,
+    "iso_country": "PE",
+    "iso_region": "PE-MDD",
+    "municipality": "Fortaleza"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Alerta_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30636
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "fasx",
+  "codes": {
+    "icao": "FASX",
+    "iata": null,
+    "gps": "FASX",
+    "local": null
+  },
+  "name": "Hendrik Swellengrebel Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.048199,
+    "longitude": 20.4746,
+    "elevation_ft": 407,
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Swellendam"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2840
+  }
+}

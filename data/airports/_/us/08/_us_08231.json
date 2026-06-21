@@ -1,0 +1,30 @@
+{
+  "key": "_us_08231",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1CD0",
+    "local": "1CD0"
+  },
+  "name": "Murphy Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.142799,
+    "longitude": -105.002998,
+    "elevation_ft": 4870,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Longmont"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8231
+  }
+}

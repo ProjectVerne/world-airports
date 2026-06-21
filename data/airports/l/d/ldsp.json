@@ -1,0 +1,31 @@
+{
+  "key": "ldsp",
+  "codes": {
+    "icao": "LDSP",
+    "iata": "SPU",
+    "gps": "LDSP",
+    "local": null
+  },
+  "name": "Split Saint Jerome Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.538898,
+    "longitude": 16.298,
+    "elevation_ft": 79,
+    "iso_country": "HR",
+    "iso_region": "HR-17",
+    "municipality": "Split"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Split_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3991
+  }
+}

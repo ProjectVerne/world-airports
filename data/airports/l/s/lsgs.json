@@ -1,0 +1,33 @@
+{
+  "key": "lsgs",
+  "codes": {
+    "icao": "LSGS",
+    "iata": "SIR",
+    "gps": "LSGS",
+    "local": null
+  },
+  "name": "Sion Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.219166,
+    "longitude": 7.326944,
+    "elevation_ft": 1582,
+    "iso_country": "CH",
+    "iso_region": "CH-VS",
+    "municipality": "Sion"
+  },
+  "keywords": [
+    "LSMS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sion_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4492
+  }
+}

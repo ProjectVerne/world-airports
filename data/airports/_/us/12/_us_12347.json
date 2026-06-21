@@ -1,0 +1,30 @@
+{
+  "key": "_us_12347",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5FD9",
+    "local": "5FD9"
+  },
+  "name": "St James Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 26.511499,
+    "longitude": -82.088402,
+    "elevation_ft": 6,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Cape Coral"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12347
+  }
+}

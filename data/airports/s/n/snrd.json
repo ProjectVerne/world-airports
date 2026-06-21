@@ -1,0 +1,30 @@
+{
+  "key": "snrd",
+  "codes": {
+    "icao": "SNRD",
+    "iata": "PDF",
+    "gps": "SNRD",
+    "local": "BA0048"
+  },
+  "name": "Prado Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -17.296976,
+    "longitude": -39.271131,
+    "elevation_ft": 89,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Prado"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 383
+  }
+}

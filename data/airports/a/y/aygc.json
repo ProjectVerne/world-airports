@@ -1,0 +1,32 @@
+{
+  "key": "aygc",
+  "codes": {
+    "icao": "AYGC",
+    "iata": "GEW",
+    "gps": "AYGC",
+    "local": "GEW"
+  },
+  "name": "Gewoia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.2263,
+    "longitude": 148.4949,
+    "elevation_ft": 340,
+    "iso_country": "PG",
+    "iso_region": "PG-NPP",
+    "municipality": "Gewoia"
+  },
+  "keywords": [
+    "Gewoya Airstrip"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 309161
+  }
+}

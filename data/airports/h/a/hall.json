@@ -1,0 +1,31 @@
+{
+  "key": "hall",
+  "codes": {
+    "icao": "HALL",
+    "iata": "LLI",
+    "gps": "HALL",
+    "local": null
+  },
+  "name": "Lalibela Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.975225,
+    "longitude": 38.980198,
+    "elevation_ft": 6506,
+    "iso_country": "ET",
+    "iso_region": "ET-AM",
+    "municipality": "Girany Amba"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lalibela_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3167
+  }
+}

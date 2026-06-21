@@ -1,0 +1,31 @@
+{
+  "key": "mgct",
+  "codes": {
+    "icao": "MGCT",
+    "iata": "CTF",
+    "gps": "MGCT",
+    "local": null
+  },
+  "name": "Coatepeque Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 14.6942,
+    "longitude": -91.8825,
+    "elevation_ft": 1486,
+    "iso_country": "GT",
+    "iso_region": "GT-QZ",
+    "municipality": "Coatepeque"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Coatepeque_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30856
+  }
+}

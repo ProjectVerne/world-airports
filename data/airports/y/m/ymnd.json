@@ -1,0 +1,31 @@
+{
+  "key": "ymnd",
+  "codes": {
+    "icao": "YMND",
+    "iata": "MTL",
+    "gps": "YMND",
+    "local": null
+  },
+  "name": "Maitland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -32.701265,
+    "longitude": 151.492912,
+    "elevation_ft": 85,
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Maitland_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27068
+  }
+}

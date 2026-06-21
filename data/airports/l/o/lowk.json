@@ -1,0 +1,34 @@
+{
+  "key": "lowk",
+  "codes": {
+    "icao": "LOWK",
+    "iata": "KLU",
+    "gps": "LOWK",
+    "local": null
+  },
+  "name": "Klagenfurt Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.642502,
+    "longitude": 14.3377,
+    "elevation_ft": 1472,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Klagenfurt am Wörthersee"
+  },
+  "keywords": [
+    "Kärnten Airport",
+    "Christophorus 11"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Klagenfurt_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4435
+  }
+}

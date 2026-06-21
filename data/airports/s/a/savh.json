@@ -1,0 +1,31 @@
+{
+  "key": "savh",
+  "codes": {
+    "icao": "SAVH",
+    "iata": "LHS",
+    "gps": "SAVH",
+    "local": "CLH"
+  },
+  "name": "Las Heras Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -46.538517,
+    "longitude": -68.965323,
+    "elevation_ft": 1082,
+    "iso_country": "AR",
+    "iso_region": "AR-Z",
+    "municipality": "Las Heras"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Colonia_Las_Heras_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5824
+  }
+}

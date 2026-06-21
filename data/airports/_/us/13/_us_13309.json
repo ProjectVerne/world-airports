@@ -1,0 +1,30 @@
+{
+  "key": "_us_13309",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6IS1",
+    "local": "6IS1"
+  },
+  "name": "Cary Fire Dept Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.212502,
+    "longitude": -88.252296,
+    "elevation_ft": 830,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Cary"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13309
+  }
+}

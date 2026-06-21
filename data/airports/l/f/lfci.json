@@ -1,0 +1,31 @@
+{
+  "key": "lfci",
+  "codes": {
+    "icao": "LFCI",
+    "iata": "LBI",
+    "gps": "LFCI",
+    "local": null
+  },
+  "name": "Albi Le Sequestre airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.913898,
+    "longitude": 2.11306,
+    "elevation_ft": 564,
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Albi"
+  },
+  "keywords": [],
+  "wikipedia": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Albi_-_Le_Sequestre",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4081
+  }
+}

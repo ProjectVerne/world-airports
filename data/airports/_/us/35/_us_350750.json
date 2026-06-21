@@ -1,0 +1,32 @@
+{
+  "key": "_us_350750",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LL59",
+    "local": "LL59"
+  },
+  "name": "Touchette Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.56955,
+    "longitude": -90.109503,
+    "elevation_ft": 416,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Centreville"
+  },
+  "keywords": [
+    "US-6187"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350750
+  }
+}

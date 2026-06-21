@@ -1,0 +1,30 @@
+{
+  "key": "_us_45679",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "99NA",
+    "local": "99NA"
+  },
+  "name": "Fly I Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.061023,
+    "longitude": -80.846238,
+    "elevation_ft": 593,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Charlotte"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45679
+  }
+}

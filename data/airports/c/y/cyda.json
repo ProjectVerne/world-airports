@@ -1,0 +1,31 @@
+{
+  "key": "cyda",
+  "codes": {
+    "icao": "CYDA",
+    "iata": "YDA",
+    "gps": "CYDA",
+    "local": null
+  },
+  "name": "Dawson City Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.043098,
+    "longitude": -139.128006,
+    "elevation_ft": 1215,
+    "iso_country": "CA",
+    "iso_region": "CA-YT",
+    "municipality": "Dawson City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dawson_City_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1703
+  }
+}

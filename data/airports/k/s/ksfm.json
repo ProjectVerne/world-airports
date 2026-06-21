@@ -1,0 +1,33 @@
+{
+  "key": "ksfm",
+  "codes": {
+    "icao": "KSFM",
+    "iata": "SFM",
+    "gps": "KSFM",
+    "local": "SFM"
+  },
+  "name": "Sanford Seacoast Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.393902,
+    "longitude": -70.708,
+    "elevation_ft": 244,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Sanford"
+  },
+  "keywords": [
+    "Sanford NAAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sanford_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21057
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "aybc",
+  "codes": {
+    "icao": "AYBC",
+    "iata": "BCP",
+    "gps": "AYBC",
+    "local": "BAM"
+  },
+  "name": "Bambu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.863611,
+    "longitude": 146.4925,
+    "elevation_ft": 6790,
+    "iso_country": "PG",
+    "iso_region": "PG-MPM",
+    "municipality": "Bambu"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301858
+  }
+}

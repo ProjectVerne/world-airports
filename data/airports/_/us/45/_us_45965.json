@@ -1,0 +1,30 @@
+{
+  "key": "_us_45965",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "50WY",
+    "local": "50WY"
+  },
+  "name": "McMurry Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.826945,
+    "longitude": -106.253893,
+    "elevation_ft": 5255,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Casper"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45965
+  }
+}

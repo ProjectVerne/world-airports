@@ -1,0 +1,34 @@
+{
+  "key": "eikn",
+  "codes": {
+    "icao": "EIKN",
+    "iata": "NOC",
+    "gps": "EIKN",
+    "local": null
+  },
+  "name": "Ireland West Airport Knock",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.910439,
+    "longitude": -8.817002,
+    "elevation_ft": 665,
+    "iso_country": "IE",
+    "iso_region": "IE-MO",
+    "municipality": "Charlestown"
+  },
+  "keywords": [
+    "Connaught",
+    "Horan International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ireland_West_Airport_Knock",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2534
+  }
+}

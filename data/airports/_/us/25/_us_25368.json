@@ -1,0 +1,30 @@
+{
+  "key": "_us_25368",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VA35",
+    "local": "VA35"
+  },
+  "name": "Fort Lee Nr 1 /Hqs/ Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.241798,
+    "longitude": -77.343002,
+    "elevation_ft": 100,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Fort Lee"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25368
+  }
+}

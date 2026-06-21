@@ -1,0 +1,30 @@
+{
+  "key": "ymip",
+  "codes": {
+    "icao": "YMIP",
+    "iata": "MIH",
+    "gps": "YMIP",
+    "local": null
+  },
+  "name": "Mitchell Plateau Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -14.790817,
+    "longitude": 125.825729,
+    "elevation_ft": 0,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Mitchell Plateau"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31909
+  }
+}

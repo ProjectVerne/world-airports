@@ -1,0 +1,30 @@
+{
+  "key": "_us_26001",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WV18",
+    "local": "WV18"
+  },
+  "name": "Miller Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.408401,
+    "longitude": -79.013603,
+    "elevation_ft": 1050,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Keyser"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26001
+  }
+}

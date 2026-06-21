@@ -1,0 +1,30 @@
+{
+  "key": "_us_22989",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH33",
+    "local": "NH33"
+  },
+  "name": "Brigham Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.1959,
+    "longitude": -71.477303,
+    "elevation_ft": 360,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Pembroke"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22989
+  }
+}

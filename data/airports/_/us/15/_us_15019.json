@@ -1,0 +1,30 @@
+{
+  "key": "_us_15019",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8MD1",
+    "local": "8MD1"
+  },
+  "name": "Rite Aid Distribution Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.454036,
+    "longitude": -76.209286,
+    "elevation_ft": 35,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Aberdeen"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15019
+  }
+}

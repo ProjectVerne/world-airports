@@ -1,0 +1,31 @@
+{
+  "key": "kest",
+  "codes": {
+    "icao": "KEST",
+    "iata": "EST",
+    "gps": "KEST",
+    "local": "EST"
+  },
+  "name": "Estherville Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.407398,
+    "longitude": -94.746399,
+    "elevation_ft": 1319,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Estherville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Estherville_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19772
+  }
+}

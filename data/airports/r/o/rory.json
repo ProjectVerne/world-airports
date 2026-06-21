@@ -1,0 +1,31 @@
+{
+  "key": "rory",
+  "codes": {
+    "icao": "RORY",
+    "iata": "RNJ",
+    "gps": "RORY",
+    "local": null
+  },
+  "name": "Yoron Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.043847,
+    "longitude": 128.401648,
+    "elevation_ft": 52,
+    "iso_country": "JP",
+    "iso_region": "JP-46",
+    "municipality": "Yoron"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yoron_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5682
+  }
+}

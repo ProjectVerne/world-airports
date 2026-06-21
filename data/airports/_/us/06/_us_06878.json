@@ -1,0 +1,30 @@
+{
+  "key": "_us_06878",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "06KS",
+    "local": "06KS"
+  },
+  "name": "Riverside Hospital Airlift Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.695801,
+    "longitude": -97.372498,
+    "elevation_ft": 1332,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Wichita"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6878
+  }
+}

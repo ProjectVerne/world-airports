@@ -1,0 +1,34 @@
+{
+  "key": "zshc",
+  "codes": {
+    "icao": "ZSHC",
+    "iata": "HGH",
+    "gps": "ZSHC",
+    "local": null
+  },
+  "name": "Hangzhou Xiaoshan International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.23609,
+    "longitude": 120.428865,
+    "elevation_ft": 23,
+    "iso_country": "CN",
+    "iso_region": "CN-33",
+    "municipality": "Hangzhou"
+  },
+  "keywords": [
+    "Hang Zhou",
+    "杭州萧山国际机场"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hangzhou_Xiaoshan_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27218
+  }
+}

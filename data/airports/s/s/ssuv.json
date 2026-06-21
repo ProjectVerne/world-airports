@@ -1,0 +1,34 @@
+{
+  "key": "ssuv",
+  "codes": {
+    "icao": "SSUV",
+    "iata": "UVI",
+    "gps": "SSUV",
+    "local": "PR0034"
+  },
+  "name": "José Cleto Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.233224,
+    "longitude": -51.066754,
+    "elevation_ft": 2467,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "União da Vitória"
+  },
+  "keywords": [
+    "José Cleto",
+    "QVB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Uni%C3%A3o_da_Vit%C3%B3ria_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 510
+  }
+}

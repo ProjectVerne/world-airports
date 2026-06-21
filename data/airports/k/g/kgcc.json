@@ -1,0 +1,33 @@
+{
+  "key": "kgcc",
+  "codes": {
+    "icao": "KGCC",
+    "iata": "GCC",
+    "gps": "KGCC",
+    "local": "GCC"
+  },
+  "name": "Northeast Wyoming Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.3489,
+    "longitude": -105.539001,
+    "elevation_ft": 4365,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Gillette"
+  },
+  "keywords": [
+    "Gillette Campbell County Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gillette%E2%80%93Campbell_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19929
+  }
+}

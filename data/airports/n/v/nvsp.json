@@ -1,0 +1,31 @@
+{
+  "key": "nvsp",
+  "codes": {
+    "icao": "NVSP",
+    "iata": "NUS",
+    "gps": "NVSP",
+    "local": null
+  },
+  "name": "Norsup Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.0797,
+    "longitude": 167.401001,
+    "elevation_ft": 23,
+    "iso_country": "VU",
+    "iso_region": "VU-MAP",
+    "municipality": "Norsup"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Norsup_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32056
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_22950",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NE62",
+    "local": "NE62"
+  },
+  "name": "Ochsner Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.843601,
+    "longitude": -97.417,
+    "elevation_ft": 1630,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Madison"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22950
+  }
+}

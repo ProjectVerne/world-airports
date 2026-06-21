@@ -1,0 +1,31 @@
+{
+  "key": "hadd",
+  "codes": {
+    "icao": "HADD",
+    "iata": "DEM",
+    "gps": "HADD",
+    "local": null
+  },
+  "name": "Dembidollo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.554,
+    "longitude": 34.858002,
+    "elevation_ft": 5200,
+    "iso_country": "ET",
+    "iso_region": "ET-OR",
+    "municipality": "Dembidollo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dembidolo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30885
+  }
+}

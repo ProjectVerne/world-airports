@@ -1,0 +1,30 @@
+{
+  "key": "_us_10004",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32KS",
+    "local": "32KS"
+  },
+  "name": "Wilkens Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.593102,
+    "longitude": -100.612999,
+    "elevation_ft": 2856,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Healy"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10004
+  }
+}

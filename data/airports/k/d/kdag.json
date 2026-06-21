@@ -1,0 +1,31 @@
+{
+  "key": "kdag",
+  "codes": {
+    "icao": "KDAG",
+    "iata": "DAG",
+    "gps": "KDAG",
+    "local": "DAG"
+  },
+  "name": "Barstow Daggett Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.853699,
+    "longitude": -116.787003,
+    "elevation_ft": 1930,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Daggett"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Barstow-Daggett_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19615
+  }
+}

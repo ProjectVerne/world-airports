@@ -1,0 +1,30 @@
+{
+  "key": "_us_10946",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "41AR",
+    "local": "41AR"
+  },
+  "name": "Ashworth Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.123299,
+    "longitude": -93.349701,
+    "elevation_ft": 501,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Arkadelphia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10946
+  }
+}

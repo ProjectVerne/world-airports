@@ -1,0 +1,31 @@
+{
+  "key": "lfbl",
+  "codes": {
+    "icao": "LFBL",
+    "iata": "LIG",
+    "gps": "LFBL",
+    "local": null
+  },
+  "name": "Limoges Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.862801,
+    "longitude": 1.17944,
+    "elevation_ft": 1300,
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Limoges/Bellegarde"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Limoges_-_Bellegarde_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4067
+  }
+}

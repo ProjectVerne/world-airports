@@ -1,0 +1,33 @@
+{
+  "key": "hlls",
+  "codes": {
+    "icao": "HLLS",
+    "iata": "SEB",
+    "gps": "HLLS",
+    "local": null
+  },
+  "name": "Sabha Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.992452,
+    "longitude": 14.466162,
+    "elevation_ft": 1427,
+    "iso_country": "LY",
+    "iso_region": "LY-SB",
+    "municipality": "Sabha"
+  },
+  "keywords": [
+    "Sebha"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sabha_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3226
+  }
+}

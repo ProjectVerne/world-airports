@@ -1,0 +1,31 @@
+{
+  "key": "sasa",
+  "codes": {
+    "icao": "SASA",
+    "iata": "SLA",
+    "gps": "SASA",
+    "local": "SAL"
+  },
+  "name": "Martín Miguel de Güemes International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -24.856001,
+    "longitude": -65.486198,
+    "elevation_ft": 4088,
+    "iso_country": "AR",
+    "iso_region": "AR-A",
+    "municipality": "Salta"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Miguel_de_G%C3%BCemes_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5811
+  }
+}

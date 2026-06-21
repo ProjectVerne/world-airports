@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01592",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CTD4",
+    "local": "CTD4"
+  },
+  "name": "Baie-St-Paul Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.443298,
+    "longitude": -70.516403,
+    "elevation_ft": 100,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Baie-St-Paul"
+  },
+  "keywords": [
+    "TD4"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1592
+  }
+}

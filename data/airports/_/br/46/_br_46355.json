@@ -1,0 +1,33 @@
+{
+  "key": "_br_46355",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNRR",
+    "local": "PE0049"
+  },
+  "name": "Hospital Miguel Arraes Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -7.920322,
+    "longitude": -34.891157,
+    "elevation_ft": 161,
+    "iso_country": "BR",
+    "iso_region": "BR-PE",
+    "municipality": "Paulista"
+  },
+  "keywords": [
+    "SISM",
+    "Hospital Metropolitano Norte"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46355
+  }
+}

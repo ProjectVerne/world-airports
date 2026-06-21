@@ -1,0 +1,30 @@
+{
+  "key": "_us_601565",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TT74",
+    "local": "TT74"
+  },
+  "name": "Moura Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.103167,
+    "longitude": -98.083028,
+    "elevation_ft": 1228,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Perrin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 601565
+  }
+}

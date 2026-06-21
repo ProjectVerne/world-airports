@@ -1,0 +1,30 @@
+{
+  "key": "_us_25274",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UT31",
+    "local": "UT31"
+  },
+  "name": "American Stores Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.763403,
+    "longitude": -111.890702,
+    "elevation_ft": 4691,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Salt Lake City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25274
+  }
+}

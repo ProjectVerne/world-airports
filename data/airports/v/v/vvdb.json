@@ -1,0 +1,31 @@
+{
+  "key": "vvdb",
+  "codes": {
+    "icao": "VVDB",
+    "iata": "DIN",
+    "gps": "VVDB",
+    "local": null
+  },
+  "name": "Dien Bien Phu Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.397499,
+    "longitude": 103.008003,
+    "elevation_ft": 1611,
+    "iso_country": "VN",
+    "iso_region": "VN-NW",
+    "municipality": "Dien Bien Phu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dien_Bien_Phu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26696
+  }
+}

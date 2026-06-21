@@ -1,0 +1,33 @@
+{
+  "key": "zgfs",
+  "codes": {
+    "icao": "ZGFS",
+    "iata": "FUO",
+    "gps": "ZGFS",
+    "local": null
+  },
+  "name": "Foshan Shadi Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.0825,
+    "longitude": 113.070833,
+    "elevation_ft": 6,
+    "iso_country": "CN",
+    "iso_region": "CN-44",
+    "municipality": "Foshan (Nanhai)"
+  },
+  "keywords": [
+    "Guangzhou Shadi Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Foshan_Shadi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44139
+  }
+}

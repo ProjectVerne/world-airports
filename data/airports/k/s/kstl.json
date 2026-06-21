@@ -1,0 +1,33 @@
+{
+  "key": "kstl",
+  "codes": {
+    "icao": "KSTL",
+    "iata": "STL",
+    "gps": "KSTL",
+    "local": "STL"
+  },
+  "name": "St. Louis Lambert International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.748697,
+    "longitude": -90.370003,
+    "elevation_ft": 618,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "St Louis"
+  },
+  "keywords": [
+    "Lambert St Louis"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Louis_Lambert_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3905
+  }
+}

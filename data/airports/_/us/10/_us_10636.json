@@ -1,0 +1,30 @@
+{
+  "key": "_us_10636",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3MS4",
+    "local": "3MS4"
+  },
+  "name": "Pascagoula Naval Station Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.3384,
+    "longitude": -88.573601,
+    "elevation_ft": 13,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Pascagoula"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10636
+  }
+}

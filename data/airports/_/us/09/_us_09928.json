@@ -1,0 +1,30 @@
+{
+  "key": "_us_09928",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "30MA",
+    "local": "30MA"
+  },
+  "name": "Clinton Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.427898,
+    "longitude": -71.692802,
+    "elevation_ft": 368,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Clinton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9928
+  }
+}

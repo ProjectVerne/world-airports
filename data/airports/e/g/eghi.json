@@ -1,0 +1,34 @@
+{
+  "key": "eghi",
+  "codes": {
+    "icao": "EGHI",
+    "iata": "SOU",
+    "gps": "EGHI",
+    "local": null
+  },
+  "name": "Southampton Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.950298,
+    "longitude": -1.3568,
+    "elevation_ft": 44,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Southampton"
+  },
+  "keywords": [
+    "RAF Eastleigh",
+    "RAF Southampton"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Southampton_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2422
+  }
+}

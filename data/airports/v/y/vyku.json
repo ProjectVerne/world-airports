@@ -1,0 +1,30 @@
+{
+  "key": "vyku",
+  "codes": {
+    "icao": "VYKU",
+    "iata": "KYT",
+    "gps": "VYKU",
+    "local": null
+  },
+  "name": "Kyauktu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.4,
+    "longitude": 94.133301,
+    "elevation_ft": 1250,
+    "iso_country": "MM",
+    "iso_region": "MM-03",
+    "municipality": "Kyauktu"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30051
+  }
+}

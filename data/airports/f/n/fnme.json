@@ -1,0 +1,31 @@
+{
+  "key": "fnme",
+  "codes": {
+    "icao": "FNME",
+    "iata": "SPP",
+    "gps": "FNME",
+    "local": null
+  },
+  "name": "Menongue Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -14.6576,
+    "longitude": 17.719801,
+    "elevation_ft": 4469,
+    "iso_country": "AO",
+    "iso_region": "AO-CCU",
+    "municipality": "Menongue"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Menongue_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2945
+  }
+}

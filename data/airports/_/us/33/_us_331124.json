@@ -1,0 +1,32 @@
+{
+  "key": "_us_331124",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IA18",
+    "local": "IA18"
+  },
+  "name": "Besch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.973694,
+    "longitude": -94.035902,
+    "elevation_ft": 1165,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Corwith"
+  },
+  "keywords": [
+    "US-1113"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331124
+  }
+}

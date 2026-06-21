@@ -1,0 +1,31 @@
+{
+  "key": "vnrc",
+  "codes": {
+    "icao": "VNRC",
+    "iata": "RHP",
+    "gps": "VNRC",
+    "local": null
+  },
+  "name": "Ramechhap Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.393999,
+    "longitude": 86.061401,
+    "elevation_ft": 1555,
+    "iso_country": "NP",
+    "iso_region": "NP-P3",
+    "municipality": "Ramechhap"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ramechhap_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32209
+  }
+}

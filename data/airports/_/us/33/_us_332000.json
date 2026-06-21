@@ -1,0 +1,32 @@
+{
+  "key": "_us_332000",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MU06",
+    "local": "MU06"
+  },
+  "name": "Shorten Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.931731,
+    "longitude": -92.575156,
+    "elevation_ft": 898,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Atlanta"
+  },
+  "keywords": [
+    "US-1138"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 332000
+  }
+}

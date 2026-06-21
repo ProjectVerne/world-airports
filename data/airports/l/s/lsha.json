@@ -1,0 +1,30 @@
+{
+  "key": "lsha",
+  "codes": {
+    "icao": "LSHA",
+    "iata": null,
+    "gps": "LSHA",
+    "local": null
+  },
+  "name": "Gstaad-Inn Grund Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.42948,
+    "longitude": 7.27132,
+    "elevation_ft": 3599,
+    "iso_country": "CH",
+    "iso_region": "CH-BE",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605583
+  }
+}

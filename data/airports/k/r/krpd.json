@@ -1,0 +1,31 @@
+{
+  "key": "krpd",
+  "codes": {
+    "icao": "KRPD",
+    "iata": "RIE",
+    "gps": "KRPD",
+    "local": "RPD"
+  },
+  "name": "Rice Lake Regional Airport - Carl's Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.423024,
+    "longitude": -91.773127,
+    "elevation_ft": 1109,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Rice Lake"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rice_Lake_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20953
+  }
+}

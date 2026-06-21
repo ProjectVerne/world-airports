@@ -1,0 +1,31 @@
+{
+  "key": "vasu",
+  "codes": {
+    "icao": "VASU",
+    "iata": "STV",
+    "gps": "VASU",
+    "local": null
+  },
+  "name": "Surat International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.115531,
+    "longitude": 72.743251,
+    "elevation_ft": 16,
+    "iso_country": "IN",
+    "iso_region": "IN-GJ",
+    "municipality": "Surat"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Surat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26461
+  }
+}

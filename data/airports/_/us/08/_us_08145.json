@@ -1,0 +1,30 @@
+{
+  "key": "_us_08145",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "19MA",
+    "local": "19MA"
+  },
+  "name": "Waine Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.285099,
+    "longitude": -70.149696,
+    "elevation_ft": 80,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Nantucket"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8145
+  }
+}

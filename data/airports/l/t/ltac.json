@@ -1,0 +1,31 @@
+{
+  "key": "ltac",
+  "codes": {
+    "icao": "LTAC",
+    "iata": "ESB",
+    "gps": "LTAC",
+    "local": null
+  },
+  "name": "Esenboğa International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.128101,
+    "longitude": 32.995098,
+    "elevation_ft": 3125,
+    "iso_country": "TR",
+    "iso_region": "TR-06",
+    "municipality": "Ankara"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Esenbo%C4%9Fa_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4509
+  }
+}

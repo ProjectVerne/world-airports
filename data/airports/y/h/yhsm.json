@@ -1,0 +1,31 @@
+{
+  "key": "yhsm",
+  "codes": {
+    "icao": "YHSM",
+    "iata": "HSM",
+    "gps": "YHSM",
+    "local": null
+  },
+  "name": "Horsham Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -36.669701,
+    "longitude": 142.173004,
+    "elevation_ft": 445,
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Horsham_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27011
+  }
+}

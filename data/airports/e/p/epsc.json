@@ -1,0 +1,35 @@
+{
+  "key": "epsc",
+  "codes": {
+    "icao": "EPSC",
+    "iata": "SZZ",
+    "gps": "EPSC",
+    "local": null
+  },
+  "name": "Solidarity Szczecin–Goleniów Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.584702,
+    "longitude": 14.9022,
+    "elevation_ft": 154,
+    "iso_country": "PL",
+    "iso_region": "PL-ZP",
+    "municipality": "Szczecin(Glewice)"
+  },
+  "keywords": [
+    "Solidarność",
+    "Glewice",
+    "Port Lotniczy Szczecin–Goleniów im. NSZZ Solidarność"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Szczecin-Goleni%C3%B3w_%22Solidarno%C5%9B%C4%87%22_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2630
+  }
+}

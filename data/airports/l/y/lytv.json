@@ -1,0 +1,35 @@
+{
+  "key": "lytv",
+  "codes": {
+    "icao": "LYTV",
+    "iata": "TIV",
+    "gps": "LYTV",
+    "local": null
+  },
+  "name": "Tivat Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.404701,
+    "longitude": 18.723301,
+    "elevation_ft": 20,
+    "iso_country": "ME",
+    "iso_region": "ME-19",
+    "municipality": "Tivat"
+  },
+  "keywords": [
+    "Аеродром Тиват",
+    "Aerodrom Tivat",
+    "Zračna luka Tivat"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tivat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4615
+  }
+}

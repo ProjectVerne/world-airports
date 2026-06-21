@@ -1,0 +1,30 @@
+{
+  "key": "_us_11535",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4MA9",
+    "local": "4MA9"
+  },
+  "name": "Broad Street Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.090916,
+    "longitude": -72.583702,
+    "elevation_ft": 60,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Springfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11535
+  }
+}

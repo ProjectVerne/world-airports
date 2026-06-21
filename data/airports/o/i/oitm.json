@@ -1,0 +1,33 @@
+{
+  "key": "oitm",
+  "codes": {
+    "icao": "OITM",
+    "iata": "ACP",
+    "gps": "OITM",
+    "local": null
+  },
+  "name": "Sahand Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.348,
+    "longitude": 46.127899,
+    "elevation_ft": 4396,
+    "iso_country": "IR",
+    "iso_region": "IR-03",
+    "municipality": "Maragheh"
+  },
+  "keywords": [
+    "Maragheh Highway Strip"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sahand_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5201
+  }
+}

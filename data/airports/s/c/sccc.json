@@ -1,0 +1,31 @@
+{
+  "key": "sccc",
+  "codes": {
+    "icao": "SCCC",
+    "iata": "CCH",
+    "gps": "SCCC",
+    "local": null
+  },
+  "name": "Chile Chico Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -46.5831,
+    "longitude": -71.686323,
+    "elevation_ft": 1070,
+    "iso_country": "CL",
+    "iso_region": "CL-AI",
+    "municipality": "Chile Chico"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chile_Chico_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6006
+  }
+}

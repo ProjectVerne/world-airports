@@ -1,0 +1,32 @@
+{
+  "key": "_us_16795",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CL76",
+    "local": "CL76"
+  },
+  "name": "U S Naval Medical Center San Diego Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.725019,
+    "longitude": -117.144291,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Diego"
+  },
+  "keywords": [
+    "U S Naval Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16795
+  }
+}

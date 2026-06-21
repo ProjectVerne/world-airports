@@ -1,0 +1,31 @@
+{
+  "key": "scac",
+  "codes": {
+    "icao": "SCAC",
+    "iata": "ZUD",
+    "gps": "SCAC",
+    "local": null
+  },
+  "name": "Pupelde Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -41.904251,
+    "longitude": -73.796571,
+    "elevation_ft": 315,
+    "iso_country": "CL",
+    "iso_region": "CL-LL",
+    "municipality": "Ancud"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pupelde_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30304
+  }
+}

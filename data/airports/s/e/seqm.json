@@ -1,0 +1,33 @@
+{
+  "key": "seqm",
+  "codes": {
+    "icao": "SEQM",
+    "iata": "UIO",
+    "gps": "SEQM",
+    "local": "UIO"
+  },
+  "name": "Mariscal Sucre International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.125399,
+    "longitude": -78.354306,
+    "elevation_ft": 7841,
+    "iso_country": "EC",
+    "iso_region": "EC-P",
+    "municipality": "Quito"
+  },
+  "keywords": [
+    "Nuevo Aeropuerto Internacional Mariscal Sucre"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mariscal_Sucre_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308273
+  }
+}

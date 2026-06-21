@@ -1,0 +1,33 @@
+{
+  "key": "ntmn",
+  "codes": {
+    "icao": "NTMN",
+    "iata": "AUQ",
+    "gps": "NTMN",
+    "local": null
+  },
+  "name": "Hiva Oa-Atuona Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.76879,
+    "longitude": -139.011002,
+    "elevation_ft": 1481,
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Hiva Oa Island"
+  },
+  "keywords": [
+    "HIX"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Atuona_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5002
+  }
+}

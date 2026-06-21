@@ -1,0 +1,33 @@
+{
+  "key": "logf",
+  "codes": {
+    "icao": "LOGF",
+    "iata": null,
+    "gps": "LOGF",
+    "local": null
+  },
+  "name": "Fürstenfeld Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.061873,
+    "longitude": 16.083901,
+    "elevation_ft": 830,
+    "iso_country": "AT",
+    "iso_region": "AT-6",
+    "municipality": "Fürstenfeld"
+  },
+  "keywords": [
+    "Fuerstenfeld"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/F%C3%BCrstenfeld_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29449
+  }
+}

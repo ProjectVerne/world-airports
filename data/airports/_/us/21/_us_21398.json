@@ -1,0 +1,33 @@
+{
+  "key": "_us_21398",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KINF",
+    "local": "INF"
+  },
+  "name": "Inverness Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.803588,
+    "longitude": -82.318311,
+    "elevation_ft": 50,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Inverness"
+  },
+  "keywords": [
+    "X40"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Inverness_Airport_(Florida)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21398
+  }
+}

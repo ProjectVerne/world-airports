@@ -1,0 +1,33 @@
+{
+  "key": "eyka",
+  "codes": {
+    "icao": "EYKA",
+    "iata": "KUN",
+    "gps": "EYKA",
+    "local": null
+  },
+  "name": "Kaunas International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.963965,
+    "longitude": 24.08582,
+    "elevation_ft": 256,
+    "iso_country": "LT",
+    "iso_region": "LT-KU",
+    "municipality": "Kaunas"
+  },
+  "keywords": [
+    "Kauno tarptautinis Oro Uostas"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kaunas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2760
+  }
+}

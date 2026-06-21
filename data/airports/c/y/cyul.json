@@ -1,0 +1,34 @@
+{
+  "key": "cyul",
+  "codes": {
+    "icao": "CYUL",
+    "iata": "YUL",
+    "gps": "CYUL",
+    "local": "YUL"
+  },
+  "name": "Montreal / Pierre Elliott Trudeau International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.467837,
+    "longitude": -73.742294,
+    "elevation_ft": 118,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [
+    "YMQ",
+    "Dorval Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Montréal–Trudeau_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1928
+  }
+}

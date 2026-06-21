@@ -1,0 +1,33 @@
+{
+  "key": "ktrl",
+  "codes": {
+    "icao": "KTRL",
+    "iata": "TRL",
+    "gps": "KTRL",
+    "local": "TRL"
+  },
+  "name": "Terrell Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.709202,
+    "longitude": -96.267403,
+    "elevation_ft": 474,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Terrell"
+  },
+  "keywords": [
+    "Terrell Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Terrell_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21221
+  }
+}

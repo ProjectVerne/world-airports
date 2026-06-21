@@ -1,0 +1,32 @@
+{
+  "key": "_us_23508",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OA09",
+    "local": "OA09"
+  },
+  "name": "Madison Health Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.893268,
+    "longitude": -83.452507,
+    "elevation_ft": 1057,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "London"
+  },
+  "keywords": [
+    "Madison County Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23508
+  }
+}

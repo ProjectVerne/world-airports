@@ -1,0 +1,31 @@
+{
+  "key": "klkv",
+  "codes": {
+    "icao": "KLKV",
+    "iata": "LKV",
+    "gps": "KLKV",
+    "local": "LKV"
+  },
+  "name": "Lake County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.161098,
+    "longitude": -120.399002,
+    "elevation_ft": 4733,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Lakeview"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lake_County_Airport_(Oregon)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20351
+  }
+}

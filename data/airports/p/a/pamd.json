@@ -1,0 +1,31 @@
+{
+  "key": "pamd",
+  "codes": {
+    "icao": "PAMD",
+    "iata": "MDO",
+    "gps": "PAMD",
+    "local": "MDO"
+  },
+  "name": "Middleton Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.449902,
+    "longitude": -146.307007,
+    "elevation_ft": 100,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Middleton Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Middleton_Island_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21936
+  }
+}

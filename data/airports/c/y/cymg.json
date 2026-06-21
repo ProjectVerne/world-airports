@@ -1,0 +1,31 @@
+{
+  "key": "cymg",
+  "codes": {
+    "icao": "CYMG",
+    "iata": "YMG",
+    "gps": "CYMG",
+    "local": null
+  },
+  "name": "Manitouwadge Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.0839,
+    "longitude": -85.860603,
+    "elevation_ft": 1198,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Manitouwadge"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Manitouwadge_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1811
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_13896",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "76LA",
+    "local": "76LA"
+  },
+  "name": "Ochsner Lafayette General Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.202297,
+    "longitude": -92.019866,
+    "elevation_ft": 120,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Lafayette"
+  },
+  "keywords": [
+    "Lafayette General Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13896
+  }
+}

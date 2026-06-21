@@ -1,0 +1,33 @@
+{
+  "key": "gcrr",
+  "codes": {
+    "icao": "GCRR",
+    "iata": "ACE",
+    "gps": "GCRR",
+    "local": null
+  },
+  "name": "César Manrique-Lanzarote Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.945499,
+    "longitude": -13.6052,
+    "elevation_ft": 46,
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "San Bartolomé"
+  },
+  "keywords": [
+    "Arrecife Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lanzarote_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3082
+  }
+}

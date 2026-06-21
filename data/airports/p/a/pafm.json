@@ -1,0 +1,33 @@
+{
+  "key": "pafm",
+  "codes": {
+    "icao": "PAFM",
+    "iata": "ABL",
+    "gps": "PAFM",
+    "local": "AFM"
+  },
+  "name": "Ambler Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 67.105529,
+    "longitude": -157.855339,
+    "elevation_ft": 334,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Ambler"
+  },
+  "keywords": [
+    "Z60"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ambler_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5363
+  }
+}

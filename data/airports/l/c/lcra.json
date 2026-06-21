@@ -1,0 +1,35 @@
+{
+  "key": "lcra",
+  "codes": {
+    "icao": "LCRA",
+    "iata": "AKT",
+    "gps": "LCRA",
+    "local": null
+  },
+  "name": "RAF Akrotiri",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.590401,
+    "longitude": 32.9879,
+    "elevation_ft": 76,
+    "iso_country": "CY",
+    "iso_region": "CY-XX",
+    "municipality": "Akrotiri"
+  },
+  "keywords": [
+    "Royal Air Force",
+    "RAF",
+    "British"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/RAF_Akrotiri",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3982
+  }
+}

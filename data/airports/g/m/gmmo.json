@@ -1,0 +1,31 @@
+{
+  "key": "gmmo",
+  "codes": {
+    "icao": "GMMO",
+    "iata": null,
+    "gps": "GMMO",
+    "local": null
+  },
+  "name": "Taroudant Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.503487,
+    "longitude": -8.821549,
+    "elevation_ft": 869,
+    "iso_country": "MA",
+    "iso_region": "MA-09",
+    "municipality": "Taroudant"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.m.wikipedia.org/wiki/Taroudannt_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30472
+  }
+}

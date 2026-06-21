@@ -1,0 +1,33 @@
+{
+  "key": "lomw",
+  "codes": {
+    "icao": "LOMW",
+    "iata": null,
+    "gps": "LOMW",
+    "local": null
+  },
+  "name": "Wolfsberg Hospital Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.832473,
+    "longitude": 14.847966,
+    "elevation_ft": 1575,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Wolfsberg"
+  },
+  "keywords": [
+    "Dachlandeplatz",
+    "AT-0049"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43806
+  }
+}

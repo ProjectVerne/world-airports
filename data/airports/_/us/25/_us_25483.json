@@ -1,0 +1,30 @@
+{
+  "key": "_us_25483",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VG49",
+    "local": "VG49"
+  },
+  "name": "Tappahannock Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.9011,
+    "longitude": -76.8769,
+    "elevation_ft": 42,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Tappahannock"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25483
+  }
+}

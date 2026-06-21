@@ -1,0 +1,34 @@
+{
+  "key": "uest",
+  "codes": {
+    "icao": "UEST",
+    "iata": "IKS",
+    "gps": "UEST",
+    "local": null
+  },
+  "name": "Tiksi Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 71.697701,
+    "longitude": 128.903,
+    "elevation_ft": 26,
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Tiksi"
+  },
+  "keywords": [
+    "УЕСТ",
+    "Аеропорт Тикси"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tiksi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6450
+  }
+}

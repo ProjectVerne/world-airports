@@ -1,0 +1,31 @@
+{
+  "key": "kwmc",
+  "codes": {
+    "icao": "KWMC",
+    "iata": "WMC",
+    "gps": "KWMC",
+    "local": "WMC"
+  },
+  "name": "Winnemucca Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.896599,
+    "longitude": -117.806,
+    "elevation_ft": 4308,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Winnemucca"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Winnemucca_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21379
+  }
+}

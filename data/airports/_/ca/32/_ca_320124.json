@@ -1,0 +1,30 @@
+{
+  "key": "_ca_320124",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBY2",
+    "local": "CBY2"
+  },
+  "name": "Edmonton/Bailey Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.5078,
+    "longitude": -113.2363,
+    "elevation_ft": 2392,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Edmonton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320124
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "kakr",
+  "codes": {
+    "icao": "KAKR",
+    "iata": "AKC",
+    "gps": "KAKR",
+    "local": "AKR"
+  },
+  "name": "Akron Fulton International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.037355,
+    "longitude": -81.46784,
+    "elevation_ft": 1067,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Akron"
+  },
+  "keywords": [
+    "Akron Executive",
+    "NAS Akron."
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Akron_Executive_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3370
+  }
+}

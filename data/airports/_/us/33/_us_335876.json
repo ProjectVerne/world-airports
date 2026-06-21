@@ -1,0 +1,30 @@
+{
+  "key": "_us_335876",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "82FA",
+    "local": "82FA"
+  },
+  "name": "Airrep Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.488626,
+    "longitude": -86.19166,
+    "elevation_ft": 17,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Freeport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 335876
+  }
+}

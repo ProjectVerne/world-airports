@@ -1,0 +1,33 @@
+{
+  "key": "_us_26104",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Sloan Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.156898,
+    "longitude": -104.708,
+    "elevation_ft": 6085,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Cheyenne"
+  },
+  "keywords": [
+    "WY45",
+    "US-12445"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26104
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "aymc",
+  "codes": {
+    "icao": "AYMC",
+    "iata": "MYX",
+    "gps": "AYMC",
+    "local": "MYY"
+  },
+  "name": "Menyamya Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.211667,
+    "longitude": 146.019361,
+    "elevation_ft": 3880,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Menyamya"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 306956
+  }
+}

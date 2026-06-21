@@ -1,0 +1,35 @@
+{
+  "key": "uwpp",
+  "codes": {
+    "icao": "UWPP",
+    "iata": "PEZ",
+    "gps": "UWPP",
+    "local": null
+  },
+  "name": "Penza Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.1106,
+    "longitude": 45.021099,
+    "elevation_ft": 614,
+    "iso_country": "RU",
+    "iso_region": "RU-PNZ",
+    "municipality": "Penza"
+  },
+  "keywords": [
+    "УВПП",
+    "Пенза",
+    "Penza South"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Penza_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32155
+  }
+}

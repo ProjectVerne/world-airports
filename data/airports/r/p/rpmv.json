@@ -1,0 +1,31 @@
+{
+  "key": "rpmv",
+  "codes": {
+    "icao": "RPMV",
+    "iata": "IPE",
+    "gps": "RPMV",
+    "local": null
+  },
+  "name": "Ipil Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.784898,
+    "longitude": 122.6015,
+    "elevation_ft": 0,
+    "iso_country": "PH",
+    "iso_region": "PH-ZSI",
+    "municipality": "Ipil"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ipil_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31683
+  }
+}

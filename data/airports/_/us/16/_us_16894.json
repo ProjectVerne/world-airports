@@ -1,0 +1,30 @@
+{
+  "key": "_us_16894",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CO40",
+    "local": "CO40"
+  },
+  "name": "Vtol Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.742802,
+    "longitude": -104.994003,
+    "elevation_ft": 5354,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Denver"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16894
+  }
+}

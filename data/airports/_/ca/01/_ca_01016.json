@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01016",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFX4",
+    "local": "CFX4"
+  },
+  "name": "Manning Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.950802,
+    "longitude": -117.643997,
+    "elevation_ft": 1612,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Manning"
+  },
+  "keywords": [
+    "FX4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Manning_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1016
+  }
+}

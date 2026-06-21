@@ -1,0 +1,33 @@
+{
+  "key": "_us_06620",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Pine Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.655602,
+    "longitude": -80.050903,
+    "elevation_ft": 1215,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Mars"
+  },
+  "keywords": [
+    "01PA",
+    "US-9369"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6620
+  }
+}

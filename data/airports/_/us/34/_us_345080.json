@@ -1,0 +1,32 @@
+{
+  "key": "_us_345080",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Williams Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 37.09822,
+    "longitude": -93.86905,
+    "elevation_ft": 1122,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Mount Vernon"
+  },
+  "keywords": [
+    "US-4336"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345080
+  }
+}

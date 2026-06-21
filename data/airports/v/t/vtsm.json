@@ -1,0 +1,31 @@
+{
+  "key": "vtsm",
+  "codes": {
+    "icao": "VTSM",
+    "iata": "USM",
+    "gps": "VTSM",
+    "local": null
+  },
+  "name": "Samui International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.54779,
+    "longitude": 100.061996,
+    "elevation_ft": 64,
+    "iso_country": "TH",
+    "iso_region": "TH-84",
+    "municipality": "Na Thon (Ko Samui Island)"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Samui_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26672
+  }
+}

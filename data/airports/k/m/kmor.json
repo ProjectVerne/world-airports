@@ -1,0 +1,33 @@
+{
+  "key": "kmor",
+  "codes": {
+    "icao": "KMOR",
+    "iata": "MOR",
+    "gps": "KMOR",
+    "local": "MOR"
+  },
+  "name": "Morristown Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.179401,
+    "longitude": -83.375504,
+    "elevation_ft": 1313,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Morristown"
+  },
+  "keywords": [
+    "Moore-Murrell Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Morristown_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20544
+  }
+}

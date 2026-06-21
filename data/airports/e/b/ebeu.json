@@ -1,0 +1,32 @@
+{
+  "key": "ebeu",
+  "codes": {
+    "icao": "EBEU",
+    "iata": null,
+    "gps": "EBEU",
+    "local": null
+  },
+  "name": "Antwerp University Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.155894,
+    "longitude": 4.409841,
+    "elevation_ft": 46,
+    "iso_country": "BE",
+    "iso_region": "BE-VAN",
+    "municipality": "Edegem"
+  },
+  "keywords": [
+    "UZA"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43727
+  }
+}

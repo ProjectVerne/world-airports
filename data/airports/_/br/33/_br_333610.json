@@ -1,0 +1,32 @@
+{
+  "key": "_br_333610",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDXC",
+    "local": "PR0106"
+  },
+  "name": "Condor Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -25.51543,
+    "longitude": -49.296939,
+    "elevation_ft": 3068,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Curitiba"
+  },
+  "keywords": [
+    "BR-0580"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333610
+  }
+}

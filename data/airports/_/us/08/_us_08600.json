@@ -1,0 +1,30 @@
+{
+  "key": "_us_08600",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1OK9",
+    "local": "1OK9"
+  },
+  "name": "Hankins Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.975101,
+    "longitude": -97.089203,
+    "elevation_ft": 843,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Marietta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8600
+  }
+}

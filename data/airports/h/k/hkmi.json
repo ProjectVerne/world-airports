@@ -1,0 +1,33 @@
+{
+  "key": "hkmi",
+  "codes": {
+    "icao": "HKMI",
+    "iata": null,
+    "gps": "HKMI",
+    "local": null
+  },
+  "name": "Kisima Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 0.949109,
+    "longitude": 36.757328,
+    "elevation_ft": 5940,
+    "iso_country": "KE",
+    "iso_region": "KE-25",
+    "municipality": "Kisima"
+  },
+  "keywords": [
+    "Maralal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kisima_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31591
+  }
+}

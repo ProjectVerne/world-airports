@@ -1,0 +1,31 @@
+{
+  "key": "vrei",
+  "codes": {
+    "icao": "VREI",
+    "iata": "IFU",
+    "gps": "VREI",
+    "local": null
+  },
+  "name": "Ifuru Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.7083,
+    "longitude": 73.025,
+    "elevation_ft": 20,
+    "iso_country": "MV",
+    "iso_region": "MV-13",
+    "municipality": "Ifuru Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ifuru_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 316421
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_45245",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "60AK",
+    "local": "60AK"
+  },
+  "name": "Carol's Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 61.607662,
+    "longitude": -149.279062,
+    "elevation_ft": 328,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Wasilla"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45245
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "samr",
+  "codes": {
+    "icao": "SAMR",
+    "iata": "AFA",
+    "gps": "SAMR",
+    "local": "SRA"
+  },
+  "name": "Suboficial Ay Santiago Germano Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.588299,
+    "longitude": -68.4039,
+    "elevation_ft": 2470,
+    "iso_country": "AR",
+    "iso_region": "AR-M",
+    "municipality": "San Rafael"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Rafael_Airport_(Argentina)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5788
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kamw",
+  "codes": {
+    "icao": "KAMW",
+    "iata": "AMW",
+    "gps": "KAMW",
+    "local": "AMW"
+  },
+  "name": "Ames Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.992001,
+    "longitude": -93.621803,
+    "elevation_ft": 956,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Ames"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ames_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19280
+  }
+}

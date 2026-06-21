@@ -1,0 +1,33 @@
+{
+  "key": "_us_06830",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Pauls Valley General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.71979,
+    "longitude": -97.214237,
+    "elevation_ft": 911,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Pauls Valley"
+  },
+  "keywords": [
+    "OK28",
+    "05M"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6830
+  }
+}

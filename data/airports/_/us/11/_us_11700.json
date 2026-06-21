@@ -1,0 +1,33 @@
+{
+  "key": "_us_11700",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Cohen Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.734656,
+    "longitude": -75.942514,
+    "elevation_ft": 418,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Oxford"
+  },
+  "keywords": [
+    "4PS7",
+    "US-10249"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11700
+  }
+}

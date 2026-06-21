@@ -1,0 +1,31 @@
+{
+  "key": "fmsr",
+  "codes": {
+    "icao": "FMSR",
+    "iata": "MXM",
+    "gps": "FMSR",
+    "local": null
+  },
+  "name": "Morombe Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -21.753837,
+    "longitude": 43.374753,
+    "elevation_ft": 16,
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Morombe"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Morombe_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2932
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "sanw",
+  "codes": {
+    "icao": "SANW",
+    "iata": "CRR",
+    "gps": "SANW",
+    "local": "ERE"
+  },
+  "name": "Ceres Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.872292,
+    "longitude": -61.927925,
+    "elevation_ft": 285,
+    "iso_country": "AR",
+    "iso_region": "AR-S",
+    "municipality": "Ceres"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ceres_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29769
+  }
+}

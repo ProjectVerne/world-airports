@@ -1,0 +1,32 @@
+{
+  "key": "_ca_40000",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "St. Aldwyn RCAF",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 50.390532,
+    "longitude": -107.75773,
+    "elevation_ft": 2633,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Swift Current"
+  },
+  "keywords": [
+    "CA-0354"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40000
+  }
+}

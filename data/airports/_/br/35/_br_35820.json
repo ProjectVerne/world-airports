@@ -1,0 +1,33 @@
+{
+  "key": "_br_35820",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDSO",
+    "local": "RJ0057"
+  },
+  "name": "Flamingos Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.02296,
+    "longitude": -44.290109,
+    "elevation_ft": 131,
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Angra dos Reis"
+  },
+  "keywords": [
+    "SDYL",
+    "RM - Angra Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35820
+  }
+}

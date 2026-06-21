@@ -1,0 +1,31 @@
+{
+  "key": "khlc",
+  "codes": {
+    "icao": "KHLC",
+    "iata": "HLC",
+    "gps": "KHLC",
+    "local": "HLC"
+  },
+  "name": "Hill City Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.378799,
+    "longitude": -99.831497,
+    "elevation_ft": 2238,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Hill City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hill_City_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20060
+  }
+}

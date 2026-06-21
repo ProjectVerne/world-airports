@@ -1,0 +1,33 @@
+{
+  "key": "hang",
+  "codes": {
+    "icao": "HANG",
+    "iata": "EGL",
+    "gps": "HANG",
+    "local": null
+  },
+  "name": "Negele Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.2897,
+    "longitude": 39.7023,
+    "elevation_ft": 5230,
+    "iso_country": "ET",
+    "iso_region": "ET-OR",
+    "municipality": "Negele Borana"
+  },
+  "keywords": [
+    "Neghelle"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Neghelle_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 312841
+  }
+}

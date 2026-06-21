@@ -1,0 +1,31 @@
+{
+  "key": "pacl",
+  "codes": {
+    "icao": "PACL",
+    "iata": null,
+    "gps": "PACL",
+    "local": "Z84"
+  },
+  "name": "Clear Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.299738,
+    "longitude": -149.117432,
+    "elevation_ft": 552,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Clear"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Clear_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5346
+  }
+}

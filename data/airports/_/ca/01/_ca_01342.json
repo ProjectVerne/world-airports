@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01342",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNS9",
+    "local": "CNS9"
+  },
+  "name": "Smiths Falls (Community Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.907175,
+    "longitude": -76.027783,
+    "elevation_ft": 409,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Smiths Falls"
+  },
+  "keywords": [
+    "NS9"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1342
+  }
+}

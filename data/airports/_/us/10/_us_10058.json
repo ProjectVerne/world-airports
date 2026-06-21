@@ -1,0 +1,30 @@
+{
+  "key": "_us_10058",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "33MT",
+    "local": "33MT"
+  },
+  "name": "Kruger Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.480598,
+    "longitude": -114.000999,
+    "elevation_ft": 3300,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "West Glacier"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10058
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_fr_43500",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Saint Nazaire Centre Hospitalier Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.267338,
+    "longitude": -2.256591,
+    "elevation_ft": 169,
+    "iso_country": "FR",
+    "iso_region": "FR-PDL",
+    "municipality": "Saint-Nazaire"
+  },
+  "keywords": [
+    "FR-0160"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43500
+  }
+}

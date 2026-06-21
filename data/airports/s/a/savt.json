@@ -1,0 +1,33 @@
+{
+  "key": "savt",
+  "codes": {
+    "icao": "SAVT",
+    "iata": "REL",
+    "gps": "SAVT",
+    "local": "TRE"
+  },
+  "name": "Almirante Marco Andres Zar Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -43.2105,
+    "longitude": -65.2703,
+    "elevation_ft": 141,
+    "iso_country": "AR",
+    "iso_region": "AR-U",
+    "municipality": "Rawson"
+  },
+  "keywords": [
+    "Trelew Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Almirante_Marco_Andr%C3%A9s_Zar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5827
+  }
+}

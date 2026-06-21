@@ -1,0 +1,30 @@
+{
+  "key": "_us_24999",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TN85",
+    "local": "TN85"
+  },
+  "name": "Hogue Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.639,
+    "longitude": -85.397202,
+    "elevation_ft": 1800,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Spencer"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24999
+  }
+}

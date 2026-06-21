@@ -1,0 +1,32 @@
+{
+  "key": "_fr_43509",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Centre Hospitalier Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.389721,
+    "longitude": 2.795556,
+    "elevation_ft": 108,
+    "iso_country": "FR",
+    "iso_region": "FR-HDF",
+    "municipality": "Compiegne"
+  },
+  "keywords": [
+    "FR-0169"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43509
+  }
+}

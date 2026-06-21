@@ -1,0 +1,32 @@
+{
+  "key": "_us_331132",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID42",
+    "local": "ID42"
+  },
+  "name": "Poplar Point Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.925555,
+    "longitude": -115.757222,
+    "elevation_ft": 2525,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Bruneau"
+  },
+  "keywords": [
+    "US-1115"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331132
+  }
+}

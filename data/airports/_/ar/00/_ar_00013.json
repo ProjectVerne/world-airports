@@ -1,0 +1,32 @@
+{
+  "key": "_ar_00013",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SA01",
+    "local": "CCS"
+  },
+  "name": "Cachi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.105,
+    "longitude": -66.157204,
+    "elevation_ft": 8232,
+    "iso_country": "AR",
+    "iso_region": "AR-A",
+    "municipality": "Cachi"
+  },
+  "keywords": [
+    "SA01"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13
+  }
+}

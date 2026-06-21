@@ -1,0 +1,32 @@
+{
+  "key": "_us_322571",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID10",
+    "local": "ID10"
+  },
+  "name": "Weitz Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.594819,
+    "longitude": -116.832522,
+    "elevation_ft": 2289,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Marsing"
+  },
+  "keywords": [
+    "US-0490"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322571
+  }
+}

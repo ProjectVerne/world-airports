@@ -1,0 +1,31 @@
+{
+  "key": "wapg",
+  "codes": {
+    "icao": "WAPG",
+    "iata": "NRE",
+    "gps": "WAPG",
+    "local": null
+  },
+  "name": "Namrole Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.85522,
+    "longitude": 126.700902,
+    "elevation_ft": 31,
+    "iso_country": "ID",
+    "iso_region": "ID-MA",
+    "municipality": "Namrole"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Namrole_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41390
+  }
+}

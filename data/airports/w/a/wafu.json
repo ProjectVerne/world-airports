@@ -1,0 +1,33 @@
+{
+  "key": "wafu",
+  "codes": {
+    "icao": "WAFU",
+    "iata": "OJU",
+    "gps": "WAFU",
+    "local": null
+  },
+  "name": "Tanjung Api Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.865437,
+    "longitude": 121.628625,
+    "elevation_ft": 49,
+    "iso_country": "ID",
+    "iso_region": "ID-ST",
+    "municipality": "Tojo Una-Una"
+  },
+  "keywords": [
+    "Ampana"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tanjung_Api_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 506525
+  }
+}

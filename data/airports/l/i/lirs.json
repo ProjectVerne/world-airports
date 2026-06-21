@@ -1,0 +1,33 @@
+{
+  "key": "lirs",
+  "codes": {
+    "icao": "LIRS",
+    "iata": "GRS",
+    "gps": "LIRS",
+    "local": "GR06"
+  },
+  "name": "Grosseto Corrado Baccarini Air Base / Grosseto Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.759701,
+    "longitude": 11.0719,
+    "elevation_ft": 17,
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "Grosseto (GR)"
+  },
+  "keywords": [
+    "C Baccarini"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Grosseto_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4381
+  }
+}

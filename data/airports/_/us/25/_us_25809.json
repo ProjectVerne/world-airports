@@ -1,0 +1,33 @@
+{
+  "key": "_us_25809",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Pete's Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 47.841599,
+    "longitude": -117.446999,
+    "elevation_ft": 2160,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Deer Park"
+  },
+  "keywords": [
+    "WN14",
+    "US-12412"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25809
+  }
+}

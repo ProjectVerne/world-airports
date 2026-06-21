@@ -1,0 +1,30 @@
+{
+  "key": "_us_07212",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0ID1",
+    "local": "0ID1"
+  },
+  "name": "Ziggy's Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.641201,
+    "longitude": -114.605003,
+    "elevation_ft": 3225,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Filer"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7212
+  }
+}

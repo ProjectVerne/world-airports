@@ -1,0 +1,33 @@
+{
+  "key": "_br_35938",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "BASF Imigrantes Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": -23.720043,
+    "longitude": -46.601413,
+    "elevation_ft": 2625,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Bernardo do Campo"
+  },
+  "keywords": [
+    "SIEM",
+    "BR-2388"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35938
+  }
+}

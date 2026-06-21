@@ -1,0 +1,31 @@
+{
+  "key": "ksad",
+  "codes": {
+    "icao": "KSAD",
+    "iata": "SAD",
+    "gps": "KSAD",
+    "local": "SAD"
+  },
+  "name": "Safford Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.854801,
+    "longitude": -109.635002,
+    "elevation_ft": 3179,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Safford"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Safford_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21032
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "pfak",
+  "codes": {
+    "icao": "PFAK",
+    "iata": "AKI",
+    "gps": "PFAK",
+    "local": "AKI"
+  },
+  "name": "Akiak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.902646,
+    "longitude": -161.23106,
+    "elevation_ft": 30,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Akiak"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Akiak_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16191
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_br_00303",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNEU",
+    "local": "SNEU"
+  },
+  "name": "Euclides da Cunha Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -10.5273,
+    "longitude": -39.0327,
+    "elevation_ft": 1499,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Euclides Da Cunha"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 303
+  }
+}

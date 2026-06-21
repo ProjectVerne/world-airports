@@ -1,0 +1,30 @@
+{
+  "key": "_us_506118",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM95",
+    "local": "NM95"
+  },
+  "name": "Careflight 25 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.350397,
+    "longitude": -104.251475,
+    "elevation_ft": 3297,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Carlsbad"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 506118
+  }
+}

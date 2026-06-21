@@ -1,0 +1,31 @@
+{
+  "key": "ldpl",
+  "codes": {
+    "icao": "LDPL",
+    "iata": "PUY",
+    "gps": "LDPL",
+    "local": null
+  },
+  "name": "Pula Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.893501,
+    "longitude": 13.9222,
+    "elevation_ft": 274,
+    "iso_country": "HR",
+    "iso_region": "HR-18",
+    "municipality": "Pula"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pula_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3987
+  }
+}

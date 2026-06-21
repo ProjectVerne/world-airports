@@ -1,0 +1,31 @@
+{
+  "key": "vtpl",
+  "codes": {
+    "icao": "VTPL",
+    "iata": null,
+    "gps": "VTPL",
+    "local": null
+  },
+  "name": "Sak Long Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.824057,
+    "longitude": 101.251244,
+    "elevation_ft": 500,
+    "iso_country": "TH",
+    "iso_region": "TH-67",
+    "municipality": "Lom Sak"
+  },
+  "keywords": [],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Sak_Long",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26657
+  }
+}

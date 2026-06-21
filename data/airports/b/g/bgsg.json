@@ -1,0 +1,33 @@
+{
+  "key": "bgsg",
+  "codes": {
+    "icao": "BGSG",
+    "iata": "SGG",
+    "gps": "BGSG",
+    "local": "SMG"
+  },
+  "name": "Sermiligaaq Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 65.90592,
+    "longitude": -36.378254,
+    "elevation_ft": 33,
+    "iso_country": "GL",
+    "iso_region": "GL-SE",
+    "municipality": "Sermiligaaq"
+  },
+  "keywords": [
+    "Sermiligâk"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sermiligaaq_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44069
+  }
+}

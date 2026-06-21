@@ -1,0 +1,31 @@
+{
+  "key": "krap",
+  "codes": {
+    "icao": "KRAP",
+    "iata": "RAP",
+    "gps": "KRAP",
+    "local": "RAP"
+  },
+  "name": "Rapid City Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.0453,
+    "longitude": -103.056999,
+    "elevation_ft": 3204,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Rapid City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rapid_City_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3838
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "hkrb",
+  "codes": {
+    "icao": "HKRB",
+    "iata": null,
+    "gps": "HKRB",
+    "local": null
+  },
+  "name": "Aruba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.342235,
+    "longitude": 38.814481,
+    "elevation_ft": 1300,
+    "iso_country": "KE",
+    "iso_region": "KE-06",
+    "municipality": "Aruba"
+  },
+  "keywords": [
+    "KE-6957"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42636
+  }
+}

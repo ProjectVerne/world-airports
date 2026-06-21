@@ -1,0 +1,31 @@
+{
+  "key": "smst",
+  "codes": {
+    "icao": "SMST",
+    "iata": "SMZ",
+    "gps": "SMST",
+    "local": null
+  },
+  "name": "Stoelmanseiland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.351389,
+    "longitude": -54.418056,
+    "elevation_ft": 187,
+    "iso_country": "SR",
+    "iso_region": "SR-SI",
+    "municipality": "Stoelmanseiland"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stoelmans_Eiland_Airstrip",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41509
+  }
+}

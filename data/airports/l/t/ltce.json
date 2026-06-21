@@ -1,0 +1,31 @@
+{
+  "key": "ltce",
+  "codes": {
+    "icao": "LTCE",
+    "iata": "ERZ",
+    "gps": "LTCE",
+    "local": null
+  },
+  "name": "Erzurum International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.956501,
+    "longitude": 41.1702,
+    "elevation_ft": 5763,
+    "iso_country": "TR",
+    "iso_region": "TR-25",
+    "municipality": "Erzurum"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Erzurum_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4551
+  }
+}

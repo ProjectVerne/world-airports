@@ -1,0 +1,31 @@
+{
+  "key": "fnlb",
+  "codes": {
+    "icao": "FNLB",
+    "iata": "LLT",
+    "gps": "FNLB",
+    "local": null
+  },
+  "name": "Lobito Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -12.3712,
+    "longitude": 13.5366,
+    "elevation_ft": 10,
+    "iso_country": "AO",
+    "iso_region": "AO-BGU",
+    "municipality": "Lobito"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lobito_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2941
+  }
+}

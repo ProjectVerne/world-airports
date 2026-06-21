@@ -1,0 +1,31 @@
+{
+  "key": "rpun",
+  "codes": {
+    "icao": "RPUN",
+    "iata": "WNP",
+    "gps": "RPUN",
+    "local": null
+  },
+  "name": "Naga Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.5849,
+    "longitude": 123.269997,
+    "elevation_ft": 142,
+    "iso_country": "PH",
+    "iso_region": "PH-CAS",
+    "municipality": "Naga"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naga_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5722
+  }
+}

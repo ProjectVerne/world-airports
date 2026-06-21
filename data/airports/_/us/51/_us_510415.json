@@ -1,0 +1,33 @@
+{
+  "key": "_us_510415",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WI75",
+    "local": "WI75"
+  },
+  "name": "Froedtert West Bend Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.355171,
+    "longitude": -88.19387,
+    "elevation_ft": 990,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "West Bend"
+  },
+  "keywords": [
+    "WS66",
+    "US-7854"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 510415
+  }
+}

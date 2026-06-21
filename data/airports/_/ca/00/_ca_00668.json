@@ -1,0 +1,30 @@
+{
+  "key": "_ca_00668",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBC8",
+    "local": "CBC8"
+  },
+  "name": "Tofino General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.1511,
+    "longitude": -125.908997,
+    "elevation_ft": 50,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Tofino"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 668
+  }
+}

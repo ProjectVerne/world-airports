@@ -1,0 +1,33 @@
+{
+  "key": "hbbe",
+  "codes": {
+    "icao": "HBBE",
+    "iata": "GID",
+    "gps": "HBBE",
+    "local": null
+  },
+  "name": "Gitega Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.417209,
+    "longitude": 29.911308,
+    "elevation_ft": 5741,
+    "iso_country": "BI",
+    "iso_region": "BI-GI",
+    "municipality": "Gitega"
+  },
+  "keywords": [
+    "Kitega"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gitega_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31529
+  }
+}

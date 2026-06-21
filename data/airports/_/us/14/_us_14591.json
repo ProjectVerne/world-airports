@@ -1,0 +1,32 @@
+{
+  "key": "_us_14591",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "83CA",
+    "local": "83CA"
+  },
+  "name": "The Met Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.688469,
+    "longitude": -117.877966,
+    "elevation_ft": 204,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Costa Mesa"
+  },
+  "keywords": [
+    "South Coast Metro Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 14591
+  }
+}

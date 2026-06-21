@@ -1,0 +1,36 @@
+{
+  "key": "uemo",
+  "codes": {
+    "icao": "UEMO",
+    "iata": "OLZ",
+    "gps": "UEMO",
+    "local": null
+  },
+  "name": "Olyokminsk Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.401833,
+    "longitude": 120.476094,
+    "elevation_ft": 656,
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Olyokminsk"
+  },
+  "keywords": [
+    "Olekminsk Airport",
+    "Аэропорт Олёкминск",
+    "Аэропорт Олекминск",
+    "УЕМО"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Olyokminsk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32510
+  }
+}

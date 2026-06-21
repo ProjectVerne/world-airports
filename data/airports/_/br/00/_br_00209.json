@@ -1,0 +1,35 @@
+{
+  "key": "_br_00209",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "BA0086"
+  },
+  "name": "Alagoinhas Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -12.175078,
+    "longitude": -38.380055,
+    "elevation_ft": 568,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Alagoinhas"
+  },
+  "keywords": [
+    "QGS",
+    "SDUO",
+    "SIGL",
+    "BR-2158"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 209
+  }
+}

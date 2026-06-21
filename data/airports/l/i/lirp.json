@@ -1,0 +1,34 @@
+{
+  "key": "lirp",
+  "codes": {
+    "icao": "LIRP",
+    "iata": "PSA",
+    "gps": "LIRP",
+    "local": "PI05"
+  },
+  "name": "Pisa International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.683899,
+    "longitude": 10.3927,
+    "elevation_ft": 6,
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "Pisa (PI)"
+  },
+  "keywords": [
+    "Galileo Galilei Airport",
+    "San Giusto Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pisa_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4379
+  }
+}

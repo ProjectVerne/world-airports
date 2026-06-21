@@ -1,0 +1,35 @@
+{
+  "key": "czam",
+  "codes": {
+    "icao": "CZAM",
+    "iata": "YSN",
+    "gps": "CZAM",
+    "local": null
+  },
+  "name": "Shuswap Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.682802,
+    "longitude": -119.228996,
+    "elevation_ft": 1751,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Salmon Arm"
+  },
+  "keywords": [
+    "AM4",
+    "Shuswap Regional Airport",
+    "Salmon Arm Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Salmon_Arm_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2006
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "fanc",
+  "codes": {
+    "icao": "FANC",
+    "iata": "NCS",
+    "gps": "FANC",
+    "local": null
+  },
+  "name": "Newcastle Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.770599,
+    "longitude": 29.9769,
+    "elevation_ft": 4074,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Newcastle"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Newcastle_Airport_(South_Africa)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2816
+  }
+}

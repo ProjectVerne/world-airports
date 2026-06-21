@@ -1,0 +1,30 @@
+{
+  "key": "_us_23231",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM11",
+    "local": "NM11"
+  },
+  "name": "University of New Mexico Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.087979,
+    "longitude": -106.618491,
+    "elevation_ft": 5273,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Albuquerque"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23231
+  }
+}

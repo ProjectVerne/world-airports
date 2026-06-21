@@ -1,0 +1,33 @@
+{
+  "key": "kcvo",
+  "codes": {
+    "icao": "KCVO",
+    "iata": "CVO",
+    "gps": "KCVO",
+    "local": "CVO"
+  },
+  "name": "Corvallis Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.4972,
+    "longitude": -123.290001,
+    "elevation_ft": 250,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Corvallis"
+  },
+  "keywords": [
+    "Albany Oregon"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Corvallis_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3472
+  }
+}

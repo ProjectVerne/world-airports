@@ -1,0 +1,32 @@
+{
+  "key": "_us_25987",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WV04",
+    "local": "WV04"
+  },
+  "name": "Beckley ARH Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.799476,
+    "longitude": -81.167706,
+    "elevation_ft": 2340,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Beckley"
+  },
+  "keywords": [
+    "Appalachian Regional Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25987
+  }
+}

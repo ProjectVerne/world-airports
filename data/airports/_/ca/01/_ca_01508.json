@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01508",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSD5",
+    "local": "CSD5"
+  },
+  "name": "Fermont Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 52.806099,
+    "longitude": -67.102203,
+    "elevation_ft": 2009,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Fermont"
+  },
+  "keywords": [
+    "SD5"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1508
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_17585",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "GE22",
+    "local": "GE22"
+  },
+  "name": "Graham Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.5289,
+    "longitude": -82.821701,
+    "elevation_ft": 237,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "East Dublin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17585
+  }
+}

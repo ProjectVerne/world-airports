@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01406",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPG4",
+    "local": "CPG4"
+  },
+  "name": "Elmira (East) Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.5919,
+    "longitude": -80.512199,
+    "elevation_ft": 1150,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Elmira"
+  },
+  "keywords": [
+    "PG4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Elmira_(East)_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1406
+  }
+}

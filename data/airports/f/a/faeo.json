@@ -1,0 +1,30 @@
+{
+  "key": "faeo",
+  "codes": {
+    "icao": "FAEO",
+    "iata": null,
+    "gps": "FAEO",
+    "local": null
+  },
+  "name": "Ermelo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.4956,
+    "longitude": 29.979799,
+    "elevation_ft": 5700,
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Ermelo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2780
+  }
+}

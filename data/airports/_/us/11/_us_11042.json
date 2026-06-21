@@ -1,0 +1,30 @@
+{
+  "key": "_us_11042",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "43MI",
+    "local": "43MI"
+  },
+  "name": "W Gladstone Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.8591,
+    "longitude": -87.116798,
+    "elevation_ft": 720,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Gladstone"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11042
+  }
+}

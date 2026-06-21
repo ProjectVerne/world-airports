@@ -1,0 +1,32 @@
+{
+  "key": "_us_10974",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "41TE",
+    "local": "41TE"
+  },
+  "name": "South Texas Veterans Health Care Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.018286,
+    "longitude": -99.11432,
+    "elevation_ft": 1600,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Kerrville"
+  },
+  "keywords": [
+    "VAMC Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10974
+  }
+}

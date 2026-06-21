@@ -1,0 +1,31 @@
+{
+  "key": "_ca_01484",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CRC2",
+    "local": "CRC2"
+  },
+  "name": "RCMP Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.93174,
+    "longitude": -66.666681,
+    "elevation_ft": 369,
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Fredericton"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#Fredericton_(RCMP)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1484
+  }
+}

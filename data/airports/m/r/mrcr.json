@@ -1,0 +1,33 @@
+{
+  "key": "mrcr",
+  "codes": {
+    "icao": "MRCR",
+    "iata": "PLD",
+    "gps": "MRCR",
+    "local": null
+  },
+  "name": "Playa Samara/Carrillo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.87051,
+    "longitude": -85.4814,
+    "elevation_ft": 50,
+    "iso_country": "CR",
+    "iso_region": "CR-G",
+    "municipality": "Carrillo"
+  },
+  "keywords": [
+    "RIK"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Carrillo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32210
+  }
+}

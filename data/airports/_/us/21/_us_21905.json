@@ -1,0 +1,30 @@
+{
+  "key": "_us_21905",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MD60",
+    "local": "MD60"
+  },
+  "name": "Northwest Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.359001,
+    "longitude": -76.781601,
+    "elevation_ft": 530,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Randallstown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21905
+  }
+}

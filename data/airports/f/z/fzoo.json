@@ -1,0 +1,31 @@
+{
+  "key": "fzoo",
+  "codes": {
+    "icao": "FZOO",
+    "iata": null,
+    "gps": "FZOO",
+    "local": null
+  },
+  "name": "Kailo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.633,
+    "longitude": 26.1,
+    "elevation_ft": 1804,
+    "iso_country": "CD",
+    "iso_region": "CD-MA",
+    "municipality": "Kailo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kailo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31430
+  }
+}

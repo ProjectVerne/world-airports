@@ -1,0 +1,30 @@
+{
+  "key": "fapk",
+  "codes": {
+    "icao": "FAPK",
+    "iata": "PRK",
+    "gps": "FAPK",
+    "local": null
+  },
+  "name": "Prieska Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.683599,
+    "longitude": 22.770599,
+    "elevation_ft": 3100,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Prieska"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30291
+  }
+}

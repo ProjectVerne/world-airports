@@ -1,0 +1,30 @@
+{
+  "key": "aytg",
+  "codes": {
+    "icao": "AYTG",
+    "iata": "TGL",
+    "gps": "AYTG",
+    "local": "TAG"
+  },
+  "name": "Tagula Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -11.331111,
+    "longitude": 153.202917,
+    "elevation_ft": 59,
+    "iso_country": "PG",
+    "iso_region": "PG-MBA",
+    "municipality": "Sudest Island"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307191
+  }
+}

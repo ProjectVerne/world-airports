@@ -1,0 +1,32 @@
+{
+  "key": "_us_10324",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "39GA",
+    "local": "39GA"
+  },
+  "name": "Wayne Memorial Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.601375,
+    "longitude": -81.898524,
+    "elevation_ft": 99,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Jessup"
+  },
+  "keywords": [
+    "Air Evac 96 Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10324
+  }
+}

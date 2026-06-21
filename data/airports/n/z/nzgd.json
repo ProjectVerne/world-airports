@@ -1,0 +1,32 @@
+{
+  "key": "nzgd",
+  "codes": {
+    "icao": "NZGD",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Geraldine",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -44.097121,
+    "longitude": 171.243108,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Geraldine"
+  },
+  "keywords": [
+    "NZ-0100"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 604992
+  }
+}

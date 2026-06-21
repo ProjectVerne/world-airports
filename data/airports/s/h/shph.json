@@ -1,0 +1,30 @@
+{
+  "key": "shph",
+  "codes": {
+    "icao": "SHPH",
+    "iata": null,
+    "gps": "SHPH",
+    "local": null
+  },
+  "name": "Santa Teresa Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -33.554949,
+    "longitude": -70.815402,
+    "elevation_ft": 1450,
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Padre Hurtado"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605429
+  }
+}

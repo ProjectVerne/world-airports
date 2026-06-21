@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01360",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNX8",
+    "local": "CNX8"
+  },
+  "name": "Nixon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.847328,
+    "longitude": -80.39521,
+    "elevation_ft": 780,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Simcoe"
+  },
+  "keywords": [
+    "NX8"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nixon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1360
+  }
+}

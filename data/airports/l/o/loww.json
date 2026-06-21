@@ -1,0 +1,31 @@
+{
+  "key": "loww",
+  "codes": {
+    "icao": "LOWW",
+    "iata": "VIE",
+    "gps": "LOWW",
+    "local": null
+  },
+  "name": "Vienna International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.110298,
+    "longitude": 16.5697,
+    "elevation_ft": 600,
+    "iso_country": "AT",
+    "iso_region": "AT-9",
+    "municipality": "Vienna"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vienna_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4434
+  }
+}

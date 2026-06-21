@@ -1,0 +1,31 @@
+{
+  "key": "kpns",
+  "codes": {
+    "icao": "KPNS",
+    "iata": "PNS",
+    "gps": "KPNS",
+    "local": "PNS"
+  },
+  "name": "Pensacola International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.472718,
+    "longitude": -87.186639,
+    "elevation_ft": 121,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Pensacola"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pensacola_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3783
+  }
+}

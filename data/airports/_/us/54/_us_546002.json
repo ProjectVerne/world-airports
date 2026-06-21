@@ -1,0 +1,33 @@
+{
+  "key": "_us_546002",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "48AL",
+    "local": "48AL"
+  },
+  "name": "OWA Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.373056,
+    "longitude": -87.663333,
+    "elevation_ft": 55,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Foley"
+  },
+  "keywords": [
+    "FLYOWA",
+    "B-Squared Helicopters"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 546002
+  }
+}

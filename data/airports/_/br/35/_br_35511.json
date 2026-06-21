@@ -1,0 +1,30 @@
+{
+  "key": "_br_35511",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDFP",
+    "local": "SP0329"
+  },
+  "name": "Folha de São Paulo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.537527,
+    "longitude": -46.645781,
+    "elevation_ft": 2612,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Paulo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35511
+  }
+}

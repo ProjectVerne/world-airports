@@ -1,0 +1,32 @@
+{
+  "key": "loao",
+  "codes": {
+    "icao": "LOAO",
+    "iata": null,
+    "gps": "LOAO",
+    "local": null
+  },
+  "name": "Oberpullendorf Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.507738,
+    "longitude": 16.511697,
+    "elevation_ft": 909,
+    "iso_country": "AT",
+    "iso_region": "AT-1",
+    "municipality": "Oberpullendorf"
+  },
+  "keywords": [
+    "AT-0036"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43791
+  }
+}

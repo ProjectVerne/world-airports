@@ -1,0 +1,30 @@
+{
+  "key": "ayql",
+  "codes": {
+    "icao": "AYQL",
+    "iata": "TLP",
+    "gps": "AYQL",
+    "local": "TUM"
+  },
+  "name": "Tumolbil Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.7748,
+    "longitude": 141.0133,
+    "elevation_ft": 3590,
+    "iso_country": "PG",
+    "iso_region": "PG-SAN",
+    "municipality": "Tumolbil"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307239
+  }
+}

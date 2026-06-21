@@ -1,0 +1,31 @@
+{
+  "key": "sbtk",
+  "codes": {
+    "icao": "SBTK",
+    "iata": "TRQ",
+    "gps": "SBTK",
+    "local": "AC0004"
+  },
+  "name": "Tarauacá Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.155534,
+    "longitude": -70.782985,
+    "elevation_ft": 646,
+    "iso_country": "BR",
+    "iso_region": "BR-AC",
+    "municipality": "Tarauacá"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tarauac%C3%A1_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5984
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_26108",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WY50",
+    "local": "WY50"
+  },
+  "name": "Cheyenne Echo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.1572,
+    "longitude": -104.811996,
+    "elevation_ft": 6120,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Cheyenne"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26108
+  }
+}

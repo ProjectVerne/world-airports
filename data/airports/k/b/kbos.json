@@ -1,0 +1,33 @@
+{
+  "key": "kbos",
+  "codes": {
+    "icao": "KBOS",
+    "iata": "BOS",
+    "gps": "KBOS",
+    "local": "BOS"
+  },
+  "name": "Boston Logan International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.36197,
+    "longitude": -71.0079,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Boston"
+  },
+  "keywords": [
+    "General Edward Lawrence Logan International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Logan_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3422
+  }
+}

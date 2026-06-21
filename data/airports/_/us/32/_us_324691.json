@@ -1,0 +1,30 @@
+{
+  "key": "_us_324691",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NJ99",
+    "local": "NJ99"
+  },
+  "name": "Vonage Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.349527,
+    "longitude": -74.190584,
+    "elevation_ft": 110,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Holmdel"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 324691
+  }
+}

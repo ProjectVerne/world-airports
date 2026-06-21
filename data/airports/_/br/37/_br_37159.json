@@ -1,0 +1,33 @@
+{
+  "key": "_br_37159",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNBD",
+    "local": "PE0063"
+  },
+  "name": "Brennand Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -8.580003,
+    "longitude": -35.03974,
+    "elevation_ft": 3,
+    "iso_country": "BR",
+    "iso_region": "BR-PE",
+    "municipality": "Ipojuca"
+  },
+  "keywords": [
+    "SJBR",
+    "SNLL"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 37159
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_09192",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "28CN",
+    "local": "28CN"
+  },
+  "name": "San Joaquin Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.383222,
+    "longitude": -119.020638,
+    "elevation_ft": 465,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Bakersfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9192
+  }
+}

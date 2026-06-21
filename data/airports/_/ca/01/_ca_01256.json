@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01256",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKY2",
+    "local": "CKY2"
+  },
+  "name": "Whitewood Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.334778,
+    "longitude": -102.274475,
+    "elevation_ft": 2000,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Whitewood"
+  },
+  "keywords": [
+    "KY2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Whitewood_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1256
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "skbo",
+  "codes": {
+    "icao": "SKBO",
+    "iata": "BOG",
+    "gps": "SKBO",
+    "local": "BOG"
+  },
+  "name": "El Dorado International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.70159,
+    "longitude": -74.1469,
+    "elevation_ft": 8361,
+    "iso_country": "CO",
+    "iso_region": "CO-DC",
+    "municipality": "Bogota"
+  },
+  "keywords": [
+    "Cundinamarca"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Dorado_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6104
+  }
+}

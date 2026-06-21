@@ -1,0 +1,31 @@
+{
+  "key": "etsi",
+  "codes": {
+    "icao": "ETSI",
+    "iata": "IGS",
+    "gps": "ETSI",
+    "local": null
+  },
+  "name": "Ingolstadt Manching Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.715698,
+    "longitude": 11.534,
+    "elevation_ft": 1202,
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Manching"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ingolstadt_Manching_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2753
+  }
+}

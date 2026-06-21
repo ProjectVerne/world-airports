@@ -1,0 +1,33 @@
+{
+  "key": "sbip",
+  "codes": {
+    "icao": "SBIP",
+    "iata": "IPN",
+    "gps": "SBIP",
+    "local": "MG0007"
+  },
+  "name": "Usiminas Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.470699,
+    "longitude": -42.487598,
+    "elevation_ft": 786,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Ipatinga"
+  },
+  "keywords": [
+    "Usiminas"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vale_do_Aço_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5918
+  }
+}

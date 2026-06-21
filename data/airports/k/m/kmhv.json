@@ -1,0 +1,33 @@
+{
+  "key": "kmhv",
+  "codes": {
+    "icao": "KMHV",
+    "iata": "MHV",
+    "gps": "KMHV",
+    "local": "MHV"
+  },
+  "name": "Mojave Air &  Space Port",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.056391,
+    "longitude": -118.145342,
+    "elevation_ft": 2801,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Mojave"
+  },
+  "keywords": [
+    "Rutan Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20507
+  }
+}

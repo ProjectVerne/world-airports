@@ -1,0 +1,30 @@
+{
+  "key": "_us_520203",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "80GE",
+    "local": "80GE"
+  },
+  "name": "WRDW TV Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.523074,
+    "longitude": -82.026384,
+    "elevation_ft": 236,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Augusta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 520203
+  }
+}

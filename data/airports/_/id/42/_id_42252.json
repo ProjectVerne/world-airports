@@ -1,0 +1,30 @@
+{
+  "key": "_id_42252",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WAPO",
+    "local": null
+  },
+  "name": "Larat Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.1282,
+    "longitude": 131.7673,
+    "elevation_ft": 108,
+    "iso_country": "ID",
+    "iso_region": "ID-MA",
+    "municipality": "Kepulauan Larat"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42252
+  }
+}

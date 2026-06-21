@@ -1,0 +1,31 @@
+{
+  "key": "oics",
+  "codes": {
+    "icao": "OICS",
+    "iata": "SDG",
+    "gps": "OICS",
+    "local": null
+  },
+  "name": "Sanandaj Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.245899,
+    "longitude": 47.009201,
+    "elevation_ft": 4522,
+    "iso_country": "IR",
+    "iso_region": "IR-12",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sanandaj_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5152
+  }
+}

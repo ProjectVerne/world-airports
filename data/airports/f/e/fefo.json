@@ -1,0 +1,31 @@
+{
+  "key": "fefo",
+  "codes": {
+    "icao": "FEFO",
+    "iata": "BOP",
+    "gps": "FEFO",
+    "local": null
+  },
+  "name": "Bouar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.958,
+    "longitude": 15.637,
+    "elevation_ft": 3360,
+    "iso_country": "CF",
+    "iso_region": "CF-NM",
+    "municipality": "Bouar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bouar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30785
+  }
+}

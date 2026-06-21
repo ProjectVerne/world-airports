@@ -1,0 +1,30 @@
+{
+  "key": "_us_22072",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MI59",
+    "local": "MI59"
+  },
+  "name": "Cass Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.601002,
+    "longitude": -83.394203,
+    "elevation_ft": 935,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "West Bloomfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22072
+  }
+}

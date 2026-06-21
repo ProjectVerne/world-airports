@@ -1,0 +1,33 @@
+{
+  "key": "khxd",
+  "codes": {
+    "icao": "KHXD",
+    "iata": "HHH",
+    "gps": "KHXD",
+    "local": "HXD"
+  },
+  "name": "Hilton Head Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.2244,
+    "longitude": -80.697502,
+    "elevation_ft": 19,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Hilton Head Island"
+  },
+  "keywords": [
+    "49J"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hilton_Head_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20105
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_331206",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "11PA",
+    "local": "11PA"
+  },
+  "name": "Worcester Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.192184,
+    "longitude": -75.313836,
+    "elevation_ft": 415,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Worcester"
+  },
+  "keywords": [
+    "US-1121"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331206
+  }
+}

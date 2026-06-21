@@ -1,0 +1,33 @@
+{
+  "key": "_br_35872",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Ambev - Filial Guarulhos Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.318611,
+    "longitude": -46.369999,
+    "elevation_ft": 2805,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Guarulhos"
+  },
+  "keywords": [
+    "SIBP",
+    "BR-2360"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35872
+  }
+}

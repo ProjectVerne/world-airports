@@ -1,0 +1,31 @@
+{
+  "key": "eddl",
+  "codes": {
+    "icao": "EDDL",
+    "iata": "DUS",
+    "gps": "EDDL",
+    "local": null
+  },
+  "name": "Düsseldorf Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.289501,
+    "longitude": 6.76678,
+    "elevation_ft": 147,
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Düsseldorf"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/D%C3%BCsseldorf_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2217
+  }
+}

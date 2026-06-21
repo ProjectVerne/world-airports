@@ -1,0 +1,32 @@
+{
+  "key": "_us_505503",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Ora Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.65656,
+    "longitude": -89.58551,
+    "elevation_ft": 339,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Collins"
+  },
+  "keywords": [
+    "US-7402"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505503
+  }
+}

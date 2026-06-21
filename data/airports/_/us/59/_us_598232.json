@@ -1,0 +1,30 @@
+{
+  "key": "_us_598232",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1ID1",
+    "local": "1ID1"
+  },
+  "name": "The Talis Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.652222,
+    "longitude": -116.7225,
+    "elevation_ft": 2654,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Coeur d'Alene"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 598232
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_13510",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6PN3",
+    "local": "6PN3"
+  },
+  "name": "Port Meadville Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.597301,
+    "longitude": -80.170998,
+    "elevation_ft": 1220,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Meadville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13510
+  }
+}

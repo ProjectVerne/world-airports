@@ -1,0 +1,31 @@
+{
+  "key": "khvr",
+  "codes": {
+    "icao": "KHVR",
+    "iata": "HVR",
+    "gps": "KHVR",
+    "local": "HVR"
+  },
+  "name": "Havre City County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.541387,
+    "longitude": -109.762859,
+    "elevation_ft": 2591,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Havre"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Havre_City%E2%80%93County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20099
+  }
+}

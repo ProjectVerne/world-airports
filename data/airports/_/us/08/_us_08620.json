@@ -1,0 +1,30 @@
+{
+  "key": "_us_08620",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1PA7",
+    "local": "1PA7"
+  },
+  "name": "Philmont Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.124298,
+    "longitude": -75.034103,
+    "elevation_ft": 250,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Huntington Valley"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8620
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_325450",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AA14",
+    "local": "AA14"
+  },
+  "name": "Toolik Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 68.628168,
+    "longitude": -149.589,
+    "elevation_ft": 2405,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Toolik Field Station"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325450
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_16199",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AL07",
+    "local": "AL07"
+  },
+  "name": "EAMC-Lanier Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.829531,
+    "longitude": -85.168711,
+    "elevation_ft": 640,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Valley"
+  },
+  "keywords": [
+    "Geo H Lanier Memorial Hosp"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16199
+  }
+}

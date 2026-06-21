@@ -1,0 +1,30 @@
+{
+  "key": "_us_06809",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "05AZ",
+    "local": "05AZ"
+  },
+  "name": "Yuma Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.683452,
+    "longitude": -114.634346,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Yuma"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6809
+  }
+}

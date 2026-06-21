@@ -1,0 +1,33 @@
+{
+  "key": "kmko",
+  "codes": {
+    "icao": "KMKO",
+    "iata": "MKO",
+    "gps": "KMKO",
+    "local": "MKO"
+  },
+  "name": "Muskogee-Davis Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.656502,
+    "longitude": -95.366699,
+    "elevation_ft": 611,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Muskogee"
+  },
+  "keywords": [
+    "Davis Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Davis_Field_(Oklahoma)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20518
+  }
+}

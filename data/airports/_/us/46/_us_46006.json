@@ -1,0 +1,33 @@
+{
+  "key": "_us_46006",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "APCI Emergency Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 30.0319,
+    "longitude": -89.901703,
+    "elevation_ft": 4,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "New Orleans"
+  },
+  "keywords": [
+    "LA95",
+    "US-0093"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46006
+  }
+}

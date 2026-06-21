@@ -1,0 +1,31 @@
+{
+  "key": "swob",
+  "codes": {
+    "icao": "SWOB",
+    "iata": "FBA",
+    "gps": "SWOB",
+    "local": "SWOB"
+  },
+  "name": "Fonte Boa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.53261,
+    "longitude": -66.083199,
+    "elevation_ft": 207,
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Fonte Boa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fonte_Boa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 569
+  }
+}

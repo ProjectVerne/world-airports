@@ -1,0 +1,30 @@
+{
+  "key": "_us_16802",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CL83",
+    "local": "CL83"
+  },
+  "name": "Joe Heidrick Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.665501,
+    "longitude": -121.825996,
+    "elevation_ft": 120,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Woodland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16802
+  }
+}

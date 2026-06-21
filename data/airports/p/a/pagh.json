@@ -1,0 +1,31 @@
+{
+  "key": "pagh",
+  "codes": {
+    "icao": "PAGH",
+    "iata": "SHG",
+    "gps": "PAGH",
+    "local": "SHG"
+  },
+  "name": "Shungnak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.8881,
+    "longitude": -157.162003,
+    "elevation_ft": 197,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Shungnak"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shungnak_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5366
+  }
+}

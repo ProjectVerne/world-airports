@@ -1,0 +1,33 @@
+{
+  "key": "kiah",
+  "codes": {
+    "icao": "KIAH",
+    "iata": "IAH",
+    "gps": "KIAH",
+    "local": "IAH"
+  },
+  "name": "George Bush Intercontinental Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.9844,
+    "longitude": -95.3414,
+    "elevation_ft": 97,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [
+    "QHO"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/George_Bush_Intercontinental_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3604
+  }
+}

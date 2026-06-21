@@ -1,0 +1,33 @@
+{
+  "key": "skpc",
+  "codes": {
+    "icao": "SKPC",
+    "iata": "PCR",
+    "gps": "SKPC",
+    "local": "PCR"
+  },
+  "name": "German Olano Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.18472,
+    "longitude": -67.4932,
+    "elevation_ft": 177,
+    "iso_country": "CO",
+    "iso_region": "CO-VID",
+    "municipality": "Puerto Carreño"
+  },
+  "keywords": [
+    "Puerto Carreño Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Germ%C3%A1n_Olano_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6146
+  }
+}

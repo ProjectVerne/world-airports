@@ -1,0 +1,30 @@
+{
+  "key": "_us_09575",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2MS0",
+    "local": "2MS0"
+  },
+  "name": "Tgp Station 851 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.5383,
+    "longitude": -89.013298,
+    "elevation_ft": 420,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "New Albany"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9575
+  }
+}

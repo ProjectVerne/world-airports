@@ -1,0 +1,33 @@
+{
+  "key": "licr",
+  "codes": {
+    "icao": "LICR",
+    "iata": "REG",
+    "gps": "LICR",
+    "local": "RC01"
+  },
+  "name": "Reggio Calabria Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.071201,
+    "longitude": 15.6516,
+    "elevation_ft": 96,
+    "iso_country": "IT",
+    "iso_region": "IT-78",
+    "municipality": "Reggio Calabria"
+  },
+  "keywords": [
+    "Tito Minniti"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Reggio_Calabria_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4323
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_23840",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OL15",
+    "local": "OL15"
+  },
+  "name": "Midwest City Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.470901,
+    "longitude": -97.392799,
+    "elevation_ft": 1232,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Midwest City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23840
+  }
+}

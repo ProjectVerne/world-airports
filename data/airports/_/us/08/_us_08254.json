@@ -1,0 +1,30 @@
+{
+  "key": "_us_08254",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1CO9",
+    "local": "1CO9"
+  },
+  "name": "MCHD Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.362999,
+    "longitude": -108.574997,
+    "elevation_ft": 6153,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Cortez"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8254
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_23507",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OA08",
+    "local": "OA08"
+  },
+  "name": "Medflight Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.084999,
+    "longitude": -83.068298,
+    "elevation_ft": 890,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Columbus"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23507
+  }
+}

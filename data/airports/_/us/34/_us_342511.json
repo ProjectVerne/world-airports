@@ -1,0 +1,32 @@
+{
+  "key": "_us_342511",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "45TX",
+    "local": "45TX"
+  },
+  "name": "HCA Houston Healthcare Pearland Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.578395,
+    "longitude": -95.391427,
+    "elevation_ft": 51,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Pearland"
+  },
+  "keywords": [
+    "US-3416"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 342511
+  }
+}

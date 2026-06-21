@@ -1,0 +1,31 @@
+{
+  "key": "eham",
+  "codes": {
+    "icao": "EHAM",
+    "iata": "AMS",
+    "gps": "EHAM",
+    "local": null
+  },
+  "name": "Amsterdam Airport Schiphol",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.308601,
+    "longitude": 4.76389,
+    "elevation_ft": -11,
+    "iso_country": "NL",
+    "iso_region": "NL-NH",
+    "municipality": "Amsterdam"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2513
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "patc",
+  "codes": {
+    "icao": "PATC",
+    "iata": "TNC",
+    "gps": "PATC",
+    "local": "TNC"
+  },
+  "name": "Tin City Long Range Radar Station Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.563103,
+    "longitude": -167.921997,
+    "elevation_ft": 271,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Tin City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tin_City_LRRS_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25014
+  }
+}

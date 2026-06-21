@@ -1,0 +1,33 @@
+{
+  "key": "kril",
+  "codes": {
+    "icao": "KRIL",
+    "iata": "RIL",
+    "gps": "KRIL",
+    "local": "RIL"
+  },
+  "name": "Garfield County Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.526299,
+    "longitude": -107.726997,
+    "elevation_ft": 5548,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Rifle"
+  },
+  "keywords": [
+    "Rifle Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Garfield_County_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20931
+  }
+}

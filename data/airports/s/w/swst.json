@@ -1,0 +1,30 @@
+{
+  "key": "swst",
+  "codes": {
+    "icao": "SWST",
+    "iata": null,
+    "gps": "SWST",
+    "local": "SP1306"
+  },
+  "name": "Bandeiras Centro Empresarial Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.536615,
+    "longitude": -47.449475,
+    "elevation_ft": 1827,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Votorantim"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 343017
+  }
+}

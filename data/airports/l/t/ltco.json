@@ -1,0 +1,31 @@
+{
+  "key": "ltco",
+  "codes": {
+    "icao": "LTCO",
+    "iata": "AJI",
+    "gps": "LTCO",
+    "local": null
+  },
+  "name": "Ağrı Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.655642,
+    "longitude": 43.025742,
+    "elevation_ft": 5462,
+    "iso_country": "TR",
+    "iso_region": "TR-04",
+    "municipality": "Ağrı"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/A%C4%9Fr%C4%B1_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4560
+  }
+}

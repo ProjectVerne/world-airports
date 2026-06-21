@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01350",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNV2",
+    "local": "CNV2"
+  },
+  "name": "Inverness Consolidated Memorial Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.199358,
+    "longitude": -61.291597,
+    "elevation_ft": 100,
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Inverness"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1350
+  }
+}

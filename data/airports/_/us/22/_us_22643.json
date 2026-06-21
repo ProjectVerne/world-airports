@@ -1,0 +1,30 @@
+{
+  "key": "_us_22643",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MY87",
+    "local": "MY87"
+  },
+  "name": "Saint Cloud Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.574292,
+    "longitude": -94.169348,
+    "elevation_ft": 1024,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Saint Cloud"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22643
+  }
+}

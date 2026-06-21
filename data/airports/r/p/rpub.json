@@ -1,0 +1,33 @@
+{
+  "key": "rpub",
+  "codes": {
+    "icao": "RPUB",
+    "iata": "BAG",
+    "gps": "RPUB",
+    "local": null
+  },
+  "name": "Loakan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.375034,
+    "longitude": 120.619949,
+    "elevation_ft": 4251,
+    "iso_country": "PH",
+    "iso_region": "PH-BAG",
+    "municipality": "Baguio"
+  },
+  "keywords": [
+    "Baguio Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Loakan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5715
+  }
+}

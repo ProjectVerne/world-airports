@@ -1,0 +1,35 @@
+{
+  "key": "_us_18912",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "4MB"
+  },
+  "name": "Moultonborough Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.767859,
+    "longitude": -71.387615,
+    "elevation_ft": 571,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Moultonborough"
+  },
+  "keywords": [
+    "5M3",
+    "53NH",
+    "North County Airbase",
+    "K5M3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18912
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ybar",
+  "codes": {
+    "icao": "YBAR",
+    "iata": "BCI",
+    "gps": "YBAR",
+    "local": null
+  },
+  "name": "Barcaldine Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.566268,
+    "longitude": 145.302086,
+    "elevation_ft": 878,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Barcaldine"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Barcaldine_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26899
+  }
+}

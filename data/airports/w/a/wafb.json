@@ -1,0 +1,31 @@
+{
+  "key": "wafb",
+  "codes": {
+    "icao": "WAFB",
+    "iata": "TRT",
+    "gps": "WAFB",
+    "local": null
+  },
+  "name": "Toraja Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.185833,
+    "longitude": 119.91775,
+    "elevation_ft": 2884,
+    "iso_country": "ID",
+    "iso_region": "ID-SS",
+    "municipality": "Toraja"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Toraja_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 352892
+  }
+}

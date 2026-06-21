@@ -1,0 +1,30 @@
+{
+  "key": "_us_23997",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA26",
+    "local": "PA26"
+  },
+  "name": "WXKW Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.637024,
+    "longitude": -75.481667,
+    "elevation_ft": 385,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Allentown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23997
+  }
+}

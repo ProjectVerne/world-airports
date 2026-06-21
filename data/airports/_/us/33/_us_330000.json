@@ -1,0 +1,33 @@
+{
+  "key": "_us_330000",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Craig Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 32.916793,
+    "longitude": -97.1839,
+    "elevation_ft": 633,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Colleyville"
+  },
+  "keywords": [
+    "TX48",
+    "US-1055"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 330000
+  }
+}

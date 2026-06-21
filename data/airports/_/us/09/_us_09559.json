@@ -1,0 +1,32 @@
+{
+  "key": "_us_09559",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2MN3",
+    "local": "2MN3"
+  },
+  "name": "CCM Health Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.955137,
+    "longitude": -95.711496,
+    "elevation_ft": 1024,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Montevideo"
+  },
+  "keywords": [
+    "Chippewa County Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9559
+  }
+}

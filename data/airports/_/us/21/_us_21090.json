@@ -1,0 +1,33 @@
+{
+  "key": "_us_21090",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KSNC",
+    "local": "SNC"
+  },
+  "name": "Chester Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.384177,
+    "longitude": -72.506011,
+    "elevation_ft": 416,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Chester"
+  },
+  "keywords": [
+    "3B9"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chester_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21090
+  }
+}

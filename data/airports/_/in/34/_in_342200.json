@@ -1,0 +1,32 @@
+{
+  "key": "_in_342200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Man Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.85732,
+    "longitude": 78.52398,
+    "elevation_ft": 14127,
+    "iso_country": "IN",
+    "iso_region": "IN-LA",
+    "municipality": "Man"
+  },
+  "keywords": [
+    "IN-0282"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 342200
+  }
+}

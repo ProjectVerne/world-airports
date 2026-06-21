@@ -1,0 +1,30 @@
+{
+  "key": "_us_12438",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5KS7",
+    "local": "5KS7"
+  },
+  "name": "Anthony Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.155602,
+    "longitude": -98.017303,
+    "elevation_ft": 1340,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Anthony"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12438
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_322275",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MN84",
+    "local": "MN84"
+  },
+  "name": "Benson Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.314167,
+    "longitude": -95.613889,
+    "elevation_ft": 1033,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Benson"
+  },
+  "keywords": [
+    "US-0438"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322275
+  }
+}

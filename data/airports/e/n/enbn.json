@@ -1,0 +1,33 @@
+{
+  "key": "enbn",
+  "codes": {
+    "icao": "ENBN",
+    "iata": "BNN",
+    "gps": "ENBN",
+    "local": null
+  },
+  "name": "Brønnøysund Airport, Brønnøy",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.461098,
+    "longitude": 12.2175,
+    "elevation_ft": 25,
+    "iso_country": "NO",
+    "iso_region": "NO-18",
+    "municipality": "Brønnøy"
+  },
+  "keywords": [
+    "Bronnoy"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Br%C3%B8nn%C3%B8ysund_Airport%2C_Br%C3%B8nn%C3%B8y",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2568
+  }
+}

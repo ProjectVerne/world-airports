@@ -1,0 +1,32 @@
+{
+  "key": "_us_09506",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2KY9",
+    "local": "2KY9"
+  },
+  "name": "Baptist Health La Grange Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.39418,
+    "longitude": -85.376865,
+    "elevation_ft": 792,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "La Grange"
+  },
+  "keywords": [
+    "Tri-County Baptist Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9506
+  }
+}

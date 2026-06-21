@@ -1,0 +1,30 @@
+{
+  "key": "shat",
+  "codes": {
+    "icao": "SHAT",
+    "iata": null,
+    "gps": "SHAT",
+    "local": null
+  },
+  "name": "Atmosphere Helideck",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -41.480248,
+    "longitude": -72.939927,
+    "elevation_ft": 35,
+    "iso_country": "CL",
+    "iso_region": "CL-LL",
+    "municipality": "Puerto Montt"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600437
+  }
+}

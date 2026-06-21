@@ -1,0 +1,33 @@
+{
+  "key": "rjob",
+  "codes": {
+    "icao": "RJOB",
+    "iata": "OKJ",
+    "gps": "RJOB",
+    "local": null
+  },
+  "name": "Okayama Momotaro Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.756901,
+    "longitude": 133.854996,
+    "elevation_ft": 806,
+    "iso_country": "JP",
+    "iso_region": "JP-33",
+    "municipality": "Okayama"
+  },
+  "keywords": [
+    "okayama"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Okayama_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5591
+  }
+}

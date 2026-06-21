@@ -1,0 +1,33 @@
+{
+  "key": "_br_36242",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "SISA"
+  },
+  "name": "Transpel Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -22.002501,
+    "longitude": -47.868889,
+    "elevation_ft": 2890,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Carlos"
+  },
+  "keywords": [
+    "SISA",
+    "BR-2499"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36242
+  }
+}

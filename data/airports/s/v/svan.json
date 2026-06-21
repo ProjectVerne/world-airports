@@ -1,0 +1,31 @@
+{
+  "key": "svan",
+  "codes": {
+    "icao": "SVAN",
+    "iata": "AAO",
+    "gps": "SVAN",
+    "local": null
+  },
+  "name": "Anaco Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.430225,
+    "longitude": -64.470726,
+    "elevation_ft": 721,
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "Anaco"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Anaco_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6251
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "soom",
+  "codes": {
+    "icao": "SOOM",
+    "iata": "LDX",
+    "gps": "SOOM",
+    "local": null
+  },
+  "name": "Saint-Laurent-du-Maroni Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.481891,
+    "longitude": -54.034964,
+    "elevation_ft": 16,
+    "iso_country": "GF",
+    "iso_region": "GF-SL",
+    "municipality": "Saint-Laurent-du-Maroni"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saint-Laurent-du-Maroni_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31803
+  }
+}

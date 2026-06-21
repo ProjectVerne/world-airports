@@ -1,0 +1,33 @@
+{
+  "key": "kdca",
+  "codes": {
+    "icao": "KDCA",
+    "iata": "DCA",
+    "gps": "KDCA",
+    "local": "DCA"
+  },
+  "name": "Ronald Reagan Washington National Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.8521,
+    "longitude": -77.037697,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington"
+  },
+  "keywords": [
+    "WAS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Reagan_Washington_National_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3483
+  }
+}

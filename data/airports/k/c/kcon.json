@@ -1,0 +1,31 @@
+{
+  "key": "kcon",
+  "codes": {
+    "icao": "KCON",
+    "iata": "CON",
+    "gps": "KCON",
+    "local": "CON"
+  },
+  "name": "Concord Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.202702,
+    "longitude": -71.502296,
+    "elevation_ft": 342,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Concord"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Concord_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19534
+  }
+}

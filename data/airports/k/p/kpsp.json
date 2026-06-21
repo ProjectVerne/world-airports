@@ -1,0 +1,33 @@
+{
+  "key": "kpsp",
+  "codes": {
+    "icao": "KPSP",
+    "iata": "PSP",
+    "gps": "KPSP",
+    "local": "PSP"
+  },
+  "name": "Palm Springs International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.8297,
+    "longitude": -116.507004,
+    "elevation_ft": 477,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Palm Springs"
+  },
+  "keywords": [
+    "Palm Springs Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Palm_Springs_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3792
+  }
+}

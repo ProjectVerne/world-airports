@@ -1,0 +1,30 @@
+{
+  "key": "ayml",
+  "codes": {
+    "icao": "AYML",
+    "iata": "GUV",
+    "gps": "AYML",
+    "local": "MGU"
+  },
+  "name": "Mougulu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.280859,
+    "longitude": 142.420775,
+    "elevation_ft": 825,
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Mougulu"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308188
+  }
+}

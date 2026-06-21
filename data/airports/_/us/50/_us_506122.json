@@ -1,0 +1,30 @@
+{
+  "key": "_us_506122",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01NR",
+    "local": "01NR"
+  },
+  "name": "McGee 01 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.196264,
+    "longitude": -77.919917,
+    "elevation_ft": 40,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Wilmington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 506122
+  }
+}

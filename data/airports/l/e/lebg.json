@@ -1,0 +1,31 @@
+{
+  "key": "lebg",
+  "codes": {
+    "icao": "LEBG",
+    "iata": "RGS",
+    "gps": "LEBG",
+    "local": null
+  },
+  "name": "Burgos Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.357601,
+    "longitude": -3.62076,
+    "elevation_ft": 2962,
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Burgos"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Burgos_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4003
+  }
+}

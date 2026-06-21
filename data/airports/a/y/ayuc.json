@@ -1,0 +1,30 @@
+{
+  "key": "ayuc",
+  "codes": {
+    "icao": "AYUC",
+    "iata": "UMC",
+    "gps": "AYUC",
+    "local": "UMBA"
+  },
+  "name": "Umba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.0214,
+    "longitude": 145.966,
+    "elevation_ft": 5950,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Umba"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 312334
+  }
+}

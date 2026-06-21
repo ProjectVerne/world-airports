@@ -1,0 +1,31 @@
+{
+  "key": "swbr",
+  "codes": {
+    "icao": "SWBR",
+    "iata": "RBB",
+    "gps": "SWBR",
+    "local": "AM0018"
+  },
+  "name": "Borba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.40634,
+    "longitude": -59.602402,
+    "elevation_ft": 98,
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Borba"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Borba_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 521
+  }
+}

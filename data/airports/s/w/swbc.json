@@ -1,0 +1,31 @@
+{
+  "key": "swbc",
+  "codes": {
+    "icao": "SWBC",
+    "iata": "BAZ",
+    "gps": "SWBC",
+    "local": "AM0017"
+  },
+  "name": "Barcelos Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.981191,
+    "longitude": -62.918603,
+    "elevation_ft": 112,
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Barcelos"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Barcelos_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 518
+  }
+}

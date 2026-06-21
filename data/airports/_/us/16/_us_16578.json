@@ -1,0 +1,30 @@
+{
+  "key": "_us_16578",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CA47",
+    "local": "CA47"
+  },
+  "name": "San Diego Police Headquarters Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.715302,
+    "longitude": -117.151001,
+    "elevation_ft": 162,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Diego"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16578
+  }
+}

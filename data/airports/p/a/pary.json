@@ -1,0 +1,31 @@
+{
+  "key": "pary",
+  "codes": {
+    "icao": "PARY",
+    "iata": "RBY",
+    "gps": "PARY",
+    "local": "RBY"
+  },
+  "name": "Ruby Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.727203,
+    "longitude": -155.470001,
+    "elevation_ft": 658,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Ruby"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ruby_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5403
+  }
+}

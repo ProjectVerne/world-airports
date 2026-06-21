@@ -1,0 +1,30 @@
+{
+  "key": "_us_17999",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IL20",
+    "local": "IL20"
+  },
+  "name": "Il Emergency Operations Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.611401,
+    "longitude": -89.604401,
+    "elevation_ft": 590,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Springfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17999
+  }
+}

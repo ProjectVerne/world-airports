@@ -1,0 +1,32 @@
+{
+  "key": "lpas",
+  "codes": {
+    "icao": "LPAS",
+    "iata": null,
+    "gps": "LPAS",
+    "local": null
+  },
+  "name": "Hospital Amadora Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.742144,
+    "longitude": -9.245749,
+    "elevation_ft": 443,
+    "iso_country": "PT",
+    "iso_region": "PT-11",
+    "municipality": "Amadora"
+  },
+  "keywords": [
+    "PT-0004"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43772
+  }
+}

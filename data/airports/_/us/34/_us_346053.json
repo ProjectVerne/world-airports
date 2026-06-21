@@ -1,0 +1,32 @@
+{
+  "key": "_us_346053",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Central Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.42194,
+    "longitude": -113.6067,
+    "elevation_ft": 5436,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Central"
+  },
+  "keywords": [
+    "US-4691"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 346053
+  }
+}

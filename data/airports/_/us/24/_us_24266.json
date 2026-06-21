@@ -1,0 +1,30 @@
+{
+  "key": "_us_24266",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS26",
+    "local": "PS26"
+  },
+  "name": "Banning Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.6348,
+    "longitude": -79.744202,
+    "elevation_ft": 1200,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Natrona Heights"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24266
+  }
+}

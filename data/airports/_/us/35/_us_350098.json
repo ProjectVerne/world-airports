@@ -1,0 +1,32 @@
+{
+  "key": "_us_350098",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Monolith Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.57805,
+    "longitude": -116.95685,
+    "elevation_ft": 3015,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Lucerne Valley"
+  },
+  "keywords": [
+    "US-5892"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350098
+  }
+}

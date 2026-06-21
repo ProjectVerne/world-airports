@@ -1,0 +1,31 @@
+{
+  "key": "romd",
+  "codes": {
+    "icao": "ROMD",
+    "iata": "MMD",
+    "gps": "ROMD",
+    "local": null
+  },
+  "name": "Minamidaito Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.8465,
+    "longitude": 131.263,
+    "elevation_ft": 167,
+    "iso_country": "JP",
+    "iso_region": "JP-47",
+    "municipality": "Minamidaito"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Minami-Daito_Airport#Airlines",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5676
+  }
+}

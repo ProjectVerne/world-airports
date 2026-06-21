@@ -1,0 +1,33 @@
+{
+  "key": "ksps",
+  "codes": {
+    "icao": "KSPS",
+    "iata": "SPS",
+    "gps": "KSPS",
+    "local": "SPS"
+  },
+  "name": "Wichita Falls Municipal Airport / Sheppard Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.9888,
+    "longitude": -98.491898,
+    "elevation_ft": 1019,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Wichita Falls"
+  },
+  "keywords": [
+    "Sheppard Air Force Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wichita_Falls_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3898
+  }
+}

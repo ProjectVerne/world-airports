@@ -1,0 +1,30 @@
+{
+  "key": "eted",
+  "codes": {
+    "icao": "ETED",
+    "iata": null,
+    "gps": "ETED",
+    "local": null
+  },
+  "name": "Kaiserslautern Depot Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.447874,
+    "longitude": 7.83957,
+    "elevation_ft": 950,
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Kaiserslautern"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300113
+  }
+}

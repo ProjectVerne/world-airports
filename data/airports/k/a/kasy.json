@@ -1,0 +1,31 @@
+{
+  "key": "kasy",
+  "codes": {
+    "icao": "KASY",
+    "iata": "ASY",
+    "gps": "KASY",
+    "local": "ASY"
+  },
+  "name": "Ashley Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.023899,
+    "longitude": -99.3526,
+    "elevation_ft": 2032,
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Ashley"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ashley_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19317
+  }
+}

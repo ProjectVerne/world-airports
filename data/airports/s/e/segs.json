@@ -1,0 +1,31 @@
+{
+  "key": "segs",
+  "codes": {
+    "icao": "SEGS",
+    "iata": "GPS",
+    "gps": "SEGS",
+    "local": null
+  },
+  "name": "Seymour Galapagos Ecological Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.453758,
+    "longitude": -90.2659,
+    "elevation_ft": 207,
+    "iso_country": "EC",
+    "iso_region": "EC-W",
+    "municipality": "Isla Baltra"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Seymour_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6055
+  }
+}

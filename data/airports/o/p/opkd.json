@@ -1,0 +1,31 @@
+{
+  "key": "opkd",
+  "codes": {
+    "icao": "OPKD",
+    "iata": "HDD",
+    "gps": "OPKD",
+    "local": null
+  },
+  "name": "Hyderabad Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.3181,
+    "longitude": 68.366096,
+    "elevation_ft": 130,
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Hyderabad"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hyderabad_Airport_(Sindh)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31575
+  }
+}

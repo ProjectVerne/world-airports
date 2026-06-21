@@ -1,0 +1,31 @@
+{
+  "key": "pgua",
+  "codes": {
+    "icao": "PGUA",
+    "iata": "UAM",
+    "gps": "PGUA",
+    "local": "UAM"
+  },
+  "name": "Andersen Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.584,
+    "longitude": 144.929998,
+    "elevation_ft": 627,
+    "iso_country": "GU",
+    "iso_region": "GU-U-A",
+    "municipality": "Yigo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Andersen_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5432
+  }
+}

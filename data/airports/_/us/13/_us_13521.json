@@ -1,0 +1,30 @@
+{
+  "key": "_us_13521",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6PS5",
+    "local": "6PS5"
+  },
+  "name": "Pir Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.726799,
+    "longitude": -75.319901,
+    "elevation_ft": 450,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Nazareth"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13521
+  }
+}

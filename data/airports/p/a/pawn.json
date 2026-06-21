@@ -1,0 +1,31 @@
+{
+  "key": "pawn",
+  "codes": {
+    "icao": "PAWN",
+    "iata": "WTK",
+    "gps": "PAWN",
+    "local": "WTK"
+  },
+  "name": "Noatak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 67.561241,
+    "longitude": -162.980461,
+    "elevation_ft": 88,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Noatak"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Noatak_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5423
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_16346",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AR59",
+    "local": "AR59"
+  },
+  "name": "De Witt Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.278808,
+    "longitude": -91.338628,
+    "elevation_ft": 190,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "De Witt"
+  },
+  "keywords": [
+    "De Witt City Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16346
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kear",
+  "codes": {
+    "icao": "KEAR",
+    "iata": "EAR",
+    "gps": "KEAR",
+    "local": "EAR"
+  },
+  "name": "Kearney Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.727001,
+    "longitude": -99.006798,
+    "elevation_ft": 2131,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Kearney"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kearney_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19716
+  }
+}

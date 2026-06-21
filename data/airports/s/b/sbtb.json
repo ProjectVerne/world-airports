@@ -1,0 +1,33 @@
+{
+  "key": "sbtb",
+  "codes": {
+    "icao": "SBTB",
+    "iata": "TMT",
+    "gps": "SBTB",
+    "local": "PA0012"
+  },
+  "name": "Trombetas Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.4896,
+    "longitude": -56.396801,
+    "elevation_ft": 167,
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Oriximiná"
+  },
+  "keywords": [
+    "Porto Trombetas"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Porto_Trombetas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5979
+  }
+}

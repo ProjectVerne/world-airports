@@ -1,0 +1,31 @@
+{
+  "key": "kokk",
+  "codes": {
+    "icao": "KOKK",
+    "iata": "OKK",
+    "gps": "KOKK",
+    "local": "OKK"
+  },
+  "name": "Kokomo Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.528198,
+    "longitude": -86.058998,
+    "elevation_ft": 830,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Kokomo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kokomo_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20733
+  }
+}

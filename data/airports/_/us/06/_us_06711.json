@@ -1,0 +1,32 @@
+{
+  "key": "_us_06711",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "03IS",
+    "local": "03IS"
+  },
+  "name": "OSF St Anthony's Health Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.904999,
+    "longitude": -90.173401,
+    "elevation_ft": 580,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Alton"
+  },
+  "keywords": [
+    "St Anthony's Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6711
+  }
+}

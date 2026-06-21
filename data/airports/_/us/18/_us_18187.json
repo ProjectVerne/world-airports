@@ -1,0 +1,30 @@
+{
+  "key": "_us_18187",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS22",
+    "local": "IS22"
+  },
+  "name": "County Emerg Svcs/Disaster Agcy Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.111099,
+    "longitude": -88.184502,
+    "elevation_ft": 725,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Urbana"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18187
+  }
+}

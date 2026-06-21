@@ -1,0 +1,34 @@
+{
+  "key": "rjoo",
+  "codes": {
+    "icao": "RJOO",
+    "iata": "ITM",
+    "gps": "RJOO",
+    "local": null
+  },
+  "name": "Osaka Itami International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.780853,
+    "longitude": 135.440829,
+    "elevation_ft": 50,
+    "iso_country": "JP",
+    "iso_region": "JP-27",
+    "municipality": "Osaka"
+  },
+  "keywords": [
+    "OSA",
+    "Itami"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Osaka_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5598
+  }
+}

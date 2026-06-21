@@ -1,0 +1,32 @@
+{
+  "key": "_br_335721",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SISP",
+    "local": "SP0551"
+  },
+  "name": "Reobot Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.157811,
+    "longitude": -46.662605,
+    "elevation_ft": 3041,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Jarinu"
+  },
+  "keywords": [
+    "BR-1009"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 335721
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "egsh",
+  "codes": {
+    "icao": "EGSH",
+    "iata": "NWI",
+    "gps": "EGSH",
+    "local": null
+  },
+  "name": "Norwich Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.6758,
+    "longitude": 1.28278,
+    "elevation_ft": 118,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Norwich, Norfolk"
+  },
+  "keywords": [
+    "RAF Horsham St Faith"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Norwich_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2475
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "lege",
+  "codes": {
+    "icao": "LEGE",
+    "iata": "GRO",
+    "gps": "LEGE",
+    "local": null
+  },
+  "name": "Girona-Costa Brava Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.904639,
+    "longitude": 2.761774,
+    "elevation_ft": 468,
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Girona"
+  },
+  "keywords": [
+    "Girona",
+    "Costa Brava",
+    "Girona-Costa Brava"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Girona-Costa_Brava_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4010
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_15400",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "93OR",
+    "local": "93OR"
+  },
+  "name": "St Elizabeth Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.7943,
+    "longitude": -117.846001,
+    "elevation_ft": 3410,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Baker"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15400
+  }
+}

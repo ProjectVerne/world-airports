@@ -1,0 +1,33 @@
+{
+  "key": "eglc",
+  "codes": {
+    "icao": "EGLC",
+    "iata": "LCY",
+    "gps": "EGLC",
+    "local": null
+  },
+  "name": "London City Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.505299,
+    "longitude": 0.055278,
+    "elevation_ft": 19,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "London"
+  },
+  "keywords": [
+    "LON"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/London_City_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2430
+  }
+}

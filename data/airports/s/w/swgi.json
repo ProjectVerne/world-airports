@@ -1,0 +1,31 @@
+{
+  "key": "swgi",
+  "codes": {
+    "icao": "SWGI",
+    "iata": "GRP",
+    "gps": "SWGI",
+    "local": "TO0004"
+  },
+  "name": "Gurupi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -11.7396,
+    "longitude": -49.132198,
+    "elevation_ft": 1148,
+    "iso_country": "BR",
+    "iso_region": "BR-TO",
+    "municipality": "Gurupi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gurupi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 537
+  }
+}

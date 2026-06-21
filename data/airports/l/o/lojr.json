@@ -1,0 +1,30 @@
+{
+  "key": "lojr",
+  "codes": {
+    "icao": "LOJR",
+    "iata": null,
+    "gps": "LOJR",
+    "local": "LOJR"
+  },
+  "name": "Mittelberg Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.35788,
+    "longitude": 10.17551,
+    "elevation_ft": 3652,
+    "iso_country": "AT",
+    "iso_region": "AT-8",
+    "municipality": "Riezlern"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 514629
+  }
+}

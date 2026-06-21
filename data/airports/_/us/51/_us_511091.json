@@ -1,0 +1,32 @@
+{
+  "key": "_us_511091",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FD13",
+    "local": "FD13"
+  },
+  "name": "Panhandle Helicopter Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.2475,
+    "longitude": -85.898889,
+    "elevation_ft": 33,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Panama City Beach"
+  },
+  "keywords": [
+    "US-8027"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 511091
+  }
+}

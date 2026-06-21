@@ -1,0 +1,31 @@
+{
+  "key": "kcdc",
+  "codes": {
+    "icao": "KCDC",
+    "iata": "CDC",
+    "gps": "KCDC",
+    "local": "CDC"
+  },
+  "name": "Cedar City Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.701,
+    "longitude": -113.098999,
+    "elevation_ft": 5622,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Cedar City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cedar_City_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3442
+  }
+}

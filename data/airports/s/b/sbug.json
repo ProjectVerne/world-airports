@@ -1,0 +1,33 @@
+{
+  "key": "sbug",
+  "codes": {
+    "icao": "SBUG",
+    "iata": "URG",
+    "gps": "SBUG",
+    "local": "RS0012"
+  },
+  "name": "Rubem Berta Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.7822,
+    "longitude": -57.0382,
+    "elevation_ft": 256,
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Uruguaiana"
+  },
+  "keywords": [
+    "Ruben Berta"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ruben_Berta_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5992
+  }
+}

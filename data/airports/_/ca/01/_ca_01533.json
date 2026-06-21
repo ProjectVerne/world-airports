@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01533",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSK9",
+    "local": "CSK9"
+  },
+  "name": "Nicolet Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.220299,
+    "longitude": -72.647797,
+    "elevation_ft": 33,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Nicolet"
+  },
+  "keywords": [
+    "SK9"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1533
+  }
+}

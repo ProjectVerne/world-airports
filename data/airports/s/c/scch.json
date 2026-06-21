@@ -1,0 +1,31 @@
+{
+  "key": "scch",
+  "codes": {
+    "icao": "SCCH",
+    "iata": "YAI",
+    "gps": "SCCH",
+    "local": null
+  },
+  "name": "Gral. Bernardo O´Higgins Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -36.5825,
+    "longitude": -72.031403,
+    "elevation_ft": 495,
+    "iso_country": "CL",
+    "iso_region": "CL-NB",
+    "municipality": "Chillan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/General_Bernardo_O'Higgins_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6008
+  }
+}

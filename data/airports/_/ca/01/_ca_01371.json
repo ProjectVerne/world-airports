@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01371",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPA3",
+    "local": "CPA3"
+  },
+  "name": "Palmerston (District Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.838299,
+    "longitude": -80.841904,
+    "elevation_ft": 1300,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Palmerston"
+  },
+  "keywords": [
+    "PA3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1371
+  }
+}

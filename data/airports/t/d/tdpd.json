@@ -1,0 +1,33 @@
+{
+  "key": "tdpd",
+  "codes": {
+    "icao": "TDPD",
+    "iata": "DOM",
+    "gps": "TDPD",
+    "local": null
+  },
+  "name": "Douglas-Charles Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.546673,
+    "longitude": -61.301082,
+    "elevation_ft": 73,
+    "iso_country": "DM",
+    "iso_region": "DM-02",
+    "municipality": "Marigot"
+  },
+  "keywords": [
+    "Melville Hall"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Douglas%E2%80%93Charles_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6362
+  }
+}

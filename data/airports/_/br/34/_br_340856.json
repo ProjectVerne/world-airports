@@ -1,0 +1,32 @@
+{
+  "key": "_br_340856",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNTT",
+    "local": "PR0130"
+  },
+  "name": "Teston Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.656956,
+    "longitude": -52.539534,
+    "elevation_ft": 1457,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Cianorte"
+  },
+  "keywords": [
+    "BR-1386"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 340856
+  }
+}

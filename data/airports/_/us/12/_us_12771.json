@@ -1,0 +1,30 @@
+{
+  "key": "_us_12771",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "60FD",
+    "local": "60FD"
+  },
+  "name": "Winter Haven Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.028803,
+    "longitude": -81.725026,
+    "elevation_ft": 175,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Winter Haven"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12771
+  }
+}

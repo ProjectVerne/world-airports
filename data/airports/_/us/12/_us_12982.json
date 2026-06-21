@@ -1,0 +1,30 @@
+{
+  "key": "_us_12982",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "65CA",
+    "local": "65CA"
+  },
+  "name": "SCE San Joaquin Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.18299,
+    "longitude": -119.333578,
+    "elevation_ft": 279,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Tulare"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12982
+  }
+}

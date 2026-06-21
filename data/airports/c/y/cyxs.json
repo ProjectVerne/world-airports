@@ -1,0 +1,33 @@
+{
+  "key": "cyxs",
+  "codes": {
+    "icao": "CYXS",
+    "iata": "YXS",
+    "gps": "CYXS",
+    "local": null
+  },
+  "name": "Prince George (International) Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.884311,
+    "longitude": -122.666554,
+    "elevation_ft": 2267,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Prince George"
+  },
+  "keywords": [
+    "Prince George International"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Prince_George_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1966
+  }
+}

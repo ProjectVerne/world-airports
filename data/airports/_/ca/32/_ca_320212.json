@@ -1,0 +1,30 @@
+{
+  "key": "_ca_320212",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CCS7",
+    "local": "CCS7"
+  },
+  "name": "Chicoutimi Central Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.4258,
+    "longitude": -71.047601,
+    "elevation_ft": 198,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Chicoutimi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320212
+  }
+}

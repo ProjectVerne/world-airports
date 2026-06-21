@@ -1,0 +1,33 @@
+{
+  "key": "cypk",
+  "codes": {
+    "icao": "CYPK",
+    "iata": null,
+    "gps": "CYPK",
+    "local": null
+  },
+  "name": "Pitt Meadows Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.21488,
+    "longitude": -122.709294,
+    "elevation_ft": 11,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Pitt Meadows"
+  },
+  "keywords": [
+    "YPK"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pitt_Meadows_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1848
+  }
+}

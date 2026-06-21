@@ -1,0 +1,33 @@
+{
+  "key": "_ca_39900",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Mégantic Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 45.588055,
+    "longitude": -70.871665,
+    "elevation_ft": 1500,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Lac-Mégantic"
+  },
+  "keywords": [
+    "SL4",
+    "CA-0254"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39900
+  }
+}

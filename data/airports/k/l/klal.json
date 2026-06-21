@@ -1,0 +1,31 @@
+{
+  "key": "klal",
+  "codes": {
+    "icao": "KLAL",
+    "iata": "LAL",
+    "gps": "KLAL",
+    "local": "LAL"
+  },
+  "name": "Lakeland Linder International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.989267,
+    "longitude": -82.020715,
+    "elevation_ft": 142,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Lakeland"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lakeland_Linder_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3628
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "klmt",
+  "codes": {
+    "icao": "KLMT",
+    "iata": "LMT",
+    "gps": "KLMT",
+    "local": "LMT"
+  },
+  "name": "Crater Lake-Klamath Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.156101,
+    "longitude": -121.733002,
+    "elevation_ft": 4095,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Klamath Falls"
+  },
+  "keywords": [
+    "Klamath Falls Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Klamath_Falls_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3646
+  }
+}

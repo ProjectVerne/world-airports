@@ -1,0 +1,30 @@
+{
+  "key": "fasb",
+  "codes": {
+    "icao": "FASB",
+    "iata": "SBU",
+    "gps": "FASB",
+    "local": null
+  },
+  "name": "Springbok Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.689301,
+    "longitude": 17.9396,
+    "elevation_ft": 2690,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Springbok"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2834
+  }
+}

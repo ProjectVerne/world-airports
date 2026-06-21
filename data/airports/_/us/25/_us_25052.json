@@ -1,0 +1,30 @@
+{
+  "key": "_us_25052",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS36",
+    "local": "TS36"
+  },
+  "name": "Silver Wings Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.219601,
+    "longitude": -99.1408,
+    "elevation_ft": 2110,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fredricksburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25052
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFW2",
+    "local": "CFW2"
+  },
+  "name": "Gordon Lake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.616699,
+    "longitude": -110.5,
+    "elevation_ft": 1600,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Gordon Lake"
+  },
+  "keywords": [
+    "FW2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Lake_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1010
+  }
+}

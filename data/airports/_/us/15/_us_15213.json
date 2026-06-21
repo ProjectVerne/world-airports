@@ -1,0 +1,30 @@
+{
+  "key": "_us_15213",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8TX4",
+    "local": "8TX4"
+  },
+  "name": "Sartor Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.375799,
+    "longitude": -95.557404,
+    "elevation_ft": 203,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Willis"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15213
+  }
+}

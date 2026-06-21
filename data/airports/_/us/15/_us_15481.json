@@ -1,0 +1,32 @@
+{
+  "key": "_us_15481",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "96CL",
+    "local": "96CL"
+  },
+  "name": "Ranch Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.157704,
+    "longitude": -118.917802,
+    "elevation_ft": 1162,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Newbury Park"
+  },
+  "keywords": [
+    "TWI II Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15481
+  }
+}

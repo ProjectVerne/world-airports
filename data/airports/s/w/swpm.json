@@ -1,0 +1,33 @@
+{
+  "key": "swpm",
+  "codes": {
+    "icao": "SWPM",
+    "iata": "PBQ",
+    "gps": "SWPM",
+    "local": "RO0009"
+  },
+  "name": "Pimenta Bueno Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -11.6416,
+    "longitude": -61.1791,
+    "elevation_ft": 682,
+    "iso_country": "BR",
+    "iso_region": "BR-RO",
+    "municipality": "Pimenta Bueno"
+  },
+  "keywords": [
+    "SNNB"
+  ],
+  "wikipedia": "https://pt.wikipedia.org/wiki/Aeroporto_de_Pimenta_Bueno",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 572
+  }
+}

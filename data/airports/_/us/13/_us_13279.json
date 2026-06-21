@@ -1,0 +1,30 @@
+{
+  "key": "_us_13279",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6IA8",
+    "local": "6IA8"
+  },
+  "name": "Mmsc Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.048599,
+    "longitude": -92.907204,
+    "elevation_ft": 920,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Marshalltown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13279
+  }
+}

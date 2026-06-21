@@ -1,0 +1,31 @@
+{
+  "key": "kiso",
+  "codes": {
+    "icao": "KISO",
+    "iata": "ISO",
+    "gps": "KISO",
+    "local": "ISO"
+  },
+  "name": "Kinston Regional Jetport At Stallings Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.331402,
+    "longitude": -77.608803,
+    "elevation_ft": 93,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Kinston"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kinston_Regional_Jetport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20189
+  }
+}

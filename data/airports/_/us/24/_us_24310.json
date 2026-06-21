@@ -1,0 +1,30 @@
+{
+  "key": "_us_24310",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS80",
+    "local": "PS80"
+  },
+  "name": "Robbins Nest Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.369301,
+    "longitude": -75.397102,
+    "elevation_ft": 450,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Quakertown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24310
+  }
+}

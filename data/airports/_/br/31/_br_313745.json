@@ -1,0 +1,33 @@
+{
+  "key": "_br_313745",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "SDBX"
+  },
+  "name": "RPB Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -15.7981,
+    "longitude": -47.8123,
+    "elevation_ft": 3307,
+    "iso_country": "BR",
+    "iso_region": "BR-DF",
+    "municipality": "Brasilia"
+  },
+  "keywords": [
+    "SDBX",
+    "BR-3227"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 313745
+  }
+}

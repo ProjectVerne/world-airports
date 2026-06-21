@@ -1,0 +1,31 @@
+{
+  "key": "kspw",
+  "codes": {
+    "icao": "KSPW",
+    "iata": "SPW",
+    "gps": "KSPW",
+    "local": "SPW"
+  },
+  "name": "Spencer Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.165501,
+    "longitude": -95.202797,
+    "elevation_ft": 1339,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Spencer"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Spencer_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21103
+  }
+}

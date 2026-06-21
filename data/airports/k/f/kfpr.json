@@ -1,0 +1,33 @@
+{
+  "key": "kfpr",
+  "codes": {
+    "icao": "KFPR",
+    "iata": "FPR",
+    "gps": "KFPR",
+    "local": "FPR"
+  },
+  "name": "Treasure Coast International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.4951,
+    "longitude": -80.368301,
+    "elevation_ft": 24,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Fort Pierce"
+  },
+  "keywords": [
+    "St Lucie County"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Lucie_County_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3538
+  }
+}

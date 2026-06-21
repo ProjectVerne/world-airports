@@ -1,0 +1,33 @@
+{
+  "key": "edbm",
+  "codes": {
+    "icao": "EDBM",
+    "iata": null,
+    "gps": "EDBM",
+    "local": null
+  },
+  "name": "Magdeburg City Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.073612,
+    "longitude": 11.626389,
+    "elevation_ft": 268,
+    "iso_country": "DE",
+    "iso_region": "DE-ST",
+    "municipality": "Magdeburg"
+  },
+  "keywords": [
+    "ZMG"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Magdeburg/City",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2199
+  }
+}

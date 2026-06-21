@@ -1,0 +1,32 @@
+{
+  "key": "_us_430718",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "US Border Patrol Deming Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.24384,
+    "longitude": -107.72257,
+    "elevation_ft": 4291,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Deming"
+  },
+  "keywords": [
+    "US-7234"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 430718
+  }
+}

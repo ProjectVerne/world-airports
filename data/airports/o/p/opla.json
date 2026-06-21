@@ -1,0 +1,33 @@
+{
+  "key": "opla",
+  "codes": {
+    "icao": "OPLA",
+    "iata": "LHE",
+    "gps": "OPLA",
+    "local": null
+  },
+  "name": "Allama Iqbal International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.521601,
+    "longitude": 74.403603,
+    "elevation_ft": 712,
+    "iso_country": "PK",
+    "iso_region": "PK-PB",
+    "municipality": "Lahore"
+  },
+  "keywords": [
+    "OPLR"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Allama_Iqbal_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5257
+  }
+}

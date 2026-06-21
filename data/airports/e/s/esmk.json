@@ -1,0 +1,31 @@
+{
+  "key": "esmk",
+  "codes": {
+    "icao": "ESMK",
+    "iata": "KID",
+    "gps": "ESMK",
+    "local": null
+  },
+  "name": "Kristianstad Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.9217,
+    "longitude": 14.0855,
+    "elevation_ft": 76,
+    "iso_country": "SE",
+    "iso_region": "SE-M",
+    "municipality": "Kristianstad"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kristianstad_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2664
+  }
+}

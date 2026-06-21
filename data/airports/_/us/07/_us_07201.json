@@ -1,0 +1,30 @@
+{
+  "key": "_us_07201",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0IA0",
+    "local": "0IA0"
+  },
+  "name": "Knoxville Area Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.316898,
+    "longitude": -93.096001,
+    "elevation_ft": 927,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Knoxville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7201
+  }
+}

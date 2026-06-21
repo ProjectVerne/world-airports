@@ -1,0 +1,31 @@
+{
+  "key": "padl",
+  "codes": {
+    "icao": "PADL",
+    "iata": "DLG",
+    "gps": "PADL",
+    "local": "DLG"
+  },
+  "name": "Dillingham Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.044701,
+    "longitude": -158.505005,
+    "elevation_ft": 81,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Dillingham"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dillingham_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5351
+  }
+}

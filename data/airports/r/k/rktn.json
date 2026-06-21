@@ -1,0 +1,31 @@
+{
+  "key": "rktn",
+  "codes": {
+    "icao": "RKTN",
+    "iata": "TAE",
+    "gps": "RKTN",
+    "local": null
+  },
+  "name": "Daegu International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.894394,
+    "longitude": 128.656989,
+    "elevation_ft": 116,
+    "iso_country": "KR",
+    "iso_region": "KR-27",
+    "municipality": "Daegu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Daegu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5661
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_08765",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Barton Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 30.453501,
+    "longitude": -97.255501,
+    "elevation_ft": 530,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Taylor"
+  },
+  "keywords": [
+    "1XS4",
+    "US-9735"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8765
+  }
+}

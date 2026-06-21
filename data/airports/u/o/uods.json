@@ -1,0 +1,36 @@
+{
+  "key": "uods",
+  "codes": {
+    "icao": "UODS",
+    "iata": null,
+    "gps": "UODS",
+    "local": "XODS"
+  },
+  "name": "Sredniy Island Air Base",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 79.52958,
+    "longitude": 91.07495,
+    "elevation_ft": 26,
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Khatanga"
+  },
+  "keywords": [
+    "УОДС",
+    "Sredniy Ostrov Air Base",
+    "Аэродром Средний Остров",
+    "ЬОДС"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sredny_Ostrov",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35086
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_07766",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "12IS",
+    "local": "12IS"
+  },
+  "name": "Mercer County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.206084,
+    "longitude": -90.759419,
+    "elevation_ft": 729,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Aledo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7766
+  }
+}

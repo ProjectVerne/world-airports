@@ -1,0 +1,33 @@
+{
+  "key": "krmg",
+  "codes": {
+    "icao": "KRMG",
+    "iata": "RMG",
+    "gps": "KRMG",
+    "local": "RMG"
+  },
+  "name": "Richard B Russell Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.350601,
+    "longitude": -85.157997,
+    "elevation_ft": 644,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Rome"
+  },
+  "keywords": [
+    "Towers Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Richard_B._Russell_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3851
+  }
+}

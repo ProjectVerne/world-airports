@@ -1,0 +1,30 @@
+{
+  "key": "ayoe",
+  "codes": {
+    "icao": "AYOE",
+    "iata": "KGB",
+    "gps": "AYOE",
+    "local": "KGE"
+  },
+  "name": "Konge Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.2239,
+    "longitude": 147.2152,
+    "elevation_ft": 5900,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Konge"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 313220
+  }
+}

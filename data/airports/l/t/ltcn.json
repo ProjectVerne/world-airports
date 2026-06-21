@@ -1,0 +1,31 @@
+{
+  "key": "ltcn",
+  "codes": {
+    "icao": "LTCN",
+    "iata": "KCM",
+    "gps": "LTCN",
+    "local": null
+  },
+  "name": "Kahramanmaraş Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.538826,
+    "longitude": 36.953522,
+    "elevation_ft": 1723,
+    "iso_country": "TR",
+    "iso_region": "TR-46",
+    "municipality": "Kahramanmaraş"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kahramanmara%C5%9F_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4559
+  }
+}

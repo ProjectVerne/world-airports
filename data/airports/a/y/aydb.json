@@ -1,0 +1,32 @@
+{
+  "key": "aydb",
+  "codes": {
+    "icao": "AYDB",
+    "iata": "DBP",
+    "gps": "AYDB",
+    "local": "DBP"
+  },
+  "name": "Debepare Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.308611,
+    "longitude": 141.905556,
+    "elevation_ft": 360,
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Debepare"
+  },
+  "keywords": [
+    "Debepari"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 302094
+  }
+}

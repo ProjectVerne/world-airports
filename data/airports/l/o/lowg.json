@@ -1,0 +1,36 @@
+{
+  "key": "lowg",
+  "codes": {
+    "icao": "LOWG",
+    "iata": "GRZ",
+    "gps": "LOWG",
+    "local": null
+  },
+  "name": "Graz Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.9911,
+    "longitude": 15.4396,
+    "elevation_ft": 1115,
+    "iso_country": "AT",
+    "iso_region": "AT-6",
+    "municipality": "Feldkirchen bei Graz"
+  },
+  "keywords": [
+    "Thalerhof Airport",
+    "Fliegerhorst Nittner",
+    "Nittner Air Base",
+    "Christophorus 12"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Graz_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4430
+  }
+}

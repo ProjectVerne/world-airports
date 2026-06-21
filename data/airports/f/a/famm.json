@@ -1,0 +1,33 @@
+{
+  "key": "famm",
+  "codes": {
+    "icao": "FAMM",
+    "iata": "MBD",
+    "gps": "FAMM",
+    "local": null
+  },
+  "name": "Mmabatho International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.798401,
+    "longitude": 25.548,
+    "elevation_ft": 4181,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NW",
+    "municipality": "Mafeking"
+  },
+  "keywords": [
+    "Mafikeng"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mmabatho_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2812
+  }
+}

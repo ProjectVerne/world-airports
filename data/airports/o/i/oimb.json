@@ -1,0 +1,31 @@
+{
+  "key": "oimb",
+  "codes": {
+    "icao": "OIMB",
+    "iata": "XBJ",
+    "gps": "OIMB",
+    "local": null
+  },
+  "name": "Birjand International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.896525,
+    "longitude": 59.281258,
+    "elevation_ft": 4952,
+    "iso_country": "IR",
+    "iso_region": "IR-29",
+    "municipality": "Birjand"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Birjand_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5180
+  }
+}

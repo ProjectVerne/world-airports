@@ -1,0 +1,32 @@
+{
+  "key": "hkbi",
+  "codes": {
+    "icao": "HKBI",
+    "iata": null,
+    "gps": "HKBI",
+    "local": null
+  },
+  "name": "Barina Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.12812,
+    "longitude": 36.019289,
+    "elevation_ft": 5600,
+    "iso_country": "KE",
+    "iso_region": "KE-18",
+    "municipality": "Rongai"
+  },
+  "keywords": [
+    "KE-6067"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42577
+  }
+}

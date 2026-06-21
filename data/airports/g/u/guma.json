@@ -1,0 +1,31 @@
+{
+  "key": "guma",
+  "codes": {
+    "icao": "GUMA",
+    "iata": "MCA",
+    "gps": "GUMA",
+    "local": null
+  },
+  "name": "Macenta Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.481456,
+    "longitude": -9.526048,
+    "elevation_ft": 1690,
+    "iso_country": "GN",
+    "iso_region": "GN-N",
+    "municipality": "Macenta"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Macenta_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31886
+  }
+}

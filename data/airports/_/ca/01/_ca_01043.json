@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01043",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CIV2",
+    "local": "CIV2"
+  },
+  "name": "Invermere (Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.507211,
+    "longitude": -116.032813,
+    "elevation_ft": 2900,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Invermere"
+  },
+  "keywords": [
+    "IV2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1043
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_10008",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32LS",
+    "local": "32LS"
+  },
+  "name": "Stevens Strip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.4196,
+    "longitude": -90.359001,
+    "elevation_ft": 13,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Ponchatoula"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10008
+  }
+}

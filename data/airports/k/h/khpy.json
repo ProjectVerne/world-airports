@@ -1,0 +1,31 @@
+{
+  "key": "khpy",
+  "codes": {
+    "icao": "KHPY",
+    "iata": "HPY",
+    "gps": "KHPY",
+    "local": "HPY"
+  },
+  "name": "Baytown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.7861,
+    "longitude": -94.952698,
+    "elevation_ft": 34,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Baytown"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Baytown_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20075
+  }
+}

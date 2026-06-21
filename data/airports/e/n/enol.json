@@ -1,0 +1,33 @@
+{
+  "key": "enol",
+  "codes": {
+    "icao": "ENOL",
+    "iata": "OLA",
+    "gps": "ENOL",
+    "local": null
+  },
+  "name": "Ørland Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.698898,
+    "longitude": 9.604,
+    "elevation_ft": 28,
+    "iso_country": "NO",
+    "iso_region": "NO-50",
+    "municipality": "Ørland"
+  },
+  "keywords": [
+    "Orland"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brekstad_Airport%2C_%C3%98rland",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2589
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kgtr",
+  "codes": {
+    "icao": "KGTR",
+    "iata": "GTR",
+    "gps": "KGTR",
+    "local": "GTR"
+  },
+  "name": "Golden Triangle Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.450298,
+    "longitude": -88.5914,
+    "elevation_ft": 264,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Columbus/W Point/Starkville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Golden_Triangle_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19982
+  }
+}

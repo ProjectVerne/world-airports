@@ -1,0 +1,32 @@
+{
+  "key": "_us_345162",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UT57",
+    "local": "UT57"
+  },
+  "name": "Knolls Scene Landing Location",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.725076,
+    "longitude": -113.25877,
+    "elevation_ft": 4253,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Knolls"
+  },
+  "keywords": [
+    "US-4351"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345162
+  }
+}

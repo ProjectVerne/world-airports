@@ -1,0 +1,33 @@
+{
+  "key": "_br_335241",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "PE0041"
+  },
+  "name": "Heliponto Pina",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -8.084035,
+    "longitude": -34.886279,
+    "elevation_ft": 16,
+    "iso_country": "BR",
+    "iso_region": "BR-PE",
+    "municipality": "Recife"
+  },
+  "keywords": [
+    "SNEN",
+    "BR-0803"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 335241
+  }
+}

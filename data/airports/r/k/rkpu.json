@@ -1,0 +1,31 @@
+{
+  "key": "rkpu",
+  "codes": {
+    "icao": "RKPU",
+    "iata": "USN",
+    "gps": "RKPU",
+    "local": null
+  },
+  "name": "Ulsan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.593498,
+    "longitude": 129.352005,
+    "elevation_ft": 45,
+    "iso_country": "KR",
+    "iso_region": "KR-31",
+    "municipality": "Ulsan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ulsan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5644
+  }
+}

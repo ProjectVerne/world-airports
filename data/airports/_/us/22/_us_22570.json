@@ -1,0 +1,30 @@
+{
+  "key": "_us_22570",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MU90",
+    "local": "MU90"
+  },
+  "name": "Falcon Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.957001,
+    "longitude": -94.376602,
+    "elevation_ft": 971,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Lees Summit"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22570
+  }
+}

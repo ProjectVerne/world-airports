@@ -1,0 +1,33 @@
+{
+  "key": "kdls",
+  "codes": {
+    "icao": "KDLS",
+    "iata": "DLS",
+    "gps": "KDLS",
+    "local": "DLS"
+  },
+  "name": "Columbia Gorge Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.620979,
+    "longitude": -121.170777,
+    "elevation_ft": 247,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Dallesport / The Dalles"
+  },
+  "keywords": [
+    "The Dalles Municipal Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Columbia_Gorge_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19640
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "esgt",
+  "codes": {
+    "icao": "ESGT",
+    "iata": "THN",
+    "gps": "ESGT",
+    "local": null
+  },
+  "name": "Trollhättan-Vänersborg Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.3181,
+    "longitude": 12.345,
+    "elevation_ft": 137,
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Trollhättan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Trollh%C3%A4ttan-V%C3%A4nersborg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2654
+  }
+}

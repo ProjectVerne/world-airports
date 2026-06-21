@@ -1,0 +1,32 @@
+{
+  "key": "eese",
+  "codes": {
+    "icao": "EESE",
+    "iata": null,
+    "gps": "EESE",
+    "local": null
+  },
+  "name": "Salme Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 58.131944,
+    "longitude": 22.258333,
+    "elevation_ft": 16,
+    "iso_country": "EE",
+    "iso_region": "EE-74",
+    "municipality": "Salme"
+  },
+  "keywords": [
+    "Estwind Energy"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 318294
+  }
+}

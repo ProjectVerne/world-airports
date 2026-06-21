@@ -1,0 +1,30 @@
+{
+  "key": "_br_600246",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SD0D",
+    "local": "GO0407"
+  },
+  "name": "Equiplex Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -16.820161,
+    "longitude": -49.235414,
+    "elevation_ft": 2608,
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Aparecida de Goiânia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600246
+  }
+}

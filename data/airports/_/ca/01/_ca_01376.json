@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01376",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPA8",
+    "local": "CPA8"
+  },
+  "name": "Simcoe (Norfolk General Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.84726,
+    "longitude": -80.32039,
+    "elevation_ft": 710,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Simcoe"
+  },
+  "keywords": [
+    "PA8"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1376
+  }
+}

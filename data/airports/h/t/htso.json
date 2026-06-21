@@ -1,0 +1,31 @@
+{
+  "key": "htso",
+  "codes": {
+    "icao": "HTSO",
+    "iata": "SGX",
+    "gps": "HTSO",
+    "local": null
+  },
+  "name": "Songea Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -10.683,
+    "longitude": 35.583,
+    "elevation_ft": 3445,
+    "iso_country": "TZ",
+    "iso_region": "TZ-21",
+    "municipality": "Songea"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Songea_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32293
+  }
+}

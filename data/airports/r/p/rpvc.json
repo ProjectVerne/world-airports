@@ -1,0 +1,31 @@
+{
+  "key": "rpvc",
+  "codes": {
+    "icao": "RPVC",
+    "iata": "CYP",
+    "gps": "RPVC",
+    "local": null
+  },
+  "name": "Calbayog Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.072574,
+    "longitude": 124.54508,
+    "elevation_ft": 12,
+    "iso_country": "PH",
+    "iso_region": "PH-WSA",
+    "municipality": "Calbayog City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Calbayog_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5734
+  }
+}

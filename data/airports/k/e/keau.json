@@ -1,0 +1,31 @@
+{
+  "key": "keau",
+  "codes": {
+    "icao": "KEAU",
+    "iata": "EAU",
+    "gps": "KEAU",
+    "local": "EAU"
+  },
+  "name": "Chippewa Valley Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.865799,
+    "longitude": -91.484299,
+    "elevation_ft": 913,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Eau Claire"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chippewa_Valley_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3501
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "sbgm",
+  "codes": {
+    "icao": "SBGM",
+    "iata": "GJM",
+    "gps": "SBGM",
+    "local": "RO0006"
+  },
+  "name": "Guajará-Mirim Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -10.78641,
+    "longitude": -65.28486,
+    "elevation_ft": 478,
+    "iso_country": "BR",
+    "iso_region": "BR-RO",
+    "municipality": "Guajará-Mirim"
+  },
+  "keywords": [],
+  "wikipedia": "https://pt.wikipedia.org/wiki/Aeroporto_de_Guajar%C3%A1-Mirim",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5907
+  }
+}

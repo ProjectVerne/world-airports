@@ -1,0 +1,31 @@
+{
+  "key": "savn",
+  "codes": {
+    "icao": "SAVN",
+    "iata": "OES",
+    "gps": "SAVN",
+    "local": "SAN"
+  },
+  "name": "Antoine de Saint Exupéry Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -40.7512,
+    "longitude": -65.0343,
+    "elevation_ft": 85,
+    "iso_country": "AR",
+    "iso_region": "AR-R",
+    "municipality": "San Antonio Oeste"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Antoine_de_Saint_Exupéry_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5826
+  }
+}

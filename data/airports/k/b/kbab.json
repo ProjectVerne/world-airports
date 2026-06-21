@@ -1,0 +1,33 @@
+{
+  "key": "kbab",
+  "codes": {
+    "icao": "KBAB",
+    "iata": "BAB",
+    "gps": "KBAB",
+    "local": "BAB"
+  },
+  "name": "Beale Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.136101,
+    "longitude": -121.436996,
+    "elevation_ft": 113,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Beale Air Force Base"
+  },
+  "keywords": [
+    "Marysville"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Beale_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3391
+  }
+}

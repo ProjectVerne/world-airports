@@ -1,0 +1,33 @@
+{
+  "key": "_us_15113",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Morris Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.882301,
+    "longitude": -80.600304,
+    "elevation_ft": 1250,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "East Palestine"
+  },
+  "keywords": [
+    "8OH7",
+    "US-10898"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15113
+  }
+}

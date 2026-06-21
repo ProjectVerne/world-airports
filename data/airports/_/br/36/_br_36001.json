@@ -1,0 +1,33 @@
+{
+  "key": "_br_36001",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SJCF",
+    "local": "TO0060"
+  },
+  "name": "Sítio Flyer Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -10.108056,
+    "longitude": -48.326389,
+    "elevation_ft": 958,
+    "iso_country": "BR",
+    "iso_region": "BR-TO",
+    "municipality": "Palmas"
+  },
+  "keywords": [
+    "SDNB",
+    "SIHJ"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36001
+  }
+}

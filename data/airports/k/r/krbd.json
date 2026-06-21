@@ -1,0 +1,33 @@
+{
+  "key": "krbd",
+  "codes": {
+    "icao": "KRBD",
+    "iata": "RBD",
+    "gps": "KRBD",
+    "local": "RBD"
+  },
+  "name": "Dallas Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.680901,
+    "longitude": -96.868202,
+    "elevation_ft": 660,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dallas"
+  },
+  "keywords": [
+    "Redbird Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dallas_Executive_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20910
+  }
+}

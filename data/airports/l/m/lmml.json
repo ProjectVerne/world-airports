@@ -1,0 +1,36 @@
+{
+  "key": "lmml",
+  "codes": {
+    "icao": "LMML",
+    "iata": "MLA",
+    "gps": "LMML",
+    "local": null
+  },
+  "name": "Malta International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.845932,
+    "longitude": 14.491546,
+    "elevation_ft": 300,
+    "iso_country": "MT",
+    "iso_region": "MT-25",
+    "municipality": "Valletta"
+  },
+  "keywords": [
+    "Luqa Airport",
+    "Valletta",
+    "Gudja",
+    "RAF Luqa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Malta_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4427
+  }
+}

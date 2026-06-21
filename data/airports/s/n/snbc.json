@@ -1,0 +1,31 @@
+{
+  "key": "snbc",
+  "codes": {
+    "icao": "SNBC",
+    "iata": "BDC",
+    "gps": "SNBC",
+    "local": "MA0006"
+  },
+  "name": "Barra do Corda Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.5025,
+    "longitude": -45.215833,
+    "elevation_ft": 526,
+    "iso_country": "BR",
+    "iso_region": "BR-MA",
+    "municipality": "Barra do Corda"
+  },
+  "keywords": [],
+  "wikipedia": "https://pt.wikipedia.org/wiki/Aeroporto_de_Barra_do_Corda",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29687
+  }
+}

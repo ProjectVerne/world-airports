@@ -1,0 +1,30 @@
+{
+  "key": "aysa",
+  "codes": {
+    "icao": "AYSA",
+    "iata": "SBE",
+    "gps": "AYSA",
+    "local": "SUA"
+  },
+  "name": "Suabi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.104444,
+    "longitude": 142.278333,
+    "elevation_ft": 465,
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307595
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_330125",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "98VA",
+    "local": "98VA"
+  },
+  "name": "Glascock Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.944455,
+    "longitude": -77.542183,
+    "elevation_ft": 330,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Arcola"
+  },
+  "keywords": [
+    "US-1061"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 330125
+  }
+}

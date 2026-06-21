@@ -1,0 +1,32 @@
+{
+  "key": "_us_09331",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "2C4"
+  },
+  "name": "Flying A Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.816724,
+    "longitude": -92.336869,
+    "elevation_ft": 1300,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Chatfield"
+  },
+  "keywords": [
+    "MN22"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9331
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "lpss",
+  "codes": {
+    "icao": "LPSS",
+    "iata": null,
+    "gps": "LPSS",
+    "local": null
+  },
+  "name": "São Sebastião Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.929417,
+    "longitude": -8.548319,
+    "elevation_ft": 521,
+    "iso_country": "PT",
+    "iso_region": "PT-01",
+    "municipality": "Santa Maria da Feira"
+  },
+  "keywords": [
+    "PT-0014"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43782
+  }
+}

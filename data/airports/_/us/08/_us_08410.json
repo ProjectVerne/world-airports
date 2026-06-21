@@ -1,0 +1,33 @@
+{
+  "key": "_us_08410",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LA85",
+    "local": "LA85"
+  },
+  "name": "Christus Highland Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.423673,
+    "longitude": -93.715941,
+    "elevation_ft": 160,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Shreveport"
+  },
+  "keywords": [
+    "1LA6",
+    "Highland Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8410
+  }
+}

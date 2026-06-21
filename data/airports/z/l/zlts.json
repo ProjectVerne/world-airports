@@ -1,0 +1,35 @@
+{
+  "key": "zlts",
+  "codes": {
+    "icao": "ZLTS",
+    "iata": "THQ",
+    "gps": "ZLTS",
+    "local": null
+  },
+  "name": "Tianshui Maijishan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.5601,
+    "longitude": 105.860343,
+    "elevation_ft": 3590,
+    "iso_country": "CN",
+    "iso_region": "CN-62",
+    "municipality": "Tianshui (Maiji)"
+  },
+  "keywords": [
+    "Tianshui Air Base",
+    "天水麦积山机场",
+    "ZBEE"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tianshui_Maijishan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44208
+  }
+}

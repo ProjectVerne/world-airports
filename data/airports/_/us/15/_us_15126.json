@@ -1,0 +1,30 @@
+{
+  "key": "_us_15126",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8OK3",
+    "local": "8OK3"
+  },
+  "name": "Cleveland Area Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.3167,
+    "longitude": -96.500298,
+    "elevation_ft": 960,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Cleveland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15126
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "mtca",
+  "codes": {
+    "icao": "MTCA",
+    "iata": "CYA",
+    "gps": "MTCA",
+    "local": null
+  },
+  "name": "Antoine-Simon International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.271099,
+    "longitude": -73.7883,
+    "elevation_ft": 203,
+    "iso_country": "HT",
+    "iso_region": "HT-SD",
+    "municipality": "Les Cayes"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Antoine-Simon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4822
+  }
+}

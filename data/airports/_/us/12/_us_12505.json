@@ -1,0 +1,30 @@
+{
+  "key": "_us_12505",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5MN6",
+    "local": "5MN6"
+  },
+  "name": "Northbound Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 47.156399,
+    "longitude": -93.523903,
+    "elevation_ft": 1273,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Grand Papids"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12505
+  }
+}

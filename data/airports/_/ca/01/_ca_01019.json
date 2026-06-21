@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01019",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFY2",
+    "local": "CFY2"
+  },
+  "name": "Grist Lake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.400002,
+    "longitude": -110.483002,
+    "elevation_ft": 2000,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Grist Lake"
+  },
+  "keywords": [
+    "FY2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Grist_Lake_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1019
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_br_00213",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SW1P",
+    "local": "GO0027"
+  },
+  "name": "Cristalina Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.791,
+    "longitude": -47.645199,
+    "elevation_ft": 3937,
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Cristalina"
+  },
+  "keywords": [
+    "SDXB",
+    "BR-2159"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 213
+  }
+}

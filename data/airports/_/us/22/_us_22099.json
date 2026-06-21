@@ -1,0 +1,33 @@
+{
+  "key": "_us_22099",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Lilienthal Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 45.934704,
+    "longitude": -88.102679,
+    "elevation_ft": 1250,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Iron Mountain"
+  },
+  "keywords": [
+    "MI92",
+    "US-11678"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22099
+  }
+}

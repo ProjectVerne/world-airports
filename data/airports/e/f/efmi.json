@@ -1,0 +1,31 @@
+{
+  "key": "efmi",
+  "codes": {
+    "icao": "EFMI",
+    "iata": "MIK",
+    "gps": "EFMI",
+    "local": null
+  },
+  "name": "Mikkeli Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.6866,
+    "longitude": 27.201799,
+    "elevation_ft": 329,
+    "iso_country": "FI",
+    "iso_region": "FI-04",
+    "municipality": "Mikkeli"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mikkeli_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2332
+  }
+}

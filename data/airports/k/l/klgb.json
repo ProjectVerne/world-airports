@@ -1,0 +1,33 @@
+{
+  "key": "klgb",
+  "codes": {
+    "icao": "KLGB",
+    "iata": "LGB",
+    "gps": "KLGB",
+    "local": "LGB"
+  },
+  "name": "Long Beach International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.816523,
+    "longitude": -118.149891,
+    "elevation_ft": 60,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Long Beach"
+  },
+  "keywords": [
+    "Daugherty Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Long_Beach_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3644
+  }
+}

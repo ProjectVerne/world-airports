@@ -1,0 +1,31 @@
+{
+  "key": "eftp",
+  "codes": {
+    "icao": "EFTP",
+    "iata": "TMP",
+    "gps": "EFTP",
+    "local": null
+  },
+  "name": "Tampere-Pirkkala Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.414101,
+    "longitude": 23.604401,
+    "elevation_ft": 390,
+    "iso_country": "FI",
+    "iso_region": "FI-11",
+    "municipality": "Tampere / Pirkkala"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tampere-Pirkkala_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2347
+  }
+}

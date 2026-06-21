@@ -1,0 +1,34 @@
+{
+  "key": "sari",
+  "codes": {
+    "icao": "SARI",
+    "iata": "IGR",
+    "gps": "SARI",
+    "local": "IGU"
+  },
+  "name": "Cataratas Del Iguazú International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.737301,
+    "longitude": -54.4734,
+    "elevation_ft": 916,
+    "iso_country": "AR",
+    "iso_region": "AR-N",
+    "municipality": "Puerto Iguazu"
+  },
+  "keywords": [
+    "Iguaçu",
+    "Mayor Carlos Eduardo Krause Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cataratas_del_Iguaz%C3%BA_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5806
+  }
+}

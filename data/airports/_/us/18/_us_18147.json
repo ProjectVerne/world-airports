@@ -1,0 +1,30 @@
+{
+  "key": "_us_18147",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IN78",
+    "local": "IN78"
+  },
+  "name": "Police Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.591099,
+    "longitude": -87.336197,
+    "elevation_ft": 591,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Gary"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18147
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "nzjy",
+  "codes": {
+    "icao": "NZJY",
+    "iata": null,
+    "gps": "NZJY",
+    "local": null
+  },
+  "name": "Wairoa Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -39.042485,
+    "longitude": 177.414249,
+    "elevation_ft": 59,
+    "iso_country": "NZ",
+    "iso_region": "NZ-HKB",
+    "municipality": "Wairoa"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44842
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_23432",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NY50",
+    "local": "NY50"
+  },
+  "name": "Johnson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.992144,
+    "longitude": -74.137459,
+    "elevation_ft": 760,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Amsterdam"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23432
+  }
+}

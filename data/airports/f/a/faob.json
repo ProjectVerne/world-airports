@@ -1,0 +1,31 @@
+{
+  "key": "faob",
+  "codes": {
+    "icao": "FAOB",
+    "iata": "OVG",
+    "gps": "FAOB",
+    "local": null
+  },
+  "name": "Overberg Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.563474,
+    "longitude": 20.252438,
+    "elevation_ft": 52,
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Overberg"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/AFB_Overberg",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2818
+  }
+}

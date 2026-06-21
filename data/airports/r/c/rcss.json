@@ -1,0 +1,35 @@
+{
+  "key": "rcss",
+  "codes": {
+    "icao": "RCSS",
+    "iata": "TSA",
+    "gps": "RCSS",
+    "local": null
+  },
+  "name": "Taipei Songshan International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.067244,
+    "longitude": 121.552822,
+    "elevation_ft": 18,
+    "iso_country": "TW",
+    "iso_region": "TW-TPE",
+    "municipality": "Taipei (Songshan)"
+  },
+  "keywords": [
+    "Sungshan Airport",
+    "台北松山機場",
+    "臺北松山機場"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Taipei_Songshan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5527
+  }
+}

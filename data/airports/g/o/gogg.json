@@ -1,0 +1,33 @@
+{
+  "key": "gogg",
+  "codes": {
+    "icao": "GOGG",
+    "iata": "ZIG",
+    "gps": "GOGG",
+    "local": null
+  },
+  "name": "Ziguinchor Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.55559,
+    "longitude": -16.283298,
+    "elevation_ft": 75,
+    "iso_country": "SN",
+    "iso_region": "SN-ZG",
+    "municipality": "Ziguinchor"
+  },
+  "keywords": [
+    "Basse Casamance"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ziguinchor_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3122
+  }
+}

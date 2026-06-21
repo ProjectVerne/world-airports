@@ -1,0 +1,33 @@
+{
+  "key": "_us_14610",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Abbott Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.322943,
+    "longitude": -99.755845,
+    "elevation_ft": 2560,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Long Pine"
+  },
+  "keywords": [
+    "83NE",
+    "US-10808"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 14610
+  }
+}

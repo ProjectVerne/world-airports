@@ -1,0 +1,31 @@
+{
+  "key": "cyoc",
+  "codes": {
+    "icao": "CYOC",
+    "iata": "YOC",
+    "gps": "CYOC",
+    "local": null
+  },
+  "name": "Old Crow Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 67.570602,
+    "longitude": -139.839005,
+    "elevation_ft": 824,
+    "iso_country": "CA",
+    "iso_region": "CA-YT",
+    "municipality": "Old Crow"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Old_Crow_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1833
+  }
+}

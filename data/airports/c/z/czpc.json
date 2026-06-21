@@ -1,0 +1,33 @@
+{
+  "key": "czpc",
+  "codes": {
+    "icao": "CZPC",
+    "iata": "WPC",
+    "gps": "CZPC",
+    "local": null
+  },
+  "name": "Pincher Creek Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.520429,
+    "longitude": -113.997002,
+    "elevation_ft": 3903,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Pincher Creek"
+  },
+  "keywords": [
+    "ZPC"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pincher_Creek_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2034
+  }
+}

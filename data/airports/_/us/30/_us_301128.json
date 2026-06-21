@@ -1,0 +1,33 @@
+{
+  "key": "_us_301128",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Sharpe AAF",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 37.837917,
+    "longitude": -121.272806,
+    "elevation_ft": 55,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Lathrop"
+  },
+  "keywords": [
+    "LRO",
+    "US-12587"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301128
+  }
+}

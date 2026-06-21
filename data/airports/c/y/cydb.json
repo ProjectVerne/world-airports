@@ -1,0 +1,31 @@
+{
+  "key": "cydb",
+  "codes": {
+    "icao": "CYDB",
+    "iata": "YDB",
+    "gps": "CYDB",
+    "local": null
+  },
+  "name": "Burwash Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.371101,
+    "longitude": -139.041,
+    "elevation_ft": 2647,
+    "iso_country": "CA",
+    "iso_region": "CA-YT",
+    "municipality": "Burwash Landing"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Burwash_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1704
+  }
+}

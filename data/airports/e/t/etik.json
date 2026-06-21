@@ -1,0 +1,33 @@
+{
+  "key": "etik",
+  "codes": {
+    "icao": "ETIK",
+    "iata": "ILH",
+    "gps": "ETIK",
+    "local": null
+  },
+  "name": "Illesheim Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.4739,
+    "longitude": 10.3881,
+    "elevation_ft": 1079,
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Illesheim"
+  },
+  "keywords": [
+    "Storck Barracks"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Illesheim_Army_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29972
+  }
+}

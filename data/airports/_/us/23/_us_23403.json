@@ -1,0 +1,30 @@
+{
+  "key": "_us_23403",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NY21",
+    "local": "NY21"
+  },
+  "name": "Dewitt Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.2033,
+    "longitude": -77.523598,
+    "elevation_ft": 375,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Webster"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23403
+  }
+}

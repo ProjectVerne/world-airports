@@ -1,0 +1,33 @@
+{
+  "key": "muca",
+  "codes": {
+    "icao": "MUCA",
+    "iata": "AVI",
+    "gps": "MUCA",
+    "local": null
+  },
+  "name": "Máximo Gómez Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.0271,
+    "longitude": -78.789597,
+    "elevation_ft": 335,
+    "iso_country": "CU",
+    "iso_region": "CU-08",
+    "municipality": "Ciro Redondo"
+  },
+  "keywords": [
+    "Ciego de Ávila"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A1ximo_G%C3%B3mez_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4829
+  }
+}

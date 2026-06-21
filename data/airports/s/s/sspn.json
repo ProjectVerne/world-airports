@@ -1,0 +1,30 @@
+{
+  "key": "sspn",
+  "codes": {
+    "icao": "SSPN",
+    "iata": "PBB",
+    "gps": "SSPN",
+    "local": "MS0010"
+  },
+  "name": "Paranaíba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.651199,
+    "longitude": -51.199402,
+    "elevation_ft": 1446,
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Paranaíba"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 494
+  }
+}

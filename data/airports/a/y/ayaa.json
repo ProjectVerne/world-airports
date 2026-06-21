@@ -1,0 +1,30 @@
+{
+  "key": "ayaa",
+  "codes": {
+    "icao": "AYAA",
+    "iata": "AMF",
+    "gps": "AYAA",
+    "local": "AMA"
+  },
+  "name": "Ama Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.101111,
+    "longitude": 141.67,
+    "elevation_ft": 145,
+    "iso_country": "PG",
+    "iso_region": "PG-ESW",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301676
+  }
+}

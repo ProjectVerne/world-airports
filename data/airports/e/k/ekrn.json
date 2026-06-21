@@ -1,0 +1,33 @@
+{
+  "key": "ekrn",
+  "codes": {
+    "icao": "EKRN",
+    "iata": "RNN",
+    "gps": "EKRN",
+    "local": null
+  },
+  "name": "Bornholm Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.063301,
+    "longitude": 14.7596,
+    "elevation_ft": 52,
+    "iso_country": "DK",
+    "iso_region": "DK-84",
+    "municipality": "Rønne"
+  },
+  "keywords": [
+    "Roenne"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bornholm_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2552
+  }
+}

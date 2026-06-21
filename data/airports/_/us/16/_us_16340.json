@@ -1,0 +1,30 @@
+{
+  "key": "_us_16340",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AR51",
+    "local": "AR51"
+  },
+  "name": "Smith Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.223999,
+    "longitude": -93.578201,
+    "elevation_ft": 1200,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Berryville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16340
+  }
+}

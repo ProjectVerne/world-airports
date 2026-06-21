@@ -1,0 +1,34 @@
+{
+  "key": "unii",
+  "codes": {
+    "icao": "UNII",
+    "iata": "EIE",
+    "gps": "UNII",
+    "local": null
+  },
+  "name": "Yeniseysk Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.474201,
+    "longitude": 92.112503,
+    "elevation_ft": 253,
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Yeniseysk"
+  },
+  "keywords": [
+    "Yeniseisk Airport",
+    "Аэропорт Енисейск"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yeniseysk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30995
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "karb",
+  "codes": {
+    "icao": "KARB",
+    "iata": "ARB",
+    "gps": "KARB",
+    "local": "ARB"
+  },
+  "name": "Ann Arbor Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.223,
+    "longitude": -83.745598,
+    "elevation_ft": 839,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Ann Arbor"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ann_Arbor_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19302
+  }
+}

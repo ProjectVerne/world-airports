@@ -1,0 +1,33 @@
+{
+  "key": "panc",
+  "codes": {
+    "icao": "PANC",
+    "iata": "ANC",
+    "gps": "PANC",
+    "local": "ANC"
+  },
+  "name": "Ted Stevens Anchorage International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.179004,
+    "longitude": -149.992561,
+    "elevation_ft": 152,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Anchorage"
+  },
+  "keywords": [
+    "Anchorage"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ted_Stevens_Anchorage_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5388
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "bgso",
+  "codes": {
+    "icao": "BGSO",
+    "iata": "QOQ",
+    "gps": "BGSO",
+    "local": null
+  },
+  "name": "Saarloq Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 60.537778,
+    "longitude": -46.024722,
+    "elevation_ft": 0,
+    "iso_country": "GL",
+    "iso_region": "GL-KU",
+    "municipality": "Saarloq"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saarloq_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323783
+  }
+}

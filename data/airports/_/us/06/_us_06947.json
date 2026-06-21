@@ -1,0 +1,32 @@
+{
+  "key": "_us_06947",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "07NJ",
+    "local": "07NJ"
+  },
+  "name": "Hackensack UMC Palisades Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.793666,
+    "longitude": -73.994863,
+    "elevation_ft": 10,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "North Bergen"
+  },
+  "keywords": [
+    "Palisades General Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6947
+  }
+}

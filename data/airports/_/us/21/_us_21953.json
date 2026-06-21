@@ -1,0 +1,30 @@
+{
+  "key": "_us_21953",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ME20",
+    "local": "ME20"
+  },
+  "name": "Bob-Mar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.599201,
+    "longitude": -69.623901,
+    "elevation_ft": 310,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Fairfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21953
+  }
+}

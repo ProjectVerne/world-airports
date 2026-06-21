@@ -1,0 +1,33 @@
+{
+  "key": "ymry",
+  "codes": {
+    "icao": "YMRY",
+    "iata": "MYA",
+    "gps": "YMRY",
+    "local": null
+  },
+  "name": "Moruya Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -35.8978,
+    "longitude": 150.143997,
+    "elevation_ft": 14,
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Moruya"
+  },
+  "keywords": [
+    "RAAF Moruya"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moruya_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27075
+  }
+}

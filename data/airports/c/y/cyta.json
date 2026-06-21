@@ -1,0 +1,31 @@
+{
+  "key": "cyta",
+  "codes": {
+    "icao": "CYTA",
+    "iata": "YTA",
+    "gps": "CYTA",
+    "local": null
+  },
+  "name": "Pembroke Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.864399,
+    "longitude": -77.251701,
+    "elevation_ft": 529,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Pembroke"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pembroke_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1917
+  }
+}

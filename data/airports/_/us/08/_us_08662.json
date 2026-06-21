@@ -1,0 +1,30 @@
+{
+  "key": "_us_08662",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1TA4",
+    "local": "1TA4"
+  },
+  "name": "Last Resort Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.4545,
+    "longitude": -95.29652,
+    "elevation_ft": 420,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Crockett"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8662
+  }
+}

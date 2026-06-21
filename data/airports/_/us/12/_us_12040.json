@@ -1,0 +1,32 @@
+{
+  "key": "_us_12040",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "55GA",
+    "local": "55GA"
+  },
+  "name": "Northside Hospital Gwinnett Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.963522,
+    "longitude": -84.018293,
+    "elevation_ft": 1044,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Lawrenceville"
+  },
+  "keywords": [
+    "Gwinnett Medical Center"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12040
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "saac",
+  "codes": {
+    "icao": "SAAC",
+    "iata": "COC",
+    "gps": "SAAC",
+    "local": "DIA"
+  },
+  "name": "Comodoro Pierrestegui Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -31.2969,
+    "longitude": -57.9966,
+    "elevation_ft": 112,
+    "iso_country": "AR",
+    "iso_region": "AR-E",
+    "municipality": "Concordia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Comodoro_Pierrestegui_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5764
+  }
+}

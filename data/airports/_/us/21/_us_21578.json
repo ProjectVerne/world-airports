@@ -1,0 +1,33 @@
+{
+  "key": "_us_21578",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Smith Restricted Landing Area",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.313099,
+    "longitude": -90.277802,
+    "elevation_ft": 582,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Greenfield"
+  },
+  "keywords": [
+    "LL20",
+    "US-11581"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21578
+  }
+}

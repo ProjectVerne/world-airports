@@ -1,0 +1,31 @@
+{
+  "key": "oith",
+  "codes": {
+    "icao": "OITH",
+    "iata": "KHA",
+    "gps": "OITH",
+    "local": null
+  },
+  "name": "Khaneh Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.729096,
+    "longitude": 45.158084,
+    "elevation_ft": 4804,
+    "iso_country": "IR",
+    "iso_region": "IR-04",
+    "municipality": "Khaneh"
+  },
+  "keywords": [],
+  "wikipedia": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%BE%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42528
+  }
+}

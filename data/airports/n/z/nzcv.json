@@ -1,0 +1,32 @@
+{
+  "key": "nzcv",
+  "codes": {
+    "icao": "NZCV",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Chevoit",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -42.808795,
+    "longitude": 173.265296,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Chevoit"
+  },
+  "keywords": [
+    "NZ-0096"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 604963
+  }
+}

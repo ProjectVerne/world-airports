@@ -1,0 +1,31 @@
+{
+  "key": "kcbm",
+  "codes": {
+    "icao": "KCBM",
+    "iata": "CBM",
+    "gps": "KCBM",
+    "local": "CBM"
+  },
+  "name": "Columbus Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.643799,
+    "longitude": -88.443802,
+    "elevation_ft": 219,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Columbus"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Columbus_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3441
+  }
+}

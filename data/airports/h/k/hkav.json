@@ -1,0 +1,32 @@
+{
+  "key": "hkav",
+  "codes": {
+    "icao": "HKAV",
+    "iata": null,
+    "gps": "HKAV",
+    "local": null
+  },
+  "name": "Sala Gate Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.072405,
+    "longitude": 39.215665,
+    "elevation_ft": 0,
+    "iso_country": "KE",
+    "iso_region": "KE-06",
+    "municipality": "Voi"
+  },
+  "keywords": [
+    "KE-0188"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 318815
+  }
+}

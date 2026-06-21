@@ -1,0 +1,31 @@
+{
+  "key": "kirs",
+  "codes": {
+    "icao": "KIRS",
+    "iata": "IRS",
+    "gps": "KIRS",
+    "local": "IRS"
+  },
+  "name": "Kirsch Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.813301,
+    "longitude": -85.439003,
+    "elevation_ft": 924,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Sturgis"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kirsch_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20185
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_10823",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3TS4",
+    "local": "3TS4"
+  },
+  "name": "Intermedics Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.211258,
+    "longitude": -95.440072,
+    "elevation_ft": 34,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Angleton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10823
+  }
+}

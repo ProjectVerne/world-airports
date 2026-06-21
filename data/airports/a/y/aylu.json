@@ -1,0 +1,30 @@
+{
+  "key": "aylu",
+  "codes": {
+    "icao": "AYLU",
+    "iata": "LMI",
+    "gps": "AYLU",
+    "local": "LUMI"
+  },
+  "name": "Lumi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.47684,
+    "longitude": 142.041292,
+    "elevation_ft": 1750,
+    "iso_country": "PG",
+    "iso_region": "PG-SAN",
+    "municipality": "Lumi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42762
+  }
+}

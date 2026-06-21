@@ -1,0 +1,30 @@
+{
+  "key": "_us_08244",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1CL9",
+    "local": "1CL9"
+  },
+  "name": "SFI Vernon Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.001038,
+    "longitude": -118.212606,
+    "elevation_ft": 231,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Vernon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8244
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "ptkk",
+  "codes": {
+    "icao": "PTKK",
+    "iata": "TKK",
+    "gps": "PTKK",
+    "local": "TKK"
+  },
+  "name": "Chuuk International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.46187,
+    "longitude": 151.843002,
+    "elevation_ft": 11,
+    "iso_country": "FM",
+    "iso_region": "FM-TRK",
+    "municipality": "Weno Island"
+  },
+  "keywords": [
+    "Erhart Aten International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chuuk_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5499
+  }
+}

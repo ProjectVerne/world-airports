@@ -1,0 +1,33 @@
+{
+  "key": "kvps",
+  "codes": {
+    "icao": "KVPS",
+    "iata": "VPS",
+    "gps": "KVPS",
+    "local": "VPS"
+  },
+  "name": "Destin-Fort Walton Beach Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.481315,
+    "longitude": -86.515839,
+    "elevation_ft": 87,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Valparaiso"
+  },
+  "keywords": [
+    "Eglin AFB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Destin%E2%80%93Fort_Walton_Beach_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3948
+  }
+}

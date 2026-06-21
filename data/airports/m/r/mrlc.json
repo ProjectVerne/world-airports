@@ -1,0 +1,31 @@
+{
+  "key": "mrlc",
+  "codes": {
+    "icao": "MRLC",
+    "iata": "LSL",
+    "gps": "MRLC",
+    "local": null
+  },
+  "name": "Los Chiles Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.0353,
+    "longitude": -84.7061,
+    "elevation_ft": 131,
+    "iso_country": "CR",
+    "iso_region": "CR-A",
+    "municipality": "Los Chiles"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Los_Chiles_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4807
+  }
+}

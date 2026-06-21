@@ -1,0 +1,34 @@
+{
+  "key": "_ca_00980",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Calgary (Westport) Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 51.036701,
+    "longitude": -114.195999,
+    "elevation_ft": 3983,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Calgary"
+  },
+  "keywords": [
+    "FQ2",
+    "CFQ2",
+    "CA-1041"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 980
+  }
+}

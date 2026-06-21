@@ -1,0 +1,30 @@
+{
+  "key": "_us_15907",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "9OK2",
+    "local": "9OK2"
+  },
+  "name": "Pawnee Municipal Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.333401,
+    "longitude": -96.800301,
+    "elevation_ft": 925,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Pawnee"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15907
+  }
+}

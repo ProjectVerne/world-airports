@@ -1,0 +1,34 @@
+{
+  "key": "wmbt",
+  "codes": {
+    "icao": "WMBT",
+    "iata": "TOD",
+    "gps": "WMBT",
+    "local": null
+  },
+  "name": "Tioman Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 2.81818,
+    "longitude": 104.160004,
+    "elevation_ft": 15,
+    "iso_country": "MY",
+    "iso_region": "MY-06",
+    "municipality": "Tioman Island"
+  },
+  "keywords": [
+    "Kampung Tekek",
+    "Sultan Ahmad Shah"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tioman_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26864
+  }
+}

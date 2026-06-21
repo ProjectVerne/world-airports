@@ -1,0 +1,35 @@
+{
+  "key": "hcgr",
+  "codes": {
+    "icao": "HCGR",
+    "iata": "GGR",
+    "gps": "HCGR",
+    "local": null
+  },
+  "name": "Garowe Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.458474,
+    "longitude": 48.568136,
+    "elevation_ft": 1465,
+    "iso_country": "SO",
+    "iso_region": "SO-NU",
+    "municipality": "Garowe"
+  },
+  "keywords": [
+    "HCMW",
+    "Puntland",
+    "General Mohamed Abshir"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Garowe_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 319714
+  }
+}

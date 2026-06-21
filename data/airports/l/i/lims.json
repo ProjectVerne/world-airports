@@ -1,0 +1,34 @@
+{
+  "key": "lims",
+  "codes": {
+    "icao": "LIMS",
+    "iata": null,
+    "gps": "LIMS",
+    "local": "PC08"
+  },
+  "name": "Piacenza San Damiano Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.91442,
+    "longitude": 9.722318,
+    "elevation_ft": 456,
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "San Damiano (PC)"
+  },
+  "keywords": [
+    "San Damiano",
+    "QPZ"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Piacenza-San_Damiano_Air_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4348
+  }
+}

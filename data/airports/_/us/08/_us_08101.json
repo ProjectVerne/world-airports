@@ -1,0 +1,30 @@
+{
+  "key": "_us_08101",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "18MA",
+    "local": "18MA"
+  },
+  "name": "Holy Family Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.727798,
+    "longitude": -71.168297,
+    "elevation_ft": 202,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Methuen"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8101
+  }
+}

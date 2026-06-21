@@ -1,0 +1,30 @@
+{
+  "key": "_us_08433",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MA4",
+    "local": "1MA4"
+  },
+  "name": "Wang Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.609299,
+    "longitude": -71.321701,
+    "elevation_ft": 104,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Lowell"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8433
+  }
+}

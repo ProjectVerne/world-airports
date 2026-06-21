@@ -1,0 +1,34 @@
+{
+  "key": "krow",
+  "codes": {
+    "icao": "KROW",
+    "iata": "ROW",
+    "gps": "KROW",
+    "local": "ROW"
+  },
+  "name": "Roswell Air Center Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.301601,
+    "longitude": -104.530998,
+    "elevation_ft": 3671,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Roswell"
+  },
+  "keywords": [
+    "Roswell Army Air Field",
+    "Walker Air Force Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Roswell_International_Air_Center",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3856
+  }
+}

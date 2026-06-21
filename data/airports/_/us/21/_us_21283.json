@@ -1,0 +1,30 @@
+{
+  "key": "_us_21283",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KUBX",
+    "local": "UBX"
+  },
+  "name": "Cuba Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.068802,
+    "longitude": -91.428902,
+    "elevation_ft": 1023,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Cuba"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21283
+  }
+}

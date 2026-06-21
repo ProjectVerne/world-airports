@@ -1,0 +1,33 @@
+{
+  "key": "_us_07708",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Johnson Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.921101,
+    "longitude": -82.585501,
+    "elevation_ft": 630,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Smiths Creek"
+  },
+  "keywords": [
+    "11G",
+    "US-9552"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7708
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_511876",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PN83",
+    "local": "PN83"
+  },
+  "name": "GOH Cressona Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.638939,
+    "longitude": -76.194219,
+    "elevation_ft": 560,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Cressona"
+  },
+  "keywords": [
+    "US-8141"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 511876
+  }
+}

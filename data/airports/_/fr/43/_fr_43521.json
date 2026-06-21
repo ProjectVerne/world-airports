@@ -1,0 +1,32 @@
+{
+  "key": "_fr_43521",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Centre Hospitalier Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.834167,
+    "longitude": 0.555556,
+    "elevation_ft": 275,
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Chatellerault"
+  },
+  "keywords": [
+    "FR-0181"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43521
+  }
+}

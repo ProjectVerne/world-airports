@@ -1,0 +1,31 @@
+{
+  "key": "yhid",
+  "codes": {
+    "icao": "YHID",
+    "iata": "HID",
+    "gps": "YHID",
+    "local": null
+  },
+  "name": "Horn Island Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -10.585636,
+    "longitude": 142.29277,
+    "elevation_ft": 43,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Horn"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Horn_Island_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27004
+  }
+}

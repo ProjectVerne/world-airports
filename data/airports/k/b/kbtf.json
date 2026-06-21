@@ -1,0 +1,31 @@
+{
+  "key": "kbtf",
+  "codes": {
+    "icao": "KBTF",
+    "iata": "BTF",
+    "gps": "KBTF",
+    "local": "BTF"
+  },
+  "name": "Skypark Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.8694,
+    "longitude": -111.927002,
+    "elevation_ft": 4234,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Bountiful"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Skypark_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19409
+  }
+}

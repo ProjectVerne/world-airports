@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01379",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPB3",
+    "local": "CPB3"
+  },
+  "name": "Welland County General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.97759,
+    "longitude": -79.249687,
+    "elevation_ft": 585,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Welland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1379
+  }
+}

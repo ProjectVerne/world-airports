@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00806",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CDC4",
+    "local": "CDC4"
+  },
+  "name": "Saint-Quentin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.521099,
+    "longitude": -67.421097,
+    "elevation_ft": 875,
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Saint-Quentin"
+  },
+  "keywords": [
+    "DC4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St-Quentin_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 806
+  }
+}

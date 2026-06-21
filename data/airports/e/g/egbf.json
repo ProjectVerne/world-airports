@@ -1,0 +1,35 @@
+{
+  "key": "egbf",
+  "codes": {
+    "icao": "EGBF",
+    "iata": null,
+    "gps": "EGBF",
+    "local": null
+  },
+  "name": "Bedford Aerodrome",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.23071,
+    "longitude": -0.463825,
+    "elevation_ft": 270,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Bedford, Bedford"
+  },
+  "keywords": [
+    "RAE Bedford",
+    "RAF Thurleigh",
+    "EGVW"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bedford_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307357
+  }
+}

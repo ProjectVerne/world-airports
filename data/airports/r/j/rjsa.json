@@ -1,0 +1,31 @@
+{
+  "key": "rjsa",
+  "codes": {
+    "icao": "RJSA",
+    "iata": "AOJ",
+    "gps": "RJSA",
+    "local": null
+  },
+  "name": "Aomori Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.733777,
+    "longitude": 140.689477,
+    "elevation_ft": 664,
+    "iso_country": "JP",
+    "iso_region": "JP-02",
+    "municipality": "Aomori"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aomori_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5605
+  }
+}

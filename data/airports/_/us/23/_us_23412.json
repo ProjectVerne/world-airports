@@ -1,0 +1,30 @@
+{
+  "key": "_us_23412",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NY30",
+    "local": "NY30"
+  },
+  "name": "Hilltop Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.67002,
+    "longitude": -74.75852,
+    "elevation_ft": 1400,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Monticello"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23412
+  }
+}

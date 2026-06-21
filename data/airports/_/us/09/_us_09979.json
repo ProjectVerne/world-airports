@@ -1,0 +1,30 @@
+{
+  "key": "_us_09979",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "31OR",
+    "local": "31OR"
+  },
+  "name": "Heli-Jet Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.062099,
+    "longitude": -123.144997,
+    "elevation_ft": 397,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Eugene"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9979
+  }
+}

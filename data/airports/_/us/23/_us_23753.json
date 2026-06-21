@@ -1,0 +1,32 @@
+{
+  "key": "_us_23753",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OK09",
+    "local": "OK09"
+  },
+  "name": "Mercy Hospital Ardmore Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.189595,
+    "longitude": -97.141888,
+    "elevation_ft": 931,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Ardmore"
+  },
+  "keywords": [
+    "Mercy Memorial Health Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23753
+  }
+}

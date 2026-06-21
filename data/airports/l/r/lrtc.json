@@ -1,0 +1,34 @@
+{
+  "key": "lrtc",
+  "codes": {
+    "icao": "LRTC",
+    "iata": "TCE",
+    "gps": "LRTC",
+    "local": null
+  },
+  "name": "Tulcea Danube Delta Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.0625,
+    "longitude": 28.7143,
+    "elevation_ft": 200,
+    "iso_country": "RO",
+    "iso_region": "RO-TL",
+    "municipality": "Mihail Kogălniceanu"
+  },
+  "keywords": [
+    "Cataloi Airport",
+    "Aeroportul Delta Dunării Tulcea"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tulcea_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4486
+  }
+}

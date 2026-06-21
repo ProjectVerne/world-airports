@@ -1,0 +1,32 @@
+{
+  "key": "lbts",
+  "codes": {
+    "icao": "LBTS",
+    "iata": null,
+    "gps": "LBTS",
+    "local": null
+  },
+  "name": "Tsalapitsa Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.188747,
+    "longitude": 24.535716,
+    "elevation_ft": 630,
+    "iso_country": "BG",
+    "iso_region": "BG-16",
+    "municipality": "Tsalapitsa"
+  },
+  "keywords": [
+    "LB11"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 79
+  }
+}

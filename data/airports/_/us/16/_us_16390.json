@@ -1,0 +1,30 @@
+{
+  "key": "_us_16390",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AZ02",
+    "local": "AZ02"
+  },
+  "name": "Gateway East KNXV-TV Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.454181,
+    "longitude": -111.983753,
+    "elevation_ft": 1185,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Phoenix"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16390
+  }
+}

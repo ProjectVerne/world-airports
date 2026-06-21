@@ -1,0 +1,31 @@
+{
+  "key": "cyzu",
+  "codes": {
+    "icao": "CYZU",
+    "iata": "YZU",
+    "gps": "CYZU",
+    "local": null
+  },
+  "name": "Whitecourt Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.143902,
+    "longitude": -115.787003,
+    "elevation_ft": 2567,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Whitecourt"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Whitecourt_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2000
+  }
+}

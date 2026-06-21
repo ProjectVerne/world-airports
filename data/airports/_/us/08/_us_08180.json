@@ -1,0 +1,30 @@
+{
+  "key": "_us_08180",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1AK5",
+    "local": "1AK5"
+  },
+  "name": "Offshore Systems-Kenai Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 60.738876,
+    "longitude": -151.311613,
+    "elevation_ft": 150,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Nikiski"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8180
+  }
+}

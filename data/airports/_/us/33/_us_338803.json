@@ -1,0 +1,32 @@
+{
+  "key": "_us_338803",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Yuma TARS Site",
+  "type": "balloonport",
+  "status": "open",
+  "location": {
+    "latitude": 33.01587,
+    "longitude": -114.24328,
+    "elevation_ft": 991,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Yuma"
+  },
+  "keywords": [
+    "US-2464"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 338803
+  }
+}

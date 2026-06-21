@@ -1,0 +1,30 @@
+{
+  "key": "_us_17276",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FD05",
+    "local": "FD05"
+  },
+  "name": "Mariners Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 25.00693,
+    "longitude": -80.52233,
+    "elevation_ft": 9,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Tavernier"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17276
+  }
+}

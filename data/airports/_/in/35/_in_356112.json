@@ -1,0 +1,32 @@
+{
+  "key": "_in_356112",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Pooh Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.75225,
+    "longitude": 78.57191,
+    "elevation_ft": 8781,
+    "iso_country": "IN",
+    "iso_region": "IN-HP",
+    "municipality": "Pooh"
+  },
+  "keywords": [
+    "IN-0328"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 356112
+  }
+}

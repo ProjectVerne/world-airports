@@ -1,0 +1,30 @@
+{
+  "key": "_us_21775",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA32",
+    "local": "MA32"
+  },
+  "name": "Atlantic Trade Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.2612,
+    "longitude": -71.769501,
+    "elevation_ft": 570,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Worcester"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21775
+  }
+}

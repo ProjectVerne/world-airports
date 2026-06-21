@@ -1,0 +1,33 @@
+{
+  "key": "mkbs",
+  "codes": {
+    "icao": "MKBS",
+    "iata": "OCJ",
+    "gps": "MKBS",
+    "local": null
+  },
+  "name": "Ian Fleming International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.404079,
+    "longitude": -76.969754,
+    "elevation_ft": 90,
+    "iso_country": "JM",
+    "iso_region": "JM-05",
+    "municipality": "Boscobel"
+  },
+  "keywords": [
+    "Boscobel Aerodrome"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ian_Fleming_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4679
+  }
+}

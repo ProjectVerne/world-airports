@@ -1,0 +1,31 @@
+{
+  "key": "kmkt",
+  "codes": {
+    "icao": "KMKT",
+    "iata": "MKT",
+    "gps": "KMKT",
+    "local": "MKT"
+  },
+  "name": "Mankato Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.224781,
+    "longitude": -93.919128,
+    "elevation_ft": 1021,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Mankato"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mankato_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20519
+  }
+}

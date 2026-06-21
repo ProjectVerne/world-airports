@@ -1,0 +1,31 @@
+{
+  "key": "swns",
+  "codes": {
+    "icao": "SWNS",
+    "iata": "APS",
+    "gps": "SWNS",
+    "local": "GO0004"
+  },
+  "name": "Anápolis Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.363575,
+    "longitude": -48.9288,
+    "elevation_ft": 3648,
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Anápolis"
+  },
+  "keywords": [],
+  "wikipedia": "http://pt.wikipedia.org/wiki/Aeroporto_de_An%C3%A1polis",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 567
+  }
+}

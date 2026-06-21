@@ -1,0 +1,33 @@
+{
+  "key": "kokb",
+  "codes": {
+    "icao": "KOKB",
+    "iata": "OCN",
+    "gps": "KOKB",
+    "local": "OKB"
+  },
+  "name": "Oceanside Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.217947,
+    "longitude": -117.351683,
+    "elevation_ft": 28,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Oceanside"
+  },
+  "keywords": [
+    "Bob Maxwell Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Oceanside_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20732
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_08011",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Lutheran Hospital Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.354198,
+    "longitude": -81.708199,
+    "elevation_ft": 780,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Cleveland"
+  },
+  "keywords": [
+    "16OH",
+    "US-9612"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8011
+  }
+}

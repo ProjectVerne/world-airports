@@ -1,0 +1,30 @@
+{
+  "key": "_br_335390",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SIFP",
+    "local": "SP0489"
+  },
+  "name": "EPCCO Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -24.524704,
+    "longitude": -47.850641,
+    "elevation_ft": 115,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Registro"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 335390
+  }
+}

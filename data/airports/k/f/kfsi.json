@@ -1,0 +1,31 @@
+{
+  "key": "kfsi",
+  "codes": {
+    "icao": "KFSI",
+    "iata": "FSI",
+    "gps": "KFSI",
+    "local": "FSI"
+  },
+  "name": "Henry Post Army Air Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.649799,
+    "longitude": -98.402199,
+    "elevation_ft": 1189,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Fort Sill"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Henry_Post_Army_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3542
+  }
+}

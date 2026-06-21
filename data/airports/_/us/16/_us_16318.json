@@ -1,0 +1,33 @@
+{
+  "key": "_us_16318",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Odom Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 34.938931,
+    "longitude": -92.024747,
+    "elevation_ft": 280,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Cabot"
+  },
+  "keywords": [
+    "AR28",
+    "US-11112"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16318
+  }
+}

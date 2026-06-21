@@ -1,0 +1,30 @@
+{
+  "key": "_us_10477",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3GE5",
+    "local": "3GE5"
+  },
+  "name": "Rockdale Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.680058,
+    "longitude": -84.002785,
+    "elevation_ft": 865,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Conyers"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10477
+  }
+}

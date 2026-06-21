@@ -1,0 +1,31 @@
+{
+  "key": "cypr",
+  "codes": {
+    "icao": "CYPR",
+    "iata": "YPR",
+    "gps": "CYPR",
+    "local": null
+  },
+  "name": "Prince Rupert Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.286098,
+    "longitude": -130.445007,
+    "elevation_ft": 116,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Prince Rupert"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Prince_Rupert_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1855
+  }
+}

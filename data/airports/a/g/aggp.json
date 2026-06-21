@@ -1,0 +1,30 @@
+{
+  "key": "aggp",
+  "codes": {
+    "icao": "AGGP",
+    "iata": "PRS",
+    "gps": "AGGP",
+    "local": null
+  },
+  "name": "Parasi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.64167,
+    "longitude": 161.425003,
+    "elevation_ft": 0,
+    "iso_country": "SB",
+    "iso_region": "SB-ML",
+    "municipality": "Parasi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32174
+  }
+}

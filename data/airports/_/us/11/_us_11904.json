@@ -1,0 +1,30 @@
+{
+  "key": "_us_11904",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "52B",
+    "local": "52B"
+  },
+  "name": "Greenville Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 45.461201,
+    "longitude": -69.597801,
+    "elevation_ft": 1028,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Greenville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11904
+  }
+}

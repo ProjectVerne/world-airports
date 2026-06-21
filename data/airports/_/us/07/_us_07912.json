@@ -1,0 +1,31 @@
+{
+  "key": "_us_07912",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "14S",
+    "local": "14S"
+  },
+  "name": "Westport Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.8969,
+    "longitude": -124.100998,
+    "elevation_ft": 14,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Westport"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Westport_Airport_(Washington)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7912
+  }
+}

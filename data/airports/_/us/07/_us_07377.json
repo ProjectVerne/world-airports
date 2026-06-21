@@ -1,0 +1,30 @@
+{
+  "key": "_us_07377",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0MY0",
+    "local": "0MY0"
+  },
+  "name": "Kenyon Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.3339,
+    "longitude": -92.943298,
+    "elevation_ft": 1500,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Kenyon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7377
+  }
+}

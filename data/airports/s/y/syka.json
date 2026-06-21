@@ -1,0 +1,31 @@
+{
+  "key": "syka",
+  "codes": {
+    "icao": "SYKA",
+    "iata": "KAI",
+    "gps": "SYKA",
+    "local": null
+  },
+  "name": "Kaieteur Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.177349,
+    "longitude": -59.48898,
+    "elevation_ft": 1520,
+    "iso_country": "GY",
+    "iso_region": "GY-PT",
+    "municipality": "Kaieteur Falls"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kaieteur_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43226
+  }
+}

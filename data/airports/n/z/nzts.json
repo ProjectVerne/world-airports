@@ -1,0 +1,33 @@
+{
+  "key": "nzts",
+  "codes": {
+    "icao": "NZTS",
+    "iata": null,
+    "gps": "NZTS",
+    "local": null
+  },
+  "name": "Tasman Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -41.204538,
+    "longitude": 173.049349,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-TAS",
+    "municipality": "Tasman"
+  },
+  "keywords": [
+    "Tasman",
+    "NZ-0105"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605009
+  }
+}

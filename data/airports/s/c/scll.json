@@ -1,0 +1,31 @@
+{
+  "key": "scll",
+  "codes": {
+    "icao": "SCLL",
+    "iata": "VLR",
+    "gps": "SCLL",
+    "local": null
+  },
+  "name": "Vallenar Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -28.596399,
+    "longitude": -70.755997,
+    "elevation_ft": 1725,
+    "iso_country": "CL",
+    "iso_region": "CL-AT",
+    "municipality": "Vallenar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vallenar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6029
+  }
+}

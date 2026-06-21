@@ -1,0 +1,30 @@
+{
+  "key": "_us_23378",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NV98",
+    "local": "NV98"
+  },
+  "name": "Caas Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.150299,
+    "longitude": -115.900002,
+    "elevation_ft": 2800,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Pahrump"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23378
+  }
+}

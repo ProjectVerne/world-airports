@@ -1,0 +1,30 @@
+{
+  "key": "_us_45721",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "22OK",
+    "local": "22OK"
+  },
+  "name": "Smith Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.315161,
+    "longitude": -97.177492,
+    "elevation_ft": 860,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Springer"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45721
+  }
+}

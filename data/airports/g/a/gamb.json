@@ -1,0 +1,34 @@
+{
+  "key": "gamb",
+  "codes": {
+    "icao": "GAMB",
+    "iata": "MZI",
+    "gps": "GAMB",
+    "local": null
+  },
+  "name": "Mopti Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 14.5128,
+    "longitude": -4.07956,
+    "elevation_ft": 906,
+    "iso_country": "ML",
+    "iso_region": "ML-5",
+    "municipality": "Sévaré"
+  },
+  "keywords": [
+    "Barbe Airport",
+    "Ambodédjo Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mopti_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3069
+  }
+}

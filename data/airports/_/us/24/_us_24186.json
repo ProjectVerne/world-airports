@@ -1,0 +1,30 @@
+{
+  "key": "_us_24186",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PN79",
+    "local": "PN79"
+  },
+  "name": "Passavant Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.009499,
+    "longitude": -80.000099,
+    "elevation_ft": 1330,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Pittsburgh"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24186
+  }
+}

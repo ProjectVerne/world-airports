@@ -1,0 +1,33 @@
+{
+  "key": "lspa",
+  "codes": {
+    "icao": "LSPA",
+    "iata": null,
+    "gps": "LSPA",
+    "local": null
+  },
+  "name": "Amlikon Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.573983,
+    "longitude": 9.047785,
+    "elevation_ft": 1371,
+    "iso_country": "CH",
+    "iso_region": "CH-TG",
+    "municipality": "Amlikon"
+  },
+  "keywords": [
+    "Flugplatz Amlikon"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Amlikon",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29660
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_322100",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OR32",
+    "local": "OR32"
+  },
+  "name": "Hooks Strip Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.592222,
+    "longitude": -118.773055,
+    "elevation_ft": 4133,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Burns"
+  },
+  "keywords": [
+    "US-0403"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322100
+  }
+}

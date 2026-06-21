@@ -1,0 +1,33 @@
+{
+  "key": "unss",
+  "codes": {
+    "icao": "UNSS",
+    "iata": "SWT",
+    "gps": "UNSS",
+    "local": null
+  },
+  "name": "Strezhevoy Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.7094,
+    "longitude": 77.660004,
+    "elevation_ft": 164,
+    "iso_country": "RU",
+    "iso_region": "RU-TOM",
+    "municipality": "Strezhevoy"
+  },
+  "keywords": [
+    "Аэропорт Стрежевой"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Strezhevoy_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32546
+  }
+}

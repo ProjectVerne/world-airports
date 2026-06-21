@@ -1,0 +1,30 @@
+{
+  "key": "_us_22140",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MN34",
+    "local": "MN34"
+  },
+  "name": "St Olaf Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.675201,
+    "longitude": -92.977097,
+    "elevation_ft": 1202,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Austin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22140
+  }
+}

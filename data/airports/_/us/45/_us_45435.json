@@ -1,0 +1,32 @@
+{
+  "key": "_us_45435",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "81LS",
+    "local": "81LS"
+  },
+  "name": "Richardson Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.463538,
+    "longitude": -91.750022,
+    "elevation_ft": 72,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Rayville"
+  },
+  "keywords": [
+    "Air Evac 100 Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45435
+  }
+}

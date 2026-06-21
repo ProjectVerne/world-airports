@@ -1,0 +1,34 @@
+{
+  "key": "llrm",
+  "codes": {
+    "icao": "LLRM",
+    "iata": null,
+    "gps": "LLRM",
+    "local": null
+  },
+  "name": "Ramon Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.7761,
+    "longitude": 34.666698,
+    "elevation_ft": 2126,
+    "iso_country": "IL",
+    "iso_region": "IL-D",
+    "municipality": "Beersheba"
+  },
+  "keywords": [
+    "Kanaf 25",
+    "Matred"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ramon_Airbase",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4425
+  }
+}

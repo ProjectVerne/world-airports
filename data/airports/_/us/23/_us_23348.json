@@ -1,0 +1,30 @@
+{
+  "key": "_us_23348",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NV38",
+    "local": "NV38"
+  },
+  "name": "KLAS-TV Channel 8 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.130658,
+    "longitude": -115.161729,
+    "elevation_ft": 2100,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Las Vegas"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23348
+  }
+}

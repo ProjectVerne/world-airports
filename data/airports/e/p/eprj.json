@@ -1,0 +1,35 @@
+{
+  "key": "eprj",
+  "codes": {
+    "icao": "EPRJ",
+    "iata": null,
+    "gps": "EPRJ",
+    "local": null
+  },
+  "name": "Rzeszów Sports Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.104169,
+    "longitude": 22.047029,
+    "elevation_ft": 655,
+    "iso_country": "PL",
+    "iso_region": "PL-PK",
+    "municipality": "Nowa Wieś"
+  },
+  "keywords": [
+    "OKL Rzeszow",
+    "Aeroklub Rzeszowski",
+    "Politechnika Rzeszowska"
+  ],
+  "wikipedia": "https://pl.wikipedia.org/wiki/Lotnisko_Rzeszów",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30360
+  }
+}

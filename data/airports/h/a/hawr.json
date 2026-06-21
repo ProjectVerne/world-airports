@@ -1,0 +1,30 @@
+{
+  "key": "hawr",
+  "codes": {
+    "icao": "HAWR",
+    "iata": "WRA",
+    "gps": "HAWR",
+    "local": null
+  },
+  "name": "Warder Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.9724,
+    "longitude": 45.3334,
+    "elevation_ft": 1850,
+    "iso_country": "ET",
+    "iso_region": "ET-SO",
+    "municipality": "Warder"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308934
+  }
+}

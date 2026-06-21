@@ -1,0 +1,32 @@
+{
+  "key": "svxg",
+  "codes": {
+    "icao": "SVXG",
+    "iata": null,
+    "gps": "SVXG",
+    "local": "SV3TJ"
+  },
+  "name": "PDVSA Guaraguao Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 10.237042,
+    "longitude": -64.63446,
+    "elevation_ft": 65,
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "Puerto La Cruz"
+  },
+  "keywords": [
+    "VE-0350"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 601525
+  }
+}

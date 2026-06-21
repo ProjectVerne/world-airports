@@ -1,0 +1,30 @@
+{
+  "key": "_us_16400",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AZ12",
+    "local": "AZ12"
+  },
+  "name": "183 Mile Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.108299,
+    "longitude": -113.212997,
+    "elevation_ft": 1705,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Peach Springs"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16400
+  }
+}

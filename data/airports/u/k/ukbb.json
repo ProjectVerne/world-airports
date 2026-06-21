@@ -1,0 +1,35 @@
+{
+  "key": "ukbb",
+  "codes": {
+    "icao": "UKBB",
+    "iata": "KBP",
+    "gps": "UKBB",
+    "local": null
+  },
+  "name": "Boryspil International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.345001,
+    "longitude": 30.894699,
+    "elevation_ft": 427,
+    "iso_country": "UA",
+    "iso_region": "UA-32",
+    "municipality": "Boryspil"
+  },
+  "keywords": [
+    "Borispol",
+    "Міжнародний аеропорт \"Бориспіль\"",
+    "Kyiv"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Boryspil_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6467
+  }
+}

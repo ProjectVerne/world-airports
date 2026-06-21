@@ -1,0 +1,31 @@
+{
+  "key": "_ca_00689",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBK4",
+    "local": "CBK4"
+  },
+  "name": "Vancouver General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.261947,
+    "longitude": -123.124411,
+    "elevation_ft": 235,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Vancouver"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vancouver_General_Hospital",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 689
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01352",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNV4",
+    "local": "CNV4"
+  },
+  "name": "Hawkesbury Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.616699,
+    "longitude": -74.650002,
+    "elevation_ft": 167,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Hawkesbury"
+  },
+  "keywords": [
+    "NV4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hawkesbury_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1352
+  }
+}

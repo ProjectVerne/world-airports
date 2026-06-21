@@ -1,0 +1,30 @@
+{
+  "key": "sdjl",
+  "codes": {
+    "icao": "SDJL",
+    "iata": "JLS",
+    "gps": "SDJL",
+    "local": "SP0113"
+  },
+  "name": "Jales Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.292296,
+    "longitude": -50.545546,
+    "elevation_ft": 1493,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Jales"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 174
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "leib",
+  "codes": {
+    "icao": "LEIB",
+    "iata": "IBZ",
+    "gps": "LEIB",
+    "local": null
+  },
+  "name": "Ibiza Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.872898,
+    "longitude": 1.37312,
+    "elevation_ft": 24,
+    "iso_country": "ES",
+    "iso_region": "ES-IB",
+    "municipality": "Ibiza (Eivissa)"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ibiza_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4013
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ltci",
+  "codes": {
+    "icao": "LTCI",
+    "iata": "VAN",
+    "gps": "LTCI",
+    "local": null
+  },
+  "name": "Van Ferit Melen Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.468201,
+    "longitude": 43.332298,
+    "elevation_ft": 5480,
+    "iso_country": "TR",
+    "iso_region": "TR-65",
+    "municipality": "Van"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ferit_Melen_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4555
+  }
+}

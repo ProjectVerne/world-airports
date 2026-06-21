@@ -1,0 +1,33 @@
+{
+  "key": "_us_20305",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "L66",
+    "local": "L66"
+  },
+  "name": "Pollock Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.477501,
+    "longitude": -92.461098,
+    "elevation_ft": 203,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Pollock"
+  },
+  "keywords": [
+    "LA34",
+    "KL66"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20305
+  }
+}

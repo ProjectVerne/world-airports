@@ -1,0 +1,33 @@
+{
+  "key": "fale",
+  "codes": {
+    "icao": "FALE",
+    "iata": "DUR",
+    "gps": "FALE",
+    "local": null
+  },
+  "name": "King Shaka International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.614444,
+    "longitude": 31.119722,
+    "elevation_ft": 295,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Durban"
+  },
+  "keywords": [
+    "La Mercy Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/King_Shaka_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300795
+  }
+}

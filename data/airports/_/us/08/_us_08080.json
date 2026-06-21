@@ -1,0 +1,30 @@
+{
+  "key": "_us_08080",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "18AL",
+    "local": "18AL"
+  },
+  "name": "Louisville Stagefield Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.8167,
+    "longitude": -85.651802,
+    "elevation_ft": 385,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Fort Rucker/Louisville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8080
+  }
+}

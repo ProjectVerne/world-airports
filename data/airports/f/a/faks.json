@@ -1,0 +1,31 @@
+{
+  "key": "faks",
+  "codes": {
+    "icao": "FAKS",
+    "iata": null,
+    "gps": "FAKS",
+    "local": null
+  },
+  "name": "Kroonstad Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.660601,
+    "longitude": 27.3158,
+    "elevation_ft": 4700,
+    "iso_country": "ZA",
+    "iso_region": "ZA-FS",
+    "municipality": "Kroonstad"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kroonstad_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2797
+  }
+}

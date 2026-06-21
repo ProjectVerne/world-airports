@@ -1,0 +1,30 @@
+{
+  "key": "_us_07625",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0WN8",
+    "local": "0WN8"
+  },
+  "name": "Sheldon Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.251099,
+    "longitude": -116.851997,
+    "elevation_ft": 2129,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Coeur D'Alene"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7625
+  }
+}

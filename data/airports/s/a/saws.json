@@ -1,0 +1,30 @@
+{
+  "key": "saws",
+  "codes": {
+    "icao": "SAWS",
+    "iata": "JSM",
+    "gps": "SAWS",
+    "local": "JSM"
+  },
+  "name": "Jose De San Martin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -44.048599,
+    "longitude": -70.4589,
+    "elevation_ft": 2407,
+    "iso_country": "AR",
+    "iso_region": "AR-U",
+    "municipality": "Chubut"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29997
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "loie",
+  "codes": {
+    "icao": "LOIE",
+    "iata": null,
+    "gps": "LOIE",
+    "local": null
+  },
+  "name": "Reutte Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.473015,
+    "longitude": 10.711659,
+    "elevation_ft": 2822,
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Reutte"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43833
+  }
+}

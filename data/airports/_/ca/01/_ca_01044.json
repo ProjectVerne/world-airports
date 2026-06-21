@@ -1,0 +1,31 @@
+{
+  "key": "_ca_01044",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CIW2",
+    "local": "CIW2"
+  },
+  "name": "Halifax (IWK Health Centre) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.636994,
+    "longitude": -63.58442,
+    "elevation_ft": 223,
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Halifax"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/IWK_Health_Centre",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1044
+  }
+}

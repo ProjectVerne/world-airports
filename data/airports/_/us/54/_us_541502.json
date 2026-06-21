@@ -1,0 +1,32 @@
+{
+  "key": "_us_541502",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Nielsen Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.78758,
+    "longitude": -105.09959,
+    "elevation_ft": 5529,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Wellington"
+  },
+  "keywords": [
+    "US-8958"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 541502
+  }
+}

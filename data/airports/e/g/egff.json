@@ -1,0 +1,37 @@
+{
+  "key": "egff",
+  "codes": {
+    "icao": "EGFF",
+    "iata": "CWL",
+    "gps": "EGFF",
+    "local": null
+  },
+  "name": "Cardiff International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.396702,
+    "longitude": -3.34333,
+    "elevation_ft": 220,
+    "iso_country": "GB",
+    "iso_region": "GB-WLS",
+    "municipality": "Cardiff"
+  },
+  "keywords": [
+    "Caerdydd",
+    "Cardiff International Airport",
+    "Maes Awyr Caerdydd",
+    "Rhoose",
+    "Y Rhws"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cardiff_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2415
+  }
+}

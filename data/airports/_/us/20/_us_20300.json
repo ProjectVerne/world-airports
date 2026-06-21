@@ -1,0 +1,33 @@
+{
+  "key": "_us_20300",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "L45"
+  },
+  "name": "Bakersfield International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.324799,
+    "longitude": -118.996002,
+    "elevation_ft": 378,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Bakersfield"
+  },
+  "keywords": [
+    "KL45"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bakersfield_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20300
+  }
+}

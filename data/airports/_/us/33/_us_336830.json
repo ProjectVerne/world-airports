@@ -1,0 +1,32 @@
+{
+  "key": "_us_336830",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Border Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 32.53728,
+    "longitude": -117.11849,
+    "elevation_ft": 0,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Diego"
+  },
+  "keywords": [
+    "US-1892"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 336830
+  }
+}

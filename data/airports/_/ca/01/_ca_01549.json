@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01549",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSP5",
+    "local": "CSP5"
+  },
+  "name": "St-Mathias Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.500801,
+    "longitude": -73.241699,
+    "elevation_ft": 50,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "St-Mathias"
+  },
+  "keywords": [
+    "SP5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St-Mathias_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1549
+  }
+}

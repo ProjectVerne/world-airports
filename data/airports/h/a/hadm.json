@@ -1,0 +1,34 @@
+{
+  "key": "hadm",
+  "codes": {
+    "icao": "HADM",
+    "iata": "DBM",
+    "gps": "HADM",
+    "local": null
+  },
+  "name": "Debre Markos Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.321501,
+    "longitude": 37.741887,
+    "elevation_ft": 8136,
+    "iso_country": "ET",
+    "iso_region": "ET-AM",
+    "municipality": "Debre Markos"
+  },
+  "keywords": [
+    "Debre Mark'os",
+    "Debre Marqos"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Debre_Marqos_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30882
+  }
+}

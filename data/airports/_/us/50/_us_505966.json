@@ -1,0 +1,30 @@
+{
+  "key": "_us_505966",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "54FA",
+    "local": "54FA"
+  },
+  "name": "Cleveland Clinic Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 26.084148,
+    "longitude": -80.367399,
+    "elevation_ft": 10,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Weston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505966
+  }
+}

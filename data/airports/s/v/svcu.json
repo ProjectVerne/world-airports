@@ -1,0 +1,31 @@
+{
+  "key": "svcu",
+  "codes": {
+    "icao": "SVCU",
+    "iata": "CUM",
+    "gps": "SVCU",
+    "local": null
+  },
+  "name": "Antonio José de Sucre Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.450333,
+    "longitude": -64.13047,
+    "elevation_ft": 14,
+    "iso_country": "VE",
+    "iso_region": "VE-R",
+    "municipality": "Cumaná"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Jos%C3%A9_de_Sucre_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6273
+  }
+}

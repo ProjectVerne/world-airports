@@ -1,0 +1,33 @@
+{
+  "key": "_br_45640",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "SNLE"
+  },
+  "name": "Hospital Geral de Barueri Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.496667,
+    "longitude": -46.872222,
+    "elevation_ft": 2556,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Barueri"
+  },
+  "keywords": [
+    "SNLE",
+    "BR-3208"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45640
+  }
+}

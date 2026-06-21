@@ -1,0 +1,31 @@
+{
+  "key": "opkt",
+  "codes": {
+    "icao": "OPKT",
+    "iata": "OHT",
+    "gps": "OPKT",
+    "local": null
+  },
+  "name": "Kohat Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.57,
+    "longitude": 71.440002,
+    "elevation_ft": 1650,
+    "iso_country": "PK",
+    "iso_region": "PK-KP",
+    "municipality": "Kohat"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kohat_Airbase",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32100
+  }
+}

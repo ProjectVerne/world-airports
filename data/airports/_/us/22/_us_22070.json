@@ -1,0 +1,30 @@
+{
+  "key": "_us_22070",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MI57",
+    "local": "MI57"
+  },
+  "name": "Eagle Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.793098,
+    "longitude": -83.0261,
+    "elevation_ft": 605,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Romeo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22070
+  }
+}

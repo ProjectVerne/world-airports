@@ -1,0 +1,35 @@
+{
+  "key": "cyls",
+  "codes": {
+    "icao": "CYLS",
+    "iata": "YLK",
+    "gps": "CYLS",
+    "local": "CYLS"
+  },
+  "name": "Barrie-Lake Simcoe Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.485056,
+    "longitude": -79.554663,
+    "elevation_ft": 972,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Barrie"
+  },
+  "keywords": [
+    "NB9",
+    "CNB9",
+    "Oro Station"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Barrie-Orillia_(Lake_Simcoe_Regional)_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1293
+  }
+}

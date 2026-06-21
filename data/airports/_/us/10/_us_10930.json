@@ -1,0 +1,30 @@
+{
+  "key": "_us_10930",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "40NJ",
+    "local": "40NJ"
+  },
+  "name": "Osterman Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.486198,
+    "longitude": -74.735703,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Neshanic"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10930
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_br_36206",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SJDR",
+    "local": "SC0065"
+  },
+  "name": "Duas Rodas Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -26.486726,
+    "longitude": -49.06477,
+    "elevation_ft": 79,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Jaraguá do Sul"
+  },
+  "keywords": [
+    "SIQL"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36206
+  }
+}

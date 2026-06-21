@@ -1,0 +1,30 @@
+{
+  "key": "zsdl",
+  "codes": {
+    "icao": "ZSDL",
+    "iata": "AZJ",
+    "gps": null,
+    "local": null
+  },
+  "name": "Zhenjiang Dalu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.23649,
+    "longitude": 119.718683,
+    "elevation_ft": 16,
+    "iso_country": "CN",
+    "iso_region": "CN-32",
+    "municipality": "Zhenjiang"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 349715
+  }
+}

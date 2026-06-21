@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01276",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CMA2",
+    "local": "CMA2"
+  },
+  "name": "Mattawa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.299702,
+    "longitude": -78.747803,
+    "elevation_ft": 600,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Mattawa"
+  },
+  "keywords": [
+    "MA2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mattawa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1276
+  }
+}

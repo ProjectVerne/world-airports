@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01446",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPR4",
+    "local": "CPR4"
+  },
+  "name": "London (University Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.013055,
+    "longitude": -81.274392,
+    "elevation_ft": 795,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "London"
+  },
+  "keywords": [
+    "PR4"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1446
+  }
+}

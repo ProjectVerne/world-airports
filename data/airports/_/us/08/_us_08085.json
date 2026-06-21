@@ -1,0 +1,30 @@
+{
+  "key": "_us_08085",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "18CO",
+    "local": "18CO"
+  },
+  "name": "Rangely District Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.080799,
+    "longitude": -108.804001,
+    "elevation_ft": 5224,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Rangely"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8085
+  }
+}

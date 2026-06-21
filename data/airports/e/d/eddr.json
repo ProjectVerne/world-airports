@@ -1,0 +1,31 @@
+{
+  "key": "eddr",
+  "codes": {
+    "icao": "EDDR",
+    "iata": "SCN",
+    "gps": "EDDR",
+    "local": null
+  },
+  "name": "Saarbrücken Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.214545,
+    "longitude": 7.109735,
+    "elevation_ft": 1058,
+    "iso_country": "DE",
+    "iso_region": "DE-SL",
+    "municipality": "Saarbrücken"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saarbr%C3%BCcken_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2221
+  }
+}

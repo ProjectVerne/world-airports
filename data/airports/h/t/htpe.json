@@ -1,0 +1,36 @@
+{
+  "key": "htpe",
+  "codes": {
+    "icao": "HTPE",
+    "iata": "PMA",
+    "gps": "HTPE",
+    "local": null
+  },
+  "name": "Pemba Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.25726,
+    "longitude": 39.811401,
+    "elevation_ft": 80,
+    "iso_country": "TZ",
+    "iso_region": "TZ-25",
+    "municipality": "Chake Chake"
+  },
+  "keywords": [
+    "Chake Chake",
+    "Karume",
+    "Thabit Kombo Jecha",
+    "Wawi"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pemba_Airport_(Tanzania)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3258
+  }
+}

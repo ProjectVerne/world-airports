@@ -1,0 +1,31 @@
+{
+  "key": "oinr",
+  "codes": {
+    "icao": "OINR",
+    "iata": "RZR",
+    "gps": "OINR",
+    "local": null
+  },
+  "name": "Ramsar Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.90701,
+    "longitude": 50.687316,
+    "elevation_ft": -70,
+    "iso_country": "IR",
+    "iso_region": "IR-02",
+    "municipality": "Ramsar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ramsar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5191
+  }
+}

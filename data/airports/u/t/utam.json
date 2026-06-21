@@ -1,0 +1,31 @@
+{
+  "key": "utam",
+  "codes": {
+    "icao": "UTAM",
+    "iata": "MYP",
+    "gps": "UTAM",
+    "local": null
+  },
+  "name": "Mary International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.62353,
+    "longitude": 61.895668,
+    "elevation_ft": 728,
+    "iso_country": "TM",
+    "iso_region": "TM-M",
+    "municipality": "Mary"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26382
+  }
+}

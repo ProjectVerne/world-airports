@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00859",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CEH6",
+    "local": "CEH6"
+  },
+  "name": "Provost Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.3381,
+    "longitude": -110.278999,
+    "elevation_ft": 2197,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Provost"
+  },
+  "keywords": [
+    "EH6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Provost_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 859
+  }
+}

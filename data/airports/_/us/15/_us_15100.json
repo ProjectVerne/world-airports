@@ -1,0 +1,30 @@
+{
+  "key": "_us_15100",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8NY9",
+    "local": "8NY9"
+  },
+  "name": "Nassau County Police Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.745899,
+    "longitude": -73.491203,
+    "elevation_ft": 132,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Bethpage"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15100
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_11085",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "44MI",
+    "local": "44MI"
+  },
+  "name": "Airbatco Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.774235,
+    "longitude": -84.903217,
+    "elevation_ft": 852,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Mulliken"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11085
+  }
+}

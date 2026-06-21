@@ -1,0 +1,31 @@
+{
+  "key": "edap",
+  "codes": {
+    "icao": "EDAP",
+    "iata": null,
+    "gps": "EDAP",
+    "local": null
+  },
+  "name": "Cottbus-Neuhausen Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.684723,
+    "longitude": 14.423056,
+    "elevation_ft": 279,
+    "iso_country": "DE",
+    "iso_region": "DE-BR",
+    "municipality": "Neuhausen/Spree"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cottbus-Neuhausen_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28659
+  }
+}

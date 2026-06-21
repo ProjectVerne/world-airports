@@ -1,0 +1,33 @@
+{
+  "key": "enhd",
+  "codes": {
+    "icao": "ENHD",
+    "iata": "HAU",
+    "gps": "ENHD",
+    "local": null
+  },
+  "name": "Haugesund Airport, Karmøy",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.345299,
+    "longitude": 5.20836,
+    "elevation_ft": 86,
+    "iso_country": "NO",
+    "iso_region": "NO-11",
+    "municipality": "Karmøy"
+  },
+  "keywords": [
+    "Karmoy"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Haugesund_Airport%2C_Karm%C3%B8y",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2579
+  }
+}

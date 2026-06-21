@@ -1,0 +1,31 @@
+{
+  "key": "ayao",
+  "codes": {
+    "icao": "AYAO",
+    "iata": "AIE",
+    "gps": "AYAO",
+    "local": "AIO"
+  },
+  "name": "Aiome Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.1457,
+    "longitude": 144.7307,
+    "elevation_ft": 350,
+    "iso_country": "PG",
+    "iso_region": "PG-MPM",
+    "municipality": "Aiome"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aiome_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46170
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "sptu",
+  "codes": {
+    "icao": "SPTU",
+    "iata": "PEM",
+    "gps": "SPTU",
+    "local": null
+  },
+  "name": "Padre Aldamiz International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -12.6136,
+    "longitude": -69.2286,
+    "elevation_ft": 659,
+    "iso_country": "PE",
+    "iso_region": "PE-MDD",
+    "municipality": "Puerto Maldonado"
+  },
+  "keywords": [
+    "Puerto Maldonado International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Padre_Aldamiz_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6239
+  }
+}

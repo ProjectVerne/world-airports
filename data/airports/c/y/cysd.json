@@ -1,0 +1,31 @@
+{
+  "key": "cysd",
+  "codes": {
+    "icao": "CYSD",
+    "iata": "YSD",
+    "gps": "CYSD",
+    "local": null
+  },
+  "name": "Canadian Forces Base Suffield Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.276359,
+    "longitude": -111.180189,
+    "elevation_ft": 2525,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Ralston"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/CFB_Suffield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1899
+  }
+}

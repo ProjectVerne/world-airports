@@ -1,0 +1,31 @@
+{
+  "key": "edma",
+  "codes": {
+    "icao": "EDMA",
+    "iata": "AGB",
+    "gps": "EDMA",
+    "local": null
+  },
+  "name": "Augsburg Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.425278,
+    "longitude": 10.931667,
+    "elevation_ft": 1516,
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Augsburg"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Augsburg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2248
+  }
+}

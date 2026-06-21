@@ -1,0 +1,32 @@
+{
+  "key": "_us_331811",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1LA2",
+    "local": "1LA2"
+  },
+  "name": "Air One Helo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.750556,
+    "longitude": -91.1575,
+    "elevation_ft": 143,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Slaughter"
+  },
+  "keywords": [
+    "US-1133"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331811
+  }
+}

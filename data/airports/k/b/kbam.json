@@ -1,0 +1,33 @@
+{
+  "key": "kbam",
+  "codes": {
+    "icao": "KBAM",
+    "iata": "BAM",
+    "gps": "KBAM",
+    "local": "BAM"
+  },
+  "name": "Battle Mountain Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.598999,
+    "longitude": -116.874001,
+    "elevation_ft": 4532,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Battle Mountain"
+  },
+  "keywords": [
+    "Lander County Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Battle_Mountain_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19349
+  }
+}

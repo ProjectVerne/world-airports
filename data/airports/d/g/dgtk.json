@@ -1,0 +1,31 @@
+{
+  "key": "dgtk",
+  "codes": {
+    "icao": "DGTK",
+    "iata": "TKD",
+    "gps": "DGTK",
+    "local": null
+  },
+  "name": "Takoradi Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.89606,
+    "longitude": -1.77476,
+    "elevation_ft": 21,
+    "iso_country": "GH",
+    "iso_region": "GH-WP",
+    "municipality": "Sekondi-Takoradi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Takoradi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2095
+  }
+}

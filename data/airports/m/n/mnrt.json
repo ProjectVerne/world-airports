@@ -1,0 +1,31 @@
+{
+  "key": "mnrt",
+  "codes": {
+    "icao": "MNRT",
+    "iata": "RFS",
+    "gps": "MNRT",
+    "local": null
+  },
+  "name": "Rosita Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.8897,
+    "longitude": -84.408897,
+    "elevation_ft": 193,
+    "iso_country": "NI",
+    "iso_region": "NI-AN",
+    "municipality": "La Rosita"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rosita_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31930
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_23226",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM06",
+    "local": "NM06"
+  },
+  "name": "Saint Vincent Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.660103,
+    "longitude": -105.946555,
+    "elevation_ft": 7012,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Santa Fe"
+  },
+  "keywords": [
+    "Christus Saint Vincent Regional Medical Center"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23226
+  }
+}

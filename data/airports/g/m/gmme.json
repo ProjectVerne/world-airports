@@ -1,0 +1,31 @@
+{
+  "key": "gmme",
+  "codes": {
+    "icao": "GMME",
+    "iata": "RBA",
+    "gps": "GMME",
+    "local": null
+  },
+  "name": "Rabat-Salé Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.051498,
+    "longitude": -6.75152,
+    "elevation_ft": 276,
+    "iso_country": "MA",
+    "iso_region": "MA-04",
+    "municipality": "Rabat"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sale_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3109
+  }
+}

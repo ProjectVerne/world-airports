@@ -1,0 +1,30 @@
+{
+  "key": "_us_09803",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2TS7",
+    "local": "2TS7"
+  },
+  "name": "Jamak Fabrication Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.7812,
+    "longitude": -97.816399,
+    "elevation_ft": 1050,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Weatherford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9803
+  }
+}

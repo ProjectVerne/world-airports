@@ -1,0 +1,30 @@
+{
+  "key": "_us_23004",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH50",
+    "local": "NH50"
+  },
+  "name": "Gordon Brown Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.841801,
+    "longitude": -71.1595,
+    "elevation_ft": 330,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Atkinson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23004
+  }
+}

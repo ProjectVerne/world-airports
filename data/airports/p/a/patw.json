@@ -1,0 +1,32 @@
+{
+  "key": "patw",
+  "codes": {
+    "icao": "PATW",
+    "iata": null,
+    "gps": "PATW",
+    "local": "TTW"
+  },
+  "name": "Cantwell Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.391201,
+    "longitude": -148.955995,
+    "elevation_ft": 2190,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Cantwell"
+  },
+  "keywords": [
+    "Z68"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25117
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kgbd",
+  "codes": {
+    "icao": "KGBD",
+    "iata": "GBD",
+    "gps": "KGBD",
+    "local": "GBD"
+  },
+  "name": "Great Bend Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.344299,
+    "longitude": -98.8592,
+    "elevation_ft": 1887,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Great Bend"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Great_Bend_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19925
+  }
+}

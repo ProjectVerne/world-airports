@@ -1,0 +1,31 @@
+{
+  "key": "eksn",
+  "codes": {
+    "icao": "EKSN",
+    "iata": "CNL",
+    "gps": "EKSN",
+    "local": null
+  },
+  "name": "Sindal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.503502,
+    "longitude": 10.2294,
+    "elevation_ft": 92,
+    "iso_country": "DK",
+    "iso_region": "DK-81",
+    "municipality": "Sindal"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sindal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2554
+  }
+}

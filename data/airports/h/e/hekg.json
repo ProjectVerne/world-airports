@@ -1,0 +1,31 @@
+{
+  "key": "hekg",
+  "codes": {
+    "icao": "HEKG",
+    "iata": "UVL",
+    "gps": "HEKG",
+    "local": null
+  },
+  "name": "El Kharja Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.471483,
+    "longitude": 30.588491,
+    "elevation_ft": 194,
+    "iso_country": "EG",
+    "iso_region": "EG-WAD",
+    "municipality": "Kharja Oases"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Kharga_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3190
+  }
+}

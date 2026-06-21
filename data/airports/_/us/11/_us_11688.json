@@ -1,0 +1,30 @@
+{
+  "key": "_us_11688",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4PN2",
+    "local": "4PN2"
+  },
+  "name": "Mcs-Pad Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.294399,
+    "longitude": -81.565598,
+    "elevation_ft": 600,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Charleston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11688
+  }
+}

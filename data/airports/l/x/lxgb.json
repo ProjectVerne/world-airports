@@ -1,0 +1,31 @@
+{
+  "key": "lxgb",
+  "codes": {
+    "icao": "LXGB",
+    "iata": "GIB",
+    "gps": "LXGB",
+    "local": null
+  },
+  "name": "Gibraltar Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.151679,
+    "longitude": -5.34978,
+    "elevation_ft": 12,
+    "iso_country": "GI",
+    "iso_region": "GI-U-A",
+    "municipality": "Gibraltar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gibraltar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4574
+  }
+}

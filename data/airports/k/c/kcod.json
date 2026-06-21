@@ -1,0 +1,31 @@
+{
+  "key": "kcod",
+  "codes": {
+    "icao": "KCOD",
+    "iata": "COD",
+    "gps": "KCOD",
+    "local": "COD"
+  },
+  "name": "Yellowstone Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.520199,
+    "longitude": -109.024002,
+    "elevation_ft": 5102,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Cody"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yellowstone_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19530
+  }
+}

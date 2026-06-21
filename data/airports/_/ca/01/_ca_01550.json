@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01550",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSP6",
+    "local": "CSP6"
+  },
+  "name": "Montreal / Aéroparc Île Perrot",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.376099,
+    "longitude": -73.907204,
+    "elevation_ft": 100,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [
+    "SP6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Montr%C3%A9al/A%C3%A9roparc_%C3%8Ele_Perrot",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1550
+  }
+}

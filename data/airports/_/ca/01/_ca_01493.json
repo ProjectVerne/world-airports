@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01493",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CRM2",
+    "local": "CRM2"
+  },
+  "name": "Riding Mountain Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.573601,
+    "longitude": -99.361397,
+    "elevation_ft": 1016,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Riding Mountain"
+  },
+  "keywords": [
+    "RM2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Riding_Mountain_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1493
+  }
+}

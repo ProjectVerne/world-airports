@@ -1,0 +1,30 @@
+{
+  "key": "_us_06871",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "06GA",
+    "local": "06GA"
+  },
+  "name": "Smith Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.753399,
+    "longitude": -84.162102,
+    "elevation_ft": 1065,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Redan"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6871
+  }
+}

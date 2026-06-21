@@ -1,0 +1,31 @@
+{
+  "key": "fppr",
+  "codes": {
+    "icao": "FPPR",
+    "iata": "PCP",
+    "gps": "FPPR",
+    "local": null
+  },
+  "name": "Principe Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.661155,
+    "longitude": 7.411081,
+    "elevation_ft": 591,
+    "iso_country": "ST",
+    "iso_region": "ST-P",
+    "municipality": "São Tomé & Príncipe"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pr%C3%ADncipe_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2968
+  }
+}

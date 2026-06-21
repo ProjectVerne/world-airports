@@ -1,0 +1,30 @@
+{
+  "key": "_us_10001",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32IL",
+    "local": "32IL"
+  },
+  "name": "Village of Tamms Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.238899,
+    "longitude": -89.2658,
+    "elevation_ft": 340,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Tamms"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10001
+  }
+}

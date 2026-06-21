@@ -1,0 +1,33 @@
+{
+  "key": "hsfs",
+  "codes": {
+    "icao": "HSFS",
+    "iata": "ELF",
+    "gps": "HSFS",
+    "local": null
+  },
+  "name": "El Fasher Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.6149,
+    "longitude": 25.3246,
+    "elevation_ft": 2393,
+    "iso_country": "SD",
+    "iso_region": "SD-02",
+    "municipality": "El Fasher"
+  },
+  "keywords": [
+    "El Fashir Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Fasher_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3241
+  }
+}

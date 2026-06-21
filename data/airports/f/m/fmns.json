@@ -1,0 +1,31 @@
+{
+  "key": "fmns",
+  "codes": {
+    "icao": "FMNS",
+    "iata": "SVB",
+    "gps": "FMNS",
+    "local": null
+  },
+  "name": "Sambava Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -14.2786,
+    "longitude": 50.174702,
+    "elevation_ft": 20,
+    "iso_country": "MG",
+    "iso_region": "MG-D",
+    "municipality": "Sambava"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sambava_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2923
+  }
+}

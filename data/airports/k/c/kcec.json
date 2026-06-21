@@ -1,0 +1,33 @@
+{
+  "key": "kcec",
+  "codes": {
+    "icao": "KCEC",
+    "iata": "CEC",
+    "gps": "KCEC",
+    "local": "CEC"
+  },
+  "name": "Jack Mc Namara Field Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.778929,
+    "longitude": -124.236403,
+    "elevation_ft": 61,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Crescent City"
+  },
+  "keywords": [
+    "Jack McNamara Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Del_Norte_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3443
+  }
+}

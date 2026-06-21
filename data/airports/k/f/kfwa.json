@@ -1,0 +1,33 @@
+{
+  "key": "kfwa",
+  "codes": {
+    "icao": "KFWA",
+    "iata": "FWA",
+    "gps": "KFWA",
+    "local": "FWA"
+  },
+  "name": "Fort Wayne International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.978896,
+    "longitude": -85.194465,
+    "elevation_ft": 814,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Fort Wayne"
+  },
+  "keywords": [
+    "Baer Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Wayne_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3547
+  }
+}

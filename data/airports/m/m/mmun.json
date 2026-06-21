@@ -1,0 +1,31 @@
+{
+  "key": "mmun",
+  "codes": {
+    "icao": "MMUN",
+    "iata": "CUN",
+    "gps": "MMUN",
+    "local": null
+  },
+  "name": "Cancún International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.040817,
+    "longitude": -86.87347,
+    "elevation_ft": 22,
+    "iso_country": "MX",
+    "iso_region": "MX-ROO",
+    "municipality": "Cancún"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cancun_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4762
+  }
+}

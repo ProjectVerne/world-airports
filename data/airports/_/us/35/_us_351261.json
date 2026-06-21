@@ -1,0 +1,32 @@
+{
+  "key": "_us_351261",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IA14",
+    "local": "IA14"
+  },
+  "name": "Petter Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.233881,
+    "longitude": -94.356047,
+    "elevation_ft": 1332,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Orient"
+  },
+  "keywords": [
+    "US-6342"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 351261
+  }
+}

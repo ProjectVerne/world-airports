@@ -1,0 +1,31 @@
+{
+  "key": "ssck",
+  "codes": {
+    "icao": "SSCK",
+    "iata": "CCI",
+    "gps": "SSCK",
+    "local": "SC0010"
+  },
+  "name": "Olavo Cecco Rigon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.180511,
+    "longitude": -52.051755,
+    "elevation_ft": 2461,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Concórdia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Conc%C3%B3rdia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 441
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_18205",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS45",
+    "local": "IS45"
+  },
+  "name": "Mast Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.9767,
+    "longitude": -91.334,
+    "elevation_ft": 738,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Quincy"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18205
+  }
+}

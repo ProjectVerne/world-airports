@@ -1,0 +1,31 @@
+{
+  "key": "vgcm",
+  "codes": {
+    "icao": "VGCM",
+    "iata": "CLA",
+    "gps": "VGCM",
+    "local": null
+  },
+  "name": "Comilla Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.440133,
+    "longitude": 91.188685,
+    "elevation_ft": 25,
+    "iso_country": "BD",
+    "iso_region": "BD-2",
+    "municipality": "Comilla"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Comilla_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30832
+  }
+}

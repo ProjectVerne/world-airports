@@ -1,0 +1,33 @@
+{
+  "key": "eecl",
+  "codes": {
+    "icao": "EECL",
+    "iata": "CHE",
+    "gps": "EECL",
+    "local": null
+  },
+  "name": "Tallinn Linnahall Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 59.448015,
+    "longitude": 24.753313,
+    "elevation_ft": 23,
+    "iso_country": "EE",
+    "iso_region": "EE-37",
+    "municipality": "Tallinn"
+  },
+  "keywords": [
+    "Tallinn City Hall"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tallinn_Linnahall_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43020
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_506000",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WY02",
+    "local": "WY02"
+  },
+  "name": "Morrison Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.073333,
+    "longitude": -104.410833,
+    "elevation_ft": 5570,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Carpenter,"
+  },
+  "keywords": [
+    "US-7492"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 506000
+  }
+}

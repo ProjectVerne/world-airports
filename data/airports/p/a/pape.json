@@ -1,0 +1,34 @@
+{
+  "key": "pape",
+  "codes": {
+    "icao": "PAPE",
+    "iata": "KPV",
+    "gps": "PAPE",
+    "local": "PEV"
+  },
+  "name": "Perryville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.9065,
+    "longitude": -159.16091,
+    "elevation_ft": 29,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Perryville"
+  },
+  "keywords": [
+    "AK05",
+    "AK5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Perryville_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24081
+  }
+}

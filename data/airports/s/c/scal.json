@@ -1,0 +1,30 @@
+{
+  "key": "scal",
+  "codes": {
+    "icao": "SCAL",
+    "iata": null,
+    "gps": "SCAL",
+    "local": null
+  },
+  "name": "Valchac Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -47.115148,
+    "longitude": -72.478728,
+    "elevation_ft": 1116,
+    "iso_country": "CL",
+    "iso_region": "CL-AI",
+    "municipality": "Cochrane"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45054
+  }
+}

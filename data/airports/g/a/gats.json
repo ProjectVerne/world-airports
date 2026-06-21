@@ -1,0 +1,31 @@
+{
+  "key": "gats",
+  "codes": {
+    "icao": "GATS",
+    "iata": null,
+    "gps": "GATS",
+    "local": null
+  },
+  "name": "Tessalit Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.243,
+    "longitude": 0.977308,
+    "elevation_ft": 1621,
+    "iso_country": "ML",
+    "iso_region": "ML-7",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tessalit_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3072
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ksvc",
+  "codes": {
+    "icao": "KSVC",
+    "iata": "SVC",
+    "gps": "KSVC",
+    "local": "SVC"
+  },
+  "name": "Grant County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.636701,
+    "longitude": -108.154736,
+    "elevation_ft": 5446,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Silver City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Grant_County_Airport_(New_Mexico)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21121
+  }
+}

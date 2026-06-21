@@ -1,0 +1,30 @@
+{
+  "key": "_us_23042",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH92",
+    "local": "NH92"
+  },
+  "name": "Littleton Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.317402,
+    "longitude": -71.8265,
+    "elevation_ft": 1155,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Littleton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23042
+  }
+}

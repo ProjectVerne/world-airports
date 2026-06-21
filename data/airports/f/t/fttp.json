@@ -1,0 +1,31 @@
+{
+  "key": "fttp",
+  "codes": {
+    "icao": "FTTP",
+    "iata": "PLF",
+    "gps": "FTTP",
+    "local": null
+  },
+  "name": "Pala Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.37806,
+    "longitude": 14.925,
+    "elevation_ft": 1532,
+    "iso_country": "TD",
+    "iso_region": "TD-MO",
+    "municipality": "Pala"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pala_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32163
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_24284",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS48",
+    "local": "PS48"
+  },
+  "name": "Larksville EMS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.2645,
+    "longitude": -75.924897,
+    "elevation_ft": 660,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Larksville Borough"
+  },
+  "keywords": [
+    "Edwardsville Borough"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24284
+  }
+}

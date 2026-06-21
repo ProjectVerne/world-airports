@@ -1,0 +1,35 @@
+{
+  "key": "eglf",
+  "codes": {
+    "icao": "EGLF",
+    "iata": "FAB",
+    "gps": "EGLF",
+    "local": null
+  },
+  "name": "Farnborough Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.275799,
+    "longitude": -0.776333,
+    "elevation_ft": 238,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Farnborough, Hampshire"
+  },
+  "keywords": [
+    "TAG London Farnborough Airport",
+    "RAE Farnborough",
+    "EGUF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Farnborough_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2431
+  }
+}

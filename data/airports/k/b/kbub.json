@@ -1,0 +1,30 @@
+{
+  "key": "kbub",
+  "codes": {
+    "icao": "KBUB",
+    "iata": "BUB",
+    "gps": "KBUB",
+    "local": "BUB"
+  },
+  "name": "Cram Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.776699,
+    "longitude": -99.149696,
+    "elevation_ft": 2182,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Burwell"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19413
+  }
+}

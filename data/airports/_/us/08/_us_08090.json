@@ -1,0 +1,30 @@
+{
+  "key": "_us_08090",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "18ID",
+    "local": "18ID"
+  },
+  "name": "Elmore Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.138901,
+    "longitude": -115.694,
+    "elevation_ft": 3156,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Mountain Home"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8090
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "fmsk",
+  "codes": {
+    "icao": "FMSK",
+    "iata": "WVK",
+    "gps": "FMSK",
+    "local": null
+  },
+  "name": "Manakara Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.119699,
+    "longitude": 48.021702,
+    "elevation_ft": 33,
+    "iso_country": "MG",
+    "iso_region": "MG-F",
+    "municipality": "Manakara"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Manakara_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2930
+  }
+}

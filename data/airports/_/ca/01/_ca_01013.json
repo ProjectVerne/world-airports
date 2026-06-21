@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01013",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFW8",
+    "local": "CFW8"
+  },
+  "name": "Grand Falls-Windsor Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.924796,
+    "longitude": -55.647293,
+    "elevation_ft": 157,
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "Grand Falls"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1013
+  }
+}

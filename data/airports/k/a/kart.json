@@ -1,0 +1,31 @@
+{
+  "key": "kart",
+  "codes": {
+    "icao": "KART",
+    "iata": "ART",
+    "gps": "KART",
+    "local": "ART"
+  },
+  "name": "Watertown International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.991901,
+    "longitude": -76.021698,
+    "elevation_ft": 325,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Watertown"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Watertown_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3383
+  }
+}

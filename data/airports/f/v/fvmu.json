@@ -1,0 +1,31 @@
+{
+  "key": "fvmu",
+  "codes": {
+    "icao": "FVMU",
+    "iata": "UTA",
+    "gps": "FVMU",
+    "local": null
+  },
+  "name": "Mutare Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -18.997499,
+    "longitude": 32.627201,
+    "elevation_ft": 3410,
+    "iso_country": "ZW",
+    "iso_region": "ZW-MA",
+    "municipality": "Mutare"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mutare_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3009
+  }
+}

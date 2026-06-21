@@ -1,0 +1,34 @@
+{
+  "key": "etnd",
+  "codes": {
+    "icao": "ETND",
+    "iata": null,
+    "gps": "ETND",
+    "local": null
+  },
+  "name": "Diepholz Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.585556,
+    "longitude": 8.342222,
+    "elevation_ft": 128,
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Diepholz"
+  },
+  "keywords": [
+    "Diepholz",
+    "Dümmerland"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Diepholz_Air_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2735
+  }
+}

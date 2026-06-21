@@ -1,0 +1,31 @@
+{
+  "key": "pave",
+  "codes": {
+    "icao": "PAVE",
+    "iata": "VEE",
+    "gps": "PAVE",
+    "local": "VEE"
+  },
+  "name": "Venetie Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 67.008698,
+    "longitude": -146.365997,
+    "elevation_ft": 574,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Venetie"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Venetie_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25434
+  }
+}

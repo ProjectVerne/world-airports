@@ -1,0 +1,31 @@
+{
+  "key": "svgu",
+  "codes": {
+    "icao": "SVGU",
+    "iata": "GUQ",
+    "gps": "SVGU",
+    "local": null
+  },
+  "name": "Guanare Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.026944,
+    "longitude": -69.75515,
+    "elevation_ft": 606,
+    "iso_country": "VE",
+    "iso_region": "VE-P",
+    "municipality": "Guanare"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Guanare_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6287
+  }
+}

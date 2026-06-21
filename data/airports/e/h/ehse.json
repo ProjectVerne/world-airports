@@ -1,0 +1,33 @@
+{
+  "key": "ehse",
+  "codes": {
+    "icao": "EHSE",
+    "iata": null,
+    "gps": "EHSE",
+    "local": null
+  },
+  "name": "Breda International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.554901,
+    "longitude": 4.553003,
+    "elevation_ft": 30,
+    "iso_country": "NL",
+    "iso_region": "NL-NB",
+    "municipality": "Hoeven"
+  },
+  "keywords": [
+    "Seppe"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Breda_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28124
+  }
+}

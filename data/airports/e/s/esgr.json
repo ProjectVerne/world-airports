@@ -1,0 +1,31 @@
+{
+  "key": "esgr",
+  "codes": {
+    "icao": "ESGR",
+    "iata": "KVB",
+    "gps": "ESGR",
+    "local": null
+  },
+  "name": "Skövde Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.456402,
+    "longitude": 13.9727,
+    "elevation_ft": 324,
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Skövde"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sk%C3%B6vde_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2653
+  }
+}

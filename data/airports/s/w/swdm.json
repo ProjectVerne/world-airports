@@ -1,0 +1,30 @@
+{
+  "key": "swdm",
+  "codes": {
+    "icao": "SWDM",
+    "iata": "DMT",
+    "gps": "SWDM",
+    "local": "MT0015"
+  },
+  "name": "Diamantino Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -14.3769,
+    "longitude": -56.400398,
+    "elevation_ft": 1539,
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Diamantino"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 528
+  }
+}

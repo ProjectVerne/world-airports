@@ -1,0 +1,33 @@
+{
+  "key": "egjb",
+  "codes": {
+    "icao": "EGJB",
+    "iata": "GCI",
+    "gps": "EGJB",
+    "local": null
+  },
+  "name": "Guernsey Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.435001,
+    "longitude": -2.60197,
+    "elevation_ft": 336,
+    "iso_country": "GG",
+    "iso_region": "GG-G",
+    "municipality": "Saint Peter Port"
+  },
+  "keywords": [
+    "Channel Islands"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Guernsey_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2425
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_23009",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH56",
+    "local": "NH56"
+  },
+  "name": "Wentworth-Douglass Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.212898,
+    "longitude": -70.873398,
+    "elevation_ft": 149,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Dover"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23009
+  }
+}

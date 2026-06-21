@@ -1,0 +1,32 @@
+{
+  "key": "_au_309833",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "AMCO"
+  },
+  "name": "Amity Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -27.4031,
+    "longitude": 153.44,
+    "elevation_ft": 19,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Amity"
+  },
+  "keywords": [
+    "AU-0068"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 309833
+  }
+}

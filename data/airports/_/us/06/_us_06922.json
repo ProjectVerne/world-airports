@@ -1,0 +1,33 @@
+{
+  "key": "_us_06922",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "TNT Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.4529,
+    "longitude": -72.249603,
+    "elevation_ft": 430,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Salem"
+  },
+  "keywords": [
+    "07CT",
+    "US-9416"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6922
+  }
+}

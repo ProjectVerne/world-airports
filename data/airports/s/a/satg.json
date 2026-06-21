@@ -1,0 +1,31 @@
+{
+  "key": "satg",
+  "codes": {
+    "icao": "SATG",
+    "iata": "OYA",
+    "gps": "SATG",
+    "local": "GOY"
+  },
+  "name": "Goya Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.1058,
+    "longitude": -59.2189,
+    "elevation_ft": 128,
+    "iso_country": "AR",
+    "iso_region": "AR-W",
+    "municipality": "Goya"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Goya_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5817
+  }
+}

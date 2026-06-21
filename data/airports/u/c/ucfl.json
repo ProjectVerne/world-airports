@@ -1,0 +1,38 @@
+{
+  "key": "ucfl",
+  "codes": {
+    "icao": "UCFL",
+    "iata": "IKU",
+    "gps": "UCFL",
+    "local": "IKU"
+  },
+  "name": "Issyk-Kul International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.585584,
+    "longitude": 76.701181,
+    "elevation_ft": 5425,
+    "iso_country": "KG",
+    "iso_region": "KG-Y",
+    "municipality": "Tamchy"
+  },
+  "keywords": [
+    "UAFL",
+    "Issyk-Kul Airport",
+    "Chok-Tal Airport",
+    "Аэропорт Тамчы",
+    "Аэропорт Иссык-Куль",
+    "Аэропорт Чок-Тал"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tamchy_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6425
+  }
+}

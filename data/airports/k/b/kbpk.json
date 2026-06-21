@@ -1,0 +1,33 @@
+{
+  "key": "kbpk",
+  "codes": {
+    "icao": "KBPK",
+    "iata": "WMH",
+    "gps": "KBPK",
+    "local": "BPK"
+  },
+  "name": "Ozark Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.3689,
+    "longitude": -92.470497,
+    "elevation_ft": 928,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Mountain Home"
+  },
+  "keywords": [
+    "Baxter County Regional Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ozark_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19402
+  }
+}

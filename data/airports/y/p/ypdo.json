@@ -1,0 +1,30 @@
+{
+  "key": "ypdo",
+  "codes": {
+    "icao": "YPDO",
+    "iata": "PRD",
+    "gps": "YPDO",
+    "local": null
+  },
+  "name": "Pardoo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.119428,
+    "longitude": 119.571945,
+    "elevation_ft": 36,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Pardoo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32173
+  }
+}

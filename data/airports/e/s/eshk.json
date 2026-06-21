@@ -1,0 +1,32 @@
+{
+  "key": "eshk",
+  "codes": {
+    "icao": "ESHK",
+    "iata": null,
+    "gps": "ESHK",
+    "local": null
+  },
+  "name": "Karolinska University Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 59.351101,
+    "longitude": 18.035163,
+    "elevation_ft": 0,
+    "iso_country": "SE",
+    "iso_region": "SE-AB",
+    "municipality": "Solna"
+  },
+  "keywords": [
+    "SE-0019"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 319198
+  }
+}

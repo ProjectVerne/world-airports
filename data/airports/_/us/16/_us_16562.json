@@ -1,0 +1,30 @@
+{
+  "key": "_us_16562",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CA31",
+    "local": "CA31"
+  },
+  "name": "Sanger Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.732201,
+    "longitude": -119.555,
+    "elevation_ft": 374,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Sanger"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16562
+  }
+}

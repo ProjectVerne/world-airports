@@ -1,0 +1,31 @@
+{
+  "key": "ysmi",
+  "codes": {
+    "icao": "YSMI",
+    "iata": "SIO",
+    "gps": "YSMI",
+    "local": null
+  },
+  "name": "Smithton Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -40.834999,
+    "longitude": 145.084,
+    "elevation_ft": 31,
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Smithton_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27139
+  }
+}

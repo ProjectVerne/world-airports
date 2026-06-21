@@ -1,0 +1,30 @@
+{
+  "key": "_us_15665",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "9CA5",
+    "local": "9CA5"
+  },
+  "name": "California Mart Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.040298,
+    "longitude": -118.255997,
+    "elevation_ft": 434,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Los Angeles"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15665
+  }
+}

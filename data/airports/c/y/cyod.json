@@ -1,0 +1,31 @@
+{
+  "key": "cyod",
+  "codes": {
+    "icao": "CYOD",
+    "iata": "YOD",
+    "gps": "CYOD",
+    "local": null
+  },
+  "name": "CFB Cold Lake",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.404999,
+    "longitude": -110.278999,
+    "elevation_ft": 1775,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Cold Lake"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/CFB_Cold_Lake",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1834
+  }
+}

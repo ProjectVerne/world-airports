@@ -1,0 +1,30 @@
+{
+  "key": "_us_07465",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0OR2",
+    "local": "0OR2"
+  },
+  "name": "Hendershots Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.133202,
+    "longitude": -123.450996,
+    "elevation_ft": 1200,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Merlin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7465
+  }
+}

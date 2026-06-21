@@ -1,0 +1,32 @@
+{
+  "key": "shto",
+  "codes": {
+    "icao": "SHTO",
+    "iata": null,
+    "gps": "SHTO",
+    "local": null
+  },
+  "name": "Alto Hospicio Hospital Helistop.",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -20.295985,
+    "longitude": -70.097637,
+    "elevation_ft": 1726,
+    "iso_country": "CL",
+    "iso_region": "CL-TA",
+    "municipality": "Alto Hospicio"
+  },
+  "keywords": [
+    "CL-0038"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605436
+  }
+}

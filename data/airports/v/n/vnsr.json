@@ -1,0 +1,31 @@
+{
+  "key": "vnsr",
+  "codes": {
+    "icao": "VNSR",
+    "iata": "FEB",
+    "gps": "VNSR",
+    "local": null
+  },
+  "name": "Sanfebagar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.236629,
+    "longitude": 81.215317,
+    "elevation_ft": 2280,
+    "iso_country": "NP",
+    "iso_region": "NP-P7",
+    "municipality": "Sanfebagar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sanfebagar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31110
+  }
+}

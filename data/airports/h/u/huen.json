@@ -1,0 +1,31 @@
+{
+  "key": "huen",
+  "codes": {
+    "icao": "HUEN",
+    "iata": "EBB",
+    "gps": "HUEN",
+    "local": null
+  },
+  "name": "Entebbe International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 0.042386,
+    "longitude": 32.443501,
+    "elevation_ft": 3782,
+    "iso_country": "UG",
+    "iso_region": "UG-C",
+    "municipality": "Entebbe"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Entebbe_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3263
+  }
+}

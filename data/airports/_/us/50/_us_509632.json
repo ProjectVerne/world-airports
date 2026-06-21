@@ -1,0 +1,32 @@
+{
+  "key": "_us_509632",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4PN9",
+    "local": "4PN9"
+  },
+  "name": "Meyersdale Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.809722,
+    "longitude": -79.024167,
+    "elevation_ft": 1955,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Meyersdale"
+  },
+  "keywords": [
+    "US-7838"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509632
+  }
+}

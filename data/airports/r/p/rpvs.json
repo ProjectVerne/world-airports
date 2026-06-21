@@ -1,0 +1,33 @@
+{
+  "key": "rpvs",
+  "codes": {
+    "icao": "RPVS",
+    "iata": "EUQ",
+    "gps": "RPVS",
+    "local": null
+  },
+  "name": "Evelio Javier Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.766644,
+    "longitude": 121.932506,
+    "elevation_ft": 23,
+    "iso_country": "PH",
+    "iso_region": "PH-ANT",
+    "municipality": "San Jose"
+  },
+  "keywords": [
+    "Antique Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Evelio_Javier_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5746
+  }
+}

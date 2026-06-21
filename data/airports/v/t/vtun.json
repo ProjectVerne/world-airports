@@ -1,0 +1,33 @@
+{
+  "key": "vtun",
+  "codes": {
+    "icao": "VTUN",
+    "iata": null,
+    "gps": "VTUN",
+    "local": null
+  },
+  "name": "Khorat Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 14.934713,
+    "longitude": 102.078945,
+    "elevation_ft": 729,
+    "iso_country": "TH",
+    "iso_region": "TH-30",
+    "municipality": "Nakhon Ratchasima"
+  },
+  "keywords": [
+    "Korat Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Korat_Royal_Thai_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26683
+  }
+}

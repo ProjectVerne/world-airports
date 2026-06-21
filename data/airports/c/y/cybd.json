@@ -1,0 +1,33 @@
+{
+  "key": "cybd",
+  "codes": {
+    "icao": "CYBD",
+    "iata": "QBC",
+    "gps": "CYBD",
+    "local": null
+  },
+  "name": "Bella Coola Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.387501,
+    "longitude": -126.596001,
+    "elevation_ft": 117,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Bella Coola"
+  },
+  "keywords": [
+    "YBD"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bella_Coola_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1670
+  }
+}

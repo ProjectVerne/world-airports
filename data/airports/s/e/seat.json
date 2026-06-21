@@ -1,0 +1,33 @@
+{
+  "key": "seat",
+  "codes": {
+    "icao": "SEAT",
+    "iata": null,
+    "gps": "SEAT",
+    "local": null
+  },
+  "name": "Achuar Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.023662,
+    "longitude": -77.468825,
+    "elevation_ft": 1450,
+    "iso_country": "EC",
+    "iso_region": "EC-Y",
+    "municipality": "Achuar"
+  },
+  "keywords": [
+    "Cotosaz",
+    "EC-0026"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 324028
+  }
+}

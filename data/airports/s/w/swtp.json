@@ -1,0 +1,31 @@
+{
+  "key": "swtp",
+  "codes": {
+    "icao": "SWTP",
+    "iata": "IRZ",
+    "gps": "SWTP",
+    "local": "AM0022"
+  },
+  "name": "Tapuruquara Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.378604,
+    "longitude": -64.992558,
+    "elevation_ft": 141,
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Santa Isabel do Rio Negro"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tapuruquara_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 38091
+  }
+}

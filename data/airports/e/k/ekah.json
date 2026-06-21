@@ -1,0 +1,33 @@
+{
+  "key": "ekah",
+  "codes": {
+    "icao": "EKAH",
+    "iata": "AAR",
+    "gps": "EKAH",
+    "local": null
+  },
+  "name": "Aarhus Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.303331,
+    "longitude": 10.618286,
+    "elevation_ft": 82,
+    "iso_country": "DK",
+    "iso_region": "DK-82",
+    "municipality": "Aarhus"
+  },
+  "keywords": [
+    "Tirstrup"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aarhus_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2540
+  }
+}

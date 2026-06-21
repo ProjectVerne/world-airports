@@ -1,0 +1,32 @@
+{
+  "key": "_us_509596",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "I01",
+    "local": "I01"
+  },
+  "name": "Dallas Lake Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 41.550158,
+    "longitude": -85.424183,
+    "elevation_ft": 900,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "LaGrange"
+  },
+  "keywords": [
+    "US-7833"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509596
+  }
+}

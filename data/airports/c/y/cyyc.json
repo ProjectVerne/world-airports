@@ -1,0 +1,33 @@
+{
+  "key": "cyyc",
+  "codes": {
+    "icao": "CYYC",
+    "iata": "YYC",
+    "gps": "CYYC",
+    "local": null
+  },
+  "name": "Calgary International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.118822,
+    "longitude": -114.009933,
+    "elevation_ft": 3557,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Calgary"
+  },
+  "keywords": [
+    "McCall Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Calgary_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1973
+  }
+}

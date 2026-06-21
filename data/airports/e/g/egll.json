@@ -1,0 +1,34 @@
+{
+  "key": "egll",
+  "codes": {
+    "icao": "EGLL",
+    "iata": "LHR",
+    "gps": "EGLL",
+    "local": null
+  },
+  "name": "London Heathrow Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.470748,
+    "longitude": -0.459909,
+    "elevation_ft": 83,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "London"
+  },
+  "keywords": [
+    "LON",
+    "Londres"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Heathrow_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2434
+  }
+}

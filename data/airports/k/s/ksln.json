@@ -1,0 +1,31 @@
+{
+  "key": "ksln",
+  "codes": {
+    "icao": "KSLN",
+    "iata": "SLN",
+    "gps": "KSLN",
+    "local": "SLN"
+  },
+  "name": "Salina Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.791,
+    "longitude": -97.652199,
+    "elevation_ft": 1288,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Salina"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Salina_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3891
+  }
+}

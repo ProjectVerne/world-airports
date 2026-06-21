@@ -1,0 +1,31 @@
+{
+  "key": "enar",
+  "codes": {
+    "icao": "ENAR",
+    "iata": null,
+    "gps": "ENAR",
+    "local": null
+  },
+  "name": "Arendal Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 58.467493,
+    "longitude": 8.754001,
+    "elevation_ft": 126,
+    "iso_country": "NO",
+    "iso_region": "NO-42",
+    "municipality": "Arendal"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Arendal_Heliport,_Hospital",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 319092
+  }
+}

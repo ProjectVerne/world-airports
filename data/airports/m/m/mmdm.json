@@ -1,0 +1,34 @@
+{
+  "key": "mmdm",
+  "codes": {
+    "icao": "MMDM",
+    "iata": "MMC",
+    "gps": "MMDM",
+    "local": "CDM"
+  },
+  "name": "Ciudad Mante Los Huastecas National Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.738957,
+    "longitude": -99.018516,
+    "elevation_ft": 341,
+    "iso_country": "MX",
+    "iso_region": "MX-TAM",
+    "municipality": "Ciudad Mante"
+  },
+  "keywords": [
+    "Cuauhtemoc Airport",
+    "Aeropuerto Nacional Las Huastecas"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ciudad_Mante_National_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29788
+  }
+}

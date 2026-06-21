@@ -1,0 +1,32 @@
+{
+  "key": "_ca_299559",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "D.C. Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.358247,
+    "longitude": -76.857423,
+    "elevation_ft": 0,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Camden East"
+  },
+  "keywords": [
+    "CA-0500"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 299559
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "usii",
+  "codes": {
+    "icao": "USII",
+    "iata": "IJK",
+    "gps": "USII",
+    "local": null
+  },
+  "name": "Izhevsk Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.834524,
+    "longitude": 53.462172,
+    "elevation_ft": 531,
+    "iso_country": "RU",
+    "iso_region": "RU-UD",
+    "municipality": "Izhevsk"
+  },
+  "keywords": [
+    "Аэропорт Ижевск"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Izhevsk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31670
+  }
+}

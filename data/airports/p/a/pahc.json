@@ -1,0 +1,33 @@
+{
+  "key": "pahc",
+  "codes": {
+    "icao": "PAHC",
+    "iata": "HCR",
+    "gps": "PAHC",
+    "local": "HCA"
+  },
+  "name": "Holy Cross Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.188301,
+    "longitude": -159.774994,
+    "elevation_ft": 70,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Holy Cross"
+  },
+  "keywords": [
+    "4Z4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Holy_Cross_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17619
+  }
+}

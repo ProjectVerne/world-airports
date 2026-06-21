@@ -1,0 +1,33 @@
+{
+  "key": "sazs",
+  "codes": {
+    "icao": "SAZS",
+    "iata": "BRC",
+    "gps": "SAZS",
+    "local": "BAR"
+  },
+  "name": "Teniente Luis Candelaria International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -41.151199,
+    "longitude": -71.157501,
+    "elevation_ft": 2774,
+    "iso_country": "AR",
+    "iso_region": "AR-R",
+    "municipality": "San Carlos de Bariloche"
+  },
+  "keywords": [
+    "Teniente Luis Candelaria"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Carlos_de_Bariloche_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5852
+  }
+}

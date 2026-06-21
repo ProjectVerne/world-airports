@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01541",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSN2",
+    "local": "CSN2"
+  },
+  "name": "Montreal / Kruger Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.50735,
+    "longitude": -73.636044,
+    "elevation_ft": 180,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [
+    "SN2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1541
+  }
+}

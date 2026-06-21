@@ -1,0 +1,35 @@
+{
+  "key": "egsu",
+  "codes": {
+    "icao": "EGSU",
+    "iata": null,
+    "gps": "EGSU",
+    "local": null
+  },
+  "name": "Duxford Aerodrome",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.090801,
+    "longitude": 0.131944,
+    "elevation_ft": 125,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Duxford, Cambridgeshire"
+  },
+  "keywords": [
+    "RAF Duxford",
+    "IWM Duxford",
+    "QFO"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Duxford_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2477
+  }
+}

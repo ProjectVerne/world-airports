@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01571",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSW5",
+    "local": "CSW5"
+  },
+  "name": "Montréal (Bell) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.685001,
+    "longitude": -73.931099,
+    "elevation_ft": 221,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [
+    "SW5"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1571
+  }
+}

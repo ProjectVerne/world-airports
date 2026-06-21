@@ -1,0 +1,32 @@
+{
+  "key": "_us_18635",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "30K",
+    "local": "30K"
+  },
+  "name": "Ingalls Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.907001,
+    "longitude": -100.530998,
+    "elevation_ft": 2814,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Ingalls"
+  },
+  "keywords": [
+    "K30K"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18635
+  }
+}

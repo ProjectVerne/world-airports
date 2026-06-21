@@ -1,0 +1,30 @@
+{
+  "key": "_us_08627",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1PS0",
+    "local": "1PS0"
+  },
+  "name": "Ickes Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.191898,
+    "longitude": -78.564697,
+    "elevation_ft": 1320,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Osterburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8627
+  }
+}

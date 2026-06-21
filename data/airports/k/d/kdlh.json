@@ -1,0 +1,35 @@
+{
+  "key": "kdlh",
+  "codes": {
+    "icao": "KDLH",
+    "iata": "DLH",
+    "gps": "KDLH",
+    "local": "DLH"
+  },
+  "name": "Duluth International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.841873,
+    "longitude": -92.198746,
+    "elevation_ft": 1428,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Duluth"
+  },
+  "keywords": [
+    "LKI",
+    "Duluth Air National Guard Base",
+    "Lakeside AFB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Duluth_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3491
+  }
+}

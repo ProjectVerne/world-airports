@@ -1,0 +1,36 @@
+{
+  "key": "mmsm",
+  "codes": {
+    "icao": "MMSM",
+    "iata": "NLU",
+    "gps": "MMSM",
+    "local": "SLM"
+  },
+  "name": "Felipe Ángeles International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 19.743824,
+    "longitude": -99.01507,
+    "elevation_ft": 7369,
+    "iso_country": "MX",
+    "iso_region": "MX-MEX",
+    "municipality": "Mexico City"
+  },
+  "keywords": [
+    "Santa Lucia AFB",
+    "Mexico City Santa Lucía Airport",
+    "Zumpango",
+    "Aeropuerto Internacional General Felipe Ángeles"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mexico_City_Santa_Lucía_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31923
+  }
+}

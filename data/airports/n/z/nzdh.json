@@ -1,0 +1,30 @@
+{
+  "key": "nzdh",
+  "codes": {
+    "icao": "NZDH",
+    "iata": null,
+    "gps": "NZDH",
+    "local": null
+  },
+  "name": "Dunedin Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -45.868871,
+    "longitude": 170.509674,
+    "elevation_ft": 159,
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Dunedin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44805
+  }
+}

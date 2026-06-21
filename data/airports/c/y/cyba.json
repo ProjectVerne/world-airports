@@ -1,0 +1,33 @@
+{
+  "key": "cyba",
+  "codes": {
+    "icao": "CYBA",
+    "iata": "YBA",
+    "gps": "CYBA",
+    "local": null
+  },
+  "name": "Banff Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.208222,
+    "longitude": -115.540624,
+    "elevation_ft": 4583,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Banff"
+  },
+  "keywords": [
+    "YBA"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Banff_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1667
+  }
+}

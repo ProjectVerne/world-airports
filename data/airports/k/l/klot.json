@@ -1,0 +1,33 @@
+{
+  "key": "klot",
+  "codes": {
+    "icao": "KLOT",
+    "iata": "LOT",
+    "gps": "KLOT",
+    "local": "LOT"
+  },
+  "name": "Lewis University Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.6073,
+    "longitude": -88.096199,
+    "elevation_ft": 679,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Chicago/Romeoville"
+  },
+  "keywords": [
+    "Lewis Lockport Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lewis_University_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20366
+  }
+}

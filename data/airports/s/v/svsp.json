@@ -1,0 +1,30 @@
+{
+  "key": "svsp",
+  "codes": {
+    "icao": "SVSP",
+    "iata": "SNF",
+    "gps": "SVSP",
+    "local": null
+  },
+  "name": "Sub Teniente Nestor Arias Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.2787,
+    "longitude": -68.755203,
+    "elevation_ft": 761,
+    "iso_country": "VE",
+    "iso_region": "VE-U",
+    "municipality": "San Felipe"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6326
+  }
+}

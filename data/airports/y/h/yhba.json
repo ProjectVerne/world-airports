@@ -1,0 +1,31 @@
+{
+  "key": "yhba",
+  "codes": {
+    "icao": "YHBA",
+    "iata": "HVB",
+    "gps": "YHBA",
+    "local": null
+  },
+  "name": "Hervey Bay Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.320127,
+    "longitude": 152.880662,
+    "elevation_ft": 60,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Hervey Bay"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hervey_Bay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27003
+  }
+}

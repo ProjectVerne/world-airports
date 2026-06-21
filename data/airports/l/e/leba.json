@@ -1,0 +1,31 @@
+{
+  "key": "leba",
+  "codes": {
+    "icao": "LEBA",
+    "iata": "ODB",
+    "gps": "LEBA",
+    "local": null
+  },
+  "name": "Córdoba Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.841999,
+    "longitude": -4.84888,
+    "elevation_ft": 297,
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Córdoba"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4000
+  }
+}

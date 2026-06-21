@@ -1,0 +1,33 @@
+{
+  "key": "_us_600372",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Maas Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 44.81933,
+    "longitude": -88.90847,
+    "elevation_ft": 965,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Tilleda"
+  },
+  "keywords": [
+    "2WI8",
+    "US-12750"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600372
+  }
+}

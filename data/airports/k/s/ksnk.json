@@ -1,0 +1,31 @@
+{
+  "key": "ksnk",
+  "codes": {
+    "icao": "KSNK",
+    "iata": "SNK",
+    "gps": "KSNK",
+    "local": "SNK"
+  },
+  "name": "Winston Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.690212,
+    "longitude": -100.948918,
+    "elevation_ft": 2430,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Snyder"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Winston_Field_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21092
+  }
+}

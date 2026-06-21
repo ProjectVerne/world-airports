@@ -1,0 +1,32 @@
+{
+  "key": "esfs",
+  "codes": {
+    "icao": "ESFS",
+    "iata": null,
+    "gps": "ESFS",
+    "local": null
+  },
+  "name": "Sandvik Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.064935,
+    "longitude": 16.861854,
+    "elevation_ft": 30,
+    "iso_country": "SE",
+    "iso_region": "SE-H",
+    "municipality": "Sandvik"
+  },
+  "keywords": [
+    "Öland"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29317
+  }
+}

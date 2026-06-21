@@ -1,0 +1,33 @@
+{
+  "key": "lfma",
+  "codes": {
+    "icao": "LFMA",
+    "iata": null,
+    "gps": "LFMA",
+    "local": null
+  },
+  "name": "Aix Les Milles airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.506294,
+    "longitude": 5.366426,
+    "elevation_ft": 367,
+    "iso_country": "FR",
+    "iso_region": "FR-PAC",
+    "municipality": "Aix en Provence"
+  },
+  "keywords": [
+    "Aérodrome d'Aix - Les Milles"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aix-en-Provence_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4149
+  }
+}

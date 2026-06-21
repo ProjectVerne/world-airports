@@ -1,0 +1,31 @@
+{
+  "key": "kpdt",
+  "codes": {
+    "icao": "KPDT",
+    "iata": "PDT",
+    "gps": "KPDT",
+    "local": "PDT"
+  },
+  "name": "Eastern Oregon Regional Airport at Pendleton",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.695099,
+    "longitude": -118.841003,
+    "elevation_ft": 1497,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Pendleton"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Eastern_Oregon_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20815
+  }
+}

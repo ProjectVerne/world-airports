@@ -1,0 +1,31 @@
+{
+  "key": "ntgm",
+  "codes": {
+    "icao": "NTGM",
+    "iata": "MKP",
+    "gps": "NTGM",
+    "local": null
+  },
+  "name": "Makemo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.5839,
+    "longitude": -143.658005,
+    "elevation_ft": 3,
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Makemo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Makemo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4991
+  }
+}

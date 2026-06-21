@@ -1,0 +1,31 @@
+{
+  "key": "eksv",
+  "codes": {
+    "icao": "EKSV",
+    "iata": "SQW",
+    "gps": "EKSV",
+    "local": null
+  },
+  "name": "Skive Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.550201,
+    "longitude": 9.17298,
+    "elevation_ft": 74,
+    "iso_country": "DK",
+    "iso_region": "DK-82",
+    "municipality": "Skive"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Skive_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2556
+  }
+}

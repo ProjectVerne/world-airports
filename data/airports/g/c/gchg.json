@@ -1,0 +1,30 @@
+{
+  "key": "gchg",
+  "codes": {
+    "icao": "GCHG",
+    "iata": null,
+    "gps": "GCHG",
+    "local": null
+  },
+  "name": "Insular Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.082835,
+    "longitude": -15.417392,
+    "elevation_ft": 100,
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "Las Palmas de Gran Canaria"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 598091
+  }
+}

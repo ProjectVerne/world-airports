@@ -1,0 +1,30 @@
+{
+  "key": "_us_24345",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "RI08",
+    "local": "RI08"
+  },
+  "name": "South County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.430662,
+    "longitude": -71.498074,
+    "elevation_ft": 38,
+    "iso_country": "US",
+    "iso_region": "US-RI",
+    "municipality": "Wakefield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24345
+  }
+}

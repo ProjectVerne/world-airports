@@ -1,0 +1,36 @@
+{
+  "key": "kcfo",
+  "codes": {
+    "icao": "KCFO",
+    "iata": null,
+    "gps": "KCFO",
+    "local": "CFO"
+  },
+  "name": "Colorado Air and Space Port",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.784194,
+    "longitude": -104.537639,
+    "elevation_ft": 5512,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Denver"
+  },
+  "keywords": [
+    "Colorado Air And Space Port",
+    "KFTG",
+    "FTG",
+    "Front Range Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Colorado_Air_and_Space_Port",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19903
+  }
+}

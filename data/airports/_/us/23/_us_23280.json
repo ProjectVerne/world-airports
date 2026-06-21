@@ -1,0 +1,30 @@
+{
+  "key": "_us_23280",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM62",
+    "local": "NM62"
+  },
+  "name": "Sjrmc Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.724201,
+    "longitude": -108.218002,
+    "elevation_ft": 5280,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Farmington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "cydn",
+  "codes": {
+    "icao": "CYDN",
+    "iata": "YDN",
+    "gps": "CYDN",
+    "local": null
+  },
+  "name": "Dauphin Barker Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.1008,
+    "longitude": -100.052002,
+    "elevation_ft": 999,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Dauphin"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dauphin_(Lt._Col_W.G._(Billy)_Barker_VC_Airport)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1710
+  }
+}

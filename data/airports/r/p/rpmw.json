@@ -1,0 +1,31 @@
+{
+  "key": "rpmw",
+  "codes": {
+    "icao": "RPMW",
+    "iata": "TDG",
+    "gps": "RPMW",
+    "local": null
+  },
+  "name": "Tandag Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.072002,
+    "longitude": 126.17132,
+    "elevation_ft": 16,
+    "iso_country": "PH",
+    "iso_region": "PH-SUR",
+    "municipality": "Tandag"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tandag_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5711
+  }
+}

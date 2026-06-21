@@ -1,0 +1,31 @@
+{
+  "key": "esnd",
+  "codes": {
+    "icao": "ESND",
+    "iata": "EVG",
+    "gps": "ESND",
+    "local": null
+  },
+  "name": "Sveg Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.047798,
+    "longitude": 14.4229,
+    "elevation_ft": 1178,
+    "iso_country": "SE",
+    "iso_region": "SE-Z",
+    "municipality": "Sveg"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sveg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2675
+  }
+}

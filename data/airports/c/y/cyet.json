@@ -1,0 +1,31 @@
+{
+  "key": "cyet",
+  "codes": {
+    "icao": "CYET",
+    "iata": "YET",
+    "gps": "CYET",
+    "local": null
+  },
+  "name": "Edson Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.578899,
+    "longitude": -116.464996,
+    "elevation_ft": 3043,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Edson"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Edson_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1724
+  }
+}

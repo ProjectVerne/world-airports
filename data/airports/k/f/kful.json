@@ -1,0 +1,31 @@
+{
+  "key": "kful",
+  "codes": {
+    "icao": "KFUL",
+    "iata": "FUL",
+    "gps": "KFUL",
+    "local": "FUL"
+  },
+  "name": "Fullerton Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.872002,
+    "longitude": -117.980003,
+    "elevation_ft": 96,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Fullerton"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fullerton_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19905
+  }
+}

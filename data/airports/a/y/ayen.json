@@ -1,0 +1,30 @@
+{
+  "key": "ayen",
+  "codes": {
+    "icao": "AYEN",
+    "iata": "EGA",
+    "gps": "AYEN",
+    "local": "EGT"
+  },
+  "name": "Engati Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.9179,
+    "longitude": 146.1053,
+    "elevation_ft": 3715,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Engati"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 311202
+  }
+}

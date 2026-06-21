@@ -1,0 +1,32 @@
+{
+  "key": "ubbc",
+  "codes": {
+    "icao": "UBBC",
+    "iata": null,
+    "gps": "UBBC",
+    "local": null
+  },
+  "name": "Çilov Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.325219,
+    "longitude": 50.602082,
+    "elevation_ft": -72,
+    "iso_country": "AZ",
+    "iso_region": "AZ-BA",
+    "municipality": "Çilov"
+  },
+  "keywords": [
+    "AZ-0023"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 341274
+  }
+}

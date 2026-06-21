@@ -1,0 +1,35 @@
+{
+  "key": "kuts",
+  "codes": {
+    "icao": "KUTS",
+    "iata": "HTV",
+    "gps": "KUTS",
+    "local": "UTS"
+  },
+  "name": "Huntsville Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.746901,
+    "longitude": -95.587196,
+    "elevation_ft": 363,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Huntsville"
+  },
+  "keywords": [
+    "T39",
+    "Bruce Brothers Huntsville Regional Airport",
+    "Huntsville Municipal Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Huntsville_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21304
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_21825",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA82",
+    "local": "MA82"
+  },
+  "name": "Westport Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 41.6493,
+    "longitude": -71.1259,
+    "elevation_ft": 131,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Westport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21825
+  }
+}

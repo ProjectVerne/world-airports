@@ -1,0 +1,34 @@
+{
+  "key": "lecu",
+  "codes": {
+    "icao": "LECU",
+    "iata": null,
+    "gps": "LECU",
+    "local": null
+  },
+  "name": "Madrid-Cuatro Vientos Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.370701,
+    "longitude": -3.78514,
+    "elevation_ft": 2269,
+    "iso_country": "ES",
+    "iso_region": "ES-MD",
+    "municipality": "Madrid"
+  },
+  "keywords": [
+    "LEVS",
+    "ECV"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cuatro_Vientos_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4044
+  }
+}

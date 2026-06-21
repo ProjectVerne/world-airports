@@ -1,0 +1,31 @@
+{
+  "key": "kuva",
+  "codes": {
+    "icao": "KUVA",
+    "iata": "UVA",
+    "gps": "KUVA",
+    "local": "UVA"
+  },
+  "name": "Garner Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.2113,
+    "longitude": -99.743599,
+    "elevation_ft": 942,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Uvalde"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Garner_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21307
+  }
+}

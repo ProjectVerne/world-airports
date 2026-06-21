@@ -1,0 +1,32 @@
+{
+  "key": "_us_15996",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "9TX0",
+    "local": "9TX0"
+  },
+  "name": "Houston Police Department Southeast Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.657868,
+    "longitude": -95.319099,
+    "elevation_ft": 40,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [
+    "Houston Police Command Station Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15996
+  }
+}

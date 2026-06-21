@@ -1,0 +1,30 @@
+{
+  "key": "_us_17131",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "DE16",
+    "local": "DE16"
+  },
+  "name": "Rollins Building Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.79084,
+    "longitude": -75.547805,
+    "elevation_ft": 595,
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Wilmington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17131
+  }
+}

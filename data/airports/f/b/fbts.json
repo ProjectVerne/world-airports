@@ -1,0 +1,33 @@
+{
+  "key": "fbts",
+  "codes": {
+    "icao": "FBTS",
+    "iata": "TBY",
+    "gps": "FBTS",
+    "local": null
+  },
+  "name": "Tshabong Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.034524,
+    "longitude": 22.401252,
+    "elevation_ft": 3179,
+    "iso_country": "BW",
+    "iso_region": "BW-KG",
+    "municipality": "Tshabong"
+  },
+  "keywords": [
+    "Tsabong"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tshabong_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30494
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "lolc",
+  "codes": {
+    "icao": "LOLC",
+    "iata": null,
+    "gps": "LOLC",
+    "local": null
+  },
+  "name": "Scharnstein Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.898602,
+    "longitude": 13.9394,
+    "elevation_ft": 1742,
+    "iso_country": "AT",
+    "iso_region": "AT-4",
+    "municipality": "Scharnstein"
+  },
+  "keywords": [
+    "Flugplatz Scharnstein"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Scharnstein_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29469
+  }
+}

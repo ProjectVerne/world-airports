@@ -1,0 +1,31 @@
+{
+  "key": "hank",
+  "codes": {
+    "icao": "HANK",
+    "iata": "NEK",
+    "gps": "HANK",
+    "local": null
+  },
+  "name": "Nekemte Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.034333,
+    "longitude": 36.613154,
+    "elevation_ft": 6500,
+    "iso_country": "ET",
+    "iso_region": "ET-OR",
+    "municipality": "Nekemte"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nekemte_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32022
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "kdnv",
+  "codes": {
+    "icao": "KDNV",
+    "iata": "DNV",
+    "gps": "KDNV",
+    "local": "DNV"
+  },
+  "name": "Vermilion Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.199124,
+    "longitude": -87.59663,
+    "elevation_ft": 697,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Danville"
+  },
+  "keywords": [
+    "Vermilion County Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vermilion_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19647
+  }
+}

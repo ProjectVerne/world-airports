@@ -1,0 +1,34 @@
+{
+  "key": "eica",
+  "codes": {
+    "icao": "EICA",
+    "iata": "NNR",
+    "gps": "EICA",
+    "local": null
+  },
+  "name": "Connemara Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.230301,
+    "longitude": -9.46778,
+    "elevation_ft": 70,
+    "iso_country": "IE",
+    "iso_region": "IE-G",
+    "municipality": "Inverin"
+  },
+  "keywords": [
+    "Aerfort na Minna",
+    "Indreabhán"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aerfort_na_Minna",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27309
+  }
+}

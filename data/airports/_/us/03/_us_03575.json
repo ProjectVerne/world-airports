@@ -1,0 +1,33 @@
+{
+  "key": "_us_03575",
+  "codes": {
+    "icao": null,
+    "iata": "GYY",
+    "gps": "KGYY",
+    "local": "GYY"
+  },
+  "name": "Gary/Chicago International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.617087,
+    "longitude": -87.413206,
+    "elevation_ft": 591,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Gary"
+  },
+  "keywords": [
+    "East Chicago"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gary/Chicago_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3575
+  }
+}

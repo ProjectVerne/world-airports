@@ -1,0 +1,30 @@
+{
+  "key": "_us_24995",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TN80",
+    "local": "TN80"
+  },
+  "name": "Schiff Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.233398,
+    "longitude": -85.426399,
+    "elevation_ft": 1260,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Cookeville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24995
+  }
+}

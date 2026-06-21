@@ -1,0 +1,32 @@
+{
+  "key": "_us_11804",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4WN7",
+    "local": "4WN7"
+  },
+  "name": "Aegis Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.471432,
+    "longitude": -87.994818,
+    "elevation_ft": 640,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Green Bay"
+  },
+  "keywords": [
+    "County Rescue Services"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11804
+  }
+}

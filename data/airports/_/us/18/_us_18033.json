@@ -1,0 +1,33 @@
+{
+  "key": "_us_18033",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Chatsworth Restricted Landing Area",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.743099,
+    "longitude": -88.291198,
+    "elevation_ft": 742,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Chatsworth"
+  },
+  "keywords": [
+    "IL60",
+    "US-11425"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18033
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ltcd",
+  "codes": {
+    "icao": "LTCD",
+    "iata": "ERC",
+    "gps": "LTCD",
+    "local": null
+  },
+  "name": "Erzincan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.710201,
+    "longitude": 39.527,
+    "elevation_ft": 3783,
+    "iso_country": "TR",
+    "iso_region": "TR-24",
+    "municipality": "Erzincan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Erzincan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4550
+  }
+}

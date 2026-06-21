@@ -1,0 +1,33 @@
+{
+  "key": "_us_08926",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Mallard Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 32.500293,
+    "longitude": -88.269525,
+    "elevation_ft": 185,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "York"
+  },
+  "keywords": [
+    "23A",
+    "US-9770"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8926
+  }
+}

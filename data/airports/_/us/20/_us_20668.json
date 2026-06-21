@@ -1,0 +1,33 @@
+{
+  "key": "_us_20668",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NY25",
+    "local": "NY25"
+  },
+  "name": "Camillus Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.085376,
+    "longitude": -76.295199,
+    "elevation_ft": 405,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Warners"
+  },
+  "keywords": [
+    "NY2",
+    "KNY2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20668
+  }
+}

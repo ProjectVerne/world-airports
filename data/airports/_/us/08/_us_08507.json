@@ -1,0 +1,30 @@
+{
+  "key": "_us_08507",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MU9",
+    "local": "1MU9"
+  },
+  "name": "Nielsens Medical Evac Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.935299,
+    "longitude": -90.476501,
+    "elevation_ft": 425,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Saint Charles"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8507
+  }
+}

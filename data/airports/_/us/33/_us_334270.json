@@ -1,0 +1,32 @@
+{
+  "key": "_us_334270",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VT21",
+    "local": "VT21"
+  },
+  "name": "BLSG Leicester Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.874739,
+    "longitude": -73.104369,
+    "elevation_ft": 441,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Leicester"
+  },
+  "keywords": [
+    "US-1265"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 334270
+  }
+}

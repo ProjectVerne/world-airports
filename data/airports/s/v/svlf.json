@@ -1,0 +1,31 @@
+{
+  "key": "svlf",
+  "codes": {
+    "icao": "SVLF",
+    "iata": "LFR",
+    "gps": "SVLF",
+    "local": null
+  },
+  "name": "La Fria Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.239167,
+    "longitude": -72.271027,
+    "elevation_ft": 305,
+    "iso_country": "VE",
+    "iso_region": "VE-S",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Fr%C3%ADa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6294
+  }
+}

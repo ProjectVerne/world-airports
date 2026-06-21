@@ -1,0 +1,35 @@
+{
+  "key": "gmmn",
+  "codes": {
+    "icao": "GMMN",
+    "iata": "CMN",
+    "gps": "GMMN",
+    "local": null
+  },
+  "name": "Mohammed V International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.3675,
+    "longitude": -7.58997,
+    "elevation_ft": 656,
+    "iso_country": "MA",
+    "iso_region": "MA-06",
+    "municipality": "Casablanca"
+  },
+  "keywords": [
+    "CAS",
+    "Casabianca",
+    "Nouasseur"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mohammed_V_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3113
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "hdam",
+  "codes": {
+    "icao": "HDAM",
+    "iata": "JIB",
+    "gps": "HDAM",
+    "local": null
+  },
+  "name": "Djibouti-Ambouli Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.5473,
+    "longitude": 43.1595,
+    "elevation_ft": 49,
+    "iso_country": "DJ",
+    "iso_region": "DJ-DJ",
+    "municipality": "Djibouti City"
+  },
+  "keywords": [
+    "Camp Lemonnier"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Djibouti-Ambouli_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3174
+  }
+}

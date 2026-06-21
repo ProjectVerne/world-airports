@@ -1,0 +1,31 @@
+{
+  "key": "_us_346559",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KLDR",
+    "local": "LDR"
+  },
+  "name": "USCG San Diego Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.726538,
+    "longitude": -117.181206,
+    "elevation_ft": 9,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Diego"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Coast_Guard_Air_Station_San_Diego",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 346559
+  }
+}

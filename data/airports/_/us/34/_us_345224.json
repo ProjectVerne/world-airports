@@ -1,0 +1,32 @@
+{
+  "key": "_us_345224",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "GA34",
+    "local": "GA34"
+  },
+  "name": "Air Evac Base 142 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.436046,
+    "longitude": -83.479137,
+    "elevation_ft": 347,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Tifton"
+  },
+  "keywords": [
+    "US-4369"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345224
+  }
+}

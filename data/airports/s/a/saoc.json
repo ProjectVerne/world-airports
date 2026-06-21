@@ -1,0 +1,31 @@
+{
+  "key": "saoc",
+  "codes": {
+    "icao": "SAOC",
+    "iata": "RCU",
+    "gps": "SAOC",
+    "local": "TRC"
+  },
+  "name": "Area De Material Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.085098,
+    "longitude": -64.261299,
+    "elevation_ft": 1380,
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Rio Cuarto"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Las_Higueras_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5796
+  }
+}

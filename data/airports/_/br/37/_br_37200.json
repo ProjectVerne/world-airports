@@ -1,0 +1,33 @@
+{
+  "key": "_br_37200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Atlantis Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -7.566924,
+    "longitude": -34.855995,
+    "elevation_ft": 16,
+    "iso_country": "BR",
+    "iso_region": "BR-PE",
+    "municipality": "Goiana"
+  },
+  "keywords": [
+    "SNOH",
+    "BR-2826"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 37200
+  }
+}

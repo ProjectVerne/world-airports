@@ -1,0 +1,33 @@
+{
+  "key": "_us_22410",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Smith Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 45.938499,
+    "longitude": -112.564003,
+    "elevation_ft": 6000,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Butte"
+  },
+  "keywords": [
+    "MT12",
+    "US-11745"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22410
+  }
+}

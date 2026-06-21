@@ -1,0 +1,32 @@
+{
+  "key": "_us_334274",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM36",
+    "local": "NM36"
+  },
+  "name": "Rust Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.218969,
+    "longitude": -106.694389,
+    "elevation_ft": 5253,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Rio Rancho"
+  },
+  "keywords": [
+    "US-1267"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 334274
+  }
+}

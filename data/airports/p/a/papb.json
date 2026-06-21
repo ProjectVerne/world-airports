@@ -1,0 +1,33 @@
+{
+  "key": "papb",
+  "codes": {
+    "icao": "PAPB",
+    "iata": "STG",
+    "gps": "PAPB",
+    "local": "PBV"
+  },
+  "name": "St George Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.577345,
+    "longitude": -169.663823,
+    "elevation_ft": 125,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "St George"
+  },
+  "keywords": [
+    "A8L"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St._George_Airport_(Alaska)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5396
+  }
+}

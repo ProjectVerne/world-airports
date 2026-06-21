@@ -1,0 +1,30 @@
+{
+  "key": "_us_09957",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "31FD",
+    "local": "31FD"
+  },
+  "name": "Florida State Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.706301,
+    "longitude": -84.8424,
+    "elevation_ft": 235,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Chattahoochee"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9957
+  }
+}

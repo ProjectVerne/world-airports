@@ -1,0 +1,30 @@
+{
+  "key": "_us_17628",
+  "codes": {
+    "icao": null,
+    "iata": "WKL",
+    "gps": "HI07",
+    "local": "HI07"
+  },
+  "name": "Waikoloa Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 19.920546,
+    "longitude": -155.860628,
+    "elevation_ft": 119,
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Waikoloa Village"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17628
+  }
+}

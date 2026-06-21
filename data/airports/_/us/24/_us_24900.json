@@ -1,0 +1,33 @@
+{
+  "key": "_us_24900",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Wales Air Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 31.594347,
+    "longitude": -97.371926,
+    "elevation_ft": 640,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Waco"
+  },
+  "keywords": [
+    "TE92",
+    "US-12231"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24900
+  }
+}

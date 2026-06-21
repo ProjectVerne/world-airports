@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01580",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSZ2",
+    "local": "CSZ2"
+  },
+  "name": "Québec (Complex H) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.807205,
+    "longitude": -71.213432,
+    "elevation_ft": 352,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Québec"
+  },
+  "keywords": [
+    "SZ2",
+    "Quebec City"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1580
+  }
+}

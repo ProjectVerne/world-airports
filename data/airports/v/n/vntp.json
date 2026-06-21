@@ -1,0 +1,31 @@
+{
+  "key": "vntp",
+  "codes": {
+    "icao": "VNTP",
+    "iata": "TPU",
+    "gps": "VNTP",
+    "local": null
+  },
+  "name": "Tikapur Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.5219,
+    "longitude": 81.123,
+    "elevation_ft": 522,
+    "iso_country": "NP",
+    "iso_region": "NP-P7",
+    "municipality": "Tikapur"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tikapur_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32588
+  }
+}

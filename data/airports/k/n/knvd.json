@@ -1,0 +1,30 @@
+{
+  "key": "knvd",
+  "codes": {
+    "icao": "KNVD",
+    "iata": "NVD",
+    "gps": "KNVD",
+    "local": "NVD"
+  },
+  "name": "Nevada Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.8521,
+    "longitude": -94.304901,
+    "elevation_ft": 892,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Nevada"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20662
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "hesn",
+  "codes": {
+    "icao": "HESN",
+    "iata": "ASW",
+    "gps": "HESN",
+    "local": null
+  },
+  "name": "Aswan International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.961075,
+    "longitude": 32.820382,
+    "elevation_ft": 650,
+    "iso_country": "EG",
+    "iso_region": "EG-ASN",
+    "municipality": "Aswan"
+  },
+  "keywords": [
+    "aswan airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aswan_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3199
+  }
+}

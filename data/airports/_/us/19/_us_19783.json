@@ -1,0 +1,33 @@
+{
+  "key": "_us_19783",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KEVY",
+    "local": "EVY"
+  },
+  "name": "Summit Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.520401,
+    "longitude": -75.720398,
+    "elevation_ft": 70,
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Middletown"
+  },
+  "keywords": [
+    "N92"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Summit_Airport_(Delaware)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19783
+  }
+}

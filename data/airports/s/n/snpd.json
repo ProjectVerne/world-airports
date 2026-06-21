@@ -1,0 +1,33 @@
+{
+  "key": "snpd",
+  "codes": {
+    "icao": "SNPD",
+    "iata": "POJ",
+    "gps": "SNPD",
+    "local": "MG0010"
+  },
+  "name": "Patos de Minas Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -18.672673,
+    "longitude": -46.491292,
+    "elevation_ft": 2794,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Patos de Minas"
+  },
+  "keywords": [
+    "Pedro Pereira dos Santos"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Patos_de_Minas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 369
+  }
+}

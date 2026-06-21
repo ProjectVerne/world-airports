@@ -1,0 +1,33 @@
+{
+  "key": "zmul",
+  "codes": {
+    "icao": "ZMUL",
+    "iata": "ULG",
+    "gps": "ZMUL",
+    "local": null
+  },
+  "name": "Ölgii Mongolei International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.993301,
+    "longitude": 89.922501,
+    "elevation_ft": 5732,
+    "iso_country": "MN",
+    "iso_region": "MN-071",
+    "municipality": "Ölgii"
+  },
+  "keywords": [
+    "Ulgii Mongolei"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30505
+  }
+}

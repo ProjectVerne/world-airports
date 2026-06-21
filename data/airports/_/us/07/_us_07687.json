@@ -1,0 +1,30 @@
+{
+  "key": "_us_07687",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "10PA",
+    "local": "10PA"
+  },
+  "name": "Piac Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.862598,
+    "longitude": -75.310501,
+    "elevation_ft": 8,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Essington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7687
+  }
+}

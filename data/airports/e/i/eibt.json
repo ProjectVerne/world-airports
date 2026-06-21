@@ -1,0 +1,33 @@
+{
+  "key": "eibt",
+  "codes": {
+    "icao": "EIBT",
+    "iata": "BLY",
+    "gps": "EIBT",
+    "local": null
+  },
+  "name": "Belmullet Aerodrome",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.222801,
+    "longitude": -10.0308,
+    "elevation_ft": 150,
+    "iso_country": "IE",
+    "iso_region": "IE-MO",
+    "municipality": "Belmullet"
+  },
+  "keywords": [
+    "Béal an Mhuirthead"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Belmullet_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29216
+  }
+}

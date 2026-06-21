@@ -1,0 +1,31 @@
+{
+  "key": "klsn",
+  "codes": {
+    "icao": "KLSN",
+    "iata": "LSN",
+    "gps": "KLSN",
+    "local": "LSN"
+  },
+  "name": "Los Banos Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.062901,
+    "longitude": -120.869003,
+    "elevation_ft": 121,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Los Banos"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Los_Banos_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20377
+  }
+}

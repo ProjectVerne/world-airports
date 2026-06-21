@@ -1,0 +1,33 @@
+{
+  "key": "ttcp",
+  "codes": {
+    "icao": "TTCP",
+    "iata": "TAB",
+    "gps": "TTCP",
+    "local": null
+  },
+  "name": "A.N.R. Robinson International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.149571,
+    "longitude": -60.831298,
+    "elevation_ft": 38,
+    "iso_country": "TT",
+    "iso_region": "TT-TOB",
+    "municipality": "Scarborough"
+  },
+  "keywords": [
+    "Tobago-Crown Point Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/A.N.R._Robinson_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6409
+  }
+}

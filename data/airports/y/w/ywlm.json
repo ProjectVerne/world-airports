@@ -1,0 +1,34 @@
+{
+  "key": "ywlm",
+  "codes": {
+    "icao": "YWLM",
+    "iata": "NTL",
+    "gps": "YWLM",
+    "local": null
+  },
+  "name": "Newcastle Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -32.796114,
+    "longitude": 151.835025,
+    "elevation_ft": 31,
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Williamtown"
+  },
+  "keywords": [
+    "RAAF Base Williamtown",
+    "Williamtown Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Newcastle_Airport_(Williamtown)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27175
+  }
+}

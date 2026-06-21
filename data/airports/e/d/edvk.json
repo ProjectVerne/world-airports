@@ -1,0 +1,33 @@
+{
+  "key": "edvk",
+  "codes": {
+    "icao": "EDVK",
+    "iata": "KSF",
+    "gps": "EDVK",
+    "local": null
+  },
+  "name": "Kassel Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.418395,
+    "longitude": 9.391638,
+    "elevation_ft": 820,
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Calden"
+  },
+  "keywords": [
+    "Kassel-Calden"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kassel_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2285
+  }
+}

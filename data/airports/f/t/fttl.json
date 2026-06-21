@@ -1,0 +1,31 @@
+{
+  "key": "fttl",
+  "codes": {
+    "icao": "FTTL",
+    "iata": "OTC",
+    "gps": "FTTL",
+    "local": null
+  },
+  "name": "Bol-Berim Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.443574,
+    "longitude": 14.739254,
+    "elevation_ft": 955,
+    "iso_country": "TD",
+    "iso_region": "TD-LC",
+    "municipality": "Bol"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bol-B%C3%A9rim_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32130
+  }
+}

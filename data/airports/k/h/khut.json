@@ -1,0 +1,31 @@
+{
+  "key": "khut",
+  "codes": {
+    "icao": "KHUT",
+    "iata": "HUT",
+    "gps": "KHUT",
+    "local": "HUT"
+  },
+  "name": "Hutchinson Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.065498,
+    "longitude": -97.860603,
+    "elevation_ft": 1543,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Hutchinson"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hutchinson_Municipal_Airport_(Kansas)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3598
+  }
+}

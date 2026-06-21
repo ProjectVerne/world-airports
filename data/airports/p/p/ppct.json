@@ -1,0 +1,31 @@
+{
+  "key": "ppct",
+  "codes": {
+    "icao": "PPCT",
+    "iata": "TCT",
+    "gps": "PPCT",
+    "local": "TCT"
+  },
+  "name": "Takotna Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.993206,
+    "longitude": -156.029026,
+    "elevation_ft": 825,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Takotna"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Takotna_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24808
+  }
+}

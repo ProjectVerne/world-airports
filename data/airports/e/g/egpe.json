@@ -1,0 +1,31 @@
+{
+  "key": "egpe",
+  "codes": {
+    "icao": "EGPE",
+    "iata": "INV",
+    "gps": "EGPE",
+    "local": null
+  },
+  "name": "Inverness Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.5425,
+    "longitude": -4.0475,
+    "elevation_ft": 31,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Inverness"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Inverness_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2460
+  }
+}

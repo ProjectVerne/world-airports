@@ -1,0 +1,34 @@
+{
+  "key": "licb",
+  "codes": {
+    "icao": "LICB",
+    "iata": "CIY",
+    "gps": "LICB",
+    "local": "RG06"
+  },
+  "name": "Comiso Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.99583,
+    "longitude": 14.60889,
+    "elevation_ft": 756,
+    "iso_country": "IT",
+    "iso_region": "IT-82",
+    "municipality": "Comiso"
+  },
+  "keywords": [
+    "Vincenzo Magliocco Airport",
+    "Aeroporto di Comiso"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Comiso_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 298716
+  }
+}

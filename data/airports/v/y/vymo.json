@@ -1,0 +1,30 @@
+{
+  "key": "vymo",
+  "codes": {
+    "icao": "VYMO",
+    "iata": "MOE",
+    "gps": "VYMO",
+    "local": null
+  },
+  "name": "Momeik Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.092501,
+    "longitude": 96.645302,
+    "elevation_ft": 600,
+    "iso_country": "MM",
+    "iso_region": "MM-17",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26731
+  }
+}

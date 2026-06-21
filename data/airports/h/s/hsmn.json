@@ -1,0 +1,33 @@
+{
+  "key": "hsmn",
+  "codes": {
+    "icao": "HSMN",
+    "iata": "MWE",
+    "gps": "HSMN",
+    "local": null
+  },
+  "name": "Merowe Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.443333,
+    "longitude": 31.843333,
+    "elevation_ft": 897,
+    "iso_country": "SD",
+    "iso_region": "SD-01",
+    "municipality": "Merowe"
+  },
+  "keywords": [
+    "Merowe International"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Merowe_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300673
+  }
+}

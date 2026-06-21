@@ -1,0 +1,30 @@
+{
+  "key": "_us_24356",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "RI23",
+    "local": "RI23"
+  },
+  "name": "Westerly Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.362598,
+    "longitude": -71.8237,
+    "elevation_ft": 120,
+    "iso_country": "US",
+    "iso_region": "US-RI",
+    "municipality": "Westerly"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24356
+  }
+}

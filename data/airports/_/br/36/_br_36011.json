@@ -1,0 +1,33 @@
+{
+  "key": "_br_36011",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Unimed Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -21.782792,
+    "longitude": -46.592615,
+    "elevation_ft": 3924,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Poços De Caldas"
+  },
+  "keywords": [
+    "SIHU",
+    "BR-2416"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36011
+  }
+}

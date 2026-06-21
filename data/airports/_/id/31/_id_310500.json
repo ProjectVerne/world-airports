@@ -1,0 +1,33 @@
+{
+  "key": "_id_310500",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WIAS",
+    "local": null
+  },
+  "name": "Lokok Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.02159,
+    "longitude": 110.050738,
+    "elevation_ft": 1855,
+    "iso_country": "ID",
+    "iso_region": "ID-KB",
+    "municipality": "Lokok"
+  },
+  "keywords": [
+    "WZ70",
+    "ID-0092"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310500
+  }
+}

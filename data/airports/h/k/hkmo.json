@@ -1,0 +1,34 @@
+{
+  "key": "hkmo",
+  "codes": {
+    "icao": "HKMO",
+    "iata": "MBA",
+    "gps": "HKMO",
+    "local": null
+  },
+  "name": "Moi International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.03483,
+    "longitude": 39.5942,
+    "elevation_ft": 200,
+    "iso_country": "KE",
+    "iso_region": "KE-01",
+    "municipality": "Mombasa"
+  },
+  "keywords": [
+    "Mombasa",
+    "Port Reitz"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moi_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3213
+  }
+}

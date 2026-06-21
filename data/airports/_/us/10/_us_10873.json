@@ -1,0 +1,30 @@
+{
+  "key": "_us_10873",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3WI1",
+    "local": "3WI1"
+  },
+  "name": "Olson's Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.657001,
+    "longitude": -88.087601,
+    "elevation_ft": 825,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Union Grove"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10873
+  }
+}

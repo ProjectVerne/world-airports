@@ -1,0 +1,30 @@
+{
+  "key": "flcu",
+  "codes": {
+    "icao": "FLCU",
+    "iata": "CGX",
+    "gps": "FLCU",
+    "local": null
+  },
+  "name": "Chunga Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -15.053957,
+    "longitude": 25.985673,
+    "elevation_ft": 3632,
+    "iso_country": "ZM",
+    "iso_region": "ZM-02",
+    "municipality": "Chunga"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 318932
+  }
+}

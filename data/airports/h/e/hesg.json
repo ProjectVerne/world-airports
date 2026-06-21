@@ -1,0 +1,35 @@
+{
+  "key": "hesg",
+  "codes": {
+    "icao": "HESG",
+    "iata": "HMB",
+    "gps": "HESG",
+    "local": null
+  },
+  "name": "Suhaj International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.342515,
+    "longitude": 31.743017,
+    "elevation_ft": 322,
+    "iso_country": "EG",
+    "iso_region": "EG-SHG",
+    "municipality": "Suhaj"
+  },
+  "keywords": [
+    "HEMK",
+    "Suhaj Mubarak International Airport",
+    "Sohag Intl"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sohag_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300893
+  }
+}

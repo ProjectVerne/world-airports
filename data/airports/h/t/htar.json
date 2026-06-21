@@ -1,0 +1,31 @@
+{
+  "key": "htar",
+  "codes": {
+    "icao": "HTAR",
+    "iata": "ARK",
+    "gps": "HTAR",
+    "local": null
+  },
+  "name": "Arusha Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.36779,
+    "longitude": 36.633301,
+    "elevation_ft": 4550,
+    "iso_country": "TZ",
+    "iso_region": "TZ-01",
+    "municipality": "Arusha"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Arusha_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3250
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "aync",
+  "codes": {
+    "icao": "AYNC",
+    "iata": "NDN",
+    "gps": "AYNC",
+    "local": "NDM"
+  },
+  "name": "Nadunumu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.143556,
+    "longitude": 147.68425,
+    "elevation_ft": 5100,
+    "iso_country": "PG",
+    "iso_region": "PG-CPM",
+    "municipality": "Nadunumu"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 302538
+  }
+}

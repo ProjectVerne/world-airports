@@ -1,0 +1,31 @@
+{
+  "key": "hanj",
+  "codes": {
+    "icao": "HANJ",
+    "iata": "NEJ",
+    "gps": "HANJ",
+    "local": null
+  },
+  "name": "Nejjo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.55,
+    "longitude": 35.466995,
+    "elevation_ft": 6150,
+    "iso_country": "ET",
+    "iso_region": "ET-OR",
+    "municipality": "Nejo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nejjo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32021
+  }
+}

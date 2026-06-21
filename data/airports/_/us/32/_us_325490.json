@@ -1,0 +1,32 @@
+{
+  "key": "_us_325490",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UT27",
+    "local": "UT27"
+  },
+  "name": "CCR Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.303794,
+    "longitude": -110.20875,
+    "elevation_ft": 5983,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Bluebell"
+  },
+  "keywords": [
+    "US-0720"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325490
+  }
+}

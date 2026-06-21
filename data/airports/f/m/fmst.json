@@ -1,0 +1,31 @@
+{
+  "key": "fmst",
+  "codes": {
+    "icao": "FMST",
+    "iata": "TLE",
+    "gps": "FMST",
+    "local": null
+  },
+  "name": "Toliara Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.3834,
+    "longitude": 43.7285,
+    "elevation_ft": 29,
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Toliara"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Toliara_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2933
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_20000",
+  "codes": {
+    "icao": null,
+    "iata": "KGZ",
+    "gps": "KGZ",
+    "local": "KGZ"
+  },
+  "name": "Glacier Creek Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.455101,
+    "longitude": -142.380997,
+    "elevation_ft": 2380,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Glacier Creek"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20000
+  }
+}

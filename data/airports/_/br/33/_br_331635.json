@@ -1,0 +1,32 @@
+{
+  "key": "_br_331635",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNPP",
+    "local": "SP0721"
+  },
+  "name": "Ribeira Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.503208,
+    "longitude": -45.12599,
+    "elevation_ft": 7,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Ubatuba"
+  },
+  "keywords": [
+    "BR-0450"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331635
+  }
+}

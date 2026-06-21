@@ -1,0 +1,30 @@
+{
+  "key": "_us_13740",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "72OK",
+    "local": "72OK"
+  },
+  "name": "Jay Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.42238,
+    "longitude": -94.80418,
+    "elevation_ft": 1032,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Jay"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13740
+  }
+}

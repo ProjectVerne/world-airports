@@ -1,0 +1,32 @@
+{
+  "key": "_us_07624",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0WN7",
+    "local": "0WN7"
+  },
+  "name": "St Elizabeth Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.209449,
+    "longitude": -121.987726,
+    "elevation_ft": 700,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Enumclaw"
+  },
+  "keywords": [
+    "Enumclaw Community Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7624
+  }
+}

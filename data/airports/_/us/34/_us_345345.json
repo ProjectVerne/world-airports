@@ -1,0 +1,30 @@
+{
+  "key": "_us_345345",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "9IN0",
+    "local": "9IN0"
+  },
+  "name": "Smith Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.453438,
+    "longitude": -85.288754,
+    "elevation_ft": 902,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Hartford City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345345
+  }
+}

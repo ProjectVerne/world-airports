@@ -1,0 +1,32 @@
+{
+  "key": "_us_10222",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "37FA",
+    "local": "37FA"
+  },
+  "name": "Advent Health Orlando Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.575654,
+    "longitude": -81.368268,
+    "elevation_ft": 75,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Orlando"
+  },
+  "keywords": [
+    "Florida Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10222
+  }
+}

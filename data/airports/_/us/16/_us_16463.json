@@ -1,0 +1,30 @@
+{
+  "key": "_us_16463",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AZ76",
+    "local": "AZ76"
+  },
+  "name": "Chandler Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.298117,
+    "longitude": -111.873527,
+    "elevation_ft": 1195,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Chandler"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16463
+  }
+}

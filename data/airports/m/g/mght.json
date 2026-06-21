@@ -1,0 +1,31 @@
+{
+  "key": "mght",
+  "codes": {
+    "icao": "MGHT",
+    "iata": "HUG",
+    "gps": "MGHT",
+    "local": null
+  },
+  "name": "Huehuetenango Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.316667,
+    "longitude": -91.505556,
+    "elevation_ft": 6135,
+    "iso_country": "GT",
+    "iso_region": "GT-HU",
+    "municipality": "Huehuetenango"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Huehuetenango_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42226
+  }
+}

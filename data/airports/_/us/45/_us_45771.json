@@ -1,0 +1,32 @@
+{
+  "key": "_us_45771",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PN82",
+    "local": "PN82"
+  },
+  "name": "DVS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.674283,
+    "longitude": -75.5051,
+    "elevation_ft": 375,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Whitehall"
+  },
+  "keywords": [
+    "West Coplay"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45771
+  }
+}

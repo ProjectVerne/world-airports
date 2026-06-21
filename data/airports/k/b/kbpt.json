@@ -1,0 +1,33 @@
+{
+  "key": "kbpt",
+  "codes": {
+    "icao": "KBPT",
+    "iata": "BPT",
+    "gps": "KBPT",
+    "local": "BPT"
+  },
+  "name": "Jack Brooks Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.9508,
+    "longitude": -94.020699,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Beaumont/Port Arthur"
+  },
+  "keywords": [
+    "Southeast Texas Regional"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jack_Brooks_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3423
+  }
+}

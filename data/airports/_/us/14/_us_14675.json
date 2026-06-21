@@ -1,0 +1,32 @@
+{
+  "key": "_us_14675",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "85FD",
+    "local": "85FD"
+  },
+  "name": "AdventHealth Kissimmee Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.315393,
+    "longitude": -81.405979,
+    "elevation_ft": 81,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Kissimmee"
+  },
+  "keywords": [
+    "Florida Hospital Kissimmee"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 14675
+  }
+}

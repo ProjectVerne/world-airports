@@ -1,0 +1,31 @@
+{
+  "key": "pmdy",
+  "codes": {
+    "icao": "PMDY",
+    "iata": "MDY",
+    "gps": "PMDY",
+    "local": "MDY"
+  },
+  "name": "Henderson Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.2017,
+    "longitude": -177.380997,
+    "elevation_ft": 13,
+    "iso_country": "UM",
+    "iso_region": "UM-71",
+    "municipality": "Sand Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Henderson_Field_(Midway_Atoll)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5494
+  }
+}

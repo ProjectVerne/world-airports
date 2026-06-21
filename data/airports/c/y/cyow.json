@@ -1,0 +1,35 @@
+{
+  "key": "cyow",
+  "codes": {
+    "icao": "CYOW",
+    "iata": "YOW",
+    "gps": "CYOW",
+    "local": "YOW"
+  },
+  "name": "Ottawa Macdonald-Cartier International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.322498,
+    "longitude": -75.669197,
+    "elevation_ft": 374,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Ottawa"
+  },
+  "keywords": [
+    "Uplands",
+    "UUP",
+    "CUUP"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ottawa_Macdonald%E2%80%93Cartier_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1840
+  }
+}

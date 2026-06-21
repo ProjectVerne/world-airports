@@ -1,0 +1,30 @@
+{
+  "key": "eben",
+  "codes": {
+    "icao": "EBEN",
+    "iata": null,
+    "gps": "EBEN",
+    "local": null
+  },
+  "name": "Engels Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.211858,
+    "longitude": 4.581093,
+    "elevation_ft": 33,
+    "iso_country": "BE",
+    "iso_region": "BE-VAN",
+    "municipality": "Ranst"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43721
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_15945",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "9PS5",
+    "local": "9PS5"
+  },
+  "name": "Reading Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.330601,
+    "longitude": -75.950203,
+    "elevation_ft": 320,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "West Reading"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15945
+  }
+}

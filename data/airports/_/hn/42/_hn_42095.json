@@ -1,0 +1,33 @@
+{
+  "key": "_hn_42095",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Las Vegas Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 14.874575,
+    "longitude": -88.07353,
+    "elevation_ft": 870,
+    "iso_country": "HN",
+    "iso_region": "HN-SB",
+    "municipality": "Las Vegas"
+  },
+  "keywords": [
+    "MHLV",
+    "HN-0017"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42095
+  }
+}

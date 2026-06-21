@@ -1,0 +1,31 @@
+{
+  "key": "lppi",
+  "codes": {
+    "icao": "LPPI",
+    "iata": "PIX",
+    "gps": "LPPI",
+    "local": null
+  },
+  "name": "Pico Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.554298,
+    "longitude": -28.441299,
+    "elevation_ft": 109,
+    "iso_country": "PT",
+    "iso_region": "PT-20",
+    "municipality": "Pico Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pico_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4457
+  }
+}

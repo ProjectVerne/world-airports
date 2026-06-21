@@ -1,0 +1,32 @@
+{
+  "key": "_us_350104",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Felda Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.52105,
+    "longitude": -81.40396,
+    "elevation_ft": 33,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "LaBelle"
+  },
+  "keywords": [
+    "US-5898"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350104
+  }
+}

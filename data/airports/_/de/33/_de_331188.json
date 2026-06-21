@@ -1,0 +1,35 @@
+{
+  "key": "_de_331188",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Böblingen Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.690553,
+    "longitude": 9.03221,
+    "elevation_ft": 1683,
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Böblingen"
+  },
+  "keywords": [
+    "PHM",
+    "D051",
+    "DE-0429"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugfeld_(Stadtteil)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331188
+  }
+}

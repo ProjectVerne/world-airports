@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01170",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKD5",
+    "local": "CKD5"
+  },
+  "name": "Kipling Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.099201,
+    "longitude": -102.607002,
+    "elevation_ft": 2157,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Kipling"
+  },
+  "keywords": [
+    "KD5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kipling_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1170
+  }
+}

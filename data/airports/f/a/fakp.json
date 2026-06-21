@@ -1,0 +1,30 @@
+{
+  "key": "fakp",
+  "codes": {
+    "icao": "FAKP",
+    "iata": "KOF",
+    "gps": "FAKP",
+    "local": null
+  },
+  "name": "Komatipoort Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.4403,
+    "longitude": 31.93,
+    "elevation_ft": 541,
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Komatipoort"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30038
+  }
+}

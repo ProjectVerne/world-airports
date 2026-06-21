@@ -1,0 +1,30 @@
+{
+  "key": "_us_08321",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1I6",
+    "local": "1I6"
+  },
+  "name": "Holiday Inn Lakeview Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.283401,
+    "longitude": -85.755798,
+    "elevation_ft": 445,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Clarksville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8321
+  }
+}

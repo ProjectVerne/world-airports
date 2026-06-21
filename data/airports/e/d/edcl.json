@@ -1,0 +1,33 @@
+{
+  "key": "edcl",
+  "codes": {
+    "icao": "EDCL",
+    "iata": null,
+    "gps": "EDCL",
+    "local": null
+  },
+  "name": "Klietz-Scharlibbe Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.709442,
+    "longitude": 12.073333,
+    "elevation_ft": 95,
+    "iso_country": "DE",
+    "iso_region": "DE-ST",
+    "municipality": "Klietz"
+  },
+  "keywords": [
+    "Scharlibbe"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Klietz/Scharlibbe",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29068
+  }
+}

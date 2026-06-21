@@ -1,0 +1,32 @@
+{
+  "key": "_us_12351",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5FL3",
+    "local": "5FL3"
+  },
+  "name": "HCA Florida Brandon Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.932905,
+    "longitude": -82.288778,
+    "elevation_ft": 64,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Brandon"
+  },
+  "keywords": [
+    "Hospital Brandon Helistop"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12351
+  }
+}

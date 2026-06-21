@@ -1,0 +1,33 @@
+{
+  "key": "lspu",
+  "codes": {
+    "icao": "LSPU",
+    "iata": null,
+    "gps": "LSPU",
+    "local": null
+  },
+  "name": "Münster Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.480301,
+    "longitude": 8.26333,
+    "elevation_ft": 4380,
+    "iso_country": "CH",
+    "iso_region": "CH-VS",
+    "municipality": "Münster"
+  },
+  "keywords": [
+    "Muenster"
+  ],
+  "wikipedia": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_M%C3%BCnster",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30169
+  }
+}

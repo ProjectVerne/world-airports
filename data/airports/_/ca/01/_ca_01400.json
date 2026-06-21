@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01400",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPE9",
+    "local": "CPE9"
+  },
+  "name": "Armstrong Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.306702,
+    "longitude": -89.029999,
+    "elevation_ft": 1125,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Armstrong"
+  },
+  "keywords": [
+    "PE9"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1400
+  }
+}

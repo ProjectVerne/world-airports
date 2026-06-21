@@ -1,0 +1,37 @@
+{
+  "key": "kndv",
+  "codes": {
+    "icao": "KNDV",
+    "iata": null,
+    "gps": "KNDV",
+    "local": "NDV"
+  },
+  "name": "Anacostia USN Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.854049,
+    "longitude": -77.012046,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington"
+  },
+  "keywords": [
+    "BOF",
+    "KBOF",
+    "Bolling AFB",
+    "Marine One",
+    "US-11138"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Joint_Base_Anacostia-Bolling",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16503
+  }
+}

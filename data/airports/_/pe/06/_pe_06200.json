@@ -1,0 +1,30 @@
+{
+  "key": "_pe_06200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SPAB",
+    "local": "SP72"
+  },
+  "name": "Huancabamba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.25677,
+    "longitude": -79.442902,
+    "elevation_ft": 6312,
+    "iso_country": "PE",
+    "iso_region": "PE-PIU",
+    "municipality": "Huancabamba"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6200
+  }
+}

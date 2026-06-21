@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01411",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPG9",
+    "local": "CPG9"
+  },
+  "name": "Renfrew (Victoria Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.482498,
+    "longitude": -76.696098,
+    "elevation_ft": 400,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Renfrew"
+  },
+  "keywords": [
+    "PG9"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1411
+  }
+}

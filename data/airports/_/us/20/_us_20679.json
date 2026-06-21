@@ -1,0 +1,33 @@
+{
+  "key": "_us_20679",
+  "codes": {
+    "icao": null,
+    "iata": "COA",
+    "gps": "O22",
+    "local": "O22"
+  },
+  "name": "Columbia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.030399,
+    "longitude": -120.415001,
+    "elevation_ft": 2118,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Columbia"
+  },
+  "keywords": [
+    "KO22"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Columbia_Airport_(California)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20679
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_23321",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Car Country Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 35.987999,
+    "longitude": -114.926003,
+    "elevation_ft": 2300,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Henderson"
+  },
+  "keywords": [
+    "NV10",
+    "US-11927"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23321
+  }
+}

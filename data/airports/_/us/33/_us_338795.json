@@ -1,0 +1,32 @@
+{
+  "key": "_us_338795",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Fort Huachuca TARS Site",
+  "type": "balloonport",
+  "status": "open",
+  "location": {
+    "latitude": 31.48581,
+    "longitude": -110.29571,
+    "elevation_ft": 4872,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Fort Huachuca"
+  },
+  "keywords": [
+    "US-2456"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 338795
+  }
+}

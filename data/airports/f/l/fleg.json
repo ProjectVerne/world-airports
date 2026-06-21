@@ -1,0 +1,30 @@
+{
+  "key": "fleg",
+  "codes": {
+    "icao": "FLEG",
+    "iata": null,
+    "gps": "FLEG",
+    "local": null
+  },
+  "name": "East Seven Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -12.41734,
+    "longitude": 29.483342,
+    "elevation_ft": 4000,
+    "iso_country": "ZM",
+    "iso_region": "ZM-04",
+    "municipality": "Kanshela"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31145
+  }
+}

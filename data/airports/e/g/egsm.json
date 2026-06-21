@@ -1,0 +1,33 @@
+{
+  "key": "egsm",
+  "codes": {
+    "icao": "EGSM",
+    "iata": null,
+    "gps": "EGSM",
+    "local": null
+  },
+  "name": "Beccles Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.435299,
+    "longitude": 1.61833,
+    "elevation_ft": 80,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Beccles, Suffolk"
+  },
+  "keywords": [
+    "RAF Beccles"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Beccles_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29186
+  }
+}

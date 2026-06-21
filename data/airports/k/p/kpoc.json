@@ -1,0 +1,31 @@
+{
+  "key": "kpoc",
+  "codes": {
+    "icao": "KPOC",
+    "iata": "POC",
+    "gps": "KPOC",
+    "local": "POC"
+  },
+  "name": "Brackett Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.091599,
+    "longitude": -117.781998,
+    "elevation_ft": 1011,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "La Verne"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brackett_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20854
+  }
+}

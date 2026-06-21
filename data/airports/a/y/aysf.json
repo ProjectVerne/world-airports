@@ -1,0 +1,30 @@
+{
+  "key": "aysf",
+  "codes": {
+    "icao": "AYSF",
+    "iata": "SFU",
+    "gps": "AYSF",
+    "local": "SFA"
+  },
+  "name": "Safia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.594471,
+    "longitude": 148.639305,
+    "elevation_ft": 430,
+    "iso_country": "PG",
+    "iso_region": "PG-NPP",
+    "municipality": "Safia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307121
+  }
+}

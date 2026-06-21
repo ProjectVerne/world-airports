@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00781",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CCS5",
+    "local": "CCS5"
+  },
+  "name": "Havelock Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.986401,
+    "longitude": -65.301903,
+    "elevation_ft": 425,
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Havelock"
+  },
+  "keywords": [
+    "CS5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Havelock_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 781
+  }
+}

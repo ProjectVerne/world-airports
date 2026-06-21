@@ -1,0 +1,30 @@
+{
+  "key": "_us_23868",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OR18",
+    "local": "OR18"
+  },
+  "name": "Davis Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.774087,
+    "longitude": -118.559845,
+    "elevation_ft": 1550,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Adams"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23868
+  }
+}

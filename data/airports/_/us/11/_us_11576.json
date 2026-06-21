@@ -1,0 +1,32 @@
+{
+  "key": "_us_11576",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4MS6",
+    "local": "4MS6"
+  },
+  "name": "University of Mississippi Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.328429,
+    "longitude": -90.174025,
+    "elevation_ft": 344,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Jackson"
+  },
+  "keywords": [
+    "University Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11576
+  }
+}

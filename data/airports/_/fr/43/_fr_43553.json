@@ -1,0 +1,32 @@
+{
+  "key": "_fr_43553",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Centre Hospitalier Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.476112,
+    "longitude": 4.515556,
+    "elevation_ft": 1249,
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Saint Chamond"
+  },
+  "keywords": [
+    "FR-0213"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43553
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "vcct",
+  "codes": {
+    "icao": "VCCT",
+    "iata": "TRR",
+    "gps": "VCCT",
+    "local": null
+  },
+  "name": "China Bay Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.539159,
+    "longitude": 81.18128,
+    "elevation_ft": 6,
+    "iso_country": "LK",
+    "iso_region": "LK-5",
+    "municipality": "Trincomalee"
+  },
+  "keywords": [
+    "SLAF China Bay",
+    "RAF China Bay",
+    "Trincomalee Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/China_Bay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26471
+  }
+}

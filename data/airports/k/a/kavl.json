@@ -1,0 +1,31 @@
+{
+  "key": "kavl",
+  "codes": {
+    "icao": "KAVL",
+    "iata": "AVL",
+    "gps": "KAVL",
+    "local": "AVL"
+  },
+  "name": "Asheville Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.435488,
+    "longitude": -82.541853,
+    "elevation_ft": 2165,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Asheville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Asheville_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3387
+  }
+}

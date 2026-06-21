@@ -1,0 +1,35 @@
+{
+  "key": "_us_23301",
+  "codes": {
+    "icao": null,
+    "iata": "HBB",
+    "gps": "NM83",
+    "local": "NM83"
+  },
+  "name": "Industrial Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.7668,
+    "longitude": -103.209,
+    "elevation_ft": 3707,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Hobbs"
+  },
+  "keywords": [
+    "Hobbs Army Airfield",
+    "Hobbs Municipal Airport",
+    "Crossroads Intercontinental Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hobbs_Army_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23301
+  }
+}

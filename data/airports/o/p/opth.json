@@ -1,0 +1,30 @@
+{
+  "key": "opth",
+  "codes": {
+    "icao": "OPTH",
+    "iata": "BDN",
+    "gps": "OPTH",
+    "local": null
+  },
+  "name": "Talhar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.841499,
+    "longitude": 68.838402,
+    "elevation_ft": 28,
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Badin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5282
+  }
+}

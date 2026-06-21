@@ -1,0 +1,31 @@
+{
+  "key": "lfrm",
+  "codes": {
+    "icao": "LFRM",
+    "iata": "LME",
+    "gps": "LFRM",
+    "local": null
+  },
+  "name": "Le Mans-Arnage Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.948604,
+    "longitude": 0.201702,
+    "elevation_ft": 194,
+    "iso_country": "FR",
+    "iso_region": "FR-PDL",
+    "municipality": "Le Mans, Sarthe"
+  },
+  "keywords": [],
+  "wikipedia": "https://fr.wikipedia.org/wiki/A%C3%A9roport_Le_Mans-Arnage",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4217
+  }
+}

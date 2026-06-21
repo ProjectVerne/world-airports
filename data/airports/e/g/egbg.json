@@ -1,0 +1,31 @@
+{
+  "key": "egbg",
+  "codes": {
+    "icao": "EGBG",
+    "iata": null,
+    "gps": "EGBG",
+    "local": null
+  },
+  "name": "Leicester Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.606574,
+    "longitude": -1.030226,
+    "elevation_ft": 469,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Leicester, Leicestershire"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Leicester_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2391
+  }
+}

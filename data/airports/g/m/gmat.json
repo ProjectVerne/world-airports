@@ -1,0 +1,33 @@
+{
+  "key": "gmat",
+  "codes": {
+    "icao": "GMAT",
+    "iata": "TTA",
+    "gps": "GMAT",
+    "local": null
+  },
+  "name": "Tan Tan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.447563,
+    "longitude": -11.161749,
+    "elevation_ft": 653,
+    "iso_country": "MA",
+    "iso_region": "MA-10",
+    "municipality": "Tan Tan"
+  },
+  "keywords": [
+    "Plage Blanche Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tan_Tan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3102
+  }
+}

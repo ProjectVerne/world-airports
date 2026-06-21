@@ -1,0 +1,30 @@
+{
+  "key": "_us_16486",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AZ99",
+    "local": "AZ99"
+  },
+  "name": "Phoenix Children's Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.479198,
+    "longitude": -112.042,
+    "elevation_ft": 1175,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Phoenix"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16486
+  }
+}

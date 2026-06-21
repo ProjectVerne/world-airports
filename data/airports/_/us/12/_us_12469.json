@@ -1,0 +1,30 @@
+{
+  "key": "_us_12469",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5MA0",
+    "local": "5MA0"
+  },
+  "name": "Federal Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.3965,
+    "longitude": -71.216202,
+    "elevation_ft": 220,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Waltham"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12469
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "keed",
+  "codes": {
+    "icao": "KEED",
+    "iata": "EED",
+    "gps": "KEED",
+    "local": "EED"
+  },
+  "name": "Needles Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.7663,
+    "longitude": -114.623001,
+    "elevation_ft": 983,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Needles"
+  },
+  "keywords": [
+    "Needles AAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Needles_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19727
+  }
+}
