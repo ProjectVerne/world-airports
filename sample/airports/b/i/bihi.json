@@ -1,0 +1,30 @@
+{
+  "key": "bihi",
+  "codes": {
+    "icao": "BIHI",
+    "iata": null,
+    "gps": "BIHI",
+    "local": null
+  },
+  "name": "Hveravellir Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.886101,
+    "longitude": -19.4925,
+    "elevation_ft": 2000,
+    "iso_country": "IS",
+    "iso_region": "IS-5",
+    "municipality": "Hveravellir"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30722
+  }
+}

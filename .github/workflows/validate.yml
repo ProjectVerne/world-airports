@@ -1,28 +1,39 @@
 name: Validate
 
+# NOTE (v2 migration): the live data/ tree is still in the v1 layout. Until the
+# global regeneration PR migrates it, this job validates the committed v2 `sample/`
+# dataset. That PR will repoint `--` from `sample/airports` to `data/airports`.
+
 on:
   pull_request:
     paths:
-      - "data/airports/**"
-      - "scripts/validate.js"
+      - "sample/**"
+      - "scripts/**"
+      - "schema/**"
+      - "package.json"
+      - "package-lock.json"
   push:
     branches:
       - main
     paths:
-      - "data/airports/**"
-      - "scripts/validate.js"
+      - "sample/**"
+      - "scripts/**"
+      - "schema/**"
+      - "package.json"
+      - "package-lock.json"
 
 jobs:
   validate:
-    name: Validate airport JSON files
+    name: Validate v2 records
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "20"
-
-      - name: Run validator
-        run: node scripts/validate.js
+          cache: "npm"
+      - run: npm ci
+      - name: Validate (schema + key==filename + shard path)
+        run: node scripts/validate.js sample/airports
+      - name: Build collision index (smoke test)
+        run: node scripts/export/to-codes.js sample/airports --out dist/codes.json

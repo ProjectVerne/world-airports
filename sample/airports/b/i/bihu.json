@@ -1,0 +1,31 @@
+{
+  "key": "bihu",
+  "codes": {
+    "icao": "BIHU",
+    "iata": "HZK",
+    "gps": "BIHU",
+    "local": null
+  },
+  "name": "Húsavík Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.952301,
+    "longitude": -17.426001,
+    "elevation_ft": 48,
+    "iso_country": "IS",
+    "iso_region": "IS-6",
+    "municipality": "Húsavík"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/H%C3%BAsav%C3%ADk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 121
+  }
+}

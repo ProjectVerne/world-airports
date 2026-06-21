@@ -1,0 +1,31 @@
+{
+  "key": "bibl",
+  "codes": {
+    "icao": "BIBL",
+    "iata": "BLO",
+    "gps": "BIBL",
+    "local": null
+  },
+  "name": "Blönduós Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.644997,
+    "longitude": -20.2875,
+    "elevation_ft": 131,
+    "iso_country": "IS",
+    "iso_region": "IS-5",
+    "municipality": "Blönduós"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bl%C3%B6ndu%C3%B3s_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30771
+  }
+}

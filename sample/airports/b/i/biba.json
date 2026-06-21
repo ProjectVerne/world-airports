@@ -1,0 +1,31 @@
+{
+  "key": "biba",
+  "codes": {
+    "icao": "BIBA",
+    "iata": null,
+    "gps": "BIBA",
+    "local": null
+  },
+  "name": "Bakki Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.556099,
+    "longitude": -20.137501,
+    "elevation_ft": 45,
+    "iso_country": "IS",
+    "iso_region": "IS-8",
+    "municipality": "Bakki"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bakki_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30712
+  }
+}

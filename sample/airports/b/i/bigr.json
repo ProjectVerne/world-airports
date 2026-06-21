@@ -1,0 +1,33 @@
+{
+  "key": "bigr",
+  "codes": {
+    "icao": "BIGR",
+    "iata": "GRY",
+    "gps": "BIGR",
+    "local": null
+  },
+  "name": "Grímsey Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.5458,
+    "longitude": -18.0173,
+    "elevation_ft": 66,
+    "iso_country": "IS",
+    "iso_region": "IS-6",
+    "municipality": "Grímsey/Sandvík"
+  },
+  "keywords": [
+    "Sandvík"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gr%C3%ADmsey_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31549
+  }
+}

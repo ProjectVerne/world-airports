@@ -1,0 +1,32 @@
+{
+  "key": "bims",
+  "codes": {
+    "icao": "BIMS",
+    "iata": null,
+    "gps": "BIMS",
+    "local": null
+  },
+  "name": "Tungubakkar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.181754,
+    "longitude": -21.706101,
+    "elevation_ft": 5,
+    "iso_country": "IS",
+    "iso_region": "IS-1",
+    "municipality": "Tungubakkar"
+  },
+  "keywords": [
+    "Mosfellsbær"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30738
+  }
+}

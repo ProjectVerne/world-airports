@@ -1,0 +1,30 @@
+{
+  "key": "bihl",
+  "codes": {
+    "icao": "BIHL",
+    "iata": null,
+    "gps": "BIHL",
+    "local": null
+  },
+  "name": "Hella Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.8358,
+    "longitude": -20.377501,
+    "elevation_ft": 66,
+    "iso_country": "IS",
+    "iso_region": "IS-8",
+    "municipality": "Hella"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30723
+  }
+}

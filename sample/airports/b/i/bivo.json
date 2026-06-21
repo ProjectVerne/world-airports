@@ -1,0 +1,31 @@
+{
+  "key": "bivo",
+  "codes": {
+    "icao": "BIVO",
+    "iata": "VPN",
+    "gps": "BIVO",
+    "local": null
+  },
+  "name": "Vopnafjörður Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.720596,
+    "longitude": -14.8506,
+    "elevation_ft": 16,
+    "iso_country": "IS",
+    "iso_region": "IS-7",
+    "municipality": "Vopnafjörður"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vopnafj%C3%B6r%C3%B0ur_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32593
+  }
+}

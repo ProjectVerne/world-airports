@@ -1,0 +1,32 @@
+{
+  "key": "bisa",
+  "codes": {
+    "icao": "BISA",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Sauðárflugvöllur",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.842222,
+    "longitude": -16.036389,
+    "elevation_ft": 2200,
+    "iso_country": "IS",
+    "iso_region": "IS-U-A",
+    "municipality": "Sauðár"
+  },
+  "keywords": [
+    "IS-0016"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 602622
+  }
+}

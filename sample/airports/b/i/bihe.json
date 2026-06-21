@@ -1,0 +1,33 @@
+{
+  "key": "bihe",
+  "codes": {
+    "icao": "BIHE",
+    "iata": null,
+    "gps": "BIHE",
+    "local": null
+  },
+  "name": "Herðubreiðarlindir Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.190902,
+    "longitude": -16.204902,
+    "elevation_ft": 1500,
+    "iso_country": "IS",
+    "iso_region": "IS-7",
+    "municipality": "Herðubreiðarlindir"
+  },
+  "keywords": [
+    "Moved marker across the river to map lpcation. ICAO per Doc 7910."
+  ],
+  "wikipedia": "https://fr.wikipedia.org/wiki/A%C3%A9roport_du_Her%C3%B0ubrei%C3%B0arlindir",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30721
+  }
+}

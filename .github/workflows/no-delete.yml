@@ -1,0 +1,32 @@
+name: No-delete guard
+
+# Records are append/update-only: an airport is retired via `status`, never by
+# deleting its file (ARCHITECTURE.md §3). Bulk migrations may bypass this guard
+# by adding the "migration" label to the PR.
+
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "sample/**"
+
+jobs:
+  guard:
+    name: Block record deletions
+    if: ${{ !contains(github.event.pull_request.labels.*.name, 'migration') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Detect deleted record files
+        run: |
+          base="origin/${{ github.base_ref }}"
+          git fetch origin "${{ github.base_ref }}" --quiet
+          deleted=$(git diff --diff-filter=D --name-only "${base}...HEAD" -- 'data/**' 'sample/**' || true)
+          if [ -n "$deleted" ]; then
+            echo "::error::Record deletions are not allowed. Retire via status:closed/abandoned, or add the 'migration' label."
+            echo "$deleted"
+            exit 1
+          fi
+          echo "No record deletions detected. OK."

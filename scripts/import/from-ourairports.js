@@ -1,273 +1,87 @@
 #!/usr/bin/env node
+"use strict";
 /**
- * from-ourairports.js — bootstraps airport JSON files from OurAirports CSV data
+ * from-ourairports.js — build v2 airport records from the OurAirports CSV (CC0).
  *
- * OurAirports publishes CC0-licensed CSVs at:
- *   https://ourairports.com/data/airports.csv
- *   https://ourairports.com/data/runways.csv
- *   https://ourairports.com/data/airport-frequencies.csv
+ * OurAirports publishes CC0-licensed data at https://ourairports.com/data/airports.csv
  *
  * Usage:
- *   node scripts/import/from-ourairports.js [--airports path] [--runways path] [--frequencies path] [--out dir]
+ *   node scripts/import/from-ourairports.js --airports <csv> [options]
  *
- * Flags:
- *   --airports     Path to airports.csv (downloaded from OurAirports)
- *   --runways      Path to runways.csv
- *   --frequencies  Path to airport-frequencies.csv
- *   --out          Output directory (default: data/airports)
- *   --dry-run      Print stats without writing files
+ * Options:
+ *   --airports <path>   OurAirports airports.csv (required)
+ *   --out <dir>         Output root (default: data/airports)
+ *   --country <XX>      Only emit these ISO countries (comma-separated)
+ *   --date <YYYY-MM-DD> created/updated stamp (default: today, UTC)
+ *   --check             Don't write; report what would change vs. existing files
  *
- * Download the CSVs first:
- *   curl -O https://ourairports.com/data/airports.csv
- *   curl -O https://ourairports.com/data/runways.csv
- *   curl -O https://ourairports.com/data/airport-frequencies.csv
+ * Key minting prefers lowercase ICAO; falls back to _<country>_<id>. The shard
+ * path is derived from the key alone. continent is NOT written (auto-derived).
  */
 
 const fs = require("fs");
 const path = require("path");
-const readline = require("readline");
+const lib = require("../lib/airport");
 
-const DEFAULT_OUT = path.join(__dirname, "..", "..", "data", "airports");
-
-// --- Argument parsing ---
-const args = process.argv.slice(2);
-function getArg(flag) {
-  const i = args.indexOf(flag);
-  return i !== -1 ? args[i + 1] : null;
-}
-const dryRun = args.includes("--dry-run");
-const airportsCsvPath = getArg("--airports");
-const runwaysCsvPath = getArg("--runways");
-const freqCsvPath = getArg("--frequencies");
-const outDir = getArg("--out") || DEFAULT_OUT;
-
-if (!airportsCsvPath) {
-  console.error("Error: --airports <path> is required");
-  console.error("Download from: https://ourairports.com/data/airports.csv");
-  process.exit(1);
-}
-
-// --- CSV parser (simple, handles quoted fields) ---
-function parseCsvLine(line) {
-  const result = [];
-  let inQuote = false;
-  let current = "";
-  for (let i = 0; i < line.length; i++) {
-    const ch = line[i];
-    if (ch === '"') {
-      if (inQuote && line[i + 1] === '"') {
-        current += '"';
-        i++;
-      } else {
-        inQuote = !inQuote;
-      }
-    } else if (ch === "," && !inQuote) {
-      result.push(current);
-      current = "";
-    } else {
-      current += ch;
-    }
+function parseArgs(argv) {
+  const a = { out: "data/airports", country: null, date: null, check: false, airports: null };
+  for (let i = 2; i < argv.length; i++) {
+    const k = argv[i];
+    if (k === "--airports") a.airports = argv[++i];
+    else if (k === "--out") a.out = argv[++i];
+    else if (k === "--country") a.country = (argv[++i] || "").toUpperCase().split(",").filter(Boolean);
+    else if (k === "--date") a.date = argv[++i];
+    else if (k === "--check") a.check = true;
+    else throw new Error(`Unknown arg: ${k}`);
   }
-  result.push(current);
-  return result;
+  if (!a.airports) throw new Error("--airports <csv> is required");
+  if (!a.date) a.date = new Date().toISOString().slice(0, 10);
+  return a;
 }
 
-async function parseCsv(filePath) {
-  const rows = [];
-  let headers = null;
-  const rl = readline.createInterface({ input: fs.createReadStream(filePath) });
-  for await (const line of rl) {
-    const cols = parseCsvLine(line);
-    if (!headers) {
-      headers = cols;
-    } else {
-      const obj = {};
-      headers.forEach((h, i) => (obj[h] = cols[i] ?? ""));
-      rows.push(obj);
-    }
-  }
-  return rows;
-}
+function main() {
+  const args = parseArgs(process.argv);
+  const text = fs.readFileSync(args.airports, "utf8");
+  const rows = lib.parseCsvObjects(text);
 
-// --- Helpers ---
-function num(val) {
-  const n = parseFloat(val);
-  return isNaN(n) ? null : n;
-}
-function bool(val) {
-  return val === "1" || val === "yes" || val === "true";
-}
-function strOrNull(val) {
-  return val && val.trim() ? val.trim() : null;
-}
+  const wanted = args.country ? new Set(args.country) : null;
+  // Stable order so key minting (ICAO-first-wins) is deterministic across runs.
+  rows.sort((x, y) => Number(x.id) - Number(y.id));
 
-function surfaceFromOa(raw) {
-  if (!raw) return "unknown";
-  const s = raw.toLowerCase();
-  if (s.includes("asph") || s.includes("bit") || s.includes("asp")) return "asphalt";
-  if (s.includes("conc") || s.includes("pcc")) return "concrete";
-  if (s.includes("gravel") || s.includes("grvl") || s.includes("grv")) return "gravel";
-  if (s.includes("grass") || s.includes("turf") || s.includes("grs")) return "grass";
-  if (s.includes("dirt") || s.includes("clay")) return "dirt";
-  if (s.includes("sand") || s.includes("snd")) return "sand";
-  if (s.includes("water") || s.includes("wat")) return "water";
-  if (s.includes("snow") || s.includes("ice")) return "snow";
-  if (s.includes("pem")) return "pem";
-  return "unknown";
-}
+  const usedKeys = new Set();
+  let written = 0, skipped = 0, changed = 0, unchanged = 0;
 
-function freqTypeFromOa(raw) {
-  const t = (raw || "").toUpperCase().trim();
-  const VALID = ["ATIS", "APP", "DEP", "TWR", "GND", "CLNC DEL", "UNIC", "CTAF", "AWOS", "ASOS", "FSS"];
-  if (VALID.includes(t)) return t;
-  if (t.includes("APPR") || t.includes("APPROACH")) return "APP";
-  if (t.includes("DEP")) return "DEP";
-  if (t.includes("TWR") || t.includes("TOWER")) return "TWR";
-  if (t.includes("GND") || t.includes("GROUND")) return "GND";
-  if (t.includes("ATIS")) return "ATIS";
-  if (t.includes("UNIC") || t.includes("CTAF")) return "UNIC";
-  return "OTHER";
-}
+  for (const row of rows) {
+    const country = (row.iso_country || "").toUpperCase();
+    // Mint keys against the GLOBAL set even when filtering, so a sample country's
+    // keys match exactly what a full run would produce.
+    const rec = lib.recordFromOurAirports(row, { date: args.date, usedKeys });
 
-function icaoFilename(airport) {
-  if (airport.gps_code && /^[A-Za-z]{4}$/.test(airport.gps_code.trim())) {
-    return airport.gps_code.trim().toLowerCase();
-  }
-  // No valid ICAO — use _<country>_<ourairports_id>
-  const country = (strOrNull(airport.iso_country) || "xx").toLowerCase().slice(0, 2);
-  const id = String(airport.id).padStart(5, "0");
-  return `_${country}_${id}`;
-}
+    if (wanted && !wanted.has(country)) { skipped++; continue; }
 
-const today = new Date().toISOString().slice(0, 10);
+    const rel = lib.relPathFor(rec.key);
+    const dest = path.join(args.out, rel);
+    const serialized = lib.serialize(rec);
 
-// --- Main ---
-(async () => {
-  console.log("Loading airports CSV...");
-  const airports = await parseCsv(airportsCsvPath);
-  console.log(`  ${airports.length} airports loaded`);
-
-  // Index runways by ident
-  const runwaysByIdent = {};
-  if (runwaysCsvPath) {
-    console.log("Loading runways CSV...");
-    const runways = await parseCsv(runwaysCsvPath);
-    console.log(`  ${runways.length} runway entries loaded`);
-    for (const rwy of runways) {
-      const k = rwy.airport_ident?.toUpperCase();
-      if (!k) continue;
-      if (!runwaysByIdent[k]) runwaysByIdent[k] = [];
-      runwaysByIdent[k].push(rwy);
-    }
-  }
-
-  // Index frequencies by ident
-  const freqsByIdent = {};
-  if (freqCsvPath) {
-    console.log("Loading frequencies CSV...");
-    const freqs = await parseCsv(freqCsvPath);
-    console.log(`  ${freqs.length} frequency entries loaded`);
-    for (const freq of freqs) {
-      const k = freq.airport_ident?.toUpperCase();
-      if (!k) continue;
-      if (!freqsByIdent[k]) freqsByIdent[k] = [];
-      freqsByIdent[k].push(freq);
-    }
-  }
-
-  if (!dryRun) {
-    fs.mkdirSync(outDir, { recursive: true });
-  }
-
-  let written = 0;
-  let skipped = 0;
-  const seenFilenames = new Set();
-
-  for (const apt of airports) {
-    const filename = icaoFilename(apt);
-    const filePath = path.join(outDir, `${filename}.json`);
-
-    // Handle collisions (should be rare)
-    if (seenFilenames.has(filename)) {
-      console.warn(`  COLLISION: ${filename} — skipping duplicate for airport id ${apt.id}`);
-      skipped++;
+    if (args.check) {
+      const prev = fs.existsSync(dest) ? fs.readFileSync(dest, "utf8") : null;
+      if (prev === null || prev !== serialized) changed++;
+      else unchanged++;
       continue;
     }
-    seenFilenames.add(filename);
 
-    const ident = apt.gps_code?.trim().toUpperCase() || null;
-    const oaRunways = runwaysByIdent[ident] || runwaysByIdent[apt.local_code?.trim().toUpperCase()] || [];
-    const oaFreqs = freqsByIdent[ident] || freqsByIdent[apt.local_code?.trim().toUpperCase()] || [];
-
-    const runways = oaRunways.map((rwy) => ({
-      id: `${rwy.le_ident || "?"}/${rwy.he_ident || "?"}`,
-      length_ft: num(rwy.length_ft) ?? 0,
-      width_ft: num(rwy.width_ft) ?? 0,
-      surface: surfaceFromOa(rwy.surface),
-      lighted: bool(rwy.lighted),
-      closed: bool(rwy.closed),
-      ends: {
-        low: {
-          ident: strOrNull(rwy.le_ident) || "?",
-          latitude: num(rwy.le_latitude_deg),
-          longitude: num(rwy.le_longitude_deg),
-          elevation_ft: num(rwy.le_elevation_ft),
-          heading_true: num(rwy.le_heading_degT),
-          displaced_threshold_ft: num(rwy.le_displaced_threshold_ft) ?? 0,
-        },
-        high: {
-          ident: strOrNull(rwy.he_ident) || "?",
-          latitude: num(rwy.he_latitude_deg),
-          longitude: num(rwy.he_longitude_deg),
-          elevation_ft: num(rwy.he_elevation_ft),
-          heading_true: num(rwy.he_heading_degT),
-          displaced_threshold_ft: num(rwy.he_displaced_threshold_ft) ?? 0,
-        },
-      },
-    }));
-
-    const frequencies = oaFreqs.map((freq) => ({
-      type: freqTypeFromOa(freq.type),
-      description: strOrNull(freq.description) || "",
-      mhz: num(freq.frequency_mhz) ?? 0,
-    }));
-
-    const isNoIcao = filename.startsWith("_");
-
-    const record = {
-      icao: isNoIcao ? null : ident,
-      iata: strOrNull(apt.iata_code),
-      name: apt.name?.trim() || "Unknown",
-      type: apt.type?.trim() || "small_airport",
-      status: bool(apt.closed) ? "closed" : "open",
-      location: {
-        latitude: num(apt.latitude_deg),
-        longitude: num(apt.longitude_deg),
-        elevation_ft: num(apt.elevation_ft),
-        continent: strOrNull(apt.continent),
-        iso_country: strOrNull(apt.iso_country),
-        iso_region: strOrNull(apt.iso_region),
-        municipality: strOrNull(apt.municipality),
-      },
-      scheduled_service: bool(apt.scheduled_service),
-      wikipedia: strOrNull(apt.wikipedia_link),
-      keywords: apt.keywords ? apt.keywords.split(",").map((k) => k.trim()).filter(Boolean) : [],
-      runways,
-      frequencies,
-      metadata: {
-        ...(isNoIcao ? { ourairports_id: num(apt.id) } : {}),
-        created: today,
-        updated: today,
-        sources: ["ourairports"],
-      },
-    };
-
-    if (!dryRun) {
-      fs.writeFileSync(filePath, JSON.stringify(record, null, 2));
-    }
+    fs.mkdirSync(path.dirname(dest), { recursive: true });
+    fs.writeFileSync(dest, serialized);
     written++;
   }
 
-  console.log(`\nDone. Written: ${written}  Skipped (collisions): ${skipped}`);
-  if (dryRun) console.log("(dry run — no files written)");
-})();
+  if (args.check) {
+    console.log(`check: ${changed} would change/add, ${unchanged} unchanged` +
+      (wanted ? `, ${skipped} outside filter` : ""));
+  } else {
+    console.log(`wrote ${written} record(s) to ${args.out}` +
+      (wanted ? ` (filtered to ${[...wanted].join(",")}, skipped ${skipped})` : ""));
+  }
+}
+
+main();

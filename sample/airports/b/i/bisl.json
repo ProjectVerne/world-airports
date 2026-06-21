@@ -1,0 +1,32 @@
+{
+  "key": "bisl",
+  "codes": {
+    "icao": "BISL",
+    "iata": null,
+    "gps": "BISL",
+    "local": null
+  },
+  "name": "Skaftafell Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.99948,
+    "longitude": -16.94116,
+    "elevation_ft": 249,
+    "iso_country": "IS",
+    "iso_region": "IS-8",
+    "municipality": "Öræfi"
+  },
+  "keywords": [
+    "IS-0003"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 356245
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "birl",
+  "codes": {
+    "icao": "BIRL",
+    "iata": "MVA",
+    "gps": "BIRL",
+    "local": null
+  },
+  "name": "Mývatn Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.6558,
+    "longitude": -16.9181,
+    "elevation_ft": 1030,
+    "iso_country": "IS",
+    "iso_region": "IS-6",
+    "municipality": "Myvatn"
+  },
+  "keywords": [
+    "Reykjahlíð"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/M%C3%BDvatn_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31973
+  }
+}

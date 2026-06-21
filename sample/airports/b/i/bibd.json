@@ -1,0 +1,31 @@
+{
+  "key": "bibd",
+  "codes": {
+    "icao": "BIBD",
+    "iata": "BIU",
+    "gps": "BIBD",
+    "local": null
+  },
+  "name": "Bildudalur Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.641296,
+    "longitude": -23.5462,
+    "elevation_ft": 18,
+    "iso_country": "IS",
+    "iso_region": "IS-4",
+    "municipality": "Bildudalur"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/B%C3%ADldudalur_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 118
+  }
+}

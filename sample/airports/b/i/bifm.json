@@ -1,0 +1,31 @@
+{
+  "key": "bifm",
+  "codes": {
+    "icao": "BIFM",
+    "iata": "FAG",
+    "gps": "BIFM",
+    "local": null
+  },
+  "name": "Fagurhólsmýri Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.874699,
+    "longitude": -16.6411,
+    "elevation_ft": 56,
+    "iso_country": "IS",
+    "iso_region": "IS-7",
+    "municipality": "Fagurhólsmýri"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fagurh%C3%B3lsm%C3%BDri_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31041
+  }
+}

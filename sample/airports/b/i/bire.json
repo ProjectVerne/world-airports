@@ -1,0 +1,30 @@
+{
+  "key": "bire",
+  "codes": {
+    "icao": "BIRE",
+    "iata": "RHA",
+    "gps": "BIRE",
+    "local": null
+  },
+  "name": "Reykhólar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.452629,
+    "longitude": -22.206116,
+    "elevation_ft": 60,
+    "iso_country": "IS",
+    "iso_region": "IS-4",
+    "municipality": "Reykhólar"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32207
+  }
+}
