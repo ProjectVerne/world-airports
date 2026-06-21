@@ -1,0 +1,55 @@
+name: Add an airport
+description: Request a new airport be added to the dataset (or report a missing one).
+title: "Add airport: "
+labels: ["airport-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping grow the dataset. Fill in what you know — coordinates
+        and a source are the most important. A maintainer (or the weekly sync)
+        will add it. See [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md).
+  - type: input
+    id: code
+    attributes:
+      label: Code
+      description: The ICAO / IATA / local code you searched for.
+      placeholder: e.g. KXYZ
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Airport name
+      placeholder: e.g. Example Regional Airport
+    validations:
+      required: true
+  - type: input
+    id: latitude
+    attributes:
+      label: Latitude (decimal degrees)
+      placeholder: e.g. 33.9425
+    validations:
+      required: false
+  - type: input
+    id: longitude
+    attributes:
+      label: Longitude (decimal degrees)
+      placeholder: e.g. -118.408
+    validations:
+      required: false
+  - type: input
+    id: country
+    attributes:
+      label: ISO country code
+      placeholder: e.g. US
+    validations:
+      required: false
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source(s)
+      description: Where did this information come from? (link preferred)
+      placeholder: e.g. https://ourairports.com/airports/...
+    validations:
+      required: false
