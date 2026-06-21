@@ -99,9 +99,21 @@ These are produced by `scripts/export/*` and published as **release assets** on
 each `vYYYY.MM` tag (and/or pushed to S3). Consumers pin a release/tag or a
 content hash and pull **one** artifact — never the 32k+ individual files via API.
 
-Directory sharding (`data/airports/<iso_country>/<first-char>/<key>.json`) keeps
-any single folder browsable on GitHub (which truncates flat listings at 1,000
-entries) and makes country-scoped review trivial.
+Directory sharding is derived **from the immutable `key` alone**
+(`data/airports/<key[0]>/<key[1]>/<key>.json`), never from a mutable attribute.
+This is deliberate: country/sovereignty is one of the most volatile attributes
+there is (annexations, secessions, contested borders), and binding the physical
+layout to it would force files to migrate directories on political events —
+churn, noisy diffs, and instability. Keying layout on the immutable identity
+means a record's path **never changes for any reason**. Geography-scoped browsing
+("all DE airports") is served by the generated indexes in `dist/`, not the tree.
+
+Country itself (`iso_country`/`iso_region`) is just a **mutable, sourced
+attribute**: geography (coordinates) is the ground truth that never moves, and
+political attribution is layered on top, edited like any other field with a
+citation. We mirror ISO 3166 + ICAO assignments rather than adjudicate disputes.
+An annexation is therefore an ordinary field edit — no re-key, no file move, no
+route impact.
 
 ---
 
@@ -159,7 +171,9 @@ Contributor / FAA auto-sync PR
 - **DB richness** — does Verne store the full `runways`/`frequencies`/`codes`
   blocks, or only the fields its current table needs (name, country, region,
   lat/lon) plus `key` + `codes`?
-- **Sharding key** — `iso_country/<first-char>` (proposed) vs. continent-based
-  vs. flat-with-prefix. Affects the one-time migration commit.
+- **Sharding bucket sizing** — layout is keyed on the immutable `key` (decided;
+  not country). Remaining detail: the exact bucket depth for the large
+  `_`-prefixed no-ICAO sets so directories stay balanced. Finalized in the
+  migration PR.
 - **Artifact transport** — GitHub Release assets vs. S3 bucket for `dist/*`, and
   whether the importer pins a tag or a content hash.
