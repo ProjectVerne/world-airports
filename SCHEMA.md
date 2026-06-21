@@ -67,8 +67,6 @@ historic ICAO across a reassignment. Lookups by any code are therefore
 |---|---|---|---|
 | `type` | string | Yes | See [Airport Types](#airport-types). |
 | `scheduled_service` | boolean | Yes | Whether the airport has scheduled commercial service. |
-| `runways` | object[] | Yes | See [Runways](#runways). May be empty. |
-| `frequencies` | object[] | Yes | See [Frequencies](#frequencies). May be empty. |
 
 ## 5. Metro-only fields (`kind: "metro"`)
 
@@ -115,59 +113,13 @@ always resolves to its `members` for the caller to disambiguate.
 | `latitude` | number | Yes | WGS84 decimal degrees, range [-90, 90] |
 | `longitude` | number | Yes | WGS84 decimal degrees, range [-180, 180] |
 | `elevation_ft` | number | Yes | Elevation above MSL in feet (city centroid elevation for a metro) |
-| `continent` | string | Yes | 2-letter continent code (NA, SA, EU, AF, AS, OC, AN) |
 | `iso_country` | string | Yes | ISO 3166-1 alpha-2 country code |
 | `iso_region` | string | Yes | ISO 3166-2 region code |
 | `municipality` | string \| null | Yes | Nearest city or town |
 
----
-
-## Runways
-
-Each runway object represents a single runway (both directions).
-
-| Field | Type | Required | Description |
-|---|---|---|---|
-| `id` | string | Yes | Runway identifier, e.g. `06L/24R` |
-| `length_ft` | number | Yes | Total runway length in feet |
-| `width_ft` | number | Yes | Width in feet |
-| `surface` | string | Yes | See [Surface Types](#surface-types) |
-| `lighted` | boolean | Yes | Whether runway has lighting |
-| `closed` | boolean | Yes | Whether this runway is closed |
-| `ends` | object | Yes | `low` and `high` runway end objects |
-
-### Runway End Fields
-
-Each of `ends.low` and `ends.high`:
-
-| Field | Type | Description |
-|---|---|---|
-| `ident` | string | Runway designator, e.g. `06L` |
-| `latitude` | number | WGS84 latitude of threshold |
-| `longitude` | number | WGS84 longitude of threshold |
-| `elevation_ft` | number | Threshold elevation in feet |
-| `heading_true` | number | True heading (0–360) |
-| `displaced_threshold_ft` | number | Displaced threshold distance in feet |
-
-### Surface Types
-
-`asphalt`, `concrete`, `gravel`, `grass`, `dirt`, `sand`, `water`, `snow`, `ice`,
-`pem`, `turf`, `unknown`
-
----
-
-## Frequencies
-
-| Field | Type | Required | Description |
-|---|---|---|---|
-| `type` | string | Yes | See [Frequency Types](#frequency-types) |
-| `description` | string | Yes | Human-readable label, e.g. `"Tower (south complex)"` |
-| `mhz` | number | Yes | Frequency in MHz (100–200) |
-
-### Frequency Types
-
-`ATIS`, `APP`, `DEP`, `TWR`, `GND`, `CLNC DEL`, `UNIC`, `CTAF`, `AWOS`, `ASOS`,
-`FSS`, `OTHER`
+> `continent` is **not a contributor input** — it is auto-derived from
+> `iso_country` by tooling and emitted in the generated `dist/*` artifacts
+> (2-letter code: NA, SA, EU, AF, AS, OC, AN).
 
 ---
 
@@ -230,15 +182,12 @@ Rules:
     "latitude": 29.622334,
     "longitude": -95.656555,
     "elevation_ft": 82,
-    "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Houston"
   },
   "keywords": [],
   "wikipedia": null,
-  "runways": [],
-  "frequencies": [],
   "metadata": {
     "created": "2024-01-01",
     "updated": "2024-01-01",

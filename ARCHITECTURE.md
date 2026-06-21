@@ -84,9 +84,12 @@ at must never vanish.
 ## 4. Editable source vs. generated artifacts
 
 The repo holds **one JSON file per record** as the editable source of truth —
-chosen for clean PR diffs, line-level review, and room for nested `runways` /
-`frequencies` / `codes`. Flat tabular forms (the shape every reference dataset
-ships) are **generated**, never hand-edited:
+chosen for clean PR diffs, line-level review, and room for the nested `codes`
+block. The schema is intentionally **lean** (identity + codes + location + a few
+descriptors): runways and frequencies are deliberately excluded — the leading
+reference datasets omit them, no consumer here needs them, and they carry the
+highest staleness and contribution cost. Flat tabular forms (the shape every
+reference dataset ships) are **generated**, never hand-edited:
 
 | Artifact | Purpose |
 |---|---|
@@ -168,9 +171,9 @@ Contributor / FAA auto-sync PR
 
 - **Metro coverage** — do we seed metro records now (LON/NYC/…), or add the
   `kind: "metro"` machinery but defer populating it until Verne's search needs it?
-- **DB richness** — does Verne store the full `runways`/`frequencies`/`codes`
-  blocks, or only the fields its current table needs (name, country, region,
-  lat/lon) plus `key` + `codes`?
+- **DB richness** — does Verne store the full record (type, status, elevation,
+  municipality, keywords) or only the fields its current table needs (name,
+  country, region, lat/lon) plus `key` + `codes`?
 - **Sharding bucket sizing** — layout is keyed on the immutable `key` (decided;
   not country). Remaining detail: the exact bucket depth for the large
   `_`-prefixed no-ICAO sets so directories stay balanced. Finalized in the
