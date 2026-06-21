@@ -1,0 +1,69 @@
+name: Sync (OurAirports, global)
+
+# Weekly global refresh from OurAirports (CC0). Upsert-only: preserves curated
+# records, preserves `created` dates, bumps `updated` only on real changes, and
+# NEVER deletes. Opens a PR when anything changed. Replaces the old US-only sync.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: Merge OurAirports into the dataset
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+      - run: npm ci
+
+      - name: Download OurAirports (CC0)
+        run: curl -fsSL --create-dirs -o _src/airports.csv https://ourairports.com/data/airports.csv
+
+      - name: Merge (upsert, respect curated, never delete)
+        run: node scripts/import/from-ourairports.js --airports _src/airports.csv --out data/airports 2>&1 | tee sync.log
+
+      - name: Validate
+        run: node scripts/validate.js data/airports
+
+      - name: Detect changes
+        id: changes
+        run: |
+          git add data/airports
+          if git diff --cached --quiet; then
+            echo "has=false" >> "$GITHUB_OUTPUT"
+            echo "No changes."
+          else
+            echo "has=true" >> "$GITHUB_OUTPUT"
+            echo "count=$(git diff --cached --name-only data/airports | wc -l | tr -d ' ')" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open pull request
+        if: steps.changes.outputs.has == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          branch="sync/ourairports-$(date +%Y-%m-%d)"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git commit -m "sync: OurAirports update ($(date +%Y-%m-%d))"
+          git push origin "$branch"
+          gh pr create \
+            --base main \
+            --head "$branch" \
+            --title "sync: OurAirports update ($(date +%Y-%m-%d))" \
+            --body "Automated global sync from OurAirports (CC0). Upsert-only; curated records preserved; no deletions.
+
+          Changed files: ${{ steps.changes.outputs.count }}
+
+          \`\`\`
+          $(tail -1 sync.log)
+          \`\`\`"

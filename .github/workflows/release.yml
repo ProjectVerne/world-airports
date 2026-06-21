@@ -1,0 +1,46 @@
+name: Release
+
+# On a vYYYY.MM tag, validate, build the consumption artifacts, and publish them
+# as release assets. Consumers (incl. Verne) pin a release and pull one artifact
+# instead of reading 85k+ individual files.
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+jobs:
+  release:
+    name: Build and publish dist artifacts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+      - run: npm ci
+      - name: Validate dataset
+        run: node scripts/validate.js data/airports
+      - name: Build dist artifacts
+        run: node scripts/build-dist.js data/airports
+      - name: Upload as workflow artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist/
+      - name: Create GitHub release (tag pushes only)
+        if: startsWith(github.ref, 'refs/tags/')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${GITHUB_REF_NAME}" \
+            --title "${GITHUB_REF_NAME}" \
+            --generate-notes \
+            dist/airports.csv \
+            dist/airports.geojson \
+            dist/airports.ndjson \
+            dist/codes.json
