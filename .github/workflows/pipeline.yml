@@ -1,0 +1,31 @@
+name: Pipeline (end-to-end proof)
+
+# Proves the full import -> validate -> index pipeline against live OurAirports
+# data, on a sample country, without committing anything. Runs on tooling changes.
+
+on:
+  pull_request:
+    paths:
+      - "scripts/**"
+      - "schema/**"
+  workflow_dispatch:
+
+jobs:
+  proof:
+    name: Import + validate + index (sample country)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+      - run: npm ci
+      - name: Download OurAirports (CC0)
+        run: curl -fsSL --create-dirs -o _src/airports.csv https://ourairports.com/data/airports.csv
+      - name: Import sample country (Iceland)
+        run: node scripts/import/from-ourairports.js --airports _src/airports.csv --country IS --out _tmp/airports --date 2026-01-01
+      - name: Validate imported records
+        run: node scripts/validate.js _tmp/airports
+      - name: Build collision index
+        run: node scripts/export/to-codes.js _tmp/airports --out _tmp/codes.json

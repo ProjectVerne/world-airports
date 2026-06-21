@@ -1,250 +1,130 @@
 #!/usr/bin/env node
+"use strict";
 /**
- * validate.js — validates all airport JSON files in data/airports/
+ * validate.js — schema-driven validation for the v2 airport dataset.
  *
- * Checks:
- *   - Filename conventions (lowercase ICAO or _<country>_<id> prefix)
- *   - Required fields and types
- *   - Coordinate ranges
- *   - Enum values (type, status, surface, frequency types)
- *   - ISO date formats in metadata
- *   - ICAO field matches filename
+ * Usage:
+ *   node scripts/validate.js [dir]        Validate every .json under <dir>
+ *                                         (default: data/airports)
+ *   node scripts/validate.js --changed    Validate only files changed vs. the
+ *                                         merge-base with origin/main (fast CI path)
+ *
+ * Beyond JSON Schema it enforces the structural invariants that the schema
+ * cannot express: key == filename stem, and file location == key-derived shard
+ * path. It also reports (does not fail on) code collisions, which are expected.
  */
 
 const fs = require("fs");
 const path = require("path");
+const { execSync } = require("child_process");
+const Ajv = require("ajv");
+const addFormats = require("ajv-formats");
+const lib = require("./lib/airport");
 
-const AIRPORTS_DIR = path.join(__dirname, "..", "data", "airports");
-
-const VALID_TYPES = [
-  "large_airport",
-  "medium_airport",
-  "small_airport",
-  "heliport",
-  "seaplane_base",
-  "balloonport",
-  "closed",
-];
-
-const VALID_STATUSES = ["open", "closed", "construction", "abandoned"];
-
-const VALID_SURFACES = [
-  "asphalt",
-  "concrete",
-  "gravel",
-  "grass",
-  "dirt",
-  "sand",
-  "water",
-  "snow",
-  "ice",
-  "pem",
-  "turf",
-  "unknown",
-];
-
-const VALID_FREQ_TYPES = [
-  "ATIS",
-  "APP",
-  "DEP",
-  "TWR",
-  "GND",
-  "CLNC DEL",
-  "UNIC",
-  "CTAF",
-  "AWOS",
-  "ASOS",
-  "FSS",
-  "OTHER",
-];
-
-const ISO_DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
-const ICAO_RE = /^[a-z]{4}$/;
-const NO_ICAO_RE = /^_[a-z]{2}_\d+(_closed_\d{4})?$/;
-const CLOSED_SUFFIX_RE = /^[a-z]{4}_closed_\d{4}$/;
+const SCHEMA = JSON.parse(
+  fs.readFileSync(path.join(__dirname, "..", "schema", "airport.schema.json"), "utf8")
+);
 
 let errors = 0;
-let warnings = 0;
 let checked = 0;
+const seenKeys = new Map();          // key -> file
+const codeIndex = new Map();         // CODE -> [keys]
 
-function err(file, msg) {
-  console.error(`  ERROR  [${file}] ${msg}`);
-  errors++;
-}
+function err(file, msg) { console.error(`  ERROR  [${file}] ${msg}`); errors++; }
 
-function warn(file, msg) {
-  console.warn(`  WARN   [${file}] ${msg}`);
-  warnings++;
-}
-
-function validateRunway(file, rwy, idx) {
-  const prefix = `runway[${idx}]`;
-  if (typeof rwy.id !== "string" || !rwy.id)
-    err(file, `${prefix}.id must be a non-empty string`);
-  if (typeof rwy.length_ft !== "number" || rwy.length_ft <= 0)
-    err(file, `${prefix}.length_ft must be a positive number`);
-  if (typeof rwy.width_ft !== "number" || rwy.width_ft <= 0)
-    err(file, `${prefix}.width_ft must be a positive number`);
-  if (!VALID_SURFACES.includes(rwy.surface))
-    err(
-      file,
-      `${prefix}.surface "${rwy.surface}" is not a valid surface. Valid: ${VALID_SURFACES.join(", ")}`
-    );
-  if (typeof rwy.lighted !== "boolean")
-    err(file, `${prefix}.lighted must be a boolean`);
-  if (typeof rwy.closed !== "boolean")
-    err(file, `${prefix}.closed must be a boolean`);
-
-  for (const end of ["low", "high"]) {
-    const e = rwy.ends?.[end];
-    if (!e) {
-      err(file, `${prefix}.ends.${end} is missing`);
-      continue;
-    }
-    if (typeof e.ident !== "string") err(file, `${prefix}.ends.${end}.ident must be a string`);
-    if (typeof e.latitude !== "number" || e.latitude < -90 || e.latitude > 90)
-      err(file, `${prefix}.ends.${end}.latitude out of range [-90, 90]`);
-    if (typeof e.longitude !== "number" || e.longitude < -180 || e.longitude > 180)
-      err(file, `${prefix}.ends.${end}.longitude out of range [-180, 180]`);
-    if (typeof e.elevation_ft !== "number")
-      err(file, `${prefix}.ends.${end}.elevation_ft must be a number`);
-    if (typeof e.heading_true !== "number" || e.heading_true < 0 || e.heading_true > 360)
-      err(file, `${prefix}.ends.${end}.heading_true must be 0-360`);
-    if (typeof e.displaced_threshold_ft !== "number" || e.displaced_threshold_ft < 0)
-      err(file, `${prefix}.ends.${end}.displaced_threshold_ft must be >= 0`);
+function walk(dir) {
+  const out = [];
+  if (!fs.existsSync(dir)) return out;
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const p = path.join(dir, entry.name);
+    if (entry.isDirectory()) out.push(...walk(p));
+    else if (entry.isFile() && entry.name.endsWith(".json")) out.push(p);
   }
+  return out;
 }
 
-function validateFrequency(file, freq, idx) {
-  const prefix = `frequencies[${idx}]`;
-  if (!VALID_FREQ_TYPES.includes(freq.type))
-    err(
-      file,
-      `${prefix}.type "${freq.type}" is not valid. Valid: ${VALID_FREQ_TYPES.join(", ")}`
-    );
-  if (typeof freq.description !== "string")
-    err(file, `${prefix}.description must be a string`);
-  if (typeof freq.mhz !== "number" || freq.mhz < 100 || freq.mhz > 200)
-    err(file, `${prefix}.mhz must be a number between 100-200`);
+function changedFiles() {
+  let base = "origin/main";
+  try { execSync(`git rev-parse --verify ${base}`, { stdio: "ignore" }); }
+  catch { base = "HEAD~1"; }
+  const out = execSync(`git diff --name-only --diff-filter=ACMR ${base}...HEAD`, { encoding: "utf8" });
+  return out.split("\n").map((s) => s.trim()).filter((f) => f.endsWith(".json") && f.startsWith("data/"));
 }
 
-function validateAirport(filePath) {
-  const filename = path.basename(filePath, ".json");
+function validateFile(validate, file, airportsRoot) {
+  const stem = path.basename(file, ".json");
   let data;
+  try { data = JSON.parse(fs.readFileSync(file, "utf8")); }
+  catch (e) { err(stem, `invalid JSON: ${e.message}`); return; }
 
-  try {
-    data = JSON.parse(fs.readFileSync(filePath, "utf8"));
-  } catch (e) {
-    err(filename, `Failed to parse JSON: ${e.message}`);
-    return;
+  if (!validate(data)) {
+    for (const e of validate.errors) err(stem, `${e.instancePath || "/"} ${e.message}`);
   }
 
-  // Filename convention
-  const isIcao = ICAO_RE.test(filename);
-  const isNoIcao = NO_ICAO_RE.test(filename);
-  const isClosed = CLOSED_SUFFIX_RE.test(filename);
+  // key == filename stem
+  if (data.key !== stem) err(stem, `key "${data.key}" != filename stem "${stem}"`);
 
-  if (!isIcao && !isNoIcao && !isClosed) {
-    err(
-      filename,
-      `Filename "${filename}" does not match a valid convention. ` +
-        `Expected lowercase ICAO (e.g. klax), no-ICAO prefix (e.g. _us_00001), ` +
-        `or closed suffix (e.g. klax_closed_1987)`
-    );
+  // file lives at its key-derived shard path
+  if (data.key) {
+    const expected = lib.relPathFor(data.key);
+    const actual = path.relative(airportsRoot, file).split(path.sep).join("/");
+    if (expected !== actual) err(stem, `wrong location: expected ${expected}, found ${actual}`);
   }
 
-  // ICAO field matches filename
-  if (isIcao && data.icao !== null) {
-    if (typeof data.icao !== "string" || data.icao.toLowerCase() !== filename) {
-      err(filename, `icao field "${data.icao}" does not match filename "${filename}"`);
+  // duplicate key across files
+  if (data.key) {
+    if (seenKeys.has(data.key)) err(stem, `duplicate key, also in ${seenKeys.get(data.key)}`);
+    else seenKeys.set(data.key, file);
+  }
+
+  // collect codes for the (non-failing) collision report
+  if (data.codes) {
+    for (const v of Object.values(data.codes)) {
+      if (!v) continue;
+      const list = codeIndex.get(v) || [];
+      list.push(data.key);
+      codeIndex.set(v, list);
     }
   }
-
-  if (isNoIcao && data.icao !== null) {
-    err(filename, `No-ICAO airports must have icao: null`);
-  }
-
-  // Required top-level fields
-  const requiredStrings = ["name", "type", "status"];
-  for (const f of requiredStrings) {
-    if (typeof data[f] !== "string" || !data[f]) {
-      err(filename, `"${f}" must be a non-empty string`);
-    }
-  }
-
-  if (!VALID_TYPES.includes(data.type)) {
-    err(filename, `type "${data.type}" is not valid. Valid: ${VALID_TYPES.join(", ")}`);
-  }
-  if (!VALID_STATUSES.includes(data.status)) {
-    err(filename, `status "${data.status}" is not valid. Valid: ${VALID_STATUSES.join(", ")}`);
-  }
-  if (typeof data.scheduled_service !== "boolean") {
-    err(filename, `scheduled_service must be a boolean`);
-  }
-
-  // Location
-  const loc = data.location;
-  if (!loc) {
-    err(filename, `location is required`);
-  } else {
-    if (typeof loc.latitude !== "number" || loc.latitude < -90 || loc.latitude > 90)
-      err(filename, `location.latitude out of range [-90, 90]`);
-    if (typeof loc.longitude !== "number" || loc.longitude < -180 || loc.longitude > 180)
-      err(filename, `location.longitude out of range [-180, 180]`);
-    if (typeof loc.elevation_ft !== "number")
-      err(filename, `location.elevation_ft must be a number`);
-    if (typeof loc.iso_country !== "string" || loc.iso_country.length !== 2)
-      err(filename, `location.iso_country must be a 2-letter ISO 3166-1 code`);
-    if (typeof loc.iso_region !== "string")
-      err(filename, `location.iso_region must be a string`);
-    if (typeof loc.continent !== "string")
-      err(filename, `location.continent must be a string`);
-    if (loc.municipality !== null && typeof loc.municipality !== "string")
-      err(filename, `location.municipality must be a string or null`);
-  }
-
-  // Runways
-  if (!Array.isArray(data.runways)) {
-    err(filename, `runways must be an array`);
-  } else {
-    data.runways.forEach((rwy, i) => validateRunway(filename, rwy, i));
-    if (data.runways.length === 0 && data.type !== "heliport" && data.type !== "seaplane_base") {
-      warn(filename, `no runways defined`);
-    }
-  }
-
-  // Frequencies
-  if (!Array.isArray(data.frequencies)) {
-    err(filename, `frequencies must be an array`);
-  } else {
-    data.frequencies.forEach((freq, i) => validateFrequency(filename, freq, i));
-  }
-
-  // Metadata
-  const meta = data.metadata;
-  if (!meta) {
-    err(filename, `metadata is required`);
-  } else {
-    if (!ISO_DATE_RE.test(meta.created))
-      err(filename, `metadata.created must be an ISO date (YYYY-MM-DD)`);
-    if (!ISO_DATE_RE.test(meta.updated))
-      err(filename, `metadata.updated must be an ISO date (YYYY-MM-DD)`);
-    if (!Array.isArray(meta.sources) || meta.sources.length === 0)
-      err(filename, `metadata.sources must be a non-empty array`);
-  }
-
   checked++;
 }
 
-// Main
-const files = fs.readdirSync(AIRPORTS_DIR).filter((f) => f.endsWith(".json"));
-console.log(`Validating ${files.length} airport file(s) in ${AIRPORTS_DIR}\n`);
+function main() {
+  const ajv = new Ajv({ allErrors: true });
+  addFormats(ajv);
+  const validate = ajv.compile(SCHEMA);
 
-for (const file of files) {
-  validateAirport(path.join(AIRPORTS_DIR, file));
+  const arg = process.argv[2];
+  const airportsRoot = "data/airports";
+  let files, scope;
+
+  if (arg === "--changed") {
+    files = changedFiles();
+    scope = "changed files";
+  } else {
+    const dir = arg || airportsRoot;
+    files = walk(dir);
+    scope = dir;
+  }
+
+  console.log(`Validating ${files.length} file(s) [${scope}]\n`);
+  for (const f of files) {
+    // shard check is relative to the airports root inside whatever dir we scan
+    const root = f.includes(`${path.sep}data${path.sep}airports${path.sep}`)
+      ? f.slice(0, f.indexOf(`${path.sep}data${path.sep}airports${path.sep}`) + `${path.sep}data${path.sep}airports`.length)
+      : (arg && arg !== "--changed" ? arg : airportsRoot);
+    validateFile(validate, f, root);
+  }
+
+  const collisions = [...codeIndex.entries()].filter(([, keys]) => new Set(keys).size > 1);
+  console.log(`\nChecked: ${checked}  Errors: ${errors}  Code collisions (informational): ${collisions.length}`);
+  if (collisions.length) {
+    for (const [code, keys] of collisions.slice(0, 10)) {
+      console.log(`  ~ ${code} -> ${[...new Set(keys)].join(", ")}`);
+    }
+    if (collisions.length > 10) console.log(`  … and ${collisions.length - 10} more`);
+  }
+  process.exit(errors > 0 ? 1 : 0);
 }
 
-console.log(`\nChecked: ${checked}  Errors: ${errors}  Warnings: ${warnings}`);
-if (errors > 0) {
-  process.exit(1);
-}
+main();

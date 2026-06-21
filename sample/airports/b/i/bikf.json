@@ -1,0 +1,34 @@
+{
+  "key": "bikf",
+  "codes": {
+    "icao": "BIKF",
+    "iata": "KEF",
+    "gps": "BIKF",
+    "local": null
+  },
+  "name": "Keflavik International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.985001,
+    "longitude": -22.6056,
+    "elevation_ft": 171,
+    "iso_country": "IS",
+    "iso_region": "IS-2",
+    "municipality": "Reykjavík"
+  },
+  "keywords": [
+    "Keflavik Naval Air Station",
+    "REK"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Keflav%C3%ADk_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 123
+  }
+}

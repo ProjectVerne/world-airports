@@ -1,0 +1,31 @@
+{
+  "key": "birg",
+  "codes": {
+    "icao": "BIRG",
+    "iata": "RFN",
+    "gps": "BIRG",
+    "local": null
+  },
+  "name": "Raufarhöfn Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.406403,
+    "longitude": -15.9183,
+    "elevation_ft": 39,
+    "iso_country": "IS",
+    "iso_region": "IS-6",
+    "municipality": "Raufarhöfn"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Raufarh%C3%B6fn_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32205
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "bike",
+  "codes": {
+    "icao": "BIKE",
+    "iata": null,
+    "gps": "BIKE",
+    "local": null
+  },
+  "name": "Kerlingafjöll Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.705002,
+    "longitude": -19.410601,
+    "elevation_ft": 2100,
+    "iso_country": "IS",
+    "iso_region": "IS-8",
+    "municipality": "Kerlingafjöll"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30732
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "bidv",
+  "codes": {
+    "icao": "BIDV",
+    "iata": "DJU",
+    "gps": "BIDV",
+    "local": null
+  },
+  "name": "Djúpivogur Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.642372,
+    "longitude": -14.277297,
+    "elevation_ft": 9,
+    "iso_country": "IS",
+    "iso_region": "IS-7",
+    "municipality": "Djúpivogur"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dj%C3%BApivogur_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30922
+  }
+}

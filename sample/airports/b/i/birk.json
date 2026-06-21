@@ -1,0 +1,33 @@
+{
+  "key": "birk",
+  "codes": {
+    "icao": "BIRK",
+    "iata": "RKV",
+    "gps": "BIRK",
+    "local": null
+  },
+  "name": "Reykjavík Domestic Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.128732,
+    "longitude": -21.93759,
+    "elevation_ft": 48,
+    "iso_country": "IS",
+    "iso_region": "IS-1",
+    "municipality": "Reykjavík"
+  },
+  "keywords": [
+    "REK"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 125
+  }
+}

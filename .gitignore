@@ -1,8 +1,13 @@
 # Generated export artifacts — do not commit
 exports/
+dist/
 
 # Downloaded source CSVs used for import
 *.csv
+_src/
+
+# Local scratch / temp import output
+_tmp/
 
 # Node
 node_modules/
