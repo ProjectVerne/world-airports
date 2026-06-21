@@ -1,0 +1,32 @@
+{
+  "key": "seap",
+  "codes": {
+    "icao": "SEAP",
+    "iata": null,
+    "gps": "SEAP",
+    "local": null
+  },
+  "name": "Patio 400 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -0.948611,
+    "longitude": -80.730556,
+    "elevation_ft": 33,
+    "iso_country": "EC",
+    "iso_region": "EC-M",
+    "municipality": "Manta"
+  },
+  "keywords": [
+    "EC-0071"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 597754
+  }
+}

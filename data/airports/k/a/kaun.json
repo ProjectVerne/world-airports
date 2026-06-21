@@ -1,0 +1,31 @@
+{
+  "key": "kaun",
+  "codes": {
+    "icao": "KAUN",
+    "iata": "AUN",
+    "gps": "KAUN",
+    "local": "AUN"
+  },
+  "name": "Auburn Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.9548,
+    "longitude": -121.082001,
+    "elevation_ft": 1539,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Auburn"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Auburn_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19324
+  }
+}

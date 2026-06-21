@@ -1,0 +1,31 @@
+{
+  "key": "mmpq",
+  "codes": {
+    "icao": "MMPQ",
+    "iata": "PQM",
+    "gps": "MMPQ",
+    "local": null
+  },
+  "name": "Palenque International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 17.533153,
+    "longitude": -92.015484,
+    "elevation_ft": 200,
+    "iso_country": "MX",
+    "iso_region": "MX-CHP",
+    "municipality": "Palenque"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Palenque_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4744
+  }
+}

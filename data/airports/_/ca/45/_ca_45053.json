@@ -1,0 +1,32 @@
+{
+  "key": "_ca_45053",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CAC6",
+    "local": "CAC6"
+  },
+  "name": "Calgary (Alberta Children's Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.075826,
+    "longitude": -114.147708,
+    "elevation_ft": 3670,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Calgary"
+  },
+  "keywords": [
+    "AC6"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45053
+  }
+}

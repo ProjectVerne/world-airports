@@ -1,0 +1,31 @@
+{
+  "key": "kgpt",
+  "codes": {
+    "icao": "KGPT",
+    "iata": "GPT",
+    "gps": "KGPT",
+    "local": "GPT"
+  },
+  "name": "Gulfport Biloxi International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.405582,
+    "longitude": -89.069836,
+    "elevation_ft": 28,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Gulfport"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gulfport-Biloxi_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3561
+  }
+}

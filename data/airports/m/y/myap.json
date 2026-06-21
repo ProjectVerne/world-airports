@@ -1,0 +1,31 @@
+{
+  "key": "myap",
+  "codes": {
+    "icao": "MYAP",
+    "iata": "AXP",
+    "gps": "MYAP",
+    "local": null
+  },
+  "name": "Spring Point Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.441799,
+    "longitude": -73.970901,
+    "elevation_ft": 11,
+    "iso_country": "BS",
+    "iso_region": "BS-AK",
+    "municipality": "Spring Point"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Spring_Point_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4929
+  }
+}

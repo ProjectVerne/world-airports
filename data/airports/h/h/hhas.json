@@ -1,0 +1,33 @@
+{
+  "key": "hhas",
+  "codes": {
+    "icao": "HHAS",
+    "iata": "ASM",
+    "gps": "HHAS",
+    "local": null
+  },
+  "name": "Asmara International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.2919,
+    "longitude": 38.910702,
+    "elevation_ft": 7661,
+    "iso_country": "ER",
+    "iso_region": "ER-SK",
+    "municipality": "Asmara"
+  },
+  "keywords": [
+    "Yohannes International."
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Asmara_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3202
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "czmn",
+  "codes": {
+    "icao": "CZMN",
+    "iata": "PIW",
+    "gps": "CZMN",
+    "local": null
+  },
+  "name": "Pikwitonei Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.588902,
+    "longitude": -97.1642,
+    "elevation_ft": 630,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Pikwitonei"
+  },
+  "keywords": [
+    "ZMN"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pikwitonei_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2029
+  }
+}

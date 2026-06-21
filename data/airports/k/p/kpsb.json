@@ -1,0 +1,33 @@
+{
+  "key": "kpsb",
+  "codes": {
+    "icao": "KPSB",
+    "iata": "PSB",
+    "gps": "KPSB",
+    "local": "PSB"
+  },
+  "name": "Mid-State Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.884399,
+    "longitude": -78.087303,
+    "elevation_ft": 1948,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philipsburg"
+  },
+  "keywords": [
+    "Black Moshannon Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mid-State_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20869
+  }
+}

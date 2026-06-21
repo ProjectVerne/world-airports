@@ -1,0 +1,34 @@
+{
+  "key": "kmgr",
+  "codes": {
+    "icao": "KMGR",
+    "iata": "MGR",
+    "gps": "KMGR",
+    "local": "MGR"
+  },
+  "name": "Moultrie Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.0849,
+    "longitude": -83.803299,
+    "elevation_ft": 294,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Moultrie"
+  },
+  "keywords": [
+    "Moultrie-Thomasville Airport",
+    "Spence AAF Auxiliary No. 3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moultrie_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20501
+  }
+}

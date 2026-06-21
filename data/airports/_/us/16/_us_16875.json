@@ -1,0 +1,30 @@
+{
+  "key": "_us_16875",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CO21",
+    "local": "CO21"
+  },
+  "name": "Craig Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.5242,
+    "longitude": -107.556,
+    "elevation_ft": 6500,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Craig"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16875
+  }
+}

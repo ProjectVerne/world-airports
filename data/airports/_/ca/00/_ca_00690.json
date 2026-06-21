@@ -1,0 +1,32 @@
+{
+  "key": "_ca_00690",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBK5",
+    "local": "CBK5"
+  },
+  "name": "Port Alberni (West Coast General Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.248839,
+    "longitude": -124.783036,
+    "elevation_ft": 272,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Port Alberni"
+  },
+  "keywords": [
+    "BK5"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 690
+  }
+}

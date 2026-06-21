@@ -1,0 +1,33 @@
+{
+  "key": "kida",
+  "codes": {
+    "icao": "KIDA",
+    "iata": "IDA",
+    "gps": "KIDA",
+    "local": "IDA"
+  },
+  "name": "Idaho Falls Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.514599,
+    "longitude": -112.070999,
+    "elevation_ft": 4744,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Idaho Falls"
+  },
+  "keywords": [
+    "Fanning Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Idaho_Falls_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3606
+  }
+}

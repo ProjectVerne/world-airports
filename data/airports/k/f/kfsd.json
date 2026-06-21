@@ -1,0 +1,37 @@
+{
+  "key": "kfsd",
+  "codes": {
+    "icao": "KFSD",
+    "iata": "FSD",
+    "gps": "KFSD",
+    "local": "FSD"
+  },
+  "name": "Sioux Falls Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.585463,
+    "longitude": -96.741152,
+    "elevation_ft": 1429,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Sioux Falls"
+  },
+  "keywords": [
+    "Joe Foss Field",
+    "Fighting Lobos",
+    "Sioux Falls Army Air Base",
+    "114th Fighter Wing",
+    "Sioux Falls Regional Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sioux_Falls_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3541
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "wapt",
+  "codes": {
+    "icao": "WAPT",
+    "iata": "TAX",
+    "gps": "WAPT",
+    "local": null
+  },
+  "name": "Taliabu Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.64263,
+    "longitude": 124.558998,
+    "elevation_ft": 9,
+    "iso_country": "ID",
+    "iso_region": "ID-MU",
+    "municipality": "Tikong-Taliabu Island"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32424
+  }
+}

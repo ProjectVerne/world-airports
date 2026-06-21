@@ -1,0 +1,33 @@
+{
+  "key": "nzwh",
+  "codes": {
+    "icao": "NZWH",
+    "iata": null,
+    "gps": "NZWH",
+    "local": null
+  },
+  "name": "Wellington Hospital Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -41.30854,
+    "longitude": 174.779373,
+    "elevation_ft": 164,
+    "iso_country": "NZ",
+    "iso_region": "NZ-WGN",
+    "municipality": "Wellington"
+  },
+  "keywords": [
+    "Nga Puna Waiora"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wellington_Hospital,_New_Zealand",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44845
+  }
+}

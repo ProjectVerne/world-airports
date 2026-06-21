@@ -1,0 +1,30 @@
+{
+  "key": "_us_320805",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KZ32",
+    "local": "KZ32"
+  },
+  "name": "Marine Corps Recruit Depot Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.3441,
+    "longitude": -80.6733,
+    "elevation_ft": 7,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Parris Island"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320805
+  }
+}

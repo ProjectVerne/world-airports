@@ -1,0 +1,32 @@
+{
+  "key": "_us_350499",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "US Border Patrol Sunburst Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.88595,
+    "longitude": -111.89637,
+    "elevation_ft": 3338,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Sunburst"
+  },
+  "keywords": [
+    "US-6004"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350499
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_16855",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CO01",
+    "local": "CO01"
+  },
+  "name": "General Mail Facility Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.792621,
+    "longitude": -104.899104,
+    "elevation_ft": 5223,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Denver"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16855
+  }
+}

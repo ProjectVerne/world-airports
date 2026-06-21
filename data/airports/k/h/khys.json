@@ -1,0 +1,31 @@
+{
+  "key": "khys",
+  "codes": {
+    "icao": "KHYS",
+    "iata": "HYS",
+    "gps": "KHYS",
+    "local": "HYS"
+  },
+  "name": "Hays Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.844521,
+    "longitude": -99.273148,
+    "elevation_ft": 1999,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Hays"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hays_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20109
+  }
+}

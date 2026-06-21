@@ -1,0 +1,30 @@
+{
+  "key": "_us_16175",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AK82",
+    "local": "AK82"
+  },
+  "name": "Campbell BLM Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 61.156101,
+    "longitude": -149.792007,
+    "elevation_ft": 235,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Anchorage"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16175
+  }
+}

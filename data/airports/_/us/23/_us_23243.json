@@ -1,0 +1,30 @@
+{
+  "key": "_us_23243",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM24",
+    "local": "NM24"
+  },
+  "name": "Eastside Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.922244,
+    "longitude": -106.560173,
+    "elevation_ft": 8030,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Chama"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23243
+  }
+}

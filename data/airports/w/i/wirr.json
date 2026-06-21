@@ -1,0 +1,35 @@
+{
+  "key": "wirr",
+  "codes": {
+    "icao": "WIRR",
+    "iata": "RTO",
+    "gps": "WIRR",
+    "local": null
+  },
+  "name": "Budiarto Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.293171,
+    "longitude": 106.57,
+    "elevation_ft": 151,
+    "iso_country": "ID",
+    "iso_region": "ID-BT",
+    "municipality": "Tangerang-Java Island"
+  },
+  "keywords": [
+    "WIIA",
+    "WICB",
+    "Curug"
+  ],
+  "wikipedia": "https://id.wikipedia.org/wiki/Bandar_Udara_Budiarto",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26823
+  }
+}

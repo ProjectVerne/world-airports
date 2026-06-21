@@ -1,0 +1,31 @@
+{
+  "key": "tvsu",
+  "codes": {
+    "icao": "TVSU",
+    "iata": "UNI",
+    "gps": "TVSU",
+    "local": null
+  },
+  "name": "Union Island International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.600135,
+    "longitude": -61.411945,
+    "elevation_ft": 16,
+    "iso_country": "VC",
+    "iso_region": "VC-06",
+    "municipality": "Union Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Union_Island_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32542
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "snal",
+  "codes": {
+    "icao": "SNAL",
+    "iata": "APQ",
+    "gps": "SNAL",
+    "local": "AL0003"
+  },
+  "name": "Arapiraca Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.776589,
+    "longitude": -36.628983,
+    "elevation_ft": 886,
+    "iso_country": "BR",
+    "iso_region": "BR-AL",
+    "municipality": "Arapiraca"
+  },
+  "keywords": [],
+  "wikipedia": "https://pt.wikipedia.org/wiki/Aeroporto_de_Arapiraca",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 270
+  }
+}

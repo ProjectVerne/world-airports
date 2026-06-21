@@ -1,0 +1,34 @@
+{
+  "key": "sbtg",
+  "codes": {
+    "icao": "SBTG",
+    "iata": "TJL",
+    "gps": "SBTG",
+    "local": "MS0006"
+  },
+  "name": "Plínio Alarcom Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.752643,
+    "longitude": -51.682026,
+    "elevation_ft": 1063,
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Três Lagoas"
+  },
+  "keywords": [
+    "SSTL",
+    "Três Lagoas Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tr%C3%AAs_Lagoas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 508
+  }
+}

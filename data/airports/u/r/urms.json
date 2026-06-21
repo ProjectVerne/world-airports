@@ -1,0 +1,39 @@
+{
+  "key": "urms",
+  "codes": {
+    "icao": "URMS",
+    "iata": "IGT",
+    "gps": "URMS",
+    "local": null
+  },
+  "name": "Magas Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.323268,
+    "longitude": 45.012568,
+    "elevation_ft": 1165,
+    "iso_country": "RU",
+    "iso_region": "RU-IN",
+    "municipality": "Sunzha"
+  },
+  "keywords": [
+    "Sleptsovskaya Airport",
+    "Ingushetiya Airport",
+    "Ingushetia Airport",
+    "Аэропорт Магас",
+    "Аэропорт Слепцовская",
+    "Аэропорт Ингушетия",
+    "Nazran"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Magas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43689
+  }
+}

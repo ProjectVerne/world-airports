@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01180",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKF7",
+    "local": "CKF7"
+  },
+  "name": "Sioux Lookout Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.0667,
+    "longitude": -91.916702,
+    "elevation_ft": 1181,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Sioux Lookout"
+  },
+  "keywords": [
+    "KF7"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1180
+  }
+}

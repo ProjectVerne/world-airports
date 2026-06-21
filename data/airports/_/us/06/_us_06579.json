@@ -1,0 +1,32 @@
+{
+  "key": "_us_06579",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01AR",
+    "local": "01AR"
+  },
+  "name": "DeQueen Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.047456,
+    "longitude": -94.354023,
+    "elevation_ft": 440,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "DeQueen"
+  },
+  "keywords": [
+    "Community Hospital of DeQueen Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6579
+  }
+}

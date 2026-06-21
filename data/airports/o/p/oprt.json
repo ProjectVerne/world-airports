@@ -1,0 +1,31 @@
+{
+  "key": "oprt",
+  "codes": {
+    "icao": "OPRT",
+    "iata": "RAZ",
+    "gps": "OPRT",
+    "local": null
+  },
+  "name": "Rawalakot Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.849701,
+    "longitude": 73.798103,
+    "elevation_ft": 5479,
+    "iso_country": "PK",
+    "iso_region": "PK-JK",
+    "municipality": "Rawalakot"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rawalakot_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5276
+  }
+}

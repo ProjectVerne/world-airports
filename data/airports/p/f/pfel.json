@@ -1,0 +1,31 @@
+{
+  "key": "pfel",
+  "codes": {
+    "icao": "PFEL",
+    "iata": "ELI",
+    "gps": "PFEL",
+    "local": "ELI"
+  },
+  "name": "Elim Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.6147,
+    "longitude": -162.272003,
+    "elevation_ft": 162,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Elim"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Elim_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17177
+  }
+}

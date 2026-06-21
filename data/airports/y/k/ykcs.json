@@ -1,0 +1,30 @@
+{
+  "key": "ykcs",
+  "codes": {
+    "icao": "YKCS",
+    "iata": "KCS",
+    "gps": "YKCS",
+    "local": null
+  },
+  "name": "Kings Creek Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -24.421285,
+    "longitude": 131.819458,
+    "elevation_ft": 615,
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Petermann"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27672
+  }
+}

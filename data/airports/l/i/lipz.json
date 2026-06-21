@@ -1,0 +1,34 @@
+{
+  "key": "lipz",
+  "codes": {
+    "icao": "LIPZ",
+    "iata": "VCE",
+    "gps": "LIPZ",
+    "local": "VE05"
+  },
+  "name": "Venice Marco Polo Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.505299,
+    "longitude": 12.3519,
+    "elevation_ft": 7,
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Venezia (VE)"
+  },
+  "keywords": [
+    "Venezia-Tessera",
+    "Venice-Tessera"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Venice_Marco_Polo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4368
+  }
+}

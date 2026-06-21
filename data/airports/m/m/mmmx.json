@@ -1,0 +1,34 @@
+{
+  "key": "mmmx",
+  "codes": {
+    "icao": "MMMX",
+    "iata": "MEX",
+    "gps": "MMMX",
+    "local": "ME1"
+  },
+  "name": "Mexico City Benito Juárez International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 19.435822,
+    "longitude": -99.07033,
+    "elevation_ft": 7316,
+    "iso_country": "MX",
+    "iso_region": "MX-DIF",
+    "municipality": "Mexico City"
+  },
+  "keywords": [
+    "AICM",
+    "Ciudad de México"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mexico_City_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4731
+  }
+}

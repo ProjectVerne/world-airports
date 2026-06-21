@@ -1,0 +1,30 @@
+{
+  "key": "loim",
+  "codes": {
+    "icao": "LOIM",
+    "iata": null,
+    "gps": "LOIM",
+    "local": null
+  },
+  "name": "Langkampfen - Au Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.565828,
+    "longitude": 12.135453,
+    "elevation_ft": 1624,
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Langkampfen"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43836
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_25901",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WS07",
+    "local": "WS07"
+  },
+  "name": "J.B. Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.627201,
+    "longitude": -89.785103,
+    "elevation_ft": 900,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Wisconsin Dells"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25901
+  }
+}

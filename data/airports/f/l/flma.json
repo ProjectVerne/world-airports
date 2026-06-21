@@ -1,0 +1,31 @@
+{
+  "key": "flma",
+  "codes": {
+    "icao": "FLMA",
+    "iata": "MNS",
+    "gps": "FLMA",
+    "local": null
+  },
+  "name": "Mansa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -11.137,
+    "longitude": 28.872601,
+    "elevation_ft": 4101,
+    "iso_country": "ZM",
+    "iso_region": "ZM-04",
+    "municipality": "Mansa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mansa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30110
+  }
+}

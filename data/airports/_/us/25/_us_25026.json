@@ -1,0 +1,30 @@
+{
+  "key": "_us_25026",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS09",
+    "local": "TS09"
+  },
+  "name": "Baptist Hospital of Southeast Texas Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.070083,
+    "longitude": -94.118795,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Beaumont"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25026
+  }
+}

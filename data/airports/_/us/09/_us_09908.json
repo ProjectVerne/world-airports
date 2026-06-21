@@ -1,0 +1,30 @@
+{
+  "key": "_us_09908",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "30AR",
+    "local": "30AR"
+  },
+  "name": "Phalanx Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.544361,
+    "longitude": -92.056168,
+    "elevation_ft": 584,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Greers Ferry"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9908
+  }
+}

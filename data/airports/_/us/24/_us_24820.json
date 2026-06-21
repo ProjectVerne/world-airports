@@ -1,0 +1,30 @@
+{
+  "key": "_us_24820",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE11",
+    "local": "TE11"
+  },
+  "name": "Life Flight/Refuel Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.5697,
+    "longitude": -95.437698,
+    "elevation_ft": 65,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24820
+  }
+}

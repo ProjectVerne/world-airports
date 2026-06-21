@@ -1,0 +1,33 @@
+{
+  "key": "eshb",
+  "codes": {
+    "icao": "ESHB",
+    "iata": null,
+    "gps": "ESHB",
+    "local": null
+  },
+  "name": "Sahlgrenska University East Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 57.72097,
+    "longitude": 12.04779,
+    "elevation_ft": 134,
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Göteborg"
+  },
+  "keywords": [
+    "Gothenburg",
+    "SU Östra"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 355418
+  }
+}

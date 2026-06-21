@@ -1,0 +1,33 @@
+{
+  "key": "ntkm",
+  "codes": {
+    "icao": "NTKM",
+    "iata": "TJN",
+    "gps": "NTKM",
+    "local": null
+  },
+  "name": "Takume Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -15.857434,
+    "longitude": -142.266469,
+    "elevation_ft": 7,
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Takume"
+  },
+  "keywords": [
+    "Ohomo"
+  ],
+  "wikipedia": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Takume",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32050
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_id_310979",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WRIF",
+    "local": "PUL"
+  },
+  "name": "Puldamat Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.3196,
+    "longitude": 139.8704,
+    "elevation_ft": 5450,
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Puldama"
+  },
+  "keywords": [
+    "WW71",
+    "ID-0126"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310979
+  }
+}

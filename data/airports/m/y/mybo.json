@@ -1,0 +1,33 @@
+{
+  "key": "mybo",
+  "codes": {
+    "icao": "MYBO",
+    "iata": null,
+    "gps": "MYBO",
+    "local": null
+  },
+  "name": "Ocean Cay Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 25.424885,
+    "longitude": -79.210192,
+    "elevation_ft": 5,
+    "iso_country": "BS",
+    "iso_region": "BS-BI",
+    "municipality": "Ocean Cay"
+  },
+  "keywords": [
+    "Sandy Cay"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ocean_Cay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 326434
+  }
+}

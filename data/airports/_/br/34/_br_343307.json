@@ -1,0 +1,32 @@
+{
+  "key": "_br_343307",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNXM",
+    "local": "SP1252"
+  },
+  "name": "BBP Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.041095,
+    "longitude": -46.708707,
+    "elevation_ft": 2580,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Jarinu"
+  },
+  "keywords": [
+    "BR-1529"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 343307
+  }
+}

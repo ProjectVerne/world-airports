@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01373",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPA5",
+    "local": "CPA5"
+  },
+  "name": "Tarten Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.653908,
+    "longitude": -79.657854,
+    "elevation_ft": 560,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Toronto"
+  },
+  "keywords": [
+    "PA5"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1373
+  }
+}

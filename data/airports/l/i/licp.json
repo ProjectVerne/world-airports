@@ -1,0 +1,33 @@
+{
+  "key": "licp",
+  "codes": {
+    "icao": "LICP",
+    "iata": null,
+    "gps": "LICP",
+    "local": "PA04"
+  },
+  "name": "Palermo-Boccadifalco Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.115919,
+    "longitude": 13.31337,
+    "elevation_ft": 345,
+    "iso_country": "IT",
+    "iso_region": "IT-82",
+    "municipality": "Palermo"
+  },
+  "keywords": [
+    "Emanuele Notarbartolo Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Palermo%E2%80%93Boccadifalco_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4322
+  }
+}

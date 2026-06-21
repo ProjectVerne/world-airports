@@ -1,0 +1,33 @@
+{
+  "key": "tffm",
+  "codes": {
+    "icao": "TFFM",
+    "iata": "GBJ",
+    "gps": "TFFM",
+    "local": null
+  },
+  "name": "Marie-Galante Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.868925,
+    "longitude": -61.270087,
+    "elevation_ft": 16,
+    "iso_country": "GP",
+    "iso_region": "GP-U-A",
+    "municipality": "Grand-Bourg"
+  },
+  "keywords": [
+    "Marie Galante"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Marie-Galante_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6365
+  }
+}

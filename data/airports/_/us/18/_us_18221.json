@@ -1,0 +1,33 @@
+{
+  "key": "_us_18221",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Hoffman Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.970299,
+    "longitude": -88.7509,
+    "elevation_ft": 865,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "De Kalb"
+  },
+  "keywords": [
+    "IS63",
+    "US-11476"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18221
+  }
+}

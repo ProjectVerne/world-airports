@@ -1,0 +1,30 @@
+{
+  "key": "_us_10465",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3GA2",
+    "local": "3GA2"
+  },
+  "name": "Tanner Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.570099,
+    "longitude": -85.074898,
+    "elevation_ft": 1062,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Carrollton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10465
+  }
+}

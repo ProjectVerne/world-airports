@@ -1,0 +1,32 @@
+{
+  "key": "_us_22246",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MO41",
+    "local": "MO41"
+  },
+  "name": "Air Evac 23 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.982108,
+    "longitude": -90.963165,
+    "elevation_ft": 520,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Troy"
+  },
+  "keywords": [
+    "Landing Pad Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22246
+  }
+}

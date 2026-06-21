@@ -1,0 +1,32 @@
+{
+  "key": "_us_505299",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID31",
+    "local": "ID31"
+  },
+  "name": "Bens Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.33145,
+    "longitude": -116.030683,
+    "elevation_ft": 4830,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Cascade"
+  },
+  "keywords": [
+    "US-7377"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505299
+  }
+}

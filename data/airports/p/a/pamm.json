@@ -1,0 +1,31 @@
+{
+  "key": "pamm",
+  "codes": {
+    "icao": "PAMM",
+    "iata": "MTM",
+    "gps": "PAMM",
+    "local": "MTM"
+  },
+  "name": "Metlakatla Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 55.131001,
+    "longitude": -131.578003,
+    "elevation_ft": 0,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Metlakatla"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Metlakatla_Seaplane_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22496
+  }
+}

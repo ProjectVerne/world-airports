@@ -1,0 +1,30 @@
+{
+  "key": "_us_13663",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "70OI",
+    "local": "70OI"
+  },
+  "name": "Crestline Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.792301,
+    "longitude": -82.739601,
+    "elevation_ft": 1150,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Crestline"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13663
+  }
+}

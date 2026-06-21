@@ -1,0 +1,31 @@
+{
+  "key": "cybl",
+  "codes": {
+    "icao": "CYBL",
+    "iata": "YBL",
+    "gps": "CYBL",
+    "local": "YBL"
+  },
+  "name": "Campbell River Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.950802,
+    "longitude": -125.271004,
+    "elevation_ft": 346,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Campbell River"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Campbell_River_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1675
+  }
+}

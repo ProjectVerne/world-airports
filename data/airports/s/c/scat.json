@@ -1,0 +1,31 @@
+{
+  "key": "scat",
+  "codes": {
+    "icao": "SCAT",
+    "iata": "CPO",
+    "gps": "SCAT",
+    "local": null
+  },
+  "name": "Desierto de Atacama Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.2612,
+    "longitude": -70.779198,
+    "elevation_ft": 670,
+    "iso_country": "CL",
+    "iso_region": "CL-AT",
+    "municipality": "Copiapo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Desierto_de_Atacama_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6002
+  }
+}

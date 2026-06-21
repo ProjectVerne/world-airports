@@ -1,0 +1,30 @@
+{
+  "key": "esen",
+  "codes": {
+    "icao": "ESEN",
+    "iata": null,
+    "gps": "ESAN",
+    "local": "NAL"
+  },
+  "name": "Norra Alvsborgs County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 58.319006,
+    "longitude": 12.26819,
+    "elevation_ft": 312,
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Trollhättan"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599574
+  }
+}

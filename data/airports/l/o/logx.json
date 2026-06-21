@@ -1,0 +1,30 @@
+{
+  "key": "logx",
+  "codes": {
+    "icao": "LOGX",
+    "iata": null,
+    "gps": "LOGX",
+    "local": null
+  },
+  "name": "Rottenmann Hospital Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.525022,
+    "longitude": 14.367092,
+    "elevation_ft": 2293,
+    "iso_country": "AT",
+    "iso_region": "AT-6",
+    "municipality": "Rottenmann"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 608956
+  }
+}

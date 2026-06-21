@@ -1,0 +1,35 @@
+{
+  "key": "unit",
+  "codes": {
+    "icao": "UNIT",
+    "iata": "GOY",
+    "gps": "UNIT",
+    "local": null
+  },
+  "name": "Tura Mountain Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.333511,
+    "longitude": 100.432892,
+    "elevation_ft": 2044,
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Tura"
+  },
+  "keywords": [
+    "УНИТ",
+    "Тура / Горный",
+    "Tura Northeast"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tura_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32543
+  }
+}

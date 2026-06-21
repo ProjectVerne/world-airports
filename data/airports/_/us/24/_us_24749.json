@@ -1,0 +1,32 @@
+{
+  "key": "_us_24749",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TA41",
+    "local": "TA41"
+  },
+  "name": "University Medical Center of El Paso Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.771626,
+    "longitude": -106.435463,
+    "elevation_ft": 3701,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "El Paso"
+  },
+  "keywords": [
+    "Thomason General Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24749
+  }
+}

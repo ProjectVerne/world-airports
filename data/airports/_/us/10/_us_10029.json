@@ -1,0 +1,33 @@
+{
+  "key": "_us_10029",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Whitestone Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 48.722778,
+    "longitude": -119.467222,
+    "elevation_ft": 1310,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Tonasket"
+  },
+  "keywords": [
+    "32WA",
+    "US-9953"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10029
+  }
+}

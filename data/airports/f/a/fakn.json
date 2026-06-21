@@ -1,0 +1,31 @@
+{
+  "key": "fakn",
+  "codes": {
+    "icao": "FAKN",
+    "iata": "MQP",
+    "gps": "FAKN",
+    "local": null
+  },
+  "name": "Kruger Mpumalanga International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.383327,
+    "longitude": 31.105325,
+    "elevation_ft": 2829,
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Mbombela"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kruger_Mpumalanga_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2795
+  }
+}

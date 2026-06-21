@@ -1,0 +1,30 @@
+{
+  "key": "_us_23972",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "P99",
+    "local": "P99"
+  },
+  "name": "W.P.H.S. Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.108398,
+    "longitude": -79.548103,
+    "elevation_ft": 1090,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Mount Pleasant"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23972
+  }
+}

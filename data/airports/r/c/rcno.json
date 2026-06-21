@@ -1,0 +1,33 @@
+{
+  "key": "rcno",
+  "codes": {
+    "icao": "RCNO",
+    "iata": null,
+    "gps": "RCNO",
+    "local": null
+  },
+  "name": "Dongji Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 23.258076,
+    "longitude": 119.66755,
+    "elevation_ft": 0,
+    "iso_country": "TW",
+    "iso_region": "TW-PEN",
+    "municipality": "Wang'an"
+  },
+  "keywords": [
+    "Donshi",
+    "東石直升機場"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325269
+  }
+}

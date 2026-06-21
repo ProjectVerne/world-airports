@@ -1,0 +1,32 @@
+{
+  "key": "_us_334237",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IN13",
+    "local": "IN13"
+  },
+  "name": "Bianchi Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.384468,
+    "longitude": -87.433609,
+    "elevation_ft": 701,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Cedar Lake"
+  },
+  "keywords": [
+    "US-1257"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 334237
+  }
+}

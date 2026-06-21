@@ -1,0 +1,30 @@
+{
+  "key": "_us_24819",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE10",
+    "local": "TE10"
+  },
+  "name": "Pierce Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.815741,
+    "longitude": -98.229074,
+    "elevation_ft": 885,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Henrietta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24819
+  }
+}

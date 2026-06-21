@@ -1,0 +1,31 @@
+{
+  "key": "rjto",
+  "codes": {
+    "icao": "RJTO",
+    "iata": "OIM",
+    "gps": "RJTO",
+    "local": null
+  },
+  "name": "Oshima Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.782001,
+    "longitude": 139.360001,
+    "elevation_ft": 130,
+    "iso_country": "JP",
+    "iso_region": "JP-13",
+    "municipality": "Izu Oshima"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Oshima_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5624
+  }
+}

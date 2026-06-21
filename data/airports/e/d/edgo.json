@@ -1,0 +1,32 @@
+{
+  "key": "edgo",
+  "codes": {
+    "icao": "EDGO",
+    "iata": null,
+    "gps": "EDGO",
+    "local": null
+  },
+  "name": "Oedheim Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.241471,
+    "longitude": 9.234363,
+    "elevation_ft": 472,
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Oedheim"
+  },
+  "keywords": [
+    "Oedheim Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44703
+  }
+}

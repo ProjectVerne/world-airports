@@ -1,0 +1,31 @@
+{
+  "key": "rcpo",
+  "codes": {
+    "icao": "RCPO",
+    "iata": "HSZ",
+    "gps": "RCPO",
+    "local": null
+  },
+  "name": "Hsinchu Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.818001,
+    "longitude": 120.939003,
+    "elevation_ft": 26,
+    "iso_country": "TW",
+    "iso_region": "TW-HSZ",
+    "municipality": "Hsinchu City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hsinchu_Air_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5523
+  }
+}

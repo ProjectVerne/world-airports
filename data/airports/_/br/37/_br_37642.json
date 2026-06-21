@@ -1,0 +1,33 @@
+{
+  "key": "_br_37642",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "SSRP"
+  },
+  "name": "Vitrotec Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.200001,
+    "longitude": -46.783333,
+    "elevation_ft": 2559,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Campo Limpo Paulista"
+  },
+  "keywords": [
+    "SSRP",
+    "BR-2975"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 37642
+  }
+}

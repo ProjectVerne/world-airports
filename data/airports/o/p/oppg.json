@@ -1,0 +1,31 @@
+{
+  "key": "oppg",
+  "codes": {
+    "icao": "OPPG",
+    "iata": "PJG",
+    "gps": "OPPG",
+    "local": null
+  },
+  "name": "Panjgur Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.9545,
+    "longitude": 64.1325,
+    "elevation_ft": 3289,
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Panjgur"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Panjgur_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5268
+  }
+}

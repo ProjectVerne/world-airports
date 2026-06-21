@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01568",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSV2",
+    "local": "CSV2"
+  },
+  "name": "Ste-Agathe (AIM) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.110987,
+    "longitude": -74.293832,
+    "elevation_ft": 1250,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Ste-Agathe"
+  },
+  "keywords": [
+    "SV2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1568
+  }
+}

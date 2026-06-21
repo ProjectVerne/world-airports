@@ -1,0 +1,34 @@
+{
+  "key": "ekch",
+  "codes": {
+    "icao": "EKCH",
+    "iata": "CPH",
+    "gps": "EKCH",
+    "local": null
+  },
+  "name": "Copenhagen Kastrup Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.617901,
+    "longitude": 12.656,
+    "elevation_ft": 17,
+    "iso_country": "DK",
+    "iso_region": "DK-84",
+    "municipality": "Copenhagen"
+  },
+  "keywords": [
+    "København",
+    "Malmö"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Copenhagen_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2542
+  }
+}

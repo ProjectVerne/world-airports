@@ -1,0 +1,32 @@
+{
+  "key": "lrcx",
+  "codes": {
+    "icao": "LRCX",
+    "iata": null,
+    "gps": "LRCX",
+    "local": null
+  },
+  "name": "Cobrex Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.657735,
+    "longitude": 25.55701,
+    "elevation_ft": 1778,
+    "iso_country": "RO",
+    "iso_region": "RO-BV",
+    "municipality": "Brașov"
+  },
+  "keywords": [
+    "RO-0018"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320684
+  }
+}

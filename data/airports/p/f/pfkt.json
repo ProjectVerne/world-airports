@@ -1,0 +1,31 @@
+{
+  "key": "pfkt",
+  "codes": {
+    "icao": "PFKT",
+    "iata": "KTS",
+    "gps": "PFKT",
+    "local": "KTS"
+  },
+  "name": "Brevig Mission Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.331826,
+    "longitude": -166.467848,
+    "elevation_ft": 38,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Brevig Mission"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brevig_Mission_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21224
+  }
+}

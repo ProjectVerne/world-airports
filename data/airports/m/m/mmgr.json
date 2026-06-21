@@ -1,0 +1,33 @@
+{
+  "key": "mmgr",
+  "codes": {
+    "icao": "MMGR",
+    "iata": "GUB",
+    "gps": "MMGR",
+    "local": "GRN"
+  },
+  "name": "Guerrero Negro Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.0261,
+    "longitude": -114.024002,
+    "elevation_ft": 59,
+    "iso_country": "MX",
+    "iso_region": "MX-BCN",
+    "municipality": "San Quintín"
+  },
+  "keywords": [
+    "MM58"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Guerrero_Negro_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31554
+  }
+}

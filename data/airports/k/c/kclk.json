@@ -1,0 +1,31 @@
+{
+  "key": "kclk",
+  "codes": {
+    "icao": "KCLK",
+    "iata": "CLK",
+    "gps": "KCLK",
+    "local": "CLK"
+  },
+  "name": "Clinton Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.5383,
+    "longitude": -98.932701,
+    "elevation_ft": 1616,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Clinton"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Clinton_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19513
+  }
+}

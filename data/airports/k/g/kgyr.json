@@ -1,0 +1,33 @@
+{
+  "key": "kgyr",
+  "codes": {
+    "icao": "KGYR",
+    "iata": "GYR",
+    "gps": "KGYR",
+    "local": "GYR"
+  },
+  "name": "Phoenix Goodyear Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.422501,
+    "longitude": -112.375999,
+    "elevation_ft": 968,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Goodyear"
+  },
+  "keywords": [
+    "NAS Litchfield Park"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Phoenix_Goodyear_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19999
+  }
+}

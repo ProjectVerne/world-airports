@@ -1,0 +1,31 @@
+{
+  "key": "snvs",
+  "codes": {
+    "icao": "SNVS",
+    "iata": "BVS",
+    "gps": "SNVS",
+    "local": "PA0015"
+  },
+  "name": "Breves Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.63653,
+    "longitude": -50.4436,
+    "elevation_ft": 98,
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Breves"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Breves_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 414
+  }
+}

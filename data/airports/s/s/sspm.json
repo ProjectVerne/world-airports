@@ -1,0 +1,31 @@
+{
+  "key": "sspm",
+  "codes": {
+    "icao": "SSPM",
+    "iata": null,
+    "gps": "SSPM",
+    "local": "SSPM"
+  },
+  "name": "Porto Murtinho Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -21.7096,
+    "longitude": -57.880199,
+    "elevation_ft": 260,
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Porto Murtinho"
+  },
+  "keywords": [],
+  "wikipedia": "https://pt.wikipedia.org/wiki/Aeroporto_de_Porto_Murtinho",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 493
+  }
+}

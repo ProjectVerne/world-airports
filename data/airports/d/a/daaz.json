@@ -1,0 +1,33 @@
+{
+  "key": "daaz",
+  "codes": {
+    "icao": "DAAZ",
+    "iata": null,
+    "gps": "DAAZ",
+    "local": null
+  },
+  "name": "Relizane Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.752955,
+    "longitude": 0.625877,
+    "elevation_ft": 282,
+    "iso_country": "DZ",
+    "iso_region": "DZ-48",
+    "municipality": "Relizane"
+  },
+  "keywords": [
+    "QZN"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Relizane_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2059
+  }
+}

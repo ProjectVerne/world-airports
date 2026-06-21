@@ -1,0 +1,32 @@
+{
+  "key": "svaa",
+  "codes": {
+    "icao": "SVAA",
+    "iata": null,
+    "gps": "SVAA",
+    "local": null
+  },
+  "name": "Araya Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.597324,
+    "longitude": -64.272011,
+    "elevation_ft": 33,
+    "iso_country": "VE",
+    "iso_region": "VE-R",
+    "municipality": null
+  },
+  "keywords": [
+    "SVAY"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40082
+  }
+}

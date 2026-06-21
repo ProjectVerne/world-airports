@@ -1,0 +1,34 @@
+{
+  "key": "rpmc",
+  "codes": {
+    "icao": "RPMC",
+    "iata": "CBO",
+    "gps": "RPMC",
+    "local": null
+  },
+  "name": "Cotabato (Awang) Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.164753,
+    "longitude": 124.209938,
+    "elevation_ft": 189,
+    "iso_country": "PH",
+    "iso_region": "PH-MDN",
+    "municipality": "Datu Odin Sinsuat"
+  },
+  "keywords": [
+    "Awang",
+    "Kutawatu"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cotabato_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5696
+  }
+}

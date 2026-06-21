@@ -1,0 +1,32 @@
+{
+  "key": "_us_17152",
+  "codes": {
+    "icao": null,
+    "iata": "DIO",
+    "gps": "PPDM",
+    "local": "DM2"
+  },
+  "name": "Diomede Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 65.758367,
+    "longitude": -168.953676,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Diomede"
+  },
+  "keywords": [
+    "DIO"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17152
+  }
+}

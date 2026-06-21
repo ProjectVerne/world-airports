@@ -1,0 +1,31 @@
+{
+  "key": "edhk",
+  "codes": {
+    "icao": "EDHK",
+    "iata": "KEL",
+    "gps": "EDHK",
+    "local": null
+  },
+  "name": "Kiel-Holtenau Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.37957,
+    "longitude": 10.145266,
+    "elevation_ft": 102,
+    "iso_country": "DE",
+    "iso_region": "DE-SH",
+    "municipality": "Kiel"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kiel-Holtenau_airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2235
+  }
+}

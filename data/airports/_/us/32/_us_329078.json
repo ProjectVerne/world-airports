@@ -1,0 +1,32 @@
+{
+  "key": "_us_329078",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ME94",
+    "local": "ME94"
+  },
+  "name": "York Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.141583,
+    "longitude": -70.650669,
+    "elevation_ft": 72,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "York"
+  },
+  "keywords": [
+    "US-0959"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 329078
+  }
+}

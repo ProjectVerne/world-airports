@@ -1,0 +1,30 @@
+{
+  "key": "_us_26008",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WV25",
+    "local": "WV25"
+  },
+  "name": "Mount Storm Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.231499,
+    "longitude": -79.218697,
+    "elevation_ft": 2788,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Mount Storm"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26008
+  }
+}

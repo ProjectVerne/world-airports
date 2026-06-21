@@ -1,0 +1,33 @@
+{
+  "key": "egtk",
+  "codes": {
+    "icao": "EGTK",
+    "iata": "OXF",
+    "gps": "EGTK",
+    "local": null
+  },
+  "name": "London Oxford Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.836899,
+    "longitude": -1.32,
+    "elevation_ft": 270,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Kidlington, Oxfordshire"
+  },
+  "keywords": [
+    "RAF Kidlington"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Oxford_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2483
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_24242",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS01",
+    "local": "PS01"
+  },
+  "name": "Sterling Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.081299,
+    "longitude": -74.894203,
+    "elevation_ft": 24,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Croydon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24242
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kany",
+  "codes": {
+    "icao": "KANY",
+    "iata": "ANY",
+    "gps": "KANY",
+    "local": "ANY"
+  },
+  "name": "Anthony Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.158501,
+    "longitude": -98.079597,
+    "elevation_ft": 1340,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Anthony"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19287
+  }
+}

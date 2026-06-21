@@ -1,0 +1,30 @@
+{
+  "key": "_us_22118",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MN10",
+    "local": "MN10"
+  },
+  "name": "Abbott Northwestern Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.954521,
+    "longitude": -93.260202,
+    "elevation_ft": 1010,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Minneapolis"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22118
+  }
+}

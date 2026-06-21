@@ -1,0 +1,30 @@
+{
+  "key": "_us_24402",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SC04",
+    "local": "SC04"
+  },
+  "name": "Piedmont Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.958,
+    "longitude": -81.05033,
+    "elevation_ft": 670,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Rock Hill"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24402
+  }
+}

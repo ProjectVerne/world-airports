@@ -1,0 +1,30 @@
+{
+  "key": "_us_25175",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TX60",
+    "local": "TX60"
+  },
+  "name": "T I Company Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.914299,
+    "longitude": -96.752197,
+    "elevation_ft": 564,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dallas"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25175
+  }
+}

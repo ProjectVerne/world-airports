@@ -1,0 +1,33 @@
+{
+  "key": "eghr",
+  "codes": {
+    "icao": "EGHR",
+    "iata": "QUG",
+    "gps": "EGHR",
+    "local": null
+  },
+  "name": "Goodwood Aerodrome",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.859832,
+    "longitude": -0.760073,
+    "elevation_ft": 98,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Chichester, West Sussex"
+  },
+  "keywords": [
+    "RAF Westhampnett"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chichester/Goodwood_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29148
+  }
+}

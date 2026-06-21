@@ -1,0 +1,33 @@
+{
+  "key": "zmdn",
+  "codes": {
+    "icao": "ZMDN",
+    "iata": "ULZ",
+    "gps": "ZMDN",
+    "local": null
+  },
+  "name": "Donoi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.7093,
+    "longitude": 96.5258,
+    "elevation_ft": 5800,
+    "iso_country": "MN",
+    "iso_region": "MN-057",
+    "municipality": "Uliastai"
+  },
+  "keywords": [
+    "New Uliastai Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Donoi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308755
+  }
+}

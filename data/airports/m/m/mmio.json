@@ -1,0 +1,33 @@
+{
+  "key": "mmio",
+  "codes": {
+    "icao": "MMIO",
+    "iata": "SLW",
+    "gps": "MMIO",
+    "local": null
+  },
+  "name": "Plan de Guadalupe International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.53786,
+    "longitude": -100.928346,
+    "elevation_ft": 4778,
+    "iso_country": "MX",
+    "iso_region": "MX-COA",
+    "municipality": "Saltillo"
+  },
+  "keywords": [
+    "Saltillo International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Plan_de_Guadalupe_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4716
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "wssl",
+  "codes": {
+    "icao": "WSSL",
+    "iata": "XSP",
+    "gps": "WSSL",
+    "local": null
+  },
+  "name": "Seletar Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.41555,
+    "longitude": 103.86673,
+    "elevation_ft": 36,
+    "iso_country": "SG",
+    "iso_region": "SG-02",
+    "municipality": "Seletar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Seletar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26886
+  }
+}

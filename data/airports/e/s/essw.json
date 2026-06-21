@@ -1,0 +1,35 @@
+{
+  "key": "essw",
+  "codes": {
+    "icao": "ESSW",
+    "iata": "VVK",
+    "gps": "ESSW",
+    "local": null
+  },
+  "name": "Västervik Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.779999,
+    "longitude": 16.5236,
+    "elevation_ft": 118,
+    "iso_country": "SE",
+    "iso_region": "SE-H",
+    "municipality": "Västervik"
+  },
+  "keywords": [
+    "Vastervik",
+    "essw",
+    "Västervik"
+  ],
+  "wikipedia": "https://sv.wikipedia.org/wiki/V%C3%A4sterviks_flygplats",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29369
+  }
+}

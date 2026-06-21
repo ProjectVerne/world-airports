@@ -1,0 +1,30 @@
+{
+  "key": "_us_11742",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4TS2",
+    "local": "4TS2"
+  },
+  "name": "Wilshire Place Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.857201,
+    "longitude": -95.506302,
+    "elevation_ft": 65,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11742
+  }
+}

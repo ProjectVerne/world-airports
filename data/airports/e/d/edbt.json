@@ -1,0 +1,33 @@
+{
+  "key": "edbt",
+  "codes": {
+    "icao": "EDBT",
+    "iata": null,
+    "gps": "EDBT",
+    "local": null
+  },
+  "name": "Allstedt Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.380554,
+    "longitude": 11.446667,
+    "elevation_ft": 932,
+    "iso_country": "DE",
+    "iso_region": "DE-ST",
+    "municipality": "Allstedt"
+  },
+  "keywords": [
+    "Flugplatz Allstedt"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Allstedt",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2201
+  }
+}

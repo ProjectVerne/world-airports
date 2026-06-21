@@ -1,0 +1,33 @@
+{
+  "key": "scfa",
+  "codes": {
+    "icao": "SCFA",
+    "iata": "ANF",
+    "gps": "SCFA",
+    "local": null
+  },
+  "name": "Andrés Sabella Gálvez International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.445274,
+    "longitude": -70.445232,
+    "elevation_ft": 455,
+    "iso_country": "CL",
+    "iso_region": "CL-AN",
+    "municipality": "Antofagasta"
+  },
+  "keywords": [
+    "Cerro Moreno Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Sabella_G%C3%A1lvez_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6018
+  }
+}

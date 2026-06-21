@@ -1,0 +1,30 @@
+{
+  "key": "_us_17002",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT45",
+    "local": "CT45"
+  },
+  "name": "Timex Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.553398,
+    "longitude": -73.098198,
+    "elevation_ft": 700,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Middlebury"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17002
+  }
+}

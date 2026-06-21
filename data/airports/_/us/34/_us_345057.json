@@ -1,0 +1,33 @@
+{
+  "key": "_us_345057",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IA38",
+    "local": "IA38"
+  },
+  "name": "Plain Ol' Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.139235,
+    "longitude": -93.433589,
+    "elevation_ft": 1240,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Clear Lake"
+  },
+  "keywords": [
+    "https://www.airnav.com/airport/IA38",
+    "US-4328"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345057
+  }
+}

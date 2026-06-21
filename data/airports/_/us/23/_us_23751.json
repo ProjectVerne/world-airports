@@ -1,0 +1,32 @@
+{
+  "key": "_us_23751",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OK07",
+    "local": "OK07"
+  },
+  "name": "DJS Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.5182,
+    "longitude": -98.3256,
+    "elevation_ft": 1115,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Lawton"
+  },
+  "keywords": [
+    "Jerry-Wright"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23751
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kpym",
+  "codes": {
+    "icao": "KPYM",
+    "iata": "PYM",
+    "gps": "KPYM",
+    "local": "PYM"
+  },
+  "name": "Plymouth Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.909,
+    "longitude": -70.728798,
+    "elevation_ft": 148,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Plymouth"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Plymouth_Municipal_Airport_(Massachusetts)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20900
+  }
+}

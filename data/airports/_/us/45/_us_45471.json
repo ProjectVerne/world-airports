@@ -1,0 +1,30 @@
+{
+  "key": "_us_45471",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "37MA",
+    "local": "37MA"
+  },
+  "name": "Hanson Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.122778,
+    "longitude": -72.423611,
+    "elevation_ft": 400,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Wilbraham"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45471
+  }
+}

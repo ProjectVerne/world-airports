@@ -1,0 +1,31 @@
+{
+  "key": "knrb",
+  "codes": {
+    "icao": "KNRB",
+    "iata": "NRB",
+    "gps": "KNRB",
+    "local": "NRB"
+  },
+  "name": "Naval Station Mayport / Admiral David L McDonald Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.3911,
+    "longitude": -81.424698,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Station_Mayport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20652
+  }
+}

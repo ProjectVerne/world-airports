@@ -1,0 +1,30 @@
+{
+  "key": "_us_11701",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4PS9",
+    "local": "4PS9"
+  },
+  "name": "Ferrante Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.598701,
+    "longitude": -79.5812,
+    "elevation_ft": 950,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Vandergrift"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11701
+  }
+}

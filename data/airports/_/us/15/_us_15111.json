@@ -1,0 +1,30 @@
+{
+  "key": "_us_15111",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8OH5",
+    "local": "8OH5"
+  },
+  "name": "Urban Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.382,
+    "longitude": -80.712303,
+    "elevation_ft": 1045,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Cortland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15111
+  }
+}

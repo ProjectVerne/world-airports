@@ -1,0 +1,30 @@
+{
+  "key": "_br_00501",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SSRF",
+    "local": "SSRF"
+  },
+  "name": "Castro Alves Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -12.7657,
+    "longitude": -39.446701,
+    "elevation_ft": 869,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Castro Alves"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 501
+  }
+}

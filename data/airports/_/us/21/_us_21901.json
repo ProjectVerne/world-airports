@@ -1,0 +1,30 @@
+{
+  "key": "_us_21901",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MD56",
+    "local": "MD56"
+  },
+  "name": "Three J Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.569,
+    "longitude": -77.121399,
+    "elevation_ft": 510,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "New Windsor"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21901
+  }
+}

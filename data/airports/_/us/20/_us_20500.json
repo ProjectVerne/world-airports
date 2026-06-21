@@ -1,0 +1,31 @@
+{
+  "key": "_us_20500",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KMGN",
+    "local": "MGN"
+  },
+  "name": "Harbor Springs Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.425598,
+    "longitude": -84.913399,
+    "elevation_ft": 686,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Harbor Springs"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Harbor_Springs_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20500
+  }
+}

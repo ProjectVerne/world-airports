@@ -1,0 +1,31 @@
+{
+  "key": "ksop",
+  "codes": {
+    "icao": "KSOP",
+    "iata": "SOP",
+    "gps": "KSOP",
+    "local": "SOP"
+  },
+  "name": "Moore County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.237184,
+    "longitude": -79.389381,
+    "elevation_ft": 455,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Carthage"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moore_County_Airport_(North_Carolina)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21096
+  }
+}

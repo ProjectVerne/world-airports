@@ -1,0 +1,30 @@
+{
+  "key": "_us_24069",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KPAI",
+    "local": "PAI"
+  },
+  "name": "Barton Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.257917,
+    "longitude": -118.41109,
+    "elevation_ft": 960,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Pacoima"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24069
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "korh",
+  "codes": {
+    "icao": "KORH",
+    "iata": "ORH",
+    "gps": "KORH",
+    "local": "ORH"
+  },
+  "name": "Worcester Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.2673,
+    "longitude": -71.875702,
+    "elevation_ft": 1009,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Worcester"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Worcester-Metrowest-Boston_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3756
+  }
+}

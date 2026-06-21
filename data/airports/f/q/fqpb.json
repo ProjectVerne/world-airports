@@ -1,0 +1,33 @@
+{
+  "key": "fqpb",
+  "codes": {
+    "icao": "FQPB",
+    "iata": "POL",
+    "gps": "FQPB",
+    "local": null
+  },
+  "name": "Pemba Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -12.993302,
+    "longitude": 40.524867,
+    "elevation_ft": 331,
+    "iso_country": "MZ",
+    "iso_region": "MZ-P",
+    "municipality": "Pemba"
+  },
+  "keywords": [
+    "Porto Amelia"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pemba_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2981
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "lrpt",
+  "codes": {
+    "icao": "LRPT",
+    "iata": null,
+    "gps": "LRPT",
+    "local": null
+  },
+  "name": "Geamăna Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.817504,
+    "longitude": 24.897822,
+    "elevation_ft": 1001,
+    "iso_country": "RO",
+    "iso_region": "RO-AG",
+    "municipality": "Pitești"
+  },
+  "keywords": [
+    "Aerodromul Geamăna"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 315660
+  }
+}

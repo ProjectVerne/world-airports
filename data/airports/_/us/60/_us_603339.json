@@ -1,0 +1,32 @@
+{
+  "key": "_us_603339",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TX11",
+    "local": "TX11"
+  },
+  "name": "DHS Laredo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.416372,
+    "longitude": -99.451275,
+    "elevation_ft": 495,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Laredo"
+  },
+  "keywords": [
+    "US-12858"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 603339
+  }
+}

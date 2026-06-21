@@ -1,0 +1,31 @@
+{
+  "key": "scbe",
+  "codes": {
+    "icao": "SCBE",
+    "iata": "TOQ",
+    "gps": "SCBE",
+    "local": null
+  },
+  "name": "Barriles Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.1411,
+    "longitude": -70.062897,
+    "elevation_ft": 3475,
+    "iso_country": "CL",
+    "iso_region": "CL-AN",
+    "municipality": "Tocopilla"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Barriles_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6004
+  }
+}

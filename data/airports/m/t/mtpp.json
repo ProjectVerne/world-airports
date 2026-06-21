@@ -1,0 +1,31 @@
+{
+  "key": "mtpp",
+  "codes": {
+    "icao": "MTPP",
+    "iata": "PAP",
+    "gps": "MTPP",
+    "local": null
+  },
+  "name": "Toussaint Louverture International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.580023,
+    "longitude": -72.292596,
+    "elevation_ft": 122,
+    "iso_country": "HT",
+    "iso_region": "HT-OU",
+    "municipality": "Port-au-Prince"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Toussaint_Louverture_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4825
+  }
+}

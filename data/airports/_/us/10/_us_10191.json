@@ -1,0 +1,30 @@
+{
+  "key": "_us_10191",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "36LL",
+    "local": "36LL"
+  },
+  "name": "Calhoun Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.158901,
+    "longitude": -90.6222,
+    "elevation_ft": 460,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Hardin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10191
+  }
+}

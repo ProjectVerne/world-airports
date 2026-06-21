@@ -1,0 +1,31 @@
+{
+  "key": "kast",
+  "codes": {
+    "icao": "KAST",
+    "iata": "AST",
+    "gps": "KAST",
+    "local": "AST"
+  },
+  "name": "Astoria Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.158001,
+    "longitude": -123.878998,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Astoria"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Astoria_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19314
+  }
+}

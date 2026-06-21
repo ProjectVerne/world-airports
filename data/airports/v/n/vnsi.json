@@ -1,0 +1,31 @@
+{
+  "key": "vnsi",
+  "codes": {
+    "icao": "VNSI",
+    "iata": "SIF",
+    "gps": "VNSI",
+    "local": null
+  },
+  "name": "Simara Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.159803,
+    "longitude": 84.980021,
+    "elevation_ft": 450,
+    "iso_country": "NP",
+    "iso_region": "NP-P2",
+    "municipality": "Simara"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Simara_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26599
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "hklm",
+  "codes": {
+    "icao": "HKLM",
+    "iata": null,
+    "gps": "HKLM",
+    "local": null
+  },
+  "name": "Lolomarik Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 0.107106,
+    "longitude": 37.278907,
+    "elevation_ft": 7546,
+    "iso_country": "KE",
+    "iso_region": "KE-12",
+    "municipality": "Timau"
+  },
+  "keywords": [
+    "KE-0155"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 318758
+  }
+}

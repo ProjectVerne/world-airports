@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01417",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPJ2",
+    "local": "CPJ2"
+  },
+  "name": "Alliston Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.141102,
+    "longitude": -79.801399,
+    "elevation_ft": 760,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Alliston"
+  },
+  "keywords": [
+    "PJ2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1417
+  }
+}

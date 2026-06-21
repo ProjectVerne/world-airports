@@ -1,0 +1,35 @@
+{
+  "key": "ltba",
+  "codes": {
+    "icao": "LTBA",
+    "iata": "ISL",
+    "gps": "LTBA",
+    "local": null
+  },
+  "name": "İstanbul Atatürk Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.971913,
+    "longitude": 28.823714,
+    "elevation_ft": 163,
+    "iso_country": "TR",
+    "iso_region": "TR-34",
+    "municipality": "Istanbul(Bakırköy)"
+  },
+  "keywords": [
+    "Ataturk",
+    "Yeşilköy",
+    "Yesilkoy"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Istanbul_Atat%C3%BCrk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4528
+  }
+}

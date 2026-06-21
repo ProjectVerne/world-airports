@@ -1,0 +1,33 @@
+{
+  "key": "_us_15204",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "STOL Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 32.467899,
+    "longitude": -97.368301,
+    "elevation_ft": 908,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Joshua"
+  },
+  "keywords": [
+    "8TS5",
+    "US-10911"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15204
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "kgnt",
+  "codes": {
+    "icao": "KGNT",
+    "iata": "GNT",
+    "gps": "KGNT",
+    "local": "GNT"
+  },
+  "name": "Grants-Milan Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.167301,
+    "longitude": -107.902,
+    "elevation_ft": 6537,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Grants"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19968
+  }
+}

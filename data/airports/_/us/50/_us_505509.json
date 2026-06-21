@@ -1,0 +1,32 @@
+{
+  "key": "_us_505509",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Hams Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.23877,
+    "longitude": -88.82093,
+    "elevation_ft": 531,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Opdyke"
+  },
+  "keywords": [
+    "US-7407"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505509
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "esek",
+  "codes": {
+    "icao": "ESEK",
+    "iata": null,
+    "gps": "ESEK",
+    "local": null
+  },
+  "name": "Lake Luossajärvi Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 67.859903,
+    "longitude": 20.207155,
+    "elevation_ft": 1550,
+    "iso_country": "SE",
+    "iso_region": "SE-BD",
+    "municipality": "Kiruna"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599674
+  }
+}

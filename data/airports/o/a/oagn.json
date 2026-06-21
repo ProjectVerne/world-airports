@@ -1,0 +1,31 @@
+{
+  "key": "oagn",
+  "codes": {
+    "icao": "OAGN",
+    "iata": "GZI",
+    "gps": "OAGN",
+    "local": null
+  },
+  "name": "Ghazni Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.487853,
+    "longitude": 68.525243,
+    "elevation_ft": 0,
+    "iso_country": "AF",
+    "iso_region": "AF-GHA",
+    "municipality": "Ghazni"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ghazni_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 341235
+  }
+}

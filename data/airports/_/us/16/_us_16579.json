@@ -1,0 +1,33 @@
+{
+  "key": "_us_16579",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Jones Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 37.979353,
+    "longitude": -121.229689,
+    "elevation_ft": 35,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Stockton"
+  },
+  "keywords": [
+    "CA48",
+    "US-11147"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16579
+  }
+}

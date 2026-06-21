@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01626",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CWC2",
+    "local": "CWC2"
+  },
+  "name": "Kelowna (Wildcat Helicopters) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.867423,
+    "longitude": -119.579229,
+    "elevation_ft": 1640,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Kelowna"
+  },
+  "keywords": [
+    "WC2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1626
+  }
+}

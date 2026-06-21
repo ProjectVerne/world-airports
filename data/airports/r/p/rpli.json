@@ -1,0 +1,34 @@
+{
+  "key": "rpli",
+  "codes": {
+    "icao": "RPLI",
+    "iata": "LAO",
+    "gps": "RPLI",
+    "local": null
+  },
+  "name": "Laoag International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.175089,
+    "longitude": 120.531006,
+    "elevation_ft": 25,
+    "iso_country": "PH",
+    "iso_region": "PH-ILN",
+    "municipality": "Laoag City"
+  },
+  "keywords": [
+    "Gabu Airfield",
+    "Laoag Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Laoag_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5688
+  }
+}

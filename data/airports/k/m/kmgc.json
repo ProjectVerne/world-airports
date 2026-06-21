@@ -1,0 +1,33 @@
+{
+  "key": "kmgc",
+  "codes": {
+    "icao": "KMGC",
+    "iata": "MGC",
+    "gps": "KMGC",
+    "local": "MGC"
+  },
+  "name": "Michigan City Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.7033,
+    "longitude": -86.821198,
+    "elevation_ft": 655,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Michigan City"
+  },
+  "keywords": [
+    "Phillips Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Michigan_City_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20498
+  }
+}

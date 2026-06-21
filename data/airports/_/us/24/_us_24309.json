@@ -1,0 +1,30 @@
+{
+  "key": "_us_24309",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS78",
+    "local": "PS78"
+  },
+  "name": "Pittsburgh City Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.442299,
+    "longitude": -79.960098,
+    "elevation_ft": 1124,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Pittsburgh"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24309
+  }
+}

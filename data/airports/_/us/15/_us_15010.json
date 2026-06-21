@@ -1,0 +1,30 @@
+{
+  "key": "_us_15010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8LL4",
+    "local": "8LL4"
+  },
+  "name": "Richland Memorial Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.737499,
+    "longitude": -88.077301,
+    "elevation_ft": 485,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Olney"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15010
+  }
+}

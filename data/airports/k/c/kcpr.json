@@ -1,0 +1,31 @@
+{
+  "key": "kcpr",
+  "codes": {
+    "icao": "KCPR",
+    "iata": "CPR",
+    "gps": "KCPR",
+    "local": "CPR"
+  },
+  "name": "Casper-Natrona County International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.907381,
+    "longitude": -106.461609,
+    "elevation_ft": 5350,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Casper"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Natrona_County_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3465
+  }
+}

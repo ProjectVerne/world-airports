@@ -1,0 +1,33 @@
+{
+  "key": "drrl",
+  "codes": {
+    "icao": "DRRL",
+    "iata": null,
+    "gps": "DRRL",
+    "local": null
+  },
+  "name": "Tillabéri Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 14.256092,
+    "longitude": 1.435102,
+    "elevation_ft": 673,
+    "iso_country": "NE",
+    "iso_region": "NE-6",
+    "municipality": "Tillabéri"
+  },
+  "keywords": [
+    "Tillabery",
+    "NE-0006"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 604544
+  }
+}

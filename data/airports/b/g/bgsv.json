@@ -1,0 +1,31 @@
+{
+  "key": "bgsv",
+  "codes": {
+    "icao": "BGSV",
+    "iata": "SVR",
+    "gps": "BGSV",
+    "local": "SAV"
+  },
+  "name": "Savissivik Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 76.018613,
+    "longitude": -65.117683,
+    "elevation_ft": 24,
+    "iso_country": "GL",
+    "iso_region": "GL-AV",
+    "municipality": "Savissivik"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Savissivik_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44068
+  }
+}

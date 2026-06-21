@@ -1,0 +1,33 @@
+{
+  "key": "opkw",
+  "codes": {
+    "icao": "OPKW",
+    "iata": "KCF",
+    "gps": "OPKW",
+    "local": null
+  },
+  "name": "Thar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.203205,
+    "longitude": 69.14884,
+    "elevation_ft": 167,
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Kandanwari"
+  },
+  "keywords": [
+    "OP10",
+    "Chuchra"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5459
+  }
+}

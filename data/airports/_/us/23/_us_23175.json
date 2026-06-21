@@ -1,0 +1,32 @@
+{
+  "key": "_us_23175",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NK67",
+    "local": "NK67"
+  },
+  "name": "Mather Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.94042,
+    "longitude": -73.05316,
+    "elevation_ft": 206,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Port Jefferson"
+  },
+  "keywords": [
+    "NK41"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23175
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_325873",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MN97",
+    "local": "MN97"
+  },
+  "name": "Essentia Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.571683,
+    "longitude": -95.737955,
+    "elevation_ft": 1305,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Fosston"
+  },
+  "keywords": [
+    "US-0791"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325873
+  }
+}

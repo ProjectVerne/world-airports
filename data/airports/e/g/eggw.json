@@ -1,0 +1,33 @@
+{
+  "key": "eggw",
+  "codes": {
+    "icao": "EGGW",
+    "iata": "LTN",
+    "gps": "EGGW",
+    "local": null
+  },
+  "name": "London Luton Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.874699,
+    "longitude": -0.368333,
+    "elevation_ft": 526,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Luton, Luton"
+  },
+  "keywords": [
+    "LON"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Luton_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2419
+  }
+}

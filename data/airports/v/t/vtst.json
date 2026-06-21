@@ -1,0 +1,31 @@
+{
+  "key": "vtst",
+  "codes": {
+    "icao": "VTST",
+    "iata": "TST",
+    "gps": "VTST",
+    "local": null
+  },
+  "name": "Trang Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.50874,
+    "longitude": 99.6166,
+    "elevation_ft": 67,
+    "iso_country": "TH",
+    "iso_region": "TH-92",
+    "municipality": "Trang"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Trang_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26677
+  }
+}

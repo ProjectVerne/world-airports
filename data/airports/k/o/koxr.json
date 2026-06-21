@@ -1,0 +1,31 @@
+{
+  "key": "koxr",
+  "codes": {
+    "icao": "KOXR",
+    "iata": "OXR",
+    "gps": "KOXR",
+    "local": "OXR"
+  },
+  "name": "Oxnard Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.200802,
+    "longitude": -119.207001,
+    "elevation_ft": 45,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Oxnard"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Oxnard_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20785
+  }
+}

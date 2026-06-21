@@ -1,0 +1,32 @@
+{
+  "key": "_us_25451",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VG16",
+    "local": "VG16"
+  },
+  "name": "Landis Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.624012,
+    "longitude": -80.169342,
+    "elevation_ft": 1100,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Patrick Springs"
+  },
+  "keywords": [
+    "Collins Airport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25451
+  }
+}

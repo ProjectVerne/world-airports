@@ -1,0 +1,31 @@
+{
+  "key": "httg",
+  "codes": {
+    "icao": "HTTG",
+    "iata": "TGT",
+    "gps": "HTTG",
+    "local": null
+  },
+  "name": "Tanga Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.09236,
+    "longitude": 39.071201,
+    "elevation_ft": 129,
+    "iso_country": "TZ",
+    "iso_region": "TZ-25",
+    "municipality": "Tanga"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tanga_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3259
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08160",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "19PA",
+    "local": "19PA"
+  },
+  "name": "Lake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.117001,
+    "longitude": -76.520798,
+    "elevation_ft": 750,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Millville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8160
+  }
+}

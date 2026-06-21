@@ -1,0 +1,30 @@
+{
+  "key": "_us_17841",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID64",
+    "local": "ID64"
+  },
+  "name": "Portneuf Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.87447,
+    "longitude": -112.42228,
+    "elevation_ft": 4550,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Pocatello"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17841
+  }
+}

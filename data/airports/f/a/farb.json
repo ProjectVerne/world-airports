@@ -1,0 +1,31 @@
+{
+  "key": "farb",
+  "codes": {
+    "icao": "FARB",
+    "iata": "RCB",
+    "gps": "FARB",
+    "local": null
+  },
+  "name": "Richards Bay Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -28.740999,
+    "longitude": 32.092098,
+    "elevation_ft": 109,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Richards Bay"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Richards_Bay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2831
+  }
+}

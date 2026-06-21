@@ -1,0 +1,33 @@
+{
+  "key": "keln",
+  "codes": {
+    "icao": "KELN",
+    "iata": "ELN",
+    "gps": "KELN",
+    "local": "ELN"
+  },
+  "name": "Bowers Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.033001,
+    "longitude": -120.530998,
+    "elevation_ft": 1764,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Ellensburg"
+  },
+  "keywords": [
+    "Ellensburg Army Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bowers_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19752
+  }
+}

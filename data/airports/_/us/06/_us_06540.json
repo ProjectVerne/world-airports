@@ -1,0 +1,30 @@
+{
+  "key": "_us_06540",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "00IN",
+    "local": "00IN"
+  },
+  "name": "St Mary Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.511398,
+    "longitude": -87.260597,
+    "elevation_ft": 634,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Hobart"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6540
+  }
+}

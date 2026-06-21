@@ -1,0 +1,31 @@
+{
+  "key": "rpvr",
+  "codes": {
+    "icao": "RPVR",
+    "iata": "RXS",
+    "gps": "RPVR",
+    "local": null
+  },
+  "name": "Roxas Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.5977,
+    "longitude": 122.751999,
+    "elevation_ft": 10,
+    "iso_country": "PH",
+    "iso_region": "PH-CAP",
+    "municipality": "Roxas City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Roxas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5745
+  }
+}

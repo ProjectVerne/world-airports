@@ -1,0 +1,31 @@
+{
+  "key": "kmob",
+  "codes": {
+    "icao": "KMOB",
+    "iata": "MOB",
+    "gps": "KMOB",
+    "local": "MOB"
+  },
+  "name": "Mobile Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.6912,
+    "longitude": -88.242798,
+    "elevation_ft": 219,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Mobile"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mobile_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3700
+  }
+}

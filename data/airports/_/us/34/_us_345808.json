@@ -1,0 +1,32 @@
+{
+  "key": "_us_345808",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AZ83",
+    "local": "AZ83"
+  },
+  "name": "Scottsdale Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.625153,
+    "longitude": -111.918294,
+    "elevation_ft": 1511,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Scottsdale"
+  },
+  "keywords": [
+    "US-4571"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345808
+  }
+}

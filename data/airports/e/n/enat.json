@@ -1,0 +1,31 @@
+{
+  "key": "enat",
+  "codes": {
+    "icao": "ENAT",
+    "iata": "ALF",
+    "gps": "ENAT",
+    "local": null
+  },
+  "name": "Alta Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 69.976097,
+    "longitude": 23.3717,
+    "elevation_ft": 9,
+    "iso_country": "NO",
+    "iso_region": "NO-56",
+    "municipality": "Alta"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Alta_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2566
+  }
+}

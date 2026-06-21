@@ -1,0 +1,32 @@
+{
+  "key": "_us_430603",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "C14 Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.755515,
+    "longitude": -116.645794,
+    "elevation_ft": 5463,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Tonopah"
+  },
+  "keywords": [
+    "US-7195"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 430603
+  }
+}

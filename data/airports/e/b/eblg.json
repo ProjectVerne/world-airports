@@ -1,0 +1,33 @@
+{
+  "key": "eblg",
+  "codes": {
+    "icao": "EBLG",
+    "iata": "LGG",
+    "gps": "EBLG",
+    "local": null
+  },
+  "name": "Liège Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.638574,
+    "longitude": 5.443897,
+    "elevation_ft": 659,
+    "iso_country": "BE",
+    "iso_region": "BE-WLG",
+    "municipality": "Grâce-Hollogne"
+  },
+  "keywords": [
+    "Bierset"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Li%C3%A8ge_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2162
+  }
+}

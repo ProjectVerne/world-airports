@@ -1,0 +1,32 @@
+{
+  "key": "_us_511010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Otto Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.19984,
+    "longitude": -91.2398,
+    "elevation_ft": 594,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Wapello"
+  },
+  "keywords": [
+    "US-8005"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 511010
+  }
+}

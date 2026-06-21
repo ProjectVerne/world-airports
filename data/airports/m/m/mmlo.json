@@ -1,0 +1,34 @@
+{
+  "key": "mmlo",
+  "codes": {
+    "icao": "MMLO",
+    "iata": "BJX",
+    "gps": "MMLO",
+    "local": "BJ1"
+  },
+  "name": "Guanajuato International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.992695,
+    "longitude": -101.480284,
+    "elevation_ft": 5956,
+    "iso_country": "MX",
+    "iso_region": "MX-GUA",
+    "municipality": "Silao"
+  },
+  "keywords": [
+    "Del Bajío International Airport",
+    "León/Bajío International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Del_Baj%C3%ADo_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4722
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_22404",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MT06",
+    "local": "MT06"
+  },
+  "name": "Duncan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.570461,
+    "longitude": -112.175274,
+    "elevation_ft": 4260,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Helena"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22404
+  }
+}

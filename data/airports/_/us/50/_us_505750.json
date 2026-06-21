@@ -1,0 +1,32 @@
+{
+  "key": "_us_505750",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM03",
+    "local": "NM03"
+  },
+  "name": "Grant Besley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.662139,
+    "longitude": -105.720208,
+    "elevation_ft": 7646,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Taos"
+  },
+  "keywords": [
+    "US-6350"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505750
+  }
+}

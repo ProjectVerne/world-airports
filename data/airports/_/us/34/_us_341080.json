@@ -1,0 +1,32 @@
+{
+  "key": "_us_341080",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE95",
+    "local": "TE95"
+  },
+  "name": "Rocky Point Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.819454,
+    "longitude": -106.501599,
+    "elevation_ft": 4651,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "El Paso"
+  },
+  "keywords": [
+    "US-3148"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 341080
+  }
+}

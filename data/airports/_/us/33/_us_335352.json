@@ -1,0 +1,32 @@
+{
+  "key": "_us_335352",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "08TE",
+    "local": "08TE"
+  },
+  "name": "EGM Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.197677,
+    "longitude": -99.317522,
+    "elevation_ft": 2073,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Mountain Home"
+  },
+  "keywords": [
+    "US-1508"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 335352
+  }
+}

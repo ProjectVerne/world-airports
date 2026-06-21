@@ -1,0 +1,32 @@
+{
+  "key": "_us_334220",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MT13",
+    "local": "MT13"
+  },
+  "name": "Ostlunds Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.676021,
+    "longitude": -108.570635,
+    "elevation_ft": 3828,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Billings"
+  },
+  "keywords": [
+    "US-1251"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 334220
+  }
+}

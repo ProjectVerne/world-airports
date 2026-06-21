@@ -1,0 +1,33 @@
+{
+  "key": "_us_17108",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Walter Reed Emergency Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.977644,
+    "longitude": -77.027915,
+    "elevation_ft": 305,
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington"
+  },
+  "keywords": [
+    "DC14",
+    "US-11220"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17108
+  }
+}

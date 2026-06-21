@@ -1,0 +1,31 @@
+{
+  "key": "flks",
+  "codes": {
+    "icao": "FLKS",
+    "iata": "KAA",
+    "gps": "FLKS",
+    "local": null
+  },
+  "name": "Kasama Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -10.210169,
+    "longitude": 31.123045,
+    "elevation_ft": 4541,
+    "iso_country": "ZM",
+    "iso_region": "ZM-05",
+    "municipality": "Kasama"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kasama_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30012
+  }
+}

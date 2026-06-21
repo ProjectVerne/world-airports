@@ -1,0 +1,30 @@
+{
+  "key": "_us_345678",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3LS8",
+    "local": "3LS8"
+  },
+  "name": "The Place Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.651296,
+    "longitude": -90.114369,
+    "elevation_ft": 50,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Folsom"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345678
+  }
+}

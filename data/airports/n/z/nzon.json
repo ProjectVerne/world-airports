@@ -1,0 +1,32 @@
+{
+  "key": "nzon",
+  "codes": {
+    "icao": "NZON",
+    "iata": null,
+    "gps": "NZON",
+    "local": null
+  },
+  "name": "Oban Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -46.900655,
+    "longitude": 168.124491,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-STL",
+    "municipality": "Oban"
+  },
+  "keywords": [
+    "Oban"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605001
+  }
+}

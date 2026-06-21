@@ -1,0 +1,33 @@
+{
+  "key": "_us_13110",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Cloud 9 Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.5672,
+    "longitude": -94.782501,
+    "elevation_ft": 1050,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Paola"
+  },
+  "keywords": [
+    "68KS",
+    "US-10513"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13110
+  }
+}

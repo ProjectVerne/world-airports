@@ -1,0 +1,30 @@
+{
+  "key": "_us_600202",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NR13",
+    "local": "NR13"
+  },
+  "name": "Daghita Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.508752,
+    "longitude": -78.262328,
+    "elevation_ft": 350,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Norlina"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600202
+  }
+}

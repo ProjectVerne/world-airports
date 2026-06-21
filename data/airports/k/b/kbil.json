@@ -1,0 +1,31 @@
+{
+  "key": "kbil",
+  "codes": {
+    "icao": "KBIL",
+    "iata": "BIL",
+    "gps": "KBIL",
+    "local": "BIL"
+  },
+  "name": "Billings Logan International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.808932,
+    "longitude": -108.541242,
+    "elevation_ft": 3652,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Billings"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Billings_Logan_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3408
+  }
+}

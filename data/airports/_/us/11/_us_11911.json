@@ -1,0 +1,30 @@
+{
+  "key": "_us_11911",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "52GA",
+    "local": "52GA"
+  },
+  "name": "Rabbit Hole Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.538101,
+    "longitude": -84.474403,
+    "elevation_ft": 900,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Atlanta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11911
+  }
+}

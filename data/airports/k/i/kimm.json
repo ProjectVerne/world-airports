@@ -1,0 +1,31 @@
+{
+  "key": "kimm",
+  "codes": {
+    "icao": "KIMM",
+    "iata": "IMM",
+    "gps": "KIMM",
+    "local": "IMM"
+  },
+  "name": "Immokalee Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.427933,
+    "longitude": -81.403531,
+    "elevation_ft": 37,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Immokalee"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Immokalee_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20175
+  }
+}

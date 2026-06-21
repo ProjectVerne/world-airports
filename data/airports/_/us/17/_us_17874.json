@@ -1,0 +1,30 @@
+{
+  "key": "_us_17874",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID98",
+    "local": "ID98"
+  },
+  "name": "Scanlon Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.567402,
+    "longitude": -117.495003,
+    "elevation_ft": 2000,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Coeur D'Alene"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17874
+  }
+}

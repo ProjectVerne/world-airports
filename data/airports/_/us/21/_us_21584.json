@@ -1,0 +1,30 @@
+{
+  "key": "_us_21584",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LL27",
+    "local": "LL27"
+  },
+  "name": "Smith Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.454201,
+    "longitude": -90.623497,
+    "elevation_ft": 702,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Macomb"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21584
+  }
+}

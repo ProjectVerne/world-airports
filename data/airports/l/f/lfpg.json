@@ -1,0 +1,35 @@
+{
+  "key": "lfpg",
+  "codes": {
+    "icao": "LFPG",
+    "iata": "CDG",
+    "gps": "LFPG",
+    "local": null
+  },
+  "name": "Charles de Gaulle International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.00896,
+    "longitude": 2.554117,
+    "elevation_ft": 392,
+    "iso_country": "FR",
+    "iso_region": "FR-IDF",
+    "municipality": "Paris (Roissy-en-France, Val-d'Oise)"
+  },
+  "keywords": [
+    "PAR",
+    "Aéroport Roissy-Charles de Gaulle",
+    "Roissy Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Charles_de_Gaulle_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4185
+  }
+}

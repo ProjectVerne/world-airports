@@ -1,0 +1,30 @@
+{
+  "key": "_us_09703",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2OR9",
+    "local": "2OR9"
+  },
+  "name": "World Trade Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.516277,
+    "longitude": -122.674849,
+    "elevation_ft": 296,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Portland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9703
+  }
+}

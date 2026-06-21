@@ -1,0 +1,31 @@
+{
+  "key": "mbnc",
+  "codes": {
+    "icao": "MBNC",
+    "iata": "NCA",
+    "gps": "MBNC",
+    "local": null
+  },
+  "name": "North Caicos Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.916094,
+    "longitude": -71.942954,
+    "elevation_ft": 10,
+    "iso_country": "TC",
+    "iso_region": "TC-NC",
+    "municipality": "North Caicos"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Caicos_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4627
+  }
+}

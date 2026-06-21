@@ -1,0 +1,31 @@
+{
+  "key": "esmo",
+  "codes": {
+    "icao": "ESMO",
+    "iata": "OSK",
+    "gps": "ESMO",
+    "local": null
+  },
+  "name": "Oskarshamn Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.350498,
+    "longitude": 16.497999,
+    "elevation_ft": 96,
+    "iso_country": "SE",
+    "iso_region": "SE-H",
+    "municipality": "Oskarshamn"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Oskarshamn_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2666
+  }
+}

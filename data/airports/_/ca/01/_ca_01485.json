@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01485",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CRD3",
+    "local": "CRD3"
+  },
+  "name": "Red Deer Regional Hospital Centre Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 52.261902,
+    "longitude": -113.816002,
+    "elevation_ft": 2877,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Red Deer"
+  },
+  "keywords": [
+    "RD3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1485
+  }
+}

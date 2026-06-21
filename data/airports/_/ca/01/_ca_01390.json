@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01390",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPD4",
+    "local": "CPD4"
+  },
+  "name": "Brussels (Armstrong Field) Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.749079,
+    "longitude": -81.237341,
+    "elevation_ft": 1100,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Brussels"
+  },
+  "keywords": [
+    "PD4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brussels_(Armstrong_Field)_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1390
+  }
+}

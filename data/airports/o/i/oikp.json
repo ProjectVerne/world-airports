@@ -1,0 +1,30 @@
+{
+  "key": "oikp",
+  "codes": {
+    "icao": "OIKP",
+    "iata": "HDR",
+    "gps": "OIKP",
+    "local": null
+  },
+  "name": "Havadarya Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.1583,
+    "longitude": 56.172501,
+    "elevation_ft": 19,
+    "iso_country": "IR",
+    "iso_region": "IR-22",
+    "municipality": "Bandar Abbas"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5176
+  }
+}

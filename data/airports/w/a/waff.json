@@ -1,0 +1,33 @@
+{
+  "key": "waff",
+  "codes": {
+    "icao": "WAFF",
+    "iata": "PLW",
+    "gps": "WAFF",
+    "local": null
+  },
+  "name": "Mutiara - SIS Al-Jufrie Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.916462,
+    "longitude": 119.908647,
+    "elevation_ft": 284,
+    "iso_country": "ID",
+    "iso_region": "ID-ST",
+    "municipality": "Palu"
+  },
+  "keywords": [
+    "WAML"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mutiara_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26769
+  }
+}

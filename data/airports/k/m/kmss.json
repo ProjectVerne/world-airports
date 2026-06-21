@@ -1,0 +1,31 @@
+{
+  "key": "kmss",
+  "codes": {
+    "icao": "KMSS",
+    "iata": "MSS",
+    "gps": "KMSS",
+    "local": "MSS"
+  },
+  "name": "Massena International Airport Richards Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.936157,
+    "longitude": -74.844304,
+    "elevation_ft": 215,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Massena"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Massena_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3710
+  }
+}

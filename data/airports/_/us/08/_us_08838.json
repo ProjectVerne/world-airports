@@ -1,0 +1,32 @@
+{
+  "key": "_us_08838",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "21KS",
+    "local": "21KS"
+  },
+  "name": "University of Kansas Health System St Francis Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.056592,
+    "longitude": -95.695708,
+    "elevation_ft": 1114,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Topeka"
+  },
+  "keywords": [
+    "St Francis Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8838
+  }
+}

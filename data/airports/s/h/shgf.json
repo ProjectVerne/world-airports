@@ -1,0 +1,32 @@
+{
+  "key": "shgf",
+  "codes": {
+    "icao": "SHGF",
+    "iata": null,
+    "gps": "SFGF",
+    "local": null
+  },
+  "name": "Gustavo Fricke Hospital Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -33.029345,
+    "longitude": -71.543095,
+    "elevation_ft": 243,
+    "iso_country": "CL",
+    "iso_region": "CL-VS",
+    "municipality": "Viña del Mar"
+  },
+  "keywords": [
+    "CL-0040"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605500
+  }
+}

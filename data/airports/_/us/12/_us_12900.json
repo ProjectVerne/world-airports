@@ -1,0 +1,33 @@
+{
+  "key": "_us_12900",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Zips Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 33.4529,
+    "longitude": -84.0952,
+    "elevation_ft": 880,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Mc Donough"
+  },
+  "keywords": [
+    "63GA",
+    "US-10473"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12900
+  }
+}

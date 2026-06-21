@@ -1,0 +1,33 @@
+{
+  "key": "oiad",
+  "codes": {
+    "icao": "OIAD",
+    "iata": "DEF",
+    "gps": "OIAD",
+    "local": null
+  },
+  "name": "Dezful Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.434399,
+    "longitude": 48.397598,
+    "elevation_ft": 474,
+    "iso_country": "IR",
+    "iso_region": "IR-06",
+    "municipality": "Dezful"
+  },
+  "keywords": [
+    "Vahdati Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dezful_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5131
+  }
+}

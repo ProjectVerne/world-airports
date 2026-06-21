@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01424",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPK6",
+    "local": "CPK6"
+  },
+  "name": "Toronto (Mississauga Credit Valley Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.561412,
+    "longitude": -79.702737,
+    "elevation_ft": 542,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Toronto"
+  },
+  "keywords": [
+    "PK6"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1424
+  }
+}

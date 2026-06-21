@@ -1,0 +1,33 @@
+{
+  "key": "kadh",
+  "codes": {
+    "icao": "KADH",
+    "iata": "ADT",
+    "gps": "KADH",
+    "local": "ADH"
+  },
+  "name": "Ada Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.805214,
+    "longitude": -96.671988,
+    "elevation_ft": 1016,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Ada"
+  },
+  "keywords": [
+    "Ada Municipal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ada_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19235
+  }
+}

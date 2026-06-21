@@ -1,0 +1,35 @@
+{
+  "key": "zspd",
+  "codes": {
+    "icao": "ZSPD",
+    "iata": "PVG",
+    "gps": "ZSPD",
+    "local": null
+  },
+  "name": "Shanghai Pudong International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.1434,
+    "longitude": 121.805,
+    "elevation_ft": 13,
+    "iso_country": "CN",
+    "iso_region": "CN-31",
+    "municipality": "Shanghai (Pudong)"
+  },
+  "keywords": [
+    "上海",
+    "上海浦东国际机场",
+    "浦东"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27223
+  }
+}

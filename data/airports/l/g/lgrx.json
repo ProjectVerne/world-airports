@@ -1,0 +1,31 @@
+{
+  "key": "lgrx",
+  "codes": {
+    "icao": "LGRX",
+    "iata": "GPA",
+    "gps": "LGRX",
+    "local": null
+  },
+  "name": "Patras Araxos Agamemnon Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.1511,
+    "longitude": 21.4256,
+    "elevation_ft": 46,
+    "iso_country": "GR",
+    "iso_region": "GR-G",
+    "municipality": "Patras"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Araxos_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4280
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_17098",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "DC01",
+    "local": "DC01"
+  },
+  "name": "Washington Post Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.903111,
+    "longitude": -77.030648,
+    "elevation_ft": 175,
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17098
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_23999",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA28",
+    "local": "PA28"
+  },
+  "name": "Excela Health Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.300825,
+    "longitude": -79.5559,
+    "elevation_ft": 1100,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Greensburg"
+  },
+  "keywords": [
+    "Westmoreland Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23999
+  }
+}

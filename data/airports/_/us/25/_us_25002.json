@@ -1,0 +1,30 @@
+{
+  "key": "_us_25002",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TN88",
+    "local": "TN88"
+  },
+  "name": "White County Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.949402,
+    "longitude": -85.478104,
+    "elevation_ft": 1100,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Sparta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25002
+  }
+}

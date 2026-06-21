@@ -1,0 +1,32 @@
+{
+  "key": "_us_506448",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Air Evac 125 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.47458,
+    "longitude": -92.85803,
+    "elevation_ft": 45,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Kinder"
+  },
+  "keywords": [
+    "US-7527"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 506448
+  }
+}

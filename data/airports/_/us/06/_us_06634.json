@@ -1,0 +1,30 @@
+{
+  "key": "_us_06634",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01WN",
+    "local": "01WN"
+  },
+  "name": "Whidbey General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.213402,
+    "longitude": -122.684998,
+    "elevation_ft": 103,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Coupeville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6634
+  }
+}

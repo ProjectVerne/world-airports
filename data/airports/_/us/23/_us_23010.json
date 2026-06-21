@@ -1,0 +1,30 @@
+{
+  "key": "_us_23010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH57",
+    "local": "NH57"
+  },
+  "name": "Exeter Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.981998,
+    "longitude": -70.936203,
+    "elevation_ft": 83,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Exeter"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23010
+  }
+}

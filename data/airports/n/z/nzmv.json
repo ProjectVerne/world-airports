@@ -1,0 +1,32 @@
+{
+  "key": "nzmv",
+  "codes": {
+    "icao": "NZMV",
+    "iata": null,
+    "gps": "NZMV",
+    "local": null
+  },
+  "name": "Methven Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -43.634981,
+    "longitude": 171.654466,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Methven"
+  },
+  "keywords": [
+    "Methven"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605000
+  }
+}

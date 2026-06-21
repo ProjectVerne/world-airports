@@ -1,0 +1,30 @@
+{
+  "key": "ayev",
+  "codes": {
+    "icao": "AYEV",
+    "iata": "ERE",
+    "gps": "AYEV",
+    "local": "ERV"
+  },
+  "name": "Erave Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.606463,
+    "longitude": 143.900213,
+    "elevation_ft": 3650,
+    "iso_country": "PG",
+    "iso_region": "PG-SHM",
+    "municipality": "Erave"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46175
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01075",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJH3",
+    "local": "CJH3"
+  },
+  "name": "Maidstone Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.097922,
+    "longitude": -109.328815,
+    "elevation_ft": 1975,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Maidstone"
+  },
+  "keywords": [
+    "JH3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Maidstone_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1075
+  }
+}

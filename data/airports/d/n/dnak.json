@@ -1,0 +1,31 @@
+{
+  "key": "dnak",
+  "codes": {
+    "icao": "DNAK",
+    "iata": "AKR",
+    "gps": "DNAK",
+    "local": null
+  },
+  "name": "Akure Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.24674,
+    "longitude": 5.30101,
+    "elevation_ft": 1100,
+    "iso_country": "NG",
+    "iso_region": "NG-ON",
+    "municipality": "Akure"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Akure_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2105
+  }
+}

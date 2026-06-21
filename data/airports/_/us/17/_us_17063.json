@@ -1,0 +1,30 @@
+{
+  "key": "_us_17063",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "D12",
+    "local": "D12"
+  },
+  "name": "Garden Valley Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.064301,
+    "longitude": -115.926003,
+    "elevation_ft": 3150,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Garden Valley"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17063
+  }
+}

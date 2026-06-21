@@ -1,0 +1,33 @@
+{
+  "key": "ltcm",
+  "codes": {
+    "icao": "LTCM",
+    "iata": "NOP",
+    "gps": "LTCM",
+    "local": null
+  },
+  "name": "Sinop Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.018313,
+    "longitude": 35.071774,
+    "elevation_ft": 20,
+    "iso_country": "TR",
+    "iso_region": "TR-57",
+    "municipality": "Sinop"
+  },
+  "keywords": [
+    "SIC"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sinop_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30418
+  }
+}

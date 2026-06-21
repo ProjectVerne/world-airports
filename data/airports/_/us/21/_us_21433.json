@@ -1,0 +1,33 @@
+{
+  "key": "_us_21433",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "Y95",
+    "local": "Y95"
+  },
+  "name": "Hillman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.083208,
+    "longitude": -83.938785,
+    "elevation_ft": 850,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Hillman"
+  },
+  "keywords": [
+    "KY95"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hillman_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21433
+  }
+}

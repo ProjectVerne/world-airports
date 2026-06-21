@@ -1,0 +1,30 @@
+{
+  "key": "_us_24825",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE17",
+    "local": "TE17"
+  },
+  "name": "Heathrow Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.438513,
+    "longitude": -97.145842,
+    "elevation_ft": 525,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Robinson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24825
+  }
+}

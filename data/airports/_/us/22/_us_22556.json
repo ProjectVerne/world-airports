@@ -1,0 +1,30 @@
+{
+  "key": "_us_22556",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MU64",
+    "local": "MU64"
+  },
+  "name": "Capital Region Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.565851,
+    "longitude": -92.182465,
+    "elevation_ft": 850,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Jefferson City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22556
+  }
+}

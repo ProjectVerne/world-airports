@@ -1,0 +1,30 @@
+{
+  "key": "_us_23007",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH53",
+    "local": "NH53"
+  },
+  "name": "Norden Systems Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.830898,
+    "longitude": -71.510902,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Merrimack"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23007
+  }
+}

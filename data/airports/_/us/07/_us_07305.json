@@ -1,0 +1,30 @@
+{
+  "key": "_us_07305",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0MA4",
+    "local": "0MA4"
+  },
+  "name": "Boston Medical Center Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.333804,
+    "longitude": -71.071352,
+    "elevation_ft": 19,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Boston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7305
+  }
+}

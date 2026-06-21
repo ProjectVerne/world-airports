@@ -1,0 +1,32 @@
+{
+  "key": "_us_330960",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "06KY",
+    "local": "06KY"
+  },
+  "name": "Air Evac 133 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.645501,
+    "longitude": -84.582222,
+    "elevation_ft": 941,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Williamstown"
+  },
+  "keywords": [
+    "US-1104"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 330960
+  }
+}

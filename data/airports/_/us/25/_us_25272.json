@@ -1,0 +1,33 @@
+{
+  "key": "_us_25272",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Jack's Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.733898,
+    "longitude": -112.194,
+    "elevation_ft": 4440,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Tremonton"
+  },
+  "keywords": [
+    "UT29",
+    "US-12318"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25272
+  }
+}

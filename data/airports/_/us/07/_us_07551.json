@@ -1,0 +1,30 @@
+{
+  "key": "_us_07551",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0TN3",
+    "local": "0TN3"
+  },
+  "name": "Park West Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.917599,
+    "longitude": -84.100197,
+    "elevation_ft": 1000,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Knoxville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7551
+  }
+}

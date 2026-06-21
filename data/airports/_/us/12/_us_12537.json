@@ -1,0 +1,30 @@
+{
+  "key": "_us_12537",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5NC8",
+    "local": "5NC8"
+  },
+  "name": "Unifi Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.136501,
+    "longitude": -80.6465,
+    "elevation_ft": 990,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Yadkinville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12537
+  }
+}

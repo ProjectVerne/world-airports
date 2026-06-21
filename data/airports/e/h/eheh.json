@@ -1,0 +1,33 @@
+{
+  "key": "eheh",
+  "codes": {
+    "icao": "EHEH",
+    "iata": "EIN",
+    "gps": "EHEH",
+    "local": null
+  },
+  "name": "Eindhoven Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.4501,
+    "longitude": 5.37453,
+    "elevation_ft": 74,
+    "iso_country": "NL",
+    "iso_region": "NL-NB",
+    "municipality": "Eindhoven"
+  },
+  "keywords": [
+    "Welschap Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Eindhoven_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2518
+  }
+}

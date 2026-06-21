@@ -1,0 +1,33 @@
+{
+  "key": "mmsl",
+  "codes": {
+    "icao": "MMSL",
+    "iata": "CSW",
+    "gps": "MMSL",
+    "local": "CSL"
+  },
+  "name": "Cabo San Lucas International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.949072,
+    "longitude": -109.939479,
+    "elevation_ft": 459,
+    "iso_country": "MX",
+    "iso_region": "MX-BCS",
+    "municipality": "Cabo San Lucas"
+  },
+  "keywords": [
+    "MM15"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cabo_San_Lucas_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4869
+  }
+}

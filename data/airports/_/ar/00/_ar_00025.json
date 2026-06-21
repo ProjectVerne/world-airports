@@ -1,0 +1,33 @@
+{
+  "key": "_ar_00025",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SA16",
+    "local": "DOP"
+  },
+  "name": "La Puntilla Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -32.962799,
+    "longitude": -68.873703,
+    "elevation_ft": 3091,
+    "iso_country": "AR",
+    "iso_region": "AR-M",
+    "municipality": "La Puntilla"
+  },
+  "keywords": [
+    "SA16"
+  ],
+  "wikipedia": "https://es.wikipedia.org/wiki/Aeroclub_Mendoza",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25
+  }
+}

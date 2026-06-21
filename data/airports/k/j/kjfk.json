@@ -1,0 +1,38 @@
+{
+  "key": "kjfk",
+  "codes": {
+    "icao": "KJFK",
+    "iata": "JFK",
+    "gps": "KJFK",
+    "local": "JFK"
+  },
+  "name": "John F. Kennedy International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.639447,
+    "longitude": -73.779317,
+    "elevation_ft": 13,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "New York"
+  },
+  "keywords": [
+    "Manhattan",
+    "New York City",
+    "NYC",
+    "Idlewild",
+    "IDL",
+    "KIDL"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3622
+  }
+}

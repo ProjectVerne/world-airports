@@ -1,0 +1,33 @@
+{
+  "key": "dafi",
+  "codes": {
+    "icao": "DAFI",
+    "iata": null,
+    "gps": "DAFI",
+    "local": null
+  },
+  "name": "Tsletsi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.6657,
+    "longitude": 3.351,
+    "elevation_ft": 3753,
+    "iso_country": "DZ",
+    "iso_region": "DZ-17",
+    "municipality": "Djelfa"
+  },
+  "keywords": [
+    "QDJ"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tsletsi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 302293
+  }
+}

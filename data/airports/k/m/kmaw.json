@@ -1,0 +1,33 @@
+{
+  "key": "kmaw",
+  "codes": {
+    "icao": "KMAW",
+    "iata": "MAW",
+    "gps": "KMAW",
+    "local": "MAW"
+  },
+  "name": "Malden Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.600601,
+    "longitude": -89.992203,
+    "elevation_ft": 294,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Malden"
+  },
+  "keywords": [
+    "Malden Airbase"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Malden_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20473
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "ayzs",
+  "codes": {
+    "icao": "AYZS",
+    "iata": "OSG",
+    "gps": "AYZS",
+    "local": "OSA"
+  },
+  "name": "Ossima Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.915556,
+    "longitude": 141.297306,
+    "elevation_ft": 205,
+    "iso_country": "PG",
+    "iso_region": "PG-SAN",
+    "municipality": "Ossima"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 306994
+  }
+}

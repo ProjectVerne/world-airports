@@ -1,0 +1,33 @@
+{
+  "key": "utaa",
+  "codes": {
+    "icao": "UTAA",
+    "iata": "ASB",
+    "gps": "UTAA",
+    "local": null
+  },
+  "name": "Ashgabat International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.986801,
+    "longitude": 58.361,
+    "elevation_ft": 692,
+    "iso_country": "TM",
+    "iso_region": "TM-S",
+    "municipality": "Ashgabat"
+  },
+  "keywords": [
+    "Saparmurat Turkmenbashy International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26380
+  }
+}

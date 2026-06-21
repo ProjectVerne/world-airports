@@ -1,0 +1,30 @@
+{
+  "key": "ayln",
+  "codes": {
+    "icao": "AYLN",
+    "iata": "LNM",
+    "gps": "AYLN",
+    "local": "LNM"
+  },
+  "name": "Langimar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.223139,
+    "longitude": 146.227083,
+    "elevation_ft": 5127,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 302387
+  }
+}

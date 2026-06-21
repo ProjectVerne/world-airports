@@ -1,0 +1,31 @@
+{
+  "key": "ayfi",
+  "codes": {
+    "icao": "AYFI",
+    "iata": "FIN",
+    "gps": "AYFI",
+    "local": "FIN"
+  },
+  "name": "Finschhafen Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.62175,
+    "longitude": 147.85405,
+    "elevation_ft": 60,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Buki"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Finschhafen_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46177
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_es_43236",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LEPB",
+    "local": null
+  },
+  "name": "Autoridad Portuaria de Barcelona Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.3643,
+    "longitude": 2.18301,
+    "elevation_ft": 29,
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Barcelona"
+  },
+  "keywords": [
+    "Helipuerto de la autoridad portuaria de Barcelona",
+    "Port Authority of Barcelona Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43236
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "aglm",
+  "codes": {
+    "icao": "AGLM",
+    "iata": "LLM",
+    "gps": "AGLM",
+    "local": null
+  },
+  "name": "Lomlom Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -10.296828,
+    "longitude": 166.327322,
+    "elevation_ft": 55,
+    "iso_country": "SB",
+    "iso_region": "SB-TE",
+    "municipality": "Lomlom"
+  },
+  "keywords": [
+    "Ngawa Island"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lomlom_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 524977
+  }
+}

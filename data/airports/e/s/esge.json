@@ -1,0 +1,33 @@
+{
+  "key": "esge",
+  "codes": {
+    "icao": "ESGE",
+    "iata": null,
+    "gps": "ESGE",
+    "local": null
+  },
+  "name": "Borås Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.695935,
+    "longitude": 12.845002,
+    "elevation_ft": 588,
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Borås"
+  },
+  "keywords": [
+    "Viared"
+  ],
+  "wikipedia": "https://sv.wikipedia.org/wiki/Bor%C3%A5s_flygplats",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29323
+  }
+}

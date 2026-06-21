@@ -1,0 +1,33 @@
+{
+  "key": "uack",
+  "codes": {
+    "icao": "UACK",
+    "iata": "KOV",
+    "gps": "UACK",
+    "local": null
+  },
+  "name": "Kokshetau International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.329102,
+    "longitude": 69.594597,
+    "elevation_ft": 900,
+    "iso_country": "KZ",
+    "iso_region": "KZ-AKM",
+    "municipality": "Kokshetau"
+  },
+  "keywords": [
+    "KOKCHETAV TROFIMOVKA"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kokshetau_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31768
+  }
+}

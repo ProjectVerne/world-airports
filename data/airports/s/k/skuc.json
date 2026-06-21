@@ -1,0 +1,31 @@
+{
+  "key": "skuc",
+  "codes": {
+    "icao": "SKUC",
+    "iata": "AUC",
+    "gps": "SKUC",
+    "local": "AUC"
+  },
+  "name": "Santiago Perez Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.06888,
+    "longitude": -70.7369,
+    "elevation_ft": 420,
+    "iso_country": "CO",
+    "iso_region": "CO-ARA",
+    "municipality": "Arauca"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Santiago_P%C3%A9rez_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6171
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_06612",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Detour Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.843619,
+    "longitude": -100.651503,
+    "elevation_ft": 3000,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Wellfleet"
+  },
+  "keywords": [
+    "01NE",
+    "US-9366"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6612
+  }
+}

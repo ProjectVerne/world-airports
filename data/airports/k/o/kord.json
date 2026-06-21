@@ -1,0 +1,34 @@
+{
+  "key": "kord",
+  "codes": {
+    "icao": "KORD",
+    "iata": "ORD",
+    "gps": "KORD",
+    "local": "ORD"
+  },
+  "name": "Chicago O'Hare International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.9786,
+    "longitude": -87.9048,
+    "elevation_ft": 680,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Chicago"
+  },
+  "keywords": [
+    "CHI",
+    "Orchard Place"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/O'Hare_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3754
+  }
+}

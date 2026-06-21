@@ -1,0 +1,34 @@
+{
+  "key": "_br_00301",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Divisa Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": -15.519444,
+    "longitude": -40.872501,
+    "elevation_ft": 2710,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Encruzilhada"
+  },
+  "keywords": [
+    "SNDW",
+    "BA0043",
+    "BR-1944"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301
+  }
+}

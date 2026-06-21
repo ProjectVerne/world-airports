@@ -1,0 +1,30 @@
+{
+  "key": "_us_08246",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1CO1",
+    "local": "1CO1"
+  },
+  "name": "Mount Morrison Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.669201,
+    "longitude": -105.220001,
+    "elevation_ft": 7881,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Morrison"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8246
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "essl",
+  "codes": {
+    "icao": "ESSL",
+    "iata": "LPI",
+    "gps": "ESSL",
+    "local": null
+  },
+  "name": "Linköping City Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.404909,
+    "longitude": 15.684499,
+    "elevation_ft": 172,
+    "iso_country": "SE",
+    "iso_region": "SE-E",
+    "municipality": "Linköping"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Link%C3%B6ping_SAAB_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2706
+  }
+}

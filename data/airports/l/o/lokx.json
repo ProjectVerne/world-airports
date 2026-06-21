@@ -1,0 +1,32 @@
+{
+  "key": "lokx",
+  "codes": {
+    "icao": "LOKX",
+    "iata": null,
+    "gps": "LOKX",
+    "local": null
+  },
+  "name": "Waiern Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.734082,
+    "longitude": 14.087081,
+    "elevation_ft": 2014,
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Feldkirchen-Waiern"
+  },
+  "keywords": [
+    "AT-0080"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43855
+  }
+}

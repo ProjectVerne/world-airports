@@ -1,0 +1,33 @@
+{
+  "key": "vvdl",
+  "codes": {
+    "icao": "VVDL",
+    "iata": "DLI",
+    "gps": "VVDL",
+    "local": null
+  },
+  "name": "Lien Khuong Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.750556,
+    "longitude": 108.366997,
+    "elevation_ft": 3156,
+    "iso_country": "VN",
+    "iso_region": "VN-CH",
+    "municipality": "Da Lat"
+  },
+  "keywords": [
+    "Lienkhang"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lien_Khuong_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30923
+  }
+}

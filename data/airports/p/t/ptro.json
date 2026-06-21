@@ -1,0 +1,34 @@
+{
+  "key": "ptro",
+  "codes": {
+    "icao": "PTRO",
+    "iata": "ROR",
+    "gps": "PTRO",
+    "local": "ROR"
+  },
+  "name": "Roman Tmetuchl International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.366965,
+    "longitude": 134.544085,
+    "elevation_ft": 176,
+    "iso_country": "PW",
+    "iso_region": "PW-004",
+    "municipality": "Babelthuap Island"
+  },
+  "keywords": [
+    "Babelthuap Airport",
+    "Palau International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Palau_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5501
+  }
+}

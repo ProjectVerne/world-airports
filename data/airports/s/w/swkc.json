@@ -1,0 +1,31 @@
+{
+  "key": "swkc",
+  "codes": {
+    "icao": "SWKC",
+    "iata": "CCX",
+    "gps": "SWKC",
+    "local": "SWKC"
+  },
+  "name": "Cáceres Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.0436,
+    "longitude": -57.629902,
+    "elevation_ft": 492,
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Cáceres"
+  },
+  "keywords": [],
+  "wikipedia": "https://pt.wikipedia.org/wiki/Aeroporto_de_C%C3%A1ceres",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 551
+  }
+}

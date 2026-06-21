@@ -1,0 +1,33 @@
+{
+  "key": "cyct",
+  "codes": {
+    "icao": "CYCT",
+    "iata": "YCT",
+    "gps": "CYCT",
+    "local": null
+  },
+  "name": "Coronation Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.075001,
+    "longitude": -111.445,
+    "elevation_ft": 2595,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Coronation"
+  },
+  "keywords": [
+    "YCT"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Coronation_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1698
+  }
+}

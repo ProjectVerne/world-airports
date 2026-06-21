@@ -1,0 +1,30 @@
+{
+  "key": "_us_21763",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA20",
+    "local": "MA20"
+  },
+  "name": "Beverly Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.5662,
+    "longitude": -70.877502,
+    "elevation_ft": 84,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Beverly"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21763
+  }
+}

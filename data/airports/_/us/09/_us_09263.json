@@ -1,0 +1,33 @@
+{
+  "key": "_us_09263",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Self Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 35.311755,
+    "longitude": -81.625296,
+    "elevation_ft": 930,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Shelby"
+  },
+  "keywords": [
+    "29NC",
+    "US-9834"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9263
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "kszt",
+  "codes": {
+    "icao": "KSZT",
+    "iata": null,
+    "gps": "KSZT",
+    "local": "SZT"
+  },
+  "name": "Sandpoint Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.2995,
+    "longitude": -116.559998,
+    "elevation_ft": 2131,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Sandpoint"
+  },
+  "keywords": [
+    "S86"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sandpoint_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21131
+  }
+}

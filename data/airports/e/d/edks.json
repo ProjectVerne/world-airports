@@ -1,0 +1,33 @@
+{
+  "key": "edks",
+  "codes": {
+    "icao": "EDKS",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Iserlohn-Sümmern Glider Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.436389,
+    "longitude": 7.699722,
+    "elevation_ft": 591,
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Iserlohn"
+  },
+  "keywords": [
+    "DE-0367"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Iserlohn-S%C3%BCmmern",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320789
+  }
+}

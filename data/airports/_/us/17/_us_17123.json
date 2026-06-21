@@ -1,0 +1,30 @@
+{
+  "key": "_us_17123",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "DE08",
+    "local": "DE08"
+  },
+  "name": "Barcroft Company Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.781502,
+    "longitude": -75.105202,
+    "elevation_ft": 8,
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Lewes"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17123
+  }
+}

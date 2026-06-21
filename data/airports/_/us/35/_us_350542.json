@@ -1,0 +1,32 @@
+{
+  "key": "_us_350542",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Rusty Spur Emergency Landing Zone",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 31.62029,
+    "longitude": -111.06945,
+    "elevation_ft": 3365,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Tubac"
+  },
+  "keywords": [
+    "US-6020"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350542
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "letl",
+  "codes": {
+    "icao": "LETL",
+    "iata": "TEV",
+    "gps": "LETL",
+    "local": null
+  },
+  "name": "Teruel Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.410269,
+    "longitude": -1.217366,
+    "elevation_ft": 3380,
+    "iso_country": "ES",
+    "iso_region": "ES-AR",
+    "municipality": "Teruel"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Teruel_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 316427
+  }
+}

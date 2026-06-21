@@ -1,0 +1,33 @@
+{
+  "key": "kbif",
+  "codes": {
+    "icao": "KBIF",
+    "iata": "BIF",
+    "gps": "KBIF",
+    "local": "BIF"
+  },
+  "name": "Biggs Army Air Field (Fort Bliss)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.849501,
+    "longitude": -106.379997,
+    "elevation_ft": 3946,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Bliss/El Paso"
+  },
+  "keywords": [
+    "Fort Bliss"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Biggs_Army_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3407
+  }
+}

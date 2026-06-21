@@ -1,0 +1,30 @@
+{
+  "key": "_us_22003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ME88",
+    "local": "ME88"
+  },
+  "name": "Morrison's Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.991699,
+    "longitude": -67.074402,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Perry"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22003
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "vtbe",
+  "codes": {
+    "icao": "VTBE",
+    "iata": null,
+    "gps": "VTBE",
+    "local": null
+  },
+  "name": "Pak Phreaw Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 14.50821,
+    "longitude": 100.919005,
+    "elevation_ft": 46,
+    "iso_country": "TH",
+    "iso_region": "TH-19",
+    "municipality": "Mueang Saraburi"
+  },
+  "keywords": [
+    "Saraburi Field"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 598125
+  }
+}

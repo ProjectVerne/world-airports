@@ -1,0 +1,31 @@
+{
+  "key": "sykt",
+  "codes": {
+    "icao": "SYKT",
+    "iata": "KTO",
+    "gps": "SYKT",
+    "local": null
+  },
+  "name": "Kato Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.64916,
+    "longitude": -59.832199,
+    "elevation_ft": 2299,
+    "iso_country": "GY",
+    "iso_region": "GY-PT",
+    "municipality": "Kato"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kato_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31782
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_25065",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS49",
+    "local": "TS49"
+  },
+  "name": "Station 40 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.176131,
+    "longitude": -94.503676,
+    "elevation_ft": 65,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Sour Lake"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25065
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08614",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1PA1",
+    "local": "1PA1"
+  },
+  "name": "401 City Avenue Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.009602,
+    "longitude": -75.213799,
+    "elevation_ft": 234,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philadelphia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8614
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "kchs",
+  "codes": {
+    "icao": "KCHS",
+    "iata": "CHS",
+    "gps": "KCHS",
+    "local": "CHS"
+  },
+  "name": "Charleston International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.896159,
+    "longitude": -80.038151,
+    "elevation_ft": 46,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Charleston"
+  },
+  "keywords": [
+    "Charleston Air Force Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Charleston_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3450
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00701",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBM6",
+    "local": "CBM6"
+  },
+  "name": "Midway Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.009998,
+    "longitude": -118.790001,
+    "elevation_ft": 1896,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Midway"
+  },
+  "keywords": [
+    "BM6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Midway_Airport_(British_Columbia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 701
+  }
+}

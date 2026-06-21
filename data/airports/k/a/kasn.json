@@ -1,0 +1,31 @@
+{
+  "key": "kasn",
+  "codes": {
+    "icao": "KASN",
+    "iata": "ASN",
+    "gps": "KASN",
+    "local": "ASN"
+  },
+  "name": "Talladega Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.569901,
+    "longitude": -86.050903,
+    "elevation_ft": 529,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Talladega"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Talladega_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19313
+  }
+}

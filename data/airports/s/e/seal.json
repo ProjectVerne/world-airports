@@ -1,0 +1,30 @@
+{
+  "key": "seal",
+  "codes": {
+    "icao": "SEAL",
+    "iata": null,
+    "gps": "SEAL",
+    "local": null
+  },
+  "name": "Algarrobo Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.288551,
+    "longitude": -80.019765,
+    "elevation_ft": 36,
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "Guayaquil"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 512319
+  }
+}

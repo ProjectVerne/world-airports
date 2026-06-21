@@ -1,0 +1,30 @@
+{
+  "key": "_us_24475",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SC77",
+    "local": "SC77"
+  },
+  "name": "Providence Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.014599,
+    "longitude": -81.012001,
+    "elevation_ft": 322,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Columbia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24475
+  }
+}

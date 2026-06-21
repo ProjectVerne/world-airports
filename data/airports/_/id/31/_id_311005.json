@@ -1,0 +1,33 @@
+{
+  "key": "_id_311005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "SAP"
+  },
+  "name": "Sape Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.7655,
+    "longitude": 140.5054,
+    "elevation_ft": 6885,
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Sape"
+  },
+  "keywords": [
+    "WW89",
+    "ID-0131"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 311005
+  }
+}

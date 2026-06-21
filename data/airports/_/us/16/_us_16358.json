@@ -1,0 +1,30 @@
+{
+  "key": "_us_16358",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AR71",
+    "local": "AR71"
+  },
+  "name": "Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.467602,
+    "longitude": -93.419098,
+    "elevation_ft": 491,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Clarksville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16358
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08300",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1GA3",
+    "local": "1GA3"
+  },
+  "name": "Union General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.8862,
+    "longitude": -83.962402,
+    "elevation_ft": 1911,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Blairsville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8300
+  }
+}

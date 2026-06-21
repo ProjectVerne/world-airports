@@ -1,0 +1,30 @@
+{
+  "key": "_us_06652",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "02ID",
+    "local": "02ID"
+  },
+  "name": "Morgan Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.5555,
+    "longitude": -115.305,
+    "elevation_ft": 5634,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Cascade"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6652
+  }
+}

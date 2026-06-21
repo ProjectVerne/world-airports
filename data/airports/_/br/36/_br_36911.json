@@ -1,0 +1,32 @@
+{
+  "key": "_br_36911",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDFM",
+    "local": "SP0327"
+  },
+  "name": "DJY Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.597377,
+    "longitude": -46.685405,
+    "elevation_ft": 2603,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Paulo"
+  },
+  "keywords": [
+    "SJVA"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36911
+  }
+}

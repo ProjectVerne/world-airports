@@ -1,0 +1,33 @@
+{
+  "key": "kimt",
+  "codes": {
+    "icao": "KIMT",
+    "iata": "IMT",
+    "gps": "KIMT",
+    "local": "IMT"
+  },
+  "name": "Ford Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.81911,
+    "longitude": -88.114557,
+    "elevation_ft": 1182,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Kingsford"
+  },
+  "keywords": [
+    "Iron Mountain"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ford_Airport_(Iron_Mountain)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20177
+  }
+}

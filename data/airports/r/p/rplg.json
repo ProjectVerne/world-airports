@@ -1,0 +1,32 @@
+{
+  "key": "rplg",
+  "codes": {
+    "icao": "RPLG",
+    "iata": null,
+    "gps": "RPLG",
+    "local": null
+  },
+  "name": "Wasig Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.534338,
+    "longitude": 121.482848,
+    "elevation_ft": 17,
+    "iso_country": "PH",
+    "iso_region": "PH-MDR",
+    "municipality": "Mansalay"
+  },
+  "keywords": [
+    "RPVL"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32232
+  }
+}

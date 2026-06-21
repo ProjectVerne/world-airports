@@ -1,0 +1,31 @@
+{
+  "key": "kfhr",
+  "codes": {
+    "icao": "KFHR",
+    "iata": "FRD",
+    "gps": "KFHR",
+    "local": "FHR"
+  },
+  "name": "Friday Harbor Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.523654,
+    "longitude": -123.024645,
+    "elevation_ft": 113,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Friday Harbor"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Friday_Harbor_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19868
+  }
+}

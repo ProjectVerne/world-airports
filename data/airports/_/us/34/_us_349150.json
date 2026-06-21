@@ -1,0 +1,32 @@
+{
+  "key": "_us_349150",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IN68",
+    "local": "IN68"
+  },
+  "name": "Reid Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.8643,
+    "longitude": -84.88288,
+    "elevation_ft": 1073,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Richmond"
+  },
+  "keywords": [
+    "US-5614"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 349150
+  }
+}

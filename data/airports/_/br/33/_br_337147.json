@@ -1,0 +1,32 @@
+{
+  "key": "_br_337147",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SSNW",
+    "local": "BA0345"
+  },
+  "name": "FBDM Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -11.451625,
+    "longitude": -39.081259,
+    "elevation_ft": 1174,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Barrocas"
+  },
+  "keywords": [
+    "BR-1204"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 337147
+  }
+}

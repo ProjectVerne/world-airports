@@ -1,0 +1,31 @@
+{
+  "key": "enbr",
+  "codes": {
+    "icao": "ENBR",
+    "iata": "BGO",
+    "gps": "ENBR",
+    "local": null
+  },
+  "name": "Bergen Airport, Flesland",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.2934,
+    "longitude": 5.21814,
+    "elevation_ft": 170,
+    "iso_country": "NO",
+    "iso_region": "NO-46",
+    "municipality": "Bergen"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bergen_Airport%2C_Flesland",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2570
+  }
+}

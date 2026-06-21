@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01024",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFZ3",
+    "local": "CFZ3"
+  },
+  "name": "Schlenker Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.971671,
+    "longitude": -110.72439,
+    "elevation_ft": 2365,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Medicine Hat"
+  },
+  "keywords": [
+    "FZ3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Medicine_Hat/Schlenker_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1024
+  }
+}

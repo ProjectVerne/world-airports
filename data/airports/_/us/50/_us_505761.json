@@ -1,0 +1,33 @@
+{
+  "key": "_us_505761",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "HH Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.665824,
+    "longitude": -85.989344,
+    "elevation_ft": 640,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Hamilton"
+  },
+  "keywords": [
+    "6MI2",
+    "US-7428"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505761
+  }
+}

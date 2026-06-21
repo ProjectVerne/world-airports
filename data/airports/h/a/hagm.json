@@ -1,0 +1,33 @@
+{
+  "key": "hagm",
+  "codes": {
+    "icao": "HAGM",
+    "iata": "GMB",
+    "gps": "HAGM",
+    "local": null
+  },
+  "name": "Gambela Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.12876,
+    "longitude": 34.563099,
+    "elevation_ft": 1614,
+    "iso_country": "ET",
+    "iso_region": "ET-GA",
+    "municipality": "Gambela"
+  },
+  "keywords": [
+    "Gambela National Park"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gambela_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3163
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ekts",
+  "codes": {
+    "icao": "EKTS",
+    "iata": "TED",
+    "gps": "EKTS",
+    "local": null
+  },
+  "name": "Thisted Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.068802,
+    "longitude": 8.70522,
+    "elevation_ft": 23,
+    "iso_country": "DK",
+    "iso_region": "DK-81",
+    "municipality": "Thisted"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Thisted_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2557
+  }
+}

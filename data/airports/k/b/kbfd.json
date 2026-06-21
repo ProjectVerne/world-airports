@@ -1,0 +1,31 @@
+{
+  "key": "kbfd",
+  "codes": {
+    "icao": "KBFD",
+    "iata": "BFD",
+    "gps": "KBFD",
+    "local": "BFD"
+  },
+  "name": "Bradford Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.803101,
+    "longitude": -78.640099,
+    "elevation_ft": 2143,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Bradford"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bradford_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3399
+  }
+}

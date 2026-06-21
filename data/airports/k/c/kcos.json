@@ -1,0 +1,34 @@
+{
+  "key": "kcos",
+  "codes": {
+    "icao": "KCOS",
+    "iata": "COS",
+    "gps": "KCOS",
+    "local": "COS"
+  },
+  "name": "City of Colorado Springs Municipal Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.805801,
+    "longitude": -104.700996,
+    "elevation_ft": 6187,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Colorado Springs"
+  },
+  "keywords": [
+    "Peterson SFB",
+    "Colorado Springs Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Colorado_Springs_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3463
+  }
+}

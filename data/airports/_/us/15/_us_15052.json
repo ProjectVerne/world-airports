@@ -1,0 +1,32 @@
+{
+  "key": "_us_15052",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8MO9",
+    "local": "8MO9"
+  },
+  "name": "Mercy Hospital St Louis Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.643667,
+    "longitude": -90.448336,
+    "elevation_ft": 633,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "St Louis"
+  },
+  "keywords": [
+    "St John's Mercy Medical Center"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15052
+  }
+}

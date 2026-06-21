@@ -1,0 +1,33 @@
+{
+  "key": "edry",
+  "codes": {
+    "icao": "EDRY",
+    "iata": null,
+    "gps": "EDRY",
+    "local": null
+  },
+  "name": "Speyer Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.304722,
+    "longitude": 8.451389,
+    "elevation_ft": 312,
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Speyer"
+  },
+  "keywords": [
+    "ZQC"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Speyer",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2268
+  }
+}

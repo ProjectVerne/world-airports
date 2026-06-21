@@ -1,0 +1,31 @@
+{
+  "key": "rpvd",
+  "codes": {
+    "icao": "RPVD",
+    "iata": "DGT",
+    "gps": "RPVD",
+    "local": null
+  },
+  "name": "Sibulan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.334183,
+    "longitude": 123.30191,
+    "elevation_ft": 15,
+    "iso_country": "PH",
+    "iso_region": "PH-NER",
+    "municipality": "Dumaguete City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sibulan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5735
+  }
+}

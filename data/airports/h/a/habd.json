@@ -1,0 +1,33 @@
+{
+  "key": "habd",
+  "codes": {
+    "icao": "HABD",
+    "iata": "BJR",
+    "gps": "HABD",
+    "local": null
+  },
+  "name": "Bahir Dar Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.6081,
+    "longitude": 37.321602,
+    "elevation_ft": 5978,
+    "iso_country": "ET",
+    "iso_region": "ET-AM",
+    "municipality": "Bahir Dar"
+  },
+  "keywords": [
+    "Dejazmach Belay Zeleke"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bahir_Dar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3161
+  }
+}

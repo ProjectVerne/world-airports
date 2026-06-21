@@ -1,0 +1,30 @@
+{
+  "key": "_us_21878",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MD32",
+    "local": "MD32"
+  },
+  "name": "Fort Detrick Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.436257,
+    "longitude": -77.420683,
+    "elevation_ft": 350,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Fort Detrick(Frederick)"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21878
+  }
+}

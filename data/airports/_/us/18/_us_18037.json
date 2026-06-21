@@ -1,0 +1,30 @@
+{
+  "key": "_us_18037",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IL64",
+    "local": "IL64"
+  },
+  "name": "Martin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.180599,
+    "longitude": -89.500099,
+    "elevation_ft": 558,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Lincoln"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18037
+  }
+}

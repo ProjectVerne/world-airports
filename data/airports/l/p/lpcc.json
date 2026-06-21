@@ -1,0 +1,33 @@
+{
+  "key": "lpcc",
+  "codes": {
+    "icao": "LPCC",
+    "iata": null,
+    "gps": "LPCC",
+    "local": null
+  },
+  "name": "Dr. Nélio Mendonça Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.647638,
+    "longitude": -16.92371,
+    "elevation_ft": 367,
+    "iso_country": "PT",
+    "iso_region": "PT-30",
+    "municipality": "Funchal"
+  },
+  "keywords": [
+    "Cruz de Carvalho Hospital"
+  ],
+  "wikipedia": "https://pt.wikipedia.org/wiki/Hospital_Dr._N%C3%A9lio_Mendon%C3%A7a",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 321239
+  }
+}

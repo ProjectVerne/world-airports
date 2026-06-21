@@ -1,0 +1,34 @@
+{
+  "key": "epar",
+  "codes": {
+    "icao": "EPAR",
+    "iata": null,
+    "gps": "EPAR",
+    "local": null
+  },
+  "name": "Arłamów Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.657501,
+    "longitude": 22.514298,
+    "elevation_ft": 1455,
+    "iso_country": "PL",
+    "iso_region": "PL-PK",
+    "municipality": "Wola Korzeniecka"
+  },
+  "keywords": [
+    "Krajna",
+    "Wola Korzeniecka"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ar%C5%82am%C3%B3w_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31010
+  }
+}

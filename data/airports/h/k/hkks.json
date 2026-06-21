@@ -1,0 +1,31 @@
+{
+  "key": "hkks",
+  "codes": {
+    "icao": "HKKS",
+    "iata": null,
+    "gps": "HKKS",
+    "local": null
+  },
+  "name": "Kisii Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.672518,
+    "longitude": 34.69099,
+    "elevation_ft": 4905,
+    "iso_country": "KE",
+    "iso_region": "KE-45",
+    "municipality": "Kisii"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kisii_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31588
+  }
+}

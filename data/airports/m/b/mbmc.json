@@ -1,0 +1,31 @@
+{
+  "key": "mbmc",
+  "codes": {
+    "icao": "MBMC",
+    "iata": "MDS",
+    "gps": "MBMC",
+    "local": null
+  },
+  "name": "Middle Caicos Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.82602,
+    "longitude": -71.8025,
+    "elevation_ft": 9,
+    "iso_country": "TC",
+    "iso_region": "TC-MC",
+    "municipality": "Middle Caicos"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Middle_Caicos_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31887
+  }
+}

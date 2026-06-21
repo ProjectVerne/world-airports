@@ -1,0 +1,31 @@
+{
+  "key": "fahr",
+  "codes": {
+    "icao": "FAHR",
+    "iata": "HRS",
+    "gps": "FAHR",
+    "local": null
+  },
+  "name": "Harrismith Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -28.2351,
+    "longitude": 29.106199,
+    "elevation_ft": 5585,
+    "iso_country": "ZA",
+    "iso_region": "ZA-FS",
+    "municipality": "Harrismith"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Harrismith_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2789
+  }
+}

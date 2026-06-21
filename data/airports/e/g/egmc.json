@@ -1,0 +1,33 @@
+{
+  "key": "egmc",
+  "codes": {
+    "icao": "EGMC",
+    "iata": "SEN",
+    "gps": "EGMC",
+    "local": null
+  },
+  "name": "London Southend Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.570562,
+    "longitude": 0.693627,
+    "elevation_ft": 49,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Southend-on-Sea, Essex"
+  },
+  "keywords": [
+    "RAF Rochford"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/London_Southend_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2435
+  }
+}

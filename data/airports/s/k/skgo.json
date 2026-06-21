@@ -1,0 +1,31 @@
+{
+  "key": "skgo",
+  "codes": {
+    "icao": "SKGO",
+    "iata": "CRC",
+    "gps": "SKGO",
+    "local": "CRC"
+  },
+  "name": "Santa Ana Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.75818,
+    "longitude": -75.9557,
+    "elevation_ft": 2979,
+    "iso_country": "CO",
+    "iso_region": "CO-VAC",
+    "municipality": "Cartago"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Santa_Ana_Airport_(Colombia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6121
+  }
+}

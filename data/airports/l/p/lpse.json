@@ -1,0 +1,34 @@
+{
+  "key": "lpse",
+  "codes": {
+    "icao": "LPSE",
+    "iata": null,
+    "gps": "LPSE",
+    "local": null
+  },
+  "name": "Aeródromo de Seia",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.453186,
+    "longitude": -7.692059,
+    "elevation_ft": 1445,
+    "iso_country": "PT",
+    "iso_region": "PT-09",
+    "municipality": "Seia"
+  },
+  "keywords": [
+    "Serra da Estrela",
+    "Seia Airfield",
+    "PT-0035"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320152
+  }
+}

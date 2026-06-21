@@ -1,0 +1,33 @@
+{
+  "key": "_us_22685",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "65NK",
+    "local": "65NK"
+  },
+  "name": "Apex Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.7295,
+    "longitude": -74.164001,
+    "elevation_ft": 1130,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Delanson"
+  },
+  "keywords": [
+    "N65",
+    "Knox"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22685
+  }
+}

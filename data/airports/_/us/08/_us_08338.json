@@ -1,0 +1,32 @@
+{
+  "key": "_us_08338",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1ID8",
+    "local": "1ID8"
+  },
+  "name": "North Canyon Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.921675,
+    "longitude": -114.709449,
+    "elevation_ft": 3579,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Gooding"
+  },
+  "keywords": [
+    "Gooding County Memorial Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8338
+  }
+}

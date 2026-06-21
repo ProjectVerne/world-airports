@@ -1,0 +1,32 @@
+{
+  "key": "_us_07667",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "10KS",
+    "local": "10KS"
+  },
+  "name": "University of Kansas Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.056277,
+    "longitude": -94.608892,
+    "elevation_ft": 958,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Kansas City"
+  },
+  "keywords": [
+    "University of Kansas Medical Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7667
+  }
+}

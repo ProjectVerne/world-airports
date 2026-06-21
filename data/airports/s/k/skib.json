@@ -1,0 +1,31 @@
+{
+  "key": "skib",
+  "codes": {
+    "icao": "SKIB",
+    "iata": "IBE",
+    "gps": "SKIB",
+    "local": "IBE"
+  },
+  "name": "Perales Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.42161,
+    "longitude": -75.1333,
+    "elevation_ft": 2999,
+    "iso_country": "CO",
+    "iso_region": "CO-TOL",
+    "municipality": "Ibagué"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Perales_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6124
+  }
+}

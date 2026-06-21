@@ -1,0 +1,30 @@
+{
+  "key": "_us_08483",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MS5",
+    "local": "1MS5"
+  },
+  "name": "General Dan C Mills Emergency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.88132,
+    "longitude": -89.70694,
+    "elevation_ft": 44,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Byhalia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8483
+  }
+}

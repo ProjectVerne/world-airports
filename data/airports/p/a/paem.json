@@ -1,0 +1,31 @@
+{
+  "key": "paem",
+  "codes": {
+    "icao": "PAEM",
+    "iata": "EMK",
+    "gps": "PAEM",
+    "local": "ENM"
+  },
+  "name": "Emmonak Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.786098,
+    "longitude": -164.490997,
+    "elevation_ft": 13,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Emmonak"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Emmonak_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5358
+  }
+}

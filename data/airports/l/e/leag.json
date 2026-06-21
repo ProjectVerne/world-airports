@@ -1,0 +1,33 @@
+{
+  "key": "leag",
+  "codes": {
+    "icao": "LEAG",
+    "iata": null,
+    "gps": "LEAG",
+    "local": null
+  },
+  "name": "Algeciras Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.12882,
+    "longitude": -5.441079,
+    "elevation_ft": 98,
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Algeciras"
+  },
+  "keywords": [
+    "AEI"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Algeciras_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300646
+  }
+}

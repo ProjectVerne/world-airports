@@ -1,0 +1,30 @@
+{
+  "key": "_us_23712",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OI65",
+    "local": "OI65"
+  },
+  "name": "Aultman Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.795799,
+    "longitude": -81.4039,
+    "elevation_ft": 191,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Canton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23712
+  }
+}

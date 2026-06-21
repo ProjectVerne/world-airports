@@ -1,0 +1,33 @@
+{
+  "key": "_us_11485",
+  "codes": {
+    "icao": null,
+    "iata": "PDB",
+    "gps": "4K0",
+    "local": "4K0"
+  },
+  "name": "Pedro Bay Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.796925,
+    "longitude": -154.129994,
+    "elevation_ft": 45,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Pedro Bay"
+  },
+  "keywords": [
+    "AK04"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Bay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11485
+  }
+}

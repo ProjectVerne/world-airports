@@ -1,0 +1,32 @@
+{
+  "key": "_us_17251",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FA61",
+    "local": "FA61"
+  },
+  "name": "UF Health Jacksonville Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.349533,
+    "longitude": -81.665481,
+    "elevation_ft": 25,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville"
+  },
+  "keywords": [
+    "Shands Jacksonville Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17251
+  }
+}

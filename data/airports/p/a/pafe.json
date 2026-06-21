@@ -1,0 +1,33 @@
+{
+  "key": "pafe",
+  "codes": {
+    "icao": "PAFE",
+    "iata": null,
+    "gps": "PAFE",
+    "local": "AFE"
+  },
+  "name": "Kake Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.961312,
+    "longitude": -133.910202,
+    "elevation_ft": 172,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Kake"
+  },
+  "keywords": [
+    "K23"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kake_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5362
+  }
+}

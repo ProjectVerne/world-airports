@@ -1,0 +1,33 @@
+{
+  "key": "_br_35866",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SJNT",
+    "local": "SP0637"
+  },
+  "name": "GF Taxi Aéreo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -24.002906,
+    "longitude": -46.289102,
+    "elevation_ft": 20,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Guarujá"
+  },
+  "keywords": [
+    "SIBI",
+    "Tame Guarujá"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35866
+  }
+}

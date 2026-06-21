@@ -1,0 +1,33 @@
+{
+  "key": "_us_25194",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "EDS Superdrome Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 33.132682,
+    "longitude": -96.789958,
+    "elevation_ft": 765,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Frisco"
+  },
+  "keywords": [
+    "TX80",
+    "US-12303"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25194
+  }
+}

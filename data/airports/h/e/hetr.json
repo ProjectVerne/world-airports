@@ -1,0 +1,33 @@
+{
+  "key": "hetr",
+  "codes": {
+    "icao": "HETR",
+    "iata": "ELT",
+    "gps": "HETR",
+    "local": null
+  },
+  "name": "At Tur Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.208964,
+    "longitude": 33.645483,
+    "elevation_ft": 52,
+    "iso_country": "EG",
+    "iso_region": "EG-JS",
+    "municipality": "At Tur"
+  },
+  "keywords": [
+    "El Tor"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Tor_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3201
+  }
+}

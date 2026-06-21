@@ -1,0 +1,30 @@
+{
+  "key": "_us_600352",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "52ID",
+    "local": "52ID"
+  },
+  "name": "Eagle Hills Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.733444,
+    "longitude": -116.346667,
+    "elevation_ft": 2760,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Eagle"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600352
+  }
+}

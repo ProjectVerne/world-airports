@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01168",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKC9",
+    "local": "CKC9"
+  },
+  "name": "Pangman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.6464,
+    "longitude": -104.666,
+    "elevation_ft": 2300,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Pangman"
+  },
+  "keywords": [
+    "KC9"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pangman_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1168
+  }
+}

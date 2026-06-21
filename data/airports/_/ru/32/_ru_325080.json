@@ -1,0 +1,34 @@
+{
+  "key": "_ru_325080",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UIAB",
+    "local": null
+  },
+  "name": "Barnaul Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.361383,
+    "longitude": 116.4814,
+    "elevation_ft": 2224,
+    "iso_country": "RU",
+    "iso_region": "RU-ZAB",
+    "municipality": "Borzya"
+  },
+  "keywords": [
+    "УИАБ",
+    "Барнаул",
+    "Борзя"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325080
+  }
+}

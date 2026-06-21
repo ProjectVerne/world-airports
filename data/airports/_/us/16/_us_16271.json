@@ -1,0 +1,30 @@
+{
+  "key": "_us_16271",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AL82",
+    "local": "AL82"
+  },
+  "name": "Providence Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.679512,
+    "longitude": -88.200071,
+    "elevation_ft": 210,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Mobile"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16271
+  }
+}

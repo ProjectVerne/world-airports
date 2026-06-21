@@ -1,0 +1,35 @@
+{
+  "key": "_us_342030",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Los Angeles County Sheriff's Department Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.050838,
+    "longitude": -118.168329,
+    "elevation_ft": 474,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Los Angeles"
+  },
+  "keywords": [
+    "K1DER",
+    "Fire Station 1",
+    "Biscailuz Center",
+    "US-3302"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 342030
+  }
+}

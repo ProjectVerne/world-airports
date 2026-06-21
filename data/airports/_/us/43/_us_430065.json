@@ -1,0 +1,32 @@
+{
+  "key": "_us_430065",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Anderson Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.60311,
+    "longitude": -103.9033,
+    "elevation_ft": 4605,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Harrisburg"
+  },
+  "keywords": [
+    "US-7121"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 430065
+  }
+}

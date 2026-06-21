@@ -1,0 +1,30 @@
+{
+  "key": "_us_07785",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "12NK",
+    "local": "12NK"
+  },
+  "name": "Westport Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.158401,
+    "longitude": -73.432899,
+    "elevation_ft": 276,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Westport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7785
+  }
+}

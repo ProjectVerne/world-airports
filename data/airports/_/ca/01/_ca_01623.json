@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01623",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CVH7",
+    "local": "CVH7"
+  },
+  "name": "Vulcan (Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.395718,
+    "longitude": -113.259233,
+    "elevation_ft": 3451,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Vulcan"
+  },
+  "keywords": [
+    "Vulcan Medical Clinic"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1623
+  }
+}

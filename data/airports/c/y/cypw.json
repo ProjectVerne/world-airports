@@ -1,0 +1,31 @@
+{
+  "key": "cypw",
+  "codes": {
+    "icao": "CYPW",
+    "iata": "YPW",
+    "gps": "CYPW",
+    "local": null
+  },
+  "name": "Powell River Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.834202,
+    "longitude": -124.5,
+    "elevation_ft": 425,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Powell River"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Powell_River_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1859
+  }
+}

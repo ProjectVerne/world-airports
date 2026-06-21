@@ -1,0 +1,34 @@
+{
+  "key": "hagn",
+  "codes": {
+    "icao": "HAGN",
+    "iata": "GDQ",
+    "gps": "HAGN",
+    "local": null
+  },
+  "name": "Gondar Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.5199,
+    "longitude": 37.433998,
+    "elevation_ft": 6449,
+    "iso_country": "ET",
+    "iso_region": "ET-AM",
+    "municipality": "Azezo"
+  },
+  "keywords": [
+    "Atse Tewodros",
+    "Emperor Tewodros"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gondar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3164
+  }
+}

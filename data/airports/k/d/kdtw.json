@@ -1,0 +1,34 @@
+{
+  "key": "kdtw",
+  "codes": {
+    "icao": "KDTW",
+    "iata": "DTW",
+    "gps": "KDTW",
+    "local": "DTW"
+  },
+  "name": "Detroit Metropolitan Wayne County Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.21377,
+    "longitude": -83.353786,
+    "elevation_ft": 645,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Detroit"
+  },
+  "keywords": [
+    "DTT",
+    "Detroit Metro Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Detroit_Metropolitan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3497
+  }
+}

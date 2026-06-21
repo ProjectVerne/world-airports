@@ -1,0 +1,32 @@
+{
+  "key": "_br_505211",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SSID",
+    "local": "CE0059"
+  },
+  "name": "Apodi Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -3.668337,
+    "longitude": -38.850298,
+    "elevation_ft": 75,
+    "iso_country": "BR",
+    "iso_region": "BR-CE",
+    "municipality": "Caucaia"
+  },
+  "keywords": [
+    "BR-1755"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505211
+  }
+}

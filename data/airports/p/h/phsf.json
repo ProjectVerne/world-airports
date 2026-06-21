@@ -1,0 +1,33 @@
+{
+  "key": "phsf",
+  "codes": {
+    "icao": "PHSF",
+    "iata": "BSF",
+    "gps": "PHSF",
+    "local": "BSF"
+  },
+  "name": "Bradshaw Army Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 19.760099,
+    "longitude": -155.554001,
+    "elevation_ft": 6190,
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Waimea (Kamuela)"
+  },
+  "keywords": [
+    "Pohakuloa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pohakuloa_Training_Area",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5456
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "edtf",
+  "codes": {
+    "icao": "EDTF",
+    "iata": null,
+    "gps": "EDTF",
+    "local": null
+  },
+  "name": "Freiburg im Breisgau Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.022778,
+    "longitude": 7.8325,
+    "elevation_ft": 801,
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Freiburg im Breisgau"
+  },
+  "keywords": [
+    "Flugplatz Freiburg"
+  ],
+  "wikipedia": "http://de.wikipedia.org/wiki/Flugplatz_Freiburg",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2274
+  }
+}

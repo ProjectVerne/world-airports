@@ -1,0 +1,31 @@
+{
+  "key": "cykl",
+  "codes": {
+    "icao": "CYKL",
+    "iata": "YKL",
+    "gps": "CYKL",
+    "local": null
+  },
+  "name": "Schefferville Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.805302,
+    "longitude": -66.805298,
+    "elevation_ft": 1709,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Schefferville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Schefferville_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1790
+  }
+}

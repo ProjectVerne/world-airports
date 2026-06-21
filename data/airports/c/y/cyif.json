@@ -1,0 +1,33 @@
+{
+  "key": "cyif",
+  "codes": {
+    "icao": "CYIF",
+    "iata": "YIF",
+    "gps": "CYIF",
+    "local": null
+  },
+  "name": "St Augustin Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.2117,
+    "longitude": -58.658298,
+    "elevation_ft": 20,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "St-Augustin"
+  },
+  "keywords": [
+    "Pakuashipi Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St-Augustin_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1773
+  }
+}

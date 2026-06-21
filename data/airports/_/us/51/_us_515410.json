@@ -1,0 +1,32 @@
+{
+  "key": "_us_515410",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "USAF Vetro Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.67729,
+    "longitude": -85.34587,
+    "elevation_ft": 9,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Port Saint Joe"
+  },
+  "keywords": [
+    "US-8184"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 515410
+  }
+}

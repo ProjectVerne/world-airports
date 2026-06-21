@@ -1,0 +1,30 @@
+{
+  "key": "wako",
+  "codes": {
+    "icao": "WAKO",
+    "iata": "OKQ",
+    "gps": "WAKO",
+    "local": null
+  },
+  "name": "Okaba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.0946,
+    "longitude": 139.7233,
+    "elevation_ft": 23,
+    "iso_country": "ID",
+    "iso_region": "ID-PS",
+    "municipality": "Okaba"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41435
+  }
+}

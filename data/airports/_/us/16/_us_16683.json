@@ -1,0 +1,30 @@
+{
+  "key": "_us_16683",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CD54",
+    "local": "CD54"
+  },
+  "name": "Raspberry Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.299999,
+    "longitude": -108.183998,
+    "elevation_ft": 9943,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Norwood"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16683
+  }
+}

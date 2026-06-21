@@ -1,0 +1,32 @@
+{
+  "key": "_us_16106",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Point Mcintyre Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 70.401389,
+    "longitude": -148.682562,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Point Mcintyre"
+  },
+  "keywords": [
+    "AK11"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16106
+  }
+}

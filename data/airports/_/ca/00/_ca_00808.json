@@ -1,0 +1,30 @@
+{
+  "key": "_ca_00808",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CDG2",
+    "local": "CDG2"
+  },
+  "name": "Digby General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.615989,
+    "longitude": -65.762021,
+    "elevation_ft": 105,
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Digby"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 808
+  }
+}

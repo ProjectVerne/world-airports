@@ -1,0 +1,33 @@
+{
+  "key": "snou",
+  "codes": {
+    "icao": "SNOU",
+    "iata": "FEJ",
+    "gps": "SNOU",
+    "local": "AC0003"
+  },
+  "name": "Feijó Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.141213,
+    "longitude": -70.340821,
+    "elevation_ft": 551,
+    "iso_country": "BR",
+    "iso_region": "BR-AC",
+    "municipality": "Feijó"
+  },
+  "keywords": [
+    "Novo Aeródromo de Feijó"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Feij%C3%B3_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 37208
+  }
+}

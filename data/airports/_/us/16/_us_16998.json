@@ -1,0 +1,30 @@
+{
+  "key": "_us_16998",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT41",
+    "local": "CT41"
+  },
+  "name": "General Electric Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.216757,
+    "longitude": -73.255618,
+    "elevation_ft": 122,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Fairfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16998
+  }
+}

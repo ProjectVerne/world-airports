@@ -1,0 +1,33 @@
+{
+  "key": "klas",
+  "codes": {
+    "icao": "KLAS",
+    "iata": "LAS",
+    "gps": "KLAS",
+    "local": "LAS"
+  },
+  "name": "Harry Reid International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.083361,
+    "longitude": -115.151817,
+    "elevation_ft": 2181,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Las Vegas"
+  },
+  "keywords": [
+    "McCarran International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Harry_Reid_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3631
+  }
+}

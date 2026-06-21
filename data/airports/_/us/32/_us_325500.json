@@ -1,0 +1,32 @@
+{
+  "key": "_us_325500",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "18FA",
+    "local": "18FA"
+  },
+  "name": "Amistad Central Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.237333,
+    "longitude": -80.692163,
+    "elevation_ft": 40,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Okeechobee"
+  },
+  "keywords": [
+    "US-0726"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325500
+  }
+}

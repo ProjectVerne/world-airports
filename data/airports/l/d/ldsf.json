@@ -1,0 +1,32 @@
+{
+  "key": "ldsf",
+  "codes": {
+    "icao": "LDSF",
+    "iata": null,
+    "gps": "LDSF",
+    "local": null
+  },
+  "name": "Firule Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.502799,
+    "longitude": 16.462942,
+    "elevation_ft": 77,
+    "iso_country": "HR",
+    "iso_region": "HR-17",
+    "municipality": "Split"
+  },
+  "keywords": [
+    "HR-0039"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43963
+  }
+}

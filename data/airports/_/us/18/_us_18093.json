@@ -1,0 +1,32 @@
+{
+  "key": "_us_18093",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IN24",
+    "local": "IN24"
+  },
+  "name": "Franciscan Health Michigan City Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.705897,
+    "longitude": -86.9011,
+    "elevation_ft": 635,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Michigan City"
+  },
+  "keywords": [
+    "St Anthony Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18093
+  }
+}

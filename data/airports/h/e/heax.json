@@ -1,0 +1,33 @@
+{
+  "key": "heax",
+  "codes": {
+    "icao": "HEAX",
+    "iata": "HBE",
+    "gps": "HEAX",
+    "local": null
+  },
+  "name": "Alexandria International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.93249,
+    "longitude": 29.696437,
+    "elevation_ft": 171,
+    "iso_country": "EG",
+    "iso_region": "EG-ALX",
+    "municipality": "Alexandria"
+  },
+  "keywords": [
+    "HEBA"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Borg_El_Arab_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3180
+  }
+}

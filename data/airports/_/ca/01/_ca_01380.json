@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01380",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPB5",
+    "local": "CPB5"
+  },
+  "name": "Pilot Butte Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.461102,
+    "longitude": -104.431,
+    "elevation_ft": 2000,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Pilot Butte"
+  },
+  "keywords": [
+    "PB5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pilot_Butte_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1380
+  }
+}

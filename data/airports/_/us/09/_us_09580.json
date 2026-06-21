@@ -1,0 +1,30 @@
+{
+  "key": "_us_09580",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2MS5",
+    "local": "2MS5"
+  },
+  "name": "Tgp Station 847 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.906898,
+    "longitude": -89.784203,
+    "elevation_ft": 245,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Coffeeville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9580
+  }
+}

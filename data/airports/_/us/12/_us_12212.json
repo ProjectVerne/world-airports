@@ -1,0 +1,33 @@
+{
+  "key": "_us_12212",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "59IS",
+    "local": "59IS"
+  },
+  "name": "HSHS Holy Family Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.903334,
+    "longitude": -89.406725,
+    "elevation_ft": 585,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Greenville"
+  },
+  "keywords": [
+    "Edward A Utlaut Memorial Hospital",
+    "Greenville Regional Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12212
+  }
+}

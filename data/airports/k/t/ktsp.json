@@ -1,0 +1,31 @@
+{
+  "key": "ktsp",
+  "codes": {
+    "icao": "KTSP",
+    "iata": "TSP",
+    "gps": "KTSP",
+    "local": "TSP"
+  },
+  "name": "Tehachapi Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.134998,
+    "longitude": -118.439003,
+    "elevation_ft": 4001,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Tehachapi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tehachapi_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21226
+  }
+}

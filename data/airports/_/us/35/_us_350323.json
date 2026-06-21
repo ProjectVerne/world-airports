@@ -1,0 +1,32 @@
+{
+  "key": "_us_350323",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Barnes Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 32.24162,
+    "longitude": -109.1427,
+    "elevation_ft": 3784,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "San Simon"
+  },
+  "keywords": [
+    "US-5952"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350323
+  }
+}

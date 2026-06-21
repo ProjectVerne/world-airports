@@ -1,0 +1,30 @@
+{
+  "key": "aytr",
+  "codes": {
+    "icao": "AYTR",
+    "iata": "TBQ",
+    "gps": "AYTR",
+    "local": "TRB"
+  },
+  "name": "Tarabo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.466667,
+    "longitude": 145.532222,
+    "elevation_ft": 6100,
+    "iso_country": "PG",
+    "iso_region": "PG-EHG",
+    "municipality": "Tarabo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307197
+  }
+}

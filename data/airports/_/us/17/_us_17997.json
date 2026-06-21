@@ -1,0 +1,33 @@
+{
+  "key": "_us_17997",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Crook Restricted Landing Area",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.387001,
+    "longitude": -90.191803,
+    "elevation_ft": 580,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Columbia"
+  },
+  "keywords": [
+    "IL18",
+    "US-11413"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17997
+  }
+}

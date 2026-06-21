@@ -1,0 +1,30 @@
+{
+  "key": "nzbc",
+  "codes": {
+    "icao": "NZBC",
+    "iata": null,
+    "gps": "NZBC",
+    "local": null
+  },
+  "name": "ASB Bank Centre Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -36.849944,
+    "longitude": 174.762485,
+    "elevation_ft": 468,
+    "iso_country": "NZ",
+    "iso_region": "NZ-AUK",
+    "municipality": "Aukland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44670
+  }
+}

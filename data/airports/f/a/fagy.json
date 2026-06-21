@@ -1,0 +1,31 @@
+{
+  "key": "fagy",
+  "codes": {
+    "icao": "FAGY",
+    "iata": null,
+    "gps": "FAGY",
+    "local": null
+  },
+  "name": "Greytown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.122,
+    "longitude": 30.5867,
+    "elevation_ft": 3531,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Greytown"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Greytown_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2787
+  }
+}

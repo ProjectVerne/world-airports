@@ -1,0 +1,35 @@
+{
+  "key": "evli",
+  "codes": {
+    "icao": "EVLI",
+    "iata": null,
+    "gps": "EVLI",
+    "local": null
+  },
+  "name": "Limbaži Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.485476,
+    "longitude": 24.672384,
+    "elevation_ft": 211,
+    "iso_country": "LV",
+    "iso_region": "LV-054",
+    "municipality": "Limbaži"
+  },
+  "keywords": [
+    "EVHA",
+    "Langaci",
+    "EVAH"
+  ],
+  "wikipedia": "https://lv.wikipedia.org/wiki/Limba%C5%BEu_lidlauks",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308832
+  }
+}

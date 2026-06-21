@@ -1,0 +1,32 @@
+{
+  "key": "_ca_00973",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFN8",
+    "local": "CFN8"
+  },
+  "name": "Fort Nelson (Guardian) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 58.752201,
+    "longitude": -122.686996,
+    "elevation_ft": 1292,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Fort Nelson"
+  },
+  "keywords": [
+    "FN8"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 973
+  }
+}

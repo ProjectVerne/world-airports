@@ -1,0 +1,30 @@
+{
+  "key": "_us_10018",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32NY",
+    "local": "32NY"
+  },
+  "name": "S J M Landing Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.429798,
+    "longitude": -72.216797,
+    "elevation_ft": 380,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Washingtonville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10018
+  }
+}

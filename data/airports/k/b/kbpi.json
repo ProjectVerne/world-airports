@@ -1,0 +1,33 @@
+{
+  "key": "kbpi",
+  "codes": {
+    "icao": "KBPI",
+    "iata": "BPI",
+    "gps": "KBPI",
+    "local": "BPI"
+  },
+  "name": "Miley Memorial Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.585098,
+    "longitude": -110.111,
+    "elevation_ft": 6990,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Big Piney"
+  },
+  "keywords": [
+    "Big Piney-Marbleton Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Miley_Memorial_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19401
+  }
+}

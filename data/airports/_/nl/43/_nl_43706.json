@@ -1,0 +1,34 @@
+{
+  "key": "_nl_43706",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Red Cross Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 52.479128,
+    "longitude": 4.651482,
+    "elevation_ft": 68,
+    "iso_country": "NL",
+    "iso_region": "NL-NH",
+    "municipality": "Beverwijk"
+  },
+  "keywords": [
+    "EH0002",
+    "Rode Kruis Ziekenhuis",
+    "NL-0011"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43706
+  }
+}

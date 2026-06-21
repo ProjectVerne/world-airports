@@ -1,0 +1,33 @@
+{
+  "key": "kglr",
+  "codes": {
+    "icao": "KGLR",
+    "iata": "GLR",
+    "gps": "KGLR",
+    "local": "GLR"
+  },
+  "name": "Gaylord Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.0135,
+    "longitude": -84.703598,
+    "elevation_ft": 1328,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Gaylord"
+  },
+  "keywords": [
+    "Otsego County"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gaylord_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19959
+  }
+}

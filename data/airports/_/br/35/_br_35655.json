@@ -1,0 +1,32 @@
+{
+  "key": "_br_35655",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SJS8",
+    "local": "MG0529"
+  },
+  "name": "Cimed Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -22.222019,
+    "longitude": -45.878024,
+    "elevation_ft": 2680,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Pouso Alegre"
+  },
+  "keywords": [
+    "SDOH"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35655
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "loam",
+  "codes": {
+    "icao": "LOAM",
+    "iata": null,
+    "gps": "LOAM",
+    "local": null
+  },
+  "name": "Wien-Meidling Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.173743,
+    "longitude": 16.322633,
+    "elevation_ft": 737,
+    "iso_country": "AT",
+    "iso_region": "AT-9",
+    "municipality": "Vienna"
+  },
+  "keywords": [
+    "Vienna Police",
+    "AT-0087"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43864
+  }
+}

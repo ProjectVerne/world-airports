@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01393",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPE2",
+    "local": "CPE2"
+  },
+  "name": "Ajax (Pickering General Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.835888,
+    "longitude": -79.017376,
+    "elevation_ft": 300,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Ajax"
+  },
+  "keywords": [
+    "PE2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1393
+  }
+}

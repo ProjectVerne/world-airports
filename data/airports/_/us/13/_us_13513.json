@@ -1,0 +1,30 @@
+{
+  "key": "_us_13513",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6PN6",
+    "local": "6PN6"
+  },
+  "name": "Henke Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.383301,
+    "longitude": -80.300003,
+    "elevation_ft": 1255,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Pittsburgh"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13513
+  }
+}

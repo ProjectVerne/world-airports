@@ -1,0 +1,34 @@
+{
+  "key": "hlms",
+  "codes": {
+    "icao": "HLMS",
+    "iata": "MRA",
+    "gps": "HLMS",
+    "local": null
+  },
+  "name": "Misrata International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.325001,
+    "longitude": 15.061,
+    "elevation_ft": 60,
+    "iso_country": "LY",
+    "iso_region": "LY-MI",
+    "municipality": "Misrata"
+  },
+  "keywords": [
+    "Misratah",
+    "Misurata"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Misrata_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31944
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01302",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNF2",
+    "local": "CNF2"
+  },
+  "name": "Haliburton (Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.038101,
+    "longitude": -78.530296,
+    "elevation_ft": 1050,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Haliburton"
+  },
+  "keywords": [
+    "NF2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1302
+  }
+}

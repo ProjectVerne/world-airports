@@ -1,0 +1,30 @@
+{
+  "key": "_us_333328",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CN90",
+    "local": "CN90"
+  },
+  "name": "API Gateway Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.675883,
+    "longitude": -115.372028,
+    "elevation_ft": 34,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Calexico"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333328
+  }
+}

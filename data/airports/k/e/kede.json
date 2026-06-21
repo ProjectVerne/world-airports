@@ -1,0 +1,34 @@
+{
+  "key": "kede",
+  "codes": {
+    "icao": "KEDE",
+    "iata": "EDE",
+    "gps": "KEDE",
+    "local": "EDE"
+  },
+  "name": "Northeastern Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.027699,
+    "longitude": -76.567101,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Edenton"
+  },
+  "keywords": [
+    "MCAS Edenton",
+    "NAAS Edenton"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Northeastern_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19723
+  }
+}

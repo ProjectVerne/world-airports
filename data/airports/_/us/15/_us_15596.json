@@ -1,0 +1,33 @@
+{
+  "key": "_us_15596",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "99A",
+    "local": "99A"
+  },
+  "name": "Smith's International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.4062,
+    "longitude": -91.958702,
+    "elevation_ft": 218,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Sherrill"
+  },
+  "keywords": [
+    "AR99",
+    "Shudy Landing Strip"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15596
+  }
+}

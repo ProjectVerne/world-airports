@@ -1,0 +1,33 @@
+{
+  "key": "ksgu",
+  "codes": {
+    "icao": "KSGU",
+    "iata": "SGU",
+    "gps": "KSGU",
+    "local": "SGU"
+  },
+  "name": "St George Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.036389,
+    "longitude": -113.510306,
+    "elevation_ft": 2941,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "St George"
+  },
+  "keywords": [
+    "DXZ"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St._George_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21065
+  }
+}

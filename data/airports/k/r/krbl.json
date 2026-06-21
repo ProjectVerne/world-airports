@@ -1,0 +1,31 @@
+{
+  "key": "krbl",
+  "codes": {
+    "icao": "KRBL",
+    "iata": "RBL",
+    "gps": "KRBL",
+    "local": "RBL"
+  },
+  "name": "Red Bluff Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.1507,
+    "longitude": -122.251999,
+    "elevation_ft": 352,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Red Bluff"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Red_Bluff_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3839
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "lpcl",
+  "codes": {
+    "icao": "LPCL",
+    "iata": null,
+    "gps": "LPCL",
+    "local": null
+  },
+  "name": "Covilhã Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.267597,
+    "longitude": -7.491298,
+    "elevation_ft": 1585,
+    "iso_country": "PT",
+    "iso_region": "PT-05",
+    "municipality": "Covilhã"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 321242
+  }
+}

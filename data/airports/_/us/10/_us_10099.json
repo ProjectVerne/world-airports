@@ -1,0 +1,30 @@
+{
+  "key": "_us_10099",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "34MA",
+    "local": "34MA"
+  },
+  "name": "Crowhurst Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.576302,
+    "longitude": -70.738899,
+    "elevation_ft": 70,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Manchester-By-The Sea"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10099
+  }
+}

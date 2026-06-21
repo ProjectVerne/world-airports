@@ -1,0 +1,30 @@
+{
+  "key": "_kr_300003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "RK1D",
+    "local": null
+  },
+  "name": "C 106 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.623388,
+    "longitude": 126.643615,
+    "elevation_ft": 140,
+    "iso_country": "KR",
+    "iso_region": "KR-28",
+    "municipality": "Incheon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300003
+  }
+}

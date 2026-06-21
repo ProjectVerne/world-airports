@@ -1,0 +1,30 @@
+{
+  "key": "_us_10180",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "36FD",
+    "local": "36FD"
+  },
+  "name": "Bay Helicopters Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.1938,
+    "longitude": -85.661301,
+    "elevation_ft": 16,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Panama City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10180
+  }
+}

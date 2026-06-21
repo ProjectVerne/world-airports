@@ -1,0 +1,33 @@
+{
+  "key": "_hu_608120",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Szentes Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.616714,
+    "longitude": 20.28359,
+    "elevation_ft": 259,
+    "iso_country": "HU",
+    "iso_region": "HU-CS",
+    "municipality": "Szentes"
+  },
+  "keywords": [
+    "Légimentő bázis",
+    "HU-0082"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 608120
+  }
+}

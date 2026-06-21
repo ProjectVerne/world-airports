@@ -1,0 +1,32 @@
+{
+  "key": "_us_26162",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "XA27",
+    "local": "XA27"
+  },
+  "name": "UT Health East Texas Pittsburg Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.03242,
+    "longitude": -94.960779,
+    "elevation_ft": 400,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Pittsburg"
+  },
+  "keywords": [
+    "ETMC - Pittsburg"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26162
+  }
+}

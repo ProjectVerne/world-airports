@@ -1,0 +1,31 @@
+{
+  "key": "nvvi",
+  "codes": {
+    "icao": "NVVI",
+    "iata": "IPA",
+    "gps": "NVVI",
+    "local": null
+  },
+  "name": "Ipota Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -18.856389,
+    "longitude": 169.283333,
+    "elevation_ft": 23,
+    "iso_country": "VU",
+    "iso_region": "VU-TAE",
+    "municipality": "Ipota"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ipota_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31682
+  }
+}

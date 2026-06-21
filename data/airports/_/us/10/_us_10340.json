@@ -1,0 +1,30 @@
+{
+  "key": "_us_10340",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "39NY",
+    "local": "39NY"
+  },
+  "name": "Print Pad Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.653301,
+    "longitude": -73.573601,
+    "elevation_ft": 63,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Freeport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10340
+  }
+}

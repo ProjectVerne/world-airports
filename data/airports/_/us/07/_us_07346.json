@@ -1,0 +1,30 @@
+{
+  "key": "_us_07346",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0MO7",
+    "local": "0MO7"
+  },
+  "name": "St Joseph Hospital West Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.803299,
+    "longitude": -90.776299,
+    "elevation_ft": 531,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Lake Saint Louis"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7346
+  }
+}

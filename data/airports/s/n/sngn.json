@@ -1,0 +1,31 @@
+{
+  "key": "sngn",
+  "codes": {
+    "icao": "SNGN",
+    "iata": "QGP",
+    "gps": "SNGN",
+    "local": "SNGN"
+  },
+  "name": "Garanhuns Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.83428,
+    "longitude": -36.4716,
+    "elevation_ft": 2533,
+    "iso_country": "BR",
+    "iso_region": "BR-PE",
+    "municipality": "Garanhuns"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Garanhuns_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 316
+  }
+}

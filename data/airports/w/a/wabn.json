@@ -1,0 +1,32 @@
+{
+  "key": "wabn",
+  "codes": {
+    "icao": "WABN",
+    "iata": null,
+    "gps": "WABN",
+    "local": "BAR"
+  },
+  "name": "Bareri Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.981631,
+    "longitude": 137.783613,
+    "elevation_ft": 300,
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Bareri"
+  },
+  "keywords": [
+    "ID-0175"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325373
+  }
+}

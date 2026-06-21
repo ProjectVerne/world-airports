@@ -1,0 +1,32 @@
+{
+  "key": "_br_36522",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SWTE",
+    "local": "SP0831"
+  },
+  "name": "West Side Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.503735,
+    "longitude": -46.849317,
+    "elevation_ft": 2932,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Barueri"
+  },
+  "keywords": [
+    "SJFA"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36522
+  }
+}

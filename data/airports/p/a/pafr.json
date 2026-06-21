@@ -1,0 +1,33 @@
+{
+  "key": "pafr",
+  "codes": {
+    "icao": "PAFR",
+    "iata": "FRN",
+    "gps": "PAFR",
+    "local": "FRN"
+  },
+  "name": "Bryant Army Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.266399,
+    "longitude": -149.653,
+    "elevation_ft": 378,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Fort Richardson"
+  },
+  "keywords": [
+    "Bryant Army Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bryant_Army_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5364
+  }
+}

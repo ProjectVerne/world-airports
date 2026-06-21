@@ -1,0 +1,34 @@
+{
+  "key": "kbjc",
+  "codes": {
+    "icao": "KBJC",
+    "iata": "BJC",
+    "gps": "KBJC",
+    "local": "BJC"
+  },
+  "name": "Rocky Mountain Metropolitan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.908798,
+    "longitude": -105.116997,
+    "elevation_ft": 5673,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Denver"
+  },
+  "keywords": [
+    "Jefferson County Airport",
+    "Jeffco Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rocky_Mountain_Metropolitan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3411
+  }
+}

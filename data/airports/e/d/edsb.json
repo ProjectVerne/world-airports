@@ -1,0 +1,33 @@
+{
+  "key": "edsb",
+  "codes": {
+    "icao": "EDSB",
+    "iata": "FKB",
+    "gps": "EDSB",
+    "local": null
+  },
+  "name": "Karlsruhe Baden-Baden Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.7794,
+    "longitude": 8.0805,
+    "elevation_ft": 408,
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Rheinmünster"
+  },
+  "keywords": [
+    "Baden Airpark"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Baden_Airpark",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2270
+  }
+}

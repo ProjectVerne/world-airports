@@ -1,0 +1,31 @@
+{
+  "key": "_ca_320220",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CRM4",
+    "local": "CRM4"
+  },
+  "name": "Cormier Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.1808,
+    "longitude": -64.3758,
+    "elevation_ft": 105,
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Cormier"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cormier_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320220
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_24008",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA37",
+    "local": "PA37"
+  },
+  "name": "Sci-Mahanoy Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.8209,
+    "longitude": -76.162102,
+    "elevation_ft": 1500,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Mahanoy"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24008
+  }
+}

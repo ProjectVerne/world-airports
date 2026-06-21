@@ -1,0 +1,33 @@
+{
+  "key": "lspg",
+  "codes": {
+    "icao": "LSPG",
+    "iata": null,
+    "gps": "LSPG",
+    "local": null
+  },
+  "name": "Kägiswil Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.908298,
+    "longitude": 8.25417,
+    "elevation_ft": 1525,
+    "iso_country": "CH",
+    "iso_region": "CH-OW",
+    "municipality": "Sarnen"
+  },
+  "keywords": [
+    "Flugplatz Kägiswil"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_K%C3%A4giswil",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29507
+  }
+}

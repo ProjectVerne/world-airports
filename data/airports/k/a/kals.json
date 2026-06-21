@@ -1,0 +1,31 @@
+{
+  "key": "kals",
+  "codes": {
+    "icao": "KALS",
+    "iata": "ALS",
+    "gps": "KALS",
+    "local": "ALS"
+  },
+  "name": "San Luis Valley Regional Airport/Bergman Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.434898,
+    "longitude": -105.866997,
+    "elevation_ft": 7539,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Alamosa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Luis_Valley_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19275
+  }
+}

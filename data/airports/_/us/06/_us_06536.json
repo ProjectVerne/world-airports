@@ -1,0 +1,30 @@
+{
+  "key": "_us_06536",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "00HI",
+    "local": "00HI"
+  },
+  "name": "Kaupulehu Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 19.832881,
+    "longitude": -155.978347,
+    "elevation_ft": 43,
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Kailua-Kona"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6536
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "hkiu",
+  "codes": {
+    "icao": "HKIU",
+    "iata": "KIU",
+    "gps": "HKIU",
+    "local": null
+  },
+  "name": "Kiunga Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.741272,
+    "longitude": 41.482707,
+    "elevation_ft": 1,
+    "iso_country": "KE",
+    "iso_region": "KE-05",
+    "municipality": "Kiunga"
+  },
+  "keywords": [
+    "KE-KIU"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42639
+  }
+}

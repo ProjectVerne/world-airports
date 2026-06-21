@@ -1,0 +1,30 @@
+{
+  "key": "_us_24800",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TA93",
+    "local": "TA93"
+  },
+  "name": "LM Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.631166,
+    "longitude": -96.733812,
+    "elevation_ft": 770,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Sherman"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24800
+  }
+}

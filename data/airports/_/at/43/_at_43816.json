@@ -1,0 +1,32 @@
+{
+  "key": "_at_43816",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "LOAZ"
+  },
+  "name": "Zwettl Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.599721,
+    "longitude": 15.163697,
+    "elevation_ft": 1900,
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Zwettl"
+  },
+  "keywords": [
+    "AT-0058"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43816
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "essu",
+  "codes": {
+    "icao": "ESSU",
+    "iata": "EKT",
+    "gps": "ESSU",
+    "local": null
+  },
+  "name": "Eskilstuna Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.351101,
+    "longitude": 16.708401,
+    "elevation_ft": 139,
+    "iso_country": "SE",
+    "iso_region": "SE-D",
+    "municipality": "Eskilstuna"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Eskilstuna_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2709
+  }
+}

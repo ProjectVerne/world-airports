@@ -1,0 +1,34 @@
+{
+  "key": "evsm",
+  "codes": {
+    "icao": "EVSM",
+    "iata": null,
+    "gps": "EVSM",
+    "local": null
+  },
+  "name": "M-Sola Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 56.664136,
+    "longitude": 24.904061,
+    "elevation_ft": 141,
+    "iso_country": "LV",
+    "iso_region": "LV-067",
+    "municipality": "Lielvārde"
+  },
+  "keywords": [
+    "GM Helicopters",
+    "Lielvārde"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/M-Sola_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 317835
+  }
+}

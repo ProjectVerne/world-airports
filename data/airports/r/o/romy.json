@@ -1,0 +1,31 @@
+{
+  "key": "romy",
+  "codes": {
+    "icao": "ROMY",
+    "iata": "MMY",
+    "gps": "ROMY",
+    "local": null
+  },
+  "name": "Miyako Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.782801,
+    "longitude": 125.294998,
+    "elevation_ft": 150,
+    "iso_country": "JP",
+    "iso_region": "JP-47",
+    "municipality": "Miyakojima"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Miyako_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5677
+  }
+}

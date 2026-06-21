@@ -1,0 +1,30 @@
+{
+  "key": "_us_16700",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CD79",
+    "local": "CD79"
+  },
+  "name": "Northfield Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.985298,
+    "longitude": -104.917,
+    "elevation_ft": 9200,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Woodland Park"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16700
+  }
+}

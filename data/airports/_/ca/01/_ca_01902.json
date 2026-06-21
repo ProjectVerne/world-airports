@@ -1,0 +1,35 @@
+{
+  "key": "_ca_01902",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CYSG",
+    "local": null
+  },
+  "name": "Saint-Georges Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.096401,
+    "longitude": -70.714699,
+    "elevation_ft": 893,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Saint-Georges"
+  },
+  "keywords": [
+    "YSG",
+    "SW3",
+    "St Georges"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St-Georges_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1902
+  }
+}

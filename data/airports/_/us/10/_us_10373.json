@@ -1,0 +1,30 @@
+{
+  "key": "_us_10373",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3AL3",
+    "local": "3AL3"
+  },
+  "name": "Tuscaloosa Police Department Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.174099,
+    "longitude": -87.557098,
+    "elevation_ft": 160,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Tuscaloosa"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10373
+  }
+}

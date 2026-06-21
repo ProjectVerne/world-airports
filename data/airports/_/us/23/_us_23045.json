@@ -1,0 +1,30 @@
+{
+  "key": "_us_23045",
+  "codes": {
+    "icao": null,
+    "iata": "NIN",
+    "gps": "NIN",
+    "local": "NIN"
+  },
+  "name": "Ninilchik Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.020199,
+    "longitude": -151.589005,
+    "elevation_ft": 276,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Ninilchik"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23045
+  }
+}

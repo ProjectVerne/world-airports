@@ -1,0 +1,31 @@
+{
+  "key": "cyte",
+  "codes": {
+    "icao": "CYTE",
+    "iata": "YTE",
+    "gps": "CYTE",
+    "local": null
+  },
+  "name": "Cape Dorset Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.230003,
+    "longitude": -76.526703,
+    "elevation_ft": 164,
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Kinngait"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cape_Dorset_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1918
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "goss",
+  "codes": {
+    "icao": "GOSS",
+    "iata": "XLS",
+    "gps": "GOSS",
+    "local": null
+  },
+  "name": "Saint Louis Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.049814,
+    "longitude": -16.461039,
+    "elevation_ft": 9,
+    "iso_country": "SN",
+    "iso_region": "SN-SL",
+    "municipality": "Saint Louis"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saint_Louis_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3126
+  }
+}

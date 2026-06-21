@@ -1,0 +1,33 @@
+{
+  "key": "lima",
+  "codes": {
+    "icao": "LIMA",
+    "iata": null,
+    "gps": "LIMA",
+    "local": "TO12"
+  },
+  "name": "Torino-Aeritalia Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.084444,
+    "longitude": 7.603056,
+    "elevation_ft": 943,
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "Torino (TO)"
+  },
+  "keywords": [
+    "Torino Aero Club"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Torino-Aeritalia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4338
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "fyas",
+  "codes": {
+    "icao": "FYAS",
+    "iata": null,
+    "gps": "FYAS",
+    "local": null
+  },
+  "name": "Aus Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.668127,
+    "longitude": 16.29312,
+    "elevation_ft": 4856,
+    "iso_country": "NA",
+    "iso_region": "NA-KA",
+    "municipality": "Aus"
+  },
+  "keywords": [],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Aus",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29541
+  }
+}

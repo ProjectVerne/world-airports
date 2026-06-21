@@ -1,0 +1,35 @@
+{
+  "key": "rpmi",
+  "codes": {
+    "icao": "RPMI",
+    "iata": "IGN",
+    "gps": "RPMI",
+    "local": null
+  },
+  "name": "Maria Cristina (Iligan) Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.13049,
+    "longitude": 124.214996,
+    "elevation_ft": 1300,
+    "iso_country": "PH",
+    "iso_region": "PH-LAN",
+    "municipality": "Balo-i"
+  },
+  "keywords": [
+    "Iligan Airport",
+    "Balo-i",
+    "Lanao del Norte"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Maria_Cristina_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5702
+  }
+}

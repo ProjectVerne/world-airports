@@ -1,0 +1,33 @@
+{
+  "key": "_us_23168",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "New York ARNG Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.666698,
+    "longitude": -73.832901,
+    "elevation_ft": 280,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Albany"
+  },
+  "keywords": [
+    "NK32",
+    "US-11887"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23168
+  }
+}

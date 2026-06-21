@@ -1,0 +1,30 @@
+{
+  "key": "_us_07306",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0MA5",
+    "local": "0MA5"
+  },
+  "name": "Brockton Usar Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.055901,
+    "longitude": -71.055901,
+    "elevation_ft": 85,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Brockton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7306
+  }
+}

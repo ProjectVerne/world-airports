@@ -1,0 +1,33 @@
+{
+  "key": "_us_25212",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "35TT",
+    "local": "35TT"
+  },
+  "name": "Hawkins Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.473926,
+    "longitude": -97.501645,
+    "elevation_ft": 978,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Godley"
+  },
+  "keywords": [
+    "TX98",
+    "Hawkins Private Airport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25212
+  }
+}

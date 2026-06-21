@@ -1,0 +1,32 @@
+{
+  "key": "_us_15803",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "9MI0",
+    "local": "9MI0"
+  },
+  "name": "St Joseph Mercy Ann Arbor Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.264027,
+    "longitude": -83.653692,
+    "elevation_ft": 837,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Ypsilanti"
+  },
+  "keywords": [
+    "CMHS Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15803
+  }
+}

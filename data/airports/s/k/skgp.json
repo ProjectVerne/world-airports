@@ -1,0 +1,33 @@
+{
+  "key": "skgp",
+  "codes": {
+    "icao": "SKGP",
+    "iata": "GPI",
+    "gps": "SKGP",
+    "local": "GPI"
+  },
+  "name": "Guapi Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 2.57013,
+    "longitude": -77.897969,
+    "elevation_ft": 164,
+    "iso_country": "CO",
+    "iso_region": "CO-CAU",
+    "municipality": "Guapi"
+  },
+  "keywords": [
+    "Juan Casiano"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Guapi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6122
+  }
+}

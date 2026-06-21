@@ -1,0 +1,31 @@
+{
+  "key": "czst",
+  "codes": {
+    "icao": "CZST",
+    "iata": "ZST",
+    "gps": "CZST",
+    "local": "CZST"
+  },
+  "name": "Stewart Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.93541,
+    "longitude": -129.982435,
+    "elevation_ft": 24,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Stewart"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stewart_Airport_(British_Columbia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2039
+  }
+}

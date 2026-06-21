@@ -1,0 +1,31 @@
+{
+  "key": "usdd",
+  "codes": {
+    "icao": "USDD",
+    "iata": "SLY",
+    "gps": "USDD",
+    "local": null
+  },
+  "name": "Salekhard Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.590797,
+    "longitude": 66.611,
+    "elevation_ft": 218,
+    "iso_country": "RU",
+    "iso_region": "RU-YAN",
+    "municipality": "Salekhard"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Salekhard_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26372
+  }
+}

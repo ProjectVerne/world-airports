@@ -1,0 +1,31 @@
+{
+  "key": "kspi",
+  "codes": {
+    "icao": "KSPI",
+    "iata": "SPI",
+    "gps": "KSPI",
+    "local": "SPI"
+  },
+  "name": "Abraham Lincoln Capital Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.844101,
+    "longitude": -89.677902,
+    "elevation_ft": 598,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Springfield"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Lincoln_Capital_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3897
+  }
+}

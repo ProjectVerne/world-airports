@@ -1,0 +1,30 @@
+{
+  "key": "_us_09225",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "28TN",
+    "local": "28TN"
+  },
+  "name": "BHM East Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.130309,
+    "longitude": -89.862673,
+    "elevation_ft": 261,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Memphis"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9225
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kpub",
+  "codes": {
+    "icao": "KPUB",
+    "iata": "PUB",
+    "gps": "KPUB",
+    "local": "PUB"
+  },
+  "name": "Pueblo Memorial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.289101,
+    "longitude": -104.497002,
+    "elevation_ft": 4726,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Pueblo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pueblo_Memorial_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3794
+  }
+}

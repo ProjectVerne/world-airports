@@ -1,0 +1,31 @@
+{
+  "key": "ayko",
+  "codes": {
+    "icao": "AYKO",
+    "iata": "KKD",
+    "gps": "AYKO",
+    "local": "KOK"
+  },
+  "name": "Kokoda Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.884679,
+    "longitude": 147.730957,
+    "elevation_ft": 1240,
+    "iso_country": "PG",
+    "iso_region": "PG-NPP",
+    "municipality": "Kokoda"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kokoda_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35186
+  }
+}

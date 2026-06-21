@@ -1,0 +1,31 @@
+{
+  "key": "lphr",
+  "codes": {
+    "icao": "LPHR",
+    "iata": "HOR",
+    "gps": "LPHR",
+    "local": null
+  },
+  "name": "Horta Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.519901,
+    "longitude": -28.7159,
+    "elevation_ft": 118,
+    "iso_country": "PT",
+    "iso_region": "PT-20",
+    "municipality": "Horta"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Horta_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4450
+  }
+}

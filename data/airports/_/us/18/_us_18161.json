@@ -1,0 +1,33 @@
+{
+  "key": "_us_18161",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Klein Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.652802,
+    "longitude": -87.563599,
+    "elevation_ft": 412,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Vincennes"
+  },
+  "keywords": [
+    "IN92",
+    "US-11463"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18161
+  }
+}

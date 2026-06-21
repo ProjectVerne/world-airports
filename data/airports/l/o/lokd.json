@@ -1,0 +1,32 @@
+{
+  "key": "lokd",
+  "codes": {
+    "icao": "LOKD",
+    "iata": null,
+    "gps": "LOKD",
+    "local": null
+  },
+  "name": "Föderlach Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.603042,
+    "longitude": 13.947072,
+    "elevation_ft": 1619,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Villach"
+  },
+  "keywords": [
+    "AT-0039"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43795
+  }
+}

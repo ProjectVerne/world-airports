@@ -1,0 +1,36 @@
+{
+  "key": "egfh",
+  "codes": {
+    "icao": "EGFH",
+    "iata": "SWS",
+    "gps": "EGFH",
+    "local": null
+  },
+  "name": "Swansea Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.601366,
+    "longitude": -4.071006,
+    "elevation_ft": 299,
+    "iso_country": "GB",
+    "iso_region": "GB-WLS",
+    "municipality": "Swansea"
+  },
+  "keywords": [
+    "Abertawe",
+    "Fairwood Common",
+    "RAF Fairwood Common",
+    "Maes Awyr Abertawe"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Swansea_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2416
+  }
+}

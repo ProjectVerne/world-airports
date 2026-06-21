@@ -1,0 +1,34 @@
+{
+  "key": "uzff",
+  "codes": {
+    "icao": "UZFF",
+    "iata": "FEG",
+    "gps": "UZFF",
+    "local": null
+  },
+  "name": "Fergana International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.358799,
+    "longitude": 71.745003,
+    "elevation_ft": 1980,
+    "iso_country": "UZ",
+    "iso_region": "UZ-FA",
+    "municipality": "Fergana"
+  },
+  "keywords": [
+    "UTFF",
+    "UTKF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fergana_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31118
+  }
+}

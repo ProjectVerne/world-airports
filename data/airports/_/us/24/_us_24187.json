@@ -1,0 +1,30 @@
+{
+  "key": "_us_24187",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PN80",
+    "local": "PN80"
+  },
+  "name": "West Penn Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.462002,
+    "longitude": -79.944801,
+    "elevation_ft": 1117,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Pittsburgh"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24187
+  }
+}

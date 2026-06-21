@@ -1,0 +1,33 @@
+{
+  "key": "spso",
+  "codes": {
+    "icao": "SPSO",
+    "iata": "PIO",
+    "gps": "SPSO",
+    "local": null
+  },
+  "name": "Captain Renán Elías Olivera International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -13.7449,
+    "longitude": -76.220299,
+    "elevation_ft": 39,
+    "iso_country": "PE",
+    "iso_region": "PE-ICA",
+    "municipality": "Pisco"
+  },
+  "keywords": [
+    "Capitán FAP Renán Elías Olivera"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Capit%C3%A1n_FAP_Ren%C3%A1n_El%C3%ADas_Olivera_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6236
+  }
+}

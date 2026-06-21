@@ -1,0 +1,33 @@
+{
+  "key": "cypn",
+  "codes": {
+    "icao": "CYPN",
+    "iata": "YPN",
+    "gps": "CYPN",
+    "local": null
+  },
+  "name": "Port-Menier Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.836399,
+    "longitude": -64.288597,
+    "elevation_ft": 167,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Port-Menier"
+  },
+  "keywords": [
+    "Anticosti"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Port-Menier_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1851
+  }
+}

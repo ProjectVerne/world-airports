@@ -1,0 +1,30 @@
+{
+  "key": "ekrb",
+  "codes": {
+    "icao": "EKRB",
+    "iata": null,
+    "gps": "EKRB",
+    "local": null
+  },
+  "name": "Bornholm Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 55.090753,
+    "longitude": 14.70809,
+    "elevation_ft": 62,
+    "iso_country": "DK",
+    "iso_region": "DK-84",
+    "municipality": "Rønne"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 529369
+  }
+}

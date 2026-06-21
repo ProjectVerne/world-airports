@@ -1,0 +1,33 @@
+{
+  "key": "ehrd",
+  "codes": {
+    "icao": "EHRD",
+    "iata": "RTM",
+    "gps": "EHRD",
+    "local": null
+  },
+  "name": "Rotterdam The Hague Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.956902,
+    "longitude": 4.43722,
+    "elevation_ft": -15,
+    "iso_country": "NL",
+    "iso_region": "NL-ZH",
+    "municipality": "Rotterdam"
+  },
+  "keywords": [
+    "Vliegveld Zestienhoven"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rotterdam_The_Hague_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2524
+  }
+}

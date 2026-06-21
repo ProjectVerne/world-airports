@@ -1,0 +1,34 @@
+{
+  "key": "eykl",
+  "codes": {
+    "icao": "EYKL",
+    "iata": null,
+    "gps": "EYKL",
+    "local": null
+  },
+  "name": "Klaipėda Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.712021,
+    "longitude": 21.242892,
+    "elevation_ft": 59,
+    "iso_country": "LT",
+    "iso_region": "LT-KL",
+    "municipality": "Klaipėda"
+  },
+  "keywords": [
+    "KLJ",
+    "Klaipėdos oro uostas"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Klaip%C4%97da_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30031
+  }
+}

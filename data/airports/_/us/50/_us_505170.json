@@ -1,0 +1,32 @@
+{
+  "key": "_us_505170",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Air Evac 117 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.87922,
+    "longitude": -84.01883,
+    "elevation_ft": 1037,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Snellville"
+  },
+  "keywords": [
+    "US-7359"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505170
+  }
+}

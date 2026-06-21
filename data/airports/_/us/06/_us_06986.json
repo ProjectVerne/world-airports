@@ -1,0 +1,30 @@
+{
+  "key": "_us_06986",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "08MA",
+    "local": "08MA"
+  },
+  "name": "Wormid Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.293999,
+    "longitude": -71.496201,
+    "elevation_ft": 360,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Southborough"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6986
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "sanc",
+  "codes": {
+    "icao": "SANC",
+    "iata": "CTC",
+    "gps": "SANC",
+    "local": "CAT"
+  },
+  "name": "Coronel Felipe Varela International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -28.593117,
+    "longitude": -65.7512,
+    "elevation_ft": 1522,
+    "iso_country": "AR",
+    "iso_region": "AR-K",
+    "municipality": "Catamarca"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Coronel_Felipe_Varela_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5789
+  }
+}

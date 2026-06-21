@@ -1,0 +1,33 @@
+{
+  "key": "ldos",
+  "codes": {
+    "icao": "LDOS",
+    "iata": "OSI",
+    "gps": "LDOS",
+    "local": null
+  },
+  "name": "Osijek Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.462355,
+    "longitude": 18.811278,
+    "elevation_ft": 290,
+    "iso_country": "HR",
+    "iso_region": "HR-14",
+    "municipality": "Osijek(Klisa)"
+  },
+  "keywords": [
+    "Klisa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Osijek_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3986
+  }
+}

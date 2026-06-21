@@ -1,0 +1,31 @@
+{
+  "key": "sctl",
+  "codes": {
+    "icao": "SCTL",
+    "iata": "TLX",
+    "gps": "SCTL",
+    "local": null
+  },
+  "name": "Panguilemo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -35.3778,
+    "longitude": -71.6017,
+    "elevation_ft": 371,
+    "iso_country": "CL",
+    "iso_region": "CL-ML",
+    "municipality": "Talca"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Panguilemo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6044
+  }
+}

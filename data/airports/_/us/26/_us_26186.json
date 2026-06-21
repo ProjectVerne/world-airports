@@ -1,0 +1,30 @@
+{
+  "key": "_us_26186",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "XA51",
+    "local": "XA51"
+  },
+  "name": "Smith Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.418301,
+    "longitude": -97.125801,
+    "elevation_ft": 525,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Robinson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26186
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "wpat",
+  "codes": {
+    "icao": "WPAT",
+    "iata": "AUT",
+    "gps": "WPAT",
+    "local": null
+  },
+  "name": "Atauro Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.243133,
+    "longitude": 125.606378,
+    "elevation_ft": 29,
+    "iso_country": "TL",
+    "iso_region": "TL-AT",
+    "municipality": "Vila"
+  },
+  "keywords": [
+    "Atauro"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Atauro_Island#Geography",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35136
+  }
+}

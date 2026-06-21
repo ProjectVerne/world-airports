@@ -1,0 +1,32 @@
+{
+  "key": "_us_334229",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NV16",
+    "local": "NV16"
+  },
+  "name": "Boulder City Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.9671,
+    "longitude": -114.843792,
+    "elevation_ft": 2394,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Boulder City"
+  },
+  "keywords": [
+    "US-1253"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 334229
+  }
+}

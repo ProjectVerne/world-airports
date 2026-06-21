@@ -1,0 +1,32 @@
+{
+  "key": "_us_11745",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4TS6",
+    "local": "4TS6"
+  },
+  "name": "Texas Department of Public Safety Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.90497,
+    "longitude": -95.59836,
+    "elevation_ft": 140,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Jersey Village"
+  },
+  "keywords": [
+    "State Police Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11745
+  }
+}

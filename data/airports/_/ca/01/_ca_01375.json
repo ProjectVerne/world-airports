@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01375",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPA7",
+    "local": "CPA7"
+  },
+  "name": "Meaford (General Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.606899,
+    "longitude": -80.5989,
+    "elevation_ft": 675,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Meaford"
+  },
+  "keywords": [
+    "PA7"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1375
+  }
+}

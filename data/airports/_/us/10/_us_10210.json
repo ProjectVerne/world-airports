@@ -1,0 +1,30 @@
+{
+  "key": "_us_10210",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "36TS",
+    "local": "36TS"
+  },
+  "name": "4BH Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.71691,
+    "longitude": -97.77673,
+    "elevation_ft": 920,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Georgetown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10210
+  }
+}

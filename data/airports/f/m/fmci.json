@@ -1,0 +1,34 @@
+{
+  "key": "fmci",
+  "codes": {
+    "icao": "FMCI",
+    "iata": "NWA",
+    "gps": "FMCI",
+    "local": null
+  },
+  "name": "Mohéli Bandar Es Eslam Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -12.298096,
+    "longitude": 43.766496,
+    "elevation_ft": 46,
+    "iso_country": "KM",
+    "iso_region": "KM-M",
+    "municipality": "Fomboni"
+  },
+  "keywords": [
+    "Mwali",
+    "Bandaressalam"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moh%C3%A9li_Bandar_Es_Eslam_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2902
+  }
+}

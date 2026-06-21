@@ -1,0 +1,30 @@
+{
+  "key": "_us_21804",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA60",
+    "local": "MA60"
+  },
+  "name": "St Luke's Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.894001,
+    "longitude": -70.915001,
+    "elevation_ft": 140,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Middleborough"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21804
+  }
+}

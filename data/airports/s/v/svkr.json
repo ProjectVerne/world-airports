@@ -1,0 +1,32 @@
+{
+  "key": "svkr",
+  "codes": {
+    "icao": "SVKR",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Aeroservicios Ranger  HLS",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 7.300556,
+    "longitude": -61.501389,
+    "elevation_ft": 525,
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Tumeremo"
+  },
+  "keywords": [
+    "VE-0006"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40355
+  }
+}

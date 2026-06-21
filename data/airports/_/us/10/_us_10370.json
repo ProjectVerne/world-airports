@@ -1,0 +1,30 @@
+{
+  "key": "_us_10370",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3AL0",
+    "local": "3AL0"
+  },
+  "name": "Fayette County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.709202,
+    "longitude": -87.823601,
+    "elevation_ft": 370,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Fayette"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10370
+  }
+}

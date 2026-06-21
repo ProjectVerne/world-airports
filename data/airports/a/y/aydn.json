@@ -1,0 +1,32 @@
+{
+  "key": "aydn",
+  "codes": {
+    "icao": "AYDN",
+    "iata": "DNU",
+    "gps": "AYDN",
+    "local": "DIN"
+  },
+  "name": "Dinangat Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.1546,
+    "longitude": 146.6772,
+    "elevation_ft": 5309,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Dinangat"
+  },
+  "keywords": [
+    "Diningat"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 311110
+  }
+}

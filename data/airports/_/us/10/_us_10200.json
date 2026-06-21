@@ -1,0 +1,33 @@
+{
+  "key": "_us_10200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Dew Airpark",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.235901,
+    "longitude": -78.2117,
+    "elevation_ft": 2100,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Cuba"
+  },
+  "keywords": [
+    "36NY",
+    "US-9986"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10200
+  }
+}

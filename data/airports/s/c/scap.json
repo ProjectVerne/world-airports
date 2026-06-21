@@ -1,0 +1,31 @@
+{
+  "key": "scap",
+  "codes": {
+    "icao": "SCAP",
+    "iata": "WAP",
+    "gps": "SCAP",
+    "local": null
+  },
+  "name": "Alto Palena Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -43.611492,
+    "longitude": -71.805452,
+    "elevation_ft": 794,
+    "iso_country": "CL",
+    "iso_region": "CL-LL",
+    "municipality": "Palena"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Alto_Palena_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29657
+  }
+}

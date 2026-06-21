@@ -1,0 +1,32 @@
+{
+  "key": "_us_321965",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KC12",
+    "local": "C12"
+  },
+  "name": "Cimarron Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.512708,
+    "longitude": -104.924708,
+    "elevation_ft": 6460,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Cimarron"
+  },
+  "keywords": [
+    "US-0375"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 321965
+  }
+}

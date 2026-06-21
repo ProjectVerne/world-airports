@@ -1,0 +1,31 @@
+{
+  "key": "sadp",
+  "codes": {
+    "icao": "SADP",
+    "iata": "EPA",
+    "gps": "SADP",
+    "local": "PAL"
+  },
+  "name": "El Palomar Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.6099,
+    "longitude": -58.6126,
+    "elevation_ft": 59,
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "El Palomar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Palomar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5780
+  }
+}

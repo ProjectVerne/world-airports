@@ -1,0 +1,32 @@
+{
+  "key": "hapw",
+  "codes": {
+    "icao": "HAPW",
+    "iata": "PWI",
+    "gps": "HAPW",
+    "local": null
+  },
+  "name": "Beles Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.3126,
+    "longitude": 36.4164,
+    "elevation_ft": 3695,
+    "iso_country": "ET",
+    "iso_region": "ET-BE",
+    "municipality": "Pawe"
+  },
+  "keywords": [
+    "Pawi"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 316689
+  }
+}

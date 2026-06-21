@@ -1,0 +1,33 @@
+{
+  "key": "vejr",
+  "codes": {
+    "icao": "VEJR",
+    "iata": "JGB",
+    "gps": "VEJR",
+    "local": "VEJR"
+  },
+  "name": "Jagdalpur Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 19.074301,
+    "longitude": 82.036797,
+    "elevation_ft": 1822,
+    "iso_country": "IN",
+    "iso_region": "IN-CT",
+    "municipality": "Jagdalpur"
+  },
+  "keywords": [
+    "IN-JGB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jagdalpur_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31698
+  }
+}

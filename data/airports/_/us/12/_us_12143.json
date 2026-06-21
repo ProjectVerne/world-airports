@@ -1,0 +1,30 @@
+{
+  "key": "_us_12143",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "57NY",
+    "local": "57NY"
+  },
+  "name": "Athens Emergency Med-Evac Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.287326,
+    "longitude": -73.844937,
+    "elevation_ft": 135,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Athens"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12143
+  }
+}

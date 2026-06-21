@@ -1,0 +1,33 @@
+{
+  "key": "kgad",
+  "codes": {
+    "icao": "KGAD",
+    "iata": "GAD",
+    "gps": "KGAD",
+    "local": "GAD"
+  },
+  "name": "Northeast Alabama Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.972599,
+    "longitude": -86.088996,
+    "elevation_ft": 569,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Gadsden"
+  },
+  "keywords": [
+    "Gadsden Municipal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Northeast_Alabama_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19920
+  }
+}

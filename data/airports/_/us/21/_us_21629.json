@@ -1,0 +1,30 @@
+{
+  "key": "_us_21629",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LL95",
+    "local": "LL95"
+  },
+  "name": "Clarke Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.986345,
+    "longitude": -88.100462,
+    "elevation_ft": 805,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Roselle"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21629
+  }
+}

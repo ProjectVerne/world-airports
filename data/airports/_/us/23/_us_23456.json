@@ -1,0 +1,30 @@
+{
+  "key": "_us_23456",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NY77",
+    "local": "NY77"
+  },
+  "name": "Wandervogel Gliderport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.718102,
+    "longitude": -74.163498,
+    "elevation_ft": 1260,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Delanson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23456
+  }
+}

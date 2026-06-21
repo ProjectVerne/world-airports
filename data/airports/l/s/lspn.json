@@ -1,0 +1,34 @@
+{
+  "key": "lspn",
+  "codes": {
+    "icao": "LSPN",
+    "iata": null,
+    "gps": "LSPN",
+    "local": null
+  },
+  "name": "Triengen Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.2267,
+    "longitude": 8.07806,
+    "elevation_ft": 1594,
+    "iso_country": "CH",
+    "iso_region": "CH-LU",
+    "municipality": "Triengen"
+  },
+  "keywords": [
+    "Lucerne",
+    "Trisa"
+  ],
+  "wikipedia": "http://de.wikipedia.org/wiki/Triengen",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29511
+  }
+}

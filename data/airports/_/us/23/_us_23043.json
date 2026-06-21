@@ -1,0 +1,30 @@
+{
+  "key": "_us_23043",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH93",
+    "local": "NH93"
+  },
+  "name": "Sean Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.762901,
+    "longitude": -71.3153,
+    "elevation_ft": 150,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Pelham"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23043
+  }
+}

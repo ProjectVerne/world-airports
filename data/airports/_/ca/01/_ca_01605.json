@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01605",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CTM4",
+    "local": "CTM4"
+  },
+  "name": "Toronto (St. Michael's Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.654153,
+    "longitude": -79.378471,
+    "elevation_ft": 529,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Toronto"
+  },
+  "keywords": [
+    "TM4"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1605
+  }
+}

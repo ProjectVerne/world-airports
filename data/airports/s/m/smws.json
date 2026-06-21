@@ -1,0 +1,31 @@
+{
+  "key": "smws",
+  "codes": {
+    "icao": "SMWS",
+    "iata": "WSO",
+    "gps": "SMWS",
+    "local": null
+  },
+  "name": "Washabo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.215277,
+    "longitude": -57.185302,
+    "elevation_ft": 68,
+    "iso_country": "SR",
+    "iso_region": "SR-SI",
+    "municipality": "Washabo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Washabo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41504
+  }
+}

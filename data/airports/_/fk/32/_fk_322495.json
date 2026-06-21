@@ -1,0 +1,32 @@
+{
+  "key": "_fk_322495",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Port Edgar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -52.090803,
+    "longitude": -60.282682,
+    "elevation_ft": 65,
+    "iso_country": "FK",
+    "iso_region": "FK-U-A",
+    "municipality": "Port Edgar"
+  },
+  "keywords": [
+    "FK-0032"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322495
+  }
+}

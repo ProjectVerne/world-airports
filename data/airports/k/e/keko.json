@@ -1,0 +1,31 @@
+{
+  "key": "keko",
+  "codes": {
+    "icao": "KEKO",
+    "iata": "EKO",
+    "gps": "KEKO",
+    "local": "EKO"
+  },
+  "name": "Elko Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.824902,
+    "longitude": -115.792,
+    "elevation_ft": 5140,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Elko"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Elko_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3508
+  }
+}

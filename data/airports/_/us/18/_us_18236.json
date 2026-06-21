@@ -1,0 +1,33 @@
+{
+  "key": "_us_18236",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Arras Restricted Landing Area",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.3381,
+    "longitude": -90.178101,
+    "elevation_ft": 598,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Greenfield"
+  },
+  "keywords": [
+    "IS82",
+    "US-11479"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18236
+  }
+}

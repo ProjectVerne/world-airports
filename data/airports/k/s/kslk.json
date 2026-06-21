@@ -1,0 +1,31 @@
+{
+  "key": "kslk",
+  "codes": {
+    "icao": "KSLK",
+    "iata": "SLK",
+    "gps": "KSLK",
+    "local": "SLK"
+  },
+  "name": "Adirondack Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.38691,
+    "longitude": -74.204629,
+    "elevation_ft": 1663,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Saranac Lake"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Adirondack_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3890
+  }
+}

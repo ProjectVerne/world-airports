@@ -1,0 +1,31 @@
+{
+  "key": "kskx",
+  "codes": {
+    "icao": "KSKX",
+    "iata": "TSM",
+    "gps": "KSKX",
+    "local": "SKX"
+  },
+  "name": "Taos Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.452494,
+    "longitude": -105.67749,
+    "elevation_ft": 7095,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Taos"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Taos_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21076
+  }
+}

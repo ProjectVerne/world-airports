@@ -1,0 +1,30 @@
+{
+  "key": "_us_26060",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WV78",
+    "local": "WV78"
+  },
+  "name": "Rach Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.220001,
+    "longitude": -80.534698,
+    "elevation_ft": 2200,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Richwood"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26060
+  }
+}

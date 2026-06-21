@@ -1,0 +1,30 @@
+{
+  "key": "_us_24017",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA46",
+    "local": "PA46"
+  },
+  "name": "Horizon Hospital System, Greenville Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.411701,
+    "longitude": -80.372803,
+    "elevation_ft": 1047,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Greenville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24017
+  }
+}

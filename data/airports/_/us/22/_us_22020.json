@@ -1,0 +1,30 @@
+{
+  "key": "_us_22020",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MI07",
+    "local": "MI07"
+  },
+  "name": "Dearborn Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.297298,
+    "longitude": -83.227097,
+    "elevation_ft": 606,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Dearborn"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22020
+  }
+}

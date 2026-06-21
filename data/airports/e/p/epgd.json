@@ -1,0 +1,33 @@
+{
+  "key": "epgd",
+  "codes": {
+    "icao": "EPGD",
+    "iata": "GDN",
+    "gps": "EPGD",
+    "local": null
+  },
+  "name": "Gdańsk Lech Wałęsa Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.377602,
+    "longitude": 18.4662,
+    "elevation_ft": 489,
+    "iso_country": "PL",
+    "iso_region": "PL-PM",
+    "municipality": "Gdańsk"
+  },
+  "keywords": [
+    "Gdańsk-Rębiechowo"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gda%C5%84sk_Lech_Wa%C5%82%C4%99sa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2608
+  }
+}

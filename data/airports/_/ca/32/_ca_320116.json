@@ -1,0 +1,32 @@
+{
+  "key": "_ca_320116",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "CCH3"
+  },
+  "name": "Canmore Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.0924,
+    "longitude": -115.349501,
+    "elevation_ft": 4305,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Canmore"
+  },
+  "keywords": [
+    "CA-0591"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320116
+  }
+}

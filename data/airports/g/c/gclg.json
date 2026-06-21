@@ -1,0 +1,30 @@
+{
+  "key": "gclg",
+  "codes": {
+    "icao": "GCLG",
+    "iata": null,
+    "gps": "GCLG",
+    "local": null
+  },
+  "name": "IES La Guancha Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.377407,
+    "longitude": -16.649328,
+    "elevation_ft": 1439,
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "Icod de los Vinos"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 524728
+  }
+}

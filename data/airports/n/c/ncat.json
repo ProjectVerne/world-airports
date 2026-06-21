@@ -1,0 +1,31 @@
+{
+  "key": "ncat",
+  "codes": {
+    "icao": "NCAT",
+    "iata": "AIU",
+    "gps": "NCAT",
+    "local": null
+  },
+  "name": "Enua Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.9678,
+    "longitude": -158.119003,
+    "elevation_ft": 36,
+    "iso_country": "CK",
+    "iso_region": "CK-U-A",
+    "municipality": "Atiu Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Enua_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30629
+  }
+}

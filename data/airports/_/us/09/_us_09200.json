@@ -1,0 +1,33 @@
+{
+  "key": "_us_09200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Marchino Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.637798,
+    "longitude": -87.4347,
+    "elevation_ft": 540,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Vincennes"
+  },
+  "keywords": [
+    "28IN",
+    "US-9826"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9200
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_br_46109",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDEQ",
+    "local": "PR0102"
+  },
+  "name": "Quatro Barras Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -25.376624,
+    "longitude": -49.084809,
+    "elevation_ft": 3041,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Quatro Barras"
+  },
+  "keywords": [
+    "SSAZ"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46109
+  }
+}

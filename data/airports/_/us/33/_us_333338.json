@@ -1,0 +1,30 @@
+{
+  "key": "_us_333338",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CN18",
+    "local": "CN18"
+  },
+  "name": "San Bernardino Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.130694,
+    "longitude": -117.321667,
+    "elevation_ft": 1213,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Bernardino"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333338
+  }
+}

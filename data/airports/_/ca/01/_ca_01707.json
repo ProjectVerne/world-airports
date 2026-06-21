@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01707",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CYDH",
+    "local": "CYDH"
+  },
+  "name": "Ottawa / Dwyer Hill Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.1306,
+    "longitude": -75.948303,
+    "elevation_ft": 325,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Ottawa"
+  },
+  "keywords": [
+    "YDH"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1707
+  }
+}

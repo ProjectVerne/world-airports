@@ -1,0 +1,35 @@
+{
+  "key": "libg",
+  "codes": {
+    "icao": "LIBG",
+    "iata": "TAR",
+    "gps": "LIBG",
+    "local": "TA02"
+  },
+  "name": "Taranto-Grottaglie Marcello Arlotta Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.517502,
+    "longitude": 17.4032,
+    "elevation_ft": 215,
+    "iso_country": "IT",
+    "iso_region": "IT-75",
+    "municipality": "Grottaglie"
+  },
+  "keywords": [
+    "M Arlotta",
+    "Taranto-Grottaglie Airport",
+    "Grottaglie Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Taranto-Grottaglie_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4312
+  }
+}

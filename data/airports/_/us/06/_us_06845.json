@@ -1,0 +1,30 @@
+{
+  "key": "_us_06845",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "05PN",
+    "local": "05PN"
+  },
+  "name": "State Police Area Iii Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.300098,
+    "longitude": -76.858002,
+    "elevation_ft": 485,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Harrisburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6845
+  }
+}

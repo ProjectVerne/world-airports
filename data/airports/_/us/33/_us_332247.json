@@ -1,0 +1,32 @@
+{
+  "key": "_us_332247",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32NV",
+    "local": "32NV"
+  },
+  "name": "Henderson Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.072294,
+    "longitude": -115.029647,
+    "elevation_ft": 1664,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Henderson"
+  },
+  "keywords": [
+    "US-1148"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 332247
+  }
+}

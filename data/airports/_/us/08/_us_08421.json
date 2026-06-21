@@ -1,0 +1,30 @@
+{
+  "key": "_us_08421",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1LL9",
+    "local": "1LL9"
+  },
+  "name": "Reyhan Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.677601,
+    "longitude": -89.805099,
+    "elevation_ft": 600,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Loami"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8421
+  }
+}

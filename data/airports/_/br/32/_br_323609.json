@@ -1,0 +1,30 @@
+{
+  "key": "_br_323609",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNCH",
+    "local": null
+  },
+  "name": "UTGCA Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.657645,
+    "longitude": -45.49811,
+    "elevation_ft": 26,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Caraguatatuba"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323609
+  }
+}

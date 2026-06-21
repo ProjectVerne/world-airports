@@ -1,0 +1,32 @@
+{
+  "key": "hked",
+  "codes": {
+    "icao": "HKED",
+    "iata": null,
+    "gps": "HKED",
+    "local": null
+  },
+  "name": "Eldoret Boma Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 0.536926,
+    "longitude": 35.280518,
+    "elevation_ft": 7050,
+    "iso_country": "KE",
+    "iso_region": "KE-27",
+    "municipality": "Eldoret"
+  },
+  "keywords": [
+    "KE-6999"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42532
+  }
+}

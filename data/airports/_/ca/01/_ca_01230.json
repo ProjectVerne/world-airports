@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01230",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKS6",
+    "local": "CKS6"
+  },
+  "name": "Bryant Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.41,
+    "longitude": -103.143997,
+    "elevation_ft": 1970,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Estevan"
+  },
+  "keywords": [
+    "KS6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Estevan/Bryant_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1230
+  }
+}

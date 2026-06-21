@@ -1,0 +1,33 @@
+{
+  "key": "_us_13991",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KTME",
+    "local": "TME"
+  },
+  "name": "Houston Executive Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.807199,
+    "longitude": -95.897903,
+    "elevation_ft": 166,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [
+    "Formerly 78T"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Houston_Executive_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13991
+  }
+}

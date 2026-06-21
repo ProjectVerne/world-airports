@@ -1,0 +1,31 @@
+{
+  "key": "oimt",
+  "codes": {
+    "icao": "OIMT",
+    "iata": "TCX",
+    "gps": "OIMT",
+    "local": null
+  },
+  "name": "Tabas Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.667801,
+    "longitude": 56.8927,
+    "elevation_ft": 2312,
+    "iso_country": "IR",
+    "iso_region": "IR-21",
+    "municipality": "Tabas"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tabas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5186
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "khop",
+  "codes": {
+    "icao": "KHOP",
+    "iata": "HOP",
+    "gps": "KHOP",
+    "local": "HOP"
+  },
+  "name": "Campbell Army Airfield (Fort Campbell)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.674154,
+    "longitude": -87.48974,
+    "elevation_ft": 573,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Fort Campbell"
+  },
+  "keywords": [
+    "Campbell AFB",
+    "Hopkinsville"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Campbell_Army_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3586
+  }
+}

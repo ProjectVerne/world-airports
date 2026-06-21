@@ -1,0 +1,30 @@
+{
+  "key": "_us_45470",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "41MA",
+    "local": "41MA"
+  },
+  "name": "Haney Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.590556,
+    "longitude": -70.474963,
+    "elevation_ft": 22,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Mashpee"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45470
+  }
+}

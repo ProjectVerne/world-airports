@@ -1,0 +1,32 @@
+{
+  "key": "hsnd",
+  "codes": {
+    "icao": "HSND",
+    "iata": null,
+    "gps": "HSND",
+    "local": null
+  },
+  "name": "Shendi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.703775,
+    "longitude": 33.446395,
+    "elevation_ft": 1181,
+    "iso_country": "SD",
+    "iso_region": "SD-04",
+    "municipality": "Shendi"
+  },
+  "keywords": [
+    "SD-0026"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31625
+  }
+}

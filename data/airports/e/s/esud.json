@@ -1,0 +1,31 @@
+{
+  "key": "esud",
+  "codes": {
+    "icao": "ESUD",
+    "iata": "SQO",
+    "gps": "ESUD",
+    "local": null
+  },
+  "name": "Storuman Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.960899,
+    "longitude": 17.6966,
+    "elevation_ft": 915,
+    "iso_country": "SE",
+    "iso_region": "SE-AC",
+    "municipality": "Storuman"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Storuman_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2713
+  }
+}

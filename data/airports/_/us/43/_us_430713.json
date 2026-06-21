@@ -1,0 +1,32 @@
+{
+  "key": "_us_430713",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "70TX",
+    "local": "70TX"
+  },
+  "name": "US Border Patrol Eagle Pass Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.6706,
+    "longitude": -100.45979,
+    "elevation_ft": 722,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Eagle Pass"
+  },
+  "keywords": [
+    "US-7229"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 430713
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "key": "orbi",
+  "codes": {
+    "icao": "ORBI",
+    "iata": "BGW",
+    "gps": "ORBI",
+    "local": null
+  },
+  "name": "Baghdad International Airport / New Al Muthana Air Base",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.262501,
+    "longitude": 44.2346,
+    "elevation_ft": 114,
+    "iso_country": "IQ",
+    "iso_region": "IQ-BG",
+    "municipality": "Baghdad"
+  },
+  "keywords": [
+    "SDA",
+    "BIAP",
+    "VBC",
+    "ORBS",
+    "Camp Sather",
+    "Saddam International Airport",
+    "Al Anbar Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Baghdad_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5289
+  }
+}

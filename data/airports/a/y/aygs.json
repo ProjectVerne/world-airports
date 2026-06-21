@@ -1,0 +1,30 @@
+{
+  "key": "aygs",
+  "codes": {
+    "icao": "AYGS",
+    "iata": "GBC",
+    "gps": "AYGS",
+    "local": "GSK"
+  },
+  "name": "Gasuke Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.1028,
+    "longitude": 141.7393,
+    "elevation_ft": 157,
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Gasuke"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 311386
+  }
+}

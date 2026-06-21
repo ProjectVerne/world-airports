@@ -1,0 +1,34 @@
+{
+  "key": "uata",
+  "codes": {
+    "icao": "UATA",
+    "iata": null,
+    "gps": "UATA",
+    "local": null
+  },
+  "name": "Aralsk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.829572,
+    "longitude": 61.612444,
+    "elevation_ft": 223,
+    "iso_country": "KZ",
+    "iso_region": "KZ-KZY",
+    "municipality": "Aralsk"
+  },
+  "keywords": [
+    "Aral'sk Airport",
+    "Аэропорт Аральск"
+  ],
+  "wikipedia": "https://kk.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%BB_%D3%99%D1%83%D0%B5%D0%B6%D0%B0%D0%B9%D1%8B",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32502
+  }
+}

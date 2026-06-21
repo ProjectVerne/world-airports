@@ -1,0 +1,36 @@
+{
+  "key": "wall",
+  "codes": {
+    "icao": "WALL",
+    "iata": "BPN",
+    "gps": "WALL",
+    "local": null
+  },
+  "name": "Sultan Aji Muhammad Sulaiman Sepinggan International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.268342,
+    "longitude": 116.89452,
+    "elevation_ft": 12,
+    "iso_country": "ID",
+    "iso_region": "ID-KI",
+    "municipality": "Balikpapan"
+  },
+  "keywords": [
+    "WRLL",
+    "Balikpapan Airport",
+    "Sepinggan Airport",
+    "Sepinggang Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sultan_Aji_Muhamad_Sulaiman_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26760
+  }
+}

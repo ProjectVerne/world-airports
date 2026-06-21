@@ -1,0 +1,32 @@
+{
+  "key": "sybe",
+  "codes": {
+    "icao": "SYBE",
+    "iata": "BCG",
+    "gps": "SYBE",
+    "local": null
+  },
+  "name": "Bemichi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.640212,
+    "longitude": -58.961786,
+    "elevation_ft": 94,
+    "iso_country": "GY",
+    "iso_region": "GY-BA",
+    "municipality": "Kumaka"
+  },
+  "keywords": [
+    "GY-BCG"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41500
+  }
+}

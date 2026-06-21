@@ -1,0 +1,33 @@
+{
+  "key": "cyym",
+  "codes": {
+    "icao": "CYYM",
+    "iata": "YYM",
+    "gps": "CYYM",
+    "local": "YYM"
+  },
+  "name": "Cowley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.636398,
+    "longitude": -114.094002,
+    "elevation_ft": 3876,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Cowley"
+  },
+  "keywords": [
+    "YYM"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cowley_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1981
+  }
+}

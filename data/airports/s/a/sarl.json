@@ -1,0 +1,31 @@
+{
+  "key": "sarl",
+  "codes": {
+    "icao": "SARL",
+    "iata": "AOL",
+    "gps": "SARL",
+    "local": "LIB"
+  },
+  "name": "Paso De Los Libres Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.6894,
+    "longitude": -57.1521,
+    "elevation_ft": 230,
+    "iso_country": "AR",
+    "iso_region": "AR-W",
+    "municipality": "Paso de los Libres"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Paso_de_los_Libres_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5807
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "cymo",
+  "codes": {
+    "icao": "CYMO",
+    "iata": "YMO",
+    "gps": "CYMO",
+    "local": null
+  },
+  "name": "Moosonee Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.2911,
+    "longitude": -80.607803,
+    "elevation_ft": 30,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Moosonee"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moosonee_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1816
+  }
+}

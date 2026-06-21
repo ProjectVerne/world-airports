@@ -1,0 +1,31 @@
+{
+  "key": "kgre",
+  "codes": {
+    "icao": "KGRE",
+    "iata": "GRE",
+    "gps": "KGRE",
+    "local": "GRE"
+  },
+  "name": "Greenville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.836844,
+    "longitude": -89.376525,
+    "elevation_ft": 541,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Greenville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Greenville_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19977
+  }
+}

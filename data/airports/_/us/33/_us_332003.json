@@ -1,0 +1,32 @@
+{
+  "key": "_us_332003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "16KY",
+    "local": "16KY"
+  },
+  "name": "UCMC Air Care Walton Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.85303,
+    "longitude": -84.616604,
+    "elevation_ft": 850,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Walton"
+  },
+  "keywords": [
+    "US-1139"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 332003
+  }
+}

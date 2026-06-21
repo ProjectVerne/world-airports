@@ -1,0 +1,32 @@
+{
+  "key": "_ca_00677",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBF4",
+    "local": "CBF4"
+  },
+  "name": "Mission (Public Safety) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.132754,
+    "longitude": -122.343615,
+    "elevation_ft": 85,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Mission"
+  },
+  "keywords": [
+    "BF4"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 677
+  }
+}

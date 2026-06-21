@@ -1,0 +1,30 @@
+{
+  "key": "esed",
+  "codes": {
+    "icao": "ESED",
+    "iata": null,
+    "gps": "ESED",
+    "local": null
+  },
+  "name": "Sundsvalls County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 62.407936,
+    "longitude": 17.302258,
+    "elevation_ft": 312,
+    "iso_country": "SE",
+    "iso_region": "SE-Y",
+    "municipality": "Sundsvall"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599672
+  }
+}

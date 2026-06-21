@@ -1,0 +1,30 @@
+{
+  "key": "_us_26034",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WV51",
+    "local": "WV51"
+  },
+  "name": "University Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.650101,
+    "longitude": -79.958099,
+    "elevation_ft": 1120,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Morgantown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26034
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_25789",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WI95",
+    "local": "WI95"
+  },
+  "name": "Binzel Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.577797,
+    "longitude": -88.01405,
+    "elevation_ft": 705,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Bristol"
+  },
+  "keywords": [
+    "Chilcott Farms",
+    "Paddock Lake"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25789
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_25127",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TX10",
+    "local": "TX10"
+  },
+  "name": "HALO-Flight Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.71838,
+    "longitude": -97.55239,
+    "elevation_ft": 10,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Corpus Christi"
+  },
+  "keywords": [
+    "Industrial Helicopters Inc Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25127
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_18175",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS09",
+    "local": "IS09"
+  },
+  "name": "Glenoaks Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.914434,
+    "longitude": -88.055665,
+    "elevation_ft": 734,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Glendale Heights"
+  },
+  "keywords": [
+    "UChicago Medicine AdventHealth GlenOaks"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18175
+  }
+}

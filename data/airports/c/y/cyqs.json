@@ -1,0 +1,31 @@
+{
+  "key": "cyqs",
+  "codes": {
+    "icao": "CYQS",
+    "iata": "YQS",
+    "gps": "CYQS",
+    "local": null
+  },
+  "name": "St Thomas Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.77,
+    "longitude": -81.110802,
+    "elevation_ft": 778,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "St Thomas"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Thomas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1876
+  }
+}

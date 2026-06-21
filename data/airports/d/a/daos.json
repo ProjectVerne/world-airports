@@ -1,0 +1,31 @@
+{
+  "key": "daos",
+  "codes": {
+    "icao": "DAOS",
+    "iata": "BFW",
+    "gps": "DAOS",
+    "local": null
+  },
+  "name": "Sidi Bel Abbes Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.171799,
+    "longitude": -0.593275,
+    "elevation_ft": 1614,
+    "iso_country": "DZ",
+    "iso_region": "DZ-22",
+    "municipality": "Sidi Bel Abbès"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sidi_Bel_Abb%C3%A8s_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2073
+  }
+}

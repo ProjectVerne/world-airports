@@ -1,0 +1,33 @@
+{
+  "key": "tisx",
+  "codes": {
+    "icao": "TISX",
+    "iata": "STX",
+    "gps": "TISX",
+    "local": "STX"
+  },
+  "name": "Henry E. Rohlsen Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 17.701413,
+    "longitude": -64.802608,
+    "elevation_ft": 74,
+    "iso_country": "VI",
+    "iso_region": "VI-SC",
+    "municipality": "Christiansted"
+  },
+  "keywords": [
+    "St Croix"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Henry_E._Rohlsen_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6370
+  }
+}

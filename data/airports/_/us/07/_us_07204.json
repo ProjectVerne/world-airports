@@ -1,0 +1,33 @@
+{
+  "key": "_us_07204",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Hawkeye Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.435066,
+    "longitude": -92.327621,
+    "elevation_ft": 883,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Waterloo"
+  },
+  "keywords": [
+    "0IA3",
+    "US-9454"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7204
+  }
+}

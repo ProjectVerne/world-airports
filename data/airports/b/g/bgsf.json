@@ -1,0 +1,35 @@
+{
+  "key": "bgsf",
+  "codes": {
+    "icao": "BGSF",
+    "iata": "SFJ",
+    "gps": "BGSF",
+    "local": null
+  },
+  "name": "Kangerlussuaq International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 67.010446,
+    "longitude": -50.715294,
+    "elevation_ft": 165,
+    "iso_country": "GL",
+    "iso_region": "GL-QA",
+    "municipality": "Kangerlussuaq"
+  },
+  "keywords": [
+    "Bluie West 8",
+    "Sondrestrom Air Base",
+    "Sondrestromfjord Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kangerlussuaq_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 115
+  }
+}

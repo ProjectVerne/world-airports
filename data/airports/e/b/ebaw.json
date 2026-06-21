@@ -1,0 +1,31 @@
+{
+  "key": "ebaw",
+  "codes": {
+    "icao": "EBAW",
+    "iata": "ANR",
+    "gps": "EBAW",
+    "local": null
+  },
+  "name": "Antwerp International Airport (Deurne)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.190667,
+    "longitude": 4.463153,
+    "elevation_ft": 39,
+    "iso_country": "BE",
+    "iso_region": "BE-VAN",
+    "municipality": "Antwerp"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Antwerp_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2152
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_24803",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TA96",
+    "local": "TA96"
+  },
+  "name": "Helicopter Express Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.0952,
+    "longitude": -95.544899,
+    "elevation_ft": 150,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Tomball"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24803
+  }
+}

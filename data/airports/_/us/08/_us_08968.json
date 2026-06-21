@@ -1,0 +1,32 @@
+{
+  "key": "_us_08968",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "23OK",
+    "local": "23OK"
+  },
+  "name": "Lindsay Municipal Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.838891,
+    "longitude": -97.626911,
+    "elevation_ft": 990,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Lindsay"
+  },
+  "keywords": [
+    "MASH Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8968
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_335874",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "GA93",
+    "local": "GA93"
+  },
+  "name": "AE153 Base Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.482261,
+    "longitude": -84.433199,
+    "elevation_ft": 875,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Fayetteville"
+  },
+  "keywords": [
+    "US-1527"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 335874
+  }
+}

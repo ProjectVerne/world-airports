@@ -1,0 +1,34 @@
+{
+  "key": "egns",
+  "codes": {
+    "icao": "EGNS",
+    "iata": "IOM",
+    "gps": "EGNS",
+    "local": null
+  },
+  "name": "Isle of Man Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.083081,
+    "longitude": -4.623871,
+    "elevation_ft": 52,
+    "iso_country": "IM",
+    "iso_region": "IM-U-A",
+    "municipality": "Castletown"
+  },
+  "keywords": [
+    "Ronaldsway",
+    "Douglas"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Isle_of_Man_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2447
+  }
+}

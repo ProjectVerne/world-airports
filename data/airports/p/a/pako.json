@@ -1,0 +1,31 @@
+{
+  "key": "pako",
+  "codes": {
+    "icao": "PAKO",
+    "iata": "IKO",
+    "gps": "PAKO",
+    "local": "IKO"
+  },
+  "name": "Nikolski Air Station",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.941552,
+    "longitude": -168.849478,
+    "elevation_ft": 77,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Nikolski"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nikolski_Air_Station",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17980
+  }
+}

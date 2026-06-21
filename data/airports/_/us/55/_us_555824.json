@@ -1,0 +1,32 @@
+{
+  "key": "_us_555824",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Dickens Emergency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.62138,
+    "longitude": -100.84209,
+    "elevation_ft": 2548,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dickens"
+  },
+  "keywords": [
+    "US-9056"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 555824
+  }
+}

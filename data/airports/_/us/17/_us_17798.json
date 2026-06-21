@@ -1,0 +1,30 @@
+{
+  "key": "_us_17798",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID20",
+    "local": "ID20"
+  },
+  "name": "Hubof's Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.733002,
+    "longitude": -117,
+    "elevation_ft": 2000,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Post Falls"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17798
+  }
+}

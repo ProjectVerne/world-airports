@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01612",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CTR4",
+    "local": "CTR4"
+  },
+  "name": "Artopex Plus Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.3908,
+    "longitude": -72.766098,
+    "elevation_ft": 295,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Granby"
+  },
+  "keywords": [
+    "TR4"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1612
+  }
+}

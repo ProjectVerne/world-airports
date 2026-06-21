@@ -1,0 +1,30 @@
+{
+  "key": "_us_24301",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS68",
+    "local": "PS68"
+  },
+  "name": "Buckingham Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.332298,
+    "longitude": -75.030403,
+    "elevation_ft": 250,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Doylestown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24301
+  }
+}

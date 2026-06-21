@@ -1,0 +1,31 @@
+{
+  "key": "sazg",
+  "codes": {
+    "icao": "SAZG",
+    "iata": "GPO",
+    "gps": "SAZG",
+    "local": "GPI"
+  },
+  "name": "General Pico Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -35.696201,
+    "longitude": -63.758301,
+    "elevation_ft": 459,
+    "iso_country": "AR",
+    "iso_region": "AR-L",
+    "municipality": "General Pico"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/General_Pico_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5843
+  }
+}

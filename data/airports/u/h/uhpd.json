@@ -1,0 +1,34 @@
+{
+  "key": "uhpd",
+  "codes": {
+    "icao": "UHPD",
+    "iata": null,
+    "gps": "UHPD",
+    "local": null
+  },
+  "name": "Ossora Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.2236,
+    "longitude": 163.0664,
+    "elevation_ft": 13,
+    "iso_country": "RU",
+    "iso_region": "RU-KAM",
+    "municipality": "Ossora"
+  },
+  "keywords": [
+    "УХПД",
+    "Оссора"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ossora_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308492
+  }
+}

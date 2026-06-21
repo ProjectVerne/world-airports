@@ -1,0 +1,30 @@
+{
+  "key": "ayum",
+  "codes": {
+    "icao": "AYUM",
+    "iata": "AUV",
+    "gps": "AYUM",
+    "local": "AUMO"
+  },
+  "name": "Aumo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.731111,
+    "longitude": 148.445278,
+    "elevation_ft": 450,
+    "iso_country": "PG",
+    "iso_region": "PG-WBK",
+    "municipality": "Aumo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301737
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_25443",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VG08",
+    "local": "VG08"
+  },
+  "name": "Montgomery Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.186501,
+    "longitude": -80.408997,
+    "elevation_ft": 2126,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Blacksburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25443
+  }
+}

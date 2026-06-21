@@ -1,0 +1,31 @@
+{
+  "key": "kvel",
+  "codes": {
+    "icao": "KVEL",
+    "iata": "VEL",
+    "gps": "KVEL",
+    "local": "VEL"
+  },
+  "name": "Vernal Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.436214,
+    "longitude": -109.511661,
+    "elevation_ft": 5278,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Vernal"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vernal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21318
+  }
+}

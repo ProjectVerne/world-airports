@@ -1,0 +1,33 @@
+{
+  "key": "_us_07704",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Channel 7 Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.7253,
+    "longitude": -104.984,
+    "elevation_ft": 5300,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Denver"
+  },
+  "keywords": [
+    "11CO",
+    "US-9551"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7704
+  }
+}

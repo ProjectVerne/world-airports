@@ -1,0 +1,32 @@
+{
+  "key": "_us_354062",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Myers Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.46014,
+    "longitude": -103.66256,
+    "elevation_ft": 4475,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Melrose"
+  },
+  "keywords": [
+    "US-6800"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 354062
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "uspp",
+  "codes": {
+    "icao": "USPP",
+    "iata": "PEE",
+    "gps": "USPP",
+    "local": null
+  },
+  "name": "Perm International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.914501,
+    "longitude": 56.021198,
+    "elevation_ft": 404,
+    "iso_country": "RU",
+    "iso_region": "RU-PER",
+    "municipality": "Perm"
+  },
+  "keywords": [
+    "Bolshoye Savino"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Perm_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26375
+  }
+}

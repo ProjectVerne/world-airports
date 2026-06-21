@@ -1,0 +1,35 @@
+{
+  "key": "uwks",
+  "codes": {
+    "icao": "UWKS",
+    "iata": "CSY",
+    "gps": "UWKS",
+    "local": null
+  },
+  "name": "Cheboksary Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.090302,
+    "longitude": 47.347301,
+    "elevation_ft": 558,
+    "iso_country": "RU",
+    "iso_region": "RU-CU",
+    "municipality": "Cheboksary"
+  },
+  "keywords": [
+    "УВКС",
+    "ЬВКС",
+    "Чебоксары"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cheboksary_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26406
+  }
+}

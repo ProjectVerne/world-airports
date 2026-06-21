@@ -1,0 +1,33 @@
+{
+  "key": "kiad",
+  "codes": {
+    "icao": "KIAD",
+    "iata": "IAD",
+    "gps": "KIAD",
+    "local": "IAD"
+  },
+  "name": "Washington Dulles International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.9445,
+    "longitude": -77.455803,
+    "elevation_ft": 312,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Dulles"
+  },
+  "keywords": [
+    "WAS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Washington_Dulles_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3602
+  }
+}

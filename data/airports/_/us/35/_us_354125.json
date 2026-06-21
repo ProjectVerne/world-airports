@@ -1,0 +1,32 @@
+{
+  "key": "_us_354125",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FD82",
+    "local": "FD82"
+  },
+  "name": "HCA Florida Westside Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 26.123314,
+    "longitude": -80.260475,
+    "elevation_ft": 16,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Plantation"
+  },
+  "keywords": [
+    "US-6810"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 354125
+  }
+}

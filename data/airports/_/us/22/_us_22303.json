@@ -1,0 +1,30 @@
+{
+  "key": "_us_22303",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MO99",
+    "local": "MO99"
+  },
+  "name": "Miller Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.117524,
+    "longitude": -93.073318,
+    "elevation_ft": 1000,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Climax Springs"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22303
+  }
+}

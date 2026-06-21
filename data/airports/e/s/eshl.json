@@ -1,0 +1,30 @@
+{
+  "key": "eshl",
+  "codes": {
+    "icao": "ESHL",
+    "iata": null,
+    "gps": "ESHL",
+    "local": null
+  },
+  "name": "Huddinge Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 59.219829,
+    "longitude": 17.934354,
+    "elevation_ft": 264,
+    "iso_country": "SE",
+    "iso_region": "SE-AB",
+    "municipality": "Flemingsberg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600413
+  }
+}

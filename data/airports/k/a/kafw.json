@@ -1,0 +1,31 @@
+{
+  "key": "kafw",
+  "codes": {
+    "icao": "KAFW",
+    "iata": "AFW",
+    "gps": "KAFW",
+    "local": "AFW"
+  },
+  "name": "Perot Field/Fort Worth Alliance Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.99044,
+    "longitude": -97.31947,
+    "elevation_ft": 722,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Worth_Alliance_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3366
+  }
+}

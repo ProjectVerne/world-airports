@@ -1,0 +1,33 @@
+{
+  "key": "glcp",
+  "codes": {
+    "icao": "GLCP",
+    "iata": "CPA",
+    "gps": "GLCP",
+    "local": null
+  },
+  "name": "Cape Palmas Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.378805,
+    "longitude": -7.696647,
+    "elevation_ft": 20,
+    "iso_country": "LR",
+    "iso_region": "LR-MY",
+    "municipality": "Harper"
+  },
+  "keywords": [
+    "A. Tubman Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cape_Palmas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30844
+  }
+}

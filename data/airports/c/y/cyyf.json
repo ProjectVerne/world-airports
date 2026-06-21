@@ -1,0 +1,31 @@
+{
+  "key": "cyyf",
+  "codes": {
+    "icao": "CYYF",
+    "iata": "YYF",
+    "gps": "CYYF",
+    "local": null
+  },
+  "name": "Penticton Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.4631,
+    "longitude": -119.601997,
+    "elevation_ft": 1129,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Penticton"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Penticton_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1976
+  }
+}

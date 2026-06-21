@@ -1,0 +1,33 @@
+{
+  "key": "oatn",
+  "codes": {
+    "icao": "OATN",
+    "iata": "TII",
+    "gps": "OATN",
+    "local": null
+  },
+  "name": "Tarinkot Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.604198,
+    "longitude": 65.865799,
+    "elevation_ft": 4429,
+    "iso_country": "AF",
+    "iso_region": "AF-URU",
+    "municipality": "Tarinkot"
+  },
+  "keywords": [
+    "Tarin Kowt"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tarinkot_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32449
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_br_310847",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SSEI",
+    "local": "RJ0348"
+  },
+  "name": "SEC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.04298,
+    "longitude": -44.21046,
+    "elevation_ft": 177,
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Angra dos Reis"
+  },
+  "keywords": [
+    "SDNX"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310847
+  }
+}

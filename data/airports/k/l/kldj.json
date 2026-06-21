@@ -1,0 +1,35 @@
+{
+  "key": "kldj",
+  "codes": {
+    "icao": "KLDJ",
+    "iata": "LDJ",
+    "gps": "KLDJ",
+    "local": "LDJ"
+  },
+  "name": "Linden Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.617401,
+    "longitude": -74.244598,
+    "elevation_ft": 23,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Linden"
+  },
+  "keywords": [
+    "Manhattan",
+    "New York City",
+    "NYC"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Linden_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20327
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "evlu",
+  "codes": {
+    "icao": "EVLU",
+    "iata": null,
+    "gps": "EVLU",
+    "local": null
+  },
+  "name": "Ludza Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 56.521137,
+    "longitude": 27.694057,
+    "elevation_ft": 0,
+    "iso_country": "LV",
+    "iso_region": "LV-058",
+    "municipality": "Ludza"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 318286
+  }
+}

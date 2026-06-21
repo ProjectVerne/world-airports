@@ -1,0 +1,32 @@
+{
+  "key": "_us_505772",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Mayport Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.01202,
+    "longitude": -79.25269,
+    "elevation_ft": 1357,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Mayport"
+  },
+  "keywords": [
+    "US-7433"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505772
+  }
+}

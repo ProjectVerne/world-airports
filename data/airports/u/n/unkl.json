@@ -1,0 +1,33 @@
+{
+  "key": "unkl",
+  "codes": {
+    "icao": "UNKL",
+    "iata": "KJA",
+    "gps": "UNKL",
+    "local": null
+  },
+  "name": "Krasnoyarsk International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.175743,
+    "longitude": 92.485788,
+    "elevation_ft": 942,
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Krasnoyarsk"
+  },
+  "keywords": [
+    "Yemelyanovo"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Krasnoyarsk_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6506
+  }
+}

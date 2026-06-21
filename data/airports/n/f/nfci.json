@@ -1,0 +1,31 @@
+{
+  "key": "nfci",
+  "codes": {
+    "icao": "NFCI",
+    "iata": "ICI",
+    "gps": "NFCI",
+    "local": null
+  },
+  "name": "Cicia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -17.743299,
+    "longitude": -179.341995,
+    "elevation_ft": 13,
+    "iso_country": "FJ",
+    "iso_region": "FJ-E",
+    "municipality": "Cicia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cicia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31662
+  }
+}

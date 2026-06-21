@@ -1,0 +1,31 @@
+{
+  "key": "flcp",
+  "codes": {
+    "icao": "FLCP",
+    "iata": "CIP",
+    "gps": "FLCP",
+    "local": null
+  },
+  "name": "Chipata Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -13.5583,
+    "longitude": 32.5872,
+    "elevation_ft": 3360,
+    "iso_country": "ZM",
+    "iso_region": "ZM-03",
+    "municipality": "Chipata"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chipata_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29781
+  }
+}

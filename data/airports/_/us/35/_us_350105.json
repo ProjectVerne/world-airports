@@ -1,0 +1,32 @@
+{
+  "key": "_us_350105",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "7CO3",
+    "local": "7CO3"
+  },
+  "name": "Buffalo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.30816,
+    "longitude": -104.70851,
+    "elevation_ft": 6948,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Franktown"
+  },
+  "keywords": [
+    "US-5899"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350105
+  }
+}

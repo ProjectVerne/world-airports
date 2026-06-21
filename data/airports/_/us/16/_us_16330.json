@@ -1,0 +1,32 @@
+{
+  "key": "_us_16330",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AR41",
+    "local": "AR41"
+  },
+  "name": "Mercy Hospital Berryville Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.359253,
+    "longitude": -93.550912,
+    "elevation_ft": 1280,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Berryville"
+  },
+  "keywords": [
+    "Carroll General Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16330
+  }
+}

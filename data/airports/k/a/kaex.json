@@ -1,0 +1,34 @@
+{
+  "key": "kaex",
+  "codes": {
+    "icao": "KAEX",
+    "iata": "AEX",
+    "gps": "KAEX",
+    "local": "AEX"
+  },
+  "name": "Alexandria International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.325828,
+    "longitude": -92.546702,
+    "elevation_ft": 89,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Alexandria"
+  },
+  "keywords": [
+    "England Air Park",
+    "England Air Force Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Alexandria_International_Airport_(Louisiana)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3365
+  }
+}

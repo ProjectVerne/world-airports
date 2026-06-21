@@ -1,0 +1,30 @@
+{
+  "key": "nzwg",
+  "codes": {
+    "icao": "NZWG",
+    "iata": null,
+    "gps": "NZWG",
+    "local": null
+  },
+  "name": "Whangamata Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -37.200527,
+    "longitude": 175.866627,
+    "elevation_ft": 10,
+    "iso_country": "NZ",
+    "iso_region": "NZ-WKO",
+    "municipality": "Whangamata"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605017
+  }
+}

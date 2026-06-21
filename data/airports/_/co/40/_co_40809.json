@@ -1,0 +1,32 @@
+{
+  "key": "_co_40809",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "FOO"
+  },
+  "name": "La Luna Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 3.449167,
+    "longitude": -73.584444,
+    "elevation_ft": 954,
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "Fuente De Oro"
+  },
+  "keywords": [
+    "SK-306"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40809
+  }
+}

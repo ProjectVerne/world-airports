@@ -1,0 +1,30 @@
+{
+  "key": "_us_23200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NK74",
+    "local": "NK74"
+  },
+  "name": "Match Mate Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.744499,
+    "longitude": -76.663597,
+    "elevation_ft": 840,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Aurora"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23200
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "hcmd",
+  "codes": {
+    "icao": "HCMD",
+    "iata": "BSY",
+    "gps": "HCMD",
+    "local": null
+  },
+  "name": "Baardheere Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 2.330195,
+    "longitude": 42.311802,
+    "elevation_ft": 396,
+    "iso_country": "SO",
+    "iso_region": "SO-GE",
+    "municipality": "Baardheere"
+  },
+  "keywords": [
+    "Bardera"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bardera_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 302296
+  }
+}

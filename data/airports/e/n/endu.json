@@ -1,0 +1,31 @@
+{
+  "key": "endu",
+  "codes": {
+    "icao": "ENDU",
+    "iata": "BDU",
+    "gps": "ENDU",
+    "local": null
+  },
+  "name": "Bardufoss Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 69.055801,
+    "longitude": 18.5404,
+    "elevation_ft": 252,
+    "iso_country": "NO",
+    "iso_region": "NO-55",
+    "municipality": "Målselv"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bardufoss_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2574
+  }
+}

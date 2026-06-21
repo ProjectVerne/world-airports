@@ -1,0 +1,32 @@
+{
+  "key": "_us_09001",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Stauss Hospital - Galena Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.420649,
+    "longitude": -90.438377,
+    "elevation_ft": 780,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Galena"
+  },
+  "keywords": [
+    "24IS"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9001
+  }
+}

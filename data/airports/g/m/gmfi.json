@@ -1,0 +1,31 @@
+{
+  "key": "gmfi",
+  "codes": {
+    "icao": "GMFI",
+    "iata": null,
+    "gps": "GMFI",
+    "local": null
+  },
+  "name": "Ifran Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.505299,
+    "longitude": -5.1529,
+    "elevation_ft": 5459,
+    "iso_country": "MA",
+    "iso_region": "MA-03",
+    "municipality": "Ifran"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ifrane_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3104
+  }
+}

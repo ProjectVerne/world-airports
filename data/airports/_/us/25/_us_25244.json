@@ -1,0 +1,33 @@
+{
+  "key": "_us_25244",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "FHP Hospital Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.716702,
+    "longitude": -111.889,
+    "elevation_ft": 4250,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Salt Lake City"
+  },
+  "keywords": [
+    "UT01",
+    "US-12310"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25244
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_15411",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "94CA",
+    "local": "94CA"
+  },
+  "name": "Kaiser Permanente Fontana Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.072585,
+    "longitude": -117.432514,
+    "elevation_ft": 1214,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Fontana"
+  },
+  "keywords": [
+    "fontana",
+    "kaiser permanente"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15411
+  }
+}

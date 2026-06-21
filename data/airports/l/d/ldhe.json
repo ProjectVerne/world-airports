@@ -1,0 +1,32 @@
+{
+  "key": "ldhe",
+  "codes": {
+    "icao": "LDHE",
+    "iata": null,
+    "gps": "LDHE",
+    "local": null
+  },
+  "name": "Cres Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.965682,
+    "longitude": 14.398595,
+    "elevation_ft": 131,
+    "iso_country": "HR",
+    "iso_region": "HR-08",
+    "municipality": "Cres Island"
+  },
+  "keywords": [
+    "Stara Gavza"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 604738
+  }
+}

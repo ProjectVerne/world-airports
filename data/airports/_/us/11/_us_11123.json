@@ -1,0 +1,32 @@
+{
+  "key": "_us_11123",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "45KY",
+    "local": "45KY"
+  },
+  "name": "Medical Center Albany Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.697903,
+    "longitude": -85.145764,
+    "elevation_ft": 955,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Albany"
+  },
+  "keywords": [
+    "Clinton County Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11123
+  }
+}

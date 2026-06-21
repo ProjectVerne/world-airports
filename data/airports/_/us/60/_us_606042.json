@@ -1,0 +1,32 @@
+{
+  "key": "_us_606042",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "76WI",
+    "local": "76WI"
+  },
+  "name": "Edgerton Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.835424,
+    "longitude": -89.044265,
+    "elevation_ft": 903,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Edgerton"
+  },
+  "keywords": [
+    "US-12928"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 606042
+  }
+}

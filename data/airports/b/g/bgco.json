@@ -1,0 +1,35 @@
+{
+  "key": "bgco",
+  "codes": {
+    "icao": "BGCO",
+    "iata": "CNP",
+    "gps": "BGCO",
+    "local": null
+  },
+  "name": "Neerlerit Inaat Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 70.743103,
+    "longitude": -22.650499,
+    "elevation_ft": 45,
+    "iso_country": "GL",
+    "iso_region": "GL-SE",
+    "municipality": "Neerlerit Inaat"
+  },
+  "keywords": [
+    "Constable Point",
+    "Mittarfik Nerlerit Inaat",
+    "Constable Pynt Lufthavn"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nerlerit_Inaat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30839
+  }
+}

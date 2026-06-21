@@ -1,0 +1,38 @@
+{
+  "key": "edcg",
+  "codes": {
+    "icao": "EDCG",
+    "iata": "GTI",
+    "gps": "EDCG",
+    "local": null
+  },
+  "name": "Rügen Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.38347,
+    "longitude": 13.325542,
+    "elevation_ft": 69,
+    "iso_country": "DE",
+    "iso_region": "DE-MV",
+    "municipality": "Dreschvitz"
+  },
+  "keywords": [
+    "Flugplatz Güttin / Rügen",
+    "Güttin Airfield",
+    "Ostsee-Flug-Rügen",
+    "Rugen",
+    "Ruegen",
+    "Rᵫgen"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/R%C3%BCgen_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28584
+  }
+}

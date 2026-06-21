@@ -1,0 +1,31 @@
+{
+  "key": "pagm",
+  "codes": {
+    "icao": "PAGM",
+    "iata": "GAM",
+    "gps": "PAGM",
+    "local": "GAM"
+  },
+  "name": "Gambell Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.767694,
+    "longitude": -171.733303,
+    "elevation_ft": 27,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Gambell"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gambell_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5368
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "aybs",
+  "codes": {
+    "icao": "AYBS",
+    "iata": null,
+    "gps": "AYBS",
+    "local": "BGI"
+  },
+  "name": "Begesin Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.388248,
+    "longitude": 145.447394,
+    "elevation_ft": 980,
+    "iso_country": "PG",
+    "iso_region": "PG-MPM",
+    "municipality": "Begesin"
+  },
+  "keywords": [
+    "BEG",
+    "Bagasin"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310531
+  }
+}

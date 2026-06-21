@@ -1,0 +1,33 @@
+{
+  "key": "rpmd",
+  "codes": {
+    "icao": "RPMD",
+    "iata": "DVO",
+    "gps": "RPMD",
+    "local": null
+  },
+  "name": "Francisco Bangoy International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.12552,
+    "longitude": 125.646004,
+    "elevation_ft": 96,
+    "iso_country": "PH",
+    "iso_region": "PH-DVO",
+    "municipality": "Davao"
+  },
+  "keywords": [
+    "Davao International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Bangoy_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5697
+  }
+}

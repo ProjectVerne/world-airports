@@ -1,0 +1,32 @@
+{
+  "key": "_us_17104",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "DC08",
+    "local": "DC08"
+  },
+  "name": "WHC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.929001,
+    "longitude": -77.016403,
+    "elevation_ft": 205,
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington"
+  },
+  "keywords": [
+    "WHC"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17104
+  }
+}

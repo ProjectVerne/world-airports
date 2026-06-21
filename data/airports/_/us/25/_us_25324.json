@@ -1,0 +1,30 @@
+{
+  "key": "_us_25324",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UT81",
+    "local": "UT81"
+  },
+  "name": "Blanding Ambulance Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.635601,
+    "longitude": -109.484001,
+    "elevation_ft": 5900,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Blanding"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25324
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08951",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "23MA",
+    "local": "23MA"
+  },
+  "name": "Westford Regency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.563099,
+    "longitude": -71.431396,
+    "elevation_ft": 255,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Westford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8951
+  }
+}

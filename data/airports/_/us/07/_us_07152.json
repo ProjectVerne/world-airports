@@ -1,0 +1,30 @@
+{
+  "key": "_us_07152",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0CT5",
+    "local": "0CT5"
+  },
+  "name": "St Francis Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.774502,
+    "longitude": -72.698997,
+    "elevation_ft": 184,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Hartford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7152
+  }
+}

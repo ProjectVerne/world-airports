@@ -1,0 +1,31 @@
+{
+  "key": "sbct",
+  "codes": {
+    "icao": "SBCT",
+    "iata": "CWB",
+    "gps": "SBCT",
+    "local": "PR0001"
+  },
+  "name": "Curitiba-Afonso Pena International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.5285,
+    "longitude": -49.1758,
+    "elevation_ft": 2988,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Curitiba"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Afonso_Pena_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5891
+  }
+}

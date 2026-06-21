@@ -1,0 +1,33 @@
+{
+  "key": "ysti",
+  "codes": {
+    "icao": "YSTI",
+    "iata": "STF",
+    "gps": "YSTI",
+    "local": "YSTI"
+  },
+  "name": "Stephens Island Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": -9.51,
+    "longitude": 143.55,
+    "elevation_ft": 0,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Stephens Island"
+  },
+  "keywords": [
+    "Ugar Island",
+    "Hogar Island"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 314925
+  }
+}

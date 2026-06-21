@@ -1,0 +1,31 @@
+{
+  "key": "scau",
+  "codes": {
+    "icao": "SCAU",
+    "iata": null,
+    "gps": "SCAU",
+    "local": null
+  },
+  "name": "Juan Enrique Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.893835,
+    "longitude": -70.885536,
+    "elevation_ft": 1263,
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Paine"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Juan_Enrique_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32257
+  }
+}

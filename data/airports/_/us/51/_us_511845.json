@@ -1,0 +1,30 @@
+{
+  "key": "_us_511845",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "47FA",
+    "local": "47FA"
+  },
+  "name": "Canal Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 25.023096,
+    "longitude": -80.4964,
+    "elevation_ft": 5,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Tavernier"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 511845
+  }
+}

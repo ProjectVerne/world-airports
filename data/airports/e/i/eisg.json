@@ -1,0 +1,31 @@
+{
+  "key": "eisg",
+  "codes": {
+    "icao": "EISG",
+    "iata": "SXL",
+    "gps": "EISG",
+    "local": null
+  },
+  "name": "Sligo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.280201,
+    "longitude": -8.59921,
+    "elevation_ft": 11,
+    "iso_country": "IE",
+    "iso_region": "IE-SO",
+    "municipality": "Sligo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sligo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2538
+  }
+}

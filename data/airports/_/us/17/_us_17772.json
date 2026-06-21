@@ -1,0 +1,30 @@
+{
+  "key": "_us_17772",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IA95",
+    "local": "IA95"
+  },
+  "name": "Hcph Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.4589,
+    "longitude": -93.823799,
+    "elevation_ft": 1080,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Webster City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17772
+  }
+}

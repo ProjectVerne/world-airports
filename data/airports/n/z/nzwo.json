@@ -1,0 +1,31 @@
+{
+  "key": "nzwo",
+  "codes": {
+    "icao": "NZWO",
+    "iata": "WIR",
+    "gps": "NZWO",
+    "local": null
+  },
+  "name": "Wairoa Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -39.011862,
+    "longitude": 177.404401,
+    "elevation_ft": 42,
+    "iso_country": "NZ",
+    "iso_region": "NZ-HKB",
+    "municipality": "Wairoa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wairoa_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5064
+  }
+}

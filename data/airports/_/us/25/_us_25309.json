@@ -1,0 +1,30 @@
+{
+  "key": "_us_25309",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UT66",
+    "local": "UT66"
+  },
+  "name": "Ward Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.599899,
+    "longitude": -111.801003,
+    "elevation_ft": 5000,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Sandy"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25309
+  }
+}

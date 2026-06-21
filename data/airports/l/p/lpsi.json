@@ -1,0 +1,32 @@
+{
+  "key": "lpsi",
+  "codes": {
+    "icao": "LPSI",
+    "iata": null,
+    "gps": "LPSI",
+    "local": null
+  },
+  "name": "Sines Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.954969,
+    "longitude": -8.879527,
+    "elevation_ft": 104,
+    "iso_country": "PT",
+    "iso_region": "PT-15",
+    "municipality": "Sines"
+  },
+  "keywords": [
+    "PT-0019"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43787
+  }
+}

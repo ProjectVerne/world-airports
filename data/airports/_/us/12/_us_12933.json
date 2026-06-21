@@ -1,0 +1,32 @@
+{
+  "key": "_us_12933",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "64AZ",
+    "local": "64AZ"
+  },
+  "name": "KSAZ-TV Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.448863,
+    "longitude": -112.081039,
+    "elevation_ft": 1120,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Phoenix"
+  },
+  "keywords": [
+    "KTSP Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12933
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "savb",
+  "codes": {
+    "icao": "SAVB",
+    "iata": "EHL",
+    "gps": "SAVB",
+    "local": "BOL"
+  },
+  "name": "El Bolsón Airfield",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -41.943199,
+    "longitude": -71.532303,
+    "elevation_ft": 1141,
+    "iso_country": "AR",
+    "iso_region": "AR-R",
+    "municipality": "El Bolsón"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Bols%C3%B3n_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5821
+  }
+}

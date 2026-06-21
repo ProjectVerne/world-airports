@@ -1,0 +1,34 @@
+{
+  "key": "kbmt",
+  "codes": {
+    "icao": "KBMT",
+    "iata": "BMT",
+    "gps": "KBMT",
+    "local": "BMT"
+  },
+  "name": "Beaumont Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.070635,
+    "longitude": -94.215746,
+    "elevation_ft": 32,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Beaumont"
+  },
+  "keywords": [
+    "beaumont",
+    "beaumont municipal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Beaumont_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19394
+  }
+}

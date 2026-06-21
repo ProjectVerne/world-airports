@@ -1,0 +1,31 @@
+{
+  "key": "oahn",
+  "codes": {
+    "icao": "OAHN",
+    "iata": "KWH",
+    "gps": "OAHN",
+    "local": null
+  },
+  "name": "Khwahan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.890021,
+    "longitude": 70.20383,
+    "elevation_ft": 3593,
+    "iso_country": "AF",
+    "iso_region": "AF-BDS",
+    "municipality": "Khwahan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Khwahan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31787
+  }
+}

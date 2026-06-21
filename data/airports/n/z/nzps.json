@@ -1,0 +1,30 @@
+{
+  "key": "nzps",
+  "codes": {
+    "icao": "NZPS",
+    "iata": null,
+    "gps": "NZPS",
+    "local": null
+  },
+  "name": "Paihia Waterfront Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -35.281885,
+    "longitude": 174.092937,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-NTL",
+    "municipality": "Paihia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605004
+  }
+}

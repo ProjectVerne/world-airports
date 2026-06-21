@@ -1,0 +1,32 @@
+{
+  "key": "_us_10676",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3NK1",
+    "local": "3NK1"
+  },
+  "name": "Catskills Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.708723,
+    "longitude": -74.736359,
+    "elevation_ft": 1250,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Monticello"
+  },
+  "keywords": [
+    "Community General Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10676
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "paph",
+  "codes": {
+    "icao": "PAPH",
+    "iata": "PTH",
+    "gps": "PAPH",
+    "local": "PTH"
+  },
+  "name": "Port Heiden Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.957893,
+    "longitude": -158.630219,
+    "elevation_ft": 95,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Port Heiden"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Heiden_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5399
+  }
+}

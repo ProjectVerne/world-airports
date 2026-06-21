@@ -1,0 +1,32 @@
+{
+  "key": "_us_509014",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "50MN",
+    "local": "50MN"
+  },
+  "name": "Ortonville Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.315511,
+    "longitude": -96.447029,
+    "elevation_ft": 1111,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Ortonville Hospital Heliport"
+  },
+  "keywords": [
+    "US-7734"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509014
+  }
+}

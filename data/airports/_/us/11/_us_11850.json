@@ -1,0 +1,32 @@
+{
+  "key": "_us_11850",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "50OK",
+    "local": "50OK"
+  },
+  "name": "Integris Southwest Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.423432,
+    "longitude": -97.533192,
+    "elevation_ft": 1260,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Oklahoma City"
+  },
+  "keywords": [
+    "Southwest Medical Center of Oklahoma Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11850
+  }
+}

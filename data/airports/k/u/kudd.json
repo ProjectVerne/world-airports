@@ -1,0 +1,31 @@
+{
+  "key": "kudd",
+  "codes": {
+    "icao": "KUDD",
+    "iata": "UDD",
+    "gps": "KUDD",
+    "local": "UDD"
+  },
+  "name": "Bermuda Dunes Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.748492,
+    "longitude": -116.275027,
+    "elevation_ft": 73,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Bermuda Dunes"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bermuda_Dunes_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21286
+  }
+}

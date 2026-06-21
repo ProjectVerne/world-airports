@@ -1,0 +1,30 @@
+{
+  "key": "_us_07864",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "13XS",
+    "local": "13XS"
+  },
+  "name": "Presbyterian Hospital Of Rockwall Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.884525,
+    "longitude": -96.464571,
+    "elevation_ft": 532,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Rockwall"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7864
+  }
+}

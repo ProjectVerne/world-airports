@@ -1,0 +1,31 @@
+{
+  "key": "rpvo",
+  "codes": {
+    "icao": "RPVO",
+    "iata": "OMC",
+    "gps": "RPVO",
+    "local": null
+  },
+  "name": "Ormoc Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.057715,
+    "longitude": 124.565622,
+    "elevation_ft": 83,
+    "iso_country": "PH",
+    "iso_region": "PH-LEY",
+    "municipality": "Ormoc City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ormoc_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5743
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_15527",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "97IS",
+    "local": "97IS"
+  },
+  "name": "St Johns Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.806702,
+    "longitude": -89.644402,
+    "elevation_ft": 632,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Springfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15527
+  }
+}

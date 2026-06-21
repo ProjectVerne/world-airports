@@ -1,0 +1,32 @@
+{
+  "key": "_us_23283",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM65",
+    "local": "NM65"
+  },
+  "name": "Taos County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.3677,
+    "longitude": -105.5774,
+    "elevation_ft": 7064,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Taos"
+  },
+  "keywords": [
+    "Holy Cross Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23283
+  }
+}

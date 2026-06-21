@@ -1,0 +1,33 @@
+{
+  "key": "_us_25429",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Harris Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.912601,
+    "longitude": -77.881699,
+    "elevation_ft": 566,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Rectortown"
+  },
+  "keywords": [
+    "VA97",
+    "US-12361"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25429
+  }
+}

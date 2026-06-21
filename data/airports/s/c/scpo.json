@@ -1,0 +1,31 @@
+{
+  "key": "scpo",
+  "codes": {
+    "icao": "SCPO",
+    "iata": null,
+    "gps": "SCPO",
+    "local": null
+  },
+  "name": "Los Paltos Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.328056,
+    "longitude": -70.964165,
+    "elevation_ft": 869,
+    "iso_country": "CL",
+    "iso_region": "CL-LI",
+    "municipality": "Quinta de Tilcoco"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Isla_Picton_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39247
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_at_515409",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LODA",
+    "local": null
+  },
+  "name": "Leoben Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.38066,
+    "longitude": 15.08471,
+    "elevation_ft": 1911,
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Leoben"
+  },
+  "keywords": [
+    "AT-0023"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 515409
+  }
+}

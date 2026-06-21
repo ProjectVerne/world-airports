@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01080",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJJ4",
+    "local": "CJJ4"
+  },
+  "name": "Deloraine Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.1506,
+    "longitude": -100.500999,
+    "elevation_ft": 1680,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Deloraine"
+  },
+  "keywords": [
+    "JJ4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Deloraine_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1080
+  }
+}

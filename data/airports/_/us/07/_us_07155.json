@@ -1,0 +1,30 @@
+{
+  "key": "_us_07155",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0CT8",
+    "local": "0CT8"
+  },
+  "name": "Danbury Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.405297,
+    "longitude": -73.445165,
+    "elevation_ft": 510,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Danbury"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7155
+  }
+}

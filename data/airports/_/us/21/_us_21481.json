@@ -1,0 +1,30 @@
+{
+  "key": "_us_21481",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LA14",
+    "local": "LA14"
+  },
+  "name": "Coffman Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.510555,
+    "longitude": -92.150833,
+    "elevation_ft": 80,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "West Monroe"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21481
+  }
+}

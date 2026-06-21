@@ -1,0 +1,32 @@
+{
+  "key": "_us_344003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "San Carlos Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.3706,
+    "longitude": -110.45668,
+    "elevation_ft": 2844,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "San Carlos"
+  },
+  "keywords": [
+    "US-3908"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 344003
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_25403",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Aden Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.648499,
+    "longitude": -77.532799,
+    "elevation_ft": 210,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Manassas"
+  },
+  "keywords": [
+    "VA71",
+    "US-12351"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25403
+  }
+}

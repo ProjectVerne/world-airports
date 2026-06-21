@@ -1,0 +1,33 @@
+{
+  "key": "ncmr",
+  "codes": {
+    "icao": "NCMR",
+    "iata": "MOI",
+    "gps": "NCMR",
+    "local": null
+  },
+  "name": "Mitiaro Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.842501,
+    "longitude": -157.703003,
+    "elevation_ft": 25,
+    "iso_country": "CK",
+    "iso_region": "CK-U-A",
+    "municipality": "Mitiaro Island"
+  },
+  "keywords": [
+    "Nukuroa Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mitiaro_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31933
+  }
+}

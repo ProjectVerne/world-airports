@@ -1,0 +1,34 @@
+{
+  "key": "egaa",
+  "codes": {
+    "icao": "EGAA",
+    "iata": "BFS",
+    "gps": "EGAA",
+    "local": null
+  },
+  "name": "Belfast International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.657501,
+    "longitude": -6.21583,
+    "elevation_ft": 268,
+    "iso_country": "GB",
+    "iso_region": "GB-NIR",
+    "municipality": "Belfast"
+  },
+  "keywords": [
+    "Aldergrove",
+    "RAF Aldergrove"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Belfast_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2385
+  }
+}

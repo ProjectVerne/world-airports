@@ -1,0 +1,31 @@
+{
+  "key": "sawp",
+  "codes": {
+    "icao": "SAWP",
+    "iata": "PMQ",
+    "gps": "SAWP",
+    "local": "PTM"
+  },
+  "name": "Perito Moreno Jalil Hamer Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -46.537899,
+    "longitude": -70.978699,
+    "elevation_ft": 1410,
+    "iso_country": "AR",
+    "iso_region": "AR-Z",
+    "municipality": "Perito Moreno"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Perito_Moreno_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5838
+  }
+}

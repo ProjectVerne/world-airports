@@ -1,0 +1,35 @@
+{
+  "key": "ehte",
+  "codes": {
+    "icao": "EHTE",
+    "iata": null,
+    "gps": "EHTE",
+    "local": null
+  },
+  "name": "Teuge Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.242764,
+    "longitude": 6.050004,
+    "elevation_ft": 17,
+    "iso_country": "NL",
+    "iso_region": "NL-GE",
+    "municipality": "Deventer"
+  },
+  "keywords": [
+    "Teuge",
+    "Apeldoorn",
+    "Deventer"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Teuge_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28126
+  }
+}

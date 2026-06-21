@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01561",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CST5",
+    "local": "CST5"
+  },
+  "name": "Sable Island Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.933102,
+    "longitude": -60.0056,
+    "elevation_ft": 15,
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Sable Island"
+  },
+  "keywords": [
+    "ST5"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1561
+  }
+}

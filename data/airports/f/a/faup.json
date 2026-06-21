@@ -1,0 +1,33 @@
+{
+  "key": "faup",
+  "codes": {
+    "icao": "FAUP",
+    "iata": "UTN",
+    "gps": "FAUP",
+    "local": null
+  },
+  "name": "Upington Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -28.400246,
+    "longitude": 21.263592,
+    "elevation_ft": 2782,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Upington"
+  },
+  "keywords": [
+    "Pierre van Ryneveld"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Upington_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2847
+  }
+}

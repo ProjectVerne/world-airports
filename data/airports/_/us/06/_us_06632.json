@@ -1,0 +1,30 @@
+{
+  "key": "_us_06632",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01WA",
+    "local": "01WA"
+  },
+  "name": "Willapa Harbor Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.6632,
+    "longitude": -123.811996,
+    "elevation_ft": 154,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "South Bend"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6632
+  }
+}

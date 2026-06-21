@@ -1,0 +1,31 @@
+{
+  "key": "egto",
+  "codes": {
+    "icao": "EGTO",
+    "iata": "RCS",
+    "gps": "EGTO",
+    "local": null
+  },
+  "name": "Rochester Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.351898,
+    "longitude": 0.503333,
+    "elevation_ft": 436,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Rochester, Kent"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rochester_Airport_%28England%29",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29200
+  }
+}

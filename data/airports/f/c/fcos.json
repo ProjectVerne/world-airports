@@ -1,0 +1,31 @@
+{
+  "key": "fcos",
+  "codes": {
+    "icao": "FCOS",
+    "iata": "SOE",
+    "gps": "FCOS",
+    "local": null
+  },
+  "name": "Souanke Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.998326,
+    "longitude": 14.174217,
+    "elevation_ft": 1722,
+    "iso_country": "CG",
+    "iso_region": "CG-13",
+    "municipality": "Souanke"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Souank%C3%A9_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32344
+  }
+}

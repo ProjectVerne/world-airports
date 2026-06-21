@@ -1,0 +1,31 @@
+{
+  "key": "lktb",
+  "codes": {
+    "icao": "LKTB",
+    "iata": "BRQ",
+    "gps": "LKTB",
+    "local": null
+  },
+  "name": "Brno-Tuřany Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.151276,
+    "longitude": 16.693972,
+    "elevation_ft": 778,
+    "iso_country": "CZ",
+    "iso_region": "CZ-JM",
+    "municipality": "Brno"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brno-Tu%C5%99any_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4409
+  }
+}

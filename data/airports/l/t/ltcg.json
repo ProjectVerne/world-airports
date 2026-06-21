@@ -1,0 +1,31 @@
+{
+  "key": "ltcg",
+  "codes": {
+    "icao": "LTCG",
+    "iata": "TZX",
+    "gps": "LTCG",
+    "local": null
+  },
+  "name": "Trabzon International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.995098,
+    "longitude": 39.7897,
+    "elevation_ft": 104,
+    "iso_country": "TR",
+    "iso_region": "TR-61",
+    "municipality": "Trabzon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Trabzon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4553
+  }
+}

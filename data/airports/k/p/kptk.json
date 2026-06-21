@@ -1,0 +1,34 @@
+{
+  "key": "kptk",
+  "codes": {
+    "icao": "KPTK",
+    "iata": "PTK",
+    "gps": "KPTK",
+    "local": "PTK"
+  },
+  "name": "Oakland County International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.665501,
+    "longitude": -83.420097,
+    "elevation_ft": 980,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Pontiac"
+  },
+  "keywords": [
+    "Pontiac Municipal Airport",
+    "Oakland-Pontiac Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Oakland_County_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3793
+  }
+}

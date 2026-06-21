@@ -1,0 +1,33 @@
+{
+  "key": "llrd",
+  "codes": {
+    "icao": "LLRD",
+    "iata": null,
+    "gps": "LLRD",
+    "local": null
+  },
+  "name": "Ramat David Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.6651,
+    "longitude": 35.179501,
+    "elevation_ft": 185,
+    "iso_country": "IL",
+    "iso_region": "IL-Z",
+    "municipality": "Haifa"
+  },
+  "keywords": [
+    "RAF Ramat David"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ramat_David_Airbase",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4424
+  }
+}

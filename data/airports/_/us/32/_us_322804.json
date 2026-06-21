@@ -1,0 +1,32 @@
+{
+  "key": "_us_322804",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT04",
+    "local": "CT04"
+  },
+  "name": "Chase Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.7896,
+    "longitude": -72.799112,
+    "elevation_ft": 700,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "West Hartford"
+  },
+  "keywords": [
+    "US-0523"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322804
+  }
+}

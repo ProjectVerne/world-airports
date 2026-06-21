@@ -1,0 +1,30 @@
+{
+  "key": "_br_35679",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDPT",
+    "local": "SP0407"
+  },
+  "name": "Parque Paulista Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.560265,
+    "longitude": -46.659299,
+    "elevation_ft": 2900,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Paulo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35679
+  }
+}

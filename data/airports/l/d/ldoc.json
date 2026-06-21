@@ -1,0 +1,30 @@
+{
+  "key": "ldoc",
+  "codes": {
+    "icao": "LDOC",
+    "iata": null,
+    "gps": "LDOC",
+    "local": null
+  },
+  "name": "Osijek-Čepin Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.542778,
+    "longitude": 18.631944,
+    "elevation_ft": 299,
+    "iso_country": "HR",
+    "iso_region": "HR-14",
+    "municipality": "Osijek"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3985
+  }
+}

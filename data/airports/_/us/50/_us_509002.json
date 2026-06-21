@@ -1,0 +1,32 @@
+{
+  "key": "_us_509002",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "New Mexico State Government Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.56984,
+    "longitude": -106.09058,
+    "elevation_ft": 6201,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Santa Fe"
+  },
+  "keywords": [
+    "US-7725"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509002
+  }
+}

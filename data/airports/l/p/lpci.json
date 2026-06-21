@@ -1,0 +1,31 @@
+{
+  "key": "lpci",
+  "codes": {
+    "icao": "LPCI",
+    "iata": null,
+    "gps": "LPCI",
+    "local": null
+  },
+  "name": "Coimbra University Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.219877,
+    "longitude": -8.413009,
+    "elevation_ft": 331,
+    "iso_country": "PT",
+    "iso_region": "PT-06",
+    "municipality": "Coimbra"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hospitais_da_Universidade_de_Coimbra",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 321241
+  }
+}

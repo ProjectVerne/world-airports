@@ -1,0 +1,34 @@
+{
+  "key": "kpob",
+  "codes": {
+    "icao": "KPOB",
+    "iata": "POB",
+    "gps": "KPOB",
+    "local": "POB"
+  },
+  "name": "Pope Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.170898,
+    "longitude": -79.014503,
+    "elevation_ft": 217,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Fort Bragg"
+  },
+  "keywords": [
+    "Pope AFB",
+    "Pope Army Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pope_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3784
+  }
+}

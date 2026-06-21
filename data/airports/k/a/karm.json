@@ -1,0 +1,33 @@
+{
+  "key": "karm",
+  "codes": {
+    "icao": "KARM",
+    "iata": "WHT",
+    "gps": "KARM",
+    "local": "ARM"
+  },
+  "name": "Wharton Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.254299,
+    "longitude": -96.154404,
+    "elevation_ft": 100,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Wharton"
+  },
+  "keywords": [
+    "5R5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wharton_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19304
+  }
+}

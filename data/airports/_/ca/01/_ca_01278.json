@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01278",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CMC2",
+    "local": "CMC2"
+  },
+  "name": "Edmonton / Misericordia (Community Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.520377,
+    "longitude": -113.611055,
+    "elevation_ft": 2320,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Edmonton"
+  },
+  "keywords": [
+    "MC2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1278
+  }
+}

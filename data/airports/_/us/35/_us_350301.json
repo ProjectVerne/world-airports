@@ -1,0 +1,32 @@
+{
+  "key": "_us_350301",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "34NJ",
+    "local": "34NJ"
+  },
+  "name": "Blews Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.50342,
+    "longitude": -75.171193,
+    "elevation_ft": 30,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Bridgeton"
+  },
+  "keywords": [
+    "US-5935"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350301
+  }
+}

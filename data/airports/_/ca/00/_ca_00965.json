@@ -1,0 +1,38 @@
+{
+  "key": "_ca_00965",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Hamburg Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 57.355285,
+    "longitude": -119.76531,
+    "elevation_ft": 2540,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Manning"
+  },
+  "keywords": [
+    "FM5",
+    "CFM5",
+    "Apache/Hamburg",
+    "Shell/Hamburg",
+    "Apache",
+    "CA-1037"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Apache/Hamburg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 965
+  }
+}

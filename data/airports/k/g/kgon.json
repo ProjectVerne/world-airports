@@ -1,0 +1,33 @@
+{
+  "key": "kgon",
+  "codes": {
+    "icao": "KGON",
+    "iata": "GON",
+    "gps": "KGON",
+    "local": "GON"
+  },
+  "name": "Groton New London Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.330101,
+    "longitude": -72.045097,
+    "elevation_ft": 9,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Groton"
+  },
+  "keywords": [
+    "New London"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Groton-New_London_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3560
+  }
+}

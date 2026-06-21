@@ -1,0 +1,32 @@
+{
+  "key": "_fk_322402",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "San Carlos Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": -51.575581,
+    "longitude": -59.041846,
+    "elevation_ft": 0,
+    "iso_country": "FK",
+    "iso_region": "FK-U-A",
+    "municipality": "San Carlos"
+  },
+  "keywords": [
+    "FK-0021"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322402
+  }
+}

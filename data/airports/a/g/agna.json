@@ -1,0 +1,30 @@
+{
+  "key": "agna",
+  "codes": {
+    "icao": "AGNA",
+    "iata": "NAZ",
+    "gps": "AGNA",
+    "local": null
+  },
+  "name": "Nana Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -10.6758,
+    "longitude": 162.2049,
+    "elevation_ft": 60,
+    "iso_country": "SB",
+    "iso_region": "SB-MK",
+    "municipality": "Star Harbor"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310002
+  }
+}

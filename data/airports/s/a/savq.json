@@ -1,0 +1,30 @@
+{
+  "key": "savq",
+  "codes": {
+    "icao": "SAVQ",
+    "iata": "MQD",
+    "gps": "SAVQ",
+    "local": "MAQ"
+  },
+  "name": "Maquinchao Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -41.243099,
+    "longitude": -68.707802,
+    "elevation_ft": 2912,
+    "iso_country": "AR",
+    "iso_region": "AR-R",
+    "municipality": "Maquinchao"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30113
+  }
+}

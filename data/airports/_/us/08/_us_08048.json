@@ -1,0 +1,30 @@
+{
+  "key": "_us_08048",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "17MA",
+    "local": "17MA"
+  },
+  "name": "Long Hill Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.504799,
+    "longitude": -71.778397,
+    "elevation_ft": 630,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Leominster"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8048
+  }
+}

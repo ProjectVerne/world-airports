@@ -1,0 +1,31 @@
+{
+  "key": "etns",
+  "codes": {
+    "icao": "ETNS",
+    "iata": "WBG",
+    "gps": "ETNS",
+    "local": null
+  },
+  "name": "Schleswig Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.459301,
+    "longitude": 9.51633,
+    "elevation_ft": 70,
+    "iso_country": "DE",
+    "iso_region": "DE-SH",
+    "municipality": "Jagel"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Schleswig_Air_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2741
+  }
+}

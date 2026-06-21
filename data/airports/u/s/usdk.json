@@ -1,0 +1,32 @@
+{
+  "key": "usdk",
+  "codes": {
+    "icao": "USDK",
+    "iata": "YMK",
+    "gps": "USDK",
+    "local": null
+  },
+  "name": "Mys Kamenny Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 68.467676,
+    "longitude": 73.596733,
+    "elevation_ft": 3,
+    "iso_country": "RU",
+    "iso_region": "RU-YAN",
+    "municipality": "Mys Kamennyi"
+  },
+  "keywords": [
+    "Аэропорт Мыс Каменный"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32551
+  }
+}

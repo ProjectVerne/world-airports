@@ -1,0 +1,30 @@
+{
+  "key": "_us_22521",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MU26",
+    "local": "MU26"
+  },
+  "name": "Robinson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.77083,
+    "longitude": -94.559133,
+    "elevation_ft": 1080,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Belton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22521
+  }
+}

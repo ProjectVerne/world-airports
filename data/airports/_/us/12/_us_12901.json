@@ -1,0 +1,30 @@
+{
+  "key": "_us_12901",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "63IA",
+    "local": "63IA"
+  },
+  "name": "Davis County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.7593,
+    "longitude": -92.415497,
+    "elevation_ft": 890,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Bloomfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12901
+  }
+}

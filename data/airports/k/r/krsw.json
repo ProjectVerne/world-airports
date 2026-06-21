@@ -1,0 +1,31 @@
+{
+  "key": "krsw",
+  "codes": {
+    "icao": "KRSW",
+    "iata": "RSW",
+    "gps": "KRSW",
+    "local": "RSW"
+  },
+  "name": "Southwest Florida International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.534685,
+    "longitude": -81.752816,
+    "elevation_ft": 30,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Fort Myers"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Southwest_Florida_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3858
+  }
+}

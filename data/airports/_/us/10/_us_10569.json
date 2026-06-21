@@ -1,0 +1,30 @@
+{
+  "key": "_us_10569",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3LL0",
+    "local": "3LL0"
+  },
+  "name": "Miller Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.491699,
+    "longitude": -89.095901,
+    "elevation_ft": 760,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "South Beloit"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10569
+  }
+}

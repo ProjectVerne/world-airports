@@ -1,0 +1,32 @@
+{
+  "key": "svga",
+  "codes": {
+    "icao": "SVGA",
+    "iata": null,
+    "gps": "SVGA",
+    "local": null
+  },
+  "name": "La Paragua Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.835093,
+    "longitude": -63.34949,
+    "elevation_ft": 797,
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "La Paragua"
+  },
+  "keywords": [
+    "SVPU"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40255
+  }
+}

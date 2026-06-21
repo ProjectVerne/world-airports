@@ -1,0 +1,32 @@
+{
+  "key": "_us_08339",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1ID9",
+    "local": "1ID9"
+  },
+  "name": "Simko Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.763785,
+    "longitude": -112.185026,
+    "elevation_ft": 6150,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Inkom"
+  },
+  "keywords": [
+    "Skyline STOLport / Airport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8339
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "kmio",
+  "codes": {
+    "icao": "KMIO",
+    "iata": "MIO",
+    "gps": "KMIO",
+    "local": "MIO"
+  },
+  "name": "Miami Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.909199,
+    "longitude": -94.887497,
+    "elevation_ft": 808,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Miami"
+  },
+  "keywords": [
+    "Miami Municipal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Miami_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20509
+  }
+}

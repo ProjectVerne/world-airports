@@ -1,0 +1,32 @@
+{
+  "key": "_us_329541",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "76XS",
+    "local": "76XS"
+  },
+  "name": "LQLZ Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.987475,
+    "longitude": -96.952806,
+    "elevation_ft": 320,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "La Grange"
+  },
+  "keywords": [
+    "US-0994"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 329541
+  }
+}

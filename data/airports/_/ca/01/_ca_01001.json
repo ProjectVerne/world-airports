@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01001",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFU4",
+    "local": "CFU4"
+  },
+  "name": "Garden River Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.713902,
+    "longitude": -113.875999,
+    "elevation_ft": 790,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Garden River"
+  },
+  "keywords": [
+    "FU4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Garden_River_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1001
+  }
+}

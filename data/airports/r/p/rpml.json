@@ -1,0 +1,35 @@
+{
+  "key": "rpml",
+  "codes": {
+    "icao": "RPML",
+    "iata": null,
+    "gps": "RPML",
+    "local": null
+  },
+  "name": "Lumbia Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.415154,
+    "longitude": 124.611171,
+    "elevation_ft": 601,
+    "iso_country": "PH",
+    "iso_region": "PH-CGY",
+    "municipality": "Cagayan de Oro"
+  },
+  "keywords": [
+    "CGY",
+    "Cagayan de Oro Airport",
+    "Lumbia Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lumbia_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5704
+  }
+}

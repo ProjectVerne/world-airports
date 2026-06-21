@@ -1,0 +1,30 @@
+{
+  "key": "lpvc",
+  "codes": {
+    "icao": "LPVC",
+    "iata": null,
+    "gps": "LPVC",
+    "local": null
+  },
+  "name": "Viana do Castelo Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.697716,
+    "longitude": -8.831498,
+    "elevation_ft": 135,
+    "iso_country": "PT",
+    "iso_region": "PT-16",
+    "municipality": "Viana do Castelo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 321254
+  }
+}

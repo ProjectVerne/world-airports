@@ -1,0 +1,33 @@
+{
+  "key": "scse",
+  "codes": {
+    "icao": "SCSE",
+    "iata": "LSC",
+    "gps": "SCSE",
+    "local": null
+  },
+  "name": "La Florida Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.916201,
+    "longitude": -71.199501,
+    "elevation_ft": 481,
+    "iso_country": "CL",
+    "iso_region": "CL-CO",
+    "municipality": "La Serena-Coquimbo"
+  },
+  "keywords": [
+    "COW"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Florida_Airport_(Chile)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6040
+  }
+}

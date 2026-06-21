@@ -1,0 +1,32 @@
+{
+  "key": "_us_325489",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "HI02",
+    "local": "HI02"
+  },
+  "name": "Manele Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 20.745933,
+    "longitude": -156.913039,
+    "elevation_ft": 475,
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Lanai"
+  },
+  "keywords": [
+    "US-0719"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325489
+  }
+}

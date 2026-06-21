@@ -1,0 +1,30 @@
+{
+  "key": "_us_25046",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS30",
+    "local": "TS30"
+  },
+  "name": "Wilbarger General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.159302,
+    "longitude": -99.3162,
+    "elevation_ft": 1226,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Vernon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25046
+  }
+}

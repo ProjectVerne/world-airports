@@ -1,0 +1,30 @@
+{
+  "key": "oanz",
+  "codes": {
+    "icao": "OANZ",
+    "iata": "IMZ",
+    "gps": "OANZ",
+    "local": null
+  },
+  "name": "Nimroz Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.963333,
+    "longitude": 62.060833,
+    "elevation_ft": 1581,
+    "iso_country": "AF",
+    "iso_region": "AF-NIM",
+    "municipality": "Ziarat-e Amiran Saseb"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 525033
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_520193",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "72WI",
+    "local": "72WI"
+  },
+  "name": "MHLC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.658592,
+    "longitude": -90.131006,
+    "elevation_ft": 986,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Darlington"
+  },
+  "keywords": [
+    "US-8412"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 520193
+  }
+}

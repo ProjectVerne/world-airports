@@ -1,0 +1,31 @@
+{
+  "key": "egnm",
+  "codes": {
+    "icao": "EGNM",
+    "iata": "LBA",
+    "gps": "EGNM",
+    "local": null
+  },
+  "name": "Leeds Bradford Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.865898,
+    "longitude": -1.66057,
+    "elevation_ft": 681,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Leeds, West Yorkshire"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Leeds_Bradford_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2444
+  }
+}

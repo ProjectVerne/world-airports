@@ -1,0 +1,33 @@
+{
+  "key": "opsr",
+  "codes": {
+    "icao": "OPSR",
+    "iata": "SGI",
+    "gps": "OPSR",
+    "local": null
+  },
+  "name": "Mushaf Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.048599,
+    "longitude": 72.665001,
+    "elevation_ft": 614,
+    "iso_country": "PK",
+    "iso_region": "PK-PB",
+    "municipality": "Sargodha"
+  },
+  "keywords": [
+    "BHW"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mushaf_Airbase",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32290
+  }
+}

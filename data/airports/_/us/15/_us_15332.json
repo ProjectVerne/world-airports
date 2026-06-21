@@ -1,0 +1,30 @@
+{
+  "key": "_us_15332",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "91VA",
+    "local": "91VA"
+  },
+  "name": "Miller Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.327599,
+    "longitude": -79.4048,
+    "elevation_ft": 760,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Bedford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15332
+  }
+}

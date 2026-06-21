@@ -1,0 +1,31 @@
+{
+  "key": "egew",
+  "codes": {
+    "icao": "EGEW",
+    "iata": "WRY",
+    "gps": "EGEW",
+    "local": null
+  },
+  "name": "Westray Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.350475,
+    "longitude": -2.950062,
+    "elevation_ft": 29,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Westray, Orkney Islands"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Westray_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29134
+  }
+}

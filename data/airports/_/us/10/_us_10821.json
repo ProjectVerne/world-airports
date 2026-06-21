@@ -1,0 +1,30 @@
+{
+  "key": "_us_10821",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3TS2",
+    "local": "3TS2"
+  },
+  "name": "West Hospital Authority Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.816401,
+    "longitude": -97.092796,
+    "elevation_ft": 650,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "West"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10821
+  }
+}

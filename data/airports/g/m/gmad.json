@@ -1,0 +1,31 @@
+{
+  "key": "gmad",
+  "codes": {
+    "icao": "GMAD",
+    "iata": "AGA",
+    "gps": "GMAD",
+    "local": null
+  },
+  "name": "Al Massira Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.322478,
+    "longitude": -9.412003,
+    "elevation_ft": 250,
+    "iso_country": "MA",
+    "iso_region": "MA-09",
+    "municipality": "Agadir (Temsia)"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Al_Massira_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3101
+  }
+}

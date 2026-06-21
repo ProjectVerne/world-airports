@@ -1,0 +1,32 @@
+{
+  "key": "_us_523920",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AZ42",
+    "local": "AZ42"
+  },
+  "name": "White Hills Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.723878,
+    "longitude": -114.486428,
+    "elevation_ft": 2415,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "White Hills"
+  },
+  "keywords": [
+    "US-8440"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 523920
+  }
+}

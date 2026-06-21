@@ -1,0 +1,33 @@
+{
+  "key": "cymx",
+  "codes": {
+    "icao": "CYMX",
+    "iata": "YMX",
+    "gps": "CYMX",
+    "local": null
+  },
+  "name": "Montreal Mirabel International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.679501,
+    "longitude": -74.038696,
+    "elevation_ft": 270,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [
+    "YMQ"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Montr%C3%A9al-Mirabel_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1820
+  }
+}

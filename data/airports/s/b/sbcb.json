@@ -1,0 +1,31 @@
+{
+  "key": "sbcb",
+  "codes": {
+    "icao": "SBCB",
+    "iata": "CFB",
+    "gps": "SBCB",
+    "local": "RJ0003"
+  },
+  "name": "Cabo Frio Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.921485,
+    "longitude": -42.071874,
+    "elevation_ft": 22,
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Cabo Frio"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cabo_Frio_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5879
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "past",
+  "codes": {
+    "icao": "PAST",
+    "iata": "UMM",
+    "gps": "PAST",
+    "local": "UMM"
+  },
+  "name": "Summit Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.331501,
+    "longitude": -149.126999,
+    "elevation_ft": 2409,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Cantwell"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Summit_Airport_(Alaska)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25241
+  }
+}

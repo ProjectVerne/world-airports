@@ -1,0 +1,31 @@
+{
+  "key": "ldsh",
+  "codes": {
+    "icao": "LDSH",
+    "iata": null,
+    "gps": "LDSH",
+    "local": null
+  },
+  "name": "Hvar Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.181702,
+    "longitude": 16.633301,
+    "elevation_ft": 92,
+    "iso_country": "HR",
+    "iso_region": "HR-17",
+    "municipality": "Hvar Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://hr.wikipedia.org/wiki/Aerodrom_Hvar",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29968
+  }
+}

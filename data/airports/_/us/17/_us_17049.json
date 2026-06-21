@@ -1,0 +1,30 @@
+{
+  "key": "_us_17049",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT95",
+    "local": "CT95"
+  },
+  "name": "Meriden-Wallingford Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.533401,
+    "longitude": -72.809799,
+    "elevation_ft": 145,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Meriden"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17049
+  }
+}

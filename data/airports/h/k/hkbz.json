@@ -1,0 +1,32 @@
+{
+  "key": "hkbz",
+  "codes": {
+    "icao": "HKBZ",
+    "iata": null,
+    "gps": "HKBZ",
+    "local": null
+  },
+  "name": "Buna Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 2.801467,
+    "longitude": 39.481064,
+    "elevation_ft": 1642,
+    "iso_country": "KE",
+    "iso_region": "KE-08",
+    "municipality": "Buna"
+  },
+  "keywords": [
+    "KE-0102"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 318705
+  }
+}

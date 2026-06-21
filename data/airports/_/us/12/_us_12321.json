@@ -1,0 +1,30 @@
+{
+  "key": "_us_12321",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5CT1",
+    "local": "5CT1"
+  },
+  "name": "Rondo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.5084,
+    "longitude": -73.0373,
+    "elevation_ft": 530,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Nangatuck"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12321
+  }
+}

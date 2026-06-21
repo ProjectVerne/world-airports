@@ -1,0 +1,33 @@
+{
+  "key": "svod",
+  "codes": {
+    "icao": "SVOD",
+    "iata": null,
+    "gps": "SVOD",
+    "local": null
+  },
+  "name": "BOD Tower Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 10.211607,
+    "longitude": -68.003976,
+    "elevation_ft": 1608,
+    "iso_country": "VE",
+    "iso_region": "VE-G",
+    "municipality": "Valencia"
+  },
+  "keywords": [
+    "Torre BOD",
+    "VE-0244"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 597305
+  }
+}

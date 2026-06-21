@@ -1,0 +1,31 @@
+{
+  "key": "kcsm",
+  "codes": {
+    "icao": "KCSM",
+    "iata": "CSM",
+    "gps": "KCSM",
+    "local": "CSM"
+  },
+  "name": "Clinton Sherman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.339802,
+    "longitude": -99.2005,
+    "elevation_ft": 1922,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Clinton"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Clinton-Sherman_Industrial_Airpark",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19558
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "panu",
+  "codes": {
+    "icao": "PANU",
+    "iata": "NUL",
+    "gps": "PANU",
+    "local": "NUL"
+  },
+  "name": "Nulato Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.729301,
+    "longitude": -158.074005,
+    "elevation_ft": 399,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Nulato"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nulato_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5417
+  }
+}

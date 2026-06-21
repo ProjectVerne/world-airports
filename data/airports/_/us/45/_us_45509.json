@@ -1,0 +1,32 @@
+{
+  "key": "_us_45509",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MT18",
+    "local": "MT18"
+  },
+  "name": "Torres Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.287534,
+    "longitude": -114.183698,
+    "elevation_ft": 3078,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Columbia Falls"
+  },
+  "keywords": [
+    "Hoerner"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45509
+  }
+}

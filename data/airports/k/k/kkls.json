@@ -1,0 +1,34 @@
+{
+  "key": "kkls",
+  "codes": {
+    "icao": "KKLS",
+    "iata": "KLS",
+    "gps": "KKLS",
+    "local": "KLS"
+  },
+  "name": "Southwest Washington Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.118,
+    "longitude": -122.898003,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Kelso"
+  },
+  "keywords": [
+    "Molt Taylor Field",
+    "Kelso-Longview Regional"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Southwest_Washington_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20277
+  }
+}

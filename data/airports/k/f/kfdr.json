@@ -1,0 +1,33 @@
+{
+  "key": "kfdr",
+  "codes": {
+    "icao": "KFDR",
+    "iata": "FDR",
+    "gps": "KFDR",
+    "local": "FDR"
+  },
+  "name": "Frederick Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.352001,
+    "longitude": -98.983902,
+    "elevation_ft": 1258,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Frederick"
+  },
+  "keywords": [
+    "Frederick Army Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19855
+  }
+}

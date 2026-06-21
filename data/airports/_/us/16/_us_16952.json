@@ -1,0 +1,33 @@
+{
+  "key": "_us_16952",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Denver ARTCC Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.1882,
+    "longitude": -105.12652,
+    "elevation_ft": 5057,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Longmont"
+  },
+  "keywords": [
+    "CO99",
+    "US-11203"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16952
+  }
+}

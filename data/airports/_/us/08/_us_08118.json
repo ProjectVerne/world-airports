@@ -1,0 +1,30 @@
+{
+  "key": "_us_08118",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "18TE",
+    "local": "18TE"
+  },
+  "name": "Alert Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.585201,
+    "longitude": -95.063904,
+    "elevation_ft": 390,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Big Sandy"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8118
+  }
+}

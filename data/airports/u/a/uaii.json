@@ -1,0 +1,35 @@
+{
+  "key": "uaii",
+  "codes": {
+    "icao": "UAII",
+    "iata": "CIT",
+    "gps": "UAII",
+    "local": null
+  },
+  "name": "Shymkent International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.365021,
+    "longitude": 69.47564,
+    "elevation_ft": 1385,
+    "iso_country": "KZ",
+    "iso_region": "KZ-YUZ",
+    "municipality": "Shymkent"
+  },
+  "keywords": [
+    "Chimkent Airport",
+    "Аэропорт Шымкент",
+    "Аэропорт Чимкент"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shymkent_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6429
+  }
+}

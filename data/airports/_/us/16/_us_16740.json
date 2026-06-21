@@ -1,0 +1,30 @@
+{
+  "key": "_us_16740",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CL21",
+    "local": "CL21"
+  },
+  "name": "Sutter Amador Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.349998,
+    "longitude": -120.763,
+    "elevation_ft": 1246,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Jackson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16740
+  }
+}

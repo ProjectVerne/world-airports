@@ -1,0 +1,30 @@
+{
+  "key": "_us_23178",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NK45",
+    "local": "NK45"
+  },
+  "name": "St Charles Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.946499,
+    "longitude": -73.060898,
+    "elevation_ft": 500,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Port Jefferson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23178
+  }
+}

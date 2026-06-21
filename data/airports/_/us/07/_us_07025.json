@@ -1,0 +1,30 @@
+{
+  "key": "_us_07025",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "09I",
+    "local": "09I"
+  },
+  "name": "International Falls Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 48.605801,
+    "longitude": -93.370796,
+    "elevation_ft": 1110,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "International Falls"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7025
+  }
+}

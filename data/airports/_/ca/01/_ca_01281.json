@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01281",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CMI2",
+    "local": "CMI2"
+  },
+  "name": "Minden (Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.924702,
+    "longitude": -78.729401,
+    "elevation_ft": 905,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Minden"
+  },
+  "keywords": [
+    "MI2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1281
+  }
+}

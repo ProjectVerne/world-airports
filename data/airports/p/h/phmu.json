@@ -1,0 +1,31 @@
+{
+  "key": "phmu",
+  "codes": {
+    "icao": "PHMU",
+    "iata": "MUE",
+    "gps": "PHMU",
+    "local": "MUE"
+  },
+  "name": "Waimea Kohala Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.001301,
+    "longitude": -155.667999,
+    "elevation_ft": 2671,
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Waimea (Kamuela)"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Waimea-Kohala_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5451
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_10218",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "37CA",
+    "local": "37CA"
+  },
+  "name": "Billy Joe Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.507,
+    "longitude": -117.070999,
+    "elevation_ft": 1350,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Temecula"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10218
+  }
+}

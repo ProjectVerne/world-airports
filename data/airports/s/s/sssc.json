@@ -1,0 +1,31 @@
+{
+  "key": "sssc",
+  "codes": {
+    "icao": "SSSC",
+    "iata": "CSU",
+    "gps": "SSSC",
+    "local": "RS0029"
+  },
+  "name": "Santa Cruz do Sul Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.684099,
+    "longitude": -52.412201,
+    "elevation_ft": 653,
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Santa Cruz do Sul"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Santa_Cruz_do_Sul_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 504
+  }
+}

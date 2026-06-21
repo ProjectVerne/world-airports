@@ -1,0 +1,31 @@
+{
+  "key": "esdf",
+  "codes": {
+    "icao": "ESDF",
+    "iata": "RNB",
+    "gps": "ESDF",
+    "local": null
+  },
+  "name": "Ronneby Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.266701,
+    "longitude": 15.265,
+    "elevation_ft": 191,
+    "iso_country": "SE",
+    "iso_region": "SE-K",
+    "municipality": "Ronneby"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ronneby_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2646
+  }
+}

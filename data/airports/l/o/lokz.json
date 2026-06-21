@@ -1,0 +1,32 @@
+{
+  "key": "lokz",
+  "codes": {
+    "icao": "LOKZ",
+    "iata": null,
+    "gps": "LOKZ",
+    "local": null
+  },
+  "name": "Zwatzhof Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.975053,
+    "longitude": 14.273835,
+    "elevation_ft": 2500,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Zwatzhof"
+  },
+  "keywords": [
+    "AT-0047"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43804
+  }
+}

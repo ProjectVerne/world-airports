@@ -1,0 +1,34 @@
+{
+  "key": "edpa",
+  "codes": {
+    "icao": "EDPA",
+    "iata": null,
+    "gps": "EDPA",
+    "local": null
+  },
+  "name": "Aalen Heidenheim Elchingen Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.777779,
+    "longitude": 10.264722,
+    "elevation_ft": 1916,
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Neresheim"
+  },
+  "keywords": [
+    "Flugplatz Aalen-Elchingen",
+    "Verkehrslandeplatz Aalen-Heidenheim/Elchingen"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Verkehrslandeplatz_Aalen-Heidenheim/Elchingen",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2260
+  }
+}

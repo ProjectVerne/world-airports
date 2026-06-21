@@ -1,0 +1,30 @@
+{
+  "key": "_us_11531",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4MA5",
+    "local": "4MA5"
+  },
+  "name": "World Trade Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.3493,
+    "longitude": -71.043701,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Boston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11531
+  }
+}

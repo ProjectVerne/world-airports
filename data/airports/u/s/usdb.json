@@ -1,0 +1,35 @@
+{
+  "key": "usdb",
+  "codes": {
+    "icao": "USDB",
+    "iata": "BVJ",
+    "gps": "USDB",
+    "local": null
+  },
+  "name": "Bovanenkovo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 70.315278,
+    "longitude": 68.333611,
+    "elevation_ft": 24,
+    "iso_country": "RU",
+    "iso_region": "RU-YAN",
+    "municipality": "Bovanenkovo"
+  },
+  "keywords": [
+    "HELIOPS",
+    "GAZPROM",
+    "LNG"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bovanenkovo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 343470
+  }
+}

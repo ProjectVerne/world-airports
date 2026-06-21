@@ -1,0 +1,31 @@
+{
+  "key": "ksms",
+  "codes": {
+    "icao": "KSMS",
+    "iata": "SUM",
+    "gps": "KSMS",
+    "local": "SMS"
+  },
+  "name": "Sumter Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.994999,
+    "longitude": -80.361298,
+    "elevation_ft": 182,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Sumter"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sumter_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21089
+  }
+}

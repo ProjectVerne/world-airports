@@ -1,0 +1,33 @@
+{
+  "key": "voci",
+  "codes": {
+    "icao": "VOCI",
+    "iata": "COK",
+    "gps": "VOCI",
+    "local": null
+  },
+  "name": "Cochin International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.151047,
+    "longitude": 76.400838,
+    "elevation_ft": 30,
+    "iso_country": "IN",
+    "iso_region": "IN-KL",
+    "municipality": "Kochi"
+  },
+  "keywords": [
+    "Cochin"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cochin_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26609
+  }
+}

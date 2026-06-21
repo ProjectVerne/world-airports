@@ -1,0 +1,31 @@
+{
+  "key": "kbhm",
+  "codes": {
+    "icao": "KBHM",
+    "iata": "BHM",
+    "gps": "KBHM",
+    "local": "BHM"
+  },
+  "name": "Birmingham-Shuttlesworth International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.562877,
+    "longitude": -86.750712,
+    "elevation_ft": 650,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Birmingham"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Birmingham_International_Airport_(US)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3406
+  }
+}

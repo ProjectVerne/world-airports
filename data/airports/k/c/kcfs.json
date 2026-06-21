@@ -1,0 +1,34 @@
+{
+  "key": "kcfs",
+  "codes": {
+    "icao": "KCFS",
+    "iata": "TZC",
+    "gps": "KCFS",
+    "local": "CFS"
+  },
+  "name": "Tuscola Area Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.458801,
+    "longitude": -83.445503,
+    "elevation_ft": 701,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Caro"
+  },
+  "keywords": [
+    "78D",
+    "Caro Municipal Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tuscola_Area_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19485
+  }
+}

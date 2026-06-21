@@ -1,0 +1,30 @@
+{
+  "key": "_us_07121",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0CD4",
+    "local": "0CD4"
+  },
+  "name": "Kauffman Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.146301,
+    "longitude": -104.887001,
+    "elevation_ft": 5120,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Denver"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7121
+  }
+}

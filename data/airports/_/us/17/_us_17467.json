@@ -1,0 +1,30 @@
+{
+  "key": "_us_17467",
+  "codes": {
+    "icao": null,
+    "iata": "FLT",
+    "gps": "FLT",
+    "local": "FLT"
+  },
+  "name": "Flat Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.452599,
+    "longitude": -157.988998,
+    "elevation_ft": 309,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Flat"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17467
+  }
+}

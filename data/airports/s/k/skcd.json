@@ -1,0 +1,31 @@
+{
+  "key": "skcd",
+  "codes": {
+    "icao": "SKCD",
+    "iata": "COG",
+    "gps": "SKCD",
+    "local": "COG"
+  },
+  "name": "Mandinga Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.072007,
+    "longitude": -76.676373,
+    "elevation_ft": 213,
+    "iso_country": "CO",
+    "iso_region": "CO-CHO",
+    "municipality": "Condoto"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mandinga_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30842
+  }
+}

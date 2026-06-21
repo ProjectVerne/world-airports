@@ -1,0 +1,31 @@
+{
+  "key": "efks",
+  "codes": {
+    "icao": "EFKS",
+    "iata": "KAO",
+    "gps": "EFKS",
+    "local": null
+  },
+  "name": "Kuusamo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.987602,
+    "longitude": 29.239401,
+    "elevation_ft": 866,
+    "iso_country": "FI",
+    "iso_region": "FI-14",
+    "municipality": "Kuusamo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kuusamo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2324
+  }
+}

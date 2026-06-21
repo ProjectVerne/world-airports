@@ -1,0 +1,34 @@
+{
+  "key": "nvse",
+  "codes": {
+    "icao": "NVSE",
+    "iata": "EAE",
+    "gps": "NVSE",
+    "local": null
+  },
+  "name": "Siwo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -17.0903,
+    "longitude": 168.343002,
+    "elevation_ft": 7,
+    "iso_country": "VU",
+    "iso_region": "VU-SEE",
+    "municipality": "Emae Island"
+  },
+  "keywords": [
+    "Sangafa Airport",
+    "Emae Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Siwo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30961
+  }
+}

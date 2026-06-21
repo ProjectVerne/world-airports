@@ -1,0 +1,30 @@
+{
+  "key": "_us_15000",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8LA3",
+    "local": "8LA3"
+  },
+  "name": "Shell Central Facilities E Bay Block 24 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.055371,
+    "longitude": -89.307302,
+    "elevation_ft": 3,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Venice"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15000
+  }
+}

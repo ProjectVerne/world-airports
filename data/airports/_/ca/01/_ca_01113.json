@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01113",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJR2",
+    "local": "CJR2"
+  },
+  "name": "Luseland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.069453,
+    "longitude": -109.375052,
+    "elevation_ft": 2300,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Luseland"
+  },
+  "keywords": [
+    "JR2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Luseland_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1113
+  }
+}

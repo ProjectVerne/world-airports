@@ -1,0 +1,31 @@
+{
+  "key": "papk",
+  "codes": {
+    "icao": "PAPK",
+    "iata": "PKA",
+    "gps": "PAPK",
+    "local": "PKA"
+  },
+  "name": "Napaskiak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.7029,
+    "longitude": -161.778,
+    "elevation_ft": 24,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Napaskiak"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Napaskiak_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24205
+  }
+}

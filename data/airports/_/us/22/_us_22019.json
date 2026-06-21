@@ -1,0 +1,33 @@
+{
+  "key": "_us_22019",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Lee Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.9231,
+    "longitude": -84.283301,
+    "elevation_ft": 810,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Bennington"
+  },
+  "keywords": [
+    "MI06",
+    "US-11654"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22019
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "kvgt",
+  "codes": {
+    "icao": "KVGT",
+    "iata": "VGT",
+    "gps": "KVGT",
+    "local": "VGT"
+  },
+  "name": "North Las Vegas Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.209074,
+    "longitude": -115.193982,
+    "elevation_ft": 2205,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Las Vegas"
+  },
+  "keywords": [
+    "Northtown Airport",
+    "Las Vegas North Air Terminal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Las_Vegas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21321
+  }
+}

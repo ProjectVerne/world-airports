@@ -1,0 +1,33 @@
+{
+  "key": "lokp",
+  "codes": {
+    "icao": "LOKP",
+    "iata": null,
+    "gps": "LOKP",
+    "local": null
+  },
+  "name": "Friesach Hospital Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.946838,
+    "longitude": 14.410051,
+    "elevation_ft": 2113,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Friesach"
+  },
+  "keywords": [
+    "Deutsch-Ordens-Spital",
+    "AT-0042"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43798
+  }
+}

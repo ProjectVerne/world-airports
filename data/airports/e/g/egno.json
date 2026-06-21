@@ -1,0 +1,31 @@
+{
+  "key": "egno",
+  "codes": {
+    "icao": "EGNO",
+    "iata": "WRT",
+    "gps": "EGNO",
+    "local": null
+  },
+  "name": "Warton Aerodrome",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.745098,
+    "longitude": -2.88306,
+    "elevation_ft": 55,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Warton"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Warton_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2445
+  }
+}

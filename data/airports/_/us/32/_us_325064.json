@@ -1,0 +1,32 @@
+{
+  "key": "_us_325064",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NR30",
+    "local": "NR30"
+  },
+  "name": "Atrium Health Harrisburg Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.285888,
+    "longitude": -80.666383,
+    "elevation_ft": 723,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Charlotte"
+  },
+  "keywords": [
+    "Harrisburg Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325064
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_br_35895",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDHH",
+    "local": "DF0010"
+  },
+  "name": "Base Resgate Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -15.775001,
+    "longitude": -47.906113,
+    "elevation_ft": 3609,
+    "iso_country": "BR",
+    "iso_region": "BR-DF",
+    "municipality": "Brasília"
+  },
+  "keywords": [
+    "SICS"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35895
+  }
+}

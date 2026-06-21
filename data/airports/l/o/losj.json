@@ -1,0 +1,32 @@
+{
+  "key": "losj",
+  "codes": {
+    "icao": "LOSJ",
+    "iata": null,
+    "gps": "LOSJ",
+    "local": null
+  },
+  "name": "St. Johann Im Pongau Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.394071,
+    "longitude": 13.221496,
+    "elevation_ft": 1803,
+    "iso_country": "AT",
+    "iso_region": "AT-5",
+    "municipality": "St. Johann Im Pongau"
+  },
+  "keywords": [
+    "AT-0060"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43821
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "wmkm",
+  "codes": {
+    "icao": "WMKM",
+    "iata": "MKZ",
+    "gps": "WMKM",
+    "local": null
+  },
+  "name": "Malacca International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 2.265613,
+    "longitude": 102.252778,
+    "elevation_ft": 35,
+    "iso_country": "MY",
+    "iso_region": "MY-04",
+    "municipality": "Malacca"
+  },
+  "keywords": [
+    "Batu Berendam"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Malacca_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26876
+  }
+}

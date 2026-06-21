@@ -1,0 +1,31 @@
+{
+  "key": "mycs",
+  "codes": {
+    "icao": "MYCS",
+    "iata": null,
+    "gps": "MYCS",
+    "local": null
+  },
+  "name": "Cay Sal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.697625,
+    "longitude": -80.389781,
+    "elevation_ft": 5,
+    "iso_country": "BS",
+    "iso_region": "BS-BI",
+    "municipality": "Cay Sal"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cay_Sal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31986
+  }
+}

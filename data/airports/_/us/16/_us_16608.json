@@ -1,0 +1,30 @@
+{
+  "key": "_us_16608",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CA77",
+    "local": "CA77"
+  },
+  "name": "Ridgecrest Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.640365,
+    "longitude": -117.672034,
+    "elevation_ft": 2290,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Ridgecrest"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16608
+  }
+}

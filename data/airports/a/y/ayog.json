@@ -1,0 +1,30 @@
+{
+  "key": "ayog",
+  "codes": {
+    "icao": "AYOG",
+    "iata": "OGE",
+    "gps": "AYOG",
+    "local": "OGN"
+  },
+  "name": "Ogeranang Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.46675,
+    "longitude": 147.364167,
+    "elevation_ft": 5850,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 306980
+  }
+}

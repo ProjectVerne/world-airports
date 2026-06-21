@@ -1,0 +1,30 @@
+{
+  "key": "_us_06828",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "05LL",
+    "local": "05LL"
+  },
+  "name": "Midwest Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.749228,
+    "longitude": -87.935783,
+    "elevation_ft": 710,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Willowbrook"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6828
+  }
+}

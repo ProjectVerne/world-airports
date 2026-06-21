@@ -1,0 +1,30 @@
+{
+  "key": "_us_11463",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4IL7",
+    "local": "4IL7"
+  },
+  "name": "Brussels Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.945801,
+    "longitude": -90.587196,
+    "elevation_ft": 515,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Brussels"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11463
+  }
+}

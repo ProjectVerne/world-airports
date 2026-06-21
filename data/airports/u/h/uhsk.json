@@ -1,0 +1,35 @@
+{
+  "key": "uhsk",
+  "codes": {
+    "icao": "UHSK",
+    "iata": "EKS",
+    "gps": "UHSK",
+    "local": null
+  },
+  "name": "Shakhtyorsk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.1903,
+    "longitude": 142.082993,
+    "elevation_ft": 50,
+    "iso_country": "RU",
+    "iso_region": "RU-SAK",
+    "municipality": "Shakhtyorsk"
+  },
+  "keywords": [
+    "Shakhtersk Airport",
+    "Аэропорт Шахтёрск",
+    "Аэропорт Шахтерск"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shakhtyorsk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35125
+  }
+}

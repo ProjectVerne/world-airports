@@ -1,0 +1,33 @@
+{
+  "key": "pacv",
+  "codes": {
+    "icao": "PACV",
+    "iata": "CDV",
+    "gps": "PACV",
+    "local": "CDV"
+  },
+  "name": "Merle K (Mudhole) Smith Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.491798,
+    "longitude": -145.477997,
+    "elevation_ft": 54,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Cordova"
+  },
+  "keywords": [
+    "Cordova Mile 13"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Merle_K._(Mudhole)_Smith_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5348
+  }
+}

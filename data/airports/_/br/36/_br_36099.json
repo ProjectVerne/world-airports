@@ -1,0 +1,32 @@
+{
+  "key": "_br_36099",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SILX",
+    "local": "SP0525"
+  },
+  "name": "Locar Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.471493,
+    "longitude": -46.483487,
+    "elevation_ft": 2720,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Guarulhos"
+  },
+  "keywords": [
+    "SILV"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36099
+  }
+}

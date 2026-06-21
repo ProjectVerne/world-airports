@@ -1,0 +1,31 @@
+{
+  "key": "fefc",
+  "codes": {
+    "icao": "FEFC",
+    "iata": "CRF",
+    "gps": "FEFC",
+    "local": null
+  },
+  "name": "Carnot Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.937,
+    "longitude": 15.894,
+    "elevation_ft": 1985,
+    "iso_country": "CF",
+    "iso_region": "CF-HS",
+    "municipality": "Carnot"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Carnot_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30850
+  }
+}

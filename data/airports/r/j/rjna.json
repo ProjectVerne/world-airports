@@ -1,0 +1,36 @@
+{
+  "key": "rjna",
+  "codes": {
+    "icao": "RJNA",
+    "iata": "NKM",
+    "gps": "RJNA",
+    "local": null
+  },
+  "name": "Nagoya Airport / JASDF Komaki Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.255759,
+    "longitude": 136.924095,
+    "elevation_ft": 52,
+    "iso_country": "JP",
+    "iso_region": "JP-23",
+    "municipality": "Nagoya"
+  },
+  "keywords": [
+    "Komaki Airport",
+    "Nagoya Airfield",
+    "名古屋飛行場",
+    "Prefectural Nagoya Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nagoya_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5581
+  }
+}

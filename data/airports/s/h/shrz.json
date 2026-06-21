@@ -1,0 +1,32 @@
+{
+  "key": "shrz",
+  "codes": {
+    "icao": "SHRZ",
+    "iata": null,
+    "gps": "SHRZ",
+    "local": null
+  },
+  "name": "Reitz Building Two Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -33.043037,
+    "longitude": -71.516654,
+    "elevation_ft": 240,
+    "iso_country": "CL",
+    "iso_region": "CL-VS",
+    "municipality": "Viña del Mar"
+  },
+  "keywords": [
+    "CL-0041"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605501
+  }
+}

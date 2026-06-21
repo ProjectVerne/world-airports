@@ -1,0 +1,30 @@
+{
+  "key": "_us_10027",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32TX",
+    "local": "32TX"
+  },
+  "name": "Hinson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.0581,
+    "longitude": -96.3592,
+    "elevation_ft": 365,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Kenney"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10027
+  }
+}

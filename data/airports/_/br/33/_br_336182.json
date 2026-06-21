@@ -1,0 +1,32 @@
+{
+  "key": "_br_336182",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SJCL",
+    "local": "SP0606"
+  },
+  "name": "Comando Piloto Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -21.61642,
+    "longitude": -46.87525,
+    "elevation_ft": 2753,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São José do Rio Pardo"
+  },
+  "keywords": [
+    "BR-1100"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 336182
+  }
+}

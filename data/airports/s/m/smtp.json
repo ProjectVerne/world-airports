@@ -1,0 +1,31 @@
+{
+  "key": "smtp",
+  "codes": {
+    "icao": "SMTP",
+    "iata": "KCB",
+    "gps": "SMTP",
+    "local": null
+  },
+  "name": "Tepoe Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 3.15,
+    "longitude": -55.716999,
+    "elevation_ft": 596,
+    "iso_country": "SR",
+    "iso_region": "SR-SI",
+    "municipality": "Kasikasima"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tepoe_Airstrip",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31732
+  }
+}

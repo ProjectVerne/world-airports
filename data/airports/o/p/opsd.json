@@ -1,0 +1,31 @@
+{
+  "key": "opsd",
+  "codes": {
+    "icao": "OPSD",
+    "iata": "KDU",
+    "gps": "OPSD",
+    "local": null
+  },
+  "name": "Skardu International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.33866,
+    "longitude": 75.538648,
+    "elevation_ft": 7316,
+    "iso_country": "PK",
+    "iso_region": "PK-GB",
+    "municipality": "Skardu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Skardu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5277
+  }
+}

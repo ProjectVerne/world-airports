@@ -1,0 +1,33 @@
+{
+  "key": "umbb",
+  "codes": {
+    "icao": "UMBB",
+    "iata": "BQT",
+    "gps": "UMBB",
+    "local": null
+  },
+  "name": "Brest International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.108138,
+    "longitude": 23.89676,
+    "elevation_ft": 468,
+    "iso_country": "BY",
+    "iso_region": "BY-BR",
+    "municipality": "Brest"
+  },
+  "keywords": [
+    "Аэропорт Брест"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brest_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6495
+  }
+}

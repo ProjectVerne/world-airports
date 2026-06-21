@@ -1,0 +1,31 @@
+{
+  "key": "kwst",
+  "codes": {
+    "icao": "KWST",
+    "iata": "WST",
+    "gps": "KWST",
+    "local": "WST"
+  },
+  "name": "Westerly State Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.349602,
+    "longitude": -71.803398,
+    "elevation_ft": 81,
+    "iso_country": "US",
+    "iso_region": "US-RI",
+    "municipality": "Westerly"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Westerly_State_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21382
+  }
+}

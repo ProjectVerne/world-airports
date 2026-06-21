@@ -1,0 +1,32 @@
+{
+  "key": "rpla",
+  "codes": {
+    "icao": "RPLA",
+    "iata": null,
+    "gps": "RPLA",
+    "local": null
+  },
+  "name": "Pinamalayan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.9858,
+    "longitude": 121.426003,
+    "elevation_ft": 92,
+    "iso_country": "PH",
+    "iso_region": "PH-MDR",
+    "municipality": "Pinamalayan"
+  },
+  "keywords": [
+    "RP11"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5685
+  }
+}

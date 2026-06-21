@@ -1,0 +1,31 @@
+{
+  "key": "svmd",
+  "codes": {
+    "icao": "SVMD",
+    "iata": "MRD",
+    "gps": "SVMD",
+    "local": null
+  },
+  "name": "Alberto Carnevalli Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.582078,
+    "longitude": -71.161041,
+    "elevation_ft": 5007,
+    "iso_country": "VE",
+    "iso_region": "VE-L",
+    "municipality": "Mérida"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Alberto_Carnevalli_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6298
+  }
+}

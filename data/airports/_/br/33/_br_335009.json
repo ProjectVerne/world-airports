@@ -1,0 +1,32 @@
+{
+  "key": "_br_335009",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SSEL",
+    "local": "PR0152"
+  },
+  "name": "ANAMI Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -25.59286,
+    "longitude": -49.184573,
+    "elevation_ft": 2989,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "São José dos Pinhais"
+  },
+  "keywords": [
+    "BR-0735"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 335009
+  }
+}

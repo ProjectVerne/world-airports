@@ -1,0 +1,30 @@
+{
+  "key": "_us_17105",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "DC09",
+    "local": "DC09"
+  },
+  "name": "Medstar Georgetown University Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.910368,
+    "longitude": -77.077693,
+    "elevation_ft": 165,
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17105
+  }
+}

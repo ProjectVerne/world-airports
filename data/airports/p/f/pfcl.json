@@ -1,0 +1,31 @@
+{
+  "key": "pfcl",
+  "codes": {
+    "icao": "PFCL",
+    "iata": "CLP",
+    "gps": "PFCL",
+    "local": "CLP"
+  },
+  "name": "Clarks Point Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.833698,
+    "longitude": -158.529007,
+    "elevation_ft": 80,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Clarks Point"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Clarks_Point_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16820
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "kfly",
+  "codes": {
+    "icao": "KFLY",
+    "iata": null,
+    "gps": "KFLY",
+    "local": "FLY"
+  },
+  "name": "Meadow Lake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.945801,
+    "longitude": -104.57,
+    "elevation_ft": 6874,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Colorado Springs"
+  },
+  "keywords": [
+    "00V",
+    "K00V"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Meadow_Lake_Airport_(Colorado)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18306
+  }
+}

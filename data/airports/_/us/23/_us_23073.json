@@ -1,0 +1,30 @@
+{
+  "key": "_us_23073",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NJ28",
+    "local": "NJ28"
+  },
+  "name": "Nws Earle Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.254299,
+    "longitude": -74.168999,
+    "elevation_ft": 210,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Colts Neck"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23073
+  }
+}

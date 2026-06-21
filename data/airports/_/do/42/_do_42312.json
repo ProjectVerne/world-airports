@@ -1,0 +1,34 @@
+{
+  "key": "_do_42312",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "San Juan Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 18.833332,
+    "longitude": -71.23333,
+    "elevation_ft": 1496,
+    "iso_country": "DO",
+    "iso_region": "DO-22",
+    "municipality": "San Juan"
+  },
+  "keywords": [
+    "MDSJ",
+    "SJM",
+    "DO-0015"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42312
+  }
+}

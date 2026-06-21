@@ -1,0 +1,33 @@
+{
+  "key": "mpsa",
+  "codes": {
+    "icao": "MPSA",
+    "iata": "SYP",
+    "gps": "MPSA",
+    "local": null
+  },
+  "name": "Ruben Cantu Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.0856,
+    "longitude": -80.945297,
+    "elevation_ft": 272,
+    "iso_country": "PA",
+    "iso_region": "PA-9",
+    "municipality": "Santiago"
+  },
+  "keywords": [
+    "Santiago"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ruben_Cantu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4792
+  }
+}

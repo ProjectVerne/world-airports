@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00985",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFQ7",
+    "local": "CFQ7"
+  },
+  "name": "Edmonton / Gartner Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.280966,
+    "longitude": -113.455868,
+    "elevation_ft": 2390,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Leduc"
+  },
+  "keywords": [
+    "FQ7"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Edmonton/Gartner_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 985
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_09124",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "26PN",
+    "local": "26PN"
+  },
+  "name": "Leeds & Northrup Co. Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.216801,
+    "longitude": -75.278801,
+    "elevation_ft": 346,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "North Wales"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9124
+  }
+}

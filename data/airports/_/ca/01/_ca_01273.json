@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01273",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CLP2",
+    "local": "CLP2"
+  },
+  "name": "Montreal / Laval (Artopex Plus) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.578596,
+    "longitude": -73.75002,
+    "elevation_ft": 133,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [
+    "LP2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1273
+  }
+}

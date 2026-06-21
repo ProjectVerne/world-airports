@@ -1,0 +1,30 @@
+{
+  "key": "_us_23005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH51",
+    "local": "NH51"
+  },
+  "name": "Wickson Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.155899,
+    "longitude": -71.156898,
+    "elevation_ft": 1650,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Jackson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23005
+  }
+}

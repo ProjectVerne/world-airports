@@ -1,0 +1,31 @@
+{
+  "key": "hebl",
+  "codes": {
+    "icao": "HEBL",
+    "iata": "ABS",
+    "gps": "HEBL",
+    "local": null
+  },
+  "name": "Abu Simbel Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.375924,
+    "longitude": 31.611734,
+    "elevation_ft": 614,
+    "iso_country": "EG",
+    "iso_region": "EG-ASN",
+    "municipality": "Abu Simbel"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Abu_Simbel_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3181
+  }
+}

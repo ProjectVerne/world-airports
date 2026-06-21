@@ -1,0 +1,33 @@
+{
+  "key": "eddh",
+  "codes": {
+    "icao": "EDDH",
+    "iata": "HAM",
+    "gps": "EDDH",
+    "local": null
+  },
+  "name": "Hamburg Helmut Schmidt Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.630402,
+    "longitude": 9.98823,
+    "elevation_ft": 53,
+    "iso_country": "DE",
+    "iso_region": "DE-HH",
+    "municipality": "Hamburg"
+  },
+  "keywords": [
+    "Hamburg-Fuhlsbüttel Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hamburg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2214
+  }
+}

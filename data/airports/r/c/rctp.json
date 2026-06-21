@@ -1,0 +1,34 @@
+{
+  "key": "rctp",
+  "codes": {
+    "icao": "RCTP",
+    "iata": "TPE",
+    "gps": "RCTP",
+    "local": null
+  },
+  "name": "Taiwan Taoyuan International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.0777,
+    "longitude": 121.233002,
+    "elevation_ft": 106,
+    "iso_country": "TW",
+    "iso_region": "TW-TAO",
+    "municipality": "Taoyuan"
+  },
+  "keywords": [
+    "Taoyuan County",
+    "Dayuan District. 臺灣桃園國際機場"
+  ],
+  "wikipedia": "https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5528
+  }
+}

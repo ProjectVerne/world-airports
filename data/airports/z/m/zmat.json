@@ -1,0 +1,31 @@
+{
+  "key": "zmat",
+  "codes": {
+    "icao": "ZMAT",
+    "iata": "LTI",
+    "gps": "ZMAT",
+    "local": null
+  },
+  "name": "Altai Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.3764,
+    "longitude": 96.2211,
+    "elevation_ft": 7260,
+    "iso_country": "MN",
+    "iso_region": "MN-065",
+    "municipality": "Altai"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Altai_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29654
+  }
+}

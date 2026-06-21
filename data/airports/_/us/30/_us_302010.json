@@ -1,0 +1,33 @@
+{
+  "key": "_us_302010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "NJSP - Tukerton Station Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.649389,
+    "longitude": -74.296944,
+    "elevation_ft": 28,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "West Creek"
+  },
+  "keywords": [
+    "H-NJSP-A2",
+    "US-0206"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 302010
+  }
+}

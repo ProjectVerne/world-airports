@@ -1,0 +1,33 @@
+{
+  "key": "lkmt",
+  "codes": {
+    "icao": "LKMT",
+    "iata": "OSR",
+    "gps": "LKMT",
+    "local": null
+  },
+  "name": "Leoš Janáček Airport Ostrava",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.696301,
+    "longitude": 18.111099,
+    "elevation_ft": 844,
+    "iso_country": "CZ",
+    "iso_region": "CZ-MO",
+    "municipality": "Mošnov"
+  },
+  "keywords": [
+    "Ostrava-Mošnov International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ostrava_Leos_Janacek_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4402
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "satr",
+  "codes": {
+    "icao": "SATR",
+    "iata": "RCQ",
+    "gps": "SATR",
+    "local": "RTA"
+  },
+  "name": "Reconquista Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.210278,
+    "longitude": -59.683333,
+    "elevation_ft": 160,
+    "iso_country": "AR",
+    "iso_region": "AR-S",
+    "municipality": "Reconquista"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Reconquista_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5819
+  }
+}

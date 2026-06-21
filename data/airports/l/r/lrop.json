@@ -1,0 +1,35 @@
+{
+  "key": "lrop",
+  "codes": {
+    "icao": "LROP",
+    "iata": "OTP",
+    "gps": "LROP",
+    "local": null
+  },
+  "name": "Bucharest Henri Coandă International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.571792,
+    "longitude": 26.103285,
+    "elevation_ft": 314,
+    "iso_country": "RO",
+    "iso_region": "RO-IF",
+    "municipality": "Otopeni"
+  },
+  "keywords": [
+    "BUH",
+    "Otopeni Airport",
+    "RoAF 90th Airlift Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Henri_Coand%C4%83_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4482
+  }
+}

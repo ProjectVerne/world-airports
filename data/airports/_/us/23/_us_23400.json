@@ -1,0 +1,32 @@
+{
+  "key": "_us_23400",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NY18",
+    "local": "NY18"
+  },
+  "name": "Neno Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.4487,
+    "longitude": -76.616897,
+    "elevation_ft": 1283,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Ithaca"
+  },
+  "keywords": [
+    "Neno International"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23400
+  }
+}

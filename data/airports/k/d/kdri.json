@@ -1,0 +1,34 @@
+{
+  "key": "kdri",
+  "codes": {
+    "icao": "KDRI",
+    "iata": "DRI",
+    "gps": "KDRI",
+    "local": "DRI"
+  },
+  "name": "Beauregard Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.831699,
+    "longitude": -93.339897,
+    "elevation_ft": 202,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "DeRidder"
+  },
+  "keywords": [
+    "Beauregard Parish",
+    "DeRidder Army Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Beauregard_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3495
+  }
+}

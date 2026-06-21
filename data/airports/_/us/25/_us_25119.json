@@ -1,0 +1,33 @@
+{
+  "key": "_us_25119",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "New Home Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 33.308399,
+    "longitude": -101.910004,
+    "elevation_ft": 3234,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "New Home"
+  },
+  "keywords": [
+    "TX01",
+    "US-12285"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25119
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "nztc",
+  "codes": {
+    "icao": "NZTC",
+    "iata": null,
+    "gps": "NZTC",
+    "local": null
+  },
+  "name": "Tapanui Medical Centre Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -45.938078,
+    "longitude": 169.263395,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Tapanui"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605008
+  }
+}

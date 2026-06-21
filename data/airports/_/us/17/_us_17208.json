@@ -1,0 +1,30 @@
+{
+  "key": "_us_17208",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FA16",
+    "local": "FA16"
+  },
+  "name": "Jay Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.9499,
+    "longitude": -87.150803,
+    "elevation_ft": 252,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jay"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17208
+  }
+}

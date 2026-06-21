@@ -1,0 +1,33 @@
+{
+  "key": "oasl",
+  "codes": {
+    "icao": "OASL",
+    "iata": "OLR",
+    "gps": "OASL",
+    "local": null
+  },
+  "name": "Salerno Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.3638,
+    "longitude": 69.9561,
+    "elevation_ft": 3780,
+    "iso_country": "AF",
+    "iso_region": "AF-KHO",
+    "municipality": "Khost"
+  },
+  "keywords": [
+    "FOB Salerno"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/FOB_Salerno",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35365
+  }
+}

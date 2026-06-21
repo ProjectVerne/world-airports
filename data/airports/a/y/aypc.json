@@ -1,0 +1,30 @@
+{
+  "key": "aypc",
+  "codes": {
+    "icao": "AYPC",
+    "iata": "PGB",
+    "gps": "AYPC",
+    "local": "PGA"
+  },
+  "name": "Pangoa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.0226,
+    "longitude": 141.5605,
+    "elevation_ft": 60,
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Pangoa"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 311954
+  }
+}

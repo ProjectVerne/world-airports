@@ -1,0 +1,33 @@
+{
+  "key": "_br_00132",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Aurea Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": -19.287399,
+    "longitude": -46.5117,
+    "elevation_ft": 3700,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Serra Do Salitre"
+  },
+  "keywords": [
+    "SB04",
+    "BR-1936"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 132
+  }
+}

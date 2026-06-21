@@ -1,0 +1,33 @@
+{
+  "key": "cynd",
+  "codes": {
+    "icao": "CYND",
+    "iata": "YND",
+    "gps": "CYND",
+    "local": "CYND"
+  },
+  "name": "Ottawa / Gatineau Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.521702,
+    "longitude": -75.563599,
+    "elevation_ft": 211,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Gatineau"
+  },
+  "keywords": [
+    "YND"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ottawa-Gatineau_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1824
+  }
+}

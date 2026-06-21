@@ -1,0 +1,31 @@
+{
+  "key": "rksi",
+  "codes": {
+    "icao": "RKSI",
+    "iata": "ICN",
+    "gps": "RKSI",
+    "local": null
+  },
+  "name": "Incheon International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.469101,
+    "longitude": 126.450996,
+    "elevation_ft": 23,
+    "iso_country": "KR",
+    "iso_region": "KR-28",
+    "municipality": "Seoul"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5653
+  }
+}

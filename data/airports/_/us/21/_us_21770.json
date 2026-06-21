@@ -1,0 +1,30 @@
+{
+  "key": "_us_21770",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA27",
+    "local": "MA27"
+  },
+  "name": "Goddard Hosp Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.100399,
+    "longitude": -71.082001,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Brockton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21770
+  }
+}

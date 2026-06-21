@@ -1,0 +1,31 @@
+{
+  "key": "kosc",
+  "codes": {
+    "icao": "KOSC",
+    "iata": "OSC",
+    "gps": "KOSC",
+    "local": "OSC"
+  },
+  "name": "Oscoda Wurtsmith Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.451599,
+    "longitude": -83.394096,
+    "elevation_ft": 633,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Oscoda"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Oscoda%E2%80%93Wurtsmith_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20767
+  }
+}

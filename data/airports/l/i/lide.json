@@ -1,0 +1,33 @@
+{
+  "key": "lide",
+  "codes": {
+    "icao": "LIDE",
+    "iata": null,
+    "gps": "LIDE",
+    "local": "RE01"
+  },
+  "name": "Reggio Emilia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.698039,
+    "longitude": 10.664885,
+    "elevation_ft": 152,
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Reggio Emilia (RE)"
+  },
+  "keywords": [
+    "Reggio Emilia Aeroclub"
+  ],
+  "wikipedia": "https://it.wikipedia.org/wiki/Aeroporto_di_Reggio_Emilia",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4327
+  }
+}

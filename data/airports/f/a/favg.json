@@ -1,0 +1,31 @@
+{
+  "key": "favg",
+  "codes": {
+    "icao": "FAVG",
+    "iata": "VIR",
+    "gps": "FAVG",
+    "local": null
+  },
+  "name": "Virginia Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.770599,
+    "longitude": 31.058399,
+    "elevation_ft": 20,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Durban"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Virginia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2850
+  }
+}

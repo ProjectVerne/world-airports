@@ -1,0 +1,30 @@
+{
+  "key": "_us_25649",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WA55",
+    "local": "WA55"
+  },
+  "name": "Elliott Park Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.619652,
+    "longitude": -122.36031,
+    "elevation_ft": 100,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Seattle"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25649
+  }
+}

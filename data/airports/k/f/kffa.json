@@ -1,0 +1,31 @@
+{
+  "key": "kffa",
+  "codes": {
+    "icao": "KFFA",
+    "iata": "FFA",
+    "gps": "KFFA",
+    "local": "FFA"
+  },
+  "name": "First Flight Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.0182,
+    "longitude": -75.671303,
+    "elevation_ft": 13,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Kill Devil Hills"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/First_Flight_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19861
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_23008",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH55",
+    "local": "NH55"
+  },
+  "name": "Chopper One Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.847,
+    "longitude": -71.218903,
+    "elevation_ft": 240,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Derry"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23008
+  }
+}

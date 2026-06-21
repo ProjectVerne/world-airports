@@ -1,0 +1,31 @@
+{
+  "key": "esel",
+  "codes": {
+    "icao": "ESEL",
+    "iata": null,
+    "gps": "ESEL",
+    "local": null
+  },
+  "name": "US Linköping Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 58.401555,
+    "longitude": 15.619415,
+    "elevation_ft": 257,
+    "iso_country": "SE",
+    "iso_region": "SE-E",
+    "municipality": "Linköping"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Link%C3%B6ping_University_Hospital",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599675
+  }
+}

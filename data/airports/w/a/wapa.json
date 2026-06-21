@@ -1,0 +1,31 @@
+{
+  "key": "wapa",
+  "codes": {
+    "icao": "WAPA",
+    "iata": "AHI",
+    "gps": "WAPA",
+    "local": null
+  },
+  "name": "Amahai Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.347851,
+    "longitude": 128.927093,
+    "elevation_ft": 29,
+    "iso_country": "ID",
+    "iso_region": "ID-MA",
+    "municipality": "Amahai"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Amahai_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30623
+  }
+}

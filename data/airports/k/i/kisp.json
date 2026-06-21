@@ -1,0 +1,33 @@
+{
+  "key": "kisp",
+  "codes": {
+    "icao": "KISP",
+    "iata": "ISP",
+    "gps": "KISP",
+    "local": "ISP"
+  },
+  "name": "Long Island MacArthur Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.796324,
+    "longitude": -73.101703,
+    "elevation_ft": 99,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Islip"
+  },
+  "keywords": [
+    "Islip Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Long_Island_MacArthur_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3616
+  }
+}

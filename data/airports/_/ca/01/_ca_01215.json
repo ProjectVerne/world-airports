@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01215",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKN9",
+    "local": "CKN9"
+  },
+  "name": "Shilo (Flewin Field) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.7808,
+    "longitude": -99.638901,
+    "elevation_ft": 1223,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Shilo"
+  },
+  "keywords": [
+    "KN9"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1215
+  }
+}

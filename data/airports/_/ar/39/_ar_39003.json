@@ -1,0 +1,32 @@
+{
+  "key": "_ar_39003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "FRA"
+  },
+  "name": "San Francisco Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -31.4142,
+    "longitude": -62.1336,
+    "elevation_ft": 374,
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "San Francisco"
+  },
+  "keywords": [
+    "AR-0328"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39003
+  }
+}

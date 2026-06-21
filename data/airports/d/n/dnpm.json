@@ -1,0 +1,34 @@
+{
+  "key": "dnpm",
+  "codes": {
+    "icao": "DNPM",
+    "iata": "PHG",
+    "gps": "DNPM",
+    "local": null
+  },
+  "name": "Port Harcourt City Airport / Port Harcourt Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.846111,
+    "longitude": 7.021389,
+    "elevation_ft": 57,
+    "iso_country": "NG",
+    "iso_region": "NG-RI",
+    "municipality": "Port Harcourt"
+  },
+  "keywords": [
+    "Port Harcourt NAF Base",
+    "NG-0004"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Harcourt_City_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300565
+  }
+}

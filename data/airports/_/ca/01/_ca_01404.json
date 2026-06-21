@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01404",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPF7",
+    "local": "CPF7"
+  },
+  "name": "Southampton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.4939,
+    "longitude": -81.335297,
+    "elevation_ft": 685,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Southampton"
+  },
+  "keywords": [
+    "PF7"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Southampton_Airport_(Ontario)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1404
+  }
+}

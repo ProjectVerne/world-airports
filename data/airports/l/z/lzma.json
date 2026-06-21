@@ -1,0 +1,33 @@
+{
+  "key": "lzma",
+  "codes": {
+    "icao": "LZMA",
+    "iata": null,
+    "gps": "LZMA",
+    "local": null
+  },
+  "name": "Martin Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.0653,
+    "longitude": 18.9508,
+    "elevation_ft": 1381,
+    "iso_country": "SK",
+    "iso_region": "SK-ZI",
+    "municipality": "Martin"
+  },
+  "keywords": [
+    "Tomčany"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Martin_Airfield_(Slovakia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30119
+  }
+}

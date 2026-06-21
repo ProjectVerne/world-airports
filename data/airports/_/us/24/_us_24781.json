@@ -1,0 +1,32 @@
+{
+  "key": "_us_24781",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TA74",
+    "local": "TA74"
+  },
+  "name": "Ineos CBW Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.230688,
+    "longitude": -95.189356,
+    "elevation_ft": 13,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Alvin"
+  },
+  "keywords": [
+    "Amoco"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24781
+  }
+}

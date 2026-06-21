@@ -1,0 +1,31 @@
+{
+  "key": "lfri",
+  "codes": {
+    "icao": "LFRI",
+    "iata": "EDM",
+    "gps": "LFRI",
+    "local": null
+  },
+  "name": "La Roche-sur-Yon Les Ajoncs Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.7019,
+    "longitude": -1.37863,
+    "elevation_ft": 299,
+    "iso_country": "FR",
+    "iso_region": "FR-PDL",
+    "municipality": "La Roche-sur-Yon"
+  },
+  "keywords": [],
+  "wikipedia": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_La_Roche-sur-Yon_-_Les_Ajoncs",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4213
+  }
+}

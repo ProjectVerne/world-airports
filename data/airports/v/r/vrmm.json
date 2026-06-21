@@ -1,0 +1,33 @@
+{
+  "key": "vrmm",
+  "codes": {
+    "icao": "VRMM",
+    "iata": "MLE",
+    "gps": "VRMM",
+    "local": null
+  },
+  "name": "Velana International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.19183,
+    "longitude": 73.529099,
+    "elevation_ft": 6,
+    "iso_country": "MV",
+    "iso_region": "MV-MLE",
+    "municipality": "Malé"
+  },
+  "keywords": [
+    "Malé International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mal%C3%A9_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26636
+  }
+}

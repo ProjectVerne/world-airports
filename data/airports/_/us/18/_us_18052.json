@@ -1,0 +1,32 @@
+{
+  "key": "_us_18052",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LL34",
+    "local": "LL34"
+  },
+  "name": "Thorp Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.219343,
+    "longitude": -88.921983,
+    "elevation_ft": 750,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Wapella"
+  },
+  "keywords": [
+    "Formerly IL80"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18052
+  }
+}

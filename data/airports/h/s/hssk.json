@@ -1,0 +1,33 @@
+{
+  "key": "hssk",
+  "codes": {
+    "icao": "HSSK",
+    "iata": "KRT",
+    "gps": "HSSK",
+    "local": null
+  },
+  "name": "Khartoum International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.5895,
+    "longitude": 32.5532,
+    "elevation_ft": 1265,
+    "iso_country": "SD",
+    "iso_region": "SD-03",
+    "municipality": "Khartoum"
+  },
+  "keywords": [
+    "HSSS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Khartoum_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3249
+  }
+}

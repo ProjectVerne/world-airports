@@ -1,0 +1,33 @@
+{
+  "key": "kowk",
+  "codes": {
+    "icao": "KOWK",
+    "iata": "OWK",
+    "gps": "KOWK",
+    "local": "OWK"
+  },
+  "name": "Central Maine/Norridgewock Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.7155,
+    "longitude": -69.866501,
+    "elevation_ft": 270,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Norridgewock"
+  },
+  "keywords": [
+    "Central Maine Regional Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Central_Maine_Airport_of_Norridgewock",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20779
+  }
+}

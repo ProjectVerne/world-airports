@@ -1,0 +1,30 @@
+{
+  "key": "_us_23833",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OL06",
+    "local": "OL06"
+  },
+  "name": "Bristow Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.833401,
+    "longitude": -96.400299,
+    "elevation_ft": 840,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Bristow"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23833
+  }
+}

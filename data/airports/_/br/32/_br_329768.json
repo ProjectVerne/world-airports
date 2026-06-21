@@ -1,0 +1,32 @@
+{
+  "key": "_br_329768",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDIU",
+    "local": "MS0405"
+  },
+  "name": "Unimed Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -20.450382,
+    "longitude": -54.576069,
+    "elevation_ft": 2087,
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Campo Grande"
+  },
+  "keywords": [
+    "BR-0377"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 329768
+  }
+}

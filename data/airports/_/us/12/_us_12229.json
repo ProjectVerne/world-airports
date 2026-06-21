@@ -1,0 +1,32 @@
+{
+  "key": "_us_12229",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "59OR",
+    "local": "59OR"
+  },
+  "name": "McNary Dam Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.926309,
+    "longitude": -119.294057,
+    "elevation_ft": 366,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Umatilla"
+  },
+  "keywords": [
+    "McNary Lock"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12229
+  }
+}

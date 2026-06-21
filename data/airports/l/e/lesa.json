@@ -1,0 +1,31 @@
+{
+  "key": "lesa",
+  "codes": {
+    "icao": "LESA",
+    "iata": "SLM",
+    "gps": "LESA",
+    "local": null
+  },
+  "name": "Salamanca Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.952099,
+    "longitude": -5.50199,
+    "elevation_ft": 2595,
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Salamanca"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Salamanca_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4033
+  }
+}

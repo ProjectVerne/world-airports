@@ -1,0 +1,31 @@
+{
+  "key": "ltap",
+  "codes": {
+    "icao": "LTAP",
+    "iata": "MZH",
+    "gps": "LTAP",
+    "local": null
+  },
+  "name": "Amasya Merzifon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.829399,
+    "longitude": 35.521999,
+    "elevation_ft": 1758,
+    "iso_country": "TR",
+    "iso_region": "TR-05",
+    "municipality": "Amasya"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Merzifon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4520
+  }
+}

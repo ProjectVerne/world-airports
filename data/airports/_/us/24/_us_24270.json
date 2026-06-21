@@ -1,0 +1,30 @@
+{
+  "key": "_us_24270",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS30",
+    "local": "PS30"
+  },
+  "name": "Mbb Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.987598,
+    "longitude": -75.5802,
+    "elevation_ft": 464,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "West Chester"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24270
+  }
+}

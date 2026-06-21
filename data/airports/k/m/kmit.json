@@ -1,0 +1,34 @@
+{
+  "key": "kmit",
+  "codes": {
+    "icao": "KMIT",
+    "iata": "MIT",
+    "gps": "KMIT",
+    "local": "MIT"
+  },
+  "name": "Shafter Airport - Minter Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.507401,
+    "longitude": -119.192002,
+    "elevation_ft": 424,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Shafter"
+  },
+  "keywords": [
+    "Lerdo Field",
+    "Minter Field AAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shafter_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20510
+  }
+}

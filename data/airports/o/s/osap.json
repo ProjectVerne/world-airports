@@ -1,0 +1,33 @@
+{
+  "key": "osap",
+  "codes": {
+    "icao": "OSAP",
+    "iata": "ALP",
+    "gps": "OSAP",
+    "local": null
+  },
+  "name": "Aleppo International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.181262,
+    "longitude": 37.226869,
+    "elevation_ft": 1276,
+    "iso_country": "SY",
+    "iso_region": "SY-HL",
+    "municipality": "Aleppo"
+  },
+  "keywords": [
+    "مطار حلب الدولي"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aleppo_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5302
+  }
+}

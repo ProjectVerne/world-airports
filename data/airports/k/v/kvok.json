@@ -1,0 +1,33 @@
+{
+  "key": "kvok",
+  "codes": {
+    "icao": "KVOK",
+    "iata": "VOK",
+    "gps": "KVOK",
+    "local": "VOK"
+  },
+  "name": "Volk Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.938999,
+    "longitude": -90.253403,
+    "elevation_ft": 912,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Camp Douglas"
+  },
+  "keywords": [
+    "Camp Williams"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Volk_Field_Air_National_Guard_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3947
+  }
+}

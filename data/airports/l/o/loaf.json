@@ -1,0 +1,32 @@
+{
+  "key": "loaf",
+  "codes": {
+    "icao": "LOAF",
+    "iata": null,
+    "gps": "LOAF",
+    "local": null
+  },
+  "name": "Baden Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.000612,
+    "longitude": 16.255796,
+    "elevation_ft": 733,
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Baden"
+  },
+  "keywords": [
+    "AT-0051"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43808
+  }
+}

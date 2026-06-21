@@ -1,0 +1,30 @@
+{
+  "key": "fncu",
+  "codes": {
+    "icao": "FNCU",
+    "iata": null,
+    "gps": "FNCU",
+    "local": null
+  },
+  "name": "Calulo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.976268,
+    "longitude": 14.917932,
+    "elevation_ft": 2988,
+    "iso_country": "AO",
+    "iso_region": "AO-CUS",
+    "municipality": "Calulo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 598660
+  }
+}

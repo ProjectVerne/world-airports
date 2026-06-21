@@ -1,0 +1,33 @@
+{
+  "key": "setn",
+  "codes": {
+    "icao": "SETN",
+    "iata": "ESM",
+    "gps": "SETN",
+    "local": null
+  },
+  "name": "Carlos Concha Torres International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 0.978519,
+    "longitude": -79.626602,
+    "elevation_ft": 32,
+    "iso_country": "EC",
+    "iso_region": "EC-E",
+    "municipality": "Tachina"
+  },
+  "keywords": [
+    "General Rivadeneira"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Colonel_Carlos_Concha_Torres_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6084
+  }
+}

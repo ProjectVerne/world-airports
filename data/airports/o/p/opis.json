@@ -1,0 +1,31 @@
+{
+  "key": "opis",
+  "codes": {
+    "icao": "OPIS",
+    "iata": "ISB",
+    "gps": "OPIS",
+    "local": null
+  },
+  "name": "Islamabad International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.549,
+    "longitude": 72.82566,
+    "elevation_ft": 1761,
+    "iso_country": "PK",
+    "iso_region": "PK-PB",
+    "municipality": "Attock"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Islamabad_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333692
+  }
+}

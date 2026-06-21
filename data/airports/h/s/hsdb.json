@@ -1,0 +1,33 @@
+{
+  "key": "hsdb",
+  "codes": {
+    "icao": "HSDB",
+    "iata": "EDB",
+    "gps": "HSDB",
+    "local": null
+  },
+  "name": "Al Dabbah Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.0146,
+    "longitude": 30.9595,
+    "elevation_ft": 843,
+    "iso_country": "SD",
+    "iso_region": "SD-01",
+    "municipality": "Al Dabbah"
+  },
+  "keywords": [
+    "El Debba"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Al_Dabbah_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30980
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kofk",
+  "codes": {
+    "icao": "KOFK",
+    "iata": "OFK",
+    "gps": "KOFK",
+    "local": "OFK"
+  },
+  "name": "Karl Stefan Memorial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.9855,
+    "longitude": -97.435097,
+    "elevation_ft": 1573,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Norfolk"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Norfolk_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20722
+  }
+}

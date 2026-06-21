@@ -1,0 +1,30 @@
+{
+  "key": "_us_45524",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "27NH",
+    "local": "27NH"
+  },
+  "name": "Phantom One Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.673972,
+    "longitude": -72.206472,
+    "elevation_ft": 1315,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Hanover"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45524
+  }
+}

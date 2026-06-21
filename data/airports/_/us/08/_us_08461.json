@@ -1,0 +1,33 @@
+{
+  "key": "_us_08461",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Beyer Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 45.9733,
+    "longitude": -96.564201,
+    "elevation_ft": 1000,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Tenney"
+  },
+  "keywords": [
+    "1MN1",
+    "US-9687"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8461
+  }
+}

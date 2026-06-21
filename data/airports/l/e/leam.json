@@ -1,0 +1,31 @@
+{
+  "key": "leam",
+  "codes": {
+    "icao": "LEAM",
+    "iata": "LEI",
+    "gps": "LEAM",
+    "local": null
+  },
+  "name": "Almería Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.843899,
+    "longitude": -2.3701,
+    "elevation_ft": 70,
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Almería"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Almer%C3%ADa_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3998
+  }
+}

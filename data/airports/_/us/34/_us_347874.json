@@ -1,0 +1,32 @@
+{
+  "key": "_us_347874",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Emerson Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.45119,
+    "longitude": -71.37487,
+    "elevation_ft": 121,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Concord"
+  },
+  "keywords": [
+    "US-5209"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 347874
+  }
+}

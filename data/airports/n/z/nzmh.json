@@ -1,0 +1,30 @@
+{
+  "key": "nzmh",
+  "codes": {
+    "icao": "NZMH",
+    "iata": null,
+    "gps": "NZMH",
+    "local": null
+  },
+  "name": "Wairarapa Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -40.947475,
+    "longitude": 175.675356,
+    "elevation_ft": 367,
+    "iso_country": "NZ",
+    "iso_region": "NZ-WGN",
+    "municipality": "Masterton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44840
+  }
+}

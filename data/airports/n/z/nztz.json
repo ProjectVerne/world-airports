@@ -1,0 +1,32 @@
+{
+  "key": "nztz",
+  "codes": {
+    "icao": "NZTZ",
+    "iata": null,
+    "gps": "NZTZ",
+    "local": null
+  },
+  "name": "Timaru Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -44.409262,
+    "longitude": 171.255578,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Timaru"
+  },
+  "keywords": [
+    "Timaru Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605015
+  }
+}

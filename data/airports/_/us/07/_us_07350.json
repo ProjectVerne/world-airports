@@ -1,0 +1,33 @@
+{
+  "key": "_us_07350",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Franklin Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 31.4252,
+    "longitude": -90.902901,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Meadville"
+  },
+  "keywords": [
+    "0MS1",
+    "US-9488"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7350
+  }
+}

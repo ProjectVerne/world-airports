@@ -1,0 +1,33 @@
+{
+  "key": "egsp",
+  "codes": {
+    "icao": "EGSP",
+    "iata": null,
+    "gps": "EGSP",
+    "local": null
+  },
+  "name": "Peterborough/Sibson Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.5571,
+    "longitude": -0.386982,
+    "elevation_ft": 130,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Peterborough, Cambridgeshire"
+  },
+  "keywords": [
+    "Sibson Aerodrome"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Peterborough/Sibson_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29189
+  }
+}

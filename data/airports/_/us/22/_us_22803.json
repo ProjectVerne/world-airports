@@ -1,0 +1,33 @@
+{
+  "key": "_us_22803",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NC61",
+    "local": "NC61"
+  },
+  "name": "NC61 Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.459589,
+    "longitude": -76.210855,
+    "elevation_ft": 12,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Moyock"
+  },
+  "keywords": [
+    "Academi Airstrip",
+    "Blackwater Airstrip"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22803
+  }
+}

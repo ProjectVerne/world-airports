@@ -1,0 +1,33 @@
+{
+  "key": "egae",
+  "codes": {
+    "icao": "EGAE",
+    "iata": "LDY",
+    "gps": "EGAE",
+    "local": null
+  },
+  "name": "City of Derry Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.042801,
+    "longitude": -7.16111,
+    "elevation_ft": 22,
+    "iso_country": "GB",
+    "iso_region": "GB-NIR",
+    "municipality": "Derry, Derry and Strabane"
+  },
+  "keywords": [
+    "Londonderry Eglinton Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/City_of_Derry_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2388
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kash",
+  "codes": {
+    "icao": "KASH",
+    "iata": "ASH",
+    "gps": "KASH",
+    "local": "ASH"
+  },
+  "name": "Nashua Airport / Boire Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.7817,
+    "longitude": -71.514801,
+    "elevation_ft": 199,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Nashua"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nashua_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19310
+  }
+}

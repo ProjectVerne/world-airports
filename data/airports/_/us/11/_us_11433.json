@@ -1,0 +1,30 @@
+{
+  "key": "_us_11433",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4GA8",
+    "local": "4GA8"
+  },
+  "name": "Andrews Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.415501,
+    "longitude": -84.712997,
+    "elevation_ft": 245,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Arlington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11433
+  }
+}

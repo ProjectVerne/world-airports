@@ -1,0 +1,30 @@
+{
+  "key": "_us_17247",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FA57",
+    "local": "FA57"
+  },
+  "name": "Archer Emergency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.534201,
+    "longitude": -82.524399,
+    "elevation_ft": 82,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Archer"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17247
+  }
+}

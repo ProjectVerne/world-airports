@@ -1,0 +1,30 @@
+{
+  "key": "_us_09238",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "29CA",
+    "local": "29CA"
+  },
+  "name": "Landells Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.255901,
+    "longitude": -116.454002,
+    "elevation_ft": 940,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Desert Hot Springs"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9238
+  }
+}

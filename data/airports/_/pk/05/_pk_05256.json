@@ -1,0 +1,33 @@
+{
+  "key": "_pk_05256",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Kharan Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 28.5972,
+    "longitude": 65.422501,
+    "elevation_ft": 2408,
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Kharan"
+  },
+  "keywords": [
+    "OPKN",
+    "PK-0081"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5256
+  }
+}

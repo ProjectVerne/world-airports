@@ -1,0 +1,32 @@
+{
+  "key": "_us_15226",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8VA0",
+    "local": "8VA0"
+  },
+  "name": "VCU Health System-I Lot Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.547937,
+    "longitude": -77.43038,
+    "elevation_ft": 160,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Richmond"
+  },
+  "keywords": [
+    "MCV Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15226
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_10922",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "40KS",
+    "local": "40KS"
+  },
+  "name": "Chanay Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.53165,
+    "longitude": -95.451515,
+    "elevation_ft": 1110,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Pomona"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10922
+  }
+}

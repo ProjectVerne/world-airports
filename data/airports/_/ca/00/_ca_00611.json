@@ -1,0 +1,30 @@
+{
+  "key": "_ca_00611",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CAA6",
+    "local": "CAA6"
+  },
+  "name": "Smithers (Canadian) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 54.772295,
+    "longitude": -127.141599,
+    "elevation_ft": 1600,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Smithers"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 611
+  }
+}

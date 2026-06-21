@@ -1,0 +1,33 @@
+{
+  "key": "liln",
+  "codes": {
+    "icao": "LILN",
+    "iata": null,
+    "gps": "LILN",
+    "local": "VA02"
+  },
+  "name": "Varese-Venegono Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.742199,
+    "longitude": 8.888233,
+    "elevation_ft": 1100,
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Venegono Superiore (VA)"
+  },
+  "keywords": [
+    "QVA"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Varese-Venegono_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4337
+  }
+}

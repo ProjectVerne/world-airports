@@ -1,0 +1,33 @@
+{
+  "key": "_ca_28403",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSV9",
+    "local": "CSV9"
+  },
+  "name": "St-Mathias Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 45.5028,
+    "longitude": -73.252197,
+    "elevation_ft": 25,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": null
+  },
+  "keywords": [
+    "SV9"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saint-Mathias_Water_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28403
+  }
+}

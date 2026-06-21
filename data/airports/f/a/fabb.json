@@ -1,0 +1,30 @@
+{
+  "key": "fabb",
+  "codes": {
+    "icao": "FABB",
+    "iata": null,
+    "gps": "FABB",
+    "local": null
+  },
+  "name": "Brakpan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.2386,
+    "longitude": 28.3018,
+    "elevation_ft": 5300,
+    "iso_country": "ZA",
+    "iso_region": "ZA-GT",
+    "municipality": "Brakpan"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2770
+  }
+}

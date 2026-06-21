@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01455",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPT2",
+    "local": "CPT2"
+  },
+  "name": "Killarney Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.977501,
+    "longitude": -81.494698,
+    "elevation_ft": 608,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Killarney"
+  },
+  "keywords": [
+    "PT2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Killarney_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1455
+  }
+}

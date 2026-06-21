@@ -1,0 +1,35 @@
+{
+  "key": "vebi",
+  "codes": {
+    "icao": "VEBI",
+    "iata": "SHL",
+    "gps": "VEBI",
+    "local": null
+  },
+  "name": "Shillong Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.7036,
+    "longitude": 91.978699,
+    "elevation_ft": 2910,
+    "iso_country": "IN",
+    "iso_region": "IN-ML",
+    "municipality": "Shillong"
+  },
+  "keywords": [
+    "Barapani Airport",
+    "Barapani Air Force Station",
+    "Umroi Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shillong_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26492
+  }
+}

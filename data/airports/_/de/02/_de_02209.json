@@ -1,0 +1,39 @@
+{
+  "key": "_de_02209",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Berlin-Schönefeld Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 52.380001,
+    "longitude": 13.5225,
+    "elevation_ft": 157,
+    "iso_country": "DE",
+    "iso_region": "DE-BR",
+    "municipality": "Berlin"
+  },
+  "keywords": [
+    "BER",
+    "EDDB",
+    "ETBS",
+    "Schoenefeld",
+    "Terminal 5",
+    "SXF",
+    "DE-0440"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Berlin-Sch%C3%B6nefeld_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2209
+  }
+}

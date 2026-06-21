@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00646",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CAU3",
+    "local": "CAU3"
+  },
+  "name": "Oliver Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.173302,
+    "longitude": -119.551003,
+    "elevation_ft": 1015,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Oliver"
+  },
+  "keywords": [
+    "AU3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 646
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "cyax",
+  "codes": {
+    "icao": "CYAX",
+    "iata": null,
+    "gps": "CYAX",
+    "local": null
+  },
+  "name": "Lac du Bonnet Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.294399,
+    "longitude": -96.010002,
+    "elevation_ft": 850,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Lac du Bonnet"
+  },
+  "keywords": [
+    "YAX"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lac_du_Bonnet_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1664
+  }
+}

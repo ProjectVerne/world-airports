@@ -1,0 +1,31 @@
+{
+  "key": "skmd",
+  "codes": {
+    "icao": "SKMD",
+    "iata": "EOH",
+    "gps": "SKMD",
+    "local": "EOH"
+  },
+  "name": "Enrique Olaya Herrera Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.219686,
+    "longitude": -75.590597,
+    "elevation_ft": 4949,
+    "iso_country": "CO",
+    "iso_region": "CO-ANT",
+    "municipality": "Medellín"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Enrique_Olaya_Herrera_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6132
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_17945",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "II64",
+    "local": "II64"
+  },
+  "name": "Universal Mine Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.613899,
+    "longitude": -87.461998,
+    "elevation_ft": 550,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Universal"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17945
+  }
+}

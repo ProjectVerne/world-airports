@@ -1,0 +1,31 @@
+{
+  "key": "kmic",
+  "codes": {
+    "icao": "KMIC",
+    "iata": "MIC",
+    "gps": "KMIC",
+    "local": "MIC"
+  },
+  "name": "Crystal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.062,
+    "longitude": -93.353897,
+    "elevation_ft": 869,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Minneapolis"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Crystal_Airport_(Minnesota)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20508
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_10445",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3FD5",
+    "local": "3FD5"
+  },
+  "name": "Arnold Palmer Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.523125,
+    "longitude": -81.380196,
+    "elevation_ft": 150,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Orlando"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10445
+  }
+}

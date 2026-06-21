@@ -1,0 +1,31 @@
+{
+  "key": "ncai",
+  "codes": {
+    "icao": "NCAI",
+    "iata": "AIT",
+    "gps": "NCAI",
+    "local": null
+  },
+  "name": "Aitutaki Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -18.8309,
+    "longitude": -159.764008,
+    "elevation_ft": 14,
+    "iso_country": "CK",
+    "iso_region": "CK-U-A",
+    "municipality": "Aitutaki"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aitutaki_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4957
+  }
+}

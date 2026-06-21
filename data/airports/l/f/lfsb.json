@@ -1,0 +1,37 @@
+{
+  "key": "lfsb",
+  "codes": {
+    "icao": "LFSB",
+    "iata": "BSL",
+    "gps": "LFSB",
+    "local": null
+  },
+  "name": "EuroAirport Basel–Mulhouse–Freiburg",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.60068,
+    "longitude": 7.521117,
+    "elevation_ft": 885,
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "Bâle / Mulhouse"
+  },
+  "keywords": [
+    "MLH",
+    "EAP",
+    "LSZM",
+    "Bâle",
+    "Basle"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/EuroAirport_Basel-Mulhouse-Freiburg",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4226
+  }
+}

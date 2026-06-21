@@ -1,0 +1,30 @@
+{
+  "key": "klic",
+  "codes": {
+    "icao": "KLIC",
+    "iata": "LIC",
+    "gps": "KLIC",
+    "local": "LIC"
+  },
+  "name": "Limon Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.274799,
+    "longitude": -103.666,
+    "elevation_ft": 5374,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Limon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20345
+  }
+}

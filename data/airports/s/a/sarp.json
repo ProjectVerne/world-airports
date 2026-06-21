@@ -1,0 +1,31 @@
+{
+  "key": "sarp",
+  "codes": {
+    "icao": "SARP",
+    "iata": "PSS",
+    "gps": "SARP",
+    "local": "POS"
+  },
+  "name": "Libertador Gral D Jose De San Martin Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.3858,
+    "longitude": -55.9707,
+    "elevation_ft": 430,
+    "iso_country": "AR",
+    "iso_region": "AR-N",
+    "municipality": "Posadas"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Libertador_General_Jos%C3%A9_de_San_Mart%C3%ADn_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5809
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "fmmc",
+  "codes": {
+    "icao": "FMMC",
+    "iata": "WML",
+    "gps": "FMMC",
+    "local": null
+  },
+  "name": "Malaimbandy Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.35539,
+    "longitude": 45.543373,
+    "elevation_ft": 597,
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Malaimbandy"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32671
+  }
+}

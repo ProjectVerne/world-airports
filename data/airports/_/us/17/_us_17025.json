@@ -1,0 +1,30 @@
+{
+  "key": "_us_17025",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT70",
+    "local": "CT70"
+  },
+  "name": "Wilsonville Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.014,
+    "longitude": -71.879501,
+    "elevation_ft": 400,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Wilsonville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17025
+  }
+}

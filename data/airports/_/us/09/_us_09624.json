@@ -1,0 +1,30 @@
+{
+  "key": "_us_09624",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2NH3",
+    "local": "2NH3"
+  },
+  "name": "Scott Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.1143,
+    "longitude": -71.498199,
+    "elevation_ft": 580,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Bow"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9624
+  }
+}

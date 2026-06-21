@@ -1,0 +1,30 @@
+{
+  "key": "_us_22422",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MT25",
+    "local": "MT25"
+  },
+  "name": "St Vincent Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.783298,
+    "longitude": -108.501999,
+    "elevation_ft": 3300,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Billings"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22422
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "ksmo",
+  "codes": {
+    "icao": "KSMO",
+    "iata": "SMO",
+    "gps": "KSMO",
+    "local": "SMO"
+  },
+  "name": "Santa Monica Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.0158,
+    "longitude": -118.450996,
+    "elevation_ft": 170,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Santa Monica"
+  },
+  "keywords": [
+    "Clover Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Santa_Monica_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21087
+  }
+}

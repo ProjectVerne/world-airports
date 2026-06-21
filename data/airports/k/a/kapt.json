@@ -1,0 +1,31 @@
+{
+  "key": "kapt",
+  "codes": {
+    "icao": "KAPT",
+    "iata": "APT",
+    "gps": "KAPT",
+    "local": "APT"
+  },
+  "name": "Marion County Airport - Brown Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.060699,
+    "longitude": -85.585297,
+    "elevation_ft": 641,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Jasper"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Marion_County_Airport_(Tennessee)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19295
+  }
+}

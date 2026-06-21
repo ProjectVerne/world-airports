@@ -1,0 +1,30 @@
+{
+  "key": "_us_07255",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0KS4",
+    "local": "0KS4"
+  },
+  "name": "Norris Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.807239,
+    "longitude": -95.370056,
+    "elevation_ft": 1065,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Lawrence"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7255
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "kunv",
+  "codes": {
+    "icao": "KUNV",
+    "iata": "SCE",
+    "gps": "KUNV",
+    "local": "UNV"
+  },
+  "name": "State College Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.849374,
+    "longitude": -77.84852,
+    "elevation_ft": 1239,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "State College"
+  },
+  "keywords": [
+    "University Park"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/University_Park_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21300
+  }
+}

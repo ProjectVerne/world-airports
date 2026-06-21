@@ -1,0 +1,33 @@
+{
+  "key": "fawk",
+  "codes": {
+    "icao": "FAWK",
+    "iata": "WKF",
+    "gps": "FAWK",
+    "local": null
+  },
+  "name": "Waterkloof Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.83,
+    "longitude": 28.2225,
+    "elevation_ft": 4940,
+    "iso_country": "ZA",
+    "iso_region": "ZA-GT",
+    "municipality": "Pretoria"
+  },
+  "keywords": [
+    "AFB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/AFB_Waterkloof",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2856
+  }
+}

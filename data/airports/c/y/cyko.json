@@ -1,0 +1,33 @@
+{
+  "key": "cyko",
+  "codes": {
+    "icao": "CYKO",
+    "iata": "AKV",
+    "gps": "CYKO",
+    "local": null
+  },
+  "name": "Akulivik Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.8186,
+    "longitude": -78.148598,
+    "elevation_ft": 75,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Akulivik"
+  },
+  "keywords": [
+    "YKO"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Akulivik_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1791
+  }
+}

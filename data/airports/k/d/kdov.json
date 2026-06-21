@@ -1,0 +1,35 @@
+{
+  "key": "kdov",
+  "codes": {
+    "icao": "KDOV",
+    "iata": "DOV",
+    "gps": "KDOV",
+    "local": "DOV"
+  },
+  "name": "Dover Civil Air Terminal/Dover Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.129501,
+    "longitude": -75.466003,
+    "elevation_ft": 24,
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Dover"
+  },
+  "keywords": [
+    "Municipal Airport - Dover Airdrome",
+    "Dover Army Airbase",
+    "Dover Army Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dover_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3494
+  }
+}

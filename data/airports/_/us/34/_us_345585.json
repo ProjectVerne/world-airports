@@ -1,0 +1,32 @@
+{
+  "key": "_us_345585",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OR24",
+    "local": "OR24"
+  },
+  "name": "HTS Aurora Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.243228,
+    "longitude": -122.764503,
+    "elevation_ft": 192,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Aurora"
+  },
+  "keywords": [
+    "US-4496"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345585
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_20431",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KM40",
+    "local": "M40"
+  },
+  "name": "Monroe County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.873699,
+    "longitude": -88.4897,
+    "elevation_ft": 226,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Aberdeen"
+  },
+  "keywords": [
+    "Amory"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Monroe_County_Airport_(Mississippi)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20431
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_09000",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "24IN"
+  },
+  "name": "Kenstin Manor Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.262813,
+    "longitude": -86.289003,
+    "elevation_ft": 658,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Helmsburg"
+  },
+  "keywords": [
+    "24IN"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9000
+  }
+}

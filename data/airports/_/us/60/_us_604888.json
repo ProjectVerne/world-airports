@@ -1,0 +1,30 @@
+{
+  "key": "_us_604888",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "76DE",
+    "local": "76DE"
+  },
+  "name": "JT21 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.021389,
+    "longitude": -75.521667,
+    "elevation_ft": 40,
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "JT21 Heliport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 604888
+  }
+}

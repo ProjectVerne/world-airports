@@ -1,0 +1,33 @@
+{
+  "key": "_us_08255",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Norden Systems Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.112461,
+    "longitude": -73.38762,
+    "elevation_ft": 60,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Norwalk"
+  },
+  "keywords": [
+    "1CT0",
+    "US-9656"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8255
+  }
+}

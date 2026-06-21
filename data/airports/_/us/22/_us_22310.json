@@ -1,0 +1,33 @@
+{
+  "key": "_us_22310",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Hopper Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 33.622501,
+    "longitude": -88.286102,
+    "elevation_ft": 300,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Steens"
+  },
+  "keywords": [
+    "MS04",
+    "US-11724"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22310
+  }
+}

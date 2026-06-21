@@ -1,0 +1,33 @@
+{
+  "key": "mmct",
+  "codes": {
+    "icao": "MMCT",
+    "iata": "CZA",
+    "gps": "MMCT",
+    "local": null
+  },
+  "name": "Chichén Itzá International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.6413,
+    "longitude": -88.446198,
+    "elevation_ft": 102,
+    "iso_country": "MX",
+    "iso_region": "MX-YUC",
+    "municipality": "Tinúm"
+  },
+  "keywords": [
+    "Aeropuerto Internacional de Chichen Itza"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chichen_Itza_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4702
+  }
+}

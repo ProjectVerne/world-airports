@@ -1,0 +1,30 @@
+{
+  "key": "_ca_509870",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CCE7",
+    "local": "CCE7"
+  },
+  "name": "Edmonton City Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.535683,
+    "longitude": -113.663777,
+    "elevation_ft": 2254,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Edmonton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509870
+  }
+}

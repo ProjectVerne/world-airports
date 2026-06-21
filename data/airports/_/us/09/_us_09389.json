@@ -1,0 +1,32 @@
+{
+  "key": "_us_09389",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2FD7",
+    "local": "2FD7"
+  },
+  "name": "Air Orlando Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.4356,
+    "longitude": -81.473099,
+    "elevation_ft": 120,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Orlando"
+  },
+  "keywords": [
+    "Air Florida Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9389
+  }
+}

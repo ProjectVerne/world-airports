@@ -1,0 +1,30 @@
+{
+  "key": "_ca_00882",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CEP2",
+    "local": "CEP2"
+  },
+  "name": "Calgary (Bow Crow) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.103165,
+    "longitude": -114.214962,
+    "elevation_ft": 3540,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Calgary"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 882
+  }
+}

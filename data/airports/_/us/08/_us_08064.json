@@ -1,0 +1,30 @@
+{
+  "key": "_us_08064",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "17PA",
+    "local": "17PA"
+  },
+  "name": "Kelly Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.441799,
+    "longitude": -75.3246,
+    "elevation_ft": 526,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Quakertown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8064
+  }
+}

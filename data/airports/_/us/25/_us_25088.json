@@ -1,0 +1,32 @@
+{
+  "key": "_us_25088",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS72",
+    "local": "TS72"
+  },
+  "name": "UT Health East Texas Cedar Creek Lake Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.332028,
+    "longitude": -96.115811,
+    "elevation_ft": 385,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Gun Barrel City"
+  },
+  "keywords": [
+    "ETMC - Gun Barrel City"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25088
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "ldhr",
+  "codes": {
+    "icao": "LDHR",
+    "iata": null,
+    "gps": "LDHR",
+    "local": null
+  },
+  "name": "Rab Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.768822,
+    "longitude": 14.732854,
+    "elevation_ft": 16,
+    "iso_country": "HR",
+    "iso_region": "HR-08",
+    "municipality": "Rab Island"
+  },
+  "keywords": [
+    "Brčići"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 604740
+  }
+}

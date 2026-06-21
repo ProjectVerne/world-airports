@@ -1,0 +1,30 @@
+{
+  "key": "favm",
+  "codes": {
+    "icao": "FAVM",
+    "iata": null,
+    "gps": "FAVM",
+    "local": null
+  },
+  "name": "Venetia Mine Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.448099,
+    "longitude": 29.3377,
+    "elevation_ft": 2333,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Alldays"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2851
+  }
+}

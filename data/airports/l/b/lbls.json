@@ -1,0 +1,31 @@
+{
+  "key": "lbls",
+  "codes": {
+    "icao": "LBLS",
+    "iata": null,
+    "gps": "LBLS",
+    "local": null
+  },
+  "name": "Lesnovo Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.632465,
+    "longitude": 23.650102,
+    "elevation_ft": 1825,
+    "iso_country": "BG",
+    "iso_region": "BG-23",
+    "municipality": "Lesnovo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lesnovo_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43910
+  }
+}

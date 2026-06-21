@@ -1,0 +1,30 @@
+{
+  "key": "krif",
+  "codes": {
+    "icao": "KRIF",
+    "iata": "RIF",
+    "gps": "KRIF",
+    "local": "RIF"
+  },
+  "name": "Richfield Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.734068,
+    "longitude": -112.101603,
+    "elevation_ft": 5301,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Richfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20930
+  }
+}

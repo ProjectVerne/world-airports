@@ -1,0 +1,31 @@
+{
+  "key": "omrs",
+  "codes": {
+    "icao": "OMRS",
+    "iata": null,
+    "gps": "OMRS",
+    "local": null
+  },
+  "name": "Al Saqr Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.752944,
+    "longitude": 55.959234,
+    "elevation_ft": 2,
+    "iso_country": "AE",
+    "iso_region": "AE-RK",
+    "municipality": "Al Duhaisah"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Al_Saqr_Field_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42253
+  }
+}

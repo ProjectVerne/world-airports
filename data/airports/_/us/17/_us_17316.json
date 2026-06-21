@@ -1,0 +1,32 @@
+{
+  "key": "_us_17316",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FD45",
+    "local": "FD45"
+  },
+  "name": "HCA Florida Fort Walton-Destin Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.455208,
+    "longitude": -86.632621,
+    "elevation_ft": 47,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Fort Walton Beach"
+  },
+  "keywords": [
+    "Fort Walton Beach Medical Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17316
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_06535",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "00GE",
+    "local": "00GE"
+  },
+  "name": "Caffrey Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.887982,
+    "longitude": -84.736983,
+    "elevation_ft": 957,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Hiram"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6535
+  }
+}

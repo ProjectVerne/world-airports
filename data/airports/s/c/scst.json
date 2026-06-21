@@ -1,0 +1,31 @@
+{
+  "key": "scst",
+  "codes": {
+    "icao": "SCST",
+    "iata": "WCA",
+    "gps": "SCST",
+    "local": null
+  },
+  "name": "Gamboa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -42.490299,
+    "longitude": -73.772797,
+    "elevation_ft": 151,
+    "iso_country": "CL",
+    "iso_region": "CL-LL",
+    "municipality": "Castro"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gamboa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29885
+  }
+}

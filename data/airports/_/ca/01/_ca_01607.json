@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01607",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CTP5",
+    "local": "CTP5"
+  },
+  "name": "St. Paul (Health Care Centre) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.988098,
+    "longitude": -111.291,
+    "elevation_ft": 2113,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "St. Paul"
+  },
+  "keywords": [
+    "TP5"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1607
+  }
+}

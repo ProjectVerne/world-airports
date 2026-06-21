@@ -1,0 +1,31 @@
+{
+  "key": "sylt",
+  "codes": {
+    "icao": "SYLT",
+    "iata": "LTM",
+    "gps": "SYLT",
+    "local": null
+  },
+  "name": "Lethem Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 3.37276,
+    "longitude": -59.789398,
+    "elevation_ft": 351,
+    "iso_country": "GY",
+    "iso_region": "GY-UT",
+    "municipality": "Lethem"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lethem_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6358
+  }
+}

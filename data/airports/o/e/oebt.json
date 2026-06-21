@@ -1,0 +1,33 @@
+{
+  "key": "oebt",
+  "codes": {
+    "icao": "OEBT",
+    "iata": null,
+    "gps": "OEBT",
+    "local": null
+  },
+  "name": "Batha Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.214693,
+    "longitude": 51.44989,
+    "elevation_ft": 257,
+    "iso_country": "SA",
+    "iso_region": "SA-04",
+    "municipality": "Batha"
+  },
+  "keywords": [
+    "Ras Sumeira UAE",
+    "AE-0001"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42257
+  }
+}

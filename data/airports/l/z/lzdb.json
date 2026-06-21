@@ -1,0 +1,33 @@
+{
+  "key": "lzdb",
+  "codes": {
+    "icao": "LZDB",
+    "iata": null,
+    "gps": "LZDB",
+    "local": null
+  },
+  "name": "Slávnica-Dubnica nad Váhom Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.996899,
+    "longitude": 18.1922,
+    "elevation_ft": 771,
+    "iso_country": "SK",
+    "iso_region": "SK-TC",
+    "municipality": "Dubnica nad Váhom"
+  },
+  "keywords": [
+    "Slávnica"
+  ],
+  "wikipedia": "https://sk.wikipedia.org/wiki/Letisko_Slavnica-Dubnica_nad_V%C3%A1hom",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29830
+  }
+}

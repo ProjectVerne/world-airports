@@ -1,0 +1,31 @@
+{
+  "key": "lfrs",
+  "codes": {
+    "icao": "LFRS",
+    "iata": "NTE",
+    "gps": "LFRS",
+    "local": null
+  },
+  "name": "Nantes Atlantique Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.153198,
+    "longitude": -1.61073,
+    "elevation_ft": 90,
+    "iso_country": "FR",
+    "iso_region": "FR-PDL",
+    "municipality": "Nantes"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nantes_Atlantique_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4221
+  }
+}

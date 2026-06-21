@@ -1,0 +1,30 @@
+{
+  "key": "_us_08438",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MA9",
+    "local": "1MA9"
+  },
+  "name": "Morton Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.905899,
+    "longitude": -71.0942,
+    "elevation_ft": 50,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Taunton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8438
+  }
+}

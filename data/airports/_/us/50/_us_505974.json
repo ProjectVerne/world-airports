@@ -1,0 +1,32 @@
+{
+  "key": "_us_505974",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8TX5",
+    "local": "8TX5"
+  },
+  "name": "STO 5 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.213578,
+    "longitude": -103.241103,
+    "elevation_ft": 4121,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Marathon"
+  },
+  "keywords": [
+    "US-7487"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505974
+  }
+}

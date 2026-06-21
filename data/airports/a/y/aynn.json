@@ -1,0 +1,30 @@
+{
+  "key": "aynn",
+  "codes": {
+    "icao": "AYNN",
+    "iata": "KDP",
+    "gps": "AYNN",
+    "local": "KDP"
+  },
+  "name": "Kandep Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.840611,
+    "longitude": 143.507222,
+    "elevation_ft": 7710,
+    "iso_country": "PG",
+    "iso_region": "PG-EPW",
+    "municipality": "Kandep"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307562
+  }
+}

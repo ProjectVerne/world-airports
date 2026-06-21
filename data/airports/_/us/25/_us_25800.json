@@ -1,0 +1,30 @@
+{
+  "key": "_us_25800",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WN05",
+    "local": "WN05"
+  },
+  "name": "Harris Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.514801,
+    "longitude": -122.792,
+    "elevation_ft": 385,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Toledo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25800
+  }
+}

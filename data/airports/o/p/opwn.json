@@ -1,0 +1,30 @@
+{
+  "key": "opwn",
+  "codes": {
+    "icao": "OPWN",
+    "iata": "WAF",
+    "gps": "OPWN",
+    "local": null
+  },
+  "name": "Wana Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.304699,
+    "longitude": 69.570396,
+    "elevation_ft": 4550,
+    "iso_country": "PK",
+    "iso_region": "PK-KP",
+    "municipality": "Waana"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5284
+  }
+}

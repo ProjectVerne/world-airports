@@ -1,0 +1,34 @@
+{
+  "key": "sble",
+  "codes": {
+    "icao": "SBLE",
+    "iata": "LEC",
+    "gps": "SBLE",
+    "local": "BA0006"
+  },
+  "name": "Coronel Horácio de Mattos Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -12.4823,
+    "longitude": -41.277,
+    "elevation_ft": 1676,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Lençóis"
+  },
+  "keywords": [
+    "Chapada Diamantina National Park",
+    "Lençóis Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5928
+  }
+}

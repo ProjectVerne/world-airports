@@ -1,0 +1,31 @@
+{
+  "key": "kwhp",
+  "codes": {
+    "icao": "KWHP",
+    "iata": "WHP",
+    "gps": "KWHP",
+    "local": "WHP"
+  },
+  "name": "Whiteman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.2593,
+    "longitude": -118.413002,
+    "elevation_ft": 1003,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Pacoima"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Whiteman_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21374
+  }
+}

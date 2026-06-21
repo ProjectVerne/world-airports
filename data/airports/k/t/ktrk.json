@@ -1,0 +1,31 @@
+{
+  "key": "ktrk",
+  "codes": {
+    "icao": "KTRK",
+    "iata": "TKF",
+    "gps": "KTRK",
+    "local": "TRK"
+  },
+  "name": "Truckee Tahoe Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.318628,
+    "longitude": -120.140562,
+    "elevation_ft": 5900,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Truckee"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Truckee_Tahoe_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21220
+  }
+}

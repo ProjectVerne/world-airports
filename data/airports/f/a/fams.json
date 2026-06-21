@@ -1,0 +1,30 @@
+{
+  "key": "fams",
+  "codes": {
+    "icao": "FAMS",
+    "iata": null,
+    "gps": "FAMS",
+    "local": null
+  },
+  "name": "Morningside Farm Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.7045,
+    "longitude": 26.909,
+    "elevation_ft": 4251,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NW",
+    "municipality": "Silveroaks"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2814
+  }
+}

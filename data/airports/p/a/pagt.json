@@ -1,0 +1,33 @@
+{
+  "key": "pagt",
+  "codes": {
+    "icao": "PAGT",
+    "iata": "NME",
+    "gps": "PAGT",
+    "local": "IGT"
+  },
+  "name": "Nightmute Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.469129,
+    "longitude": -164.70407,
+    "elevation_ft": 4,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Nightmute"
+  },
+  "keywords": [
+    "AK08"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nightmute_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17885
+  }
+}

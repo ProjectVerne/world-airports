@@ -1,0 +1,31 @@
+{
+  "key": "svpm",
+  "codes": {
+    "icao": "SVPM",
+    "iata": "SCI",
+    "gps": "SVPM",
+    "local": null
+  },
+  "name": "Paramillo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.801389,
+    "longitude": -72.202778,
+    "elevation_ft": 3313,
+    "iso_country": "VE",
+    "iso_region": "VE-S",
+    "municipality": "San Cristóbal"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Paramillo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6312
+  }
+}

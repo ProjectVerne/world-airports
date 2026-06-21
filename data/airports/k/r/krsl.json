@@ -1,0 +1,30 @@
+{
+  "key": "krsl",
+  "codes": {
+    "icao": "KRSL",
+    "iata": "RSL",
+    "gps": "KRSL",
+    "local": "RSL"
+  },
+  "name": "Russell Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.872101,
+    "longitude": -98.811798,
+    "elevation_ft": 1862,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Russell"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20962
+  }
+}

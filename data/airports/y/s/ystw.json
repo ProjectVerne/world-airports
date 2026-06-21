@@ -1,0 +1,31 @@
+{
+  "key": "ystw",
+  "codes": {
+    "icao": "YSTW",
+    "iata": "TMW",
+    "gps": "YSTW",
+    "local": null
+  },
+  "name": "Tamworth Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -31.077898,
+    "longitude": 150.845484,
+    "elevation_ft": 1334,
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Tamworth"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tamworth_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27147
+  }
+}

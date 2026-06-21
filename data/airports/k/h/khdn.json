@@ -1,0 +1,31 @@
+{
+  "key": "khdn",
+  "codes": {
+    "icao": "KHDN",
+    "iata": "HDN",
+    "gps": "KHDN",
+    "local": "HDN"
+  },
+  "name": "Yampa Valley Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.481201,
+    "longitude": -107.218002,
+    "elevation_ft": 6606,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Hayden"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yampa_Valley_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20038
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kttd",
+  "codes": {
+    "icao": "KTTD",
+    "iata": "TTD",
+    "gps": "KTTD",
+    "local": "TTD"
+  },
+  "name": "Portland Troutdale Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.5494,
+    "longitude": -122.401001,
+    "elevation_ft": 39,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Portland"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Portland%E2%80%93Troutdale_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21228
+  }
+}

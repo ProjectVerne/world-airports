@@ -1,0 +1,30 @@
+{
+  "key": "_us_606003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "42AZ",
+    "local": "42AZ"
+  },
+  "name": "WMAT EMS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.039708,
+    "longitude": -110.486912,
+    "elevation_ft": 4967,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Cibicue"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 606003
+  }
+}

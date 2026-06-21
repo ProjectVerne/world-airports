@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01556",
+  "codes": {
+    "icao": null,
+    "iata": "SSQ",
+    "gps": "CSR8",
+    "local": "CSR8"
+  },
+  "name": "La Sarre Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.917198,
+    "longitude": -79.178596,
+    "elevation_ft": 1048,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "La Sarre"
+  },
+  "keywords": [
+    "SR8"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Sarre_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1556
+  }
+}

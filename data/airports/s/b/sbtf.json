@@ -1,0 +1,31 @@
+{
+  "key": "sbtf",
+  "codes": {
+    "icao": "SBTF",
+    "iata": "TFF",
+    "gps": "SBTF",
+    "local": "AM0004"
+  },
+  "name": "Tefé Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.38294,
+    "longitude": -64.724098,
+    "elevation_ft": 186,
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Tefé"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tef%C3%A9_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5983
+  }
+}

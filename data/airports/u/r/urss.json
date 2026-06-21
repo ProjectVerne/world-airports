@@ -1,0 +1,35 @@
+{
+  "key": "urss",
+  "codes": {
+    "icao": "URSS",
+    "iata": "AER",
+    "gps": "URSS",
+    "local": null
+  },
+  "name": "Sochi International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.449902,
+    "longitude": 39.9566,
+    "elevation_ft": 89,
+    "iso_country": "RU",
+    "iso_region": "RU-KDA",
+    "municipality": "Sochi"
+  },
+  "keywords": [
+    "Adler Airport",
+    "Black Sea",
+    "Международный Аэропорт Сочи"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sochi_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6519
+  }
+}

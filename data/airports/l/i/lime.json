@@ -1,0 +1,35 @@
+{
+  "key": "lime",
+  "codes": {
+    "icao": "LIME",
+    "iata": "BGY",
+    "gps": "LIME",
+    "local": "BG01"
+  },
+  "name": "Il Caravaggio International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.669362,
+    "longitude": 9.708851,
+    "elevation_ft": 782,
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Orio al Serio (BG)"
+  },
+  "keywords": [
+    "Orio al Serio International Airport",
+    "Il Caravaggio International Airport",
+    "Milan Bergamo Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Orio_al_Serio_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4341
+  }
+}

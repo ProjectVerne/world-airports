@@ -1,0 +1,33 @@
+{
+  "key": "enfl",
+  "codes": {
+    "icao": "ENFL",
+    "iata": "FRO",
+    "gps": "ENFL",
+    "local": null
+  },
+  "name": "Florø Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.583599,
+    "longitude": 5.02472,
+    "elevation_ft": 37,
+    "iso_country": "NO",
+    "iso_region": "NO-46",
+    "municipality": "Florø"
+  },
+  "keywords": [
+    "Floro"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Flor%C3%B8_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2577
+  }
+}

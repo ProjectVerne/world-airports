@@ -1,0 +1,33 @@
+{
+  "key": "pawr",
+  "codes": {
+    "icao": "PAWR",
+    "iata": null,
+    "gps": "PAWR",
+    "local": "IEM"
+  },
+  "name": "Whittier Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.777225,
+    "longitude": -148.719606,
+    "elevation_ft": 30,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Whittier"
+  },
+  "keywords": [
+    "AK66"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Whittier,_Alaska#Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17876
+  }
+}

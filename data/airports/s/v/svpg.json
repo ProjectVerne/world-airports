@@ -1,0 +1,32 @@
+{
+  "key": "svpg",
+  "codes": {
+    "icao": "SVPG",
+    "iata": null,
+    "gps": "SVPG",
+    "local": null
+  },
+  "name": "Pariaguán Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.818996,
+    "longitude": -64.73945,
+    "elevation_ft": 787,
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "Pariaguán"
+  },
+  "keywords": [
+    "SVPF"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40245
+  }
+}

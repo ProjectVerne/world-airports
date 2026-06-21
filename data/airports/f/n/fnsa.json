@@ -1,0 +1,31 @@
+{
+  "key": "fnsa",
+  "codes": {
+    "icao": "FNSA",
+    "iata": "VHC",
+    "gps": "FNSA",
+    "local": null
+  },
+  "name": "Saurimo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.68907,
+    "longitude": 20.4319,
+    "elevation_ft": 3584,
+    "iso_country": "AO",
+    "iso_region": "AO-LSU",
+    "municipality": "Saurimo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saurimo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2949
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_16206",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AL14",
+    "local": "AL14"
+  },
+  "name": "Whitfield Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.505696,
+    "longitude": -87.83635,
+    "elevation_ft": 156,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Demopolis"
+  },
+  "keywords": [
+    "Bryan W Whitfield Memorial Hospital",
+    "Air Evac 106"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16206
+  }
+}

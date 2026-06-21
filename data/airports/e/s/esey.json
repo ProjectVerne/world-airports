@@ -1,0 +1,30 @@
+{
+  "key": "esey",
+  "codes": {
+    "icao": "ESEY",
+    "iata": null,
+    "gps": "ESEY",
+    "local": null
+  },
+  "name": "Lycksele Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 64.585356,
+    "longitude": 18.681019,
+    "elevation_ft": 742,
+    "iso_country": "SE",
+    "iso_region": "SE-AC",
+    "municipality": "Lycksele"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599657
+  }
+}

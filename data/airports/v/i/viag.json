@@ -1,0 +1,35 @@
+{
+  "key": "viag",
+  "codes": {
+    "icao": "VIAG",
+    "iata": "AGR",
+    "gps": "VIAG",
+    "local": null
+  },
+  "name": "Agra Airport / Agra Air Force Station",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.157975,
+    "longitude": 77.961025,
+    "elevation_ft": 551,
+    "iso_country": "IN",
+    "iso_region": "IN-UP",
+    "municipality": "Agra"
+  },
+  "keywords": [
+    "Kheria Airport",
+    "Pandit Deen Dayal Upadhyay Airport",
+    "RAF Agra"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Agra_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26537
+  }
+}

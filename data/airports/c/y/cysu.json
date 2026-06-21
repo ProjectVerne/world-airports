@@ -1,0 +1,33 @@
+{
+  "key": "cysu",
+  "codes": {
+    "icao": "CYSU",
+    "iata": "YSU",
+    "gps": "CYSU",
+    "local": null
+  },
+  "name": "Summerside Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.440601,
+    "longitude": -63.833599,
+    "elevation_ft": 56,
+    "iso_country": "CA",
+    "iso_region": "CA-PE",
+    "municipality": "Slemon Park"
+  },
+  "keywords": [
+    "PEI"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Summerside_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1913
+  }
+}

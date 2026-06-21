@@ -1,0 +1,30 @@
+{
+  "key": "_us_10866",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3WA4",
+    "local": "3WA4"
+  },
+  "name": "Watson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.716499,
+    "longitude": -118.617996,
+    "elevation_ft": 1349,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Kahlotus"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10866
+  }
+}

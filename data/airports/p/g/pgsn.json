@@ -1,0 +1,33 @@
+{
+  "key": "pgsn",
+  "codes": {
+    "icao": "PGSN",
+    "iata": "SPN",
+    "gps": "PGSN",
+    "local": "GSN"
+  },
+  "name": "Saipan International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.119384,
+    "longitude": 145.728848,
+    "elevation_ft": 215,
+    "iso_country": "MP",
+    "iso_region": "MP-U-A",
+    "municipality": "I Fadang, Saipan"
+  },
+  "keywords": [
+    "Francisco C. Ada"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saipan_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5431
+  }
+}

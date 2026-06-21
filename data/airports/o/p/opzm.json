@@ -1,0 +1,30 @@
+{
+  "key": "opzm",
+  "codes": {
+    "icao": "OPZM",
+    "iata": "ZIZ",
+    "gps": "OPZM",
+    "local": null
+  },
+  "name": "Zamzama Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 26.710944,
+    "longitude": 67.66725,
+    "elevation_ft": 128,
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Zamzama Gas Field"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301278
+  }
+}

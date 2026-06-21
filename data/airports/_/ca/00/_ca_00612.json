@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00612",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CAA8",
+    "local": "CAA8"
+  },
+  "name": "Invermere Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.521502,
+    "longitude": -116.005775,
+    "elevation_ft": 2820,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Invermere"
+  },
+  "keywords": [
+    "AA8"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Invermere_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 612
+  }
+}

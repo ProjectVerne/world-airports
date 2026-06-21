@@ -1,0 +1,32 @@
+{
+  "key": "_us_13501",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6PA2",
+    "local": "6PA2"
+  },
+  "name": "UPMC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.007049,
+    "longitude": -79.077367,
+    "elevation_ft": 2272,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Somerset"
+  },
+  "keywords": [
+    "Somerset Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13501
+  }
+}

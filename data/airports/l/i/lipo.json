@@ -1,0 +1,33 @@
+{
+  "key": "lipo",
+  "codes": {
+    "icao": "LIPO",
+    "iata": "VBS",
+    "gps": "LIPO",
+    "local": "BS04"
+  },
+  "name": "Brescia Gabriele d'Annunzio Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.428902,
+    "longitude": 10.3306,
+    "elevation_ft": 355,
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Montichiari (BS)"
+  },
+  "keywords": [
+    "Brescia-Montichiari"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brescia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4360
+  }
+}

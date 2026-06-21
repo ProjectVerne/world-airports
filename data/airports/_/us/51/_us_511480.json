@@ -1,0 +1,32 @@
+{
+  "key": "_us_511480",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Daily Restricted Landing Area Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.55253,
+    "longitude": -88.4725,
+    "elevation_ft": 651,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Mattoon"
+  },
+  "keywords": [
+    "US-8109"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 511480
+  }
+}

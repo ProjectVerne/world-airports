@@ -1,0 +1,33 @@
+{
+  "key": "kntu",
+  "codes": {
+    "icao": "KNTU",
+    "iata": "NTU",
+    "gps": "KNTU",
+    "local": "NTU"
+  },
+  "name": "Oceana Naval Air Station",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.820702,
+    "longitude": -76.033501,
+    "elevation_ft": 23,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Virginia Beach"
+  },
+  "keywords": [
+    "Apollo Soucek Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Oceana",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3740
+  }
+}

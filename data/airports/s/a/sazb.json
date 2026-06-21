@@ -1,0 +1,33 @@
+{
+  "key": "sazb",
+  "codes": {
+    "icao": "SAZB",
+    "iata": "BHI",
+    "gps": "SAZB",
+    "local": "BCA"
+  },
+  "name": "Comandante Espora Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -38.725,
+    "longitude": -62.1693,
+    "elevation_ft": 246,
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Bahía Blanca"
+  },
+  "keywords": [
+    "Bahía Blanca Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Comandante_Espora_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5840
+  }
+}

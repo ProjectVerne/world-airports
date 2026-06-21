@@ -1,0 +1,30 @@
+{
+  "key": "_us_22006",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ME91",
+    "local": "ME91"
+  },
+  "name": "Webster Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.675098,
+    "longitude": -70.495598,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Gorham"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22006
+  }
+}

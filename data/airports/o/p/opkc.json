@@ -1,0 +1,36 @@
+{
+  "key": "opkc",
+  "codes": {
+    "icao": "OPKC",
+    "iata": "KHI",
+    "gps": "OPKC",
+    "local": null
+  },
+  "name": "Jinnah International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.9065,
+    "longitude": 67.160797,
+    "elevation_ft": 100,
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Karachi"
+  },
+  "keywords": [
+    "OPQR",
+    "OPHQ",
+    "Drigh Road Airstrip",
+    "Quaid-E-Azam International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jinnah_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5255
+  }
+}

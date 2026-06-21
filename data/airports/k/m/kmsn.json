@@ -1,0 +1,31 @@
+{
+  "key": "kmsn",
+  "codes": {
+    "icao": "KMSN",
+    "iata": "MSN",
+    "gps": "KMSN",
+    "local": "MSN"
+  },
+  "name": "Dane County Regional Truax Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.1399,
+    "longitude": -89.337502,
+    "elevation_ft": 887,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Madison"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dane_County_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3707
+  }
+}

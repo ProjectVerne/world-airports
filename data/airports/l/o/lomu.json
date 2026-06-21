@@ -1,0 +1,30 @@
+{
+  "key": "lomu",
+  "codes": {
+    "icao": "LOMU",
+    "iata": null,
+    "gps": "LOMU",
+    "local": null
+  },
+  "name": "ÖAMTC / Klagenfurt Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.645692,
+    "longitude": 14.333743,
+    "elevation_ft": 1474,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Klagenfurt am Wörthersee"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 609162
+  }
+}

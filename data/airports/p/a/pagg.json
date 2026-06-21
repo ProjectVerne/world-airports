@@ -1,0 +1,34 @@
+{
+  "key": "pagg",
+  "codes": {
+    "icao": "PAGG",
+    "iata": "KWK",
+    "gps": "PAGG",
+    "local": "GGV"
+  },
+  "name": "Kwigillingok Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.876499,
+    "longitude": -163.169005,
+    "elevation_ft": 18,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Kwigillingok"
+  },
+  "keywords": [
+    "A85",
+    "AK85"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kwigillingok_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17595
+  }
+}

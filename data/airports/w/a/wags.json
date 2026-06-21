@@ -1,0 +1,34 @@
+{
+  "key": "wags",
+  "codes": {
+    "icao": "WAGS",
+    "iata": "SMQ",
+    "gps": "WAGS",
+    "local": null
+  },
+  "name": "Sampit (H.Asan) Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.499198,
+    "longitude": 112.974987,
+    "elevation_ft": 50,
+    "iso_country": "ID",
+    "iso_region": "ID-KT",
+    "municipality": "Sampit"
+  },
+  "keywords": [
+    "WRBS",
+    "WAOS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/H._Asan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26781
+  }
+}

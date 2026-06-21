@@ -1,0 +1,31 @@
+{
+  "key": "ntmp",
+  "codes": {
+    "icao": "NTMP",
+    "iata": "UAP",
+    "gps": "NTMP",
+    "local": null
+  },
+  "name": "Ua Pou Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.35167,
+    "longitude": -140.078003,
+    "elevation_ft": 16,
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Ua Pou"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ua_Pou_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32499
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "ushk",
+  "codes": {
+    "icao": "USHK",
+    "iata": "KXD",
+    "gps": "USHK",
+    "local": null
+  },
+  "name": "Kondinskoye Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.655083,
+    "longitude": 67.430046,
+    "elevation_ft": 131,
+    "iso_country": "RU",
+    "iso_region": "RU-KHM",
+    "municipality": "Kondinskoye"
+  },
+  "keywords": [
+    "Аэропорт Кондинское"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kondinskoye_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42942
+  }
+}

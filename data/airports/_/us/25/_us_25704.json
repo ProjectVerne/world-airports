@@ -1,0 +1,30 @@
+{
+  "key": "_us_25704",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WI08",
+    "local": "WI08"
+  },
+  "name": "St. Mary's Hospital Ozaukee Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.2565,
+    "longitude": -87.925697,
+    "elevation_ft": 667,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Mequon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25704
+  }
+}

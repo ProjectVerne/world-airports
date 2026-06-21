@@ -1,0 +1,33 @@
+{
+  "key": "scpr",
+  "codes": {
+    "icao": "SCPR",
+    "iata": null,
+    "gps": "SCPR",
+    "local": null
+  },
+  "name": "Corte Alto Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -40.941038,
+    "longitude": -73.168894,
+    "elevation_ft": 416,
+    "iso_country": "CL",
+    "iso_region": "CL-LL",
+    "municipality": "Purranque"
+  },
+  "keywords": [
+    "Club Aéreo de Purranque"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Corte_Alto_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39249
+  }
+}

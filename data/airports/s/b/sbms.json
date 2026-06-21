@@ -1,0 +1,33 @@
+{
+  "key": "sbms",
+  "codes": {
+    "icao": "SBMS",
+    "iata": "MVF",
+    "gps": "SBMS",
+    "local": "RN0002"
+  },
+  "name": "Dix-Sept Rosado Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.20192,
+    "longitude": -37.3643,
+    "elevation_ft": 76,
+    "iso_country": "BR",
+    "iso_region": "BR-RN",
+    "municipality": "Mossoró"
+  },
+  "keywords": [
+    "Mossoró Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mossor%C3%B3_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5944
+  }
+}

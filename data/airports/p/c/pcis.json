@@ -1,0 +1,33 @@
+{
+  "key": "pcis",
+  "codes": {
+    "icao": "PCIS",
+    "iata": "CIS",
+    "gps": "PCIS",
+    "local": null
+  },
+  "name": "Canton Island Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.76812,
+    "longitude": -171.710007,
+    "elevation_ft": 9,
+    "iso_country": "KI",
+    "iso_region": "KI-P",
+    "municipality": "Abariringa"
+  },
+  "keywords": [
+    "Kanton Island"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Canton_Island_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5426
+  }
+}

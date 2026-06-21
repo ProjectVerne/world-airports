@@ -1,0 +1,32 @@
+{
+  "key": "nzhh",
+  "codes": {
+    "icao": "NZHH",
+    "iata": null,
+    "gps": "NZHH",
+    "local": null
+  },
+  "name": "Jennian Hangar, Waikato Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -37.806231,
+    "longitude": 175.28107,
+    "elevation_ft": 200,
+    "iso_country": "NZ",
+    "iso_region": "NZ-WKO",
+    "municipality": "Hamilton"
+  },
+  "keywords": [
+    "NZ-0019"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308629
+  }
+}

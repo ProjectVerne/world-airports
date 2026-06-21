@@ -1,0 +1,31 @@
+{
+  "key": "ftte",
+  "codes": {
+    "icao": "FTTE",
+    "iata": null,
+    "gps": "FTTE",
+    "local": null
+  },
+  "name": "Biltine Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 14.551908,
+    "longitude": 20.841834,
+    "elevation_ft": 1680,
+    "iso_country": "TD",
+    "iso_region": "TD-WF",
+    "municipality": "Biltine"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Biltine_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31210
+  }
+}

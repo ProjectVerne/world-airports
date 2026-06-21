@@ -1,0 +1,31 @@
+{
+  "key": "cycd",
+  "codes": {
+    "icao": "CYCD",
+    "iata": "YCD",
+    "gps": "CYCD",
+    "local": null
+  },
+  "name": "Nanaimo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.05497,
+    "longitude": -123.869863,
+    "elevation_ft": 92,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Nanaimo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nanaimo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1687
+  }
+}

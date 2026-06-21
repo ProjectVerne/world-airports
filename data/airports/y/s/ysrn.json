@@ -1,0 +1,31 @@
+{
+  "key": "ysrn",
+  "codes": {
+    "icao": "YSRN",
+    "iata": "SRN",
+    "gps": "YSRN",
+    "local": null
+  },
+  "name": "Strahan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -42.154999,
+    "longitude": 145.292007,
+    "elevation_ft": 20,
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Strahan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27964
+  }
+}

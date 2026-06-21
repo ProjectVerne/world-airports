@@ -1,0 +1,34 @@
+{
+  "key": "ushn",
+  "codes": {
+    "icao": "USHN",
+    "iata": "NYA",
+    "gps": "USHN",
+    "local": null
+  },
+  "name": "Nyagan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.110001,
+    "longitude": 65.614998,
+    "elevation_ft": 361,
+    "iso_country": "RU",
+    "iso_region": "RU-KHM",
+    "municipality": "Nyagan"
+  },
+  "keywords": [
+    "УСХН",
+    "Аэропорт Нягань"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nyagan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42944
+  }
+}

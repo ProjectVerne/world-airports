@@ -1,0 +1,33 @@
+{
+  "key": "sbit",
+  "codes": {
+    "icao": "SBIT",
+    "iata": "ITR",
+    "gps": "SBIT",
+    "local": "GO0035"
+  },
+  "name": "Francisco Vilela do Amaral Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -18.4447,
+    "longitude": -49.213402,
+    "elevation_ft": 1630,
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Itumbiara"
+  },
+  "keywords": [
+    "Hidroelétrica Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Itumbiara_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5919
+  }
+}

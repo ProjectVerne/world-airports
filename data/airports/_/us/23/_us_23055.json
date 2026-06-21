@@ -1,0 +1,30 @@
+{
+  "key": "_us_23055",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NJ10",
+    "local": "NJ10"
+  },
+  "name": "Dayton Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.372811,
+    "longitude": -74.517375,
+    "elevation_ft": 104,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "South Brunswick"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23055
+  }
+}

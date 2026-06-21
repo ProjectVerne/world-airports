@@ -1,0 +1,33 @@
+{
+  "key": "kmht",
+  "codes": {
+    "icao": "KMHT",
+    "iata": "MHT",
+    "gps": "KMHT",
+    "local": "MHT"
+  },
+  "name": "Manchester-Boston Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.932598,
+    "longitude": -71.435699,
+    "elevation_ft": 266,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Manchester"
+  },
+  "keywords": [
+    "Manchester Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Manchester-Boston_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3684
+  }
+}

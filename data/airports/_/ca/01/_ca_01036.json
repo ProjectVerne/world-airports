@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01036",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CHD3",
+    "local": "CHD3"
+  },
+  "name": "Hanna District Ambulance Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.651126,
+    "longitude": -111.92929,
+    "elevation_ft": 2687,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Hanna"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1036
+  }
+}

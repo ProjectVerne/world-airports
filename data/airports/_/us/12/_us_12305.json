@@ -1,0 +1,32 @@
+{
+  "key": "_us_12305",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5CL5",
+    "local": "5CL5"
+  },
+  "name": "KCIN Emergency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.684512,
+    "longitude": -117.854721,
+    "elevation_ft": 165,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Irvine"
+  },
+  "keywords": [
+    "1900 Main Street"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12305
+  }
+}

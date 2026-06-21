@@ -1,0 +1,33 @@
+{
+  "key": "_us_09081",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Hubbard Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 31.311928,
+    "longitude": -94.642997,
+    "elevation_ft": 300,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lufkin"
+  },
+  "keywords": [
+    "25TX",
+    "US-9801"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9081
+  }
+}

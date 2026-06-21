@@ -1,0 +1,30 @@
+{
+  "key": "_us_06729",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "03NH",
+    "local": "03NH"
+  },
+  "name": "Lorden Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.815399,
+    "longitude": -71.124397,
+    "elevation_ft": 400,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Milford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6729
+  }
+}

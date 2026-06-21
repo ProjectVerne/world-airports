@@ -1,0 +1,32 @@
+{
+  "key": "_us_330175",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA43",
+    "local": "PA43"
+  },
+  "name": "Foley Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.736167,
+    "longitude": -80.039594,
+    "elevation_ft": 1037,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Callery"
+  },
+  "keywords": [
+    "US-1068"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 330175
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "paom",
+  "codes": {
+    "icao": "PAOM",
+    "iata": "OME",
+    "gps": "PAOM",
+    "local": "OME"
+  },
+  "name": "Nome Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.512199,
+    "longitude": -165.445007,
+    "elevation_ft": 37,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Nome"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nome_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5393
+  }
+}

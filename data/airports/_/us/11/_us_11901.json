@@ -1,0 +1,33 @@
+{
+  "key": "_us_11901",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Basquo Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 60.505512,
+    "longitude": -151.248608,
+    "elevation_ft": 63,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Kenai"
+  },
+  "keywords": [
+    "52AK",
+    "US-10290"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11901
+  }
+}

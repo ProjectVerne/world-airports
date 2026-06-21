@@ -1,0 +1,31 @@
+{
+  "key": "vnbr",
+  "codes": {
+    "icao": "VNBR",
+    "iata": "BJU",
+    "gps": "VNBR",
+    "local": null
+  },
+  "name": "Bajura Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.502001,
+    "longitude": 81.668999,
+    "elevation_ft": 4300,
+    "iso_country": "NP",
+    "iso_region": "NP-P7",
+    "municipality": "Bajura"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bajura_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30761
+  }
+}

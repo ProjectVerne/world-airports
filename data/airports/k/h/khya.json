@@ -1,0 +1,34 @@
+{
+  "key": "khya",
+  "codes": {
+    "icao": "KHYA",
+    "iata": "HYA",
+    "gps": "KHYA",
+    "local": "HYA"
+  },
+  "name": "Cape Cod Gateway Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.6693,
+    "longitude": -70.280403,
+    "elevation_ft": 54,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Hyannis"
+  },
+  "keywords": [
+    "Barnstable",
+    "Boardman Polando"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Barnstable_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3600
+  }
+}

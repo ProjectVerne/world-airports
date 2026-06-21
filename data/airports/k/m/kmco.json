@@ -1,0 +1,34 @@
+{
+  "key": "kmco",
+  "codes": {
+    "icao": "KMCO",
+    "iata": "MCO",
+    "gps": "KMCO",
+    "local": "MCO"
+  },
+  "name": "Orlando International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.429399,
+    "longitude": -81.308998,
+    "elevation_ft": 96,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Orlando"
+  },
+  "keywords": [
+    "Disney World",
+    "Epcot Center"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Orlando_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3670
+  }
+}

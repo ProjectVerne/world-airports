@@ -1,0 +1,30 @@
+{
+  "key": "_us_18189",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS25",
+    "local": "IS25"
+  },
+  "name": "B & L Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.941399,
+    "longitude": -87.859497,
+    "elevation_ft": 649,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Franklin Park"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18189
+  }
+}

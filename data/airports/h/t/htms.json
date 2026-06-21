@@ -1,0 +1,31 @@
+{
+  "key": "htms",
+  "codes": {
+    "icao": "HTMS",
+    "iata": "QSI",
+    "gps": "HTMS",
+    "local": null
+  },
+  "name": "Moshi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.36333,
+    "longitude": 37.3269,
+    "elevation_ft": 2801,
+    "iso_country": "TZ",
+    "iso_region": "TZ-09",
+    "municipality": "Moshi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moshi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32194
+  }
+}

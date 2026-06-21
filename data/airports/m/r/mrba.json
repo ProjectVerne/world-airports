@@ -1,0 +1,31 @@
+{
+  "key": "mrba",
+  "codes": {
+    "icao": "MRBA",
+    "iata": "BAI",
+    "gps": "MRBA",
+    "local": null
+  },
+  "name": "Buenos Aires Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.163949,
+    "longitude": -83.330171,
+    "elevation_ft": 1214,
+    "iso_country": "CR",
+    "iso_region": "CR-P",
+    "municipality": "Punta Arenas"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Buenos_Aires_Airport_(Costa_Rica)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4796
+  }
+}

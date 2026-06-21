@@ -1,0 +1,34 @@
+{
+  "key": "kbgm",
+  "codes": {
+    "icao": "KBGM",
+    "iata": "BGM",
+    "gps": "KBGM",
+    "local": "BGM"
+  },
+  "name": "Greater Binghamton/Edwin A Link field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.208698,
+    "longitude": -75.979797,
+    "elevation_ft": 1636,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Binghamton"
+  },
+  "keywords": [
+    "Broome County Airport",
+    "Edwin A Link Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Greater_Binghamton_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3404
+  }
+}

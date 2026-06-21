@@ -1,0 +1,31 @@
+{
+  "key": "skru",
+  "codes": {
+    "icao": "SKRU",
+    "iata": "SNT",
+    "gps": "SKRU",
+    "local": null
+  },
+  "name": "Las Cruces Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.38322,
+    "longitude": -73.505402,
+    "elevation_ft": 440,
+    "iso_country": "CO",
+    "iso_region": "CO-SAN",
+    "municipality": "Sabana de Torres"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Las_Cruces_Airport_(Colombia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32342
+  }
+}

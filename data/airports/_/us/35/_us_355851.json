@@ -1,0 +1,32 @@
+{
+  "key": "_us_355851",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "LZ17 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.99196,
+    "longitude": -74.54511,
+    "elevation_ft": 98,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Browns Mills"
+  },
+  "keywords": [
+    "US-7014"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 355851
+  }
+}

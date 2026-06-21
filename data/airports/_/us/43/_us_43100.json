@@ -1,0 +1,33 @@
+{
+  "key": "_us_43100",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Joe Fleming Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 29.523935,
+    "longitude": -97.876167,
+    "elevation_ft": 496,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Seguin"
+  },
+  "keywords": [
+    "XS96",
+    "US-0046"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43100
+  }
+}

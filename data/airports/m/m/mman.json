@@ -1,0 +1,33 @@
+{
+  "key": "mman",
+  "codes": {
+    "icao": "MMAN",
+    "iata": "NTR",
+    "gps": "MMAN",
+    "local": "ADN"
+  },
+  "name": "Del Norte International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.865601,
+    "longitude": -100.237,
+    "elevation_ft": 1476,
+    "iso_country": "MX",
+    "iso_region": "MX-NLE",
+    "municipality": "Monterrey"
+  },
+  "keywords": [
+    "BAM 14 Monterrey/Apodaca"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Del_Norte_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4690
+  }
+}

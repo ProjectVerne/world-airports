@@ -1,0 +1,30 @@
+{
+  "key": "_us_09067",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "25MT",
+    "local": "25MT"
+  },
+  "name": "Blatter Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.422199,
+    "longitude": -106.252998,
+    "elevation_ft": 2800,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Glasgow"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9067
+  }
+}

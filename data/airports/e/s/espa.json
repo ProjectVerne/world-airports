@@ -1,0 +1,33 @@
+{
+  "key": "espa",
+  "codes": {
+    "icao": "ESPA",
+    "iata": "LLA",
+    "gps": "ESPA",
+    "local": null
+  },
+  "name": "Luleå Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.5438,
+    "longitude": 22.122,
+    "elevation_ft": 65,
+    "iso_country": "SE",
+    "iso_region": "SE-BD",
+    "municipality": "Luleå"
+  },
+  "keywords": [
+    "Kallax Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lule%C3%A5_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2697
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_509100",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MN21",
+    "local": "MN21"
+  },
+  "name": "Pietenpol Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.58209,
+    "longitude": -92.30151,
+    "elevation_ft": 1364,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Cherry Grove"
+  },
+  "keywords": [
+    "Spring Valley",
+    "US-7753"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509100
+  }
+}

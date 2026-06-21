@@ -1,0 +1,34 @@
+{
+  "key": "epbd",
+  "codes": {
+    "icao": "EPBD",
+    "iata": null,
+    "gps": "EPBD",
+    "local": null
+  },
+  "name": "Bydgoszcz Aeroklub Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.105214,
+    "longitude": 17.960376,
+    "elevation_ft": 230,
+    "iso_country": "PL",
+    "iso_region": "PL-KP",
+    "municipality": "Bydgoszcz"
+  },
+  "keywords": [
+    "Biedaszkowo",
+    "PL-0274"
+  ],
+  "wikipedia": "https://pl.wikipedia.org/wiki/Aeroklub_Bydgoski",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31011
+  }
+}

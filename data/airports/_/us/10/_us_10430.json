@@ -1,0 +1,30 @@
+{
+  "key": "_us_10430",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3CO8",
+    "local": "3CO8"
+  },
+  "name": "Estes Park Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.371371,
+    "longitude": -105.515024,
+    "elevation_ft": 7674,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Estes Park"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10430
+  }
+}

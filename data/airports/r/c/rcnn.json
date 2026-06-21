@@ -1,0 +1,34 @@
+{
+  "key": "rcnn",
+  "codes": {
+    "icao": "RCNN",
+    "iata": "TNN",
+    "gps": "RCNN",
+    "local": null
+  },
+  "name": "Tainan International Airport / Tainan Air Base",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.950399,
+    "longitude": 120.206001,
+    "elevation_ft": 63,
+    "iso_country": "TW",
+    "iso_region": "TW-TNN",
+    "municipality": "Tainan (Rende)"
+  },
+  "keywords": [
+    "臺南機場",
+    "臺南航空站"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tainan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5522
+  }
+}

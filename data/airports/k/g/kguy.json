@@ -1,0 +1,31 @@
+{
+  "key": "kguy",
+  "codes": {
+    "icao": "KGUY",
+    "iata": "GUY",
+    "gps": "KGUY",
+    "local": "GUY"
+  },
+  "name": "Guymon Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.685101,
+    "longitude": -101.508003,
+    "elevation_ft": 3123,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Guymon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Guymon_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19985
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_15123",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8OK0",
+    "local": "8OK0"
+  },
+  "name": "Lamle Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.068298,
+    "longitude": -98.2892,
+    "elevation_ft": 1212,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Okeene"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15123
+  }
+}

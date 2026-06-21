@@ -1,0 +1,33 @@
+{
+  "key": "nzlm",
+  "codes": {
+    "icao": "NZLM",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Lumsden Medical Centre Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -45.741043,
+    "longitude": 168.442322,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-STL",
+    "municipality": "Lumsden"
+  },
+  "keywords": [
+    "Lumsden",
+    "NZ-0104"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 604999
+  }
+}

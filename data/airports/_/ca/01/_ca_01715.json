@@ -1,0 +1,35 @@
+{
+  "key": "_ca_01715",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CYED",
+    "local": "CYED"
+  },
+  "name": "Edmonton (CFB Namao) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.667934,
+    "longitude": -113.472548,
+    "elevation_ft": 2257,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Edmonton"
+  },
+  "keywords": [
+    "YED",
+    "CFB Edmonton",
+    "Namao Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/CFB_Edmonton",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1715
+  }
+}

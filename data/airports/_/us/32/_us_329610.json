@@ -1,0 +1,32 @@
+{
+  "key": "_us_329610",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UT07",
+    "local": "UT07"
+  },
+  "name": "Moab Helibase",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.481555,
+    "longitude": -109.436056,
+    "elevation_ft": 5010,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Moab"
+  },
+  "keywords": [
+    "US-1002"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 329610
+  }
+}

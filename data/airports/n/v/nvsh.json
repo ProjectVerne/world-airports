@@ -1,0 +1,31 @@
+{
+  "key": "nvsh",
+  "codes": {
+    "icao": "NVSH",
+    "iata": "SSR",
+    "gps": "NVSH",
+    "local": null
+  },
+  "name": "Sara Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -15.4708,
+    "longitude": 168.151993,
+    "elevation_ft": 493,
+    "iso_country": "VU",
+    "iso_region": "VU-PAM",
+    "municipality": "Pentecost Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sara_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35161
+  }
+}

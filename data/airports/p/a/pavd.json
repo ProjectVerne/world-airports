@@ -1,0 +1,33 @@
+{
+  "key": "pavd",
+  "codes": {
+    "icao": "PAVD",
+    "iata": "VDZ",
+    "gps": "PAVD",
+    "local": "VDZ"
+  },
+  "name": "Valdez Pioneer Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.132712,
+    "longitude": -146.246567,
+    "elevation_ft": 121,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Valdez"
+  },
+  "keywords": [
+    "Valdez Number 2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Valdez_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5418
+  }
+}

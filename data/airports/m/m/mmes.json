@@ -1,0 +1,35 @@
+{
+  "key": "mmes",
+  "codes": {
+    "icao": "MMES",
+    "iata": "ESE",
+    "gps": "MMES",
+    "local": "ENS"
+  },
+  "name": "Ensenada International Airport / El Ciprés Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.794516,
+    "longitude": -116.602384,
+    "elevation_ft": 66,
+    "iso_country": "MX",
+    "iso_region": "MX-BCN",
+    "municipality": "Ensenada"
+  },
+  "keywords": [
+    "\"El Ciprés\" Military Airbase Number 3",
+    "Gral. Alberto L. Salinas Carranza",
+    "Aeropuerto Internacional de Ensenada"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ensenada_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4709
+  }
+}

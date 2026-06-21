@@ -1,0 +1,30 @@
+{
+  "key": "_us_17857",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID80",
+    "local": "ID80"
+  },
+  "name": "West Valley Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.654167,
+    "longitude": -116.986,
+    "elevation_ft": 2384,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Caldwell"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17857
+  }
+}

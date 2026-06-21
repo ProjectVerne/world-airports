@@ -1,0 +1,33 @@
+{
+  "key": "mmsf",
+  "codes": {
+    "icao": "MMSF",
+    "iata": "SFH",
+    "gps": "MMSF",
+    "local": "SFE"
+  },
+  "name": "San Felipe International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.93006,
+    "longitude": -114.808459,
+    "elevation_ft": 148,
+    "iso_country": "MX",
+    "iso_region": "MX-BCN",
+    "municipality": "Mexicali"
+  },
+  "keywords": [
+    "Aeropuerto Internacional San Felipe"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Felipe_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4751
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kgls",
+  "codes": {
+    "icao": "KGLS",
+    "iata": "GLS",
+    "gps": "KGLS",
+    "local": "GLS"
+  },
+  "name": "Scholes International At Galveston Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.265301,
+    "longitude": -94.860397,
+    "elevation_ft": 6,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Galveston"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Scholes_International_Airport_at_Galveston",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3558
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_23426",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NY44",
+    "local": "NY44"
+  },
+  "name": "IBM Somers Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.316952,
+    "longitude": -73.679854,
+    "elevation_ft": 495,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Somers"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23426
+  }
+}

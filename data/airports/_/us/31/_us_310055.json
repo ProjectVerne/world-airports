@@ -1,0 +1,33 @@
+{
+  "key": "_us_310055",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Yorktown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.94754,
+    "longitude": -97.461903,
+    "elevation_ft": 240,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Yorktown"
+  },
+  "keywords": [
+    "96TE",
+    "US-0236"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310055
+  }
+}

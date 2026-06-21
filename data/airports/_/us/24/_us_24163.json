@@ -1,0 +1,33 @@
+{
+  "key": "_us_24163",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Miller Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.8853,
+    "longitude": -78.739197,
+    "elevation_ft": 1540,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Mahaffey"
+  },
+  "keywords": [
+    "PN56",
+    "US-12104"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24163
+  }
+}

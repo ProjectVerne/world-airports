@@ -1,0 +1,32 @@
+{
+  "key": "xxxx",
+  "codes": {
+    "icao": "XXXX",
+    "iata": "XXX",
+    "gps": null,
+    "local": null
+  },
+  "name": "Serik Bus Station Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.913289,
+    "longitude": 31.083723,
+    "elevation_ft": 90,
+    "iso_country": "TR",
+    "iso_region": "TR-07",
+    "municipality": "Serik"
+  },
+  "keywords": [
+    "TR-0303"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 598475
+  }
+}

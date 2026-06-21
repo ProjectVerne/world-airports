@@ -1,0 +1,33 @@
+{
+  "key": "mdpp",
+  "codes": {
+    "icao": "MDPP",
+    "iata": "POP",
+    "gps": "MDPP",
+    "local": null
+  },
+  "name": "Gregorio Luperon International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 19.7579,
+    "longitude": -70.57,
+    "elevation_ft": 15,
+    "iso_country": "DO",
+    "iso_region": "DO-18",
+    "municipality": "Puerto Plata"
+  },
+  "keywords": [
+    "La Union"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gregorio_Luper%C3%B3n_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4637
+  }
+}

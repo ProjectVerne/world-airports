@@ -1,0 +1,31 @@
+{
+  "key": "sars",
+  "codes": {
+    "icao": "SARS",
+    "iata": "PRQ",
+    "gps": "SARS",
+    "local": "PSP"
+  },
+  "name": "Termal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.753611,
+    "longitude": -60.492222,
+    "elevation_ft": 308,
+    "iso_country": "AR",
+    "iso_region": "AR-H",
+    "municipality": "Presidencia Roque Sáenz Peña"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Primer_Teniente_Jorge_Eduardo_Casco_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42884
+  }
+}

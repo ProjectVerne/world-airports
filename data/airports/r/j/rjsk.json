@@ -1,0 +1,31 @@
+{
+  "key": "rjsk",
+  "codes": {
+    "icao": "RJSK",
+    "iata": "AXT",
+    "gps": "RJSK",
+    "local": null
+  },
+  "name": "Akita Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.615601,
+    "longitude": 140.218994,
+    "elevation_ft": 313,
+    "iso_country": "JP",
+    "iso_region": "JP-05",
+    "municipality": "Akita"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Akita_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5611
+  }
+}

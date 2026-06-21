@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01240",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKU6",
+    "local": "CKU6"
+  },
+  "name": "Grenfell Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.419201,
+    "longitude": -102.934998,
+    "elevation_ft": 1964,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Grenfell"
+  },
+  "keywords": [
+    "KU6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Grenfell_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1240
+  }
+}

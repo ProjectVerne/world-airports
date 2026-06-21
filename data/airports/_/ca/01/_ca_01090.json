@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01090",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJL5",
+    "local": "CJL5"
+  },
+  "name": "Winnipeg / Lyncrest Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.852501,
+    "longitude": -96.973602,
+    "elevation_ft": 775,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Winnipeg"
+  },
+  "keywords": [
+    "JL5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Winnipeg/Lyncrest_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1090
+  }
+}

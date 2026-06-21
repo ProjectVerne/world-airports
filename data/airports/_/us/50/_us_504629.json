@@ -1,0 +1,32 @@
+{
+  "key": "_us_504629",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE61",
+    "local": "TE61"
+  },
+  "name": "Emergency Air Lift Pad Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.235908,
+    "longitude": -101.490503,
+    "elevation_ft": 2574,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Big Spring"
+  },
+  "keywords": [
+    "US-7292"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 504629
+  }
+}

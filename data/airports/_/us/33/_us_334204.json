@@ -1,0 +1,32 @@
+{
+  "key": "_us_334204",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM39",
+    "local": "NM39"
+  },
+  "name": "Presbyterian Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.082,
+    "longitude": -106.634138,
+    "elevation_ft": 5073,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Albuquerque"
+  },
+  "keywords": [
+    "US-1246"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 334204
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "kmib",
+  "codes": {
+    "icao": "KMIB",
+    "iata": "MIB",
+    "gps": "KMIB",
+    "local": "MIB"
+  },
+  "name": "Minot Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.4156,
+    "longitude": -101.358002,
+    "elevation_ft": 1667,
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Minot"
+  },
+  "keywords": [
+    "5th Bomb Wing",
+    "91st Space Wing"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Minot_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3686
+  }
+}

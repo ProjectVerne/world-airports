@@ -1,0 +1,32 @@
+{
+  "key": "svql",
+  "codes": {
+    "icao": "SVQL",
+    "iata": null,
+    "gps": "SVQL",
+    "local": null
+  },
+  "name": "El Jabillal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.452879,
+    "longitude": -70.773503,
+    "elevation_ft": 354,
+    "iso_country": "VE",
+    "iso_region": "VE-T",
+    "municipality": null
+  },
+  "keywords": [
+    "SVEJ"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40123
+  }
+}

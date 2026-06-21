@@ -1,0 +1,33 @@
+{
+  "key": "uasp",
+  "codes": {
+    "icao": "UASP",
+    "iata": "PWQ",
+    "gps": "UASP",
+    "local": null
+  },
+  "name": "Pavlodar International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.194982,
+    "longitude": 77.073088,
+    "elevation_ft": 410,
+    "iso_country": "KZ",
+    "iso_region": "KZ-PAV",
+    "municipality": "Pavlodar"
+  },
+  "keywords": [
+    "Pavlodar South"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pavlodar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6434
+  }
+}

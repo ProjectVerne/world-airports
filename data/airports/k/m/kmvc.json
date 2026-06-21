@@ -1,0 +1,31 @@
+{
+  "key": "kmvc",
+  "codes": {
+    "icao": "KMVC",
+    "iata": "MVC",
+    "gps": "KMVC",
+    "local": "MVC"
+  },
+  "name": "Monroe County Aeroplex Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.458,
+    "longitude": -87.350996,
+    "elevation_ft": 419,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Monroeville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Monroe_County_Airport_(Alabama)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20572
+  }
+}

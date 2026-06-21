@@ -1,0 +1,32 @@
+{
+  "key": "_us_310048",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Watson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.9527,
+    "longitude": -85.417397,
+    "elevation_ft": 122,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Campbellton"
+  },
+  "keywords": [
+    "US-0234"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310048
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "esoe",
+  "codes": {
+    "icao": "ESOE",
+    "iata": "ORB",
+    "gps": "ESOE",
+    "local": null
+  },
+  "name": "Örebro Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.223701,
+    "longitude": 15.038,
+    "elevation_ft": 188,
+    "iso_country": "SE",
+    "iso_region": "SE-T",
+    "municipality": "Örebro"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/%C3%96rebro_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2693
+  }
+}

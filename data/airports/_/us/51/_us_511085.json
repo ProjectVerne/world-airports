@@ -1,0 +1,32 @@
+{
+  "key": "_us_511085",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "99FL",
+    "local": "99FL"
+  },
+  "name": "Baptist Health Pensacola Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.468731,
+    "longitude": -87.230189,
+    "elevation_ft": 250,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Pensacola"
+  },
+  "keywords": [
+    "US-8025"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 511085
+  }
+}

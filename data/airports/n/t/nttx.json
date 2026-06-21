@@ -1,0 +1,34 @@
+{
+  "key": "nttx",
+  "codes": {
+    "icao": "NTTX",
+    "iata": "UOA",
+    "gps": "NTTX",
+    "local": null
+  },
+  "name": "Moruroa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -21.80978,
+    "longitude": -138.813385,
+    "elevation_ft": 7,
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Moruroa Atoll"
+  },
+  "keywords": [
+    "Mururoa",
+    "Mururura",
+    "Aopuni"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32053
+  }
+}

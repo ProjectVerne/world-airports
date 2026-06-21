@@ -1,0 +1,35 @@
+{
+  "key": "lrcd",
+  "codes": {
+    "icao": "LRCD",
+    "iata": null,
+    "gps": "LRCD",
+    "local": null
+  },
+  "name": "Măgura Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.737222,
+    "longitude": 24.165278,
+    "elevation_ft": 1524,
+    "iso_country": "RO",
+    "iso_region": "RO-SB",
+    "municipality": "Cisnădie"
+  },
+  "keywords": [
+    "magura",
+    "romania",
+    "avgas",
+    "skydiving"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 315901
+  }
+}

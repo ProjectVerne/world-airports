@@ -1,0 +1,30 @@
+{
+  "key": "_us_25005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TN91",
+    "local": "TN91"
+  },
+  "name": "Johnson City Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.307349,
+    "longitude": -82.386011,
+    "elevation_ft": 1745,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Johnson City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25005
+  }
+}

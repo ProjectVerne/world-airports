@@ -1,0 +1,30 @@
+{
+  "key": "_us_25098",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS82",
+    "local": "TS82"
+  },
+  "name": "Gulf Tower Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.755501,
+    "longitude": -95.361603,
+    "elevation_ft": 774,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25098
+  }
+}

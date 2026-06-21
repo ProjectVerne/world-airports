@@ -1,0 +1,31 @@
+{
+  "key": "kmhr",
+  "codes": {
+    "icao": "KMHR",
+    "iata": "MHR",
+    "gps": "KMHR",
+    "local": "MHR"
+  },
+  "name": "Sacramento Mather Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.554744,
+    "longitude": -121.297989,
+    "elevation_ft": 98,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Sacramento"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sacramento_Mather_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20506
+  }
+}

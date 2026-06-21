@@ -1,0 +1,30 @@
+{
+  "key": "svup",
+  "codes": {
+    "icao": "SVUP",
+    "iata": null,
+    "gps": "SVUP",
+    "local": null
+  },
+  "name": "Upata Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.979201,
+    "longitude": -62.32902,
+    "elevation_ft": 1056,
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Upata"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6333
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "hcmi",
+  "codes": {
+    "icao": "HCMI",
+    "iata": "BBO",
+    "gps": "HCMI",
+    "local": null
+  },
+  "name": "Berbera Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.385035,
+    "longitude": 44.936723,
+    "elevation_ft": 30,
+    "iso_country": "SO",
+    "iso_region": "SO-WO",
+    "municipality": "Berbera"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Berbera_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3172
+  }
+}

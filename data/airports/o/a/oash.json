@@ -1,0 +1,34 @@
+{
+  "key": "oash",
+  "codes": {
+    "icao": "OASH",
+    "iata": "OAA",
+    "gps": "OASH",
+    "local": null
+  },
+  "name": "Shank Air Base",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.922217,
+    "longitude": 69.07794,
+    "elevation_ft": 6890,
+    "iso_country": "AF",
+    "iso_region": "AF-LOW",
+    "municipality": "Baraki Barak"
+  },
+  "keywords": [
+    "Camp Dahlke",
+    "Camp Maiwand"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Forward_Operating_Base_Shank",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301188
+  }
+}

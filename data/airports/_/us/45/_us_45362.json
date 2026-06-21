@@ -1,0 +1,30 @@
+{
+  "key": "_us_45362",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FD62",
+    "local": "FD62"
+  },
+  "name": "Waters Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.780083,
+    "longitude": -81.643278,
+    "elevation_ft": 125,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Fort Meade"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45362
+  }
+}

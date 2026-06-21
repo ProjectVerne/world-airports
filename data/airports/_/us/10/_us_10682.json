@@ -1,0 +1,30 @@
+{
+  "key": "_us_10682",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3NK7",
+    "local": "3NK7"
+  },
+  "name": "B/G Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.424801,
+    "longitude": -74.450996,
+    "elevation_ft": 1100,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Gilboa/Grand Gorge"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10682
+  }
+}

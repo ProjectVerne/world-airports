@@ -1,0 +1,33 @@
+{
+  "key": "nvso",
+  "codes": {
+    "icao": "NVSO",
+    "iata": "LNE",
+    "gps": "NVSO",
+    "local": null
+  },
+  "name": "Lonorore Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -15.8656,
+    "longitude": 168.171997,
+    "elevation_ft": 43,
+    "iso_country": "VU",
+    "iso_region": "VU-PAM",
+    "municipality": "Lonorore"
+  },
+  "keywords": [
+    "Pentecost Island"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lonorore_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31836
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "vtpm",
+  "codes": {
+    "icao": "VTPM",
+    "iata": "MAQ",
+    "gps": "VTPM",
+    "local": null
+  },
+  "name": "Mae Sot Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.6999,
+    "longitude": 98.545097,
+    "elevation_ft": 690,
+    "iso_country": "TH",
+    "iso_region": "TH-63",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mae_Sot_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26658
+  }
+}

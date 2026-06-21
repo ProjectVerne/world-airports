@@ -1,0 +1,32 @@
+{
+  "key": "wrma",
+  "codes": {
+    "icao": "WRMA",
+    "iata": null,
+    "gps": "WRMA",
+    "local": "BAS"
+  },
+  "name": "Basiem Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.058573,
+    "longitude": 138.383542,
+    "elevation_ft": 49,
+    "iso_country": "ID",
+    "iso_region": "ID-PS",
+    "municipality": "Basiem"
+  },
+  "keywords": [
+    "ID-0177"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325377
+  }
+}

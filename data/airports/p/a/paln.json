@@ -1,0 +1,33 @@
+{
+  "key": "paln",
+  "codes": {
+    "icao": "PALN",
+    "iata": "LNI",
+    "gps": "PALN",
+    "local": "AK71"
+  },
+  "name": "Point Lonely Short Range Radar Site Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 70.911118,
+    "longitude": -153.237766,
+    "elevation_ft": 17,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Point Lonely"
+  },
+  "keywords": [
+    "Lonely Air Station"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Point_Lonely_Short_Range_Radar_Site",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16165
+  }
+}

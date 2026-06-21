@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01500",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSB4",
+    "local": "CSB4"
+  },
+  "name": "Chibougamau Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.900002,
+    "longitude": -74.383302,
+    "elevation_ft": 1150,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Chibougamau"
+  },
+  "keywords": [
+    "SB4"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1500
+  }
+}

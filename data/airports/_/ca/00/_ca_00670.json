@@ -1,0 +1,32 @@
+{
+  "key": "_ca_00670",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBD2",
+    "local": "CBD2"
+  },
+  "name": "Delta (North) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.119961,
+    "longitude": -123.047268,
+    "elevation_ft": 10,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Vancouver"
+  },
+  "keywords": [
+    "BD2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 670
+  }
+}

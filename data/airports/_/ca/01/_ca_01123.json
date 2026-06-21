@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01123",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJS5",
+    "local": "CJS5"
+  },
+  "name": "Killarney Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.151699,
+    "longitude": -99.6903,
+    "elevation_ft": 1680,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Killarney"
+  },
+  "keywords": [
+    "JS5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Killarney_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1123
+  }
+}

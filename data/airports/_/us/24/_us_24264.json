@@ -1,0 +1,30 @@
+{
+  "key": "_us_24264",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS24",
+    "local": "PS24"
+  },
+  "name": "Brownsville General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.0037,
+    "longitude": -79.875603,
+    "elevation_ft": 1199,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Brownsville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24264
+  }
+}

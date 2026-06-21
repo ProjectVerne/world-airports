@@ -1,0 +1,31 @@
+{
+  "key": "kcag",
+  "codes": {
+    "icao": "KCAG",
+    "iata": "CIG",
+    "gps": "KCAG",
+    "local": "CAG"
+  },
+  "name": "Craig Moffat Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.495201,
+    "longitude": -107.522003,
+    "elevation_ft": 6193,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Craig"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Craig-Moffat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19459
+  }
+}

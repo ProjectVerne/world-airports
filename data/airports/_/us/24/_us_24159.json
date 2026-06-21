@@ -1,0 +1,30 @@
+{
+  "key": "_us_24159",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PN52",
+    "local": "PN52"
+  },
+  "name": "Mike's Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.867199,
+    "longitude": -75.933601,
+    "elevation_ft": 550,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Cochranville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24159
+  }
+}

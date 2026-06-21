@@ -1,0 +1,34 @@
+{
+  "key": "_us_17156",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "18T",
+    "local": "18T"
+  },
+  "name": "Tatum Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.2612,
+    "longitude": -103.277,
+    "elevation_ft": 3986,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Tatum"
+  },
+  "keywords": [
+    "NM18",
+    "E07"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tatum_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17156
+  }
+}

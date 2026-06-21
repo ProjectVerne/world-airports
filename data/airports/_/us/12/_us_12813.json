@@ -1,0 +1,32 @@
+{
+  "key": "_us_12813",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "61FD",
+    "local": "61FD"
+  },
+  "name": "AdventHealth Palm Coast Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.479293,
+    "longitude": -81.190502,
+    "elevation_ft": 25,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Palm Coast"
+  },
+  "keywords": [
+    "Florida Hospital-Flagler Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12813
+  }
+}

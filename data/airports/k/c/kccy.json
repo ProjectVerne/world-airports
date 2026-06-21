@@ -1,0 +1,33 @@
+{
+  "key": "kccy",
+  "codes": {
+    "icao": "KCCY",
+    "iata": "CCY",
+    "gps": "KCCY",
+    "local": "CCY"
+  },
+  "name": "Northeast Iowa Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.072601,
+    "longitude": -92.610802,
+    "elevation_ft": 1125,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Charles City"
+  },
+  "keywords": [
+    "Charles City Municipal Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Northeast_Iowa_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19470
+  }
+}

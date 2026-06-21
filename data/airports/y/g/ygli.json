@@ -1,0 +1,31 @@
+{
+  "key": "ygli",
+  "codes": {
+    "icao": "YGLI",
+    "iata": "GLI",
+    "gps": "YGLI",
+    "local": null
+  },
+  "name": "Glen Innes Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.676029,
+    "longitude": 151.691156,
+    "elevation_ft": 3433,
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Glen Innes"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Glen_Innes_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26996
+  }
+}

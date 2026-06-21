@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01062",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJD5",
+    "local": "CJD5"
+  },
+  "name": "Leader Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.877883,
+    "longitude": -109.501977,
+    "elevation_ft": 2201,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Leader"
+  },
+  "keywords": [
+    "JD5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Leader_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1062
+  }
+}

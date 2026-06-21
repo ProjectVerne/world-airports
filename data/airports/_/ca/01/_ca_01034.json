@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01034",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CHC3",
+    "local": "CHC3"
+  },
+  "name": "Barrhead (Healthcare Centre) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 54.118282,
+    "longitude": -114.400066,
+    "elevation_ft": 2121,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Barrhead"
+  },
+  "keywords": [
+    "HC3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1034
+  }
+}

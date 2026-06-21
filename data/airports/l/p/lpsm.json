@@ -1,0 +1,30 @@
+{
+  "key": "lpsm",
+  "codes": {
+    "icao": "LPSM",
+    "iata": null,
+    "gps": "LPSM",
+    "local": null
+  },
+  "name": "Santa Maria Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.749372,
+    "longitude": -9.160627,
+    "elevation_ft": 330,
+    "iso_country": "PT",
+    "iso_region": "PT-11",
+    "municipality": "Lisbon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 321269
+  }
+}

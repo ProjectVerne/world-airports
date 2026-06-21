@@ -1,0 +1,34 @@
+{
+  "key": "urmn",
+  "codes": {
+    "icao": "URMN",
+    "iata": "NAL",
+    "gps": "URMN",
+    "local": null
+  },
+  "name": "Nalchik Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.512901,
+    "longitude": 43.6366,
+    "elevation_ft": 1461,
+    "iso_country": "RU",
+    "iso_region": "RU-KB",
+    "municipality": "Nalchik"
+  },
+  "keywords": [
+    "УРМН",
+    "Нальчик"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nalchik_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6515
+  }
+}

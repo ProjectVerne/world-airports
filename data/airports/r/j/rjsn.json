@@ -1,0 +1,34 @@
+{
+  "key": "rjsn",
+  "codes": {
+    "icao": "RJSN",
+    "iata": "KIJ",
+    "gps": "RJSN",
+    "local": null
+  },
+  "name": "Niigata Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.954166,
+    "longitude": 139.112189,
+    "elevation_ft": 29,
+    "iso_country": "JP",
+    "iso_region": "JP-15",
+    "municipality": "Niigata"
+  },
+  "keywords": [
+    "新潟空港",
+    "新潟"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Niigata_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5613
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kmev",
+  "codes": {
+    "icao": "KMEV",
+    "iata": "MEV",
+    "gps": "KMEV",
+    "local": "MEV"
+  },
+  "name": "Minden-Tahoe Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.000301,
+    "longitude": -119.750999,
+    "elevation_ft": 4722,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Minden"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Minden%E2%80%93Tahoe_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20493
+  }
+}

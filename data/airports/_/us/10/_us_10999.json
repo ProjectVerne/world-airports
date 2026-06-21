@@ -1,0 +1,32 @@
+{
+  "key": "_us_10999",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "42LA",
+    "local": "42LA"
+  },
+  "name": "Ochsner St Mary Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.708624,
+    "longitude": -91.200909,
+    "elevation_ft": 102,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Morgan City"
+  },
+  "keywords": [
+    "Lakewood Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10999
+  }
+}

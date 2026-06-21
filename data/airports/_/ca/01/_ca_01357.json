@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01357",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNW8",
+    "local": "CNW8"
+  },
+  "name": "Toronto (Hospital For Sick Children) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.656846,
+    "longitude": -79.38788,
+    "elevation_ft": 498,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Toronto"
+  },
+  "keywords": [
+    "NW8"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1357
+  }
+}

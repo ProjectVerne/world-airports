@@ -1,0 +1,30 @@
+{
+  "key": "_us_23227",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM07",
+    "local": "NM07"
+  },
+  "name": "Home Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.830601,
+    "longitude": -106.677002,
+    "elevation_ft": 4860,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Peralta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23227
+  }
+}

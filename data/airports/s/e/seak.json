@@ -1,0 +1,32 @@
+{
+  "key": "seak",
+  "codes": {
+    "icao": "SEAK",
+    "iata": null,
+    "gps": "SEAK",
+    "local": null
+  },
+  "name": "Macuma Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.145775,
+    "longitude": -77.700306,
+    "elevation_ft": 2300,
+    "iso_country": "EC",
+    "iso_region": "EC-S",
+    "municipality": "Macuma"
+  },
+  "keywords": [
+    "EC-0014"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323815
+  }
+}

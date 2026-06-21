@@ -1,0 +1,30 @@
+{
+  "key": "faam",
+  "codes": {
+    "icao": "FAAM",
+    "iata": null,
+    "gps": "FAAM",
+    "local": null
+  },
+  "name": "Amsterdam Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.633803,
+    "longitude": 30.605561,
+    "elevation_ft": 4310,
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Amsterdam"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41198
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ytmp",
+  "codes": {
+    "icao": "YTMP",
+    "iata": "TPR",
+    "gps": "YTMP",
+    "local": null
+  },
+  "name": "Tom Price Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.746,
+    "longitude": 117.869003,
+    "elevation_ft": 2300,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Tom Price"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tom_Price_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32474
+  }
+}

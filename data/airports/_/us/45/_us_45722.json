@@ -1,0 +1,30 @@
+{
+  "key": "_us_45722",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "21OG",
+    "local": "21OG"
+  },
+  "name": "Ames Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.771806,
+    "longitude": -122.970743,
+    "elevation_ft": 720,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Jefferson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45722
+  }
+}

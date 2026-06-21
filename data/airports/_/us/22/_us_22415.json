@@ -1,0 +1,33 @@
+{
+  "key": "_us_22415",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Wurtz Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 48.904999,
+    "longitude": -114.382004,
+    "elevation_ft": 3800,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Polebridge"
+  },
+  "keywords": [
+    "MT17",
+    "US-11748"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22415
+  }
+}

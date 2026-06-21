@@ -1,0 +1,35 @@
+{
+  "key": "fmsd",
+  "codes": {
+    "icao": "FMSD",
+    "iata": "FTU",
+    "gps": "FMSD",
+    "local": null
+  },
+  "name": "Tôlanaro Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.038099,
+    "longitude": 46.9561,
+    "elevation_ft": 29,
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Tôlanaro"
+  },
+  "keywords": [
+    "Tolagnaro Airport",
+    "Marillac Airport",
+    "Fort-Dauphin"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/T%C3%B4lanaro_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2927
+  }
+}

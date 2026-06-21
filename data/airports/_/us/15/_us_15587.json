@@ -1,0 +1,32 @@
+{
+  "key": "_us_15587",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "98PN",
+    "local": "98PN"
+  },
+  "name": "Lehigh Valley Hospital Cedar Crest Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.56561,
+    "longitude": -75.523356,
+    "elevation_ft": 400,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Allentown"
+  },
+  "keywords": [
+    "Trauma Center"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15587
+  }
+}

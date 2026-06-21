@@ -1,0 +1,30 @@
+{
+  "key": "_us_07132",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0CL5",
+    "local": "0CL5"
+  },
+  "name": "The Atrium Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.670601,
+    "longitude": -117.858002,
+    "elevation_ft": 46,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Irvine"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7132
+  }
+}

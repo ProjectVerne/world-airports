@@ -1,0 +1,31 @@
+{
+  "key": "nzkt",
+  "codes": {
+    "icao": "NZKT",
+    "iata": "KAT",
+    "gps": "NZKT",
+    "local": null
+  },
+  "name": "Kaitaia Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -35.069837,
+    "longitude": 173.287053,
+    "elevation_ft": 270,
+    "iso_country": "NZ",
+    "iso_region": "NZ-NTL",
+    "municipality": "Awanui"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kaitaia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5037
+  }
+}

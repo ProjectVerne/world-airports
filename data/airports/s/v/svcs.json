@@ -1,0 +1,31 @@
+{
+  "key": "svcs",
+  "codes": {
+    "icao": "SVCS",
+    "iata": null,
+    "gps": "SVCS",
+    "local": null
+  },
+  "name": "Caracas Óscar Machado Zuloaga International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.286874,
+    "longitude": -66.815847,
+    "elevation_ft": 2145,
+    "iso_country": "VE",
+    "iso_region": "VE-M",
+    "municipality": "Charallave"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/%C3%93scar_Machado_Zuloaga_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6272
+  }
+}

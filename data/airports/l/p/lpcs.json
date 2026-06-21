@@ -1,0 +1,33 @@
+{
+  "key": "lpcs",
+  "codes": {
+    "icao": "LPCS",
+    "iata": "CAT",
+    "gps": "LPCS",
+    "local": null
+  },
+  "name": "Cascais Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.724998,
+    "longitude": -9.35523,
+    "elevation_ft": 325,
+    "iso_country": "PT",
+    "iso_region": "PT-11",
+    "municipality": "Cascais"
+  },
+  "keywords": [
+    "Tires"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cascais_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4444
+  }
+}

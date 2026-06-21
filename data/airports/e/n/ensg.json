@@ -1,0 +1,33 @@
+{
+  "key": "ensg",
+  "codes": {
+    "icao": "ENSG",
+    "iata": "SOG",
+    "gps": "ENSG",
+    "local": null
+  },
+  "name": "Sogndal Airport, Haukåsen",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.156101,
+    "longitude": 7.13778,
+    "elevation_ft": 1633,
+    "iso_country": "NO",
+    "iso_region": "NO-46",
+    "municipality": "Sogndal"
+  },
+  "keywords": [
+    "Haukåsen"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sogndal_Airport,_Hauk%C3%A5sen",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28116
+  }
+}

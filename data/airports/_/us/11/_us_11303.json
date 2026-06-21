@@ -1,0 +1,30 @@
+{
+  "key": "_us_11303",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "49OK",
+    "local": "49OK"
+  },
+  "name": "Holdenville General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.088781,
+    "longitude": -96.379341,
+    "elevation_ft": 864,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Holdenville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11303
+  }
+}

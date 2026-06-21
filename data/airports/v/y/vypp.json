@@ -1,0 +1,30 @@
+{
+  "key": "vypp",
+  "codes": {
+    "icao": "VYPP",
+    "iata": "PPU",
+    "gps": "VYPP",
+    "local": null
+  },
+  "name": "Hpapun Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.0667,
+    "longitude": 97.449799,
+    "elevation_ft": 300,
+    "iso_country": "MM",
+    "iso_region": "MM-13",
+    "municipality": "Pa Pun"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32618
+  }
+}

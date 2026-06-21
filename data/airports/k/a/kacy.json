@@ -1,0 +1,31 @@
+{
+  "key": "kacy",
+  "codes": {
+    "icao": "KACY",
+    "iata": "ACY",
+    "gps": "KACY",
+    "local": "ACY"
+  },
+  "name": "Atlantic City International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.456201,
+    "longitude": -74.577511,
+    "elevation_ft": 75,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Atlantic City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Atlantic_City_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3363
+  }
+}

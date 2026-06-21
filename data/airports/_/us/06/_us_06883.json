@@ -1,0 +1,30 @@
+{
+  "key": "_us_06883",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "06MA",
+    "local": "06MA"
+  },
+  "name": "The Barn Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.690601,
+    "longitude": -71.609001,
+    "elevation_ft": 210,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Pepperell"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6883
+  }
+}

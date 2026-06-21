@@ -1,0 +1,35 @@
+{
+  "key": "lebl",
+  "codes": {
+    "icao": "LEBL",
+    "iata": "BCN",
+    "gps": "LEBL",
+    "local": null
+  },
+  "name": "Josep Tarradellas Barcelona-El Prat Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.2971,
+    "longitude": 2.07846,
+    "elevation_ft": 12,
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Barcelona"
+  },
+  "keywords": [
+    "El Prat Airport",
+    "Barcelona International",
+    "Josep Tarradellas Barcelona-El Prat Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Barcelona%E2%80%93El_Prat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4004
+  }
+}

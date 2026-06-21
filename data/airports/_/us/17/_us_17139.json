@@ -1,0 +1,30 @@
+{
+  "key": "_us_17139",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "DE24",
+    "local": "DE24"
+  },
+  "name": "Elliott Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.1115,
+    "longitude": -75.505501,
+    "elevation_ft": 25,
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Dover"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17139
+  }
+}

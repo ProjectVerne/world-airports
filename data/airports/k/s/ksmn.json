@@ -1,0 +1,31 @@
+{
+  "key": "ksmn",
+  "codes": {
+    "icao": "KSMN",
+    "iata": "SMN",
+    "gps": "KSMN",
+    "local": "SMN"
+  },
+  "name": "Lemhi County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.122233,
+    "longitude": -113.88196,
+    "elevation_ft": 4043,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Salmon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lemhi_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21086
+  }
+}

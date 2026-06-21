@@ -1,0 +1,33 @@
+{
+  "key": "rjff",
+  "codes": {
+    "icao": "RJFF",
+    "iata": "FUK",
+    "gps": "RJFF",
+    "local": null
+  },
+  "name": "Fukuoka Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.585899,
+    "longitude": 130.451004,
+    "elevation_ft": 32,
+    "iso_country": "JP",
+    "iso_region": "JP-40",
+    "municipality": "Fukuoka"
+  },
+  "keywords": [
+    "Itazuke Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fukuoka_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5564
+  }
+}

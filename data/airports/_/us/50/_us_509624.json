@@ -1,0 +1,32 @@
+{
+  "key": "_us_509624",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "26FA",
+    "local": "26FA"
+  },
+  "name": "AdventHealth Riverview Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.860775,
+    "longitude": -82.325308,
+    "elevation_ft": 164,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Riverview"
+  },
+  "keywords": [
+    "US-7836"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509624
+  }
+}

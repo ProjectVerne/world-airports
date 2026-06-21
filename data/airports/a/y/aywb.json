@@ -1,0 +1,30 @@
+{
+  "key": "aywb",
+  "codes": {
+    "icao": "AYWB",
+    "iata": "WAO",
+    "gps": "AYWB",
+    "local": "WABO"
+  },
+  "name": "Wabo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.989444,
+    "longitude": 145.075111,
+    "elevation_ft": 132,
+    "iso_country": "PG",
+    "iso_region": "PG-GPK",
+    "municipality": "Wabo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307286
+  }
+}

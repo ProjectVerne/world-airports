@@ -1,0 +1,31 @@
+{
+  "key": "kean",
+  "codes": {
+    "icao": "KEAN",
+    "iata": "EAN",
+    "gps": "KEAN",
+    "local": "EAN"
+  },
+  "name": "Phifer Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.0555,
+    "longitude": -104.929001,
+    "elevation_ft": 4776,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Wheatland"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Phifer_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19715
+  }
+}

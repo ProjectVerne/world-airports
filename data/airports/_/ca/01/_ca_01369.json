@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01369",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "COP2",
+    "local": "COP2"
+  },
+  "name": "Orillia (Ontario Provincial Police) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.584698,
+    "longitude": -79.427547,
+    "elevation_ft": 820,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Orillia"
+  },
+  "keywords": [
+    "OP2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1369
+  }
+}

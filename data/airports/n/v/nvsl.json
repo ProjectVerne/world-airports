@@ -1,0 +1,33 @@
+{
+  "key": "nvsl",
+  "codes": {
+    "icao": "NVSL",
+    "iata": "LPM",
+    "gps": "NVSL",
+    "local": null
+  },
+  "name": "Lamap Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.461123,
+    "longitude": 167.829253,
+    "elevation_ft": 7,
+    "iso_country": "VU",
+    "iso_region": "VU-MAP",
+    "municipality": "Lamap"
+  },
+  "keywords": [
+    "Malekoula Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Malekoula_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31847
+  }
+}

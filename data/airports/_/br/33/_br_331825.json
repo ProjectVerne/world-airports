@@ -1,0 +1,30 @@
+{
+  "key": "_br_331825",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SSAA",
+    "local": "MG0267"
+  },
+  "name": "Hospital da Unimed Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -19.921843,
+    "longitude": -43.919601,
+    "elevation_ft": 2871,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Belo Horizonte"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331825
+  }
+}

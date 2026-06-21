@@ -1,0 +1,33 @@
+{
+  "key": "_us_09704",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "2P2"
+  },
+  "name": "Washington Island Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.387917,
+    "longitude": -86.92327,
+    "elevation_ft": 652,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Washington"
+  },
+  "keywords": [
+    "WI47"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Washington_Island_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9704
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01145",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJW5",
+    "local": "CJW5"
+  },
+  "name": "Russell Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.7658,
+    "longitude": -101.294998,
+    "elevation_ft": 1825,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Russell"
+  },
+  "keywords": [
+    "JW5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Russell_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1145
+  }
+}

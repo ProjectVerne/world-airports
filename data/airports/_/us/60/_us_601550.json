@@ -1,0 +1,30 @@
+{
+  "key": "_us_601550",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "66MA",
+    "local": "66MA"
+  },
+  "name": "Curt Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.488611,
+    "longitude": -72.220278,
+    "elevation_ft": 770,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Petersham"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 601550
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "scas",
+  "codes": {
+    "icao": "SCAS",
+    "iata": "WPA",
+    "gps": "SCAS",
+    "local": null
+  },
+  "name": "Cabo Juan Román Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -45.3992,
+    "longitude": -72.670303,
+    "elevation_ft": 30,
+    "iso_country": "CL",
+    "iso_region": "CL-AI",
+    "municipality": "Puerto Aysén"
+  },
+  "keywords": [
+    "Aeródromo Cabo 1° Juan Román"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cabo_Juan_Rom%C3%A1n_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30301
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_317223",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CN88",
+    "local": "CN88"
+  },
+  "name": "Kaiser Permanente Vacaville Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.3887,
+    "longitude": -121.9405,
+    "elevation_ft": 100,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Vacaville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 317223
+  }
+}

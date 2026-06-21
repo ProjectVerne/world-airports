@@ -1,0 +1,31 @@
+{
+  "key": "kdln",
+  "codes": {
+    "icao": "KDLN",
+    "iata": "DLN",
+    "gps": "KDLN",
+    "local": "DLN"
+  },
+  "name": "Dillon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.255402,
+    "longitude": -112.553001,
+    "elevation_ft": 5241,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Dillon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dillon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19638
+  }
+}

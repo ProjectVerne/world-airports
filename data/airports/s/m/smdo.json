@@ -1,0 +1,33 @@
+{
+  "key": "smdo",
+  "codes": {
+    "icao": "SMDO",
+    "iata": "LDO",
+    "gps": "SMDO",
+    "local": null
+  },
+  "name": "Ladouanie Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.376108,
+    "longitude": -55.407057,
+    "elevation_ft": 236,
+    "iso_country": "SR",
+    "iso_region": "SR-SI",
+    "municipality": "Aurora"
+  },
+  "keywords": [
+    "Aurora Airstrip"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Laduani_Airstrip",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41503
+  }
+}

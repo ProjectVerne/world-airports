@@ -1,0 +1,30 @@
+{
+  "key": "_us_15801",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "9MA8",
+    "local": "9MA8"
+  },
+  "name": "Wayne West Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.846802,
+    "longitude": -70.760902,
+    "elevation_ft": 90,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Carver"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15801
+  }
+}

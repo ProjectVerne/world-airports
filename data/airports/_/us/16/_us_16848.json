@@ -1,0 +1,30 @@
+{
+  "key": "_us_16848",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CN43",
+    "local": "CN43"
+  },
+  "name": "Boeing Anaheim B/250 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.859699,
+    "longitude": -117.849998,
+    "elevation_ft": 342,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Anaheim"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16848
+  }
+}

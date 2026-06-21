@@ -1,0 +1,33 @@
+{
+  "key": "egpu",
+  "codes": {
+    "icao": "EGPU",
+    "iata": "TRE",
+    "gps": "EGPU",
+    "local": null
+  },
+  "name": "Tiree Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.499199,
+    "longitude": -6.86917,
+    "elevation_ft": 38,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Balemartine, Argyll and Bute"
+  },
+  "keywords": [
+    "Inner Hebrides"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tiree_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2469
+  }
+}

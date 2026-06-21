@@ -1,0 +1,30 @@
+{
+  "key": "_br_348224",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDH9",
+    "local": "RJ0345"
+  },
+  "name": "BR Marinas Paraty Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.234042,
+    "longitude": -44.70635,
+    "elevation_ft": 13,
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Paraty"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 348224
+  }
+}

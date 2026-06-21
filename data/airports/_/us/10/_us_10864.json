@@ -1,0 +1,30 @@
+{
+  "key": "_us_10864",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3WA2",
+    "local": "3WA2"
+  },
+  "name": "Hanes Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.500997,
+    "longitude": -118.233619,
+    "elevation_ft": 2209,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Harrington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10864
+  }
+}

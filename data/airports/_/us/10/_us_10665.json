@@ -1,0 +1,30 @@
+{
+  "key": "_us_10665",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3NH9",
+    "local": "3NH9"
+  },
+  "name": "Longview Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.5476,
+    "longitude": -71.226997,
+    "elevation_ft": 560,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Alton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10665
+  }
+}

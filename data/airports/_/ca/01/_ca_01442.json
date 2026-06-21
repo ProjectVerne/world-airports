@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01442",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPQ3",
+    "local": "CPQ3"
+  },
+  "name": "Niagara Falls Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.11906,
+    "longitude": -79.075314,
+    "elevation_ft": 589,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Niagara Falls"
+  },
+  "keywords": [
+    "PQ3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1442
+  }
+}

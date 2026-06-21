@@ -1,0 +1,31 @@
+{
+  "key": "fogg",
+  "codes": {
+    "icao": "FOGG",
+    "iata": "MBC",
+    "gps": "FOGG",
+    "local": null
+  },
+  "name": "M'Bigou Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.893056,
+    "longitude": 11.9125,
+    "elevation_ft": 2346,
+    "iso_country": "GA",
+    "iso_region": "GA-4",
+    "municipality": "M'Bigou"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mbigou_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31880
+  }
+}

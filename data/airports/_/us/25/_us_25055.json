@@ -1,0 +1,30 @@
+{
+  "key": "_us_25055",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS39",
+    "local": "TS39"
+  },
+  "name": "Sherman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.312,
+    "longitude": -101.412003,
+    "elevation_ft": 3285,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lockney"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25055
+  }
+}

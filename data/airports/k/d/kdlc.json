@@ -1,0 +1,31 @@
+{
+  "key": "kdlc",
+  "codes": {
+    "icao": "KDLC",
+    "iata": "DLL",
+    "gps": "KDLC",
+    "local": "DLC"
+  },
+  "name": "Dillon County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.4491,
+    "longitude": -79.368599,
+    "elevation_ft": 133,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Dillon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dillon_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19636
+  }
+}

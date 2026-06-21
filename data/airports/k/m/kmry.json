@@ -1,0 +1,33 @@
+{
+  "key": "kmry",
+  "codes": {
+    "icao": "KMRY",
+    "iata": "MRY",
+    "gps": "KMRY",
+    "local": "MRY"
+  },
+  "name": "Monterey Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.586777,
+    "longitude": -121.844183,
+    "elevation_ft": 257,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Monterey"
+  },
+  "keywords": [
+    "Monterey Peninsula Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Monterey_Peninsula_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3705
+  }
+}

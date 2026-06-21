@@ -1,0 +1,36 @@
+{
+  "key": "rjco",
+  "codes": {
+    "icao": "RJCO",
+    "iata": "OKD",
+    "gps": "RJCO",
+    "local": null
+  },
+  "name": "Sapporo Okadama Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.117447,
+    "longitude": 141.38134,
+    "elevation_ft": 25,
+    "iso_country": "JP",
+    "iso_region": "JP-01",
+    "municipality": "Sapporo"
+  },
+  "keywords": [
+    "RJCO",
+    "OKD",
+    "Sapporo",
+    "Okadama"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Okadama_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5550
+  }
+}

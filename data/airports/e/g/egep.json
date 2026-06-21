@@ -1,0 +1,33 @@
+{
+  "key": "egep",
+  "codes": {
+    "icao": "EGEP",
+    "iata": "PPW",
+    "gps": "EGEP",
+    "local": null
+  },
+  "name": "Papa Westray Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.351012,
+    "longitude": -2.900353,
+    "elevation_ft": 91,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Papa Westray, Orkney Islands"
+  },
+  "keywords": [
+    "Papay"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Papa_Westray_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29130
+  }
+}

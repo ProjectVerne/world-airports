@@ -1,0 +1,33 @@
+{
+  "key": "_us_14485",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "80CL",
+    "local": "80CL"
+  },
+  "name": "Blythe Service Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.604879,
+    "longitude": -114.602305,
+    "elevation_ft": 297,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Blythe"
+  },
+  "keywords": [
+    "blythe",
+    "blythe service center"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 14485
+  }
+}

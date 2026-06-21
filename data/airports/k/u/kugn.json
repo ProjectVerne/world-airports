@@ -1,0 +1,34 @@
+{
+  "key": "kugn",
+  "codes": {
+    "icao": "KUGN",
+    "iata": "UGN",
+    "gps": "KUGN",
+    "local": "UGN"
+  },
+  "name": "Waukegan National Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.422199,
+    "longitude": -87.867897,
+    "elevation_ft": 727,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Chicago/Waukegan"
+  },
+  "keywords": [
+    "Waukegan Regional Airport",
+    "Waukegan Memorial Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Waukegan_National_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21289
+  }
+}

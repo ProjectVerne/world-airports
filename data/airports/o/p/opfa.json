@@ -1,0 +1,33 @@
+{
+  "key": "opfa",
+  "codes": {
+    "icao": "OPFA",
+    "iata": "LYP",
+    "gps": "OPFA",
+    "local": null
+  },
+  "name": "Faisalabad International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.364923,
+    "longitude": 72.995319,
+    "elevation_ft": 591,
+    "iso_country": "PK",
+    "iso_region": "PK-PB",
+    "municipality": "Faisalabad"
+  },
+  "keywords": [
+    "OPLF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Faisalabad_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5251
+  }
+}

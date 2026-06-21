@@ -1,0 +1,30 @@
+{
+  "key": "_us_23349",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NV40",
+    "local": "NV40"
+  },
+  "name": "Action Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.950001,
+    "longitude": -115.167,
+    "elevation_ft": 2460,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Las Vegas"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23349
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_07302",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0MA1",
+    "local": "0MA1"
+  },
+  "name": "Massachusetts General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.363656,
+    "longitude": -71.069142,
+    "elevation_ft": 214,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Boston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7302
+  }
+}

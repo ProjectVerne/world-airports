@@ -1,0 +1,33 @@
+{
+  "key": "_us_16988",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Swift Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.965099,
+    "longitude": -72.332901,
+    "elevation_ft": 515,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Stafford Springs"
+  },
+  "keywords": [
+    "CT31",
+    "US-11208"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16988
+  }
+}

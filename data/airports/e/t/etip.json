@@ -1,0 +1,30 @@
+{
+  "key": "etip",
+  "codes": {
+    "icao": "ETIP",
+    "iata": null,
+    "gps": "ETIP",
+    "local": null
+  },
+  "name": "Landstuhl Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.403056,
+    "longitude": 7.536111,
+    "elevation_ft": 1176,
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Landstuhl"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300110
+  }
+}

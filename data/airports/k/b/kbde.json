@@ -1,0 +1,31 @@
+{
+  "key": "kbde",
+  "codes": {
+    "icao": "KBDE",
+    "iata": "BDE",
+    "gps": "KBDE",
+    "local": "BDE"
+  },
+  "name": "Baudette International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.728401,
+    "longitude": -94.612198,
+    "elevation_ft": 1086,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Baudette"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Baudette_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3395
+  }
+}

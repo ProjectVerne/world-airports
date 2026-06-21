@@ -1,0 +1,30 @@
+{
+  "key": "_us_23215",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NK90",
+    "local": "NK90"
+  },
+  "name": "TLI Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.14725,
+    "longitude": -73.86931,
+    "elevation_ft": 9,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Ossining"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23215
+  }
+}

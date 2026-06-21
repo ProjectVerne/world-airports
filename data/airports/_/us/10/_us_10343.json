@@ -1,0 +1,30 @@
+{
+  "key": "_us_10343",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "39OR",
+    "local": "39OR"
+  },
+  "name": "Croman Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.430471,
+    "longitude": -122.877094,
+    "elevation_ft": 1280,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "White City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10343
+  }
+}

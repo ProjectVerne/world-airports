@@ -1,0 +1,30 @@
+{
+  "key": "_us_07112",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0CA5",
+    "local": "0CA5"
+  },
+  "name": "Hoffman Private Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.143101,
+    "longitude": -116.745003,
+    "elevation_ft": 3100,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Santa Ysabel"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7112
+  }
+}

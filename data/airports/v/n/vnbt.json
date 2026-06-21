@@ -1,0 +1,30 @@
+{
+  "key": "vnbt",
+  "codes": {
+    "icao": "VNBT",
+    "iata": "BIT",
+    "gps": "VNBT",
+    "local": null
+  },
+  "name": "Baitadi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.463421,
+    "longitude": 80.548968,
+    "elevation_ft": 4200,
+    "iso_country": "NP",
+    "iso_region": "NP-P7",
+    "municipality": "Baitadi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30753
+  }
+}

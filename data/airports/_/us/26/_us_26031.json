@@ -1,0 +1,32 @@
+{
+  "key": "_us_26031",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WV48",
+    "local": "WV48"
+  },
+  "name": "Berkeley Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.475645,
+    "longitude": -77.979519,
+    "elevation_ft": 548,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Martinsburg"
+  },
+  "keywords": [
+    "City Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26031
+  }
+}

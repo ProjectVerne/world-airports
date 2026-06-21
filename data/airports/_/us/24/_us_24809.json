@@ -1,0 +1,30 @@
+{
+  "key": "_us_24809",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE00",
+    "local": "TE00"
+  },
+  "name": "Coastal Bend Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.913313,
+    "longitude": -97.159352,
+    "elevation_ft": 9,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Aransas Pass"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24809
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_13260",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6GA2",
+    "local": "6GA2"
+  },
+  "name": "Becker Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.766389,
+    "longitude": -83.763056,
+    "elevation_ft": 735,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Monroe"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13260
+  }
+}

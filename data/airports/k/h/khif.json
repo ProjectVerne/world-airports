@@ -1,0 +1,33 @@
+{
+  "key": "khif",
+  "codes": {
+    "icao": "KHIF",
+    "iata": "HIF",
+    "gps": "KHIF",
+    "local": "HIF"
+  },
+  "name": "Hill Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.12403,
+    "longitude": -111.973086,
+    "elevation_ft": 4789,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Ogden"
+  },
+  "keywords": [
+    "Hill Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hill_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3580
+  }
+}

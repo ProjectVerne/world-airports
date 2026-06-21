@@ -1,0 +1,31 @@
+{
+  "key": "kara",
+  "codes": {
+    "icao": "KARA",
+    "iata": "ARA",
+    "gps": "KARA",
+    "local": "ARA"
+  },
+  "name": "Acadiana Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.0378,
+    "longitude": -91.883904,
+    "elevation_ft": 24,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "New Iberia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Acadiana_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19301
+  }
+}

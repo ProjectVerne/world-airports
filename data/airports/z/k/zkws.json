@@ -1,0 +1,31 @@
+{
+  "key": "zkws",
+  "codes": {
+    "icao": "ZKWS",
+    "iata": "WOS",
+    "gps": "ZKWS",
+    "local": null
+  },
+  "name": "Wonsan Kalma Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.165219,
+    "longitude": 127.487931,
+    "elevation_ft": 7,
+    "iso_country": "KP",
+    "iso_region": "KP-07",
+    "municipality": "Wonsan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kalma_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35213
+  }
+}

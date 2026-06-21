@@ -1,0 +1,32 @@
+{
+  "key": "lkcu",
+  "codes": {
+    "icao": "LKCU",
+    "iata": null,
+    "gps": "LKCU",
+    "local": null
+  },
+  "name": "Chomutov Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.453617,
+    "longitude": 13.411807,
+    "elevation_ft": 1099,
+    "iso_country": "CZ",
+    "iso_region": "CZ-US",
+    "municipality": "Chomutov"
+  },
+  "keywords": [
+    "CZ-0038"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43955
+  }
+}

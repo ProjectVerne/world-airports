@@ -1,0 +1,31 @@
+{
+  "key": "sdco",
+  "codes": {
+    "icao": "SDCO",
+    "iata": "SOD",
+    "gps": "SDCO",
+    "local": "SP0027"
+  },
+  "name": "Sorocaba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.478001,
+    "longitude": -47.490002,
+    "elevation_ft": 2083,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Sorocaba"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sorocaba_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 156
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_07460",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0OK7",
+    "local": "0OK7"
+  },
+  "name": "Shattuck Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.25,
+    "longitude": -99.875397,
+    "elevation_ft": 2200,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Shattuck"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7460
+  }
+}

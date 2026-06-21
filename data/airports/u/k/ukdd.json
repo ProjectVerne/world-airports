@@ -1,0 +1,34 @@
+{
+  "key": "ukdd",
+  "codes": {
+    "icao": "UKDD",
+    "iata": "DNK",
+    "gps": "UKDD",
+    "local": null
+  },
+  "name": "Dnipro International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.357201,
+    "longitude": 35.100601,
+    "elevation_ft": 481,
+    "iso_country": "UA",
+    "iso_region": "UA-12",
+    "municipality": "Dnipro"
+  },
+  "keywords": [
+    "Dnipropetrovsk",
+    "Міжнародний аеропорт «Дніпро»"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dnipro_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6471
+  }
+}

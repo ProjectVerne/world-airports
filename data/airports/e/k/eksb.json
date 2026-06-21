@@ -1,0 +1,34 @@
+{
+  "key": "eksb",
+  "codes": {
+    "icao": "EKSB",
+    "iata": "SGD",
+    "gps": "EKSB",
+    "local": null
+  },
+  "name": "Sønderborg Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.964401,
+    "longitude": 9.79173,
+    "elevation_ft": 24,
+    "iso_country": "DK",
+    "iso_region": "DK-83",
+    "municipality": "Sønderborg"
+  },
+  "keywords": [
+    "Sonderborg",
+    "Soenderborg"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/S%C3%B8nderborg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2553
+  }
+}

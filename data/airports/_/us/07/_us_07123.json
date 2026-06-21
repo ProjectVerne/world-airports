@@ -1,0 +1,30 @@
+{
+  "key": "_us_07123",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0CD6",
+    "local": "0CD6"
+  },
+  "name": "Exempla Good Samaritan Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.970843,
+    "longitude": -105.08741,
+    "elevation_ft": 5204,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Lafayette"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7123
+  }
+}

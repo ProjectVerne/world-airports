@@ -1,0 +1,30 @@
+{
+  "key": "_us_10023",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32PN",
+    "local": "32PN"
+  },
+  "name": "Black Rock Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.734001,
+    "longitude": -80.275902,
+    "elevation_ft": 1150,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "New Brighton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10023
+  }
+}

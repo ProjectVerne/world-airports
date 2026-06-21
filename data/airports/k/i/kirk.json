@@ -1,0 +1,31 @@
+{
+  "key": "kirk",
+  "codes": {
+    "icao": "KIRK",
+    "iata": "IRK",
+    "gps": "KIRK",
+    "local": "IRK"
+  },
+  "name": "Kirksville Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.093498,
+    "longitude": -92.544899,
+    "elevation_ft": 966,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Kirksville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kirksville_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3615
+  }
+}

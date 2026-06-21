@@ -1,0 +1,31 @@
+{
+  "key": "cybr",
+  "codes": {
+    "icao": "CYBR",
+    "iata": "YBR",
+    "gps": "CYBR",
+    "local": null
+  },
+  "name": "Brandon Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.91,
+    "longitude": -99.951897,
+    "elevation_ft": 1343,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Brandon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Brandon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1678
+  }
+}

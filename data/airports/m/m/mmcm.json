@@ -1,0 +1,33 @@
+{
+  "key": "mmcm",
+  "codes": {
+    "icao": "MMCM",
+    "iata": "CTM",
+    "gps": "MMCM",
+    "local": null
+  },
+  "name": "Chetumal International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.504985,
+    "longitude": -88.328018,
+    "elevation_ft": 39,
+    "iso_country": "MX",
+    "iso_region": "MX-ROO",
+    "municipality": "Chetumal"
+  },
+  "keywords": [
+    "Aeropuerto Internacional de Chetumal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chetumal_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4698
+  }
+}

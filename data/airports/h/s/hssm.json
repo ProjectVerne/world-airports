@@ -1,0 +1,33 @@
+{
+  "key": "hssm",
+  "codes": {
+    "icao": "HSSM",
+    "iata": "MAK",
+    "gps": "HJMK",
+    "local": null
+  },
+  "name": "Malakal International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.558739,
+    "longitude": 31.651937,
+    "elevation_ft": 1291,
+    "iso_country": "SS",
+    "iso_region": "SS-NU",
+    "municipality": "Malakal"
+  },
+  "keywords": [
+    "HSSM"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Malakal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3248
+  }
+}

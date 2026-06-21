@@ -1,0 +1,30 @@
+{
+  "key": "_us_13205",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6CA0",
+    "local": "6CA0"
+  },
+  "name": "DoubleTree by Hilton Hotel Los Angeles Downtown Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.050686,
+    "longitude": -118.242663,
+    "elevation_ft": 490,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Los Angeles"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13205
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_16364",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AR77",
+    "local": "AR77"
+  },
+  "name": "Helena Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.5098,
+    "longitude": -90.626198,
+    "elevation_ft": 215,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Helena"
+  },
+  "keywords": [
+    "Helena Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16364
+  }
+}

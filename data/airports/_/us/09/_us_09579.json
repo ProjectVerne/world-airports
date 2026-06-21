@@ -1,0 +1,30 @@
+{
+  "key": "_us_09579",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2MS4",
+    "local": "2MS4"
+  },
+  "name": "Tgp Station 546 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.4492,
+    "longitude": -88.361702,
+    "elevation_ft": 219,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Columbus"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9579
+  }
+}

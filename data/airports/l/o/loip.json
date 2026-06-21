@@ -1,0 +1,33 @@
+{
+  "key": "loip",
+  "codes": {
+    "icao": "LOIP",
+    "iata": null,
+    "gps": "LOIP",
+    "local": null
+  },
+  "name": "Ischgl Idalp Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.980419,
+    "longitude": 10.315908,
+    "elevation_ft": 7522,
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Ischgl"
+  },
+  "keywords": [
+    "Idalpe",
+    "AT-0068"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43839
+  }
+}

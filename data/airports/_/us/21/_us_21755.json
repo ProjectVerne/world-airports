@@ -1,0 +1,30 @@
+{
+  "key": "_us_21755",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA13",
+    "local": "MA13"
+  },
+  "name": "Nugent Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.627899,
+    "longitude": -70.637802,
+    "elevation_ft": 100,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Gloucester"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21755
+  }
+}

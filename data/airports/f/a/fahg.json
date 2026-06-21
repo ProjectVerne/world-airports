@@ -1,0 +1,31 @@
+{
+  "key": "fahg",
+  "codes": {
+    "icao": "FAHG",
+    "iata": null,
+    "gps": "FAHG",
+    "local": null
+  },
+  "name": "Heidelburg Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.51,
+    "longitude": 28.389999,
+    "elevation_ft": 5089,
+    "iso_country": "ZA",
+    "iso_region": "ZA-GT",
+    "municipality": "Heidelburg"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Heidelberg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27284
+  }
+}

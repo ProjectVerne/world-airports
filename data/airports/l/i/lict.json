@@ -1,0 +1,35 @@
+{
+  "key": "lict",
+  "codes": {
+    "icao": "LICT",
+    "iata": "TPS",
+    "gps": "LICT",
+    "local": "TP01"
+  },
+  "name": "Vincenzo Florio Airport Trapani-Birgi",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.9114,
+    "longitude": 12.488,
+    "elevation_ft": 25,
+    "iso_country": "IT",
+    "iso_region": "IT-82",
+    "municipality": "Trapani (TP)"
+  },
+  "keywords": [
+    "Vincenzo Florio Airport",
+    "Trapani Airport",
+    "Aeroporto Vincenzo Florio di Trapani-Birgi"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vincenzo_Florio_Airport_Trapani%E2%80%93Birgi",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4324
+  }
+}

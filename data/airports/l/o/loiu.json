@@ -1,0 +1,32 @@
+{
+  "key": "loiu",
+  "codes": {
+    "icao": "LOIU",
+    "iata": null,
+    "gps": "LOIU",
+    "local": null
+  },
+  "name": "Innsbruck University Hospital Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.261018,
+    "longitude": 11.384733,
+    "elevation_ft": 2057,
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Innsbruck"
+  },
+  "keywords": [
+    "AT-0070"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43842
+  }
+}

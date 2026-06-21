@@ -1,0 +1,31 @@
+{
+  "key": "zulb",
+  "codes": {
+    "icao": "ZULB",
+    "iata": "LLB",
+    "gps": "ZULB",
+    "local": null
+  },
+  "name": "Libo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.4525,
+    "longitude": 107.961667,
+    "elevation_ft": 0,
+    "iso_country": "CN",
+    "iso_region": "CN-52",
+    "municipality": "Qiannan (Libo)"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Libo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 327351
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "ukli",
+  "codes": {
+    "icao": "UKLI",
+    "iata": "IFO",
+    "gps": "UKLI",
+    "local": null
+  },
+  "name": "Ivano-Frankivsk International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.884201,
+    "longitude": 24.6861,
+    "elevation_ft": 919,
+    "iso_country": "UA",
+    "iso_region": "UA-26",
+    "municipality": "Ivano-Frankivsk"
+  },
+  "keywords": [
+    "Міжнародний аеропорт Івано-Франківськ"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ivano-Frankivsk_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6480
+  }
+}

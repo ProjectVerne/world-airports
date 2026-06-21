@@ -1,0 +1,30 @@
+{
+  "key": "_us_18150",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IN81",
+    "local": "IN81"
+  },
+  "name": "Small Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.7519,
+    "longitude": -85.557503,
+    "elevation_ft": 920,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Carthage"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18150
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_346680",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Air Evac 1 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.72315,
+    "longitude": -91.88087,
+    "elevation_ft": 1085,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "West Plains"
+  },
+  "keywords": [
+    "US-4883"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 346680
+  }
+}

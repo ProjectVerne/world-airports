@@ -1,0 +1,32 @@
+{
+  "key": "_us_355005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Bob White Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 36.58259,
+    "longitude": -93.57129,
+    "elevation_ft": 999,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Shell Knob"
+  },
+  "keywords": [
+    "US-6869"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 355005
+  }
+}

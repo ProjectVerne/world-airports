@@ -1,0 +1,30 @@
+{
+  "key": "_us_08182",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1AK7",
+    "local": "1AK7"
+  },
+  "name": "Valdez Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 61.1366,
+    "longitude": -146.345001,
+    "elevation_ft": 96,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Valdez"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8182
+  }
+}

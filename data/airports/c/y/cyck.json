@@ -1,0 +1,33 @@
+{
+  "key": "cyck",
+  "codes": {
+    "icao": "CYCK",
+    "iata": "XCM",
+    "gps": "CYCK",
+    "local": "NZ3"
+  },
+  "name": "Chatham Kent Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.3064,
+    "longitude": -82.081902,
+    "elevation_ft": 650,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Chatham-Kent"
+  },
+  "keywords": [
+    "CNZ3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chatham-Kent_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1364
+  }
+}

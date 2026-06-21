@@ -1,0 +1,30 @@
+{
+  "key": "eshd",
+  "codes": {
+    "icao": "ESHD",
+    "iata": null,
+    "gps": "ESHD",
+    "local": null
+  },
+  "name": "Danderyds Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 59.391072,
+    "longitude": 18.033473,
+    "elevation_ft": 5,
+    "iso_country": "SE",
+    "iso_region": "SE-AB",
+    "municipality": "Stockholm"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600408
+  }
+}

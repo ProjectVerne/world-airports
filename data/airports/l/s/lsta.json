@@ -1,0 +1,34 @@
+{
+  "key": "lsta",
+  "codes": {
+    "icao": "LSTA",
+    "iata": null,
+    "gps": "LSTA",
+    "local": null
+  },
+  "name": "Raron Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.30449,
+    "longitude": 7.819085,
+    "elevation_ft": 2029,
+    "iso_country": "CH",
+    "iso_region": "CH-VS",
+    "municipality": "Raron"
+  },
+  "keywords": [
+    "LSMN",
+    "Raron Air Base"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Raron",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31852
+  }
+}

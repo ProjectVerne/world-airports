@@ -1,0 +1,31 @@
+{
+  "key": "kflx",
+  "codes": {
+    "icao": "KFLX",
+    "iata": "FLX",
+    "gps": "KFLX",
+    "local": "FLX"
+  },
+  "name": "Fallon Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.4991,
+    "longitude": -118.749001,
+    "elevation_ft": 3963,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Fallon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fallon_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19878
+  }
+}

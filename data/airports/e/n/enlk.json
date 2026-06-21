@@ -1,0 +1,33 @@
+{
+  "key": "enlk",
+  "codes": {
+    "icao": "ENLK",
+    "iata": "LKN",
+    "gps": "ENLK",
+    "local": null
+  },
+  "name": "Leknes Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 68.152496,
+    "longitude": 13.6094,
+    "elevation_ft": 78,
+    "iso_country": "NO",
+    "iso_region": "NO-18",
+    "municipality": "Leknes"
+  },
+  "keywords": [
+    "Leknes lufthavn"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Leknes_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29264
+  }
+}

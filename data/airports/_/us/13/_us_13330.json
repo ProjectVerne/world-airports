@@ -1,0 +1,33 @@
+{
+  "key": "_us_13330",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Kiowa Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 37.015301,
+    "longitude": -98.495903,
+    "elevation_ft": 1333,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Kiowa"
+  },
+  "keywords": [
+    "6KS6",
+    "US-10551"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13330
+  }
+}

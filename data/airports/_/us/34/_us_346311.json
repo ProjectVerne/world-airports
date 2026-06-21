@@ -1,0 +1,32 @@
+{
+  "key": "_us_346311",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IA32",
+    "local": "IA32"
+  },
+  "name": "Kelley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.35582,
+    "longitude": -95.848236,
+    "elevation_ft": 1196,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Crescent"
+  },
+  "keywords": [
+    "US-4767"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 346311
+  }
+}

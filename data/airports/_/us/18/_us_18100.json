@@ -1,0 +1,33 @@
+{
+  "key": "_us_18100",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IN31",
+    "local": "IN31"
+  },
+  "name": "Hanna Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.022301,
+    "longitude": -85.753891,
+    "elevation_ft": 870,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Pendleton"
+  },
+  "keywords": [
+    "North Lakeland",
+    "Huntzinger"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18100
+  }
+}

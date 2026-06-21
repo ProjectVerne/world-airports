@@ -1,0 +1,31 @@
+{
+  "key": "paky",
+  "codes": {
+    "icao": "PAKY",
+    "iata": "KYK",
+    "gps": "PAKY",
+    "local": "KYK"
+  },
+  "name": "Karluk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.565919,
+    "longitude": -154.453762,
+    "elevation_ft": 137,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Karluk"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Karluk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21434
+  }
+}

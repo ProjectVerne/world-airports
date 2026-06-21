@@ -1,0 +1,31 @@
+{
+  "key": "kmsv",
+  "codes": {
+    "icao": "KMSV",
+    "iata": "MSV",
+    "gps": "KMSV",
+    "local": "MSV"
+  },
+  "name": "Sullivan County International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.701596,
+    "longitude": -74.794997,
+    "elevation_ft": 1403,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Monticello"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sullivan_County_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20563
+  }
+}

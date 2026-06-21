@@ -1,0 +1,30 @@
+{
+  "key": "_us_323193",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3AA3",
+    "local": "3AA3"
+  },
+  "name": "CVTC Field Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 61.13,
+    "longitude": -146.370555,
+    "elevation_ft": 50,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Valdez"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323193
+  }
+}

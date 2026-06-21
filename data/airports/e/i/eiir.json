@@ -1,0 +1,33 @@
+{
+  "key": "eiir",
+  "codes": {
+    "icao": "EIIR",
+    "iata": "INQ",
+    "gps": "EIIR",
+    "local": null
+  },
+  "name": "Inisheer Aerodrome",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.064701,
+    "longitude": -9.5109,
+    "elevation_ft": 40,
+    "iso_country": "IE",
+    "iso_region": "IE-G",
+    "municipality": "Inis Oírr"
+  },
+  "keywords": [
+    "Aran Islands"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Inisheer_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29222
+  }
+}

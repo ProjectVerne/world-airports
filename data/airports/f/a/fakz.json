@@ -1,0 +1,31 @@
+{
+  "key": "fakz",
+  "codes": {
+    "icao": "FAKZ",
+    "iata": "KLZ",
+    "gps": "FAKZ",
+    "local": null
+  },
+  "name": "Kleinsee Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.6884,
+    "longitude": 17.094,
+    "elevation_ft": 270,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Kleinsee"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kleinzee_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2799
+  }
+}

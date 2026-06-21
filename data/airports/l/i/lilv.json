@@ -1,0 +1,31 @@
+{
+  "key": "lilv",
+  "codes": {
+    "icao": "LILV",
+    "iata": null,
+    "gps": "LILV",
+    "local": "BG02"
+  },
+  "name": "Valbrembo Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.719864,
+    "longitude": 9.593954,
+    "elevation_ft": 745,
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Valbrembo (BG)"
+  },
+  "keywords": [],
+  "wikipedia": "https://it.wikipedia.org/wiki/Aeroporto_di_Valbrembo",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29432
+  }
+}

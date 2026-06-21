@@ -1,0 +1,32 @@
+{
+  "key": "_us_509661",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA22",
+    "local": "PA22"
+  },
+  "name": "West Penn Power Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.320486,
+    "longitude": -79.544446,
+    "elevation_ft": 1270,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Greensburg"
+  },
+  "keywords": [
+    "US-7841"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509661
+  }
+}

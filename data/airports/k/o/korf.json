@@ -1,0 +1,31 @@
+{
+  "key": "korf",
+  "codes": {
+    "icao": "KORF",
+    "iata": "ORF",
+    "gps": "KORF",
+    "local": "ORF"
+  },
+  "name": "Norfolk International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.895341,
+    "longitude": -76.201,
+    "elevation_ft": 26,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Norfolk"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Norfolk_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3755
+  }
+}

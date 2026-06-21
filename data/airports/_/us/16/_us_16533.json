@@ -1,0 +1,33 @@
+{
+  "key": "_us_16533",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Patterson Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 37.468488,
+    "longitude": -121.16927,
+    "elevation_ft": 168,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Patterson"
+  },
+  "keywords": [
+    "CA02",
+    "US-11139"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16533
+  }
+}

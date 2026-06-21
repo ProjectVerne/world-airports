@@ -1,0 +1,30 @@
+{
+  "key": "snar",
+  "codes": {
+    "icao": "SNAR",
+    "iata": "AMJ",
+    "gps": "SNAR",
+    "local": "MG0033"
+  },
+  "name": "Cirilo Queiróz Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.165579,
+    "longitude": -40.684024,
+    "elevation_ft": 640,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Almenara"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 273
+  }
+}

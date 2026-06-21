@@ -1,0 +1,33 @@
+{
+  "key": "cybg",
+  "codes": {
+    "icao": "CYBG",
+    "iata": "YBG",
+    "gps": "CYBG",
+    "local": null
+  },
+  "name": "Saguenay-Bagotville Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.330123,
+    "longitude": -70.992012,
+    "elevation_ft": 522,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Saguenay"
+  },
+  "keywords": [
+    "Bagotville Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/CFB_Bagotville",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1673
+  }
+}

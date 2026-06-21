@@ -1,0 +1,32 @@
+{
+  "key": "_us_555790",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Seymour Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.58945,
+    "longitude": -99.24875,
+    "elevation_ft": 1316,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Seymour"
+  },
+  "keywords": [
+    "US-9052"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 555790
+  }
+}

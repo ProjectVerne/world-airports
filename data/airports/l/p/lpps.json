@@ -1,0 +1,31 @@
+{
+  "key": "lpps",
+  "codes": {
+    "icao": "LPPS",
+    "iata": "PXO",
+    "gps": "LPPS",
+    "local": null
+  },
+  "name": "Porto Santo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.073399,
+    "longitude": -16.35,
+    "elevation_ft": 341,
+    "iso_country": "PT",
+    "iso_region": "PT-30",
+    "municipality": "Vila Baleira"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Porto_Santo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4460
+  }
+}

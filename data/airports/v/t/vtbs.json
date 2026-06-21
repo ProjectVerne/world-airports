@@ -1,0 +1,31 @@
+{
+  "key": "vtbs",
+  "codes": {
+    "icao": "VTBS",
+    "iata": "BKK",
+    "gps": "VTBS",
+    "local": null
+  },
+  "name": "Suvarnabhumi Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.6811,
+    "longitude": 100.747002,
+    "elevation_ft": 5,
+    "iso_country": "TH",
+    "iso_region": "TH-10",
+    "municipality": "Bangkok"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28118
+  }
+}

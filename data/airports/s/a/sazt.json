@@ -1,0 +1,31 @@
+{
+  "key": "sazt",
+  "codes": {
+    "icao": "SAZT",
+    "iata": "TDL",
+    "gps": "SAZT",
+    "local": "DIL"
+  },
+  "name": "Héroes de Malvinas Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -37.234634,
+    "longitude": -59.228647,
+    "elevation_ft": 574,
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Tandil"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tandil_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5853
+  }
+}

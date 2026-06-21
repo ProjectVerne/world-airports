@@ -1,0 +1,30 @@
+{
+  "key": "_us_11014",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "42PN",
+    "local": "42PN"
+  },
+  "name": "Allegheny General Hospital Emergency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.450901,
+    "longitude": -80.000603,
+    "elevation_ft": 811,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Pittsburgh"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11014
+  }
+}

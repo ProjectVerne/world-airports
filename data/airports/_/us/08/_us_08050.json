@@ -1,0 +1,33 @@
+{
+  "key": "_us_08050",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MN61",
+    "local": "MN61"
+  },
+  "name": "Jackson Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 46.7169,
+    "longitude": -93.210197,
+    "elevation_ft": 1224,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Mc Gregor"
+  },
+  "keywords": [
+    "17MN",
+    "Kivi/Mokki Seaplane Base"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8050
+  }
+}

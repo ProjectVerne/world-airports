@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00885",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CEP5",
+    "local": "CEP5"
+  },
+  "name": "Janvier Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.900002,
+    "longitude": -110.733002,
+    "elevation_ft": 1575,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Janvier"
+  },
+  "keywords": [
+    "EP5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Janvier_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 885
+  }
+}

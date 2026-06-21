@@ -1,0 +1,30 @@
+{
+  "key": "_us_23033",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH81",
+    "local": "NH81"
+  },
+  "name": "Franklin Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.448399,
+    "longitude": -71.646202,
+    "elevation_ft": 480,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Franklin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23033
+  }
+}

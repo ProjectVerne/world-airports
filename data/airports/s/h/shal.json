@@ -1,0 +1,32 @@
+{
+  "key": "shal",
+  "codes": {
+    "icao": "SHAL",
+    "iata": null,
+    "gps": "SHAL",
+    "local": null
+  },
+  "name": "Los Paltos Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -33.725492,
+    "longitude": -70.930352,
+    "elevation_ft": 978,
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Isla de Maipo"
+  },
+  "keywords": [
+    "Talagante"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45085
+  }
+}

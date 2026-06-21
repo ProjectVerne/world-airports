@@ -1,0 +1,30 @@
+{
+  "key": "ltbm",
+  "codes": {
+    "icao": "LTBM",
+    "iata": null,
+    "gps": "LTBM",
+    "local": null
+  },
+  "name": "Isparta Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.787409,
+    "longitude": 30.588341,
+    "elevation_ft": 3250,
+    "iso_country": "TR",
+    "iso_region": "TR-32",
+    "municipality": "Isparta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4536
+  }
+}

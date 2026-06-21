@@ -1,0 +1,32 @@
+{
+  "key": "_us_13189",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6AR3",
+    "local": "6AR3"
+  },
+  "name": "UAMS Alpha Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.748107,
+    "longitude": -92.320215,
+    "elevation_ft": 561,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Little Rock"
+  },
+  "keywords": [
+    "University Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13189
+  }
+}

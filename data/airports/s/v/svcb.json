@@ -1,0 +1,33 @@
+{
+  "key": "svcb",
+  "codes": {
+    "icao": "SVCB",
+    "iata": "CBL",
+    "gps": "SVCB",
+    "local": null
+  },
+  "name": "General Tomas de Heres Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.122161,
+    "longitude": -63.536957,
+    "elevation_ft": 197,
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Ciudad Bolivar"
+  },
+  "keywords": [
+    "Aeropuerto General Tomas de Heres"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tom%C3%A1s_de_Heres_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6262
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_22835",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NC95",
+    "local": "NC95"
+  },
+  "name": "Mission Hospitals Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.575298,
+    "longitude": -82.548501,
+    "elevation_ft": 2200,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Asheville"
+  },
+  "keywords": [
+    "96NC",
+    "St Josephs Mission Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22835
+  }
+}

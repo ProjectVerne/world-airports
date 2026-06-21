@@ -1,0 +1,32 @@
+{
+  "key": "_us_346177",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Air Evac 102 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.495845,
+    "longitude": -82.926294,
+    "elevation_ft": 256,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Dublin"
+  },
+  "keywords": [
+    "US-4746"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 346177
+  }
+}

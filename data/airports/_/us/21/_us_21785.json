@@ -1,0 +1,30 @@
+{
+  "key": "_us_21785",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA42",
+    "local": "MA42"
+  },
+  "name": "US Coast Guard Gloucester Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.6101,
+    "longitude": -70.660004,
+    "elevation_ft": 10,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Gloucester"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21785
+  }
+}

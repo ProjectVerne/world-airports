@@ -1,0 +1,33 @@
+{
+  "key": "svmi",
+  "codes": {
+    "icao": "SVMI",
+    "iata": "CCS",
+    "gps": "SVMI",
+    "local": null
+  },
+  "name": "Maiquetía Simón Bolívar International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.602214,
+    "longitude": -66.991174,
+    "elevation_ft": 234,
+    "iso_country": "VE",
+    "iso_region": "VE-X",
+    "municipality": "Maiquetía"
+  },
+  "keywords": [
+    "Caracas"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6300
+  }
+}

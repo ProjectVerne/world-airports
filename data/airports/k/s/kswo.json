@@ -1,0 +1,31 @@
+{
+  "key": "kswo",
+  "codes": {
+    "icao": "KSWO",
+    "iata": "SWO",
+    "gps": "KSWO",
+    "local": "SWO"
+  },
+  "name": "Stillwater Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.162132,
+    "longitude": -97.085581,
+    "elevation_ft": 1000,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Stillwater"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stillwater_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3912
+  }
+}

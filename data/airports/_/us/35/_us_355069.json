@@ -1,0 +1,32 @@
+{
+  "key": "_us_355069",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "20AZ",
+    "local": "20AZ"
+  },
+  "name": "GC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.941485,
+    "longitude": -113.908026,
+    "elevation_ft": 5106,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Meadview"
+  },
+  "keywords": [
+    "US-6876"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 355069
+  }
+}

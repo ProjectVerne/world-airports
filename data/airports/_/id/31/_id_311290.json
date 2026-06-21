@@ -1,0 +1,33 @@
+{
+  "key": "_id_311290",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "TES"
+  },
+  "name": "Testega Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.378076,
+    "longitude": 133.594204,
+    "elevation_ft": 3750,
+    "iso_country": "ID",
+    "iso_region": "ID-PB",
+    "municipality": "Testega"
+  },
+  "keywords": [
+    "WT46",
+    "ID-0154"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 311290
+  }
+}

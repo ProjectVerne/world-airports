@@ -1,0 +1,32 @@
+{
+  "key": "_us_346181",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Air Evac 108 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.760464,
+    "longitude": -88.650665,
+    "elevation_ft": 476,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Mayfield"
+  },
+  "keywords": [
+    "US-4750"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 346181
+  }
+}

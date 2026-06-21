@@ -1,0 +1,34 @@
+{
+  "key": "myrp",
+  "codes": {
+    "icao": "MYRP",
+    "iata": "RCY",
+    "gps": "MYRP",
+    "local": null
+  },
+  "name": "Rum Cay International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.68344,
+    "longitude": -74.836302,
+    "elevation_ft": 15,
+    "iso_country": "BS",
+    "iso_region": "BS-RC",
+    "municipality": "Port Nelson"
+  },
+  "keywords": [
+    "Port Nelson Airport",
+    "New Port Nelson Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Nelson_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4953
+  }
+}

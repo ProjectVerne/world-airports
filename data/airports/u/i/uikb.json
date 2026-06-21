@@ -1,0 +1,34 @@
+{
+  "key": "uikb",
+  "codes": {
+    "icao": "UIKB",
+    "iata": "ODO",
+    "gps": "UIKB",
+    "local": null
+  },
+  "name": "Bodaybo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.8661,
+    "longitude": 114.242996,
+    "elevation_ft": 919,
+    "iso_country": "RU",
+    "iso_region": "RU-IRK",
+    "municipality": "Bodaybo"
+  },
+  "keywords": [
+    "Bodaibo Airport",
+    "Аэропорт Бодайбо"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bodaybo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32524
+  }
+}

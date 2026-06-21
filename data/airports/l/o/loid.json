@@ -1,0 +1,30 @@
+{
+  "key": "loid",
+  "codes": {
+    "icao": "LOID",
+    "iata": null,
+    "gps": "LOID",
+    "local": null
+  },
+  "name": "Kufstein Hospital Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.57124,
+    "longitude": 12.149485,
+    "elevation_ft": 1664,
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Kufstein"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43832
+  }
+}

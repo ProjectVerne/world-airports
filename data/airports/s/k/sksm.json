@@ -1,0 +1,31 @@
+{
+  "key": "sksm",
+  "codes": {
+    "icao": "SKSM",
+    "iata": "SMR",
+    "gps": "SKSM",
+    "local": "SMR"
+  },
+  "name": "Simón Bolívar International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.1196,
+    "longitude": -74.2306,
+    "elevation_ft": 22,
+    "iso_country": "CO",
+    "iso_region": "CO-MAG",
+    "municipality": "Santa Marta"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar_International_Airport_(Colombia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6161
+  }
+}

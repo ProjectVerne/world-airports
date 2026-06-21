@@ -1,0 +1,31 @@
+{
+  "key": "katy",
+  "codes": {
+    "icao": "KATY",
+    "iata": "ATY",
+    "gps": "KATY",
+    "local": "ATY"
+  },
+  "name": "Watertown Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.914001,
+    "longitude": -97.154701,
+    "elevation_ft": 1749,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Watertown"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Watertown_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3385
+  }
+}

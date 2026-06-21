@@ -1,0 +1,33 @@
+{
+  "key": "_us_10126",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Continental Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 31.8437,
+    "longitude": -110.976997,
+    "elevation_ft": 2869,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Continental"
+  },
+  "keywords": [
+    "35AZ",
+    "US-9971"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10126
+  }
+}

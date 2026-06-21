@@ -1,0 +1,31 @@
+{
+  "key": "kcin",
+  "codes": {
+    "icao": "KCIN",
+    "iata": "CIN",
+    "gps": "KCIN",
+    "local": "CIN"
+  },
+  "name": "Arthur N Neu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.0462,
+    "longitude": -94.789001,
+    "elevation_ft": 1204,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Carroll"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Arthur_N._Neu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19500
+  }
+}

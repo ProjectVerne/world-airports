@@ -1,0 +1,31 @@
+{
+  "key": "ospr",
+  "codes": {
+    "icao": "OSPR",
+    "iata": "PMS",
+    "gps": "OSPR",
+    "local": null
+  },
+  "name": "Palmyra Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.5574,
+    "longitude": 38.316898,
+    "elevation_ft": 1322,
+    "iso_country": "SY",
+    "iso_region": "SY-HI",
+    "municipality": "Tadmur"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Palmyra_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5307
+  }
+}

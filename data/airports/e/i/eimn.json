@@ -1,0 +1,33 @@
+{
+  "key": "eimn",
+  "codes": {
+    "icao": "EIMN",
+    "iata": "IIA",
+    "gps": "EIMN",
+    "local": null
+  },
+  "name": "Inishmaan Aerodrome",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.092999,
+    "longitude": -9.56806,
+    "elevation_ft": 15,
+    "iso_country": "IE",
+    "iso_region": "IE-G",
+    "municipality": "Inis Meáin"
+  },
+  "keywords": [
+    "Aran Islands"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Inishmaan_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29226
+  }
+}

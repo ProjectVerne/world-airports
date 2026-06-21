@@ -1,0 +1,32 @@
+{
+  "key": "_pl_355239",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Aircraft Emergency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 52.561534,
+    "longitude": 19.71317,
+    "elevation_ft": 101,
+    "iso_country": "PL",
+    "iso_region": "PL-MZ",
+    "municipality": "Bielska"
+  },
+  "keywords": [
+    "PL-0220"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 355239
+  }
+}

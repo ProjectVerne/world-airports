@@ -1,0 +1,30 @@
+{
+  "key": "_us_18197",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS37",
+    "local": "IS37"
+  },
+  "name": "Stockton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.323898,
+    "longitude": -89.992897,
+    "elevation_ft": 970,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Stockton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18197
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "ukoo",
+  "codes": {
+    "icao": "UKOO",
+    "iata": "ODS",
+    "gps": "UKOO",
+    "local": null
+  },
+  "name": "Odesa International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.427196,
+    "longitude": 30.672649,
+    "elevation_ft": 172,
+    "iso_country": "UA",
+    "iso_region": "UA-51",
+    "municipality": "Odesa"
+  },
+  "keywords": [
+    "Odesa Central",
+    "Міжнародний аеропорт Одеса",
+    "Odessa Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Odessa_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6487
+  }
+}

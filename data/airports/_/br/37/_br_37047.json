@@ -1,0 +1,33 @@
+{
+  "key": "_br_37047",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Continental Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.290677,
+    "longitude": -52.263531,
+    "elevation_ft": 485,
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Altamira"
+  },
+  "keywords": [
+    "SNCF",
+    "BR-2761"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 37047
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_hk_595101",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "WB12"
+  },
+  "name": "Lut Chau North Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 22.482271,
+    "longitude": 114.032497,
+    "elevation_ft": 3,
+    "iso_country": "HK",
+    "iso_region": "HK-NT",
+    "municipality": "Yuen Long"
+  },
+  "keywords": [
+    "Mai Po",
+    "HK-0105"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 595101
+  }
+}

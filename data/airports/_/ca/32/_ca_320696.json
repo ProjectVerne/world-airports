@@ -1,0 +1,30 @@
+{
+  "key": "_ca_320696",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSM2",
+    "local": "CSM2"
+  },
+  "name": "Strathmore Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.0599,
+    "longitude": -113.3862,
+    "elevation_ft": 3222,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Strathmore"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320696
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_509200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Frost Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.55848,
+    "longitude": -90.54869,
+    "elevation_ft": 429,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Winchester"
+  },
+  "keywords": [
+    "US-7812"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509200
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_23451",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "O'Riley Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.975602,
+    "longitude": -74.729897,
+    "elevation_ft": 700,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Fort Plain"
+  },
+  "keywords": [
+    "NY71",
+    "US-11960"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23451
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "eggd",
+  "codes": {
+    "icao": "EGGD",
+    "iata": "BRS",
+    "gps": "EGGD",
+    "local": null
+  },
+  "name": "Bristol Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.382326,
+    "longitude": -2.716453,
+    "elevation_ft": 622,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Bristol"
+  },
+  "keywords": [
+    "Lulsgate Bottom"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bristol_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2417
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_23529",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OG15",
+    "local": "OG15"
+  },
+  "name": "Sage Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.2332,
+    "longitude": -121.390999,
+    "elevation_ft": 3170,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Sisters"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23529
+  }
+}

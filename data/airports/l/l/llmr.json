@@ -1,0 +1,31 @@
+{
+  "key": "llmr",
+  "codes": {
+    "icao": "LLMR",
+    "iata": "MIP",
+    "gps": "LLMR",
+    "local": null
+  },
+  "name": "Mitzpe Ramon Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.6506,
+    "longitude": 34.8069,
+    "elevation_ft": 2556,
+    "iso_country": "IL",
+    "iso_region": "IL-D",
+    "municipality": "Mitzpe Ramon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mitzpe_Ramon_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30144
+  }
+}

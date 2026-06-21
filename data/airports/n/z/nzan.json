@@ -1,0 +1,32 @@
+{
+  "key": "nzan",
+  "codes": {
+    "icao": "NZAN",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Anama airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -43.793757,
+    "longitude": 171.393929,
+    "elevation_ft": 1002,
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Anama"
+  },
+  "keywords": [
+    "NZ-0092"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600045
+  }
+}

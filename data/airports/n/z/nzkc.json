@@ -1,0 +1,33 @@
+{
+  "key": "nzkc",
+  "codes": {
+    "icao": "NZKC",
+    "iata": null,
+    "gps": "NZKC",
+    "local": null
+  },
+  "name": "Kaikōura Medical Centre Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -42.404376,
+    "longitude": 173.681001,
+    "elevation_ft": 107,
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Kaikōura"
+  },
+  "keywords": [
+    "Kaikoura",
+    "NZ-0093"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 604960
+  }
+}

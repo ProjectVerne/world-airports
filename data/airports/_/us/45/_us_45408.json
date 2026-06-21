@@ -1,0 +1,32 @@
+{
+  "key": "_us_45408",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "K01F",
+    "local": "01F"
+  },
+  "name": "Hamilton Lake Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 41.552222,
+    "longitude": -84.917222,
+    "elevation_ft": 900,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Hamilton"
+  },
+  "keywords": [
+    "IN02"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45408
+  }
+}

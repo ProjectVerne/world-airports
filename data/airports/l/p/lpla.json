@@ -1,0 +1,33 @@
+{
+  "key": "lpla",
+  "codes": {
+    "icao": "LPLA",
+    "iata": "TER",
+    "gps": "LPLA",
+    "local": null
+  },
+  "name": "Lajes Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.761799,
+    "longitude": -27.090799,
+    "elevation_ft": 180,
+    "iso_country": "PT",
+    "iso_region": "PT-20",
+    "municipality": "Praia da Vitória"
+  },
+  "keywords": [
+    "Terceira Island"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lajes_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4451
+  }
+}

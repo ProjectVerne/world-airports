@@ -1,0 +1,32 @@
+{
+  "key": "lois",
+  "codes": {
+    "icao": "LOIS",
+    "iata": null,
+    "gps": "LOIS",
+    "local": null
+  },
+  "name": "Swarovski Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.294643,
+    "longitude": 11.600066,
+    "elevation_ft": 1818,
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Wattens"
+  },
+  "keywords": [
+    "AT-0069"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43840
+  }
+}

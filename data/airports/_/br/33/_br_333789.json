@@ -1,0 +1,32 @@
+{
+  "key": "_br_333789",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SIPM",
+    "local": "SC0116"
+  },
+  "name": "Marrecão Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -27.06636,
+    "longitude": -48.891326,
+    "elevation_ft": 56,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Brusque"
+  },
+  "keywords": [
+    "BR-0602"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333789
+  }
+}

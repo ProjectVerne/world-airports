@@ -1,0 +1,32 @@
+{
+  "key": "lrph",
+  "codes": {
+    "icao": "LRPH",
+    "iata": null,
+    "gps": "LRPH",
+    "local": null
+  },
+  "name": "Ploiesti Aero Taxi Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.964956,
+    "longitude": 25.901118,
+    "elevation_ft": 735,
+    "iso_country": "RO",
+    "iso_region": "RO-PH",
+    "municipality": "Ploiești"
+  },
+  "keywords": [
+    "RO-0135"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599109
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_br_35554",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDTN",
+    "local": "SP0426"
+  },
+  "name": "REC Berrini TNU  Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.608035,
+    "longitude": -46.696706,
+    "elevation_ft": 2674,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Paulo"
+  },
+  "keywords": [
+    "SDHN",
+    "Philips Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35554
+  }
+}

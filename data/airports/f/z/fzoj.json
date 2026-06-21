@@ -1,0 +1,30 @@
+{
+  "key": "fzoj",
+  "codes": {
+    "icao": "FZOJ",
+    "iata": null,
+    "gps": "FZOJ",
+    "local": null
+  },
+  "name": "Obokote Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.85,
+    "longitude": 26.333,
+    "elevation_ft": 1378,
+    "iso_country": "CD",
+    "iso_region": "CD-MA",
+    "municipality": "Obokote"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31428
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01470",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPW8",
+    "local": "CPW8"
+  },
+  "name": "Powell River (Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.851447,
+    "longitude": -124.517455,
+    "elevation_ft": 300,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Powell River"
+  },
+  "keywords": [
+    "PW8"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1470
+  }
+}

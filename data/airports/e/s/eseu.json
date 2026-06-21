@@ -1,0 +1,30 @@
+{
+  "key": "eseu",
+  "codes": {
+    "icao": "ESEU",
+    "iata": null,
+    "gps": "ESEU",
+    "local": null
+  },
+  "name": "Uddevalla Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 58.357325,
+    "longitude": 11.928763,
+    "elevation_ft": 66,
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Uddevalla"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599654
+  }
+}

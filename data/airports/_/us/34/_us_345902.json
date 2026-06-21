@@ -1,0 +1,32 @@
+{
+  "key": "_us_345902",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "A Bar H Fam Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 32.24193,
+    "longitude": -109.163,
+    "elevation_ft": 3704,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "San Simon"
+  },
+  "keywords": [
+    "US-4612"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345902
+  }
+}

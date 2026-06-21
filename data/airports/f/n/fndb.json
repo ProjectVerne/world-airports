@@ -1,0 +1,31 @@
+{
+  "key": "fndb",
+  "codes": {
+    "icao": "FNDB",
+    "iata": null,
+    "gps": "FNDB",
+    "local": null
+  },
+  "name": "Damba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.9,
+    "longitude": 15.133,
+    "elevation_ft": 3648,
+    "iso_country": "AO",
+    "iso_region": "AO-UIG",
+    "municipality": "Damba"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Damba_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31192
+  }
+}

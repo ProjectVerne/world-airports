@@ -1,0 +1,30 @@
+{
+  "key": "_us_15252",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8WI4",
+    "local": "8WI4"
+  },
+  "name": "St Mary's Hospital Ozaukee Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.3964,
+    "longitude": -87.876503,
+    "elevation_ft": 710,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Port Washington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15252
+  }
+}

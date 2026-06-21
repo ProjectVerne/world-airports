@@ -1,0 +1,33 @@
+{
+  "key": "mmpt",
+  "codes": {
+    "icao": "MMPT",
+    "iata": null,
+    "gps": "MMPT",
+    "local": "PTC"
+  },
+  "name": "Puerto Cortés Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.475,
+    "longitude": -111.8258,
+    "elevation_ft": 6,
+    "iso_country": "MX",
+    "iso_region": "MX-BCS",
+    "municipality": "Comondú"
+  },
+  "keywords": [
+    "MX-0029"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Puerto_Cort%C3%A9s_Airstrip",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308398
+  }
+}

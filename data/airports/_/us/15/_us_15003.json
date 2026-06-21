@@ -1,0 +1,30 @@
+{
+  "key": "_us_15003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8LA6",
+    "local": "8LA6"
+  },
+  "name": "DGS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.229096,
+    "longitude": -89.38881,
+    "elevation_ft": 0,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Venice"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15003
+  }
+}

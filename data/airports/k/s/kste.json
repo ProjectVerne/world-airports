@@ -1,0 +1,31 @@
+{
+  "key": "kste",
+  "codes": {
+    "icao": "KSTE",
+    "iata": "STE",
+    "gps": "KSTE",
+    "local": "STE"
+  },
+  "name": "Stevens Point Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.5452,
+    "longitude": -89.530296,
+    "elevation_ft": 1110,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Stevens Point"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stevens_Point_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21111
+  }
+}

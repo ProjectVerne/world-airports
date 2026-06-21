@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01601",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CTJ2",
+    "local": "CTJ2"
+  },
+  "name": "Québec (Coast Guard) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.806335,
+    "longitude": -71.203979,
+    "elevation_ft": 20,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Québec"
+  },
+  "keywords": [
+    "TJ2",
+    "Quebec City"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1601
+  }
+}

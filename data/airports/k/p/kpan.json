@@ -1,0 +1,33 @@
+{
+  "key": "kpan",
+  "codes": {
+    "icao": "KPAN",
+    "iata": "PJB",
+    "gps": "KPAN",
+    "local": "PAN"
+  },
+  "name": "Payson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.256802,
+    "longitude": -111.338997,
+    "elevation_ft": 5157,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Payson"
+  },
+  "keywords": [
+    "E69"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Payson_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20804
+  }
+}

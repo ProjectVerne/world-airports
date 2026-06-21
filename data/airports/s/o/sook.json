@@ -1,0 +1,34 @@
+{
+  "key": "sook",
+  "codes": {
+    "icao": "SOOK",
+    "iata": null,
+    "gps": "SOOK",
+    "local": null
+  },
+  "name": "Kourou Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.176046,
+    "longitude": -52.694206,
+    "elevation_ft": 47,
+    "iso_country": "GF",
+    "iso_region": "GF-CY",
+    "municipality": "Kourou"
+  },
+  "keywords": [
+    "QKR Kourou Off-line Point",
+    "GF-0001"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kourou_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41524
+  }
+}

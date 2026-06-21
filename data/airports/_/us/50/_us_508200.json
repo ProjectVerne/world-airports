@@ -1,0 +1,32 @@
+{
+  "key": "_us_508200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NV29",
+    "local": "NV29"
+  },
+  "name": "Amargosa Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.568633,
+    "longitude": -116.458733,
+    "elevation_ft": 2428,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Amargosa Valley"
+  },
+  "keywords": [
+    "US-7590"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 508200
+  }
+}

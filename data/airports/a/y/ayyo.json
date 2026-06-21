@@ -1,0 +1,30 @@
+{
+  "key": "ayyo",
+  "codes": {
+    "icao": "AYYO",
+    "iata": "RAX",
+    "gps": "AYYO",
+    "local": "ORAM"
+  },
+  "name": "Oram Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.632917,
+    "longitude": 148.048056,
+    "elevation_ft": 3500,
+    "iso_country": "PG",
+    "iso_region": "PG-CPM",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 302215
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_09400",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2FL9",
+    "local": "2FL9"
+  },
+  "name": "AdventHealth Heart of Florida Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.18145,
+    "longitude": -81.64277,
+    "elevation_ft": 166,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Davenport"
+  },
+  "keywords": [
+    "Heart of Florida Medical Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9400
+  }
+}

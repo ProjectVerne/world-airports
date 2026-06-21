@@ -1,0 +1,30 @@
+{
+  "key": "_br_309758",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNDM",
+    "local": "SNDM"
+  },
+  "name": "Karina Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.4404,
+    "longitude": -46.4352,
+    "elevation_ft": 2532,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Guarulhos"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 309758
+  }
+}

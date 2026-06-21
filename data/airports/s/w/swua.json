@@ -1,0 +1,30 @@
+{
+  "key": "swua",
+  "codes": {
+    "icao": "SWUA",
+    "iata": "SQM",
+    "gps": "SWUA",
+    "local": "GO0011"
+  },
+  "name": "São Miguel do Araguaia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -13.3313,
+    "longitude": -50.197601,
+    "elevation_ft": 1249,
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "São Miguel do Araguaia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 588
+  }
+}

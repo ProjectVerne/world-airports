@@ -1,0 +1,30 @@
+{
+  "key": "_us_10230",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "37IS",
+    "local": "37IS"
+  },
+  "name": "Hilbert Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.332199,
+    "longitude": -88.605598,
+    "elevation_ft": 890,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Marengo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10230
+  }
+}

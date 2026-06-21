@@ -1,0 +1,31 @@
+{
+  "key": "kdht",
+  "codes": {
+    "icao": "KDHT",
+    "iata": "DHT",
+    "gps": "KDHT",
+    "local": "DHT"
+  },
+  "name": "Dalhart Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.022598,
+    "longitude": -102.546997,
+    "elevation_ft": 3991,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dalhart"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dalhart_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19628
+  }
+}

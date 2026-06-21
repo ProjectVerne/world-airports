@@ -1,0 +1,31 @@
+{
+  "key": "hklu",
+  "codes": {
+    "icao": "HKLU",
+    "iata": "LAU",
+    "gps": "HKLU",
+    "local": null
+  },
+  "name": "Manda Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.252431,
+    "longitude": 40.912892,
+    "elevation_ft": 20,
+    "iso_country": "KE",
+    "iso_region": "KE-05",
+    "municipality": "Lamu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Manda_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3212
+  }
+}

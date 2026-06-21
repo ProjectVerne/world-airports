@@ -1,0 +1,30 @@
+{
+  "key": "_us_24998",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TN84",
+    "local": "TN84"
+  },
+  "name": "Mc Gavock Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.208401,
+    "longitude": -86.679199,
+    "elevation_ft": 525,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Nashville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24998
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_16485",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AZ98",
+    "local": "AZ98"
+  },
+  "name": "John C. Lincoln Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.569504,
+    "longitude": -112.071159,
+    "elevation_ft": 1285,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Phoenix"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16485
+  }
+}

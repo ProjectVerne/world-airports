@@ -1,0 +1,31 @@
+{
+  "key": "aytu",
+  "codes": {
+    "icao": "AYTU",
+    "iata": "TFI",
+    "gps": "AYTU",
+    "local": "TUFI"
+  },
+  "name": "Tufi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.075954,
+    "longitude": 149.319839,
+    "elevation_ft": 85,
+    "iso_country": "PG",
+    "iso_region": "PG-NPP",
+    "municipality": "Tufi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tufi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35192
+  }
+}

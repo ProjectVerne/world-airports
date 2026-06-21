@@ -1,0 +1,30 @@
+{
+  "key": "kony",
+  "codes": {
+    "icao": "KONY",
+    "iata": "ONY",
+    "gps": "KONY",
+    "local": "ONY"
+  },
+  "name": "Olney Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.350899,
+    "longitude": -98.819199,
+    "elevation_ft": 1275,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Olney"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20754
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "epin",
+  "codes": {
+    "icao": "EPIN",
+    "iata": null,
+    "gps": "EPIN",
+    "local": null
+  },
+  "name": "Inowrocław Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.806155,
+    "longitude": 18.283133,
+    "elevation_ft": 279,
+    "iso_country": "PL",
+    "iso_region": "PL-KP",
+    "municipality": "Inowrocław"
+  },
+  "keywords": [
+    "Inowroclaw"
+  ],
+  "wikipedia": "https://pl.wikipedia.org/wiki/Lotnisko_Inowroc%C5%82aw",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29976
+  }
+}

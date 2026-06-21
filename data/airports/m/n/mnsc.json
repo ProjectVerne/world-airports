@@ -1,0 +1,31 @@
+{
+  "key": "mnsc",
+  "codes": {
+    "icao": "MNSC",
+    "iata": "NCR",
+    "gps": "MNSC",
+    "local": null
+  },
+  "name": "San Carlos Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.13556,
+    "longitude": -84.768727,
+    "elevation_ft": 91,
+    "iso_country": "NI",
+    "iso_region": "NI-SJ",
+    "municipality": "San Carlos"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Carlos_Airport_(Nicaragua)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42180
+  }
+}

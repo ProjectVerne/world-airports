@@ -1,0 +1,31 @@
+{
+  "key": "_us_20434",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KM44",
+    "local": "M44"
+  },
+  "name": "Houston Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.886237,
+    "longitude": -89.02339,
+    "elevation_ft": 337,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Houston"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Houston_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20434
+  }
+}

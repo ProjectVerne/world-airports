@@ -1,0 +1,32 @@
+{
+  "key": "_us_17307",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FD36",
+    "local": "FD36"
+  },
+  "name": "Advent Health East Orlando Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.541224,
+    "longitude": -81.279941,
+    "elevation_ft": 113,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Orlando"
+  },
+  "keywords": [
+    "Florida Hospital East Orlando"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17307
+  }
+}

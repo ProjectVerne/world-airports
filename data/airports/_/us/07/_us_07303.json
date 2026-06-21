@@ -1,0 +1,30 @@
+{
+  "key": "_us_07303",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0MA2",
+    "local": "0MA2"
+  },
+  "name": "Healthalliance Hospital-Leominster Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.540901,
+    "longitude": -71.762802,
+    "elevation_ft": 450,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Leominster"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7303
+  }
+}

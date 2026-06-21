@@ -1,0 +1,31 @@
+{
+  "key": "nzro",
+  "codes": {
+    "icao": "NZRO",
+    "iata": "ROT",
+    "gps": "NZRO",
+    "local": null
+  },
+  "name": "Rotorua Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -38.1092,
+    "longitude": 176.317001,
+    "elevation_ft": 935,
+    "iso_country": "NZ",
+    "iso_region": "NZ-BOP",
+    "municipality": "Rotorua"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rotorua_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5052
+  }
+}

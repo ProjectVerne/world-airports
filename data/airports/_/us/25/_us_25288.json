@@ -1,0 +1,30 @@
+{
+  "key": "_us_25288",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UT45",
+    "local": "UT45"
+  },
+  "name": "State Capitol Helicopter Landing Site Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.776882,
+    "longitude": -111.886917,
+    "elevation_ft": 4350,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Salt Lake City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25288
+  }
+}

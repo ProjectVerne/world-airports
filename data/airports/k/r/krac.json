@@ -1,0 +1,33 @@
+{
+  "key": "krac",
+  "codes": {
+    "icao": "KRAC",
+    "iata": "RAC",
+    "gps": "KRAC",
+    "local": "RAC"
+  },
+  "name": "John H Batten Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.760601,
+    "longitude": -87.815201,
+    "elevation_ft": 674,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Racine"
+  },
+  "keywords": [
+    "Horlick Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/John_H._Batten_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20907
+  }
+}

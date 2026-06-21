@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01030",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CGL5",
+    "local": "CGL5"
+  },
+  "name": "Gun Lake Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.889702,
+    "longitude": -122.847,
+    "elevation_ft": 2950,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Gun Lake"
+  },
+  "keywords": [
+    "GL5"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1030
+  }
+}

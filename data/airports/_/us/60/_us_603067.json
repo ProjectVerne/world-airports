@@ -1,0 +1,32 @@
+{
+  "key": "_us_603067",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IN47",
+    "local": "IN47"
+  },
+  "name": "Powell Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.204517,
+    "longitude": -86.055,
+    "elevation_ft": 875,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Atlanta"
+  },
+  "keywords": [
+    "US-12852"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 603067
+  }
+}

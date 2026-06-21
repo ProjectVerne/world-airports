@@ -1,0 +1,33 @@
+{
+  "key": "fmnc",
+  "codes": {
+    "icao": "FMNC",
+    "iata": "WMR",
+    "gps": "FMNC",
+    "local": null
+  },
+  "name": "Mananara Nord Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.1639,
+    "longitude": 49.7738,
+    "elevation_ft": 9,
+    "iso_country": "MG",
+    "iso_region": "MG-A",
+    "municipality": "Mananara Nord"
+  },
+  "keywords": [
+    "Avaratra Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mananara_Nord_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2914
+  }
+}

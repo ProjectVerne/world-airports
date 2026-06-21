@@ -1,0 +1,31 @@
+{
+  "key": "scpv",
+  "codes": {
+    "icao": "SCPV",
+    "iata": "PUX",
+    "gps": "SCPV",
+    "local": null
+  },
+  "name": "El Mirador Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -41.3494,
+    "longitude": -72.946701,
+    "elevation_ft": 430,
+    "iso_country": "CL",
+    "iso_region": "CL-LL",
+    "municipality": "Puerto Varas"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Mirador_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30305
+  }
+}

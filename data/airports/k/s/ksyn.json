@@ -1,0 +1,31 @@
+{
+  "key": "ksyn",
+  "codes": {
+    "icao": "KSYN",
+    "iata": "SYN",
+    "gps": "KSYN",
+    "local": "SYN"
+  },
+  "name": "Stanton Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.475579,
+    "longitude": -93.016756,
+    "elevation_ft": 920,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Dennison"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stanton_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24681
+  }
+}

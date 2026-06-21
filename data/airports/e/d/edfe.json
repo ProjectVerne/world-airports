@@ -1,0 +1,31 @@
+{
+  "key": "edfe",
+  "codes": {
+    "icao": "EDFE",
+    "iata": null,
+    "gps": "EDFE",
+    "local": null
+  },
+  "name": "Frankfurt-Egelsbach Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.96,
+    "longitude": 8.643043,
+    "elevation_ft": 384,
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Egelsbach"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Frankfurt_Egelsbach_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2226
+  }
+}

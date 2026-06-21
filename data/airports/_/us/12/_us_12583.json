@@ -1,0 +1,30 @@
+{
+  "key": "_us_12583",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5OH1",
+    "local": "5OH1"
+  },
+  "name": "Samaritan Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.8564,
+    "longitude": -82.310699,
+    "elevation_ft": 1120,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Ashland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12583
+  }
+}

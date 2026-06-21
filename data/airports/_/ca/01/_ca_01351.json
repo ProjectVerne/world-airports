@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01351",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNV3",
+    "local": "CNV3"
+  },
+  "name": "New Liskeard (Temiskaming Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.49448,
+    "longitude": -79.692947,
+    "elevation_ft": 895,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "New Liskeard"
+  },
+  "keywords": [
+    "NV3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1351
+  }
+}

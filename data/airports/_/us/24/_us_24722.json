@@ -1,0 +1,32 @@
+{
+  "key": "_us_24722",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TA14",
+    "local": "TA14"
+  },
+  "name": "LYB Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.83573,
+    "longitude": -95.10889,
+    "elevation_ft": 41,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Channelview"
+  },
+  "keywords": [
+    "LPC Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24722
+  }
+}

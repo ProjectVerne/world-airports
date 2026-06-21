@@ -1,0 +1,33 @@
+{
+  "key": "pakw",
+  "codes": {
+    "icao": "PAKW",
+    "iata": "KLW",
+    "gps": "PAKW",
+    "local": "AKW"
+  },
+  "name": "Klawock Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.579201,
+    "longitude": -133.076004,
+    "elevation_ft": 80,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Klawock"
+  },
+  "keywords": [
+    "9Z1"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Klawock_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5383
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kmer",
+  "codes": {
+    "icao": "KMER",
+    "iata": "MER",
+    "gps": "KMER",
+    "local": "MER"
+  },
+  "name": "Castle Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.380501,
+    "longitude": -120.568001,
+    "elevation_ft": 191,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Merced"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Castle_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3676
+  }
+}

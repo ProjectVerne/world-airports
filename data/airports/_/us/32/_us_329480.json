@@ -1,0 +1,32 @@
+{
+  "key": "_us_329480",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1FL4",
+    "local": "1FL4"
+  },
+  "name": "VRS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.81355,
+    "longitude": -82.682233,
+    "elevation_ft": 43,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "St. Petersburg"
+  },
+  "keywords": [
+    "US-0988"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 329480
+  }
+}

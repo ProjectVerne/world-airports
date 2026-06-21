@@ -1,0 +1,31 @@
+{
+  "key": "lfck",
+  "codes": {
+    "icao": "LFCK",
+    "iata": "DCM",
+    "gps": "LFCK",
+    "local": null
+  },
+  "name": "Castres Mazamet Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.556301,
+    "longitude": 2.28918,
+    "elevation_ft": 788,
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Castres"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Castres-Mazamet_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4082
+  }
+}

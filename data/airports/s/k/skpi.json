@@ -1,0 +1,31 @@
+{
+  "key": "skpi",
+  "codes": {
+    "icao": "SKPI",
+    "iata": "PTX",
+    "gps": "SKPI",
+    "local": null
+  },
+  "name": "Pitalito Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.85777,
+    "longitude": -76.0857,
+    "elevation_ft": 4212,
+    "iso_country": "CO",
+    "iso_region": "CO-HUI",
+    "municipality": "Pitalito"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Contador_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6149
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "eyvi",
+  "codes": {
+    "icao": "EYVI",
+    "iata": "VNO",
+    "gps": "EYVI",
+    "local": null
+  },
+  "name": "Vilnius International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.634102,
+    "longitude": 25.285801,
+    "elevation_ft": 648,
+    "iso_country": "LT",
+    "iso_region": "LT-VL",
+    "municipality": "Vilnius"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vilnius_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2766
+  }
+}

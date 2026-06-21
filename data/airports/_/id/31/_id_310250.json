@@ -1,0 +1,33 @@
+{
+  "key": "_id_310250",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WAVO",
+    "local": "BEO"
+  },
+  "name": "Beoga Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.8165,
+    "longitude": 137.4252,
+    "elevation_ft": 6238,
+    "iso_country": "ID",
+    "iso_region": "ID-PT",
+    "municipality": "Nungai Beoga"
+  },
+  "keywords": [
+    "WX37",
+    "ID-0029"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310250
+  }
+}

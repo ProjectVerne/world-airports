@@ -1,0 +1,33 @@
+{
+  "key": "sbpk",
+  "codes": {
+    "icao": "SBPK",
+    "iata": "PET",
+    "gps": "SBPK",
+    "local": "RS0005"
+  },
+  "name": "João Simões Lopes Neto International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -31.717189,
+    "longitude": -52.327796,
+    "elevation_ft": 59,
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Pelotas"
+  },
+  "keywords": [
+    "Pelotas Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pelotas_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5956
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "dttz",
+  "codes": {
+    "icao": "DTTZ",
+    "iata": "TOE",
+    "gps": "DTTZ",
+    "local": null
+  },
+  "name": "Tozeur Nefta International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.939701,
+    "longitude": 8.11056,
+    "elevation_ft": 287,
+    "iso_country": "TN",
+    "iso_region": "TN-72",
+    "municipality": "Tozeur"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nefta_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2142
+  }
+}

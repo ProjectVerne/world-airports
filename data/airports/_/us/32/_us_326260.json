@@ -1,0 +1,32 @@
+{
+  "key": "_us_326260",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FD32",
+    "local": "FD32"
+  },
+  "name": "GAC Waterfront Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.400611,
+    "longitude": -86.860526,
+    "elevation_ft": 6,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Navarre"
+  },
+  "keywords": [
+    "US-0810"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 326260
+  }
+}

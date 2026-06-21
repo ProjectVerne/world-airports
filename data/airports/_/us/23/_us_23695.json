@@ -1,0 +1,30 @@
+{
+  "key": "_us_23695",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OI48",
+    "local": "OI48"
+  },
+  "name": "Tesar Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.284199,
+    "longitude": -82.970299,
+    "elevation_ft": 725,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Clyde"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23695
+  }
+}

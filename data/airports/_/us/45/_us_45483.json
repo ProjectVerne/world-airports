@@ -1,0 +1,30 @@
+{
+  "key": "_us_45483",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2MY3",
+    "local": "2MY3"
+  },
+  "name": "Cambridge Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.56545,
+    "longitude": -93.231361,
+    "elevation_ft": 980,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Cambridge"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45483
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08806",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "20OI",
+    "local": "20OI"
+  },
+  "name": "Medcenter Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.569801,
+    "longitude": -83.120201,
+    "elevation_ft": 985,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Marion"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8806
+  }
+}

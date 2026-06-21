@@ -1,0 +1,32 @@
+{
+  "key": "_us_15622",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "99OH",
+    "local": "99OH"
+  },
+  "name": "Mercy Health Urbana Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.10833,
+    "longitude": -83.729174,
+    "elevation_ft": 1050,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Urbana"
+  },
+  "keywords": [
+    "Mercy Memorial Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15622
+  }
+}

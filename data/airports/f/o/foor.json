@@ -1,0 +1,31 @@
+{
+  "key": "foor",
+  "codes": {
+    "icao": "FOOR",
+    "iata": "LTL",
+    "gps": "FOOR",
+    "local": null
+  },
+  "name": "Lastourville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.826667,
+    "longitude": 12.7486,
+    "elevation_ft": 1585,
+    "iso_country": "GA",
+    "iso_region": "GA-7",
+    "municipality": "Lastourville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lastourville_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31857
+  }
+}

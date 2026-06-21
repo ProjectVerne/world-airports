@@ -1,0 +1,30 @@
+{
+  "key": "_us_11738",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4TN8",
+    "local": "4TN8"
+  },
+  "name": "Rgnl Hospital of Jackson Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.682301,
+    "longitude": -88.855103,
+    "elevation_ft": 444,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Jackson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11738
+  }
+}

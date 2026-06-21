@@ -1,0 +1,31 @@
+{
+  "key": "eskk",
+  "codes": {
+    "icao": "ESKK",
+    "iata": "KSK",
+    "gps": "ESKK",
+    "local": null
+  },
+  "name": "Karlskoga Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.345901,
+    "longitude": 14.4959,
+    "elevation_ft": 407,
+    "iso_country": "SE",
+    "iso_region": "SE-T",
+    "municipality": "Karlskoga"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Karlskoga_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2658
+  }
+}

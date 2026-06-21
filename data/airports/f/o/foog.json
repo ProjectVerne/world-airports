@@ -1,0 +1,31 @@
+{
+  "key": "foog",
+  "codes": {
+    "icao": "FOOG",
+    "iata": "POG",
+    "gps": "FOOG",
+    "local": null
+  },
+  "name": "Port Gentil International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.711739,
+    "longitude": 8.75438,
+    "elevation_ft": 13,
+    "iso_country": "GA",
+    "iso_region": "GA-8",
+    "municipality": "Port Gentil"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Port-Gentil_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2963
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_23389",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NY08",
+    "local": "NY08"
+  },
+  "name": "Port Jervis Fire Department Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.376999,
+    "longitude": -74.676003,
+    "elevation_ft": 420,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Port Jervis"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23389
+  }
+}

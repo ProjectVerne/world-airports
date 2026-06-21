@@ -1,0 +1,33 @@
+{
+  "key": "oarg",
+  "codes": {
+    "icao": "OARG",
+    "iata": "URZ",
+    "gps": "OARG",
+    "local": null
+  },
+  "name": "Orūzgān Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.903,
+    "longitude": 66.630898,
+    "elevation_ft": 6725,
+    "iso_country": "AF",
+    "iso_region": "AF-URU",
+    "municipality": "Orūzgān"
+  },
+  "keywords": [
+    "Uruzgan",
+    "Urozgan"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35364
+  }
+}

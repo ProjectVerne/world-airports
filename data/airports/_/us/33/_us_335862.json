@@ -1,0 +1,32 @@
+{
+  "key": "_us_335862",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8NC5",
+    "local": "8NC5"
+  },
+  "name": "WB Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.406667,
+    "longitude": -80.515,
+    "elevation_ft": 690,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Concord"
+  },
+  "keywords": [
+    "US-1520"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 335862
+  }
+}

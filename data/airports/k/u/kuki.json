@@ -1,0 +1,31 @@
+{
+  "key": "kuki",
+  "codes": {
+    "icao": "KUKI",
+    "iata": "UKI",
+    "gps": "KUKI",
+    "local": "UKI"
+  },
+  "name": "Ukiah Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.125999,
+    "longitude": -123.200996,
+    "elevation_ft": 614,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Ukiah"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ukiah_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3941
+  }
+}

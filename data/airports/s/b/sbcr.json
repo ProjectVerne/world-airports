@@ -1,0 +1,31 @@
+{
+  "key": "sbcr",
+  "codes": {
+    "icao": "SBCR",
+    "iata": "CMG",
+    "gps": "SBCR",
+    "local": "MS0009"
+  },
+  "name": "Corumbá International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.01193,
+    "longitude": -57.672772,
+    "elevation_ft": 463,
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Corumbá"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Corumb%C3%A1_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5890
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_18001",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Heeg Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.007111,
+    "longitude": -90.882896,
+    "elevation_ft": 600,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Oquawka"
+  },
+  "keywords": [
+    "IL22",
+    "US-11414"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18001
+  }
+}

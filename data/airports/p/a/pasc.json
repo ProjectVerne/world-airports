@@ -1,0 +1,31 @@
+{
+  "key": "pasc",
+  "codes": {
+    "icao": "PASC",
+    "iata": "SCC",
+    "gps": "PASC",
+    "local": "SCC"
+  },
+  "name": "Deadhorse Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 70.194702,
+    "longitude": -148.464996,
+    "elevation_ft": 65,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Deadhorse"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Deadhorse_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5405
+  }
+}

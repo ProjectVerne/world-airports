@@ -1,0 +1,30 @@
+{
+  "key": "_us_23252",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM34",
+    "local": "NM34"
+  },
+  "name": "Keelin Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.9753,
+    "longitude": -105.982002,
+    "elevation_ft": 4500,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Alamogordo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23252
+  }
+}

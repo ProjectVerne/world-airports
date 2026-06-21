@@ -1,0 +1,32 @@
+{
+  "key": "_us_331524",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FL05",
+    "local": "FL05"
+  },
+  "name": "GEICO Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.53752,
+    "longitude": -81.384373,
+    "elevation_ft": 197,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Orlando"
+  },
+  "keywords": [
+    "US-0813"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331524
+  }
+}

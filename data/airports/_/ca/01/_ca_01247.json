@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01247",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKV8",
+    "local": "CKV8"
+  },
+  "name": "Valley Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.081747,
+    "longitude": -64.500034,
+    "elevation_ft": 80,
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Kentville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1247
+  }
+}

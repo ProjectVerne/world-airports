@@ -1,0 +1,31 @@
+{
+  "key": "subu",
+  "codes": {
+    "icao": "SUBU",
+    "iata": "BUV",
+    "gps": "SUBU",
+    "local": "1290"
+  },
+  "name": "Placeres Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -30.319807,
+    "longitude": -57.558823,
+    "elevation_ft": 252,
+    "iso_country": "UY",
+    "iso_region": "UY-AR",
+    "municipality": "Bella Union"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Placeres_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41564
+  }
+}

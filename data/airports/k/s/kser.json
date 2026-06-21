@@ -1,0 +1,31 @@
+{
+  "key": "kser",
+  "codes": {
+    "icao": "KSER",
+    "iata": "SER",
+    "gps": "KSER",
+    "local": "SER"
+  },
+  "name": "Freeman Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.923599,
+    "longitude": -85.907402,
+    "elevation_ft": 583,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Seymour"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Freeman_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21053
+  }
+}

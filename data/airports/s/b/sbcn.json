@@ -1,0 +1,34 @@
+{
+  "key": "sbcn",
+  "codes": {
+    "icao": "SBCN",
+    "iata": "CLV",
+    "gps": "SBCN",
+    "local": "GO0003"
+  },
+  "name": "Nelson Ribeiro Guimarães Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -17.725096,
+    "longitude": -48.606324,
+    "elevation_ft": 2307,
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Caldas Novas"
+  },
+  "keywords": [
+    "SWKN",
+    "Caldas Novas Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Caldas_Novas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35414
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "ellz",
+  "codes": {
+    "icao": "ELLZ",
+    "iata": null,
+    "gps": "ELLZ",
+    "local": null
+  },
+  "name": "Robert Schuman Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.603429,
+    "longitude": 6.128129,
+    "elevation_ft": 1029,
+    "iso_country": "LU",
+    "iso_region": "LU-L",
+    "municipality": "Luxembourg"
+  },
+  "keywords": [
+    "Zithaklinik",
+    "LU-0005"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43767
+  }
+}

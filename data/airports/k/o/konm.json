@@ -1,0 +1,30 @@
+{
+  "key": "konm",
+  "codes": {
+    "icao": "KONM",
+    "iata": "ONM",
+    "gps": "KONM",
+    "local": "ONM"
+  },
+  "name": "Socorro Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.022499,
+    "longitude": -106.903,
+    "elevation_ft": 4875,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Socorro"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20750
+  }
+}

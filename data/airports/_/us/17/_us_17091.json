@@ -1,0 +1,30 @@
+{
+  "key": "_us_17091",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "D82",
+    "local": "D82"
+  },
+  "name": "Ovid Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.6548,
+    "longitude": -76.796303,
+    "elevation_ft": 1062,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Ovid"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17091
+  }
+}

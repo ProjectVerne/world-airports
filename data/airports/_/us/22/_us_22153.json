@@ -1,0 +1,30 @@
+{
+  "key": "_us_22153",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MN48",
+    "local": "MN48"
+  },
+  "name": "St Luke Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.797401,
+    "longitude": -92.085999,
+    "elevation_ft": 680,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Duluth"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22153
+  }
+}

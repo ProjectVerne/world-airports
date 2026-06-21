@@ -1,0 +1,30 @@
+{
+  "key": "_us_22401",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MT02",
+    "local": "MT02"
+  },
+  "name": "Hellinger Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.5383,
+    "longitude": -111.497002,
+    "elevation_ft": 3215,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Devon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22401
+  }
+}

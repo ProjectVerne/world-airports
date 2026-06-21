@@ -1,0 +1,31 @@
+{
+  "key": "edws",
+  "codes": {
+    "icao": "EDWS",
+    "iata": "NOD",
+    "gps": "EDWS",
+    "local": null
+  },
+  "name": "Norden-Norddeich Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.633057,
+    "longitude": 7.190278,
+    "elevation_ft": 3,
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Norddeich"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Norden-Norddeich_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28668
+  }
+}

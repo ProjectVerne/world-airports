@@ -1,0 +1,30 @@
+{
+  "key": "_us_10883",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3WN3",
+    "local": "3WN3"
+  },
+  "name": "Kenosha County Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.570202,
+    "longitude": -88.045601,
+    "elevation_ft": 771,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Kenosha"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10883
+  }
+}

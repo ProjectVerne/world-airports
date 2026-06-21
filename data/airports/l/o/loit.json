@@ -1,0 +1,33 @@
+{
+  "key": "loit",
+  "codes": {
+    "icao": "LOIT",
+    "iata": null,
+    "gps": "LOIT",
+    "local": null
+  },
+  "name": "Sankt Johann in Tirol Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.520935,
+    "longitude": 12.429672,
+    "elevation_ft": 2170,
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Sankt Johann In Tirol"
+  },
+  "keywords": [
+    "Bodenlandeplatz Ground Landing Area"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sankt_Johann_in_Tirol_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43841
+  }
+}

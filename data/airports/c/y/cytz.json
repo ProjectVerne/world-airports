@@ -1,0 +1,34 @@
+{
+  "key": "cytz",
+  "codes": {
+    "icao": "CYTZ",
+    "iata": "YTZ",
+    "gps": "CYTZ",
+    "local": null
+  },
+  "name": "Billy Bishop Toronto City Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.627852,
+    "longitude": -79.39553,
+    "elevation_ft": 252,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Toronto"
+  },
+  "keywords": [
+    "YTO",
+    "Toronto Island Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Billy_Bishop_Toronto_City_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1926
+  }
+}

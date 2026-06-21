@@ -1,0 +1,32 @@
+{
+  "key": "_us_19980",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KGTE",
+    "local": "GTE"
+  },
+  "name": "Gothenburg Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.9263,
+    "longitude": -100.148003,
+    "elevation_ft": 2559,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Gothenburg"
+  },
+  "keywords": [
+    "Quinn Field"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19980
+  }
+}

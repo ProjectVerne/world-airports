@@ -1,0 +1,32 @@
+{
+  "key": "_us_326567",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "44OK",
+    "local": "44OK"
+  },
+  "name": "Bacon's Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.501288,
+    "longitude": -94.967911,
+    "elevation_ft": 765,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Disney"
+  },
+  "keywords": [
+    "US-0825"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 326567
+  }
+}

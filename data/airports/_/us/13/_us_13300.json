@@ -1,0 +1,30 @@
+{
+  "key": "_us_13300",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6IN2",
+    "local": "6IN2"
+  },
+  "name": "Whelen Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.493599,
+    "longitude": -85.648598,
+    "elevation_ft": 870,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Waldron"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13300
+  }
+}

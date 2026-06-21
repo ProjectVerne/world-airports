@@ -1,0 +1,30 @@
+{
+  "key": "_us_10405",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3CA1",
+    "local": "3CA1"
+  },
+  "name": "Newport Beach Police Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.6264,
+    "longitude": -117.876999,
+    "elevation_ft": 156,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Newport Beach"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10405
+  }
+}

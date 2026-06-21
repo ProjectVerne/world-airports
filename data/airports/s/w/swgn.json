@@ -1,0 +1,31 @@
+{
+  "key": "swgn",
+  "codes": {
+    "icao": "SWGN",
+    "iata": "AUX",
+    "gps": "SWGN",
+    "local": "TO0002"
+  },
+  "name": "Araguaína Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.22787,
+    "longitude": -48.240501,
+    "elevation_ft": 771,
+    "iso_country": "BR",
+    "iso_region": "BR-TO",
+    "municipality": "Araguaína"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aragua%C3%ADna_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 538
+  }
+}

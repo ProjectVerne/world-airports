@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01207",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKM3",
+    "local": "CKM3"
+  },
+  "name": "Shilo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.799999,
+    "longitude": -99.633301,
+    "elevation_ft": 1225,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Shilo"
+  },
+  "keywords": [
+    "KM3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/CFB_Shilo",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1207
+  }
+}

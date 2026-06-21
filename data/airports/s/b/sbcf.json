@@ -1,0 +1,33 @@
+{
+  "key": "sbcf",
+  "codes": {
+    "icao": "SBCF",
+    "iata": "CNF",
+    "gps": "SBCF",
+    "local": "MG0001"
+  },
+  "name": "Tancredo Neves International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.63571,
+    "longitude": -43.966928,
+    "elevation_ft": 2721,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Belo Horizonte"
+  },
+  "keywords": [
+    "http://www.infraero.gov.br/usa/aero_prev_home.php?ai=207"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Belo_Horizonte_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5882
+  }
+}

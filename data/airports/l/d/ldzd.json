@@ -1,0 +1,31 @@
+{
+  "key": "ldzd",
+  "codes": {
+    "icao": "LDZD",
+    "iata": "ZAD",
+    "gps": "LDZD",
+    "local": null
+  },
+  "name": "Zadar Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.096986,
+    "longitude": 15.353565,
+    "elevation_ft": 289,
+    "iso_country": "HR",
+    "iso_region": "HR-13",
+    "municipality": "Zadar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Zadar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3994
+  }
+}

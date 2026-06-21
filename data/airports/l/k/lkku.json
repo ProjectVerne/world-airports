@@ -1,0 +1,33 @@
+{
+  "key": "lkku",
+  "codes": {
+    "icao": "LKKU",
+    "iata": "UHE",
+    "gps": "LKKU",
+    "local": null
+  },
+  "name": "Kunovice Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.0294,
+    "longitude": 17.439699,
+    "elevation_ft": 581,
+    "iso_country": "CZ",
+    "iso_region": "CZ-ZL",
+    "municipality": "Uherské Hradiště"
+  },
+  "keywords": [
+    "Letiště Kunovice"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kunovice_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4398
+  }
+}

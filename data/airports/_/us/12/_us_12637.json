@@ -1,0 +1,30 @@
+{
+  "key": "_us_12637",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5PS1",
+    "local": "5PS1"
+  },
+  "name": "Lancaster General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.047778,
+    "longitude": -76.30352,
+    "elevation_ft": 406,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Lancaster"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12637
+  }
+}

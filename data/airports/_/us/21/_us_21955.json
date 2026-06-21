@@ -1,0 +1,30 @@
+{
+  "key": "_us_21955",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ME24",
+    "local": "ME24"
+  },
+  "name": "Ben Hur Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.283298,
+    "longitude": -69.239197,
+    "elevation_ft": 240,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Appleton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21955
+  }
+}

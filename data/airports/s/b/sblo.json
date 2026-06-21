@@ -1,0 +1,33 @@
+{
+  "key": "sblo",
+  "codes": {
+    "icao": "SBLO",
+    "iata": "LDB",
+    "gps": "SBLO",
+    "local": "PR0003"
+  },
+  "name": "Governor José Richa Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.334375,
+    "longitude": -51.128365,
+    "elevation_ft": 1867,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Londrina"
+  },
+  "keywords": [
+    "Londrina Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Londrina_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5931
+  }
+}

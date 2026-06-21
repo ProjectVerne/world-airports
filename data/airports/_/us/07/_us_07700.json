@@ -1,0 +1,32 @@
+{
+  "key": "_us_07700",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "11AR",
+    "local": "11AR"
+  },
+  "name": "CHI St. Vincent Hospital Hot Springs Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.468846,
+    "longitude": -93.065766,
+    "elevation_ft": 558,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Hot Springs"
+  },
+  "keywords": [
+    "St. Joseph's Mercy Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7700
+  }
+}

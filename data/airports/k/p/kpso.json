@@ -1,0 +1,33 @@
+{
+  "key": "kpso",
+  "codes": {
+    "icao": "KPSO",
+    "iata": "PGO",
+    "gps": "KPSO",
+    "local": "PSO"
+  },
+  "name": "Stevens Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.286301,
+    "longitude": -107.056,
+    "elevation_ft": 7664,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Pagosa Springs"
+  },
+  "keywords": [
+    "2V1"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stevens_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18627
+  }
+}

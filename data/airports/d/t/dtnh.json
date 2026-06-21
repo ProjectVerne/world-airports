@@ -1,0 +1,33 @@
+{
+  "key": "dtnh",
+  "codes": {
+    "icao": "DTNH",
+    "iata": "NBE",
+    "gps": "DTNH",
+    "local": "DTNH"
+  },
+  "name": "Enfidha - Hammamet International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.075833,
+    "longitude": 10.438611,
+    "elevation_ft": 21,
+    "iso_country": "TN",
+    "iso_region": "TN-51",
+    "municipality": "Enfidha"
+  },
+  "keywords": [
+    "DTNH"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Enfidha%E2%80%93Hammamet_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44483
+  }
+}

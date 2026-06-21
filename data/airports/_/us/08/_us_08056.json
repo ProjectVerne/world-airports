@@ -1,0 +1,30 @@
+{
+  "key": "_us_08056",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "17NH",
+    "local": "17NH"
+  },
+  "name": "Pomroy Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.823898,
+    "longitude": -71.364998,
+    "elevation_ft": 254,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Londonderry"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8056
+  }
+}

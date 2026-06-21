@@ -1,0 +1,32 @@
+{
+  "key": "_us_16211",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AL19",
+    "local": "AL19"
+  },
+  "name": "Medical West Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.37155,
+    "longitude": -86.991,
+    "elevation_ft": 670,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Bessemer"
+  },
+  "keywords": [
+    "Bessemer Carraway Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16211
+  }
+}

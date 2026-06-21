@@ -1,0 +1,31 @@
+{
+  "key": "cyfo",
+  "codes": {
+    "icao": "CYFO",
+    "iata": "YFO",
+    "gps": "CYFO",
+    "local": null
+  },
+  "name": "Flin Flon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.678101,
+    "longitude": -101.681999,
+    "elevation_ft": 997,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Flin Flon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Flin_Flon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1735
+  }
+}

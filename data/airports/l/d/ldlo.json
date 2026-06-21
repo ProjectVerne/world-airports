@@ -1,0 +1,33 @@
+{
+  "key": "ldlo",
+  "codes": {
+    "icao": "LDLO",
+    "iata": "LSZ",
+    "gps": "LDLO",
+    "local": null
+  },
+  "name": "Lošinj Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.566985,
+    "longitude": 14.393883,
+    "elevation_ft": 151,
+    "iso_country": "HR",
+    "iso_region": "HR-08",
+    "municipality": "Mali Lošinj"
+  },
+  "keywords": [
+    "Lussinpiccolo"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lo%C5%A1inj_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30085
+  }
+}

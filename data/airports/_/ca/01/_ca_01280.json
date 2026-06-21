@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01280",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CMH2",
+    "local": "CMH2"
+  },
+  "name": "Milton (Afi) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.532224,
+    "longitude": -79.902734,
+    "elevation_ft": 687,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Milton"
+  },
+  "keywords": [
+    "MH2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1280
+  }
+}

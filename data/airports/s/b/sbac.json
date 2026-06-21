@@ -1,0 +1,34 @@
+{
+  "key": "sbac",
+  "codes": {
+    "icao": "SBAC",
+    "iata": "ARX",
+    "gps": "SBAC",
+    "local": "CE0004"
+  },
+  "name": "Aracati Dragão do Mar Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.568896,
+    "longitude": -37.805135,
+    "elevation_ft": 128,
+    "iso_country": "BR",
+    "iso_region": "BR-CE",
+    "municipality": "Aracati"
+  },
+  "keywords": [
+    "SNAT",
+    "Dragão do Mar Regional"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aracati_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 275
+  }
+}

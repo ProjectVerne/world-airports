@@ -1,0 +1,30 @@
+{
+  "key": "_ca_320432",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CDH5",
+    "local": "CDH5"
+  },
+  "name": "Nanaimo Harbour Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.160814,
+    "longitude": -123.923217,
+    "elevation_ft": 12,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Nanaimo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320432
+  }
+}

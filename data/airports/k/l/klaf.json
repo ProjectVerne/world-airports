@@ -1,0 +1,31 @@
+{
+  "key": "klaf",
+  "codes": {
+    "icao": "KLAF",
+    "iata": "LAF",
+    "gps": "KLAF",
+    "local": "LAF"
+  },
+  "name": "Purdue University Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.412875,
+    "longitude": -86.939363,
+    "elevation_ft": 606,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "West Lafayette"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Purdue_University_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3627
+  }
+}

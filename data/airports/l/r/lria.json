@@ -1,0 +1,34 @@
+{
+  "key": "lria",
+  "codes": {
+    "icao": "LRIA",
+    "iata": "IAS",
+    "gps": "LRIA",
+    "local": null
+  },
+  "name": "Iaşi International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.179633,
+    "longitude": 27.621431,
+    "elevation_ft": 411,
+    "iso_country": "RO",
+    "iso_region": "RO-IS",
+    "municipality": "Iaşi"
+  },
+  "keywords": [
+    "Iasi",
+    "Jassy"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ia%C5%9Fi_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4480
+  }
+}

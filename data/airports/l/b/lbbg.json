@@ -1,0 +1,33 @@
+{
+  "key": "lbbg",
+  "codes": {
+    "icao": "LBBG",
+    "iata": "BOJ",
+    "gps": "LBBG",
+    "local": null
+  },
+  "name": "Burgas Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.569917,
+    "longitude": 27.515173,
+    "elevation_ft": 135,
+    "iso_country": "BG",
+    "iso_region": "BG-02",
+    "municipality": "Burgas"
+  },
+  "keywords": [
+    "Bourgas"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Burgas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3974
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kafo",
+  "codes": {
+    "icao": "KAFO",
+    "iata": "AFO",
+    "gps": "KAFO",
+    "local": "AFO"
+  },
+  "name": "Afton Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.711201,
+    "longitude": -110.942001,
+    "elevation_ft": 6221,
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Afton"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Afton_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19249
+  }
+}

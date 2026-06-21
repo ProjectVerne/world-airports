@@ -1,0 +1,31 @@
+{
+  "key": "svrs",
+  "codes": {
+    "icao": "SVRS",
+    "iata": "LRV",
+    "gps": "SVRS",
+    "local": null
+  },
+  "name": "Los Roques Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.946935,
+    "longitude": -66.668333,
+    "elevation_ft": 17,
+    "iso_country": "VE",
+    "iso_region": "VE-W",
+    "municipality": "Gran Roque Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Los_Roques_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40293
+  }
+}

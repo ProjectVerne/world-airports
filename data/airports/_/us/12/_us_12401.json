@@ -1,0 +1,32 @@
+{
+  "key": "_us_12401",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5IL6",
+    "local": "5IL6"
+  },
+  "name": "Heartland Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.742645,
+    "longitude": -88.992469,
+    "elevation_ft": 451,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Marion"
+  },
+  "keywords": [
+    "Air Evac 35 Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12401
+  }
+}

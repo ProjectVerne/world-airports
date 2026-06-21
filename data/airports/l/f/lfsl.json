@@ -1,0 +1,34 @@
+{
+  "key": "lfsl",
+  "codes": {
+    "icao": "LFSL",
+    "iata": "BVE",
+    "gps": "LFSL",
+    "local": null
+  },
+  "name": "Brive Souillac airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.039722,
+    "longitude": 1.485556,
+    "elevation_ft": 1016,
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Brive"
+  },
+  "keywords": [
+    "Vallee de la Dordogne",
+    "Brive-la-Gaillarde"
+  ],
+  "wikipedia": "https://fr.wikipedia.org/wiki/Aéroport_de_Brive-Souillac",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29001
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kged",
+  "codes": {
+    "icao": "KGED",
+    "iata": "GED",
+    "gps": "KGED",
+    "local": "GED"
+  },
+  "name": "Delaware Coastal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.689201,
+    "longitude": -75.358902,
+    "elevation_ft": 53,
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Georgetown"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sussex_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19938
+  }
+}

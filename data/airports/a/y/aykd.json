@@ -1,0 +1,30 @@
+{
+  "key": "aykd",
+  "codes": {
+    "icao": "AYKD",
+    "iata": "KMF",
+    "gps": "AYKD",
+    "local": "KMN"
+  },
+  "name": "Kamina Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.64925,
+    "longitude": 145.956944,
+    "elevation_ft": 2157,
+    "iso_country": "PG",
+    "iso_region": "PG-GPK",
+    "municipality": "Hoieti"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307560
+  }
+}

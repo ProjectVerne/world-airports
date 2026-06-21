@@ -1,0 +1,33 @@
+{
+  "key": "_us_331199",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NV77",
+    "local": "NV77"
+  },
+  "name": "Freedom Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.552087,
+    "longitude": -119.835939,
+    "elevation_ft": 4850,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Reno"
+  },
+  "keywords": [
+    "Pathfinder",
+    "US-1118"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331199
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_18242",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS90",
+    "local": "IS90"
+  },
+  "name": "Honey Lake Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.198601,
+    "longitude": -88.119003,
+    "elevation_ft": 860,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Lake Zurick"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18242
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ehle",
+  "codes": {
+    "icao": "EHLE",
+    "iata": "LEY",
+    "gps": "EHLE",
+    "local": null
+  },
+  "name": "Lelystad Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.453188,
+    "longitude": 5.514622,
+    "elevation_ft": -13,
+    "iso_country": "NL",
+    "iso_region": "NL-FL",
+    "municipality": "Lelystad"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lelystad_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2522
+  }
+}

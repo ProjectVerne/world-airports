@@ -1,0 +1,33 @@
+{
+  "key": "_us_08211",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Pulice Construction Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.5741,
+    "longitude": -112.102997,
+    "elevation_ft": 1235,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Phoenix"
+  },
+  "keywords": [
+    "1AZ6",
+    "US-5934"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8211
+  }
+}

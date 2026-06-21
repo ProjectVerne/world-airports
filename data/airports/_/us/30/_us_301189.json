@@ -1,0 +1,33 @@
+{
+  "key": "_us_301189",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Sky Harbor Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.143889,
+    "longitude": -87.855556,
+    "elevation_ft": 675,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Northbrook"
+  },
+  "keywords": [
+    "OBK",
+    "US-12588"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301189
+  }
+}

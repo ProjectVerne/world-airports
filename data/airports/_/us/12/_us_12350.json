@@ -1,0 +1,33 @@
+{
+  "key": "_us_12350",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5FL2",
+    "local": "5FL2"
+  },
+  "name": "HCA Florida Blake Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.482162,
+    "longitude": -82.622466,
+    "elevation_ft": 17,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Bradenton"
+  },
+  "keywords": [
+    "HCA L.W. Blake Hospital Heliport",
+    "Blake Medical Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12350
+  }
+}

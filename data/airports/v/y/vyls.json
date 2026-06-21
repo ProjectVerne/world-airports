@@ -1,0 +1,31 @@
+{
+  "key": "vyls",
+  "codes": {
+    "icao": "VYLS",
+    "iata": "LSH",
+    "gps": "VYLS",
+    "local": null
+  },
+  "name": "Lashio Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.9779,
+    "longitude": 97.752197,
+    "elevation_ft": 2450,
+    "iso_country": "MM",
+    "iso_region": "MM-17",
+    "municipality": "Lashio"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lashio_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26725
+  }
+}

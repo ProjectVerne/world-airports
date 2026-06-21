@@ -1,0 +1,33 @@
+{
+  "key": "_us_25407",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Smith Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 38.30415,
+    "longitude": -79.507686,
+    "elevation_ft": 2020,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Mc Dowell"
+  },
+  "keywords": [
+    "VA75",
+    "US-12352"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25407
+  }
+}

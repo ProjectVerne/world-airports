@@ -1,0 +1,33 @@
+{
+  "key": "cylc",
+  "codes": {
+    "icao": "CYLC",
+    "iata": "YLC",
+    "gps": "CYLC",
+    "local": null
+  },
+  "name": "Kimmirut Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.848253,
+    "longitude": -69.877853,
+    "elevation_ft": 175,
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Kimmirut"
+  },
+  "keywords": [
+    "Lake Harbour"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kimmirut_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1798
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_09832",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2VA7",
+    "local": "2VA7"
+  },
+  "name": "Virginia Beach General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.866299,
+    "longitude": -76.025803,
+    "elevation_ft": 25,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Virginia Beach"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9832
+  }
+}

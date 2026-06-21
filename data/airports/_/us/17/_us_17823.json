@@ -1,0 +1,30 @@
+{
+  "key": "_us_17823",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID46",
+    "local": "ID46"
+  },
+  "name": "Dworshak Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.5121,
+    "longitude": -116.292999,
+    "elevation_ft": 1615,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Ahsahka"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17823
+  }
+}

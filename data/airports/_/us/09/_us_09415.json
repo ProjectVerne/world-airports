@@ -1,0 +1,32 @@
+{
+  "key": "_us_09415",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "GE56",
+    "local": "GE56"
+  },
+  "name": "Smith Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.675944,
+    "longitude": -83.261425,
+    "elevation_ft": 511,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Greensboro"
+  },
+  "keywords": [
+    "2GE3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9415
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "egpk",
+  "codes": {
+    "icao": "EGPK",
+    "iata": "PIK",
+    "gps": "EGPK",
+    "local": null
+  },
+  "name": "Glasgow Prestwick Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.501499,
+    "longitude": -4.577182,
+    "elevation_ft": 65,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Prestwick, South Ayrshire"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Glasgow_Prestwick_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2464
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "limz",
+  "codes": {
+    "icao": "LIMZ",
+    "iata": "CUF",
+    "gps": "LIMZ",
+    "local": "CN03"
+  },
+  "name": "Cuneo International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.547458,
+    "longitude": 7.623045,
+    "elevation_ft": 1267,
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "Levaldigi (CN)"
+  },
+  "keywords": [
+    "Cuneo Levaldigi Airport",
+    "Turin Cuneo Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cuneo_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4350
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "uass",
+  "codes": {
+    "icao": "UASS",
+    "iata": "PLX",
+    "gps": "UASS",
+    "local": null
+  },
+  "name": "Semei International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.351295,
+    "longitude": 80.234398,
+    "elevation_ft": 761,
+    "iso_country": "KZ",
+    "iso_region": "KZ-ABA",
+    "municipality": "Semey"
+  },
+  "keywords": [
+    "Semipalatinsk Airport",
+    "Semey International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Semey_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6435
+  }
+}

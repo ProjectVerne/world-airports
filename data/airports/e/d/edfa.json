@@ -1,0 +1,33 @@
+{
+  "key": "edfa",
+  "codes": {
+    "icao": "EDFA",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Anspach-Taunus Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.288334,
+    "longitude": 8.533889,
+    "elevation_ft": 1102,
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Wehrheim"
+  },
+  "keywords": [
+    "Flugplatz Anspach/Taunus"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Anspach/Taunus",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28500
+  }
+}

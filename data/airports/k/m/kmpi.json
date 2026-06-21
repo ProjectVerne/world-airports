@@ -1,0 +1,31 @@
+{
+  "key": "kmpi",
+  "codes": {
+    "icao": "KMPI",
+    "iata": "RMY",
+    "gps": "KMPI",
+    "local": "MPI"
+  },
+  "name": "Mariposa Yosemite Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.510899,
+    "longitude": -120.040001,
+    "elevation_ft": 2254,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Mariposa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mariposa-Yosemite_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20547
+  }
+}

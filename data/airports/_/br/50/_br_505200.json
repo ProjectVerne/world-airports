@@ -1,0 +1,32 @@
+{
+  "key": "_br_505200",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNIA",
+    "local": "SP0706"
+  },
+  "name": "Arujá Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.394243,
+    "longitude": -46.354477,
+    "elevation_ft": 2615,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Arujá"
+  },
+  "keywords": [
+    "BR-1752"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505200
+  }
+}

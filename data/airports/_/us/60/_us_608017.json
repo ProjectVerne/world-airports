@@ -1,0 +1,30 @@
+{
+  "key": "_us_608017",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SC25",
+    "local": "SC25"
+  },
+  "name": "Prisma Health Tuomey Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.923338,
+    "longitude": -80.342348,
+    "elevation_ft": 218,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Sumter"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 608017
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "key": "lhsm",
+  "codes": {
+    "icao": "LHSM",
+    "iata": "SOB",
+    "gps": "LHSM",
+    "local": null
+  },
+  "name": "Hévíz–Balaton Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.686391,
+    "longitude": 17.159084,
+    "elevation_ft": 408,
+    "iso_country": "HU",
+    "iso_region": "HU-ZA",
+    "municipality": "Sármellék"
+  },
+  "keywords": [
+    "Sármellék International",
+    "FlyBatalon Airport",
+    "Batalon Airport",
+    "Sármellék Nemzetközi Repülőtér"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A1rmell%C3%A9k_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4305
+  }
+}

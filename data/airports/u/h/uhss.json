@@ -1,0 +1,35 @@
+{
+  "key": "uhss",
+  "codes": {
+    "icao": "UHSS",
+    "iata": "UUS",
+    "gps": "UHSS",
+    "local": null
+  },
+  "name": "Yuzhno-Sakhalinsk International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.885461,
+    "longitude": 142.717466,
+    "elevation_ft": 59,
+    "iso_country": "RU",
+    "iso_region": "RU-SAK",
+    "municipality": "Yuzhno-Sakhalinsk"
+  },
+  "keywords": [
+    "Аэропорт Южно-Сахалинск",
+    "Khomutovo",
+    "Khomutovo International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yuzhno-Sakhalinsk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6461
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_321980",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FA90",
+    "local": "FA90"
+  },
+  "name": "Port Canaveral Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.405256,
+    "longitude": -80.618669,
+    "elevation_ft": 10,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Port Canaveral"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 321980
+  }
+}

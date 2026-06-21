@@ -1,0 +1,33 @@
+{
+  "key": "yptn",
+  "codes": {
+    "icao": "YPTN",
+    "iata": "KTR",
+    "gps": "YPTN",
+    "local": null
+  },
+  "name": "Tindal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -14.5211,
+    "longitude": 132.378006,
+    "elevation_ft": 443,
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": null
+  },
+  "keywords": [
+    "RAAF Base Tindal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/RAAF_Base_Tindal",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27120
+  }
+}

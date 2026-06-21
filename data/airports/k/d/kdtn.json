@@ -1,0 +1,31 @@
+{
+  "key": "kdtn",
+  "codes": {
+    "icao": "KDTN",
+    "iata": "DTN",
+    "gps": "KDTN",
+    "local": "DTN"
+  },
+  "name": "Shreveport Downtown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.540199,
+    "longitude": -93.745003,
+    "elevation_ft": 179,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Shreveport"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shreveport_Downtown_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19659
+  }
+}

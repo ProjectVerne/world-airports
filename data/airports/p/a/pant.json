@@ -1,0 +1,31 @@
+{
+  "key": "pant",
+  "codes": {
+    "icao": "PANT",
+    "iata": "ANN",
+    "gps": "PANT",
+    "local": "ANN"
+  },
+  "name": "Annette Island Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.037663,
+    "longitude": -131.572609,
+    "elevation_ft": 119,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Metlakatla"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Annette_Island_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5391
+  }
+}

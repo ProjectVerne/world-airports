@@ -1,0 +1,30 @@
+{
+  "key": "_us_07662",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "10IA",
+    "local": "10IA"
+  },
+  "name": "Flyers Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.416698,
+    "longitude": -92.250198,
+    "elevation_ft": 830,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Waterloo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7662
+  }
+}

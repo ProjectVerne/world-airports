@@ -1,0 +1,33 @@
+{
+  "key": "cyos",
+  "codes": {
+    "icao": "CYOS",
+    "iata": "YOS",
+    "gps": "CYOS",
+    "local": null
+  },
+  "name": "Owen Sound / Billy Bishop Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.590302,
+    "longitude": -80.837502,
+    "elevation_ft": 1007,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Owen Sound"
+  },
+  "keywords": [
+    "YOS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Owen_Sound/Billy_Bishop_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1839
+  }
+}

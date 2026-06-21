@@ -1,0 +1,33 @@
+{
+  "key": "rcly",
+  "codes": {
+    "icao": "RCLY",
+    "iata": "KYD",
+    "gps": "RCLY",
+    "local": null
+  },
+  "name": "Lanyu Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.027,
+    "longitude": 121.535004,
+    "elevation_ft": 44,
+    "iso_country": "TW",
+    "iso_region": "TW-TTT",
+    "municipality": "Orchid Island"
+  },
+  "keywords": [
+    "Lanyu Auxiliary Station"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lanyu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5519
+  }
+}

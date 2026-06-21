@@ -1,0 +1,32 @@
+{
+  "key": "_us_555778",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Marshfield Emergency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.34623,
+    "longitude": -92.9254,
+    "elevation_ft": 1475,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Marshfield"
+  },
+  "keywords": [
+    "US-9044"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 555778
+  }
+}

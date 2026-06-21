@@ -1,0 +1,36 @@
+{
+  "key": "rcbs",
+  "codes": {
+    "icao": "RCBS",
+    "iata": "KNH",
+    "gps": "RCBS",
+    "local": null
+  },
+  "name": "Kinmen Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.4279,
+    "longitude": 118.359001,
+    "elevation_ft": 93,
+    "iso_country": "TW",
+    "iso_region": "TW-X-KM",
+    "municipality": "Shang-I"
+  },
+  "keywords": [
+    "Shang Yi Airport",
+    "金門尚義機場",
+    "金门尚义机场",
+    "Jīnmén Shàngyì jīchǎng"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kinmen_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5510
+  }
+}

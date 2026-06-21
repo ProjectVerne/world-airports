@@ -1,0 +1,31 @@
+{
+  "key": "_us_11308",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "49T",
+    "local": "49T"
+  },
+  "name": "Dallas CBD Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.7717,
+    "longitude": -96.8021,
+    "elevation_ft": 480,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dallas"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dallas_CBD_Vertiport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11308
+  }
+}

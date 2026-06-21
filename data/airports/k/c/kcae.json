@@ -1,0 +1,31 @@
+{
+  "key": "kcae",
+  "codes": {
+    "icao": "KCAE",
+    "iata": "CAE",
+    "gps": "KCAE",
+    "local": "CAE"
+  },
+  "name": "Columbia Metropolitan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.938172,
+    "longitude": -81.123022,
+    "elevation_ft": 236,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Columbia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Columbia_Metropolitan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3438
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "yhml",
+  "codes": {
+    "icao": "YHML",
+    "iata": "HLT",
+    "gps": "YHML",
+    "local": null
+  },
+  "name": "Hamilton Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -37.648899,
+    "longitude": 142.065002,
+    "elevation_ft": 803,
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hamilton_Airport_(Australia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27007
+  }
+}

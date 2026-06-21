@@ -1,0 +1,30 @@
+{
+  "key": "kela",
+  "codes": {
+    "icao": "KELA",
+    "iata": "ELA",
+    "gps": "KELA",
+    "local": "ELA"
+  },
+  "name": "Eagle Lake Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.600599,
+    "longitude": -96.321899,
+    "elevation_ft": 184,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Eagle Lake"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19750
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ec_41101",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SEUO",
+    "local": null
+  },
+  "name": "Canal Uno Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -2.165556,
+    "longitude": -79.896942,
+    "elevation_ft": 12,
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "Guayaquil"
+  },
+  "keywords": [
+    "SE12"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41101
+  }
+}

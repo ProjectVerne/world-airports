@@ -1,0 +1,36 @@
+{
+  "key": "kmwh",
+  "codes": {
+    "icao": "KMWH",
+    "iata": "MWH",
+    "gps": "KMWH",
+    "local": "MWH"
+  },
+  "name": "Grant County International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.207699,
+    "longitude": -119.32,
+    "elevation_ft": 1189,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Moses Lake"
+  },
+  "keywords": [
+    "LRN",
+    "Larson AFB",
+    "Moses Lake AFB",
+    "Moses Lake AAB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Grant_County_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20581
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "_ru_42918",
+  "codes": {
+    "icao": null,
+    "iata": "CSH",
+    "gps": "ULAS",
+    "local": "ULAS"
+  },
+  "name": "Solovki Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.029996,
+    "longitude": 35.730558,
+    "elevation_ft": 60,
+    "iso_country": "RU",
+    "iso_region": "RU-ARK",
+    "municipality": "Solovetsky Islands"
+  },
+  "keywords": [
+    "Аэропорт Соловки",
+    "УЛАС"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Solovki_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42918
+  }
+}

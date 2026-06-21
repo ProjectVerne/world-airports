@@ -1,0 +1,32 @@
+{
+  "key": "_us_22002",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ME87",
+    "local": "ME87"
+  },
+  "name": "Southern Maine Health Care/Sanford Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.448713,
+    "longitude": -70.768594,
+    "elevation_ft": 375,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Sanford"
+  },
+  "keywords": [
+    "Goodall Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22002
+  }
+}

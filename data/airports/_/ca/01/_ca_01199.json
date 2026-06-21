@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01199",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKL2",
+    "local": "CKL2"
+  },
+  "name": "Selkirk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.172308,
+    "longitude": -96.870346,
+    "elevation_ft": 747,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Selkirk"
+  },
+  "keywords": [
+    "KL2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Selkirk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1199
+  }
+}

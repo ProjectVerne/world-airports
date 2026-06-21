@@ -1,0 +1,32 @@
+{
+  "key": "_us_09176",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "27TE",
+    "local": "27TE"
+  },
+  "name": "Hospitals of Providence East Campus Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.791186,
+    "longitude": -106.263621,
+    "elevation_ft": 4002,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "El Paso"
+  },
+  "keywords": [
+    "Sierra Providence Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9176
+  }
+}

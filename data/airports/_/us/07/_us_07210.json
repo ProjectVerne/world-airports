@@ -1,0 +1,30 @@
+{
+  "key": "_us_07210",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0IA9",
+    "local": "0IA9"
+  },
+  "name": "Army Reserve Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.833401,
+    "longitude": -91.300102,
+    "elevation_ft": 725,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Middleton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7210
+  }
+}

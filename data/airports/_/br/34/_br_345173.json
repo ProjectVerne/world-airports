@@ -1,0 +1,30 @@
+{
+  "key": "_br_345173",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SD8D",
+    "local": "GO0301"
+  },
+  "name": "HDG Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -16.734115,
+    "longitude": -49.155194,
+    "elevation_ft": 2264,
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Goiânia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345173
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "khsi",
+  "codes": {
+    "icao": "KHSI",
+    "iata": "HSI",
+    "gps": "KHSI",
+    "local": "HSI"
+  },
+  "name": "Hastings Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.605301,
+    "longitude": -98.427902,
+    "elevation_ft": 1961,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Hastings"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hastings_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20088
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_17043",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT89",
+    "local": "CT89"
+  },
+  "name": "Itt Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.275101,
+    "longitude": -73.132896,
+    "elevation_ft": 327,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Shelton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17043
+  }
+}

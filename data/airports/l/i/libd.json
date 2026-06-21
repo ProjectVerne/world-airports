@@ -1,0 +1,35 @@
+{
+  "key": "libd",
+  "codes": {
+    "icao": "LIBD",
+    "iata": "BRI",
+    "gps": "LIBD",
+    "local": "BA02"
+  },
+  "name": "Bari Karol Wojtyła International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.138901,
+    "longitude": 16.760599,
+    "elevation_ft": 193,
+    "iso_country": "IT",
+    "iso_region": "IT-75",
+    "municipality": "Bari"
+  },
+  "keywords": [
+    "Bari \"Karol Wojtyla\" International Airport",
+    "Palese Macchie Airport",
+    "Palese Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bari_Karol_Wojty%C5%82a_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4310
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01467",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPW2",
+    "local": "CPW2"
+  },
+  "name": "London (Victoria Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.959067,
+    "longitude": -81.225572,
+    "elevation_ft": 875,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "London"
+  },
+  "keywords": [
+    "PW2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1467
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_09256",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "29MA",
+    "local": "29MA"
+  },
+  "name": "Laminated Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.2015,
+    "longitude": -72.598099,
+    "elevation_ft": 135,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Holyoke"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9256
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "tlpc",
+  "codes": {
+    "icao": "TLPC",
+    "iata": "SLU",
+    "gps": "TLPC",
+    "local": null
+  },
+  "name": "George F. L. Charles Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 14.0202,
+    "longitude": -60.992901,
+    "elevation_ft": 22,
+    "iso_country": "LC",
+    "iso_region": "LC-02",
+    "municipality": "Castries"
+  },
+  "keywords": [
+    "Vigie Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/George_F._L._Charles_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6388
+  }
+}

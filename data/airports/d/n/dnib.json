@@ -1,0 +1,31 @@
+{
+  "key": "dnib",
+  "codes": {
+    "icao": "DNIB",
+    "iata": "IBA",
+    "gps": "DNIB",
+    "local": null
+  },
+  "name": "Ibadan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.36246,
+    "longitude": 3.97833,
+    "elevation_ft": 725,
+    "iso_country": "NG",
+    "iso_region": "NG-OY",
+    "municipality": "Ibadan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ibadan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2110
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_25101",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS85",
+    "local": "TS85"
+  },
+  "name": "Diamond J Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.8106,
+    "longitude": -96.703903,
+    "elevation_ft": 802,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Pottsboro"
+  },
+  "keywords": [
+    "Tanglewood Airfield"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25101
+  }
+}

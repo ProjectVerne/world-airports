@@ -1,0 +1,31 @@
+{
+  "key": "kilm",
+  "codes": {
+    "icao": "KILM",
+    "iata": "ILM",
+    "gps": "KILM",
+    "local": "ILM"
+  },
+  "name": "Wilmington International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.272345,
+    "longitude": -77.905117,
+    "elevation_ft": 32,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Wilmington"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wilmington_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3609
+  }
+}

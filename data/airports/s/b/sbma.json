@@ -1,0 +1,33 @@
+{
+  "key": "sbma",
+  "codes": {
+    "icao": "SBMA",
+    "iata": "MAB",
+    "gps": "SBMA",
+    "local": "PA0004"
+  },
+  "name": "João Correa da Rocha Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.36859,
+    "longitude": -49.138,
+    "elevation_ft": 357,
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Marabá"
+  },
+  "keywords": [
+    "Marabá Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Marab%C3%A1_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5934
+  }
+}

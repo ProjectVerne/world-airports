@@ -1,0 +1,32 @@
+{
+  "key": "svma",
+  "codes": {
+    "icao": "SVMA",
+    "iata": null,
+    "gps": "SVMA",
+    "local": null
+  },
+  "name": "Maripa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.45448,
+    "longitude": -65.17621,
+    "elevation_ft": 200,
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Maripa"
+  },
+  "keywords": [
+    "SVNB"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40216
+  }
+}

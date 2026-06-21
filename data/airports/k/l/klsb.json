@@ -1,0 +1,30 @@
+{
+  "key": "klsb",
+  "codes": {
+    "icao": "KLSB",
+    "iata": "LSB",
+    "gps": "KLSB",
+    "local": "LSB"
+  },
+  "name": "Lordsburg Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.3335,
+    "longitude": -108.692001,
+    "elevation_ft": 4289,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Lordsburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20375
+  }
+}

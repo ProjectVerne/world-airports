@@ -1,0 +1,32 @@
+{
+  "key": "_br_35440",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDBL",
+    "local": "SP0297"
+  },
+  "name": "BFC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.562178,
+    "longitude": -46.654054,
+    "elevation_ft": 2923,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Paulo"
+  },
+  "keywords": [
+    "Banco Real SA"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35440
+  }
+}

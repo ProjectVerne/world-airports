@@ -1,0 +1,32 @@
+{
+  "key": "_us_509188",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "US Border Patrol Big Bend Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.32182,
+    "longitude": -103.20635,
+    "elevation_ft": 3811,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Big Bend National Park"
+  },
+  "keywords": [
+    "US-7800"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509188
+  }
+}

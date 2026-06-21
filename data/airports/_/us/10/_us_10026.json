@@ -1,0 +1,30 @@
+{
+  "key": "_us_10026",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32TS",
+    "local": "32TS"
+  },
+  "name": "Seton Medical Center H-4 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.304567,
+    "longitude": -97.746542,
+    "elevation_ft": 582,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Austin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10026
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "cylt",
+  "codes": {
+    "icao": "CYLT",
+    "iata": "YLT",
+    "gps": "CYLT",
+    "local": null
+  },
+  "name": "Alert Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 82.517263,
+    "longitude": -62.283037,
+    "elevation_ft": 100,
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Alert"
+  },
+  "keywords": [
+    "YLT"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Alert_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1806
+  }
+}

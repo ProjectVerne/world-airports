@@ -1,0 +1,31 @@
+{
+  "key": "vndp",
+  "codes": {
+    "icao": "VNDP",
+    "iata": "DOP",
+    "gps": "VNDP",
+    "local": null
+  },
+  "name": "Dolpa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.985659,
+    "longitude": 82.818703,
+    "elevation_ft": 8200,
+    "iso_country": "NP",
+    "iso_region": "NP-P6",
+    "municipality": "Dolpa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dolpa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30936
+  }
+}

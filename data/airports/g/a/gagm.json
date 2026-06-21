@@ -1,0 +1,31 @@
+{
+  "key": "gagm",
+  "codes": {
+    "icao": "GAGM",
+    "iata": "GUD",
+    "gps": "GAGM",
+    "local": null
+  },
+  "name": "Goundam Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.358426,
+    "longitude": -3.604536,
+    "elevation_ft": 866,
+    "iso_country": "ML",
+    "iso_region": "ML-6",
+    "municipality": "Goundam"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Goundam_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31555
+  }
+}

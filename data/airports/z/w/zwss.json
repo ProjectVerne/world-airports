@@ -1,0 +1,31 @@
+{
+  "key": "zwss",
+  "codes": {
+    "icao": "ZWSS",
+    "iata": "SXJ",
+    "gps": "ZWSS",
+    "local": null
+  },
+  "name": "Shanshan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.911701,
+    "longitude": 90.247498,
+    "elevation_ft": 0,
+    "iso_country": "CN",
+    "iso_region": "CN-65",
+    "municipality": "Shanshan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shanshan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32406
+  }
+}

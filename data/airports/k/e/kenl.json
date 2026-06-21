@@ -1,0 +1,31 @@
+{
+  "key": "kenl",
+  "codes": {
+    "icao": "KENL",
+    "iata": "ENL",
+    "gps": "KENL",
+    "local": "ENL"
+  },
+  "name": "Centralia Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.515099,
+    "longitude": -89.091103,
+    "elevation_ft": 534,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Centralia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Centralia_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19759
+  }
+}

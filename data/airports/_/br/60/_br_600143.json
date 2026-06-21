@@ -1,0 +1,30 @@
+{
+  "key": "_br_600143",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SS6M",
+    "local": "MG0641"
+  },
+  "name": "BSM Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -18.528303,
+    "longitude": -44.619664,
+    "elevation_ft": 2174,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Morro da Garça"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600143
+  }
+}

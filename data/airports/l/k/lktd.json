@@ -1,0 +1,32 @@
+{
+  "key": "lktd",
+  "codes": {
+    "icao": "LKTD",
+    "iata": null,
+    "gps": "LKTD",
+    "local": null
+  },
+  "name": "Tachov Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.797223,
+    "longitude": 12.707169,
+    "elevation_ft": 1640,
+    "iso_country": "CZ",
+    "iso_region": "CZ-PL",
+    "municipality": "Tachov"
+  },
+  "keywords": [
+    "Letiště Tachov"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30461
+  }
+}

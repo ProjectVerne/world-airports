@@ -1,0 +1,31 @@
+{
+  "key": "kags",
+  "codes": {
+    "icao": "KAGS",
+    "iata": "AGS",
+    "gps": "KAGS",
+    "local": "AGS"
+  },
+  "name": "Augusta Regional At Bush Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.3699,
+    "longitude": -81.9645,
+    "elevation_ft": 144,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Augusta"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Augusta_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3368
+  }
+}

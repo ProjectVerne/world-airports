@@ -1,0 +1,33 @@
+{
+  "key": "skna",
+  "codes": {
+    "icao": "SKNA",
+    "iata": "LMC",
+    "gps": "SKNA",
+    "local": null
+  },
+  "name": "La Macarena Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 2.17565,
+    "longitude": -73.78674,
+    "elevation_ft": 790,
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "La Macarena"
+  },
+  "keywords": [
+    "Aeropuerto Javier Noreña Valencia"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Macarena_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308661
+  }
+}

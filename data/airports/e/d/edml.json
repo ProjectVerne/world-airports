@@ -1,0 +1,33 @@
+{
+  "key": "edml",
+  "codes": {
+    "icao": "EDML",
+    "iata": null,
+    "gps": "EDML",
+    "local": null
+  },
+  "name": "Landshut Airfield",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.512019,
+    "longitude": 12.034865,
+    "elevation_ft": 1312,
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Landshut"
+  },
+  "keywords": [
+    "QLG"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Landshut",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28630
+  }
+}

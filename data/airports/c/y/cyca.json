@@ -1,0 +1,33 @@
+{
+  "key": "cyca",
+  "codes": {
+    "icao": "CYCA",
+    "iata": "YRF",
+    "gps": "CYCA",
+    "local": null
+  },
+  "name": "Cartwright Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.682501,
+    "longitude": -57.042303,
+    "elevation_ft": 40,
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "Cartwright"
+  },
+  "keywords": [
+    "YCA"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cartwright_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1684
+  }
+}

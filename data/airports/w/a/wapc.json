@@ -1,0 +1,33 @@
+{
+  "key": "wapc",
+  "codes": {
+    "icao": "WAPC",
+    "iata": "NDA",
+    "gps": "WAPC",
+    "local": null
+  },
+  "name": "Bandanaira Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.5214,
+    "longitude": 129.9054,
+    "elevation_ft": 59,
+    "iso_country": "ID",
+    "iso_region": "ID-MA",
+    "municipality": "Bandanaira"
+  },
+  "keywords": [
+    "Banda-Naira"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bandanaira_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41389
+  }
+}

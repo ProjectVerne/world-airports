@@ -1,0 +1,32 @@
+{
+  "key": "_kr_300370",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "RK1N",
+    "local": "RK1N"
+  },
+  "name": "C 135 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.623114,
+    "longitude": 126.703641,
+    "elevation_ft": 182,
+    "iso_country": "KR",
+    "iso_region": "KR-41",
+    "municipality": null
+  },
+  "keywords": [
+    "TAC Site 42"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300370
+  }
+}

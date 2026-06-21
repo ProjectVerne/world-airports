@@ -1,0 +1,32 @@
+{
+  "key": "_us_430611",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Tonopah Test Range ECW Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.71217,
+    "longitude": -116.44342,
+    "elevation_ft": 5712,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Tonopah"
+  },
+  "keywords": [
+    "US-7203"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 430611
+  }
+}

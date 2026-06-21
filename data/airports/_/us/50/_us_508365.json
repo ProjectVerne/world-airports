@@ -1,0 +1,32 @@
+{
+  "key": "_us_508365",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "19TX",
+    "local": "19TX"
+  },
+  "name": "Texas Children's Hospital North Campus Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.472545,
+    "longitude": -97.790372,
+    "elevation_ft": 912,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Austin"
+  },
+  "keywords": [
+    "US-7594"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 508365
+  }
+}

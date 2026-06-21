@@ -1,0 +1,33 @@
+{
+  "key": "liml",
+  "codes": {
+    "icao": "LIML",
+    "iata": "LIN",
+    "gps": "LIML",
+    "local": "MI11"
+  },
+  "name": "Milano Linate Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.445099,
+    "longitude": 9.27674,
+    "elevation_ft": 353,
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Segrate (MI)"
+  },
+  "keywords": [
+    "E Forlanini"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Linate_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4345
+  }
+}

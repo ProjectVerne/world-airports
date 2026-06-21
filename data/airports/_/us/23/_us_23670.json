@@ -1,0 +1,32 @@
+{
+  "key": "_us_23670",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OI21",
+    "local": "OI21"
+  },
+  "name": "Va Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.366699,
+    "longitude": -82.999901,
+    "elevation_ft": 650,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Chillicothe"
+  },
+  "keywords": [
+    "US-OI21"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23670
+  }
+}

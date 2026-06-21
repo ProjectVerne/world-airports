@@ -1,0 +1,32 @@
+{
+  "key": "_us_10442",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3FD2",
+    "local": "3FD2"
+  },
+  "name": "Leesburg Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.8083,
+    "longitude": -81.866997,
+    "elevation_ft": 75,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Leesburg"
+  },
+  "keywords": [
+    "L R M C Emergency Helistop"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10442
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "ayvo",
+  "codes": {
+    "icao": "AYVO",
+    "iata": "TON",
+    "gps": "AYVO",
+    "local": "TONU"
+  },
+  "name": "Tonu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.6552,
+    "longitude": 155.4326,
+    "elevation_ft": 300,
+    "iso_country": "PG",
+    "iso_region": "PG-NSB",
+    "municipality": "Tonu"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 312307
+  }
+}

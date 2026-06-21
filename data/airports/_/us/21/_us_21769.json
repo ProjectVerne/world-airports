@@ -1,0 +1,30 @@
+{
+  "key": "_us_21769",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA26",
+    "local": "MA26"
+  },
+  "name": "Balloon Port at Dingley Dell",
+  "type": "balloonport",
+  "status": "open",
+  "location": {
+    "latitude": 42.120399,
+    "longitude": -72.256203,
+    "elevation_ft": 465,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Brimfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21769
+  }
+}

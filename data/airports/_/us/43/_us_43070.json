@@ -1,0 +1,33 @@
+{
+  "key": "_us_43070",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Watson Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.070802,
+    "longitude": -94.146103,
+    "elevation_ft": 850,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Pattonsburg"
+  },
+  "keywords": [
+    "MO25",
+    "US-0020"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43070
+  }
+}

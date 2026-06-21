@@ -1,0 +1,31 @@
+{
+  "key": "czee",
+  "codes": {
+    "icao": "CZEE",
+    "iata": "KES",
+    "gps": "CZEE",
+    "local": "ZEE"
+  },
+  "name": "Kelsey Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.037498,
+    "longitude": -96.509697,
+    "elevation_ft": 600,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Kelsey"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kelsey_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2012
+  }
+}

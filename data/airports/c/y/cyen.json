@@ -1,0 +1,33 @@
+{
+  "key": "cyen",
+  "codes": {
+    "icao": "CYEN",
+    "iata": "YEN",
+    "gps": "CYEN",
+    "local": null
+  },
+  "name": "Estevan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.2103,
+    "longitude": -102.966003,
+    "elevation_ft": 1905,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Estevan"
+  },
+  "keywords": [
+    "YEN"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Estevan_Regional_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1721
+  }
+}

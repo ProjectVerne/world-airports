@@ -1,0 +1,33 @@
+{
+  "key": "egss",
+  "codes": {
+    "icao": "EGSS",
+    "iata": "STN",
+    "gps": "EGSS",
+    "local": null
+  },
+  "name": "London Stansted Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.884998,
+    "longitude": 0.235,
+    "elevation_ft": 348,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "London, Essex"
+  },
+  "keywords": [
+    "LON"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/London_Stansted_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2476
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "hkbn",
+  "codes": {
+    "icao": "HKBN",
+    "iata": null,
+    "gps": "HKBN",
+    "local": null
+  },
+  "name": "Banisa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 3.897056,
+    "longitude": 40.320253,
+    "elevation_ft": 2998,
+    "iso_country": "KE",
+    "iso_region": "KE-09",
+    "municipality": "Banisa"
+  },
+  "keywords": [
+    "KE-6656"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42619
+  }
+}

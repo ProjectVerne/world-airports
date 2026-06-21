@@ -1,0 +1,32 @@
+{
+  "key": "_cu_42286",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "San Pedro Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 21.739882,
+    "longitude": -79.779088,
+    "elevation_ft": 95,
+    "iso_country": "CU",
+    "iso_region": "CU-07",
+    "municipality": "San Pedro"
+  },
+  "keywords": [
+    "CU-0007"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42286
+  }
+}

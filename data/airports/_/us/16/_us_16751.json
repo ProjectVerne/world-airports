@@ -1,0 +1,32 @@
+{
+  "key": "_us_16751",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CL32",
+    "local": "CL32"
+  },
+  "name": "Garland Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.050972,
+    "longitude": -118.265542,
+    "elevation_ft": 430,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Los Angeles"
+  },
+  "keywords": [
+    "FIB Administration & Operations Building Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16751
+  }
+}

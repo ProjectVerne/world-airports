@@ -1,0 +1,30 @@
+{
+  "key": "_us_23834",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OL07",
+    "local": "OL07"
+  },
+  "name": "Carnegie Municipal Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.116699,
+    "longitude": -98.600304,
+    "elevation_ft": 1234,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Carnegie"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23834
+  }
+}

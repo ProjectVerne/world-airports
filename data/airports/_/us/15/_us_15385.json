@@ -1,0 +1,30 @@
+{
+  "key": "_us_15385",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "93IA",
+    "local": "93IA"
+  },
+  "name": "Lund Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.2603,
+    "longitude": -93.649696,
+    "elevation_ft": 1063,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Jewell"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15385
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "kgws",
+  "codes": {
+    "icao": "KGWS",
+    "iata": "GWS",
+    "gps": "KGWS",
+    "local": "GWS"
+  },
+  "name": "Glenwood Springs Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.508301,
+    "longitude": -107.310997,
+    "elevation_ft": 5916,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Glenwood Springs"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19991
+  }
+}

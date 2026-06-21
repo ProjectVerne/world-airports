@@ -1,0 +1,33 @@
+{
+  "key": "_br_35800",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SIIB",
+    "local": "RJ0083"
+  },
+  "name": "Da Praia Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -22.77403,
+    "longitude": -41.889898,
+    "elevation_ft": 23,
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Armação dos Búzios"
+  },
+  "keywords": [
+    "SDXM",
+    "BR-2334"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35800
+  }
+}

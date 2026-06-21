@@ -1,0 +1,32 @@
+{
+  "key": "_ca_00926",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFA8",
+    "local": "CFA8"
+  },
+  "name": "Three Hills (Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.708678,
+    "longitude": -113.25188,
+    "elevation_ft": 3000,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Three Hills"
+  },
+  "keywords": [
+    "FA8"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 926
+  }
+}

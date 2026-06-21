@@ -1,0 +1,34 @@
+{
+  "key": "sccv",
+  "codes": {
+    "icao": "SCCV",
+    "iata": null,
+    "gps": "SCCV",
+    "local": null
+  },
+  "name": "Curacaví Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.4128,
+    "longitude": -71.165604,
+    "elevation_ft": 666,
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Curacaví"
+  },
+  "keywords": [
+    "Curacaví",
+    "Aeródromo de Curacaví"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Curacav%C3%AD_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29812
+  }
+}

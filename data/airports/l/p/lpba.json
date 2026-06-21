@@ -1,0 +1,32 @@
+{
+  "key": "lpba",
+  "codes": {
+    "icao": "LPBA",
+    "iata": null,
+    "gps": "LPBA",
+    "local": null
+  },
+  "name": "Barlavento Algarvio Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.156737,
+    "longitude": -8.540811,
+    "elevation_ft": 161,
+    "iso_country": "PT",
+    "iso_region": "PT-08",
+    "municipality": "Portimão"
+  },
+  "keywords": [
+    "PT-0002"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43770
+  }
+}

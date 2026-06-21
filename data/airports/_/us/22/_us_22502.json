@@ -1,0 +1,30 @@
+{
+  "key": "_us_22502",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MU05",
+    "local": "MU05"
+  },
+  "name": "Arch Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.618401,
+    "longitude": -90.2173,
+    "elevation_ft": 500,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "St Louis"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22502
+  }
+}

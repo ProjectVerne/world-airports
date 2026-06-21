@@ -1,0 +1,33 @@
+{
+  "key": "kbdu",
+  "codes": {
+    "icao": "KBDU",
+    "iata": "WBU",
+    "gps": "KBDU",
+    "local": "BDU"
+  },
+  "name": "Boulder Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.039101,
+    "longitude": -105.226025,
+    "elevation_ft": 5288,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Boulder"
+  },
+  "keywords": [
+    "1V5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Boulder_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16498
+  }
+}

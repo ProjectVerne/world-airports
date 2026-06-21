@@ -1,0 +1,33 @@
+{
+  "key": "kbyy",
+  "codes": {
+    "icao": "KBYY",
+    "iata": "BBC",
+    "gps": "KBYY",
+    "local": "BYY"
+  },
+  "name": "Bay City Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.973301,
+    "longitude": -95.863503,
+    "elevation_ft": 45,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Bay City"
+  },
+  "keywords": [
+    "3R1"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bay_City_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19431
+  }
+}

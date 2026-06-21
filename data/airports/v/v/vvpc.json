@@ -1,0 +1,33 @@
+{
+  "key": "vvpc",
+  "codes": {
+    "icao": "VVPC",
+    "iata": "UIH",
+    "gps": "VVPC",
+    "local": null
+  },
+  "name": "Phu Cat Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.955,
+    "longitude": 109.042,
+    "elevation_ft": 80,
+    "iso_country": "VN",
+    "iso_region": "VN-SCC",
+    "municipality": "Quy Nohn"
+  },
+  "keywords": [
+    "Phucat"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Phu_Cat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26703
+  }
+}

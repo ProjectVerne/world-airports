@@ -1,0 +1,32 @@
+{
+  "key": "loss",
+  "codes": {
+    "icao": "LOSS",
+    "iata": null,
+    "gps": "LOSS",
+    "local": null
+  },
+  "name": "Kardinal Schwarzenberg Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.321783,
+    "longitude": 13.154366,
+    "elevation_ft": 2046,
+    "iso_country": "AT",
+    "iso_region": "AT-5",
+    "municipality": "Schwarzach"
+  },
+  "keywords": [
+    "AT-0062"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43823
+  }
+}

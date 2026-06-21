@@ -1,0 +1,30 @@
+{
+  "key": "_us_506342",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FA28",
+    "local": "FA28"
+  },
+  "name": "AAS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.359167,
+    "longitude": -80.486944,
+    "elevation_ft": 26,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Fort Pierce"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 506342
+  }
+}

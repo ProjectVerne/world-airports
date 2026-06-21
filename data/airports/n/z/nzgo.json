@@ -1,0 +1,32 @@
+{
+  "key": "nzgo",
+  "codes": {
+    "icao": "NZGO",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Gore Hospital",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -46.102719,
+    "longitude": 168.938556,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-STL",
+    "municipality": "Gore"
+  },
+  "keywords": [
+    "NZ-0101"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 604994
+  }
+}

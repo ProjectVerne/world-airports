@@ -1,0 +1,32 @@
+{
+  "key": "_in_355261",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "HeliTaxii Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 12.84305,
+    "longitude": 77.668188,
+    "elevation_ft": 3005,
+    "iso_country": "IN",
+    "iso_region": "IN-KA",
+    "municipality": "Bengaluru"
+  },
+  "keywords": [
+    "IN-0309"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 355261
+  }
+}

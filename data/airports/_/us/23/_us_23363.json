@@ -1,0 +1,30 @@
+{
+  "key": "_us_23363",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NV60",
+    "local": "NV60"
+  },
+  "name": "Carson-Tahoe Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.171299,
+    "longitude": -119.772003,
+    "elevation_ft": 4710,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Carson City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23363
+  }
+}

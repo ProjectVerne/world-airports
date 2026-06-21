@@ -1,0 +1,33 @@
+{
+  "key": "vahs",
+  "codes": {
+    "icao": "VAHS",
+    "iata": "HSR",
+    "gps": "VAHS",
+    "local": null
+  },
+  "name": "Rajkot International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.378824,
+    "longitude": 71.039391,
+    "elevation_ft": 647,
+    "iso_country": "IN",
+    "iso_region": "IN-GJ",
+    "municipality": "Rajkot"
+  },
+  "keywords": [
+    "Hirasar Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rajkot_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 512065
+  }
+}

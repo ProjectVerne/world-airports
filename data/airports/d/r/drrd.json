@@ -1,0 +1,31 @@
+{
+  "key": "drrd",
+  "codes": {
+    "icao": "DRRD",
+    "iata": null,
+    "gps": "DRRD",
+    "local": null
+  },
+  "name": "Dosso Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.049743,
+    "longitude": 3.223241,
+    "elevation_ft": 738,
+    "iso_country": "NE",
+    "iso_region": "NE-3",
+    "municipality": "Dosso"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dosso_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30940
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08797",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "20MA",
+    "local": "20MA"
+  },
+  "name": "WCVB-TV Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.304154,
+    "longitude": -71.227058,
+    "elevation_ft": 157,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Needham"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8797
+  }
+}

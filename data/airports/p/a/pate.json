@@ -1,0 +1,34 @@
+{
+  "key": "pate",
+  "codes": {
+    "icao": "PATE",
+    "iata": "TLA",
+    "gps": "PATE",
+    "local": "TER"
+  },
+  "name": "Teller Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.240402,
+    "longitude": -166.339005,
+    "elevation_ft": 294,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Teller"
+  },
+  "keywords": [
+    "AK54",
+    "K54"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Teller_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24908
+  }
+}

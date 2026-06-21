@@ -1,0 +1,31 @@
+{
+  "key": "_ca_01740",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CYGD",
+    "local": "YGD"
+  },
+  "name": "Goderich Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.766899,
+    "longitude": -81.710602,
+    "elevation_ft": 712,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Goderich"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Goderich_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1740
+  }
+}

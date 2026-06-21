@@ -1,0 +1,30 @@
+{
+  "key": "_us_12082",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "56GA",
+    "local": "56GA"
+  },
+  "name": "Kennestone Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.967602,
+    "longitude": -84.551003,
+    "elevation_ft": 1215,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Marietta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12082
+  }
+}

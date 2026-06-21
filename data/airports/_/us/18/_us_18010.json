@@ -1,0 +1,33 @@
+{
+  "key": "_us_18010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Sherman Hospital Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.054684,
+    "longitude": -88.280666,
+    "elevation_ft": 780,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Elgin"
+  },
+  "keywords": [
+    "IL33",
+    "US-11417"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18010
+  }
+}

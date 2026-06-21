@@ -1,0 +1,33 @@
+{
+  "key": "eidw",
+  "codes": {
+    "icao": "EIDW",
+    "iata": "DUB",
+    "gps": "EIDW",
+    "local": null
+  },
+  "name": "Dublin Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.428713,
+    "longitude": -6.262121,
+    "elevation_ft": 242,
+    "iso_country": "IE",
+    "iso_region": "IE-D",
+    "municipality": "Dublin"
+  },
+  "keywords": [
+    "Aerfort Bhaile Átha Cliath"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dublin_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2533
+  }
+}

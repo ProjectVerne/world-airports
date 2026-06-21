@@ -1,0 +1,30 @@
+{
+  "key": "_us_09055",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "25JY",
+    "local": "25JY"
+  },
+  "name": "Heli-Ray Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.7202,
+    "longitude": -74.8461,
+    "elevation_ft": 160,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Waterford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9055
+  }
+}

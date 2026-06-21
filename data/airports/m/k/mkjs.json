@@ -1,0 +1,33 @@
+{
+  "key": "mkjs",
+  "codes": {
+    "icao": "MKJS",
+    "iata": "MBJ",
+    "gps": "MKJS",
+    "local": null
+  },
+  "name": "Sangster International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.50342,
+    "longitude": -77.91323,
+    "elevation_ft": 4,
+    "iso_country": "JM",
+    "iso_region": "JM-08",
+    "municipality": "Montego Bay"
+  },
+  "keywords": [
+    "Montego Bay"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sangster_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4681
+  }
+}

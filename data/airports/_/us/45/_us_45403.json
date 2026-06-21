@@ -1,0 +1,30 @@
+{
+  "key": "_us_45403",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "39LL",
+    "local": "39LL"
+  },
+  "name": "Sullivan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.401389,
+    "longitude": -91.303056,
+    "elevation_ft": 635,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Hamilton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45403
+  }
+}

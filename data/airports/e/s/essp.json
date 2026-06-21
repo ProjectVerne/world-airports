@@ -1,0 +1,33 @@
+{
+  "key": "essp",
+  "codes": {
+    "icao": "ESSP",
+    "iata": "NRK",
+    "gps": "ESSP",
+    "local": null
+  },
+  "name": "Norrköping Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.5863,
+    "longitude": 16.250601,
+    "elevation_ft": 32,
+    "iso_country": "SE",
+    "iso_region": "SE-E",
+    "municipality": "Norrköping"
+  },
+  "keywords": [
+    "Kungsangen"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Norrk%C3%B6ping_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2707
+  }
+}

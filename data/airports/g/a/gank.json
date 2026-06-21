@@ -1,0 +1,31 @@
+{
+  "key": "gank",
+  "codes": {
+    "icao": "GANK",
+    "iata": "NRM",
+    "gps": "GANK",
+    "local": null
+  },
+  "name": "Nara Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.22913,
+    "longitude": -7.261965,
+    "elevation_ft": 889,
+    "iso_country": "ML",
+    "iso_region": "ML-2",
+    "municipality": "Keibane"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Keibane_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32046
+  }
+}

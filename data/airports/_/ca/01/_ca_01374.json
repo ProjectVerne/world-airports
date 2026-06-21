@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01374",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPA6",
+    "local": "CPA6"
+  },
+  "name": "Hagersville (West Haldimand General Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.95837,
+    "longitude": -80.043426,
+    "elevation_ft": 730,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Hagersville"
+  },
+  "keywords": [
+    "PA6"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1374
+  }
+}

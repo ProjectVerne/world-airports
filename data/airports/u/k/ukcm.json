@@ -1,0 +1,33 @@
+{
+  "key": "ukcm",
+  "codes": {
+    "icao": "UKCM",
+    "iata": "MPW",
+    "gps": "UKCM",
+    "local": null
+  },
+  "name": "Mariupol International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.076099,
+    "longitude": 37.4496,
+    "elevation_ft": 251,
+    "iso_country": "UA",
+    "iso_region": "UA-14",
+    "municipality": "Mariupol"
+  },
+  "keywords": [
+    "Міжнародний аеропорт \"Маріуполь\""
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mariupol_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6469
+  }
+}

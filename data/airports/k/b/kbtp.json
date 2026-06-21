@@ -1,0 +1,35 @@
+{
+  "key": "kbtp",
+  "codes": {
+    "icao": "KBTP",
+    "iata": "BTP",
+    "gps": "KBTP",
+    "local": "BTP"
+  },
+  "name": "Pittsburgh/Butler Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.776901,
+    "longitude": -79.949699,
+    "elevation_ft": 1248,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Butler"
+  },
+  "keywords": [
+    "Graham Field",
+    "Butler-Graham Airport",
+    "Butler County-K W Scholter Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Butler_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19411
+  }
+}

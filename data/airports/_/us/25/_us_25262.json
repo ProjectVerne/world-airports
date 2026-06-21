@@ -1,0 +1,32 @@
+{
+  "key": "_us_25262",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "UT19",
+    "local": "UT19"
+  },
+  "name": "Salt Lake Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.767515,
+    "longitude": -111.861894,
+    "elevation_ft": 4519,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Salt Lake City"
+  },
+  "keywords": [
+    "Holy Cross Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25262
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_13361",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6MA6",
+    "local": "6MA6"
+  },
+  "name": "Cotuit Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.617045,
+    "longitude": -70.44327,
+    "elevation_ft": 43,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Cotuit"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13361
+  }
+}

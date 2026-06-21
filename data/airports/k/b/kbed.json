@@ -1,0 +1,33 @@
+{
+  "key": "kbed",
+  "codes": {
+    "icao": "KBED",
+    "iata": "BED",
+    "gps": "KBED",
+    "local": "BED"
+  },
+  "name": "Laurence G Hanscom Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.470001,
+    "longitude": -71.289001,
+    "elevation_ft": 133,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Bedford"
+  },
+  "keywords": [
+    "Hanscom Air Force Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hanscom_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3398
+  }
+}

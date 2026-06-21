@@ -1,0 +1,30 @@
+{
+  "key": "_us_14214",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "7MA1",
+    "local": "7MA1"
+  },
+  "name": "Digital (Box 2) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.493401,
+    "longitude": -71.543701,
+    "elevation_ft": 265,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Boxborough"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 14214
+  }
+}

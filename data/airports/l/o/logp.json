@@ -1,0 +1,31 @@
+{
+  "key": "logp",
+  "codes": {
+    "icao": "LOGP",
+    "iata": null,
+    "gps": "LOGP",
+    "local": null
+  },
+  "name": "Pinkafeld Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.386684,
+    "longitude": 16.112673,
+    "elevation_ft": 1339,
+    "iso_country": "AT",
+    "iso_region": "AT-1",
+    "municipality": "Pinkafeld"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pinkafeld_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29455
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_10704",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "API Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.810299,
+    "longitude": -81.629303,
+    "elevation_ft": 1120,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "North Lawrence"
+  },
+  "keywords": [
+    "3OH2",
+    "US-10072"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10704
+  }
+}

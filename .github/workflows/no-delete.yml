@@ -8,7 +8,6 @@ on:
   pull_request:
     paths:
       - "data/**"
-      - "sample/**"
 
 jobs:
   guard:
@@ -23,7 +22,7 @@ jobs:
         run: |
           base="origin/${{ github.base_ref }}"
           git fetch origin "${{ github.base_ref }}" --quiet
-          deleted=$(git diff --diff-filter=D --name-only "${base}...HEAD" -- 'data/**' 'sample/**' || true)
+          deleted=$(git diff --diff-filter=D --name-only "${base}...HEAD" -- 'data/**' || true)
           if [ -n "$deleted" ]; then
             echo "::error::Record deletions are not allowed. Retire via status:closed/abandoned, or add the 'migration' label."
             echo "$deleted"

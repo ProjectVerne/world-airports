@@ -1,0 +1,31 @@
+{
+  "key": "kism",
+  "codes": {
+    "icao": "KISM",
+    "iata": "ISM",
+    "gps": "KISM",
+    "local": "ISM"
+  },
+  "name": "Kissimmee Gateway Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.289801,
+    "longitude": -81.437103,
+    "elevation_ft": 82,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Orlando"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kissimmee_Gateway_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20187
+  }
+}

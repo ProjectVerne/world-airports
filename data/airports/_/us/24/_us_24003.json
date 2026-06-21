@@ -1,0 +1,30 @@
+{
+  "key": "_us_24003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA32",
+    "local": "PA32"
+  },
+  "name": "Ashland Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.783401,
+    "longitude": -76.333,
+    "elevation_ft": 1060,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Ashland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24003
+  }
+}

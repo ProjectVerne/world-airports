@@ -1,0 +1,34 @@
+{
+  "key": "lnmc",
+  "codes": {
+    "icao": "LNMC",
+    "iata": "MCM",
+    "gps": "LNMC",
+    "local": null
+  },
+  "name": "Monaco Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.725798,
+    "longitude": 7.419673,
+    "elevation_ft": 20,
+    "iso_country": "MC",
+    "iso_region": "MC-U-A",
+    "municipality": "Fontvieille"
+  },
+  "keywords": [
+    "Monte Carlo Heliport",
+    "Heli Air Monaco"
+  ],
+  "wikipedia": "https://en.wikipedia.org/w/index.php?title=Monaco_Heliport&oldid=1139229385",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30153
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_09725",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2PN8",
+    "local": "2PN8"
+  },
+  "name": "Federal Reserve Bank Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.936798,
+    "longitude": -75.150497,
+    "elevation_ft": 167,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philadelphia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9725
+  }
+}

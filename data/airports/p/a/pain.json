@@ -1,0 +1,34 @@
+{
+  "key": "pain",
+  "codes": {
+    "icao": "PAIN",
+    "iata": "MCL",
+    "gps": "PAIN",
+    "local": "INR"
+  },
+  "name": "Denali National Park Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 63.732465,
+    "longitude": -148.911266,
+    "elevation_ft": 1720,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Denali Park"
+  },
+  "keywords": [
+    "5MK",
+    "McKinley National Park Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/McKinley_National_Park_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18169
+  }
+}

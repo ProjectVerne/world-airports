@@ -1,0 +1,33 @@
+{
+  "key": "cyoa",
+  "codes": {
+    "icao": "CYOA",
+    "iata": "YOA",
+    "gps": "CYOA",
+    "local": null
+  },
+  "name": "Ekati Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.698898,
+    "longitude": -110.614998,
+    "elevation_ft": 1536,
+    "iso_country": "CA",
+    "iso_region": "CA-NT",
+    "municipality": "Ekati"
+  },
+  "keywords": [
+    "YOA"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ekati_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1832
+  }
+}

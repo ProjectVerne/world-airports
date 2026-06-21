@@ -1,0 +1,30 @@
+{
+  "key": "_us_09525",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2LL8",
+    "local": "2LL8"
+  },
+  "name": "Washington County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.338726,
+    "longitude": -89.392299,
+    "elevation_ft": 700,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Nashville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9525
+  }
+}

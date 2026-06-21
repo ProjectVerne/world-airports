@@ -1,0 +1,33 @@
+{
+  "key": "pash",
+  "codes": {
+    "icao": "PASH",
+    "iata": "SHH",
+    "gps": "PASH",
+    "local": "SHH"
+  },
+  "name": "Shishmaref Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.249604,
+    "longitude": -166.089112,
+    "elevation_ft": 12,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Shishmaref"
+  },
+  "keywords": [
+    "K09"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shishmaref_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5407
+  }
+}

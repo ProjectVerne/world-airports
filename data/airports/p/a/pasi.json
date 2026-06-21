@@ -1,0 +1,31 @@
+{
+  "key": "pasi",
+  "codes": {
+    "icao": "PASI",
+    "iata": "SIT",
+    "gps": "PASI",
+    "local": "SIT"
+  },
+  "name": "Sitka Rocky Gutierrez Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.0471,
+    "longitude": -135.362,
+    "elevation_ft": 21,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Sitka"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sitka_Rocky_Gutierrez_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5408
+  }
+}

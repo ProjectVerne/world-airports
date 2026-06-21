@@ -1,0 +1,33 @@
+{
+  "key": "kmdh",
+  "codes": {
+    "icao": "KMDH",
+    "iata": "MDH",
+    "gps": "KMDH",
+    "local": "MDH"
+  },
+  "name": "Southern Illinois Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.778099,
+    "longitude": -89.251999,
+    "elevation_ft": 411,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Murphysboro"
+  },
+  "keywords": [
+    "Carbondale"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Southern_Illinois_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3671
+  }
+}

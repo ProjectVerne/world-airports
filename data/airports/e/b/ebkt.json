@@ -1,0 +1,34 @@
+{
+  "key": "ebkt",
+  "codes": {
+    "icao": "EBKT",
+    "iata": "KJK",
+    "gps": "EBKT",
+    "local": null
+  },
+  "name": "Kortrijk-Wevelgem International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.818878,
+    "longitude": 3.209551,
+    "elevation_ft": 55,
+    "iso_country": "BE",
+    "iso_region": "BE-VWV",
+    "municipality": "Wevelgem"
+  },
+  "keywords": [
+    "Kortrijk",
+    "Courtrai"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Flanders_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2161
+  }
+}

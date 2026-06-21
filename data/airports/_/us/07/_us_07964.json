@@ -1,0 +1,32 @@
+{
+  "key": "_us_07964",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "15PS",
+    "local": "15PS"
+  },
+  "name": "Jennersville Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.822576,
+    "longitude": -75.888127,
+    "elevation_ft": 500,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "West Grove"
+  },
+  "keywords": [
+    "Jennersville Regional Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7964
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_17196",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FA01",
+    "local": "FA01"
+  },
+  "name": "St Joseph Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 26.993659,
+    "longitude": -82.095235,
+    "elevation_ft": 13,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Port Charlotte"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17196
+  }
+}

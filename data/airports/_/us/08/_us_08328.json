@@ -1,0 +1,32 @@
+{
+  "key": "_us_08328",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1IA5",
+    "local": "1IA5"
+  },
+  "name": "Story County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.017493,
+    "longitude": -93.453026,
+    "elevation_ft": 995,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Nevada"
+  },
+  "keywords": [
+    "SCH Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8328
+  }
+}

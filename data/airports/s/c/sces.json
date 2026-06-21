@@ -1,0 +1,31 @@
+{
+  "key": "sces",
+  "codes": {
+    "icao": "SCES",
+    "iata": "ESR",
+    "gps": "SCES",
+    "local": null
+  },
+  "name": "Ricardo García Posada Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.3111,
+    "longitude": -69.765198,
+    "elevation_ft": 5240,
+    "iso_country": "CL",
+    "iso_region": "CL-AT",
+    "municipality": "El Salvador"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ricardo_Garc%C3%ADa_Posada_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6017
+  }
+}

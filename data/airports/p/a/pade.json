@@ -1,0 +1,33 @@
+{
+  "key": "pade",
+  "codes": {
+    "icao": "PADE",
+    "iata": "DRG",
+    "gps": "PADE",
+    "local": "DEE"
+  },
+  "name": "Deering Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.068901,
+    "longitude": -162.766914,
+    "elevation_ft": 21,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Deering"
+  },
+  "keywords": [
+    "0Z0"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Deering_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5350
+  }
+}

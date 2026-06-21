@@ -1,0 +1,34 @@
+{
+  "key": "khks",
+  "codes": {
+    "icao": "KHKS",
+    "iata": "HKS",
+    "gps": "KHKS",
+    "local": "HKS"
+  },
+  "name": "Hawkins Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.334499,
+    "longitude": -90.222198,
+    "elevation_ft": 341,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Jackson"
+  },
+  "keywords": [
+    "Davis Field",
+    "Jackson AAB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hawkins_Field_(airport)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20058
+  }
+}

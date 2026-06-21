@@ -1,0 +1,31 @@
+{
+  "key": "ensd",
+  "codes": {
+    "icao": "ENSD",
+    "iata": "SDN",
+    "gps": "ENSD",
+    "local": null
+  },
+  "name": "Sandane Airport, Anda",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.830002,
+    "longitude": 6.10583,
+    "elevation_ft": 196,
+    "iso_country": "NO",
+    "iso_region": "NO-46",
+    "municipality": "Sandane"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sandane_Airport%2C_Anda",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29280
+  }
+}

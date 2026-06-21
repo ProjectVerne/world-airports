@@ -1,0 +1,34 @@
+{
+  "key": "mmmy",
+  "codes": {
+    "icao": "MMMY",
+    "iata": "MTY",
+    "gps": "MMMY",
+    "local": null
+  },
+  "name": "Monterrey International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.778521,
+    "longitude": -100.106989,
+    "elevation_ft": 1278,
+    "iso_country": "MX",
+    "iso_region": "MX-NLE",
+    "municipality": "Monterrey"
+  },
+  "keywords": [
+    "General Mariano Escobedo",
+    "Apodaca"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/General_Mariano_Escobedo_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4732
+  }
+}

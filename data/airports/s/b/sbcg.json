@@ -1,0 +1,31 @@
+{
+  "key": "sbcg",
+  "codes": {
+    "icao": "SBCG",
+    "iata": "CGR",
+    "gps": "SBCG",
+    "local": "MS0001"
+  },
+  "name": "Campo Grande Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.469998,
+    "longitude": -54.673988,
+    "elevation_ft": 1833,
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Campo Grande"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Campo_Grande_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5883
+  }
+}

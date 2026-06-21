@@ -1,0 +1,31 @@
+{
+  "key": "facn",
+  "codes": {
+    "icao": "FACN",
+    "iata": null,
+    "gps": "FACN",
+    "local": null
+  },
+  "name": "Carnarvon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -30.9886,
+    "longitude": 22.131701,
+    "elevation_ft": 4160,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Carnarvon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Carnarvon_Airport_(South_Africa)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29756
+  }
+}

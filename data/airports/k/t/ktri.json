@@ -1,0 +1,31 @@
+{
+  "key": "ktri",
+  "codes": {
+    "icao": "KTRI",
+    "iata": "TRI",
+    "gps": "KTRI",
+    "local": "TRI"
+  },
+  "name": "Tri-Cities Regional TN/VA Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.475201,
+    "longitude": -82.407401,
+    "elevation_ft": 1519,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Blountville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tri-Cities_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3928
+  }
+}

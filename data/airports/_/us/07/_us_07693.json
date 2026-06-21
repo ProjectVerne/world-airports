@@ -1,0 +1,32 @@
+{
+  "key": "_us_07693",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "10TX",
+    "local": "10TX"
+  },
+  "name": "SMC Aerospace Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.8447,
+    "longitude": -97.2239,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Ingleside"
+  },
+  "keywords": [
+    "JBH Aerospace"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7693
+  }
+}

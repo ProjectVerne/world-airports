@@ -1,0 +1,31 @@
+{
+  "key": "cyyd",
+  "codes": {
+    "icao": "CYYD",
+    "iata": "YYD",
+    "gps": "CYYD",
+    "local": null
+  },
+  "name": "Smithers Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.824699,
+    "longitude": -127.182999,
+    "elevation_ft": 1712,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Smithers"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Smithers_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1974
+  }
+}

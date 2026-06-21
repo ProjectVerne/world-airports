@@ -1,0 +1,30 @@
+{
+  "key": "_us_16667",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CD36",
+    "local": "CD36"
+  },
+  "name": "Egnar Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.883301,
+    "longitude": -108.834,
+    "elevation_ft": 8063,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Egnar"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16667
+  }
+}

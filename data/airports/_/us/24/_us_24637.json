@@ -1,0 +1,30 @@
+{
+  "key": "_us_24637",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SN60",
+    "local": "SN60"
+  },
+  "name": "Lcf Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.25,
+    "longitude": -94.9002,
+    "elevation_ft": 760,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Lansing"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24637
+  }
+}

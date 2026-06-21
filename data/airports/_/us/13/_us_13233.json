@@ -1,0 +1,30 @@
+{
+  "key": "_us_13233",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6CO9",
+    "local": "6CO9"
+  },
+  "name": "Salida Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.532799,
+    "longitude": -105.989998,
+    "elevation_ft": 7050,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Salida"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13233
+  }
+}

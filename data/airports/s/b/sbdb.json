@@ -1,0 +1,33 @@
+{
+  "key": "sbdb",
+  "codes": {
+    "icao": "SBDB",
+    "iata": "BYO",
+    "gps": "SBDB",
+    "local": "MS0004"
+  },
+  "name": "Bonito Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -21.2473,
+    "longitude": -56.452399,
+    "elevation_ft": 1180,
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Bonito"
+  },
+  "keywords": [
+    "SJDB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bonito_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44450
+  }
+}

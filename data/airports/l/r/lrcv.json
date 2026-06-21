@@ -1,0 +1,31 @@
+{
+  "key": "lrcv",
+  "codes": {
+    "icao": "LRCV",
+    "iata": "CRA",
+    "gps": "LRCV",
+    "local": null
+  },
+  "name": "Craiova International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.3181,
+    "longitude": 23.888599,
+    "elevation_ft": 626,
+    "iso_country": "RO",
+    "iso_region": "RO-DJ",
+    "municipality": "Craiova"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Craiova_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4479
+  }
+}

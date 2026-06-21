@@ -1,0 +1,34 @@
+{
+  "key": "liql",
+  "codes": {
+    "icao": "LIQL",
+    "iata": null,
+    "gps": "LIQL",
+    "local": "LU02"
+  },
+  "name": "Lucca-Tassignano Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.825825,
+    "longitude": 10.577928,
+    "elevation_ft": 39,
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "Capannori (LU)"
+  },
+  "keywords": [
+    "Enrico Squaglia Airport",
+    "LCV"
+  ],
+  "wikipedia": "http://it.wikipedia.org/wiki/Aeroporto_di_Lucca-Tassignano",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29440
+  }
+}

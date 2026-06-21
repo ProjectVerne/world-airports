@@ -1,0 +1,30 @@
+{
+  "key": "_us_22207",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MO03",
+    "local": "MO03"
+  },
+  "name": "Moders Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.424198,
+    "longitude": -90.582901,
+    "elevation_ft": 465,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "House Springs"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22207
+  }
+}

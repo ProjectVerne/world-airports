@@ -1,0 +1,31 @@
+{
+  "key": "kway",
+  "codes": {
+    "icao": "KWAY",
+    "iata": "WAY",
+    "gps": "KWAY",
+    "local": "WAY"
+  },
+  "name": "Greene County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.90112,
+    "longitude": -80.130733,
+    "elevation_ft": 1069,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Waynesburg"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Greene_County_Airport_(Pennsylvania)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21369
+  }
+}

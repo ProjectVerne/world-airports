@@ -1,0 +1,35 @@
+{
+  "key": "knyl",
+  "codes": {
+    "icao": "KNYL",
+    "iata": "YUM",
+    "gps": "KNYL",
+    "local": "NYL"
+  },
+  "name": "Yuma International Airport / Marine Corps Air Station Yuma",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.650938,
+    "longitude": -114.609375,
+    "elevation_ft": 213,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Yuma"
+  },
+  "keywords": [
+    "Yuma MCAS",
+    "Yuma Marine Corps Air Station",
+    "Formerly KYUM"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yuma_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3961
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "lppm",
+  "codes": {
+    "icao": "LPPM",
+    "iata": "PRM",
+    "gps": "LPPM",
+    "local": null
+  },
+  "name": "Portimão Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.1493,
+    "longitude": -8.58396,
+    "elevation_ft": 5,
+    "iso_country": "PT",
+    "iso_region": "PT-08",
+    "municipality": "Portimão"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Portim%C3%A3o_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4458
+  }
+}

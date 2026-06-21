@@ -1,0 +1,32 @@
+{
+  "key": "_us_508189",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "23NE",
+    "local": "23NE"
+  },
+  "name": "Tony Bob Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.229017,
+    "longitude": -96.740139,
+    "elevation_ft": 1333,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Beatrice"
+  },
+  "keywords": [
+    "US-7586"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 508189
+  }
+}

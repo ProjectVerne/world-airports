@@ -1,0 +1,34 @@
+{
+  "key": "ukdb",
+  "codes": {
+    "icao": "UKDB",
+    "iata": "ERD",
+    "gps": "UKDB",
+    "local": null
+  },
+  "name": "Berdyansk Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.814999,
+    "longitude": 36.758099,
+    "elevation_ft": 171,
+    "iso_country": "UA",
+    "iso_region": "UA-23",
+    "municipality": "Berdyansk"
+  },
+  "keywords": [
+    "УКДБ",
+    "Бердянськ"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Berdyansk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31019
+  }
+}

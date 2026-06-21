@@ -1,0 +1,31 @@
+{
+  "key": "saag",
+  "codes": {
+    "icao": "SAAG",
+    "iata": "GHU",
+    "gps": "SAAG",
+    "local": "GUA"
+  },
+  "name": "Gualeguaychu Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.005567,
+    "longitude": -58.612833,
+    "elevation_ft": 75,
+    "iso_country": "AR",
+    "iso_region": "AR-E",
+    "municipality": "Gualeguaychu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gualeguaych%C3%BA_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5765
+  }
+}

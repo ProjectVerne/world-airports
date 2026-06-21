@@ -1,0 +1,31 @@
+{
+  "key": "sbkp",
+  "codes": {
+    "icao": "SBKP",
+    "iata": "VCP",
+    "gps": "SBKP",
+    "local": "SP0003"
+  },
+  "name": "Viracopos International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.007404,
+    "longitude": -47.134502,
+    "elevation_ft": 2170,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Campinas"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Viracopos-Campinas_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5927
+  }
+}

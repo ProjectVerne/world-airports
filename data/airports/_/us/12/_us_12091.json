@@ -1,0 +1,32 @@
+{
+  "key": "_us_12091",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "56MI",
+    "local": "56MI"
+  },
+  "name": "Beaumont Dearborn Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.28992,
+    "longitude": -83.215767,
+    "elevation_ft": 597,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Dearborn"
+  },
+  "keywords": [
+    "Oakwood Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12091
+  }
+}

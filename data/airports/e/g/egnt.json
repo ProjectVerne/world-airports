@@ -1,0 +1,31 @@
+{
+  "key": "egnt",
+  "codes": {
+    "icao": "EGNT",
+    "iata": "NCL",
+    "gps": "EGNT",
+    "local": null
+  },
+  "name": "Newcastle International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.037958,
+    "longitude": -1.689577,
+    "elevation_ft": 266,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Newcastle upon Tyne, Tyne and Wear"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Newcastle_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2448
+  }
+}

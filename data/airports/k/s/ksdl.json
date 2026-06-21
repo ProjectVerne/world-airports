@@ -1,0 +1,33 @@
+{
+  "key": "ksdl",
+  "codes": {
+    "icao": "KSDL",
+    "iata": "SCF",
+    "gps": "KSDL",
+    "local": "SDL"
+  },
+  "name": "Scottsdale Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.622898,
+    "longitude": -111.911003,
+    "elevation_ft": 1510,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Scottsdale"
+  },
+  "keywords": [
+    "Thunderbird Field #2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Scottsdale_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21045
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_br_37746",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNMP",
+    "local": "SP0882"
+  },
+  "name": "Alvorada Moema Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.601342,
+    "longitude": -46.661366,
+    "elevation_ft": 2690,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Paulo"
+  },
+  "keywords": [
+    "SSYK",
+    "BR-3010"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 37746
+  }
+}

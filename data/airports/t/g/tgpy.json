@@ -1,0 +1,33 @@
+{
+  "key": "tgpy",
+  "codes": {
+    "icao": "TGPY",
+    "iata": "GND",
+    "gps": "TGPY",
+    "local": null
+  },
+  "name": "Maurice Bishop International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.003996,
+    "longitude": -61.785302,
+    "elevation_ft": 41,
+    "iso_country": "GD",
+    "iso_region": "GD-GE",
+    "municipality": "Saint George's"
+  },
+  "keywords": [
+    "Point Salines"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Point_Salines_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6367
+  }
+}

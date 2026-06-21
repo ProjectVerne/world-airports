@@ -1,0 +1,32 @@
+{
+  "key": "_us_21388",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "X05",
+    "local": "X05"
+  },
+  "name": "Pilot Country Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.330299,
+    "longitude": -82.496498,
+    "elevation_ft": 80,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Brooksville"
+  },
+  "keywords": [
+    "KX05"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21388
+  }
+}

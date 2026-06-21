@@ -1,0 +1,32 @@
+{
+  "key": "_us_511323",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Jones East Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.98108,
+    "longitude": -91.51706,
+    "elevation_ft": 101,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Jones"
+  },
+  "keywords": [
+    "US-8081"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 511323
+  }
+}

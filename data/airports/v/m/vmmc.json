@@ -1,0 +1,33 @@
+{
+  "key": "vmmc",
+  "codes": {
+    "icao": "VMMC",
+    "iata": "MFM",
+    "gps": "VMMC",
+    "local": null
+  },
+  "name": "Macau International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.149599,
+    "longitude": 113.592003,
+    "elevation_ft": 20,
+    "iso_country": "MO",
+    "iso_region": "MO-CAR",
+    "municipality": "Nossa Senhora do Carmo"
+  },
+  "keywords": [
+    "澳門國際機場"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Macau_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26589
+  }
+}

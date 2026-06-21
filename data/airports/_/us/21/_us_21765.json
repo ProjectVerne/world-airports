@@ -1,0 +1,32 @@
+{
+  "key": "_us_21765",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA22",
+    "local": "MA22"
+  },
+  "name": "The Beat Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.315128,
+    "longitude": -71.049264,
+    "elevation_ft": 55,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Boston"
+  },
+  "keywords": [
+    "Boston Globe Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21765
+  }
+}

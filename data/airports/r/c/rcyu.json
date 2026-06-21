@@ -1,0 +1,33 @@
+{
+  "key": "rcyu",
+  "codes": {
+    "icao": "RCYU",
+    "iata": "HUN",
+    "gps": "RCYU",
+    "local": null
+  },
+  "name": "Hualien Chiashan Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.023163,
+    "longitude": 121.617991,
+    "elevation_ft": 52,
+    "iso_country": "TW",
+    "iso_region": "TW-HUA",
+    "municipality": "Hualien City"
+  },
+  "keywords": [
+    "花蓮機場"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hualien_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5530
+  }
+}

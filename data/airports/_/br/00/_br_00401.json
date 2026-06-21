@@ -1,0 +1,33 @@
+{
+  "key": "_br_00401",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNXA",
+    "local": "CE0132"
+  },
+  "name": "Brigadeiro Sampaio Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.857619,
+    "longitude": -40.37473,
+    "elevation_ft": 1207,
+    "iso_country": "BR",
+    "iso_region": "BR-CE",
+    "municipality": "Tamboril"
+  },
+  "keywords": [
+    "SNTL",
+    "Tamboril Airport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 401
+  }
+}

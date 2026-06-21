@@ -1,0 +1,30 @@
+{
+  "key": "_us_10555",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3KY8",
+    "local": "3KY8"
+  },
+  "name": "Fidelity Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.027901,
+    "longitude": -84.524399,
+    "elevation_ft": 756,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Covington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10555
+  }
+}

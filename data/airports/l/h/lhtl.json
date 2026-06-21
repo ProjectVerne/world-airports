@@ -1,0 +1,33 @@
+{
+  "key": "lhtl",
+  "codes": {
+    "icao": "LHTL",
+    "iata": null,
+    "gps": "LHTL",
+    "local": null
+  },
+  "name": "Tököl Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.345299,
+    "longitude": 18.980801,
+    "elevation_ft": 318,
+    "iso_country": "HU",
+    "iso_region": "HU-PE",
+    "municipality": "Tököl"
+  },
+  "keywords": [
+    "Tököl Air Base"
+  ],
+  "wikipedia": "https://hu.wikipedia.org/wiki/T%C3%B6k%C3%B6li_rep%C3%BCl%C5%91t%C3%A9r",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30488
+  }
+}

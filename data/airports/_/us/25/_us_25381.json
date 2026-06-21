@@ -1,0 +1,33 @@
+{
+  "key": "_us_25381",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Robertson Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 37.705399,
+    "longitude": -77.372498,
+    "elevation_ft": 193,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Hanover"
+  },
+  "keywords": [
+    "VA49",
+    "US-12344"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25381
+  }
+}

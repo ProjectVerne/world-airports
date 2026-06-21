@@ -1,0 +1,30 @@
+{
+  "key": "_us_12177",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "58MA",
+    "local": "58MA"
+  },
+  "name": "Boston Scientific Marlboro Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.361698,
+    "longitude": -71.508904,
+    "elevation_ft": 390,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Marlboro"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12177
+  }
+}

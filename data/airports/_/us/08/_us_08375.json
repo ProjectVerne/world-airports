@@ -1,0 +1,30 @@
+{
+  "key": "_us_08375",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1JY3",
+    "local": "1JY3"
+  },
+  "name": "Mbna Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.736401,
+    "longitude": -74.1772,
+    "elevation_ft": 97,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Newark"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8375
+  }
+}

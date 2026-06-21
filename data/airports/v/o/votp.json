@@ -1,0 +1,31 @@
+{
+  "key": "votp",
+  "codes": {
+    "icao": "VOTP",
+    "iata": "TIR",
+    "gps": "VOTP",
+    "local": null
+  },
+  "name": "Tirupati International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.631988,
+    "longitude": 79.539869,
+    "elevation_ft": 350,
+    "iso_country": "IN",
+    "iso_region": "IN-AP",
+    "municipality": "Tirupati"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tirupati_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26627
+  }
+}

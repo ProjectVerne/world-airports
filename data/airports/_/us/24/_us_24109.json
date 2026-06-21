@@ -1,0 +1,33 @@
+{
+  "key": "_us_24109",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Echo Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.540298,
+    "longitude": -77.306396,
+    "elevation_ft": 1800,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Morris"
+  },
+  "keywords": [
+    "PN0",
+    "US-12094"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24109
+  }
+}

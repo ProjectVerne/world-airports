@@ -1,0 +1,34 @@
+{
+  "key": "limc",
+  "codes": {
+    "icao": "LIMC",
+    "iata": "MXP",
+    "gps": "LIMC",
+    "local": "MI12"
+  },
+  "name": "Milan Malpensa International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.6306,
+    "longitude": 8.72811,
+    "elevation_ft": 768,
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Ferno (VA)"
+  },
+  "keywords": [
+    "MIL",
+    "Silvio Berlusconi"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Malpensa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4340
+  }
+}

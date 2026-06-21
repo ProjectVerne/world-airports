@@ -1,0 +1,32 @@
+{
+  "key": "_us_07596",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "K0W0",
+    "local": "0W0"
+  },
+  "name": "Seattle Seaplanes Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": 47.632212,
+    "longitude": -122.327653,
+    "elevation_ft": 14,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Seattle"
+  },
+  "keywords": [
+    "Lake Union"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7596
+  }
+}

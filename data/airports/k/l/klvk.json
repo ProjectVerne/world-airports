@@ -1,0 +1,31 @@
+{
+  "key": "klvk",
+  "codes": {
+    "icao": "KLVK",
+    "iata": "LVK",
+    "gps": "KLVK",
+    "local": "LVK"
+  },
+  "name": "Livermore Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.693401,
+    "longitude": -121.82,
+    "elevation_ft": 400,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Livermore"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Livermore_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20384
+  }
+}

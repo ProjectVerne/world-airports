@@ -1,0 +1,30 @@
+{
+  "key": "_us_45900",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01WT",
+    "local": "01WT"
+  },
+  "name": "Odyssey Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.518178,
+    "longitude": -122.210908,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Renton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45900
+  }
+}

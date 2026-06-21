@@ -1,0 +1,30 @@
+{
+  "key": "fmsl",
+  "codes": {
+    "icao": "FMSL",
+    "iata": "OVA",
+    "gps": "FMSL",
+    "local": null
+  },
+  "name": "Bekily Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -24.235695,
+    "longitude": 45.304527,
+    "elevation_ft": 1270,
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Bekily"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32136
+  }
+}

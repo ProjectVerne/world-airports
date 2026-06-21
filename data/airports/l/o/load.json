@@ -1,0 +1,31 @@
+{
+  "key": "load",
+  "codes": {
+    "icao": "LOAD",
+    "iata": null,
+    "gps": "LOAD",
+    "local": null
+  },
+  "name": "Völtendorf Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.160081,
+    "longitude": 15.58677,
+    "elevation_ft": 1063,
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Ober-Grafendorf"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/V%C3%B6ltendorf_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29446
+  }
+}

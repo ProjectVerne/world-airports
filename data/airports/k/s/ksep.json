@@ -1,0 +1,33 @@
+{
+  "key": "ksep",
+  "codes": {
+    "icao": "KSEP",
+    "iata": "SEP",
+    "gps": "KSEP",
+    "local": "SEP"
+  },
+  "name": "Stephenville Clark Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.215302,
+    "longitude": -98.177696,
+    "elevation_ft": 1321,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Stephenville"
+  },
+  "keywords": [
+    "Clark Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stephenville_Clark_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21051
+  }
+}

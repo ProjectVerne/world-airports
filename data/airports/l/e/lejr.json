@@ -1,0 +1,31 @@
+{
+  "key": "lejr",
+  "codes": {
+    "icao": "LEJR",
+    "iata": "XRY",
+    "gps": "LEJR",
+    "local": null
+  },
+  "name": "Jerez Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.744598,
+    "longitude": -6.06011,
+    "elevation_ft": 93,
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Jerez de la Frontera"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jerez_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4015
+  }
+}

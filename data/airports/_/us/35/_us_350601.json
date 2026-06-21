@@ -1,0 +1,32 @@
+{
+  "key": "_us_350601",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Primm Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.61419,
+    "longitude": -115.38044,
+    "elevation_ft": 2628,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Primm"
+  },
+  "keywords": [
+    "US-6058"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 350601
+  }
+}

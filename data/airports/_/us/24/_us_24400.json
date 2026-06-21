@@ -1,0 +1,30 @@
+{
+  "key": "_us_24400",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SC02",
+    "local": "SC02"
+  },
+  "name": "Beaufort County Memorial Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.416901,
+    "longitude": -80.687302,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Beaufort"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24400
+  }
+}

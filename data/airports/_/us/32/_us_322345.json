@@ -1,0 +1,32 @@
+{
+  "key": "_us_322345",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ND10",
+    "local": "ND10"
+  },
+  "name": "Kadrmas Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.991308,
+    "longitude": -102.795222,
+    "elevation_ft": 2532,
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Dickinson"
+  },
+  "keywords": [
+    "US-0456"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322345
+  }
+}

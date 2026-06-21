@@ -1,0 +1,30 @@
+{
+  "key": "_us_15263",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8XS4",
+    "local": "8XS4"
+  },
+  "name": "Patco Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.91904,
+    "longitude": -93.88634,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Port Arthur"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15263
+  }
+}

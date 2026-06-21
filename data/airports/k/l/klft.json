@@ -1,0 +1,31 @@
+{
+  "key": "klft",
+  "codes": {
+    "icao": "KLFT",
+    "iata": "LFT",
+    "gps": "KLFT",
+    "local": "LFT"
+  },
+  "name": "Lafayette Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.205299,
+    "longitude": -91.987602,
+    "elevation_ft": 42,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Lafayette"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lafayette_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3642
+  }
+}

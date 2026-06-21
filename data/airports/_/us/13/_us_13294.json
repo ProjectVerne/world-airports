@@ -1,0 +1,33 @@
+{
+  "key": "_us_13294",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Rummel Restricted Landing Area",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.166698,
+    "longitude": -89.500099,
+    "elevation_ft": 850,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "German Valley"
+  },
+  "keywords": [
+    "6IL3",
+    "US-10545"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13294
+  }
+}

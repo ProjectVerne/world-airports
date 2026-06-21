@@ -1,0 +1,33 @@
+{
+  "key": "_br_05986",
+  "codes": {
+    "icao": null,
+    "iata": "TSQ",
+    "gps": "SSTE",
+    "local": "RS0011"
+  },
+  "name": "Torres Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.4149,
+    "longitude": -49.810001,
+    "elevation_ft": 30,
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Torres"
+  },
+  "keywords": [
+    "SBTR"
+  ],
+  "wikipedia": "https://pt.wikipedia.org/wiki/Aeroporto_de_Torres",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5986
+  }
+}

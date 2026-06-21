@@ -1,0 +1,33 @@
+{
+  "key": "oerk",
+  "codes": {
+    "icao": "OERK",
+    "iata": "RUH",
+    "gps": "OERK",
+    "local": null
+  },
+  "name": "King Khalid International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.9576,
+    "longitude": 46.698799,
+    "elevation_ft": 2049,
+    "iso_country": "SA",
+    "iso_region": "SA-01",
+    "municipality": "Riyadh"
+  },
+  "keywords": [
+    "Riyad"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/King_Khalid_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5112
+  }
+}

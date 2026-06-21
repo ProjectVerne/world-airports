@@ -1,0 +1,30 @@
+{
+  "key": "_us_08545",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1NK1",
+    "local": "1NK1"
+  },
+  "name": "Stone Ridge Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.890598,
+    "longitude": -74.1521,
+    "elevation_ft": 285,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Stone Ridge"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8545
+  }
+}

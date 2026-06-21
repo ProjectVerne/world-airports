@@ -1,0 +1,34 @@
+{
+  "key": "rcfn",
+  "codes": {
+    "icao": "RCFN",
+    "iata": "TTT",
+    "gps": "RCFN",
+    "local": null
+  },
+  "name": "Taitung Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.754856,
+    "longitude": 121.101794,
+    "elevation_ft": 143,
+    "iso_country": "TW",
+    "iso_region": "TW-TTT",
+    "municipality": "Taitung City"
+  },
+  "keywords": [
+    "Fengnian Airport",
+    "台東機場"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Taitung_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5514
+  }
+}

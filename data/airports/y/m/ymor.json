@@ -1,0 +1,31 @@
+{
+  "key": "ymor",
+  "codes": {
+    "icao": "YMOR",
+    "iata": "MRZ",
+    "gps": "YMOR",
+    "local": null
+  },
+  "name": "Moree Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.498899,
+    "longitude": 149.845001,
+    "elevation_ft": 701,
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Moree"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moree_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27072
+  }
+}

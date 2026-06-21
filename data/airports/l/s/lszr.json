@@ -1,0 +1,31 @@
+{
+  "key": "lszr",
+  "codes": {
+    "icao": "LSZR",
+    "iata": "ACH",
+    "gps": "LSZR",
+    "local": null
+  },
+  "name": "Sankt Gallen Altenrhein Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.485001,
+    "longitude": 9.56077,
+    "elevation_ft": 1306,
+    "iso_country": "CH",
+    "iso_region": "CH-SG",
+    "municipality": "St. Gallen"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Gallen-Altenrhein_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4506
+  }
+}

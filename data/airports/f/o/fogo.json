@@ -1,0 +1,31 @@
+{
+  "key": "fogo",
+  "codes": {
+    "icao": "FOGO",
+    "iata": "OYE",
+    "gps": "FOGO",
+    "local": null
+  },
+  "name": "Oyem Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.54311,
+    "longitude": 11.5814,
+    "elevation_ft": 2158,
+    "iso_country": "GA",
+    "iso_region": "GA-9",
+    "municipality": "Oyem"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Oyem_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2959
+  }
+}

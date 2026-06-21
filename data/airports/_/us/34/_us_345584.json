@@ -1,0 +1,32 @@
+{
+  "key": "_us_345584",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TN24",
+    "local": "TN24"
+  },
+  "name": "Wayne Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.325521,
+    "longitude": -87.756708,
+    "elevation_ft": 749,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Waynesboro"
+  },
+  "keywords": [
+    "US-4495"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345584
+  }
+}

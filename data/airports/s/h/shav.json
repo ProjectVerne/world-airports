@@ -1,0 +1,30 @@
+{
+  "key": "shav",
+  "codes": {
+    "icao": "SHAV",
+    "iata": null,
+    "gps": "SHAV",
+    "local": null
+  },
+  "name": "Alta Vista Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -32.621739,
+    "longitude": -71.399487,
+    "elevation_ft": 440,
+    "iso_country": "CL",
+    "iso_region": "CL-VS",
+    "municipality": "Zapallar"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600435
+  }
+}

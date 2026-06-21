@@ -1,0 +1,30 @@
+{
+  "key": "_us_22122",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MN14",
+    "local": "MN14"
+  },
+  "name": "United Hospital District Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.633701,
+    "longitude": -94.100098,
+    "elevation_ft": 1089,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Blue Earth"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22122
+  }
+}

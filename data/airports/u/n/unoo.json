@@ -1,0 +1,33 @@
+{
+  "key": "unoo",
+  "codes": {
+    "icao": "UNOO",
+    "iata": "OMS",
+    "gps": "UNOO",
+    "local": null
+  },
+  "name": "Omsk Central Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.963124,
+    "longitude": 73.312418,
+    "elevation_ft": 311,
+    "iso_country": "RU",
+    "iso_region": "RU-OMS",
+    "municipality": "Omsk"
+  },
+  "keywords": [
+    "Omsk Tsentralny Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tsentralny_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6508
+  }
+}

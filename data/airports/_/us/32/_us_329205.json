@@ -1,0 +1,32 @@
+{
+  "key": "_us_329205",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA66",
+    "local": "MA66"
+  },
+  "name": "Tufts Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.349037,
+    "longitude": -71.063223,
+    "elevation_ft": 230,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Boston"
+  },
+  "keywords": [
+    "US-0960"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 329205
+  }
+}

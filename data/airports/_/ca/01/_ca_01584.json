@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01584",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSZ8",
+    "local": "CSZ8"
+  },
+  "name": "Montréal (Sacré-Coeur) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.533169,
+    "longitude": -73.712431,
+    "elevation_ft": 84,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [
+    "SZ8"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1584
+  }
+}

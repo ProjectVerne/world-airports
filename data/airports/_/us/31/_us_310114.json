@@ -1,0 +1,34 @@
+{
+  "key": "_us_310114",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "07UT",
+    "local": "07UT"
+  },
+  "name": "E Northrop Grumman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.716667,
+    "longitude": -112.447222,
+    "elevation_ft": 4480,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Howell"
+  },
+  "keywords": [
+    "UT23",
+    "Air Force Plant 78 Airfield",
+    "ATK/Thiokol Airport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310114
+  }
+}

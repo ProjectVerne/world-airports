@@ -1,0 +1,33 @@
+{
+  "key": "diap",
+  "codes": {
+    "icao": "DIAP",
+    "iata": "ABJ",
+    "gps": "DIAP",
+    "local": null
+  },
+  "name": "Félix-Houphouët-Boigny International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 5.26139,
+    "longitude": -3.92629,
+    "elevation_ft": 21,
+    "iso_country": "CI",
+    "iso_region": "CI-AB",
+    "municipality": "Abidjan"
+  },
+  "keywords": [
+    "Port Bouët"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/F%C3%A9lix-Houphou%C3%ABt-Boigny_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2096
+  }
+}

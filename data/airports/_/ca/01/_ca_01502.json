@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01502",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSC3",
+    "local": "CSC3"
+  },
+  "name": "Drummondville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.845299,
+    "longitude": -72.394699,
+    "elevation_ft": 365,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Drummondville"
+  },
+  "keywords": [
+    "SC3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Drummondville_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1502
+  }
+}

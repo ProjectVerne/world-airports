@@ -1,0 +1,31 @@
+{
+  "key": "kfet",
+  "codes": {
+    "icao": "KFET",
+    "iata": "FET",
+    "gps": "KFET",
+    "local": "FET"
+  },
+  "name": "Fremont Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.45024,
+    "longitude": -96.522884,
+    "elevation_ft": 1204,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Fremont"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fremont_Municipal_Airport_(Nebraska)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19860
+  }
+}

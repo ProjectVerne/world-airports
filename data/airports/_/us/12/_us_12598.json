@@ -1,0 +1,30 @@
+{
+  "key": "_us_12598",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5OK1",
+    "local": "5OK1"
+  },
+  "name": "Claremore Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.323322,
+    "longitude": -95.605125,
+    "elevation_ft": 620,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Claremore"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12598
+  }
+}

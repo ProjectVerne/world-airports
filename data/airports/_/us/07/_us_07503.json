@@ -1,0 +1,30 @@
+{
+  "key": "_us_07503",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0PS7",
+    "local": "0PS7"
+  },
+  "name": "Harman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.522396,
+    "longitude": -76.846297,
+    "elevation_ft": 720,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Elizabethville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7503
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "cyeu",
+  "codes": {
+    "icao": "CYEU",
+    "iata": "YEU",
+    "gps": "CYEU",
+    "local": null
+  },
+  "name": "Eureka Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 79.994698,
+    "longitude": -85.814201,
+    "elevation_ft": 256,
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Eureka"
+  },
+  "keywords": [
+    "YEU"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Eureka_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1725
+  }
+}

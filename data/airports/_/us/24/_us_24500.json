@@ -1,0 +1,30 @@
+{
+  "key": "_us_24500",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "SD03"
+  },
+  "name": "Calico Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.050249,
+    "longitude": -97.335665,
+    "elevation_ft": 1750,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Winfred"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24500
+  }
+}

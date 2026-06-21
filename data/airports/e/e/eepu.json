@@ -1,0 +1,31 @@
+{
+  "key": "eepu",
+  "codes": {
+    "icao": "EEPU",
+    "iata": "EPU",
+    "gps": "EEPU",
+    "local": null
+  },
+  "name": "Pärnu Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.418999,
+    "longitude": 24.472799,
+    "elevation_ft": 47,
+    "iso_country": "EE",
+    "iso_region": "EE-67",
+    "municipality": "Pärnu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/P%C3%A4rnu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2300
+  }
+}

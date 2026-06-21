@@ -1,0 +1,30 @@
+{
+  "key": "_us_09340",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2CA5",
+    "local": "2CA5"
+  },
+  "name": "Platform Emmy Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.6623,
+    "longitude": -118.044998,
+    "elevation_ft": 87,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Huntington Beach"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9340
+  }
+}

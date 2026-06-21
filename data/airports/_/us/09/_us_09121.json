@@ -1,0 +1,32 @@
+{
+  "key": "_us_09121",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OK36",
+    "local": "OK36"
+  },
+  "name": "Duck Creek Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.882198,
+    "longitude": -96.004402,
+    "elevation_ft": 700,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Mounds"
+  },
+  "keywords": [
+    "26OK"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9121
+  }
+}

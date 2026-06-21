@@ -1,0 +1,32 @@
+{
+  "key": "_us_21675",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LS42",
+    "local": "LS42"
+  },
+  "name": "Acadia General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.226565,
+    "longitude": -92.363985,
+    "elevation_ft": 24,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Crowley"
+  },
+  "keywords": [
+    "American Legion Hospital Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21675
+  }
+}

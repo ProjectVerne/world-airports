@@ -1,0 +1,30 @@
+{
+  "key": "lper",
+  "codes": {
+    "icao": "LPER",
+    "iata": null,
+    "gps": "LPER",
+    "local": null
+  },
+  "name": "Évora Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.567973,
+    "longitude": -7.902436,
+    "elevation_ft": 909,
+    "iso_country": "PT",
+    "iso_region": "PT-07",
+    "municipality": "Évora"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 321243
+  }
+}

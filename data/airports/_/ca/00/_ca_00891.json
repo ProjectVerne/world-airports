@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00891",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CER2",
+    "local": "CER2"
+  },
+  "name": "Castor Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.220925,
+    "longitude": -111.926887,
+    "elevation_ft": 2704,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Castor"
+  },
+  "keywords": [
+    "ER2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Castor_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 891
+  }
+}

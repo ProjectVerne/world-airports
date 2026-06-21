@@ -1,0 +1,34 @@
+{
+  "key": "daas",
+  "codes": {
+    "icao": "DAAS",
+    "iata": "QSF",
+    "gps": "DAAS",
+    "local": null
+  },
+  "name": "Ain Arnat Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.178488,
+    "longitude": 5.329909,
+    "elevation_ft": 3360,
+    "iso_country": "DZ",
+    "iso_region": "DZ-19",
+    "municipality": "Sétif"
+  },
+  "keywords": [
+    "Sétif International Airport",
+    "8 Mai 45 Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ain_Arnat_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32193
+  }
+}

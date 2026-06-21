@@ -1,0 +1,34 @@
+{
+  "key": "kpbi",
+  "codes": {
+    "icao": "KPBI",
+    "iata": "PBI",
+    "gps": "KPBI",
+    "local": "PBI"
+  },
+  "name": "Palm Beach International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.683201,
+    "longitude": -80.095596,
+    "elevation_ft": 19,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "West Palm Beach"
+  },
+  "keywords": [
+    "MFW",
+    "South Florida"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Palm_Beach_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3766
+  }
+}

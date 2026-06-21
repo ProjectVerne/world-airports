@@ -1,0 +1,30 @@
+{
+  "key": "_us_24801",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TA94",
+    "local": "TA94"
+  },
+  "name": "Creech Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.711201,
+    "longitude": -96.557503,
+    "elevation_ft": 420,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Mesquite"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24801
+  }
+}

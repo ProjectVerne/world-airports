@@ -1,0 +1,30 @@
+{
+  "key": "ayov",
+  "codes": {
+    "icao": "AYOV",
+    "iata": "OLQ",
+    "gps": "AYOV",
+    "local": "OLS"
+  },
+  "name": "Olsobip Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.389722,
+    "longitude": 141.515278,
+    "elevation_ft": 1500,
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Olsobip"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 306982
+  }
+}

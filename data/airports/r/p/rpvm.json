@@ -1,0 +1,34 @@
+{
+  "key": "rpvm",
+  "codes": {
+    "icao": "RPVM",
+    "iata": "CEB",
+    "gps": "RPVM",
+    "local": null
+  },
+  "name": "Mactan Cebu International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.309261,
+    "longitude": 123.97974,
+    "elevation_ft": 31,
+    "iso_country": "PH",
+    "iso_region": "PH-CEB",
+    "municipality": "Cebu City/Lapu-Lapu City"
+  },
+  "keywords": [
+    "Mactan Air Base",
+    "Opon Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mactan-Cebu_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5742
+  }
+}

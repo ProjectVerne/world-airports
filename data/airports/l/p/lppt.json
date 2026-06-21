@@ -1,0 +1,34 @@
+{
+  "key": "lppt",
+  "codes": {
+    "icao": "LPPT",
+    "iata": "LIS",
+    "gps": "LPPT",
+    "local": null
+  },
+  "name": "Lisbon Humberto Delgado Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.7813,
+    "longitude": -9.13592,
+    "elevation_ft": 374,
+    "iso_country": "PT",
+    "iso_region": "PT-11",
+    "municipality": "Lisbon"
+  },
+  "keywords": [
+    "Lisboa",
+    "Portela"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lisbon_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4461
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "leda",
+  "codes": {
+    "icao": "LEDA",
+    "iata": "ILD",
+    "gps": "LEDA",
+    "local": null
+  },
+  "name": "Lleida-Alguaire Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.728185,
+    "longitude": 0.535023,
+    "elevation_ft": 1152,
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Lleida"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lleida-Alguaire_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308328
+  }
+}

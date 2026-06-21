@@ -1,0 +1,34 @@
+{
+  "key": "eghq",
+  "codes": {
+    "icao": "EGHQ",
+    "iata": "NQY",
+    "gps": "EGHQ",
+    "local": null
+  },
+  "name": "Cornwall Airport Newquay",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.440601,
+    "longitude": -4.99541,
+    "elevation_ft": 390,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Newquay"
+  },
+  "keywords": [
+    "St Mawgan",
+    "EGDG"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Newquay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2404
+  }
+}

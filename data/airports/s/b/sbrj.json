@@ -1,0 +1,33 @@
+{
+  "key": "sbrj",
+  "codes": {
+    "icao": "SBRJ",
+    "iata": "SDU",
+    "gps": "SBRJ",
+    "local": "RJ0002"
+  },
+  "name": "Santos Dumont Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.910397,
+    "longitude": -43.16282,
+    "elevation_ft": 11,
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Rio de Janeiro"
+  },
+  "keywords": [
+    "RIO"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Santos_Dumont_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5967
+  }
+}

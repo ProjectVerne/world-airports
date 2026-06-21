@@ -1,0 +1,30 @@
+{
+  "key": "_us_45346",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2FA8",
+    "local": "2FA8"
+  },
+  "name": "Central Florida Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.813459,
+    "longitude": -81.283189,
+    "elevation_ft": 17,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Sanford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45346
+  }
+}

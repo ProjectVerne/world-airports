@@ -1,0 +1,30 @@
+{
+  "key": "_us_45520",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2VE2",
+    "local": "2VE2"
+  },
+  "name": "Spring Valley Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.091026,
+    "longitude": -115.239359,
+    "elevation_ft": 2375,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Las Vegas"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45520
+  }
+}

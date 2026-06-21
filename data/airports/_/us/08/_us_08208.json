@@ -1,0 +1,30 @@
+{
+  "key": "_us_08208",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1AZ3",
+    "local": "1AZ3"
+  },
+  "name": "Arizona State Prison Safford Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.830014,
+    "longitude": -109.564335,
+    "elevation_ft": 3000,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Safford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8208
+  }
+}

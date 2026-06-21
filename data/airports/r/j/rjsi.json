@@ -1,0 +1,33 @@
+{
+  "key": "rjsi",
+  "codes": {
+    "icao": "RJSI",
+    "iata": "HNA",
+    "gps": "RJSI",
+    "local": null
+  },
+  "name": "Iwate Hanamaki Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.4286,
+    "longitude": 141.134995,
+    "elevation_ft": 297,
+    "iso_country": "JP",
+    "iso_region": "JP-03",
+    "municipality": "Hanamaki"
+  },
+  "keywords": [
+    "Morioka"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hanamaki_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5610
+  }
+}

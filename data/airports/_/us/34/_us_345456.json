@@ -1,0 +1,32 @@
+{
+  "key": "_us_345456",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1TX1",
+    "local": "1TX1"
+  },
+  "name": "Dallas Cowboys Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.745287,
+    "longitude": -97.094212,
+    "elevation_ft": 565,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Arlington"
+  },
+  "keywords": [
+    "US-4473"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345456
+  }
+}

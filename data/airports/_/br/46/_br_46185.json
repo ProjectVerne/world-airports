@@ -1,0 +1,33 @@
+{
+  "key": "_br_46185",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "SSDR"
+  },
+  "name": "Eletrocity Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -20.207646,
+    "longitude": -40.234916,
+    "elevation_ft": 75,
+    "iso_country": "BR",
+    "iso_region": "BR-ES",
+    "municipality": "Serra"
+  },
+  "keywords": [
+    "SSDR",
+    "BR-3221"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46185
+  }
+}

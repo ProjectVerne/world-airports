@@ -1,0 +1,30 @@
+{
+  "key": "_us_07243",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0IS2",
+    "local": "0IS2"
+  },
+  "name": "Evanston/Glenbrook Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.093102,
+    "longitude": -87.8526,
+    "elevation_ft": 678,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Glenview"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7243
+  }
+}

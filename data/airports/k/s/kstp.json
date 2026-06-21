@@ -1,0 +1,33 @@
+{
+  "key": "kstp",
+  "codes": {
+    "icao": "KSTP",
+    "iata": "STP",
+    "gps": "KSTP",
+    "local": "STP"
+  },
+  "name": "Saint Paul Downtown Holman Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.93479,
+    "longitude": -93.060036,
+    "elevation_ft": 705,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Saint Paul"
+  },
+  "keywords": [
+    "St Paul"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St._Paul_Downtown_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3906
+  }
+}

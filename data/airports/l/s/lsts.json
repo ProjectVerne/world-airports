@@ -1,0 +1,34 @@
+{
+  "key": "lsts",
+  "codes": {
+    "icao": "LSTS",
+    "iata": null,
+    "gps": "LSTS",
+    "local": null
+  },
+  "name": "Sankt Stephan Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.497398,
+    "longitude": 7.41257,
+    "elevation_ft": 3304,
+    "iso_country": "CH",
+    "iso_region": "CH-BE",
+    "municipality": "Sankt Stephan"
+  },
+  "keywords": [
+    "Flugplatz St Stephan",
+    "St Stephan"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_St._Stephan",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4501
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "umli",
+  "codes": {
+    "icao": "UMLI",
+    "iata": null,
+    "gps": "UMLI",
+    "local": null
+  },
+  "name": "Minsk Machulishchy Air Base",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.77344,
+    "longitude": 27.577411,
+    "elevation_ft": 699,
+    "iso_country": "BY",
+    "iso_region": "BY-MI",
+    "municipality": "Minsk"
+  },
+  "keywords": [
+    "Minsk Machulishchi Airport",
+    "Аэрапорт Мачулішчы",
+    "Аэропорт Мачулищи"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Machulishchy_(air_base)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30140
+  }
+}

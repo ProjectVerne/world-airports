@@ -1,0 +1,31 @@
+{
+  "key": "efma",
+  "codes": {
+    "icao": "EFMA",
+    "iata": "MHQ",
+    "gps": "EFMA",
+    "local": null
+  },
+  "name": "Mariehamn Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.1222,
+    "longitude": 19.898199,
+    "elevation_ft": 17,
+    "iso_country": "FI",
+    "iso_region": "FI-01",
+    "municipality": "Mariehamn"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mariehamn_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2330
+  }
+}

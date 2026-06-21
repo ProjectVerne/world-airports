@@ -1,0 +1,30 @@
+{
+  "key": "_us_10544",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3KS6",
+    "local": "3KS6"
+  },
+  "name": "St Mary Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.201801,
+    "longitude": -96.6008,
+    "elevation_ft": 1150,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Manhattan"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10544
+  }
+}

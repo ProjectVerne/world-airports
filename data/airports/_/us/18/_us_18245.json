@@ -1,0 +1,30 @@
+{
+  "key": "_us_18245",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS94",
+    "local": "IS94"
+  },
+  "name": "Johnson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.605598,
+    "longitude": -88.661201,
+    "elevation_ft": 667,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Sandwich"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18245
+  }
+}

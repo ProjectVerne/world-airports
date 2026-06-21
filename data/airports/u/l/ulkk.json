@@ -1,0 +1,33 @@
+{
+  "key": "ulkk",
+  "codes": {
+    "icao": "ULKK",
+    "iata": "KSZ",
+    "gps": "ULKK",
+    "local": null
+  },
+  "name": "Kotlas Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.235802,
+    "longitude": 46.697498,
+    "elevation_ft": 184,
+    "iso_country": "RU",
+    "iso_region": "RU-ARK",
+    "municipality": "Kotlas"
+  },
+  "keywords": [
+    "Аэропорт Котлас"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kotlas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31780
+  }
+}

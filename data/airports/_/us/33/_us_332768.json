@@ -1,0 +1,32 @@
+{
+  "key": "_us_332768",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "65WI",
+    "local": "65WI"
+  },
+  "name": "STOL Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.691873,
+    "longitude": -92.680278,
+    "elevation_ft": 980,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Prescott"
+  },
+  "keywords": [
+    "US-1159"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 332768
+  }
+}

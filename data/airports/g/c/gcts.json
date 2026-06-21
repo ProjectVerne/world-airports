@@ -1,0 +1,35 @@
+{
+  "key": "gcts",
+  "codes": {
+    "icao": "GCTS",
+    "iata": "TFS",
+    "gps": "GCTS",
+    "local": null
+  },
+  "name": "Tenerife Sur Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.0445,
+    "longitude": -16.5725,
+    "elevation_ft": 209,
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "Tenerife"
+  },
+  "keywords": [
+    "Reina Sofía",
+    "TCI",
+    "Tenerife South"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tenerife%E2%80%93South_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3083
+  }
+}

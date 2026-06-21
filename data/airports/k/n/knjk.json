@@ -1,0 +1,34 @@
+{
+  "key": "knjk",
+  "codes": {
+    "icao": "KNJK",
+    "iata": "NJK",
+    "gps": "KNJK",
+    "local": "NJK"
+  },
+  "name": "El Centro NAF Airport (Vraciu Field)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.829201,
+    "longitude": -115.671996,
+    "elevation_ft": -42,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "El Centro"
+  },
+  "keywords": [
+    "Naval Air Facility El Centro",
+    "MCAS El Centro"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Facility_El_Centro",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3731
+  }
+}

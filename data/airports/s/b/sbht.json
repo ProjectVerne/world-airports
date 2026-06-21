@@ -1,0 +1,31 @@
+{
+  "key": "sbht",
+  "codes": {
+    "icao": "SBHT",
+    "iata": "ATM",
+    "gps": "SBHT",
+    "local": "PA0003"
+  },
+  "name": "Altamira Interstate Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.253144,
+    "longitude": -52.253938,
+    "elevation_ft": 368,
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Altamira"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Altamira_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5914
+  }
+}

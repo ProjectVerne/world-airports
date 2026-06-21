@@ -1,0 +1,35 @@
+{
+  "key": "ucfm",
+  "codes": {
+    "icao": "UCFM",
+    "iata": "BSZ",
+    "gps": "UCFM",
+    "local": null
+  },
+  "name": "Manas International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.061298,
+    "longitude": 74.4776,
+    "elevation_ft": 2058,
+    "iso_country": "KG",
+    "iso_region": "KG-C",
+    "municipality": "Bishkek"
+  },
+  "keywords": [
+    "FRU",
+    "UAFM",
+    "Manas Air Force Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6426
+  }
+}

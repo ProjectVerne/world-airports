@@ -1,0 +1,30 @@
+{
+  "key": "ayuy",
+  "codes": {
+    "icao": "AYUY",
+    "iata": "KUX",
+    "gps": "AYUY",
+    "local": "KYL"
+  },
+  "name": "Kuyol Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.372361,
+    "longitude": 141.623889,
+    "elevation_ft": 3290,
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 302386
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ntga",
+  "codes": {
+    "icao": "NTGA",
+    "iata": "AAA",
+    "gps": "NTGA",
+    "local": null
+  },
+  "name": "Anaa Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -17.3526,
+    "longitude": -145.509995,
+    "elevation_ft": 10,
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Anaa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Anaa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4983
+  }
+}

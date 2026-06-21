@@ -1,0 +1,33 @@
+{
+  "key": "lsgg",
+  "codes": {
+    "icao": "LSGG",
+    "iata": "GVA",
+    "gps": "LSGG",
+    "local": null
+  },
+  "name": "Geneva International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.238098,
+    "longitude": 6.10895,
+    "elevation_ft": 1411,
+    "iso_country": "CH",
+    "iso_region": "CH-GE",
+    "municipality": "Geneva"
+  },
+  "keywords": [
+    "Cointrin Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Geneva_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4490
+  }
+}

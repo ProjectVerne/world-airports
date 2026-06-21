@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01425",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPK7",
+    "local": "CPK7"
+  },
+  "name": "Ottawa (Children's Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.400982,
+    "longitude": -75.650129,
+    "elevation_ft": 272,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Ottawa"
+  },
+  "keywords": [
+    "PK7"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1425
+  }
+}

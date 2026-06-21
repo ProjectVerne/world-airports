@@ -1,0 +1,30 @@
+{
+  "key": "_us_325470",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "28MD",
+    "local": "28MD"
+  },
+  "name": "Fedex Field Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.908774,
+    "longitude": -76.866934,
+    "elevation_ft": 190,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Landover"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325470
+  }
+}

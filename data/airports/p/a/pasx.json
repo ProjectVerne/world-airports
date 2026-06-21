@@ -1,0 +1,31 @@
+{
+  "key": "pasx",
+  "codes": {
+    "icao": "PASX",
+    "iata": "SXQ",
+    "gps": "PASX",
+    "local": "SXQ"
+  },
+  "name": "Soldotna Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.474935,
+    "longitude": -151.038471,
+    "elevation_ft": 113,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Soldotna"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Soldotna_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5412
+  }
+}

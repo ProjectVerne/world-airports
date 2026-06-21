@@ -1,0 +1,32 @@
+{
+  "key": "_us_322104",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "10CL",
+    "local": "10CL"
+  },
+  "name": "Centerport Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.671692,
+    "longitude": -117.874761,
+    "elevation_ft": 83,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Costa Mesa"
+  },
+  "keywords": [
+    "US-0404"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322104
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "mpda",
+  "codes": {
+    "icao": "MPDA",
+    "iata": "DAV",
+    "gps": "MPDA",
+    "local": null
+  },
+  "name": "Enrique Malek International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.388983,
+    "longitude": -82.436425,
+    "elevation_ft": 89,
+    "iso_country": "PA",
+    "iso_region": "PA-4",
+    "municipality": "David"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Enrique_Malek_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4789
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "cyvr",
+  "codes": {
+    "icao": "CYVR",
+    "iata": "YVR",
+    "gps": "CYVR",
+    "local": null
+  },
+  "name": "Vancouver International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.193901,
+    "longitude": -123.183998,
+    "elevation_ft": 14,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Vancouver"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vancouver_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1941
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01410",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPG8",
+    "local": "CPG8"
+  },
+  "name": "Chatham (Public General Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.403599,
+    "longitude": -82.193298,
+    "elevation_ft": 593,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Chatham"
+  },
+  "keywords": [
+    "PG8"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1410
+  }
+}

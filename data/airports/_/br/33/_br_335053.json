@@ -1,0 +1,33 @@
+{
+  "key": "_br_335053",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Aurora Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -22.486438,
+    "longitude": -46.988257,
+    "elevation_ft": 2165,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Moji-Mirim"
+  },
+  "keywords": [
+    "SSTR",
+    "BR-0743"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 335053
+  }
+}

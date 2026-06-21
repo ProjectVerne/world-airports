@@ -1,0 +1,31 @@
+{
+  "key": "fnch",
+  "codes": {
+    "icao": "FNCH",
+    "iata": "PGI",
+    "gps": "FNCH",
+    "local": null
+  },
+  "name": "Chitato Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.35889,
+    "longitude": 20.804701,
+    "elevation_ft": 2500,
+    "iso_country": "AO",
+    "iso_region": "AO-LNO",
+    "municipality": "Chitato"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chitato_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32157
+  }
+}

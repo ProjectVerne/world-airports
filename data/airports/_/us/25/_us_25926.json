@@ -1,0 +1,33 @@
+{
+  "key": "_us_25926",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Prescott Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 43.483601,
+    "longitude": -89.2948,
+    "elevation_ft": 875,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Wyocena"
+  },
+  "keywords": [
+    "WS32",
+    "US-12431"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25926
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "esem",
+  "codes": {
+    "icao": "ESEM",
+    "iata": null,
+    "gps": "ESEM",
+    "local": null
+  },
+  "name": "Lund Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 55.711762,
+    "longitude": 13.198793,
+    "elevation_ft": 352,
+    "iso_country": "SE",
+    "iso_region": "SE-M",
+    "municipality": "Lund"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300955
+  }
+}

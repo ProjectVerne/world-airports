@@ -1,0 +1,33 @@
+{
+  "key": "skeb",
+  "codes": {
+    "icao": "SKEB",
+    "iata": "EBG",
+    "gps": "SKEB",
+    "local": "EBG"
+  },
+  "name": "El Bagre Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.59647,
+    "longitude": -74.8089,
+    "elevation_ft": 180,
+    "iso_country": "CO",
+    "iso_region": "CO-ANT",
+    "municipality": "El Bagre"
+  },
+  "keywords": [
+    "El Tomin Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Bagre_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6116
+  }
+}

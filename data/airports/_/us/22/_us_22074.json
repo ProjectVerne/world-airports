@@ -1,0 +1,30 @@
+{
+  "key": "_us_22074",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MI61",
+    "local": "MI61"
+  },
+  "name": "Henry Ford Wyandotte Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.208401,
+    "longitude": -83.144203,
+    "elevation_ft": 578,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Wyandotte"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22074
+  }
+}

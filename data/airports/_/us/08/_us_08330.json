@@ -1,0 +1,30 @@
+{
+  "key": "_us_08330",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1IA7",
+    "local": "1IA7"
+  },
+  "name": "University of Iowa Hospitals & Clinic Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.66,
+    "longitude": -91.547699,
+    "elevation_ft": 840,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Iowa City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8330
+  }
+}

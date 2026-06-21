@@ -1,0 +1,33 @@
+{
+  "key": "lhud",
+  "codes": {
+    "icao": "LHUD",
+    "iata": null,
+    "gps": "LHUD",
+    "local": null
+  },
+  "name": "Szeged Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.245127,
+    "longitude": 20.092217,
+    "elevation_ft": 249,
+    "iso_country": "HU",
+    "iso_region": "HU-CS",
+    "municipality": "Szeged"
+  },
+  "keywords": [
+    "QZD"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Szeged_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30454
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ksee",
+  "codes": {
+    "icao": "KSEE",
+    "iata": "SEE",
+    "gps": "KSEE",
+    "local": "SEE"
+  },
+  "name": "Gillespie Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.826199,
+    "longitude": -116.972,
+    "elevation_ft": 388,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Diego/El Cajon"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gillespie_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21047
+  }
+}

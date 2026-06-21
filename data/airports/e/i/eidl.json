@@ -1,0 +1,33 @@
+{
+  "key": "eidl",
+  "codes": {
+    "icao": "EIDL",
+    "iata": "CFN",
+    "gps": "EIDL",
+    "local": null
+  },
+  "name": "Donegal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.044201,
+    "longitude": -8.341,
+    "elevation_ft": 30,
+    "iso_country": "IE",
+    "iso_region": "IE-DL",
+    "municipality": "Donegal"
+  },
+  "keywords": [
+    "Gweedore"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Donegal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2532
+  }
+}

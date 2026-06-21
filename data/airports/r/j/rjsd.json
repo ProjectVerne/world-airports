@@ -1,0 +1,31 @@
+{
+  "key": "rjsd",
+  "codes": {
+    "icao": "RJSD",
+    "iata": "SDS",
+    "gps": "RJSD",
+    "local": null
+  },
+  "name": "Sado Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.0602,
+    "longitude": 138.414001,
+    "elevation_ft": 88,
+    "iso_country": "JP",
+    "iso_region": "JP-15",
+    "municipality": "Sado"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sado_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5607
+  }
+}

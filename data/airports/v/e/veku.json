@@ -1,0 +1,33 @@
+{
+  "key": "veku",
+  "codes": {
+    "icao": "VEKU",
+    "iata": "IXS",
+    "gps": "VEKU",
+    "local": null
+  },
+  "name": "Silchar Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.912901,
+    "longitude": 92.978699,
+    "elevation_ft": 352,
+    "iso_country": "IN",
+    "iso_region": "IN-AS",
+    "municipality": "Silchar"
+  },
+  "keywords": [
+    "Kumbhigram Air Force Station"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Silchar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26509
+  }
+}

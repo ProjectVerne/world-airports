@@ -1,0 +1,30 @@
+{
+  "key": "_us_07097",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0AZ6",
+    "local": "0AZ6"
+  },
+  "name": "St Joseph's Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.482963,
+    "longitude": -112.079301,
+    "elevation_ft": 1213,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Phoenix"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7097
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_23981",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA10",
+    "local": "PA10"
+  },
+  "name": "Penn Highlands Healthcare - Du Bois Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.114438,
+    "longitude": -78.773983,
+    "elevation_ft": 1467,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Du Bois"
+  },
+  "keywords": [
+    "Du Bois Regional Medical Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23981
+  }
+}

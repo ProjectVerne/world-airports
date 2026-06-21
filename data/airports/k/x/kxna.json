@@ -1,0 +1,34 @@
+{
+  "key": "kxna",
+  "codes": {
+    "icao": "KXNA",
+    "iata": "XNA",
+    "gps": "KXNA",
+    "local": "XNA"
+  },
+  "name": "Northwest Arkansas National Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.281898,
+    "longitude": -94.306801,
+    "elevation_ft": 1287,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Fayetteville/Springdale/Rogers"
+  },
+  "keywords": [
+    "Bentonville",
+    "Rogers"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Northwest_Arkansas_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21410
+  }
+}

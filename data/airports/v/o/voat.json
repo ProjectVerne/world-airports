@@ -1,0 +1,31 @@
+{
+  "key": "voat",
+  "codes": {
+    "icao": "VOAT",
+    "iata": "AGX",
+    "gps": "VOAT",
+    "local": null
+  },
+  "name": "Agatti Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.8237,
+    "longitude": 72.176003,
+    "elevation_ft": 14,
+    "iso_country": "IN",
+    "iso_region": "IN-LD",
+    "municipality": "Agatti"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Agatti_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26602
+  }
+}

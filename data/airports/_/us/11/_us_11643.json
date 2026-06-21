@@ -1,0 +1,33 @@
+{
+  "key": "_us_11643",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "St Thomas Hospital Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.096699,
+    "longitude": -81.515404,
+    "elevation_ft": 983,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Akron"
+  },
+  "keywords": [
+    "4OH5",
+    "US-10229"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11643
+  }
+}

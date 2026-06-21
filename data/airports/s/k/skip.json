@@ -1,0 +1,31 @@
+{
+  "key": "skip",
+  "codes": {
+    "icao": "SKIP",
+    "iata": "IPI",
+    "gps": "SKIP",
+    "local": "IPI"
+  },
+  "name": "San Luis Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 0.861946,
+    "longitude": -77.671783,
+    "elevation_ft": 9765,
+    "iso_country": "CO",
+    "iso_region": "CO-NAR",
+    "municipality": "Ipiales"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Luis_Airport_(Colombia)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6126
+  }
+}

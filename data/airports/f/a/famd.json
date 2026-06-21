@@ -1,0 +1,31 @@
+{
+  "key": "famd",
+  "codes": {
+    "icao": "FAMD",
+    "iata": "AAM",
+    "gps": "FAMD",
+    "local": null
+  },
+  "name": "Malamala Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -24.816866,
+    "longitude": 31.544085,
+    "elevation_ft": 1124,
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Malamala"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mala_Mala_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2808
+  }
+}

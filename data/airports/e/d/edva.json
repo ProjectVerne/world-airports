@@ -1,0 +1,33 @@
+{
+  "key": "edva",
+  "codes": {
+    "icao": "EDVA",
+    "iata": null,
+    "gps": "EDVA",
+    "local": null
+  },
+  "name": "Bad Gandersheim Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.854168,
+    "longitude": 10.025556,
+    "elevation_ft": 791,
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Bad Gandersheim"
+  },
+  "keywords": [
+    "Gandersheim-Seesen"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bad_Gandersheim_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28511
+  }
+}

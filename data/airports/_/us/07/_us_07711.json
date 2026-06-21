@@ -1,0 +1,33 @@
+{
+  "key": "_us_07711",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Riddle Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 42.18375,
+    "longitude": -116.1167,
+    "elevation_ft": 5356,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Riddle"
+  },
+  "keywords": [
+    "11ID",
+    "US-9554"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7711
+  }
+}

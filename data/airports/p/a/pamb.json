@@ -1,0 +1,33 @@
+{
+  "key": "pamb",
+  "codes": {
+    "icao": "PAMB",
+    "iata": "KMO",
+    "gps": "PAMB",
+    "local": "MBA"
+  },
+  "name": "Manokotak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.932056,
+    "longitude": -158.901886,
+    "elevation_ft": 107,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Manokotak"
+  },
+  "keywords": [
+    "17Z"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Manokotak_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21843
+  }
+}

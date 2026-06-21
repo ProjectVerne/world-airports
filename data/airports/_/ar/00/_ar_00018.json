@@ -1,0 +1,32 @@
+{
+  "key": "_ar_00018",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SA06",
+    "local": "SSR"
+  },
+  "name": "Santa Rita Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -35.8283,
+    "longitude": -60.1467,
+    "elevation_ft": 177,
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Saladillo"
+  },
+  "keywords": [
+    "SA06"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "sges",
+  "codes": {
+    "icao": "SGES",
+    "iata": "AGT",
+    "gps": "SGES",
+    "local": null
+  },
+  "name": "Guaraní International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.457186,
+    "longitude": -54.839544,
+    "elevation_ft": 846,
+    "iso_country": "PY",
+    "iso_region": "PY-10",
+    "municipality": "Ciudad del Este"
+  },
+  "keywords": [
+    "Aeropuerto Internacional Guaraní"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Guarani_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6091
+  }
+}

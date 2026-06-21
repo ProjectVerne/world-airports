@@ -1,0 +1,34 @@
+{
+  "key": "ward",
+  "codes": {
+    "icao": "WARD",
+    "iata": "DHX",
+    "gps": "WARD",
+    "local": null
+  },
+  "name": "Dhoho International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.749527,
+    "longitude": 111.946831,
+    "elevation_ft": 380,
+    "iso_country": "ID",
+    "iso_region": "ID-JI",
+    "municipality": "Kediri"
+  },
+  "keywords": [
+    "Dhoho",
+    "ID-0277"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dhoho_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 507227
+  }
+}

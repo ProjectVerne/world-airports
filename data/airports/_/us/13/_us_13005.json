@@ -1,0 +1,30 @@
+{
+  "key": "_us_13005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "65OR",
+    "local": "65OR"
+  },
+  "name": "Timberland Shop Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.205399,
+    "longitude": -122.634003,
+    "elevation_ft": 2100,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Ashland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 13005
+  }
+}

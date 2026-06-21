@@ -1,0 +1,32 @@
+{
+  "key": "_us_345056",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CO86",
+    "local": "CO86"
+  },
+  "name": "John Galt Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.636389,
+    "longitude": -105.050833,
+    "elevation_ft": 5100,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Fort Collins"
+  },
+  "keywords": [
+    "US-4327"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345056
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "huks",
+  "codes": {
+    "icao": "HUKS",
+    "iata": "KSE",
+    "gps": "HUKS",
+    "local": null
+  },
+  "name": "Kasese Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 0.183,
+    "longitude": 30.1,
+    "elevation_ft": 3146,
+    "iso_country": "UG",
+    "iso_region": "UG-W",
+    "municipality": "Kasese"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kasese_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31776
+  }
+}

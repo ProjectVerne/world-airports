@@ -1,0 +1,32 @@
+{
+  "key": "zyyc",
+  "codes": {
+    "icao": "ZYYC",
+    "iata": null,
+    "gps": "ZYYC",
+    "local": null
+  },
+  "name": "Yichun Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.717936,
+    "longitude": 128.830519,
+    "elevation_ft": 798,
+    "iso_country": "CN",
+    "iso_region": "CN-23",
+    "municipality": "Yichun"
+  },
+  "keywords": [
+    "LDS"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600625
+  }
+}

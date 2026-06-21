@@ -1,0 +1,31 @@
+{
+  "key": "phup",
+  "codes": {
+    "icao": "PHUP",
+    "iata": "UPP",
+    "gps": "PHUP",
+    "local": "UPP"
+  },
+  "name": "Upolu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.265301,
+    "longitude": -155.860001,
+    "elevation_ft": 96,
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Hawi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Upolu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5458
+  }
+}

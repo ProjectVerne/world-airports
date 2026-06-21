@@ -1,0 +1,32 @@
+{
+  "key": "_us_14476",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "7XS8",
+    "local": "7XS8"
+  },
+  "name": "Lift Crane Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.638095,
+    "longitude": -95.456963,
+    "elevation_ft": 65,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [
+    "Houston Police Department Southwest Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 14476
+  }
+}

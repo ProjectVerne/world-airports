@@ -1,0 +1,30 @@
+{
+  "key": "skeh",
+  "codes": {
+    "icao": "SKEH",
+    "iata": "ECR",
+    "gps": "SKEH",
+    "local": "ECR"
+  },
+  "name": "El Charco Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 2.449444,
+    "longitude": -78.094167,
+    "elevation_ft": 25,
+    "iso_country": "CO",
+    "iso_region": "CO-NAR",
+    "municipality": "El Charco"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41084
+  }
+}

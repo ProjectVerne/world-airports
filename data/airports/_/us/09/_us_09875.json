@@ -1,0 +1,30 @@
+{
+  "key": "_us_09875",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2WV6",
+    "local": "2WV6"
+  },
+  "name": "West Virginia State Police Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.053101,
+    "longitude": -80.724701,
+    "elevation_ft": 682,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Wheeling"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9875
+  }
+}

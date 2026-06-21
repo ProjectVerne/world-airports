@@ -1,0 +1,30 @@
+{
+  "key": "lilu",
+  "codes": {
+    "icao": "LILU",
+    "iata": null,
+    "gps": "LILU",
+    "local": null
+  },
+  "name": "Ferrero Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.701988,
+    "longitude": 8.020256,
+    "elevation_ft": 544,
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "Alba (CN)"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 602742
+  }
+}

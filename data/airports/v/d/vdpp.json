@@ -1,0 +1,33 @@
+{
+  "key": "vdpp",
+  "codes": {
+    "icao": "VDPP",
+    "iata": "PNH",
+    "gps": "VDPP",
+    "local": null
+  },
+  "name": "Phnom Penh International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.547155,
+    "longitude": 104.844699,
+    "elevation_ft": 40,
+    "iso_country": "KH",
+    "iso_region": "KH-12",
+    "municipality": "Phnom Penh (Pou Senchey)"
+  },
+  "keywords": [
+    "Pochentong International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Phnom_Penh_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26475
+  }
+}

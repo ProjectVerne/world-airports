@@ -1,0 +1,30 @@
+{
+  "key": "_us_334333",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA02",
+    "local": "MA02"
+  },
+  "name": "MSP GHQ Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.296594,
+    "longitude": -71.415831,
+    "elevation_ft": 203,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Framingham"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 334333
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "faas",
+  "codes": {
+    "icao": "FAAS",
+    "iata": null,
+    "gps": "FAAS",
+    "local": null
+  },
+  "name": "Ashton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.837978,
+    "longitude": 20.049838,
+    "elevation_ft": 525,
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Ashton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41298
+  }
+}

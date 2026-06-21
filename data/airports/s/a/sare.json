@@ -1,0 +1,31 @@
+{
+  "key": "sare",
+  "codes": {
+    "icao": "SARE",
+    "iata": "RES",
+    "gps": "SARE",
+    "local": "SIS"
+  },
+  "name": "Resistencia International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.44991,
+    "longitude": -59.056125,
+    "elevation_ft": 173,
+    "iso_country": "AR",
+    "iso_region": "AR-H",
+    "municipality": "Resistencia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Resistencia_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5804
+  }
+}

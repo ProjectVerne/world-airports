@@ -1,0 +1,31 @@
+{
+  "key": "hkga",
+  "codes": {
+    "icao": "HKGA",
+    "iata": "GAS",
+    "gps": "HKGA",
+    "local": null
+  },
+  "name": "Garissa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.463508,
+    "longitude": 39.6483,
+    "elevation_ft": 475,
+    "iso_country": "KE",
+    "iso_region": "KE-07",
+    "municipality": "Garissa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Garissa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31514
+  }
+}

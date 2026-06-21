@@ -1,0 +1,33 @@
+{
+  "key": "_us_21001",
+  "codes": {
+    "icao": null,
+    "iata": "MDJ",
+    "gps": "KS33",
+    "local": "S33"
+  },
+  "name": "Madras Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.6702,
+    "longitude": -121.154999,
+    "elevation_ft": 2437,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Madras"
+  },
+  "keywords": [
+    "City-County Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Madras_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21001
+  }
+}

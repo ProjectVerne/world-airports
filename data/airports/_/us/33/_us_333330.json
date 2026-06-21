@@ -1,0 +1,32 @@
+{
+  "key": "_us_333330",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CA96",
+    "local": "CA96"
+  },
+  "name": "Saint Agnes Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.835911,
+    "longitude": -119.764797,
+    "elevation_ft": 450,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Fresno"
+  },
+  "keywords": [
+    "US-1186"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333330
+  }
+}

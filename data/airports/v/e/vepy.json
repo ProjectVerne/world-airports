@@ -1,0 +1,33 @@
+{
+  "key": "vepy",
+  "codes": {
+    "icao": "VEPY",
+    "iata": "PYG",
+    "gps": "VEPY",
+    "local": null
+  },
+  "name": "Pakyong Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.2313,
+    "longitude": 88.587196,
+    "elevation_ft": 4590,
+    "iso_country": "IN",
+    "iso_region": "IN-SK",
+    "municipality": "Pakyong"
+  },
+  "keywords": [
+    "IN-0012"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pakyong_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44362
+  }
+}

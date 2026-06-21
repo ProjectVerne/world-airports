@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01595",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CTG2",
+    "local": "CTG2"
+  },
+  "name": "Montreal / St-Hubert Helicraft",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.531919,
+    "longitude": -73.410864,
+    "elevation_ft": 96,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [
+    "TG2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1595
+  }
+}

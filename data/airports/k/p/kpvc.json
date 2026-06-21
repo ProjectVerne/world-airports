@@ -1,0 +1,31 @@
+{
+  "key": "kpvc",
+  "codes": {
+    "icao": "KPVC",
+    "iata": "PVC",
+    "gps": "KPVC",
+    "local": "PVC"
+  },
+  "name": "Provincetown Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.071899,
+    "longitude": -70.221397,
+    "elevation_ft": 9,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Provincetown"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Provincetown_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20885
+  }
+}

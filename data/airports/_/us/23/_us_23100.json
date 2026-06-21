@@ -1,0 +1,30 @@
+{
+  "key": "_us_23100",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NJ55",
+    "local": "NJ55"
+  },
+  "name": "Greely Helipad Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.316799,
+    "longitude": -74.032898,
+    "elevation_ft": 25,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Fort Monmouth"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23100
+  }
+}

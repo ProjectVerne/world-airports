@@ -1,0 +1,30 @@
+{
+  "key": "_us_324715",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CN30",
+    "local": "CN30"
+  },
+  "name": "Oceanside Fire Department Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.211584,
+    "longitude": -117.354166,
+    "elevation_ft": 30,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Oceanside"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 324715
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "svab",
+  "codes": {
+    "icao": "SVAB",
+    "iata": null,
+    "gps": "SVAB",
+    "local": null
+  },
+  "name": "Antabare Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.484817,
+    "longitude": -62.893938,
+    "elevation_ft": 1204,
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Campamento  Arekuna"
+  },
+  "keywords": [
+    "SVTE"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40318
+  }
+}

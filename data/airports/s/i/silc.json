@@ -1,0 +1,31 @@
+{
+  "key": "silc",
+  "codes": {
+    "icao": "SILC",
+    "iata": "LVR",
+    "gps": "SILC",
+    "local": "MT0025"
+  },
+  "name": "Municipal Bom Futuro Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -13.037861,
+    "longitude": -55.95025,
+    "elevation_ft": 1358,
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Lucas do Rio Verde"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lucas_do_Rio_Verde_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36081
+  }
+}

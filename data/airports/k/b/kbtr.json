@@ -1,0 +1,31 @@
+{
+  "key": "kbtr",
+  "codes": {
+    "icao": "KBTR",
+    "iata": "BTR",
+    "gps": "KBTR",
+    "local": "BTR"
+  },
+  "name": "Baton Rouge Metropolitan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.533199,
+    "longitude": -91.149597,
+    "elevation_ft": 70,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Baton Rouge"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Baton_Rouge_Metropolitan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3429
+  }
+}

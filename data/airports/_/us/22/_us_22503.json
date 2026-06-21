@@ -1,0 +1,32 @@
+{
+  "key": "_us_22503",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "V.A. Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.6423,
+    "longitude": -90.230698,
+    "elevation_ft": 550,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "St Louis"
+  },
+  "keywords": [
+    "MU06"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22503
+  }
+}

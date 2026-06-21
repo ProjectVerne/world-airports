@@ -1,0 +1,31 @@
+{
+  "key": "limp",
+  "codes": {
+    "icao": "LIMP",
+    "iata": "PMF",
+    "gps": "LIMP",
+    "local": "PR03"
+  },
+  "name": "Parma Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.826351,
+    "longitude": 10.29705,
+    "elevation_ft": 161,
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Parma (PR)"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Parma_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4347
+  }
+}

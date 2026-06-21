@@ -1,0 +1,34 @@
+{
+  "key": "warp",
+  "codes": {
+    "icao": "WARP",
+    "iata": null,
+    "gps": "WARP",
+    "local": null
+  },
+  "name": "Pagerungan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.956515,
+    "longitude": 115.931107,
+    "elevation_ft": 13,
+    "iso_country": "ID",
+    "iso_region": "ID-JI",
+    "municipality": "Sapeken"
+  },
+  "keywords": [
+    "West Java Islands",
+    "Pagerungan Besar",
+    "Torohhiga"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3266
+  }
+}

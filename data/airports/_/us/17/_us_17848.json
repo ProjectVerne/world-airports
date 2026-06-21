@@ -1,0 +1,30 @@
+{
+  "key": "_us_17848",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID71",
+    "local": "ID71"
+  },
+  "name": "Big Country Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.6931,
+    "longitude": -116.783997,
+    "elevation_ft": 2223,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Coeur D'Alene"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17848
+  }
+}

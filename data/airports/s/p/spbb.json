@@ -1,0 +1,31 @@
+{
+  "key": "spbb",
+  "codes": {
+    "icao": "SPBB",
+    "iata": "MBP",
+    "gps": "SPBB",
+    "local": null
+  },
+  "name": "Moyobamba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.018889,
+    "longitude": -76.988327,
+    "elevation_ft": 2749,
+    "iso_country": "PE",
+    "iso_region": "PE-SAM",
+    "municipality": "Moyobamba"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moyobamba_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31883
+  }
+}

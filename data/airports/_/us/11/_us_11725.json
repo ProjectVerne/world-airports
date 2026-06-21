@@ -1,0 +1,30 @@
+{
+  "key": "_us_11725",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4TE5",
+    "local": "4TE5"
+  },
+  "name": "Dell City Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.933399,
+    "longitude": -105.200996,
+    "elevation_ft": 3700,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dell City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11725
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "phog",
+  "codes": {
+    "icao": "PHOG",
+    "iata": "OGG",
+    "gps": "PHOG",
+    "local": "OGG"
+  },
+  "name": "Kahului International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.896263,
+    "longitude": -156.431837,
+    "elevation_ft": 54,
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Kahului"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kahului_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5455
+  }
+}

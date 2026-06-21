@@ -1,0 +1,33 @@
+{
+  "key": "sarf",
+  "codes": {
+    "icao": "SARF",
+    "iata": "FMA",
+    "gps": "SARF",
+    "local": "FSA"
+  },
+  "name": "Formosa National Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.2127,
+    "longitude": -58.2281,
+    "elevation_ft": 193,
+    "iso_country": "AR",
+    "iso_region": "AR-P",
+    "municipality": "Formosa"
+  },
+  "keywords": [
+    "Aeropuerto Nacional de Formosa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Formosa_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5805
+  }
+}

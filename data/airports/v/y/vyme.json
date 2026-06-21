@@ -1,0 +1,31 @@
+{
+  "key": "vyme",
+  "codes": {
+    "icao": "VYME",
+    "iata": "MGZ",
+    "gps": "VYME",
+    "local": null
+  },
+  "name": "Myeik Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.4398,
+    "longitude": 98.621498,
+    "elevation_ft": 75,
+    "iso_country": "MM",
+    "iso_region": "MM-05",
+    "municipality": "Mkeik"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Myeik_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26728
+  }
+}

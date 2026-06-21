@@ -1,0 +1,32 @@
+{
+  "key": "_us_07798",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Channel Two Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.690201,
+    "longitude": -95.527702,
+    "elevation_ft": 72,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [
+    "12TA"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7798
+  }
+}

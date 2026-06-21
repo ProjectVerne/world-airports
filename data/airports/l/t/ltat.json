@@ -1,0 +1,31 @@
+{
+  "key": "ltat",
+  "codes": {
+    "icao": "LTAT",
+    "iata": "MLX",
+    "gps": "LTAT",
+    "local": null
+  },
+  "name": "Malatya Erhaç Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.435299,
+    "longitude": 38.091,
+    "elevation_ft": 2828,
+    "iso_country": "TR",
+    "iso_region": "TR-44",
+    "municipality": "Malatya"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Erha%C3%A7_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4522
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_26185",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "XA50",
+    "local": "XA50"
+  },
+  "name": "UT Health East Texas Quitman Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.797133,
+    "longitude": -95.443831,
+    "elevation_ft": 400,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Quitman"
+  },
+  "keywords": [
+    "ETMC - Quitman"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26185
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_22361",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MS60",
+    "local": "MS60"
+  },
+  "name": "Lundys Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.454599,
+    "longitude": -88.9375,
+    "elevation_ft": 22,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Biloxi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22361
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "swmw",
+  "codes": {
+    "icao": "SWMW",
+    "iata": "MBZ",
+    "gps": "SWMW",
+    "local": "SWMW"
+  },
+  "name": "Maués Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.37217,
+    "longitude": -57.7248,
+    "elevation_ft": 69,
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Maués"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mau%C3%A9s_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 562
+  }
+}

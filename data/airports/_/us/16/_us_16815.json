@@ -1,0 +1,30 @@
+{
+  "key": "_us_16815",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CL96",
+    "local": "CL96"
+  },
+  "name": "Vaca Valley Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.355701,
+    "longitude": -121.950996,
+    "elevation_ft": 110,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Vacaville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16815
+  }
+}

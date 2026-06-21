@@ -1,0 +1,30 @@
+{
+  "key": "_us_23740",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OI96",
+    "local": "OI96"
+  },
+  "name": "National Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.935101,
+    "longitude": -82.831802,
+    "elevation_ft": 798,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Columbus"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23740
+  }
+}

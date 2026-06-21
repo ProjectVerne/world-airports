@@ -1,0 +1,33 @@
+{
+  "key": "_us_24880",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Haven Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 32.327099,
+    "longitude": -96.840201,
+    "elevation_ft": 595,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Waxahachie"
+  },
+  "keywords": [
+    "TE72",
+    "US-12229"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24880
+  }
+}

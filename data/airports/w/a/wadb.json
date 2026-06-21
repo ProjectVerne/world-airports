@@ -1,0 +1,37 @@
+{
+  "key": "wadb",
+  "codes": {
+    "icao": "WADB",
+    "iata": "BMU",
+    "gps": "WADB",
+    "local": null
+  },
+  "name": "Sultan Muhammad Salahuddin Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.537184,
+    "longitude": 118.685002,
+    "elevation_ft": 3,
+    "iso_country": "ID",
+    "iso_region": "ID-NB",
+    "municipality": "Bima"
+  },
+  "keywords": [
+    "WRRB",
+    "PBW",
+    "Palibelo Airport",
+    "Bima",
+    "Raba Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bima_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26750
+  }
+}

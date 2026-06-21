@@ -1,0 +1,32 @@
+{
+  "key": "_us_329282",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "24MI",
+    "local": "24MI"
+  },
+  "name": "SSJ Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.440114,
+    "longitude": -85.416805,
+    "elevation_ft": 947,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Hickory Corners"
+  },
+  "keywords": [
+    "US-0969"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 329282
+  }
+}

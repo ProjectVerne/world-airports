@@ -1,0 +1,30 @@
+{
+  "key": "_us_17528",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "GA55",
+    "local": "GA55"
+  },
+  "name": "Northside Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.909843,
+    "longitude": -84.355688,
+    "elevation_ft": 1050,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Atlanta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17528
+  }
+}

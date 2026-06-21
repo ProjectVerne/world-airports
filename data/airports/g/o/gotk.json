@@ -1,0 +1,31 @@
+{
+  "key": "gotk",
+  "codes": {
+    "icao": "GOTK",
+    "iata": "KGG",
+    "gps": "GOTK",
+    "local": null
+  },
+  "name": "Kédougou Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.5723,
+    "longitude": -12.2203,
+    "elevation_ft": 584,
+    "iso_country": "SN",
+    "iso_region": "SN-TC",
+    "municipality": "Kédougou"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/K%C3%A9dougou_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3128
+  }
+}

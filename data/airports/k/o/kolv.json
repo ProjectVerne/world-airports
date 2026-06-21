@@ -1,0 +1,31 @@
+{
+  "key": "kolv",
+  "codes": {
+    "icao": "KOLV",
+    "iata": "OLV",
+    "gps": "KOLV",
+    "local": "OLV"
+  },
+  "name": "Olive Branch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.978699,
+    "longitude": -89.786903,
+    "elevation_ft": 402,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Olive Branch"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Olive_Branch_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20742
+  }
+}

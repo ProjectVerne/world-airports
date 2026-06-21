@@ -1,0 +1,35 @@
+{
+  "key": "_ca_01454",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Smith Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 43.775179,
+    "longitude": -80.228119,
+    "elevation_ft": 1450,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Orton"
+  },
+  "keywords": [
+    "PS7",
+    "CPS7",
+    "CA-1088"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Orton/Smith_Field_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1454
+  }
+}

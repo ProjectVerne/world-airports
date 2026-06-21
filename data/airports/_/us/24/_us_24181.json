@@ -1,0 +1,30 @@
+{
+  "key": "_us_24181",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PN74",
+    "local": "PN74"
+  },
+  "name": "Hilltop Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.782001,
+    "longitude": -76.806297,
+    "elevation_ft": 1370,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Troy"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24181
+  }
+}

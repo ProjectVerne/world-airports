@@ -1,0 +1,30 @@
+{
+  "key": "ydix",
+  "codes": {
+    "icao": "YDIX",
+    "iata": "DXD",
+    "gps": "YDIX",
+    "local": null
+  },
+  "name": "Dixie Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -15.117494,
+    "longitude": 143.31605,
+    "elevation_ft": 580,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "New Dixie"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27509
+  }
+}

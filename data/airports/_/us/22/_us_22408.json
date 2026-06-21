@@ -1,0 +1,30 @@
+{
+  "key": "_us_22408",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MT10",
+    "local": "MT10"
+  },
+  "name": "Riverside Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.215514,
+    "longitude": -114.298047,
+    "elevation_ft": 2930,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Kalispell"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22408
+  }
+}

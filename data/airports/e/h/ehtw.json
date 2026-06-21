@@ -1,0 +1,31 @@
+{
+  "key": "ehtw",
+  "codes": {
+    "icao": "EHTW",
+    "iata": "ENS",
+    "gps": "EHTW",
+    "local": null
+  },
+  "name": "Twente Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.275833,
+    "longitude": 6.889167,
+    "elevation_ft": 114,
+    "iso_country": "NL",
+    "iso_region": "NL-OV",
+    "municipality": "Enschede"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Enschede_Airport_Twente",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2526
+  }
+}

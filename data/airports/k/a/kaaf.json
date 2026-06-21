@@ -1,0 +1,34 @@
+{
+  "key": "kaaf",
+  "codes": {
+    "icao": "KAAF",
+    "iata": "AAF",
+    "gps": "KAAF",
+    "local": "AAF"
+  },
+  "name": "Apalachicola Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.727501,
+    "longitude": -85.027496,
+    "elevation_ft": 20,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Apalachicola"
+  },
+  "keywords": [
+    "AQQ",
+    "KAQQ"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Apalachicola_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19224
+  }
+}

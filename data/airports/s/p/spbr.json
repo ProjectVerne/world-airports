@@ -1,0 +1,31 @@
+{
+  "key": "spbr",
+  "codes": {
+    "icao": "SPBR",
+    "iata": "IBP",
+    "gps": "SPBR",
+    "local": null
+  },
+  "name": "Iberia Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -11.4116,
+    "longitude": -69.488701,
+    "elevation_ft": 750,
+    "iso_country": "PE",
+    "iso_region": "PE-MDD",
+    "municipality": "Iberia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Iberia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6204
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "uklr",
+  "codes": {
+    "icao": "UKLR",
+    "iata": "RWN",
+    "gps": "UKLR",
+    "local": null
+  },
+  "name": "Rivne International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.607101,
+    "longitude": 26.1416,
+    "elevation_ft": 755,
+    "iso_country": "UA",
+    "iso_region": "UA-19",
+    "municipality": "Rivne"
+  },
+  "keywords": [
+    "Міжнародний аеропорт \"Рівне\""
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rivne_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6483
+  }
+}

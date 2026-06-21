@@ -1,0 +1,30 @@
+{
+  "key": "faer",
+  "codes": {
+    "icao": "FAER",
+    "iata": "ELL",
+    "gps": "FAER",
+    "local": null
+  },
+  "name": "Ellisras Matimba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.7267,
+    "longitude": 27.688299,
+    "elevation_ft": 2799,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Ellisras"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29846
+  }
+}

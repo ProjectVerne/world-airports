@@ -1,0 +1,33 @@
+{
+  "key": "_br_36104",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "FIC Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": -22.709689,
+    "longitude": -47.139101,
+    "elevation_ft": 1985,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Paulínea"
+  },
+  "keywords": [
+    "SIMC",
+    "BR-2439"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36104
+  }
+}

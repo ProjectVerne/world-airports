@@ -1,0 +1,31 @@
+{
+  "key": "sscn",
+  "codes": {
+    "icao": "SSCN",
+    "iata": "CEL",
+    "gps": "SSCN",
+    "local": "RS0019"
+  },
+  "name": "Canela Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.370091,
+    "longitude": -50.831729,
+    "elevation_ft": 2746,
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Canela"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Canela_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 442
+  }
+}

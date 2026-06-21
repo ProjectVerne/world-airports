@@ -1,0 +1,35 @@
+{
+  "key": "godk",
+  "codes": {
+    "icao": "GODK",
+    "iata": "KDA",
+    "gps": "GODK",
+    "local": null
+  },
+  "name": "Kolda Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.898604,
+    "longitude": -14.968322,
+    "elevation_ft": 121,
+    "iso_country": "SN",
+    "iso_region": "SN-KD",
+    "municipality": "Kolda"
+  },
+  "keywords": [
+    "GODK",
+    "Kolda/Sare",
+    "Kolda North"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kolda_North_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6197
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_11008",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "42NJ",
+    "local": "42NJ"
+  },
+  "name": "Inspira Elmer Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.589204,
+    "longitude": -75.181541,
+    "elevation_ft": 95,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Elmer"
+  },
+  "keywords": [
+    "Elmer Community Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11008
+  }
+}

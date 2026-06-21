@@ -1,0 +1,32 @@
+{
+  "key": "_us_322142",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TX73",
+    "local": "TX73"
+  },
+  "name": "Patients Emergency Room Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.822253,
+    "longitude": -94.902306,
+    "elevation_ft": 28,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Baytown"
+  },
+  "keywords": [
+    "US-0414"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322142
+  }
+}

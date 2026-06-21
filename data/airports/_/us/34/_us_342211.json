@@ -1,0 +1,32 @@
+{
+  "key": "_us_342211",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Myer Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 35.04,
+    "longitude": -118.162,
+    "elevation_ft": 2704,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Mojave"
+  },
+  "keywords": [
+    "US-3337"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 342211
+  }
+}

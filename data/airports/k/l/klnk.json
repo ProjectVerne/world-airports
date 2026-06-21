@@ -1,0 +1,36 @@
+{
+  "key": "klnk",
+  "codes": {
+    "icao": "KLNK",
+    "iata": "LNK",
+    "gps": "KLNK",
+    "local": "LNK"
+  },
+  "name": "Lincoln Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.844882,
+    "longitude": -96.76178,
+    "elevation_ft": 1219,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Lincoln"
+  },
+  "keywords": [
+    "Lincoln Army Air Field",
+    "Lincoln Air Force Base",
+    "155th Air Refueling Wing",
+    "Lincoln Municpal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lincoln_Airport_%28Nebraska%29",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3647
+  }
+}

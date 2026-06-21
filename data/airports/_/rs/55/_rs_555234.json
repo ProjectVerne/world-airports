@@ -1,0 +1,32 @@
+{
+  "key": "_rs_555234",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "BIA (Security Information Agency) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.76119,
+    "longitude": 20.46897,
+    "elevation_ft": 633,
+    "iso_country": "RS",
+    "iso_region": "RS-00",
+    "municipality": "Beograd (Belgrade)"
+  },
+  "keywords": [
+    "RS-0036"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 555234
+  }
+}

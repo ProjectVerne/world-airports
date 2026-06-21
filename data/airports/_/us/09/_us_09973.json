@@ -1,0 +1,32 @@
+{
+  "key": "_us_09973",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "31NC",
+    "local": "31NC"
+  },
+  "name": "NH HMC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.406792,
+    "longitude": -80.859071,
+    "elevation_ft": 753,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Huntersville"
+  },
+  "keywords": [
+    "Presbyterian Hospital Huntersville Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9973
+  }
+}

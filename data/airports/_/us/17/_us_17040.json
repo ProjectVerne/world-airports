@@ -1,0 +1,30 @@
+{
+  "key": "_us_17040",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT86",
+    "local": "CT86"
+  },
+  "name": "Sanford Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.433998,
+    "longitude": -72.393997,
+    "elevation_ft": 300,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "East Haddam"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17040
+  }
+}

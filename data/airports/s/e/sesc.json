@@ -1,0 +1,31 @@
+{
+  "key": "sesc",
+  "codes": {
+    "icao": "SESC",
+    "iata": "SUQ",
+    "gps": "SESC",
+    "local": null
+  },
+  "name": "Sucúa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.474201,
+    "longitude": -78.169041,
+    "elevation_ft": 3116,
+    "iso_country": "EC",
+    "iso_region": "EC-S",
+    "municipality": "Sucúa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Suc%C3%BAa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32391
+  }
+}

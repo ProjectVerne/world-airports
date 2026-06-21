@@ -1,0 +1,36 @@
+{
+  "key": "rpmq",
+  "codes": {
+    "icao": "RPMQ",
+    "iata": "MXI",
+    "gps": "RPMQ",
+    "local": null
+  },
+  "name": "Mati National Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.949091,
+    "longitude": 126.27368,
+    "elevation_ft": 156,
+    "iso_country": "PH",
+    "iso_region": "PH-DAO",
+    "municipality": "Mati"
+  },
+  "keywords": [
+    "Mati",
+    "Imelda R. Marcos",
+    "Tugpahanan sa Mati",
+    "Paliparan ng Mati"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mati_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5708
+  }
+}

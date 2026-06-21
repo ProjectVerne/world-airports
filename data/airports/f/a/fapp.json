@@ -1,0 +1,36 @@
+{
+  "key": "fapp",
+  "codes": {
+    "icao": "FAPP",
+    "iata": "PTG",
+    "gps": "FAPP",
+    "local": null
+  },
+  "name": "Polokwane International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.845269,
+    "longitude": 29.458615,
+    "elevation_ft": 4076,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Polokwane"
+  },
+  "keywords": [
+    "FAPB",
+    "AFB Pietersburg",
+    "Pietersburg International Airport",
+    "Gateway International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Polokwane_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2827
+  }
+}

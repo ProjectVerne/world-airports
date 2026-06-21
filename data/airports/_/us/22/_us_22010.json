@@ -1,0 +1,30 @@
+{
+  "key": "_us_22010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ME96",
+    "local": "ME96"
+  },
+  "name": "Clark Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.733601,
+    "longitude": -70.486397,
+    "elevation_ft": 250,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Gorham"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22010
+  }
+}

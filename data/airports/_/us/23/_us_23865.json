@@ -1,0 +1,30 @@
+{
+  "key": "_us_23865",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OR15",
+    "local": "OR15"
+  },
+  "name": "Horseman Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.146801,
+    "longitude": -121.371002,
+    "elevation_ft": 3420,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Bend"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23865
+  }
+}

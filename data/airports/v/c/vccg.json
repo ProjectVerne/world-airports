@@ -1,0 +1,34 @@
+{
+  "key": "vccg",
+  "codes": {
+    "icao": "VCCG",
+    "iata": "ADP",
+    "gps": "VCCG",
+    "local": null
+  },
+  "name": "Ampara Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.336745,
+    "longitude": 81.623869,
+    "elevation_ft": 150,
+    "iso_country": "LK",
+    "iso_region": "LK-5",
+    "municipality": "Ampara"
+  },
+  "keywords": [
+    "GOY",
+    "Gal Oya Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Amparai_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26467
+  }
+}

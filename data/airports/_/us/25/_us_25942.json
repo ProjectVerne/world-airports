@@ -1,0 +1,30 @@
+{
+  "key": "_us_25942",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WS48",
+    "local": "WS48"
+  },
+  "name": "Memorial Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.133301,
+    "longitude": -90.707901,
+    "elevation_ft": 684,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Boscobel"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25942
+  }
+}

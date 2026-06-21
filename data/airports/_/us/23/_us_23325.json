@@ -1,0 +1,30 @@
+{
+  "key": "_us_23325",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NV14",
+    "local": "NV14"
+  },
+  "name": "Juniper Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.355499,
+    "longitude": -114.230003,
+    "elevation_ft": 5400,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Montello"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23325
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "sndt",
+  "codes": {
+    "icao": "SNDT",
+    "iata": "DTI",
+    "gps": "SNDT",
+    "local": null
+  },
+  "name": "Diamantina Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -18.232,
+    "longitude": -43.650398,
+    "elevation_ft": 4446,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Diamantina"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Diamantina_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 299
+  }
+}

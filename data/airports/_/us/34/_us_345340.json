@@ -1,0 +1,30 @@
+{
+  "key": "_us_345340",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8KY2",
+    "local": "8KY2"
+  },
+  "name": "LRFO Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.964014,
+    "longitude": -84.371856,
+    "elevation_ft": 938,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Lexington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345340
+  }
+}

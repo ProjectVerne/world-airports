@@ -1,0 +1,30 @@
+{
+  "key": "nfcs",
+  "codes": {
+    "icao": "NFCS",
+    "iata": "CST",
+    "gps": "NFCS",
+    "local": null
+  },
+  "name": "Castaway Island Seaplane Base",
+  "type": "seaplane_base",
+  "status": "open",
+  "location": {
+    "latitude": -17.7358,
+    "longitude": 177.129,
+    "elevation_ft": 0,
+    "iso_country": "FJ",
+    "iso_region": "FJ-W",
+    "municipality": "Castaway Island"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 312330
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_24901",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE93",
+    "local": "TE93"
+  },
+  "name": "Staggs Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.771801,
+    "longitude": -97.739998,
+    "elevation_ft": 1050,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Weatherford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24901
+  }
+}

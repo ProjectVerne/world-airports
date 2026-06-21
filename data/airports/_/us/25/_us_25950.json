@@ -1,0 +1,30 @@
+{
+  "key": "_us_25950",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WS56",
+    "local": "WS56"
+  },
+  "name": "St Nicholas Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.761398,
+    "longitude": -87.749001,
+    "elevation_ft": 680,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Sheboygan"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25950
+  }
+}

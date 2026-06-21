@@ -1,0 +1,30 @@
+{
+  "key": "_ca_00705",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBP3",
+    "local": "CBP3"
+  },
+  "name": "Fernie (Elk Valley Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.512858,
+    "longitude": -115.056179,
+    "elevation_ft": 3300,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Fernie"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 705
+  }
+}

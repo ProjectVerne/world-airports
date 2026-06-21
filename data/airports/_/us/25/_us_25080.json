@@ -1,0 +1,30 @@
+{
+  "key": "_us_25080",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS64",
+    "local": "TS64"
+  },
+  "name": "Kimi Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.7085,
+    "longitude": -96.560303,
+    "elevation_ft": 440,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Mesquite"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25080
+  }
+}

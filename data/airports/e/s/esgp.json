@@ -1,0 +1,34 @@
+{
+  "key": "esgp",
+  "codes": {
+    "icao": "ESGP",
+    "iata": "GSE",
+    "gps": "ESGP",
+    "local": null
+  },
+  "name": "Säve Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 57.7747,
+    "longitude": 11.8704,
+    "elevation_ft": 59,
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Göteborg"
+  },
+  "keywords": [
+    "Göteborg City Airport",
+    "Gothenburg City Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A4ve_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2652
+  }
+}

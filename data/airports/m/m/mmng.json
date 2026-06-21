@@ -1,0 +1,31 @@
+{
+  "key": "mmng",
+  "codes": {
+    "icao": "MMNG",
+    "iata": "NOG",
+    "gps": "MMNG",
+    "local": null
+  },
+  "name": "Nogales International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.225756,
+    "longitude": -110.976934,
+    "elevation_ft": 3990,
+    "iso_country": "MX",
+    "iso_region": "MX-SON",
+    "municipality": "Nogales"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nogales_International_Airport_(Mexico)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4734
+  }
+}

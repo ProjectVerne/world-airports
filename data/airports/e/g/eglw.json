@@ -1,0 +1,31 @@
+{
+  "key": "eglw",
+  "codes": {
+    "icao": "EGLW",
+    "iata": null,
+    "gps": "EGLW",
+    "local": null
+  },
+  "name": "London Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.46992,
+    "longitude": -0.179538,
+    "elevation_ft": 18,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "London"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/London_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43211
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "pava",
+  "codes": {
+    "icao": "PAVA",
+    "iata": "VAK",
+    "gps": "PAVA",
+    "local": "VAK"
+  },
+  "name": "Chevak Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.5409,
+    "longitude": -165.6005,
+    "elevation_ft": 75,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Chevak"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chevak_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25432
+  }
+}

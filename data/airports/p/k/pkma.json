@@ -1,0 +1,31 @@
+{
+  "key": "pkma",
+  "codes": {
+    "icao": "PKMA",
+    "iata": "ENT",
+    "gps": "PKMA",
+    "local": null
+  },
+  "name": "Eniwetok Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.3407,
+    "longitude": 162.328003,
+    "elevation_ft": 13,
+    "iso_country": "MH",
+    "iso_region": "MH-ENI",
+    "municipality": "Eniwetok Atoll"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Enewetak_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5487
+  }
+}

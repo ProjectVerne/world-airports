@@ -1,0 +1,30 @@
+{
+  "key": "_br_35543",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDHB",
+    "local": "SP0342"
+  },
+  "name": "Bradesco Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.548456,
+    "longitude": -46.769035,
+    "elevation_ft": 2474,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Osasco"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35543
+  }
+}

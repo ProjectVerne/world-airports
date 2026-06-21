@@ -1,0 +1,31 @@
+{
+  "key": "_us_17065",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KD20",
+    "local": "D20"
+  },
+  "name": "Yale Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.111072,
+    "longitude": -82.786725,
+    "elevation_ft": 814,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Yale"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yale_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17065
+  }
+}

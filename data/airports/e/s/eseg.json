@@ -1,0 +1,30 @@
+{
+  "key": "eseg",
+  "codes": {
+    "icao": "ESEG",
+    "iata": null,
+    "gps": "ESEG",
+    "local": null
+  },
+  "name": "Vassara River Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 67.136563,
+    "longitude": 20.633655,
+    "elevation_ft": 1160,
+    "iso_country": "SE",
+    "iso_region": "SE-BD",
+    "municipality": "Gällivare"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 599673
+  }
+}

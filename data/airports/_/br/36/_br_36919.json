@@ -1,0 +1,33 @@
+{
+  "key": "_br_36919",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNNZ",
+    "local": "SC0079"
+  },
+  "name": "Zona 01 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -27.142204,
+    "longitude": -48.591967,
+    "elevation_ft": 23,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Itapema"
+  },
+  "keywords": [
+    "SJVI",
+    "Viana II"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36919
+  }
+}

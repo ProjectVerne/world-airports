@@ -1,0 +1,33 @@
+{
+  "key": "ekrs",
+  "codes": {
+    "icao": "EKRS",
+    "iata": null,
+    "gps": "EKRS",
+    "local": null
+  },
+  "name": "Ringsted Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.4258,
+    "longitude": 11.8067,
+    "elevation_ft": 113,
+    "iso_country": "DK",
+    "iso_region": "DK-85",
+    "municipality": "Ringsted"
+  },
+  "keywords": [
+    "Ringsted Flyveplads"
+  ],
+  "wikipedia": "https://da.wikipedia.org/wiki/Ringsted_Flyveplads",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29244
+  }
+}

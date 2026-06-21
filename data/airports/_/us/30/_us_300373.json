@@ -1,0 +1,32 @@
+{
+  "key": "_us_300373",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Ford ARNG Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.255278,
+    "longitude": -87.205,
+    "elevation_ft": 530,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": null
+  },
+  "keywords": [
+    "US-0176"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300373
+  }
+}

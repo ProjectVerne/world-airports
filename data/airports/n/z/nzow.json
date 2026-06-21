@@ -1,0 +1,32 @@
+{
+  "key": "nzow",
+  "codes": {
+    "icao": "NZOW",
+    "iata": null,
+    "gps": "NZOW",
+    "local": null
+  },
+  "name": "Onetangi Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -36.805277,
+    "longitude": 175.07086,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-NTL",
+    "municipality": "Onetangi"
+  },
+  "keywords": [
+    "Onetangi"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605002
+  }
+}

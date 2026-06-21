@@ -1,0 +1,33 @@
+{
+  "key": "_us_346602",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "57MI",
+    "local": "57MI"
+  },
+  "name": "Acme Skyport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.765278,
+    "longitude": -85.468358,
+    "elevation_ft": 710,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Acme"
+  },
+  "keywords": [
+    "Y17",
+    "US-4857"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 346602
+  }
+}

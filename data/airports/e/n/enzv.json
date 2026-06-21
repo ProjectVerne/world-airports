@@ -1,0 +1,35 @@
+{
+  "key": "enzv",
+  "codes": {
+    "icao": "ENZV",
+    "iata": "SVG",
+    "gps": "ENZV",
+    "local": null
+  },
+  "name": "Stavanger Airport, Sola",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.876701,
+    "longitude": 5.63778,
+    "elevation_ft": 29,
+    "iso_country": "NO",
+    "iso_region": "NO-11",
+    "municipality": "Stavanger"
+  },
+  "keywords": [
+    "Sola Air Station",
+    "Stavanger lufthavn",
+    "Sola"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stavanger_Airport,_Sola",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2602
+  }
+}

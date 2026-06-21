@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01345",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNT6",
+    "local": "CNT6"
+  },
+  "name": "Elmira Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.584702,
+    "longitude": -80.603104,
+    "elevation_ft": 1250,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Elmira"
+  },
+  "keywords": [
+    "NT6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Elmira_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1345
+  }
+}

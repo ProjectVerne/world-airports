@@ -1,0 +1,33 @@
+{
+  "key": "_br_35996",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SIRB",
+    "local": "SP0544"
+  },
+  "name": "Mendes Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.959793,
+    "longitude": -46.335644,
+    "elevation_ft": 52,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Santos"
+  },
+  "keywords": [
+    "SIHE",
+    "BR-2410"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35996
+  }
+}

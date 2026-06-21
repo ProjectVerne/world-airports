@@ -1,0 +1,32 @@
+{
+  "key": "_br_331996",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDKB",
+    "local": "PR0103"
+  },
+  "name": "CJB Curitiba Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -25.438249,
+    "longitude": -49.24063,
+    "elevation_ft": 3100,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Curitiba"
+  },
+  "keywords": [
+    "BR-0483"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331996
+  }
+}

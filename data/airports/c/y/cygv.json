@@ -1,0 +1,31 @@
+{
+  "key": "cygv",
+  "codes": {
+    "icao": "CYGV",
+    "iata": "YGV",
+    "gps": "CYGV",
+    "local": null
+  },
+  "name": "Havre-Saint-Pierre Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.281898,
+    "longitude": -63.611401,
+    "elevation_ft": 124,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Havre-Saint-Pierre"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Havre_St-Pierre_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1751
+  }
+}

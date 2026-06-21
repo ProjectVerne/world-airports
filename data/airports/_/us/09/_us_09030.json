@@ -1,0 +1,30 @@
+{
+  "key": "_us_09030",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "24TE",
+    "local": "24TE"
+  },
+  "name": "Police Helicopter Patrol Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.6486,
+    "longitude": -95.274101,
+    "elevation_ft": 63,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9030
+  }
+}

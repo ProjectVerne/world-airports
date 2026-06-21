@@ -1,0 +1,30 @@
+{
+  "key": "_us_09910",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "30CA",
+    "local": "30CA"
+  },
+  "name": "Indian Valley Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.141201,
+    "longitude": -120.937226,
+    "elevation_ft": 3482,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Greenville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9910
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_24351",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "RI15",
+    "local": "RI15"
+  },
+  "name": "One Hospital Trust Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.825401,
+    "longitude": -71.410103,
+    "elevation_ft": 406,
+    "iso_country": "US",
+    "iso_region": "US-RI",
+    "municipality": "Providence"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24351
+  }
+}

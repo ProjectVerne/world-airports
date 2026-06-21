@@ -1,0 +1,31 @@
+{
+  "key": "shac",
+  "codes": {
+    "icao": "SHAC",
+    "iata": null,
+    "gps": "SHAC",
+    "local": null
+  },
+  "name": "ACHS Worker's Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -33.443667,
+    "longitude": -70.632125,
+    "elevation_ft": 1969,
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago"
+  },
+  "keywords": [],
+  "wikipedia": "https://es.wikipedia.org/wiki/Hospital_del_Trabajador_ACHS",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39329
+  }
+}

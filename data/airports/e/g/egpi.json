@@ -1,0 +1,35 @@
+{
+  "key": "egpi",
+  "codes": {
+    "icao": "EGPI",
+    "iata": "ILY",
+    "gps": "EGPI",
+    "local": null
+  },
+  "name": "Islay Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.682708,
+    "longitude": -6.257525,
+    "elevation_ft": 56,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Isle of Islay, Argyll and Bute"
+  },
+  "keywords": [
+    "Glenegedale",
+    "Islay",
+    "Port Ellen"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Islay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2463
+  }
+}

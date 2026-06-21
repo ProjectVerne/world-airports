@@ -1,0 +1,32 @@
+{
+  "key": "_us_09701",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2OR6",
+    "local": "2OR6"
+  },
+  "name": "Lockhart Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.181255,
+    "longitude": -118.216166,
+    "elevation_ft": 4615,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Ironside"
+  },
+  "keywords": [
+    "Lockhart-Cape Ranch"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9701
+  }
+}

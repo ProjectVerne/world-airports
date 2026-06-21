@@ -1,0 +1,31 @@
+{
+  "key": "oppi",
+  "codes": {
+    "icao": "OPPI",
+    "iata": "PSI",
+    "gps": "OPPI",
+    "local": null
+  },
+  "name": "Pasni Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.290501,
+    "longitude": 63.3451,
+    "elevation_ft": 33,
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Pasni"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pasni_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5269
+  }
+}

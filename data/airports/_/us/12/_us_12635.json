@@ -1,0 +1,32 @@
+{
+  "key": "_us_12635",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5PN9",
+    "local": "5PN9"
+  },
+  "name": "UPMC Pinnacle Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.257701,
+    "longitude": -76.881015,
+    "elevation_ft": 589,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Harrisburg"
+  },
+  "keywords": [
+    "Harrisburg Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12635
+  }
+}

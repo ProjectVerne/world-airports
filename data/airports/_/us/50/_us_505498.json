@@ -1,0 +1,32 @@
+{
+  "key": "_us_505498",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "US Border Patrol Sasabe Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.48347,
+    "longitude": -111.545,
+    "elevation_ft": 3594,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Sasabe"
+  },
+  "keywords": [
+    "US-7399"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505498
+  }
+}

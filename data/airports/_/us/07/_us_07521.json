@@ -1,0 +1,30 @@
+{
+  "key": "_us_07521",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0SD5",
+    "local": "0SD5"
+  },
+  "name": "The Fort Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.8064,
+    "longitude": -103.637001,
+    "elevation_ft": 5800,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Custer"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7521
+  }
+}

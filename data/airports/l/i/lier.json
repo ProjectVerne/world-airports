@@ -1,0 +1,33 @@
+{
+  "key": "lier",
+  "codes": {
+    "icao": "LIER",
+    "iata": "FNU",
+    "gps": "LIER",
+    "local": "OR01"
+  },
+  "name": "Oristano-Fenosu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.895308,
+    "longitude": 8.642661,
+    "elevation_ft": 36,
+    "iso_country": "IT",
+    "iso_region": "IT-88",
+    "municipality": "Oristano"
+  },
+  "keywords": [
+    "QOS"
+  ],
+  "wikipedia": "http://it.wikipedia.org/wiki/Aeroporto_di_Oristano-Fenosu",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29424
+  }
+}

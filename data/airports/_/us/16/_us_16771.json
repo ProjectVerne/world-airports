@@ -1,0 +1,30 @@
+{
+  "key": "_us_16771",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CL52",
+    "local": "CL52"
+  },
+  "name": "San Joaquin General Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.887832,
+    "longitude": -121.282716,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Stockton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16771
+  }
+}

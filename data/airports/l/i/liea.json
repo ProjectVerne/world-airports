@@ -1,0 +1,35 @@
+{
+  "key": "liea",
+  "codes": {
+    "icao": "LIEA",
+    "iata": "AHO",
+    "gps": "LIEA",
+    "local": "SS02"
+  },
+  "name": "Alghero-Fertilia Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.632099,
+    "longitude": 8.29077,
+    "elevation_ft": 87,
+    "iso_country": "IT",
+    "iso_region": "IT-88",
+    "municipality": "Alghero"
+  },
+  "keywords": [
+    "Alghero Airport",
+    "Sardinia",
+    "Alghero - Riviera del Corallo Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Alghero-Fertilia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4330
+  }
+}

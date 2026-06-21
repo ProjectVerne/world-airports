@@ -1,0 +1,30 @@
+{
+  "key": "_us_531403",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "64GE",
+    "local": "64GE"
+  },
+  "name": "WCC Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.726925,
+    "longitude": -85.311891,
+    "elevation_ft": 956,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Tallapoosa"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 531403
+  }
+}

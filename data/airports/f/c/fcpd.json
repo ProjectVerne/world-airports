@@ -1,0 +1,34 @@
+{
+  "key": "fcpd",
+  "codes": {
+    "icao": "FCPD",
+    "iata": "DIS",
+    "gps": "FCPD",
+    "local": null
+  },
+  "name": "Ngot Nzoungou Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.20635,
+    "longitude": 12.6599,
+    "elevation_ft": 1079,
+    "iso_country": "CG",
+    "iso_region": "CG-9",
+    "municipality": "Dolisie"
+  },
+  "keywords": [
+    "Dolisie",
+    "FCPL"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dolisie_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30920
+  }
+}

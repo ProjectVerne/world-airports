@@ -1,0 +1,30 @@
+{
+  "key": "_us_25609",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WA12",
+    "local": "WA12"
+  },
+  "name": "Acme Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.71356,
+    "longitude": -122.195926,
+    "elevation_ft": 301,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Acme"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25609
+  }
+}

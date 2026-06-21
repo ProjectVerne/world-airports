@@ -1,0 +1,31 @@
+{
+  "key": "ktvc",
+  "codes": {
+    "icao": "KTVC",
+    "iata": "TVC",
+    "gps": "KTVC",
+    "local": "TVC"
+  },
+  "name": "Cherry Capital Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.741402,
+    "longitude": -85.582199,
+    "elevation_ft": 624,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Traverse City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cherry_Capital_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3933
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kfat",
+  "codes": {
+    "icao": "KFAT",
+    "iata": "FAT",
+    "gps": "KFAT",
+    "local": "FAT"
+  },
+  "name": "Fresno Yosemite International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.775767,
+    "longitude": -119.718018,
+    "elevation_ft": 336,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Fresno"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fresno_Yosemite_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3524
+  }
+}

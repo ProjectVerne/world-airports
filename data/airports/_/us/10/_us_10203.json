@@ -1,0 +1,30 @@
+{
+  "key": "_us_10203",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "36OK",
+    "local": "36OK"
+  },
+  "name": "Jones Air Park",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.272301,
+    "longitude": -96.881699,
+    "elevation_ft": 1100,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Tecumseh"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10203
+  }
+}

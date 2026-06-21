@@ -1,0 +1,33 @@
+{
+  "key": "_us_08341",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Adams Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.61624,
+    "longitude": -84.82551,
+    "elevation_ft": 850,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Geneva"
+  },
+  "keywords": [
+    "1II2",
+    "US-9668"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8341
+  }
+}

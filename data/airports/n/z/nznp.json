@@ -1,0 +1,31 @@
+{
+  "key": "nznp",
+  "codes": {
+    "icao": "NZNP",
+    "iata": "NPL",
+    "gps": "NZNP",
+    "local": null
+  },
+  "name": "New Plymouth Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -39.008598,
+    "longitude": 174.179001,
+    "elevation_ft": 97,
+    "iso_country": "NZ",
+    "iso_region": "NZ-TKI",
+    "municipality": "New Plymouth"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Plymouth_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5042
+  }
+}

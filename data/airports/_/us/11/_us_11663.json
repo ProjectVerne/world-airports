@@ -1,0 +1,33 @@
+{
+  "key": "_us_11663",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Austin Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 34.903198,
+    "longitude": -95.358902,
+    "elevation_ft": 675,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Wilburton"
+  },
+  "keywords": [
+    "4OK8",
+    "US-10237"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11663
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "ulwc",
+  "codes": {
+    "icao": "ULWC",
+    "iata": "CEE",
+    "gps": "ULWC",
+    "local": null
+  },
+  "name": "Cherepovets Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.273602,
+    "longitude": 38.0158,
+    "elevation_ft": 377,
+    "iso_country": "RU",
+    "iso_region": "RU-VLG",
+    "municipality": "Cherepovets"
+  },
+  "keywords": [
+    "УЛВЦ",
+    "Череповец"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cherepovets_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30819
+  }
+}

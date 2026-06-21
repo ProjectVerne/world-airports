@@ -1,0 +1,34 @@
+{
+  "key": "epmo",
+  "codes": {
+    "icao": "EPMO",
+    "iata": "WMI",
+    "gps": "EPMO",
+    "local": null
+  },
+  "name": "Warsaw Modlin Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.451099,
+    "longitude": 20.6518,
+    "elevation_ft": 341,
+    "iso_country": "PL",
+    "iso_region": "PL-MZ",
+    "municipality": "Nowy Dwór Mazowiecki"
+  },
+  "keywords": [
+    "Warsaw",
+    "Warszawa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Warsaw_Modlin_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2622
+  }
+}

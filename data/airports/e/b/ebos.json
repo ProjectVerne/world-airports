@@ -1,0 +1,33 @@
+{
+  "key": "ebos",
+  "codes": {
+    "icao": "EBOS",
+    "iata": "OST",
+    "gps": "EBOS",
+    "local": null
+  },
+  "name": "Ostend-Bruges International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.1998,
+    "longitude": 2.874673,
+    "elevation_ft": 13,
+    "iso_country": "BE",
+    "iso_region": "BE-VWV",
+    "municipality": "Oostende"
+  },
+  "keywords": [
+    "Ostend-Bruges International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ostend-Bruges_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2163
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_07361",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0MT3",
+    "local": "0MT3"
+  },
+  "name": "Stock Farm Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.250801,
+    "longitude": -114.067001,
+    "elevation_ft": 3920,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Hamilton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7361
+  }
+}

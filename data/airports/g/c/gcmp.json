@@ -1,0 +1,31 @@
+{
+  "key": "gcmp",
+  "codes": {
+    "icao": "GCMP",
+    "iata": null,
+    "gps": "GCMP",
+    "local": null
+  },
+  "name": "Maspalomas Station Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.765637,
+    "longitude": -15.635286,
+    "elevation_ft": 471,
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "ESA Special Station"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Maspalomas_Station",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 598096
+  }
+}

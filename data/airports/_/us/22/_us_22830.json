@@ -1,0 +1,30 @@
+{
+  "key": "_us_22830",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NC90",
+    "local": "NC90"
+  },
+  "name": "WBTV Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.22661,
+    "longitude": -80.872496,
+    "elevation_ft": 630,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Charlotte"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22830
+  }
+}

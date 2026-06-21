@@ -1,0 +1,31 @@
+{
+  "key": "tvsm",
+  "codes": {
+    "icao": "TVSM",
+    "iata": "MQS",
+    "gps": "TVSM",
+    "local": null
+  },
+  "name": "Mustique Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.8879,
+    "longitude": -61.180199,
+    "elevation_ft": 8,
+    "iso_country": "VC",
+    "iso_region": "VC-06",
+    "municipality": "Lovell"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mustique_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6414
+  }
+}

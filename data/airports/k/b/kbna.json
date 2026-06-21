@@ -1,0 +1,31 @@
+{
+  "key": "kbna",
+  "codes": {
+    "icao": "KBNA",
+    "iata": "BNA",
+    "gps": "KBNA",
+    "local": "BNA"
+  },
+  "name": "Nashville International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.1245,
+    "longitude": -86.6782,
+    "elevation_ft": 599,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Nashville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nashville_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3420
+  }
+}

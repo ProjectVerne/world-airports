@@ -1,0 +1,31 @@
+{
+  "key": "kmso",
+  "codes": {
+    "icao": "KMSO",
+    "iata": "MSO",
+    "gps": "KMSO",
+    "local": "MSO"
+  },
+  "name": "Missoula Montana Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.915816,
+    "longitude": -114.091107,
+    "elevation_ft": 3206,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Missoula"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Missoula_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3708
+  }
+}

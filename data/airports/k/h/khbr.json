@@ -1,0 +1,31 @@
+{
+  "key": "khbr",
+  "codes": {
+    "icao": "KHBR",
+    "iata": "HBR",
+    "gps": "KHBR",
+    "local": "HBR"
+  },
+  "name": "Hobart Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.991317,
+    "longitude": -99.051313,
+    "elevation_ft": 1563,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Hobart"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hobart_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20029
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "nzpk",
+  "codes": {
+    "icao": "NZPK",
+    "iata": null,
+    "gps": "NZPK",
+    "local": null
+  },
+  "name": "Pikes Point Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -36.930309,
+    "longitude": 174.812915,
+    "elevation_ft": 0,
+    "iso_country": "NZ",
+    "iso_region": "NZ-AUK",
+    "municipality": "Auckland"
+  },
+  "keywords": [
+    "Pikes Point",
+    "Advanced Flight Ltd"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605005
+  }
+}

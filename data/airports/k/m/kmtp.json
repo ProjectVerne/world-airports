@@ -1,0 +1,31 @@
+{
+  "key": "kmtp",
+  "codes": {
+    "icao": "KMTP",
+    "iata": "MTP",
+    "gps": "KMTP",
+    "local": "MTP"
+  },
+  "name": "Montauk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.0765,
+    "longitude": -71.920797,
+    "elevation_ft": 6,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Montauk"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Montauk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20567
+  }
+}

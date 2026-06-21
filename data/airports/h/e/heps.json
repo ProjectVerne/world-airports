@@ -1,0 +1,33 @@
+{
+  "key": "heps",
+  "codes": {
+    "icao": "HEPS",
+    "iata": "PSD",
+    "gps": "HEPS",
+    "local": null
+  },
+  "name": "Port Said International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.279285,
+    "longitude": 32.240582,
+    "elevation_ft": 10,
+    "iso_country": "EG",
+    "iso_region": "EG-PTS",
+    "municipality": "Port Said"
+  },
+  "keywords": [
+    "El Gamil"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Said_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3196
+  }
+}

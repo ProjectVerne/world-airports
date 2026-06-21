@@ -1,0 +1,30 @@
+{
+  "key": "_us_06600",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01KY",
+    "local": "01KY"
+  },
+  "name": "Lourdes Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.051701,
+    "longitude": -88.646896,
+    "elevation_ft": 419,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Paducah"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6600
+  }
+}

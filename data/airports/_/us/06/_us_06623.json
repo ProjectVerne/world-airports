@@ -1,0 +1,30 @@
+{
+  "key": "_us_06623",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "01SC",
+    "local": "01SC"
+  },
+  "name": "York Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.032101,
+    "longitude": -81.2528,
+    "elevation_ft": 779,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "York"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6623
+  }
+}

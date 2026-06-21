@@ -1,0 +1,30 @@
+{
+  "key": "_us_08434",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MA5",
+    "local": "1MA5"
+  },
+  "name": "Unknown Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.278999,
+    "longitude": -71.547798,
+    "elevation_ft": 432,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Southborough"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8434
+  }
+}

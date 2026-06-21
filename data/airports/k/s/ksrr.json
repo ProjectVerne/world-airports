@@ -1,0 +1,33 @@
+{
+  "key": "ksrr",
+  "codes": {
+    "icao": "KSRR",
+    "iata": "RUI",
+    "gps": "KSRR",
+    "local": "SRR"
+  },
+  "name": "Sierra Blanca Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.462799,
+    "longitude": -105.535004,
+    "elevation_ft": 6814,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Alto"
+  },
+  "keywords": [
+    "Ruidoso"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sierra_Blanca_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3900
+  }
+}

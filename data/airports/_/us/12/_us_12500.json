@@ -1,0 +1,33 @@
+{
+  "key": "_us_12500",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Budde Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 44.2005,
+    "longitude": -94.113297,
+    "elevation_ft": 975,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Mankato"
+  },
+  "keywords": [
+    "5MN1",
+    "US-10402"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12500
+  }
+}

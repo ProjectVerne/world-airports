@@ -1,0 +1,33 @@
+{
+  "key": "wrfj",
+  "codes": {
+    "icao": "WRFJ",
+    "iata": null,
+    "gps": "WRFJ",
+    "local": "FOA"
+  },
+  "name": "Foao Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.066549,
+    "longitude": 139.099195,
+    "elevation_ft": 241,
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Foao"
+  },
+  "keywords": [
+    "WX86",
+    "ID-0052"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310334
+  }
+}

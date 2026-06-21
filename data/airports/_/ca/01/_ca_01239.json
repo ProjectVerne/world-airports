@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01239",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKU5",
+    "local": "CKU5"
+  },
+  "name": "Imperial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.349998,
+    "longitude": -105.400002,
+    "elevation_ft": 1665,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Imperial"
+  },
+  "keywords": [
+    "KU5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Imperial_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1239
+  }
+}

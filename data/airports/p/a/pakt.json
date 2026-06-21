@@ -1,0 +1,31 @@
+{
+  "key": "pakt",
+  "codes": {
+    "icao": "PAKT",
+    "iata": "KTN",
+    "gps": "PAKT",
+    "local": "KTN"
+  },
+  "name": "Ketchikan International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.355598,
+    "longitude": -131.714004,
+    "elevation_ft": 89,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Ketchikan"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ketchikan_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5382
+  }
+}

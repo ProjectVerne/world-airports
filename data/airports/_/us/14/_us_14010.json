@@ -1,0 +1,33 @@
+{
+  "key": "_us_14010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Miller Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.796576,
+    "longitude": -89.230223,
+    "elevation_ft": 820,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Ashton"
+  },
+  "keywords": [
+    "79IL",
+    "US-10681"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 14010
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_21005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KS40",
+    "local": "S40"
+  },
+  "name": "Prosser Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.213402,
+    "longitude": -119.791,
+    "elevation_ft": 697,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Prosser"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21005
+  }
+}

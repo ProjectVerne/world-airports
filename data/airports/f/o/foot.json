@@ -1,0 +1,31 @@
+{
+  "key": "foot",
+  "codes": {
+    "icao": "FOOT",
+    "iata": "TCH",
+    "gps": "FOOT",
+    "local": null
+  },
+  "name": "Tchibanga Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -2.88848,
+    "longitude": 10.955429,
+    "elevation_ft": 269,
+    "iso_country": "GA",
+    "iso_region": "GA-5",
+    "municipality": "Tchibanga"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tchibanga_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32428
+  }
+}

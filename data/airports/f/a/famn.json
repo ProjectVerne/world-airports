@@ -1,0 +1,30 @@
+{
+  "key": "famn",
+  "codes": {
+    "icao": "FAMN",
+    "iata": "LLE",
+    "gps": "FAMN",
+    "local": null
+  },
+  "name": "Malelane Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.473581,
+    "longitude": 31.565947,
+    "elevation_ft": 1153,
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Malelane"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 525716
+  }
+}

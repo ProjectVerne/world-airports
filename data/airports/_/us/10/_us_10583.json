@@ -1,0 +1,30 @@
+{
+  "key": "_us_10583",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3MA1",
+    "local": "3MA1"
+  },
+  "name": "Marlborough Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.356201,
+    "longitude": -71.555099,
+    "elevation_ft": 520,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Marlborough"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10583
+  }
+}

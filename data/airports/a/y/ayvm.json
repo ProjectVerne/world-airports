@@ -1,0 +1,30 @@
+{
+  "key": "ayvm",
+  "codes": {
+    "icao": "AYVM",
+    "iata": "TCJ",
+    "gps": "AYVM",
+    "local": "TBI"
+  },
+  "name": "Torembi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.0165,
+    "longitude": 143.1329,
+    "elevation_ft": 90,
+    "iso_country": "PG",
+    "iso_region": "PG-ESW",
+    "municipality": "Torembi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 312309
+  }
+}

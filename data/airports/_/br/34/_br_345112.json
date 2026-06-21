@@ -1,0 +1,32 @@
+{
+  "key": "_br_345112",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SWCG",
+    "local": "SC0183"
+  },
+  "name": "T & T Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -26.888131,
+    "longitude": -49.087874,
+    "elevation_ft": 59,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Blumenau"
+  },
+  "keywords": [
+    "BR-1573"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345112
+  }
+}

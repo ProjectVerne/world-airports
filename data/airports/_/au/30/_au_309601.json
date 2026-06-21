@@ -1,0 +1,33 @@
+{
+  "key": "_au_309601",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "OZHAL"
+  },
+  "name": "Blackheath - NPWS Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -33.628062,
+    "longitude": 150.306706,
+    "elevation_ft": 3316,
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Blackheath - NPWS"
+  },
+  "keywords": [
+    "BHT",
+    "AU-0062"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 309601
+  }
+}

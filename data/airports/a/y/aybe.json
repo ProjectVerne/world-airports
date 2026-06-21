@@ -1,0 +1,32 @@
+{
+  "key": "aybe",
+  "codes": {
+    "icao": "AYBE",
+    "iata": null,
+    "gps": "AYBE",
+    "local": "BRE"
+  },
+  "name": "Boure Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.618504,
+    "longitude": 148.746318,
+    "elevation_ft": 530,
+    "iso_country": "PG",
+    "iso_region": "PG-NPP",
+    "municipality": "Boure"
+  },
+  "keywords": [
+    "PG-0028"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301980
+  }
+}

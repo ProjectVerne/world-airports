@@ -1,0 +1,30 @@
+{
+  "key": "_us_510410",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS59",
+    "local": "PS59"
+  },
+  "name": "Dickson City Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.45323,
+    "longitude": -75.632745,
+    "elevation_ft": 760,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Dickson City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 510410
+  }
+}

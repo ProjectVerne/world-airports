@@ -1,0 +1,33 @@
+{
+  "key": "edxs",
+  "codes": {
+    "icao": "EDXS",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Seedorf Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.335556,
+    "longitude": 9.259444,
+    "elevation_ft": 72,
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Zeven"
+  },
+  "keywords": [
+    "Sonderlandeplatz Seedorf"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Seedorf",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28727
+  }
+}

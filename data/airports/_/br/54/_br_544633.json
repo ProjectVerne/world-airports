@@ -1,0 +1,32 @@
+{
+  "key": "_br_544633",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SWID",
+    "local": "SP0813"
+  },
+  "name": "Itaú - Data Center Mogi Mirim Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -22.49094,
+    "longitude": -46.974564,
+    "elevation_ft": 2277,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Moji-Mirim"
+  },
+  "keywords": [
+    "BR-1908"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 544633
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "ycpr",
+  "codes": {
+    "icao": "YCPR",
+    "iata": null,
+    "gps": "YCPR",
+    "local": null
+  },
+  "name": "Cape Preston Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.977222,
+    "longitude": 116.275,
+    "elevation_ft": 77,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Cape Preston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 507003
+  }
+}

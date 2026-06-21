@@ -1,0 +1,33 @@
+{
+  "key": "edhi",
+  "codes": {
+    "icao": "EDHI",
+    "iata": "XFW",
+    "gps": "EDHI",
+    "local": null
+  },
+  "name": "Hamburg-Finkenwerder Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.535278,
+    "longitude": 9.835556,
+    "elevation_ft": 23,
+    "iso_country": "DE",
+    "iso_region": "DE-HH",
+    "municipality": "Hamburg"
+  },
+  "keywords": [
+    "Airbus"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hamburg_Finkenwerder_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2234
+  }
+}

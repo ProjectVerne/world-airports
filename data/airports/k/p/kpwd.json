@@ -1,0 +1,31 @@
+{
+  "key": "kpwd",
+  "codes": {
+    "icao": "KPWD",
+    "iata": "PWD",
+    "gps": "KPWD",
+    "local": "PWD"
+  },
+  "name": "Sher-Wood Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.790298,
+    "longitude": -104.533997,
+    "elevation_ft": 2250,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Plentywood"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sher-Wood_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20894
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "esny",
+  "codes": {
+    "icao": "ESNY",
+    "iata": "SOO",
+    "gps": "ESNY",
+    "local": null
+  },
+  "name": "Söderhamn Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.261501,
+    "longitude": 17.0991,
+    "elevation_ft": 88,
+    "iso_country": "SE",
+    "iso_region": "SE-X",
+    "municipality": "Söderhamn"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/S%C3%B6derhamn_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2692
+  }
+}

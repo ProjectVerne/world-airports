@@ -1,0 +1,30 @@
+{
+  "key": "sndn",
+  "codes": {
+    "icao": "SNDN",
+    "iata": null,
+    "gps": "SNDN",
+    "local": "SNDN"
+  },
+  "name": "Cemaden - CIGE Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -12.94398,
+    "longitude": -38.425784,
+    "elevation_ft": 256,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Salvador"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 329040
+  }
+}

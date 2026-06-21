@@ -1,0 +1,31 @@
+{
+  "key": "kaum",
+  "codes": {
+    "icao": "KAUM",
+    "iata": "AUM",
+    "gps": "KAUM",
+    "local": "AUM"
+  },
+  "name": "Austin Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.665001,
+    "longitude": -92.933403,
+    "elevation_ft": 1234,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Austin"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Austin_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19323
+  }
+}

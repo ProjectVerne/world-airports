@@ -1,0 +1,33 @@
+{
+  "key": "lkcs",
+  "codes": {
+    "icao": "LKCS",
+    "iata": "JCL",
+    "gps": "LKCS",
+    "local": null
+  },
+  "name": "České Budějovice South Bohemian Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.948171,
+    "longitude": 14.42832,
+    "elevation_ft": 1417,
+    "iso_country": "CZ",
+    "iso_region": "CZ-JC",
+    "municipality": "České Budějovice"
+  },
+  "keywords": [
+    "Jihočeské letiště České Budějovice"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%A9_Bud%C4%9Bjovice_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4393
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_24567",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SD92",
+    "local": "SD92"
+  },
+  "name": "Telstar Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.698299,
+    "longitude": -98.0215,
+    "elevation_ft": 1310,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Mitchell"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24567
+  }
+}

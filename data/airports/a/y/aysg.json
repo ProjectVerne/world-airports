@@ -1,0 +1,30 @@
+{
+  "key": "aysg",
+  "codes": {
+    "icao": "AYSG",
+    "iata": "SIL",
+    "gps": "AYSG",
+    "local": "SILA"
+  },
+  "name": "Sila Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.073556,
+    "longitude": 148.38925,
+    "elevation_ft": 2230,
+    "iso_country": "PG",
+    "iso_region": "PG-NPP",
+    "municipality": "Sila Mission"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307114
+  }
+}

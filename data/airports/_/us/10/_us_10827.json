@@ -1,0 +1,30 @@
+{
+  "key": "_us_10827",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3TS8",
+    "local": "3TS8"
+  },
+  "name": "Dailey Inc Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.7894,
+    "longitude": -95.277397,
+    "elevation_ft": 25,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10827
+  }
+}

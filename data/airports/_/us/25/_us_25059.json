@@ -1,0 +1,30 @@
+{
+  "key": "_us_25059",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS43",
+    "local": "TS43"
+  },
+  "name": "Wagner Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.7164,
+    "longitude": -96.214273,
+    "elevation_ft": 18,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Palacios"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25059
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "lfot",
+  "codes": {
+    "icao": "LFOT",
+    "iata": "TUF",
+    "gps": "LFOT",
+    "local": null
+  },
+  "name": "Tours Val de Loire Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.432201,
+    "longitude": 0.727606,
+    "elevation_ft": 357,
+    "iso_country": "FR",
+    "iso_region": "FR-CVL",
+    "municipality": "Tours, Indre-et-Loire"
+  },
+  "keywords": [
+    "Aéroport Tours-Val de Loire",
+    "Loire Valley"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tours_Val_de_Loire_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4179
+  }
+}

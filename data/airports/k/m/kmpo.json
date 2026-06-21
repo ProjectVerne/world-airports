@@ -1,0 +1,31 @@
+{
+  "key": "kmpo",
+  "codes": {
+    "icao": "KMPO",
+    "iata": "MPO",
+    "gps": "KMPO",
+    "local": "MPO"
+  },
+  "name": "Pocono Mountains Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.136025,
+    "longitude": -75.379572,
+    "elevation_ft": 1915,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Mount Pocono"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pocono_Mountains_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20549
+  }
+}

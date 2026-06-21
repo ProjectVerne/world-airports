@@ -1,0 +1,30 @@
+{
+  "key": "_us_505272",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "30ME",
+    "local": "30ME"
+  },
+  "name": "Togus VA LZ Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.275255,
+    "longitude": -69.704879,
+    "elevation_ft": 169,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Augusta"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505272
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "kbeh",
+  "codes": {
+    "icao": "KBEH",
+    "iata": "BEH",
+    "gps": "KBEH",
+    "local": "BEH"
+  },
+  "name": "Southwest Michigan Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.128601,
+    "longitude": -86.428497,
+    "elevation_ft": 643,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Benton Harbor"
+  },
+  "keywords": [
+    "Ross Field",
+    "Twin Cities Airport",
+    "St. Joseph City"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Southwest_Michigan_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19364
+  }
+}

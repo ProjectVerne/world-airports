@@ -1,0 +1,31 @@
+{
+  "key": "sbtu",
+  "codes": {
+    "icao": "SBTU",
+    "iata": "TUR",
+    "gps": "SBTU",
+    "local": "PA0007"
+  },
+  "name": "Tucuruí Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.78601,
+    "longitude": -49.720299,
+    "elevation_ft": 830,
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Tucuruí"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tucuru%C3%AD_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5989
+  }
+}

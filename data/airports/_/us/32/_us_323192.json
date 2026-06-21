@@ -1,0 +1,32 @@
+{
+  "key": "_us_323192",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3AK0",
+    "local": "3AK0"
+  },
+  "name": "Wolfe Point Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 55.362684,
+    "longitude": -131.709103,
+    "elevation_ft": 50,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Ketchikan"
+  },
+  "keywords": [
+    "US-0545"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323192
+  }
+}

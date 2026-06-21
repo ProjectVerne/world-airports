@@ -1,0 +1,32 @@
+{
+  "key": "_us_21020",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "S75",
+    "local": "S75"
+  },
+  "name": "Payette Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.091599,
+    "longitude": -116.901001,
+    "elevation_ft": 2228,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Payette"
+  },
+  "keywords": [
+    "KS75"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21020
+  }
+}

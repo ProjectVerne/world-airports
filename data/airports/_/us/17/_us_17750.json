@@ -1,0 +1,30 @@
+{
+  "key": "_us_17750",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IA73",
+    "local": "IA73"
+  },
+  "name": "St Lukes Hospital Emergency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.984699,
+    "longitude": -91.661598,
+    "elevation_ft": 759,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Cedar Rapids"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17750
+  }
+}

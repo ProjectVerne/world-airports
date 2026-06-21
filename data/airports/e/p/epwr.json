@@ -1,0 +1,35 @@
+{
+  "key": "epwr",
+  "codes": {
+    "icao": "EPWR",
+    "iata": "WRO",
+    "gps": "EPWR",
+    "local": null
+  },
+  "name": "Copernicus Wrocław Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.103719,
+    "longitude": 16.882096,
+    "elevation_ft": 404,
+    "iso_country": "PL",
+    "iso_region": "PL-DS",
+    "municipality": "Wrocław"
+  },
+  "keywords": [
+    "Strachowice",
+    "Breslau",
+    "Wroclaw"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Copernicus_Airport_Wroc%C5%82aw",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2638
+  }
+}

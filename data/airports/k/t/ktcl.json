@@ -1,0 +1,31 @@
+{
+  "key": "ktcl",
+  "codes": {
+    "icao": "KTCL",
+    "iata": "TCL",
+    "gps": "KTCL",
+    "local": "TCL"
+  },
+  "name": "Tuscaloosa National Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.2206,
+    "longitude": -87.611397,
+    "elevation_ft": 170,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Tuscaloosa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tuscaloosa_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3917
+  }
+}

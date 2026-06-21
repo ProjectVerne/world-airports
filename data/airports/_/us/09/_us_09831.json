@@ -1,0 +1,33 @@
+{
+  "key": "_us_09831",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2VA6",
+    "local": "2VA6"
+  },
+  "name": "Nimcock Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.623342,
+    "longitude": -76.600027,
+    "elevation_ft": 85,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Saluda"
+  },
+  "keywords": [
+    "Arrowhead Point Airport",
+    "Camp Nimcock Airport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9831
+  }
+}

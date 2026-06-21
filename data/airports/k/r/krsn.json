@@ -1,0 +1,33 @@
+{
+  "key": "krsn",
+  "codes": {
+    "icao": "KRSN",
+    "iata": "RSN",
+    "gps": "KRSN",
+    "local": "RSN"
+  },
+  "name": "Ruston Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.514187,
+    "longitude": -92.588517,
+    "elevation_ft": 311,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Ruston"
+  },
+  "keywords": [
+    "3L5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ruston_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20963
+  }
+}

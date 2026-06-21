@@ -1,0 +1,31 @@
+{
+  "key": "fnpa",
+  "codes": {
+    "icao": "FNPA",
+    "iata": "PBN",
+    "gps": "FNPA",
+    "local": null
+  },
+  "name": "Porto Amboim Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -10.722,
+    "longitude": 13.7655,
+    "elevation_ft": 16,
+    "iso_country": "AO",
+    "iso_region": "AO-CUS",
+    "municipality": "Port Amboim"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Porto_Amboim_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2948
+  }
+}

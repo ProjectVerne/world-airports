@@ -1,0 +1,30 @@
+{
+  "key": "_us_511921",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS37",
+    "local": "PS37"
+  },
+  "name": "Geisinger Medical Center Muncy Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.240047,
+    "longitude": -76.8064,
+    "elevation_ft": 526,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Muncy"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 511921
+  }
+}

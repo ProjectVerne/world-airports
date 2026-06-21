@@ -1,0 +1,30 @@
+{
+  "key": "_us_09300",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2AL2",
+    "local": "2AL2"
+  },
+  "name": "Randolph County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.157299,
+    "longitude": -85.388802,
+    "elevation_ft": 500,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Roanoke"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9300
+  }
+}

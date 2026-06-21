@@ -1,0 +1,31 @@
+{
+  "key": "paei",
+  "codes": {
+    "icao": "PAEI",
+    "iata": "EIL",
+    "gps": "PAEI",
+    "local": "EIL"
+  },
+  "name": "Eielson Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 64.665703,
+    "longitude": -147.102005,
+    "elevation_ft": 547,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Fairbanks"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Eielson_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5357
+  }
+}

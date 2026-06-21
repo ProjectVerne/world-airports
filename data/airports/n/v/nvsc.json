@@ -1,0 +1,33 @@
+{
+  "key": "nvsc",
+  "codes": {
+    "icao": "NVSC",
+    "iata": "SLH",
+    "gps": "NVSC",
+    "local": null
+  },
+  "name": "Sola Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -13.8517,
+    "longitude": 167.537003,
+    "elevation_ft": 7,
+    "iso_country": "VU",
+    "iso_region": "VU-TOB",
+    "municipality": "Sola"
+  },
+  "keywords": [
+    "Vanua Lava Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Vanua_Lava_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32323
+  }
+}

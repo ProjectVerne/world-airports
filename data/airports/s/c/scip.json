@@ -1,0 +1,35 @@
+{
+  "key": "scip",
+  "codes": {
+    "icao": "SCIP",
+    "iata": "IPC",
+    "gps": "SCIP",
+    "local": null
+  },
+  "name": "Mataveri International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.165411,
+    "longitude": -109.421027,
+    "elevation_ft": 227,
+    "iso_country": "CL",
+    "iso_region": "CL-VS",
+    "municipality": "Isla De Pascua"
+  },
+  "keywords": [
+    "Rapa Nui",
+    "Easter Island",
+    "Isla de Pascua Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mataveri_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6026
+  }
+}

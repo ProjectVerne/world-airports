@@ -1,0 +1,32 @@
+{
+  "key": "_us_505296",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NV11",
+    "local": "NV11"
+  },
+  "name": "Owyhee Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.950943,
+    "longitude": -116.098554,
+    "elevation_ft": 5454,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Owyhee"
+  },
+  "keywords": [
+    "US-7376"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505296
+  }
+}

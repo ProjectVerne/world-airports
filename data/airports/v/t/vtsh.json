@@ -1,0 +1,30 @@
+{
+  "key": "vtsh",
+  "codes": {
+    "icao": "VTSH",
+    "iata": "SGZ",
+    "gps": "VTSH",
+    "local": null
+  },
+  "name": "Songkhla Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.18656,
+    "longitude": 100.608002,
+    "elevation_ft": 12,
+    "iso_country": "TH",
+    "iso_region": "TH-90",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26670
+  }
+}

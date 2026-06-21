@@ -1,0 +1,32 @@
+{
+  "key": "_us_24246",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS05",
+    "local": "PS05"
+  },
+  "name": "G & N Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.875301,
+    "longitude": -80.374802,
+    "elevation_ft": 985,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Albion"
+  },
+  "keywords": [
+    "Port Albion"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24246
+  }
+}

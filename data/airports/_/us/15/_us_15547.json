@@ -1,0 +1,30 @@
+{
+  "key": "_us_15547",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "97VA",
+    "local": "97VA"
+  },
+  "name": "Singleton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.210701,
+    "longitude": -79.713402,
+    "elevation_ft": 2060,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Warm Springs"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15547
+  }
+}

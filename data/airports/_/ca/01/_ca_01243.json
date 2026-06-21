@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01243",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKV3",
+    "local": "CKV3"
+  },
+  "name": "Dryden Best Western Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.783298,
+    "longitude": -92.833298,
+    "elevation_ft": 1200,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Dryden"
+  },
+  "keywords": [
+    "KV3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1243
+  }
+}

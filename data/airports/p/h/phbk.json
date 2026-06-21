@@ -1,0 +1,34 @@
+{
+  "key": "phbk",
+  "codes": {
+    "icao": "PHBK",
+    "iata": "BKH",
+    "gps": "PHBK",
+    "local": "BKH"
+  },
+  "name": "Barking Sands Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.0228,
+    "longitude": -159.785004,
+    "elevation_ft": 23,
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Kekaha"
+  },
+  "keywords": [
+    "Pacific Missle Range Facility Barking Sands",
+    "Kauai"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pacific_Missile_Range_Facility",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5441
+  }
+}

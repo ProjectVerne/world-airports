@@ -1,0 +1,30 @@
+{
+  "key": "_us_09985",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "31VA",
+    "local": "31VA"
+  },
+  "name": "Aberdeen Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.0238,
+    "longitude": -76.5886,
+    "elevation_ft": 33,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Smithfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9985
+  }
+}

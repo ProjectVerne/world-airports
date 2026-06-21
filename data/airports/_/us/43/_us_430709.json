@@ -1,0 +1,32 @@
+{
+  "key": "_us_430709",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Lane Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 33.48244,
+    "longitude": -79.88698,
+    "elevation_ft": 72,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Lane"
+  },
+  "keywords": [
+    "US-7226"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 430709
+  }
+}

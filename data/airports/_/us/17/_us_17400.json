@@ -1,0 +1,30 @@
+{
+  "key": "_us_17400",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FL30",
+    "local": "FL30"
+  },
+  "name": "HCA New Port Richey Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.235162,
+    "longitude": -82.722374,
+    "elevation_ft": 25,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "New Port Richey"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17400
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_26003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WV20",
+    "local": "WV20"
+  },
+  "name": "Wetzel County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.681186,
+    "longitude": -80.848705,
+    "elevation_ft": 689,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "New Martinsville"
+  },
+  "keywords": [
+    "Air Evac 78 Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26003
+  }
+}

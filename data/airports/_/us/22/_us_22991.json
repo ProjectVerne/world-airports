@@ -1,0 +1,32 @@
+{
+  "key": "_us_22991",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH35",
+    "local": "NH35"
+  },
+  "name": "Liberty Lane Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.950389,
+    "longitude": -70.85659,
+    "elevation_ft": 60,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Hampton"
+  },
+  "keywords": [
+    "Fisher Scientific Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22991
+  }
+}

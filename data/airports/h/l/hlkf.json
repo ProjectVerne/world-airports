@@ -1,0 +1,31 @@
+{
+  "key": "hlkf",
+  "codes": {
+    "icao": "HLKF",
+    "iata": "AKF",
+    "gps": "HLKF",
+    "local": null
+  },
+  "name": "Kufra Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.178699,
+    "longitude": 23.313999,
+    "elevation_ft": 1367,
+    "iso_country": "LY",
+    "iso_region": "LY-KF",
+    "municipality": "Kufra"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kufra_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3222
+  }
+}

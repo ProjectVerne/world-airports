@@ -1,0 +1,31 @@
+{
+  "key": "dfob",
+  "codes": {
+    "icao": "DFOB",
+    "iata": "BNR",
+    "gps": "DFOB",
+    "local": null
+  },
+  "name": "Banfora Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.688861,
+    "longitude": -4.727726,
+    "elevation_ft": 984,
+    "iso_country": "BF",
+    "iso_region": "BF-COM",
+    "municipality": "Banfora"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Banfora_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30782
+  }
+}

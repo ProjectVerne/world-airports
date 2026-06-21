@@ -1,0 +1,30 @@
+{
+  "key": "_us_20986",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KS01",
+    "local": "S01"
+  },
+  "name": "Conrad Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.168598,
+    "longitude": -111.975998,
+    "elevation_ft": 3545,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Conrad"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20986
+  }
+}

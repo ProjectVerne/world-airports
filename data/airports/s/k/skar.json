@@ -1,0 +1,31 @@
+{
+  "key": "skar",
+  "codes": {
+    "icao": "SKAR",
+    "iata": "AXM",
+    "gps": "SKAR",
+    "local": "AXM"
+  },
+  "name": "El Eden Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.45278,
+    "longitude": -75.7664,
+    "elevation_ft": 3990,
+    "iso_country": "CO",
+    "iso_region": "CO-QUI",
+    "municipality": "Armenia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Ed%C3%A9n_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6099
+  }
+}

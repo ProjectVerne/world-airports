@@ -1,0 +1,30 @@
+{
+  "key": "_us_16961",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT03",
+    "local": "CT03"
+  },
+  "name": "Bristol Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.6759,
+    "longitude": -72.936203,
+    "elevation_ft": 406,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Bristol"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16961
+  }
+}

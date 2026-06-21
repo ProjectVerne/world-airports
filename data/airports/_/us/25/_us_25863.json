@@ -1,0 +1,32 @@
+{
+  "key": "_us_25863",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WN68",
+    "local": "WN68"
+  },
+  "name": "Aurora Medical Center Burlington Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.672512,
+    "longitude": -88.281503,
+    "elevation_ft": 804,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Burlington"
+  },
+  "keywords": [
+    "Aurora Memorial Hospital of Burlington Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25863
+  }
+}

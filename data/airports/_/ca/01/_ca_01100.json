@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01100",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJN4",
+    "local": "CJN4"
+  },
+  "name": "Assiniboia Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.734699,
+    "longitude": -105.946999,
+    "elevation_ft": 2370,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Assiniboia"
+  },
+  "keywords": [
+    "JN4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Assiniboia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1100
+  }
+}

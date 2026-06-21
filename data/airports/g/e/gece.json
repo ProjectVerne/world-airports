@@ -1,0 +1,33 @@
+{
+  "key": "gece",
+  "codes": {
+    "icao": "GECE",
+    "iata": "JCU",
+    "gps": "GECE",
+    "local": null
+  },
+  "name": "Ceuta Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.892657,
+    "longitude": -5.306321,
+    "elevation_ft": 8,
+    "iso_country": "ES",
+    "iso_region": "ES-CE",
+    "municipality": "Ceuta"
+  },
+  "keywords": [
+    "GECT"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ceuta_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35151
+  }
+}

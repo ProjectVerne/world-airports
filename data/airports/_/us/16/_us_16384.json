@@ -1,0 +1,33 @@
+{
+  "key": "_us_16384",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Johnson Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 35.2645,
+    "longitude": -91.189003,
+    "elevation_ft": 208,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "McCrory"
+  },
+  "keywords": [
+    "AR98",
+    "US-11119"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16384
+  }
+}

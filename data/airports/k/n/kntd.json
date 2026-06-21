@@ -1,0 +1,31 @@
+{
+  "key": "kntd",
+  "codes": {
+    "icao": "KNTD",
+    "iata": "NTD",
+    "gps": "KNTD",
+    "local": "NTD"
+  },
+  "name": "Point Mugu Naval Air Station (Naval Base Ventura Co)",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.1203,
+    "longitude": -119.121002,
+    "elevation_ft": 13,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Point Mugu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Air_Station_Point_Mugu",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3739
+  }
+}

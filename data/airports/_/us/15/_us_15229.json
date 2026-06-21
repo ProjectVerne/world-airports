@@ -1,0 +1,30 @@
+{
+  "key": "_us_15229",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "8VA3",
+    "local": "8VA3"
+  },
+  "name": "Fauquier Hospital Emergency Transport Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.711498,
+    "longitude": -77.809402,
+    "elevation_ft": 600,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Warrenton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15229
+  }
+}

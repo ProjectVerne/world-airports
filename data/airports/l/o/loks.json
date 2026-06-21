@@ -1,0 +1,32 @@
+{
+  "key": "loks",
+  "codes": {
+    "icao": "LOKS",
+    "iata": null,
+    "gps": "LOKS",
+    "local": null
+  },
+  "name": "St. Andrä Im Lavanttal Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.759459,
+    "longitude": 14.824183,
+    "elevation_ft": 1414,
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "St. Andrä"
+  },
+  "keywords": [
+    "AT-0043"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43799
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "katw",
+  "codes": {
+    "icao": "KATW",
+    "iata": "ATW",
+    "gps": "KATW",
+    "local": "ATW"
+  },
+  "name": "Appleton International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.258515,
+    "longitude": -88.519,
+    "elevation_ft": 918,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Appleton"
+  },
+  "keywords": [
+    "Outagamie County Regional Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Outagamie_County_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19320
+  }
+}

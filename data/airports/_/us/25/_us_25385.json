@@ -1,0 +1,32 @@
+{
+  "key": "_us_25385",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VA53",
+    "local": "VA53"
+  },
+  "name": "Nichols Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.647533,
+    "longitude": -76.432983,
+    "elevation_ft": 22,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "White Stone"
+  },
+  "keywords": [
+    "US-VA53"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25385
+  }
+}

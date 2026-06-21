@@ -1,0 +1,30 @@
+{
+  "key": "_us_08004",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "16MT",
+    "local": "16MT"
+  },
+  "name": "Bangart Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.405201,
+    "longitude": -109.129997,
+    "elevation_ft": 4320,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Roberts"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8004
+  }
+}

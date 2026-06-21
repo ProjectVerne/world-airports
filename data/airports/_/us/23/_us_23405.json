@@ -1,0 +1,32 @@
+{
+  "key": "_us_23405",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NY23",
+    "local": "NY23"
+  },
+  "name": "MAC Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.987597,
+    "longitude": -74.966499,
+    "elevation_ft": 1210,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Mohawk"
+  },
+  "keywords": [
+    "Mohawk Aviation Center"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23405
+  }
+}

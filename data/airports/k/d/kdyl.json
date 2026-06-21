@@ -1,0 +1,33 @@
+{
+  "key": "kdyl",
+  "codes": {
+    "icao": "KDYL",
+    "iata": "DYL",
+    "gps": "KDYL",
+    "local": "DYL"
+  },
+  "name": "Doylestown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.333,
+    "longitude": -75.122299,
+    "elevation_ft": 394,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Doylestown"
+  },
+  "keywords": [
+    "N88"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Doylestown_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19679
+  }
+}

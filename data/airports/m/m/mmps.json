@@ -1,0 +1,33 @@
+{
+  "key": "mmps",
+  "codes": {
+    "icao": "MMPS",
+    "iata": "PXM",
+    "gps": "MMPS",
+    "local": "P1M"
+  },
+  "name": "Puerto Escondido International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.876808,
+    "longitude": -97.0891,
+    "elevation_ft": 294,
+    "iso_country": "MX",
+    "iso_region": "MX-OAX",
+    "municipality": "Puerto Escondido"
+  },
+  "keywords": [
+    "Aeropuerto Internacional de Puerto Escondido"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Puerto_Escondido_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4746
+  }
+}

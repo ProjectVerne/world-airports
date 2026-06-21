@@ -1,0 +1,33 @@
+{
+  "key": "ethc",
+  "codes": {
+    "icao": "ETHC",
+    "iata": null,
+    "gps": "ETHC",
+    "local": null
+  },
+  "name": "Celle Army Airfield",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.591202,
+    "longitude": 10.0221,
+    "elevation_ft": 129,
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Celle"
+  },
+  "keywords": [
+    "ZCN"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Celle_Air_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2722
+  }
+}

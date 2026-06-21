@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01000",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFU3",
+    "local": "CFU3"
+  },
+  "name": "Chipman Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.718754,
+    "longitude": -112.63586,
+    "elevation_ft": 2195,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Chipman"
+  },
+  "keywords": [
+    "FU3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chipman_Airport_(Alberta)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1000
+  }
+}

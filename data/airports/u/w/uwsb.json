@@ -1,0 +1,35 @@
+{
+  "key": "uwsb",
+  "codes": {
+    "icao": "UWSB",
+    "iata": "BWO",
+    "gps": "UWSB",
+    "local": null
+  },
+  "name": "Balakovo Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.858299,
+    "longitude": 47.745602,
+    "elevation_ft": 95,
+    "iso_country": "RU",
+    "iso_region": "RU-SAR",
+    "municipality": "Balakovo"
+  },
+  "keywords": [
+    "Malaya Bykovka Airport",
+    "Аэропорт Балаково",
+    "Аэропорт Малая Быковка"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Balakovo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30804
+  }
+}

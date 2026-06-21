@@ -1,0 +1,31 @@
+{
+  "key": "gosm",
+  "codes": {
+    "icao": "GOSM",
+    "iata": "MAX",
+    "gps": "GOSM",
+    "local": null
+  },
+  "name": "Ouro Sogui Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.5936,
+    "longitude": -13.3228,
+    "elevation_ft": 85,
+    "iso_country": "SN",
+    "iso_region": "SN-MT",
+    "municipality": "Ouro Sogui"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ouro_Sogui_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31879
+  }
+}

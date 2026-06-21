@@ -1,0 +1,34 @@
+{
+  "key": "kboi",
+  "codes": {
+    "icao": "KBOI",
+    "iata": "BOI",
+    "gps": "KBOI",
+    "local": "BOI"
+  },
+  "name": "Boise Air Terminal/Gowen Field",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.5644,
+    "longitude": -116.223,
+    "elevation_ft": 2871,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Boise"
+  },
+  "keywords": [
+    "Boise Air Terminal",
+    "Gowen Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Boise_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3421
+  }
+}

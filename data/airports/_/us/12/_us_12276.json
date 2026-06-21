@@ -1,0 +1,33 @@
+{
+  "key": "_us_12276",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5AZ5",
+    "local": "5AZ5"
+  },
+  "name": "Saguaro Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.174019,
+    "longitude": -110.73575,
+    "elevation_ft": 3102,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Tucson"
+  },
+  "keywords": [
+    "tucson",
+    "saguaro"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12276
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "koma",
+  "codes": {
+    "icao": "KOMA",
+    "iata": "OMA",
+    "gps": "KOMA",
+    "local": "OMA"
+  },
+  "name": "Eppley Airfield",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.3032,
+    "longitude": -95.894096,
+    "elevation_ft": 984,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Omaha"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Eppley_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3751
+  }
+}

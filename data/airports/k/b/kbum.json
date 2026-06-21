@@ -1,0 +1,30 @@
+{
+  "key": "kbum",
+  "codes": {
+    "icao": "KBUM",
+    "iata": "BUM",
+    "gps": "KBUM",
+    "local": "BUM"
+  },
+  "name": "Butler Memorial Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.289799,
+    "longitude": -94.340103,
+    "elevation_ft": 892,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Butler"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19414
+  }
+}

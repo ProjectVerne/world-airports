@@ -1,0 +1,32 @@
+{
+  "key": "_gb_509446",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "PSNI Maydown Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 55.026446,
+    "longitude": -7.256445,
+    "elevation_ft": 60,
+    "iso_country": "GB",
+    "iso_region": "GB-NIR",
+    "municipality": "Maydown"
+  },
+  "keywords": [
+    "GB-1070"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509446
+  }
+}

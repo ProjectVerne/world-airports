@@ -1,0 +1,32 @@
+{
+  "key": "_us_506379",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WI48",
+    "local": "WI48"
+  },
+  "name": "St Agnes Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.777083,
+    "longitude": -88.429736,
+    "elevation_ft": 759,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Fond du Lac"
+  },
+  "keywords": [
+    "US-7525"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 506379
+  }
+}

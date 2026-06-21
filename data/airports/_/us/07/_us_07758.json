@@ -1,0 +1,32 @@
+{
+  "key": "_us_07758",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "12GA",
+    "local": "12GA"
+  },
+  "name": "Eastside Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.877261,
+    "longitude": -84.019827,
+    "elevation_ft": 1065,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Snellville"
+  },
+  "keywords": [
+    "Gwinnett Community Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7758
+  }
+}

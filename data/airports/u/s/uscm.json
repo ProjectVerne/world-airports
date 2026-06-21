@@ -1,0 +1,31 @@
+{
+  "key": "uscm",
+  "codes": {
+    "icao": "USCM",
+    "iata": "MQF",
+    "gps": "USCM",
+    "local": null
+  },
+  "name": "Magnitogorsk International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.391991,
+    "longitude": 58.755235,
+    "elevation_ft": 1430,
+    "iso_country": "RU",
+    "iso_region": "RU-BA",
+    "municipality": "Magnitogorsk"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Magnitogorsk_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26371
+  }
+}

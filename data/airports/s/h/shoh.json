@@ -1,0 +1,30 @@
+{
+  "key": "shoh",
+  "codes": {
+    "icao": "SHOH",
+    "iata": null,
+    "gps": "SHOH",
+    "local": null
+  },
+  "name": "Military School Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -33.4089,
+    "longitude": -70.580866,
+    "elevation_ft": 2154,
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Las Condes"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 605427
+  }
+}

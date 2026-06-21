@@ -1,0 +1,30 @@
+{
+  "key": "yars",
+  "codes": {
+    "icao": "YARS",
+    "iata": null,
+    "gps": "YARS",
+    "local": null
+  },
+  "name": "Ardrossan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.447189,
+    "longitude": 137.888292,
+    "elevation_ft": 92,
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": null
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27341
+  }
+}

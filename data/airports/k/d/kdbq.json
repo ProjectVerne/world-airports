@@ -1,0 +1,31 @@
+{
+  "key": "kdbq",
+  "codes": {
+    "icao": "KDBQ",
+    "iata": "DBQ",
+    "gps": "KDBQ",
+    "local": "DBQ"
+  },
+  "name": "Dubuque Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.402,
+    "longitude": -90.709503,
+    "elevation_ft": 1077,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Dubuque"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dubuque_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3482
+  }
+}

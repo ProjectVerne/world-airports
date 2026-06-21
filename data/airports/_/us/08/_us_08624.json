@@ -1,0 +1,30 @@
+{
+  "key": "_us_08624",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1PN1",
+    "local": "1PN1"
+  },
+  "name": "Napodano Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.334202,
+    "longitude": -80.420601,
+    "elevation_ft": 1060,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Transfer"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8624
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_09102",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Willcox Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.823399,
+    "longitude": -85.591904,
+    "elevation_ft": 990,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Knightstown"
+  },
+  "keywords": [
+    "26IN",
+    "US-9807"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9102
+  }
+}

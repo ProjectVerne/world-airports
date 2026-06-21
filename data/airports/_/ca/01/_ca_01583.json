@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01583",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSZ6",
+    "local": "CSZ6"
+  },
+  "name": "St-Jérôme (Hydro-Québec) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.770763,
+    "longitude": -74.026997,
+    "elevation_ft": 340,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "St-Jérôme"
+  },
+  "keywords": [
+    "SZ6"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1583
+  }
+}

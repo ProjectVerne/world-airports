@@ -1,0 +1,33 @@
+{
+  "key": "kbzn",
+  "codes": {
+    "icao": "KBZN",
+    "iata": "BZN",
+    "gps": "KBZN",
+    "local": "BZN"
+  },
+  "name": "Bozeman Yellowstone International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.778853,
+    "longitude": -111.153711,
+    "elevation_ft": 4473,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Bozeman"
+  },
+  "keywords": [
+    "Gallatin Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bozeman_Yellowstone_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3437
+  }
+}

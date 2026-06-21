@@ -1,0 +1,31 @@
+{
+  "key": "slpo",
+  "codes": {
+    "icao": "SLPO",
+    "iata": "POI",
+    "gps": "SLPO",
+    "local": null
+  },
+  "name": "Capitan Nicolas Rojas Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -19.543331,
+    "longitude": -65.723734,
+    "elevation_ft": 12922,
+    "iso_country": "BO",
+    "iso_region": "BO-P",
+    "municipality": "Potosí"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cap._Nicolas_Rojas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6186
+  }
+}

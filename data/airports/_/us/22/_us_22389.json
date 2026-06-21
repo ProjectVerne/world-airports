@@ -1,0 +1,30 @@
+{
+  "key": "_us_22389",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MS89",
+    "local": "MS89"
+  },
+  "name": "Gulfport Jail Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.438971,
+    "longitude": -89.056131,
+    "elevation_ft": 50,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Gulfport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22389
+  }
+}

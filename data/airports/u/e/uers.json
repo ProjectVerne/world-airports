@@ -1,0 +1,34 @@
+{
+  "key": "uers",
+  "codes": {
+    "icao": "UERS",
+    "iata": "SYS",
+    "gps": "UERS",
+    "local": null
+  },
+  "name": "Saskylakh Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 71.927902,
+    "longitude": 114.080002,
+    "elevation_ft": 0,
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Saskylakh"
+  },
+  "keywords": [
+    "УЕРС",
+    "Аэропорт Саскылах"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saskylakh_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44870
+  }
+}

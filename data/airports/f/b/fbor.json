@@ -1,0 +1,31 @@
+{
+  "key": "fbor",
+  "codes": {
+    "icao": "FBOR",
+    "iata": "ORP",
+    "gps": "FBOR",
+    "local": null
+  },
+  "name": "Orapa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -21.265901,
+    "longitude": 25.319667,
+    "elevation_ft": 3100,
+    "iso_country": "BW",
+    "iso_region": "BW-CE",
+    "municipality": "Orapa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Orapa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30218
+  }
+}

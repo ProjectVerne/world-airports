@@ -1,0 +1,34 @@
+{
+  "key": "_ca_01910",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CYSQ",
+    "local": null
+  },
+  "name": "Atlin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.57833,
+    "longitude": -133.668938,
+    "elevation_ft": 2348,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Atlin"
+  },
+  "keywords": [
+    "YSQ",
+    "EY5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Atlin_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1910
+  }
+}

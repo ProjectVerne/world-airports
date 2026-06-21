@@ -1,0 +1,30 @@
+{
+  "key": "_us_329265",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "DE39",
+    "local": "DE39"
+  },
+  "name": "ChristianaCare Wilmington Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.751111,
+    "longitude": -75.550556,
+    "elevation_ft": 200,
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Wilmington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 329265
+  }
+}

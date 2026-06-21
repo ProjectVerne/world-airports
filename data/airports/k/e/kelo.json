@@ -1,0 +1,31 @@
+{
+  "key": "kelo",
+  "codes": {
+    "icao": "KELO",
+    "iata": "LYU",
+    "gps": "KELO",
+    "local": "ELO"
+  },
+  "name": "Ely Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.824501,
+    "longitude": -91.830704,
+    "elevation_ft": 1456,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Ely"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ely_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3511
+  }
+}

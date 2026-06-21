@@ -1,0 +1,30 @@
+{
+  "key": "_us_08470",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MO1",
+    "local": "1MO1"
+  },
+  "name": "St Joseph Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.5681,
+    "longitude": -90.433998,
+    "elevation_ft": 530,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Kirkwood"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8470
+  }
+}

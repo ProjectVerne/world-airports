@@ -1,0 +1,32 @@
+{
+  "key": "_us_352256",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "6KS1",
+    "local": "6KS1"
+  },
+  "name": "Newman Regional Health Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.410613,
+    "longitude": -96.195576,
+    "elevation_ft": 1164,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Emporia"
+  },
+  "keywords": [
+    "US-6417"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 352256
+  }
+}

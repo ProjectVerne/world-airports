@@ -1,0 +1,30 @@
+{
+  "key": "_us_10422",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3CL9",
+    "local": "3CL9"
+  },
+  "name": "SCE Northern Division Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.286414,
+    "longitude": -119.170676,
+    "elevation_ft": 273,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Ventura"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10422
+  }
+}

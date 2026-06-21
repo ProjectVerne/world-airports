@@ -1,0 +1,32 @@
+{
+  "key": "klem",
+  "codes": {
+    "icao": "KLEM",
+    "iata": "LEM",
+    "gps": "KLEM",
+    "local": "LEM"
+  },
+  "name": "Lemmon Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.918701,
+    "longitude": -102.106003,
+    "elevation_ft": 2571,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Lemmon"
+  },
+  "keywords": [
+    "Ray Kolb Field"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20330
+  }
+}

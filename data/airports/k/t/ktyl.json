@@ -1,0 +1,31 @@
+{
+  "key": "ktyl",
+  "codes": {
+    "icao": "KTYL",
+    "iata": "TYZ",
+    "gps": "KTYL",
+    "local": "TYL"
+  },
+  "name": "Taylor Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.452801,
+    "longitude": -110.114998,
+    "elevation_ft": 5823,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Taylor"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Airport_(Arizona)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21239
+  }
+}

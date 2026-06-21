@@ -1,0 +1,31 @@
+{
+  "key": "kcds",
+  "codes": {
+    "icao": "KCDS",
+    "iata": "CDS",
+    "gps": "KCDS",
+    "local": "CDS"
+  },
+  "name": "Childress Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.4338,
+    "longitude": -100.288002,
+    "elevation_ft": 1954,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Childress"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Childress_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19475
+  }
+}

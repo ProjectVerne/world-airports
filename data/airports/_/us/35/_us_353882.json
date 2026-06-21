@@ -1,0 +1,32 @@
+{
+  "key": "_us_353882",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AL31",
+    "local": "AL31"
+  },
+  "name": "USA Fed Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.686606,
+    "longitude": -88.188789,
+    "elevation_ft": 174,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Mobile"
+  },
+  "keywords": [
+    "US-6787"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 353882
+  }
+}

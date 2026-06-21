@@ -1,0 +1,31 @@
+{
+  "key": "cyfa",
+  "codes": {
+    "icao": "CYFA",
+    "iata": "YFA",
+    "gps": "CYFA",
+    "local": null
+  },
+  "name": "Fort Albany Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.203451,
+    "longitude": -81.695194,
+    "elevation_ft": 48,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Fort Albany"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Albany_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1728
+  }
+}

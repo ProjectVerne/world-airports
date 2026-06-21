@@ -1,0 +1,30 @@
+{
+  "key": "aysx",
+  "codes": {
+    "icao": "AYSX",
+    "iata": "MBV",
+    "gps": "AYSX",
+    "local": "MASA"
+  },
+  "name": "Masa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.345,
+    "longitude": 147.591,
+    "elevation_ft": 5900,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Masa"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 313953
+  }
+}

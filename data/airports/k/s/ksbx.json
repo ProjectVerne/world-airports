@@ -1,0 +1,31 @@
+{
+  "key": "ksbx",
+  "codes": {
+    "icao": "KSBX",
+    "iata": "SBX",
+    "gps": "KSBX",
+    "local": "SBX"
+  },
+  "name": "Shelby Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.540699,
+    "longitude": -111.871002,
+    "elevation_ft": 3443,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Shelby"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shelby_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21040
+  }
+}

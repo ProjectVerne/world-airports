@@ -1,0 +1,32 @@
+{
+  "key": "ayns",
+  "codes": {
+    "icao": "AYNS",
+    "iata": "BXZ",
+    "gps": "AYNS",
+    "local": "BSL"
+  },
+  "name": "Bunsil Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.7243,
+    "longitude": 147.8667,
+    "elevation_ft": 201,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Bunsil - Umboi Island"
+  },
+  "keywords": [
+    "Bonsil Airport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 310095
+  }
+}

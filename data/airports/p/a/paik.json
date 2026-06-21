@@ -1,0 +1,31 @@
+{
+  "key": "paik",
+  "codes": {
+    "icao": "PAIK",
+    "iata": "IAN",
+    "gps": "PAIK",
+    "local": "IAN"
+  },
+  "name": "Bob Baker Memorial Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 66.976128,
+    "longitude": -160.439014,
+    "elevation_ft": 166,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Kiana"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bob_Baker_Memorial_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5376
+  }
+}

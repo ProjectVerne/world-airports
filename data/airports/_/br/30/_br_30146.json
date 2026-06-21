@@ -1,0 +1,32 @@
+{
+  "key": "_br_30146",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SDKK",
+    "local": "SP0058"
+  },
+  "name": "Mococa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -21.487802,
+    "longitude": -47.034123,
+    "elevation_ft": 2116,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Mococa"
+  },
+  "keywords": [
+    "QOA"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30146
+  }
+}

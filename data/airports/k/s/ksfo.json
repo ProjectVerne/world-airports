@@ -1,0 +1,34 @@
+{
+  "key": "ksfo",
+  "codes": {
+    "icao": "KSFO",
+    "iata": "SFO",
+    "gps": "KSFO",
+    "local": "SFO"
+  },
+  "name": "San Francisco International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.619806,
+    "longitude": -122.374821,
+    "elevation_ft": 13,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Francisco"
+  },
+  "keywords": [
+    "QSF",
+    "QBA"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Francisco_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3878
+  }
+}

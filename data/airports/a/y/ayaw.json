@@ -1,0 +1,31 @@
+{
+  "key": "ayaw",
+  "codes": {
+    "icao": "AYAW",
+    "iata": "AWB",
+    "gps": "AYAW",
+    "local": "AWB"
+  },
+  "name": "Awaba Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.013414,
+    "longitude": 142.752099,
+    "elevation_ft": 32,
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Awaba"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Awaba_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42763
+  }
+}

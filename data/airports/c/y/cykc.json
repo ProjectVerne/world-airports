@@ -1,0 +1,33 @@
+{
+  "key": "cykc",
+  "codes": {
+    "icao": "CYKC",
+    "iata": "YKC",
+    "gps": "CYKC",
+    "local": null
+  },
+  "name": "Collins Bay Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.236099,
+    "longitude": -103.678001,
+    "elevation_ft": 1341,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Collins Bay"
+  },
+  "keywords": [
+    "YKC"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Collins_Bay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1785
+  }
+}

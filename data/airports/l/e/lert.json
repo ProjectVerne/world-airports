@@ -1,0 +1,31 @@
+{
+  "key": "lert",
+  "codes": {
+    "icao": "LERT",
+    "iata": "ROZ",
+    "gps": "LERT",
+    "local": null
+  },
+  "name": "Rota Naval Station Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.645199,
+    "longitude": -6.34946,
+    "elevation_ft": 86,
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Rota"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Naval_Station_Rota_Spain",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4032
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_509129",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Nye Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.42981,
+    "longitude": -109.81751,
+    "elevation_ft": 4856,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Nye"
+  },
+  "keywords": [
+    "US-7777"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 509129
+  }
+}

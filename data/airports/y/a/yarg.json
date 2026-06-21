@@ -1,0 +1,31 @@
+{
+  "key": "yarg",
+  "codes": {
+    "icao": "YARG",
+    "iata": "GYL",
+    "gps": "YARG",
+    "local": null
+  },
+  "name": "Argyle Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.636944,
+    "longitude": 128.451389,
+    "elevation_ft": 522,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Argyle_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26892
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "ayop",
+  "codes": {
+    "icao": "AYOP",
+    "iata": "KSP",
+    "gps": "AYOP",
+    "local": null
+  },
+  "name": "Kosipe Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -8.450716,
+    "longitude": 147.209195,
+    "elevation_ft": 6350,
+    "iso_country": "PG",
+    "iso_region": "PG-CPM",
+    "municipality": "Kosipe Mission"
+  },
+  "keywords": [
+    "Kosipi"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308318
+  }
+}

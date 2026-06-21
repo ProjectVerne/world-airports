@@ -1,0 +1,32 @@
+{
+  "key": "nttu",
+  "codes": {
+    "icao": "NTTU",
+    "iata": "TPX",
+    "gps": "NTTU",
+    "local": null
+  },
+  "name": "Tupai Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -16.2423,
+    "longitude": -151.8338,
+    "elevation_ft": 32,
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Tupai Atoll"
+  },
+  "keywords": [
+    "Motu Iti"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 313347
+  }
+}

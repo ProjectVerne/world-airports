@@ -1,0 +1,33 @@
+{
+  "key": "svit",
+  "codes": {
+    "icao": "SVIT",
+    "iata": null,
+    "gps": "SVIT",
+    "local": null
+  },
+  "name": "La Tortuga Punta Delgada Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 10.947963,
+    "longitude": -65.228014,
+    "elevation_ft": 30,
+    "iso_country": "VE",
+    "iso_region": "VE-O",
+    "municipality": "Isla La Tortuga"
+  },
+  "keywords": [
+    "ISL",
+    "SVDA"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40109
+  }
+}

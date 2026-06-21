@@ -1,0 +1,31 @@
+{
+  "key": "rpmh",
+  "codes": {
+    "icao": "RPMH",
+    "iata": "CGM",
+    "gps": "RPMH",
+    "local": null
+  },
+  "name": "Camiguin Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 9.253894,
+    "longitude": 124.709115,
+    "elevation_ft": 53,
+    "iso_country": "PH",
+    "iso_region": "PH-CAM",
+    "municipality": "Mambajao"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Camiguin_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5701
+  }
+}

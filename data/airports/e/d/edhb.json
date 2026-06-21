@@ -1,0 +1,33 @@
+{
+  "key": "edhb",
+  "codes": {
+    "icao": "EDHB",
+    "iata": null,
+    "gps": "EDHB",
+    "local": null
+  },
+  "name": "Grube Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 54.244446,
+    "longitude": 11.024722,
+    "elevation_ft": 7,
+    "iso_country": "DE",
+    "iso_region": "DE-SH",
+    "municipality": "Grube"
+  },
+  "keywords": [
+    "Sonderlandeplatz Grube"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Grube",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28581
+  }
+}

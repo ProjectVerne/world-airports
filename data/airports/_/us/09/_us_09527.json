@@ -1,0 +1,30 @@
+{
+  "key": "_us_09527",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2LS0",
+    "local": "2LS0"
+  },
+  "name": "Air Logistics Galliano Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.414441,
+    "longitude": -90.29769,
+    "elevation_ft": -2,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Galliano"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9527
+  }
+}

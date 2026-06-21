@@ -1,0 +1,32 @@
+{
+  "key": "_us_322810",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NH48",
+    "local": "NH48"
+  },
+  "name": "Elliot Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.984945,
+    "longitude": -71.437722,
+    "elevation_ft": 329,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Manchester"
+  },
+  "keywords": [
+    "US-0526"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322810
+  }
+}

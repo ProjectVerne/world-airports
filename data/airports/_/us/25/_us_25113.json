@@ -1,0 +1,30 @@
+{
+  "key": "_us_25113",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS97",
+    "local": "TS97"
+  },
+  "name": "HPL Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 27.835061,
+    "longitude": -97.540573,
+    "elevation_ft": 60,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Corpus Christi"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25113
+  }
+}

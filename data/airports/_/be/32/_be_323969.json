@@ -1,0 +1,32 @@
+{
+  "key": "_be_323969",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "EBLT",
+    "local": null
+  },
+  "name": "Lint Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 51.136231,
+    "longitude": 4.478994,
+    "elevation_ft": 36,
+    "iso_country": "BE",
+    "iso_region": "BE-VAN",
+    "municipality": "Lint"
+  },
+  "keywords": [
+    "BE-0010"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323969
+  }
+}

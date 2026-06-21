@@ -1,0 +1,31 @@
+{
+  "key": "vejs",
+  "codes": {
+    "icao": "VEJS",
+    "iata": "IXW",
+    "gps": "VEJS",
+    "local": null
+  },
+  "name": "Sonari Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.813706,
+    "longitude": 86.168981,
+    "elevation_ft": 475,
+    "iso_country": "IN",
+    "iso_region": "IN-JH",
+    "municipality": "Jamshedpur"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sonari_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26506
+  }
+}

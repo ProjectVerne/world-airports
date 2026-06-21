@@ -1,0 +1,31 @@
+{
+  "key": "kact",
+  "codes": {
+    "icao": "KACT",
+    "iata": "ACT",
+    "gps": "KACT",
+    "local": "ACT"
+  },
+  "name": "Waco Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.6113,
+    "longitude": -97.230499,
+    "elevation_ft": 516,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Waco"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Waco_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3361
+  }
+}

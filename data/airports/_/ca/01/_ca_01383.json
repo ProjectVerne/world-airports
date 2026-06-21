@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01383",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPB9",
+    "local": "CPB9"
+  },
+  "name": "Baldwin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.2672,
+    "longitude": -79.340599,
+    "elevation_ft": 750,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Baldwin"
+  },
+  "keywords": [
+    "PB9"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Baldwin_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1383
+  }
+}

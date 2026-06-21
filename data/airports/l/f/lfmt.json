@@ -1,0 +1,31 @@
+{
+  "key": "lfmt",
+  "codes": {
+    "icao": "LFMT",
+    "iata": "MPL",
+    "gps": "LFMT",
+    "local": null
+  },
+  "name": "Montpellier-Méditerranée Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.576199,
+    "longitude": 3.96301,
+    "elevation_ft": 17,
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Montpellier/Méditerranée"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Montpellier_-_M%C3%A9diterran%C3%A9e_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4161
+  }
+}

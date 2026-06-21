@@ -1,0 +1,33 @@
+{
+  "key": "nvsd",
+  "codes": {
+    "icao": "NVSD",
+    "iata": "TOH",
+    "gps": "NVSD",
+    "local": null
+  },
+  "name": "Torres Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -13.328,
+    "longitude": 166.638,
+    "elevation_ft": 75,
+    "iso_country": "VU",
+    "iso_region": "VU-TOB",
+    "municipality": "Loh/Linua"
+  },
+  "keywords": [
+    "Loh Island"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Torres_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32469
+  }
+}

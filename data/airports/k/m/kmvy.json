@@ -1,0 +1,31 @@
+{
+  "key": "kmvy",
+  "codes": {
+    "icao": "KMVY",
+    "iata": "MVY",
+    "gps": "KMVY",
+    "local": "MVY"
+  },
+  "name": "Martha's Vineyard Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.393101,
+    "longitude": -70.614304,
+    "elevation_ft": 67,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Martha's Vineyard"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Martha's_Vineyard_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20578
+  }
+}

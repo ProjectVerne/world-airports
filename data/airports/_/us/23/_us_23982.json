@@ -1,0 +1,30 @@
+{
+  "key": "_us_23982",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PA11",
+    "local": "PA11"
+  },
+  "name": "The Gettysburg Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.824699,
+    "longitude": -77.235603,
+    "elevation_ft": 554,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Gettysburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23982
+  }
+}

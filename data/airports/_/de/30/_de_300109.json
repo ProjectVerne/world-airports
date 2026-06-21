@@ -1,0 +1,33 @@
+{
+  "key": "_de_300109",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "ET26"
+  },
+  "name": "Grafenwöhr Medevac Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.708056,
+    "longitude": 11.916111,
+    "elevation_ft": 1354,
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Grafenwöhr"
+  },
+  "keywords": [
+    "US Army Grafenwöhr Training Area",
+    "DE-0036"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300109
+  }
+}

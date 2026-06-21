@@ -1,0 +1,31 @@
+{
+  "key": "levc",
+  "codes": {
+    "icao": "LEVC",
+    "iata": "VLC",
+    "gps": "LEVC",
+    "local": null
+  },
+  "name": "Valencia Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.489162,
+    "longitude": -0.480961,
+    "elevation_ft": 240,
+    "iso_country": "ES",
+    "iso_region": "ES-VC",
+    "municipality": "Valencia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Valencia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4042
+  }
+}

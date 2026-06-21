@@ -1,0 +1,30 @@
+{
+  "key": "_br_601951",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SS7I",
+    "local": "PR0258"
+  },
+  "name": "Inquima Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.295507,
+    "longitude": -51.316059,
+    "elevation_ft": 2335,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Cambé"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 601951
+  }
+}

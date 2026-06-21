@@ -1,0 +1,31 @@
+{
+  "key": "usrr",
+  "codes": {
+    "icao": "USRR",
+    "iata": "SGC",
+    "gps": "USRR",
+    "local": null
+  },
+  "name": "Surgut International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.340501,
+    "longitude": 73.405782,
+    "elevation_ft": 200,
+    "iso_country": "RU",
+    "iso_region": "RU-KHM",
+    "municipality": "Surgut"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Surgut_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26377
+  }
+}

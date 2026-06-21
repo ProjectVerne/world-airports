@@ -1,0 +1,31 @@
+{
+  "key": "symb",
+  "codes": {
+    "icao": "SYMB",
+    "iata": "USI",
+    "gps": "SYMB",
+    "local": null
+  },
+  "name": "Mabaruma Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.20017,
+    "longitude": -59.777965,
+    "elevation_ft": 45,
+    "iso_country": "GY",
+    "iso_region": "GY-BA",
+    "municipality": "Mabaruma"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mabaruma_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41517
+  }
+}

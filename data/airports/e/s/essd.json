@@ -1,0 +1,31 @@
+{
+  "key": "essd",
+  "codes": {
+    "icao": "ESSD",
+    "iata": "BLE",
+    "gps": "ESSD",
+    "local": null
+  },
+  "name": "Dala Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.422001,
+    "longitude": 15.5152,
+    "elevation_ft": 503,
+    "iso_country": "SE",
+    "iso_region": "SE-W",
+    "municipality": "Borlange"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Borl%C3%A4nge_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2703
+  }
+}

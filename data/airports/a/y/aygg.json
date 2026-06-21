@@ -1,0 +1,30 @@
+{
+  "key": "aygg",
+  "codes": {
+    "icao": "AYGG",
+    "iata": "GRL",
+    "gps": "AYGG",
+    "local": "GSA"
+  },
+  "name": "Garasa Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.980713,
+    "longitude": 147.213461,
+    "elevation_ft": 2539,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Au"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308005
+  }
+}

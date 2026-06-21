@@ -1,0 +1,30 @@
+{
+  "key": "_us_25004",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TN90",
+    "local": "TN90"
+  },
+  "name": "Mathews Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.169399,
+    "longitude": -85.264999,
+    "elevation_ft": 710,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Chattanooga"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25004
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01333",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNR3",
+    "local": "CNR3"
+  },
+  "name": "Sault Ste. Marie Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.504398,
+    "longitude": -84.323303,
+    "elevation_ft": 580,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Sault Ste. Marie"
+  },
+  "keywords": [
+    "NR3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1333
+  }
+}

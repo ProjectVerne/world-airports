@@ -1,0 +1,33 @@
+{
+  "key": "eddn",
+  "codes": {
+    "icao": "EDDN",
+    "iata": "NUE",
+    "gps": "EDDN",
+    "local": null
+  },
+  "name": "Nuremberg Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.498699,
+    "longitude": 11.078056,
+    "elevation_ft": 1046,
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Nuremberg"
+  },
+  "keywords": [
+    "Nürnberg"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nuremberg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2219
+  }
+}

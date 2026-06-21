@@ -1,0 +1,31 @@
+{
+  "key": "fxlr",
+  "codes": {
+    "icao": "FXLR",
+    "iata": "LRB",
+    "gps": "FXLR",
+    "local": null
+  },
+  "name": "Leribe Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -28.8556,
+    "longitude": 28.052799,
+    "elevation_ft": 5350,
+    "iso_country": "LS",
+    "iso_region": "LS-C",
+    "municipality": "Leribe"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Leribe_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30070
+  }
+}

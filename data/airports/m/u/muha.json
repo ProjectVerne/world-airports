@@ -1,0 +1,33 @@
+{
+  "key": "muha",
+  "codes": {
+    "icao": "MUHA",
+    "iata": "HAV",
+    "gps": "MUHA",
+    "local": null
+  },
+  "name": "José Martí International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.989201,
+    "longitude": -82.409103,
+    "elevation_ft": 210,
+    "iso_country": "CU",
+    "iso_region": "CU-03",
+    "municipality": "Havana"
+  },
+  "keywords": [
+    "Habana"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4839
+  }
+}

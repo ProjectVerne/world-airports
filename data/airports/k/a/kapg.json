@@ -1,0 +1,33 @@
+{
+  "key": "kapg",
+  "codes": {
+    "icao": "KAPG",
+    "iata": "APG",
+    "gps": "KAPG",
+    "local": "APG"
+  },
+  "name": "Phillips Army Air Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.466202,
+    "longitude": -76.1688,
+    "elevation_ft": 57,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Aberdeen"
+  },
+  "keywords": [
+    "Aberdeen Proving Grounds"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Phillips_Army_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3381
+  }
+}

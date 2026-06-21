@@ -1,0 +1,31 @@
+{
+  "key": "klci",
+  "codes": {
+    "icao": "KLCI",
+    "iata": "LCI",
+    "gps": "KLCI",
+    "local": "LCI"
+  },
+  "name": "Laconia Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.572701,
+    "longitude": -71.4189,
+    "elevation_ft": 545,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Laconia / Gilford"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Laconia_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20325
+  }
+}

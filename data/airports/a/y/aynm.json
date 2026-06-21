@@ -1,0 +1,30 @@
+{
+  "key": "aynm",
+  "codes": {
+    "icao": "AYNM",
+    "iata": "KSB",
+    "gps": "AYNM",
+    "local": "KNB"
+  },
+  "name": "Kasonombe Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.3819,
+    "longitude": 146.9859,
+    "elevation_ft": 5800,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Kasonombe"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 311620
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "lric",
+  "codes": {
+    "icao": "LRIC",
+    "iata": null,
+    "gps": "LRIC",
+    "local": null
+  },
+  "name": "Ianca Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.158655,
+    "longitude": 27.43093,
+    "elevation_ft": 131,
+    "iso_country": "RO",
+    "iso_region": "RO-BR",
+    "municipality": "Ianca"
+  },
+  "keywords": [
+    "LR79"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ianca_Air_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5667
+  }
+}

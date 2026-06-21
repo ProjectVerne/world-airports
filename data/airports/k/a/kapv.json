@@ -1,0 +1,31 @@
+{
+  "key": "kapv",
+  "codes": {
+    "icao": "KAPV",
+    "iata": "APV",
+    "gps": "KAPV",
+    "local": "APV"
+  },
+  "name": "Apple Valley Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.575298,
+    "longitude": -117.185997,
+    "elevation_ft": 3062,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Apple Valley"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Apple_Valley_Airport_(California)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19296
+  }
+}

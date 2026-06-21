@@ -1,0 +1,34 @@
+{
+  "key": "_us_21503",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Charlie Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 32.419601,
+    "longitude": -93.234299,
+    "elevation_ft": 240,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Fryeburg"
+  },
+  "keywords": [
+    "LA36",
+    "US-LA36",
+    "US-11568"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21503
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_br_533019",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SSEO",
+    "local": "AL0020"
+  },
+  "name": "MS Maragogi Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -9.023025,
+    "longitude": -35.225023,
+    "elevation_ft": 30,
+    "iso_country": "BR",
+    "iso_region": "BR-AL",
+    "municipality": "Maragogi"
+  },
+  "keywords": [
+    "BR-1899"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 533019
+  }
+}

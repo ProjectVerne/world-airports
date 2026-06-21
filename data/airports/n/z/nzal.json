@@ -1,0 +1,30 @@
+{
+  "key": "nzal",
+  "codes": {
+    "icao": "NZAL",
+    "iata": null,
+    "gps": "NZAL",
+    "local": null
+  },
+  "name": "Avalon Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -41.186766,
+    "longitude": 174.943982,
+    "elevation_ft": 93,
+    "iso_country": "NZ",
+    "iso_region": "NZ-WGN",
+    "municipality": "Wellington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44672
+  }
+}

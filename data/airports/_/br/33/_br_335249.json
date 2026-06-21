@@ -1,0 +1,32 @@
+{
+  "key": "_br_335249",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNEV",
+    "local": "SC0076"
+  },
+  "name": "Vargas Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -27.148949,
+    "longitude": -48.95695,
+    "elevation_ft": 200,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Brusque"
+  },
+  "keywords": [
+    "BR-0805"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 335249
+  }
+}

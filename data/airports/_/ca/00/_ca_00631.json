@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00631",
+  "codes": {
+    "icao": null,
+    "iata": "DUQ",
+    "gps": "CAM3",
+    "local": "CAM3"
+  },
+  "name": "Duncan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.754534,
+    "longitude": -123.709702,
+    "elevation_ft": 300,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Duncan"
+  },
+  "keywords": [
+    "AM3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Duncan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 631
+  }
+}

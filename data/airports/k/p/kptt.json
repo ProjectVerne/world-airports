@@ -1,0 +1,34 @@
+{
+  "key": "kptt",
+  "codes": {
+    "icao": "KPTT",
+    "iata": "PTT",
+    "gps": "KPTT",
+    "local": "PTT"
+  },
+  "name": "Pratt Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.701599,
+    "longitude": -98.746902,
+    "elevation_ft": 1953,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Pratt"
+  },
+  "keywords": [
+    "Pratt Industrial Airport",
+    "Pratt AAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pratt_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20879
+  }
+}

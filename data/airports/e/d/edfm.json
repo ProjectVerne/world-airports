@@ -1,0 +1,33 @@
+{
+  "key": "edfm",
+  "codes": {
+    "icao": "EDFM",
+    "iata": "MHG",
+    "gps": "EDFM",
+    "local": null
+  },
+  "name": "Mannheim-City Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.473057,
+    "longitude": 8.514167,
+    "elevation_ft": 308,
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Mannheim"
+  },
+  "keywords": [
+    "Mannheim"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mannheim_City_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2228
+  }
+}

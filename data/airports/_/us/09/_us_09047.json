@@ -1,0 +1,32 @@
+{
+  "key": "_us_09047",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "25FA",
+    "local": "25FA"
+  },
+  "name": "Jackson Memorial Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 25.7929,
+    "longitude": -80.204803,
+    "elevation_ft": 53,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Miami"
+  },
+  "keywords": [
+    "01X"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9047
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "lbml",
+  "codes": {
+    "icao": "LBML",
+    "iata": null,
+    "gps": "LBML",
+    "local": null
+  },
+  "name": "Malenovo Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.56004,
+    "longitude": 26.776538,
+    "elevation_ft": 482,
+    "iso_country": "BG",
+    "iso_region": "BG-28",
+    "municipality": "Straldzha"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 608324
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kcev",
+  "codes": {
+    "icao": "KCEV",
+    "iata": "CEV",
+    "gps": "KCEV",
+    "local": "CEV"
+  },
+  "name": "Mettel Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.698502,
+    "longitude": -85.1297,
+    "elevation_ft": 867,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Connersville"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mettel_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19480
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "ooms",
+  "codes": {
+    "icao": "OOMS",
+    "iata": "MCT",
+    "gps": "OOMS",
+    "local": null
+  },
+  "name": "Muscat International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.600218,
+    "longitude": 58.285268,
+    "elevation_ft": 48,
+    "iso_country": "OM",
+    "iso_region": "OM-MA",
+    "municipality": "Muscat/Seeb"
+  },
+  "keywords": [
+    "Seeb International Airport",
+    "Masqat",
+    "Seeb"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Seeb_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5242
+  }
+}

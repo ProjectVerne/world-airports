@@ -1,0 +1,32 @@
+{
+  "key": "_us_25946",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WS52",
+    "local": "WS52"
+  },
+  "name": "SSM Health, St. Marys Hospital - Madison Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.059129,
+    "longitude": -89.402404,
+    "elevation_ft": 850,
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Madison"
+  },
+  "keywords": [
+    "St Marys Hospital Medical Center"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25946
+  }
+}

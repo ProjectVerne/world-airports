@@ -1,0 +1,35 @@
+{
+  "key": "lcen",
+  "codes": {
+    "icao": "LCEN",
+    "iata": "ECN",
+    "gps": "LCEN",
+    "local": null
+  },
+  "name": "Ercan International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.153064,
+    "longitude": 33.507352,
+    "elevation_ft": 404,
+    "iso_country": "CY",
+    "iso_region": "CY-02",
+    "municipality": "Tymbou (Kirklar)"
+  },
+  "keywords": [
+    "Tymvou",
+    "Nicosia",
+    "Lefkoşa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ercan_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30979
+  }
+}

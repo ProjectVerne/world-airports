@@ -1,0 +1,33 @@
+{
+  "key": "zhcc",
+  "codes": {
+    "icao": "ZHCC",
+    "iata": "CGO",
+    "gps": "ZHCC",
+    "local": null
+  },
+  "name": "Zhengzhou Xinzheng International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.526497,
+    "longitude": 113.849165,
+    "elevation_ft": 495,
+    "iso_country": "CN",
+    "iso_region": "CN-41",
+    "municipality": "Zhengzhou"
+  },
+  "keywords": [
+    "Xinzheng Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Zhengzhou_Xinzheng_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27199
+  }
+}

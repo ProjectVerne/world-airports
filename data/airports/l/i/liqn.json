@@ -1,0 +1,33 @@
+{
+  "key": "liqn",
+  "codes": {
+    "icao": "LIQN",
+    "iata": null,
+    "gps": "LIQN",
+    "local": "RI01"
+  },
+  "name": "Rieti Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.4272,
+    "longitude": 12.8517,
+    "elevation_ft": 1278,
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Rieti (RI)"
+  },
+  "keywords": [
+    "QRT"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rieti_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30337
+  }
+}

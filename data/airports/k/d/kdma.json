@@ -1,0 +1,31 @@
+{
+  "key": "kdma",
+  "codes": {
+    "icao": "KDMA",
+    "iata": "DMA",
+    "gps": "KDMA",
+    "local": "DMA"
+  },
+  "name": "Davis Monthan Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.1665,
+    "longitude": -110.883003,
+    "elevation_ft": 2704,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Tucson"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Davis-Monthan_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3492
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "rjfk",
+  "codes": {
+    "icao": "RJFK",
+    "iata": "KOJ",
+    "gps": "RJFK",
+    "local": null
+  },
+  "name": "Kagoshima Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.8034,
+    "longitude": 130.718994,
+    "elevation_ft": 906,
+    "iso_country": "JP",
+    "iso_region": "JP-46",
+    "municipality": "Kagoshima"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kagoshima_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5566
+  }
+}

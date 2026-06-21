@@ -1,0 +1,30 @@
+{
+  "key": "_us_07629",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0XA3",
+    "local": "0XA3"
+  },
+  "name": "Midstream Freeport Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.969255,
+    "longitude": -95.285207,
+    "elevation_ft": 6,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Freeport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7629
+  }
+}

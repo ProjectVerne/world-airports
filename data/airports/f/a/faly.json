@@ -1,0 +1,31 @@
+{
+  "key": "faly",
+  "codes": {
+    "icao": "FALY",
+    "iata": "LAY",
+    "gps": "FALY",
+    "local": null
+  },
+  "name": "Ladysmith Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -28.581699,
+    "longitude": 29.749701,
+    "elevation_ft": 3548,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Ladysmith"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ladysmith_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2806
+  }
+}

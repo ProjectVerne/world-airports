@@ -1,0 +1,35 @@
+{
+  "key": "kcxy",
+  "codes": {
+    "icao": "KCXY",
+    "iata": "HAR",
+    "gps": "KCXY",
+    "local": "CXY"
+  },
+  "name": "Capital City Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.217098,
+    "longitude": -76.851501,
+    "elevation_ft": 347,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Harrisburg"
+  },
+  "keywords": [
+    "Harrisburg Skyport",
+    "Harrisburg-Capital Landing Field",
+    "Harrisburg-York State Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Capital_City_Airport_(Pennsylvania)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19579
+  }
+}

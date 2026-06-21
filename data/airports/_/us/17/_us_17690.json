@@ -1,0 +1,30 @@
+{
+  "key": "_us_17690",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IA11",
+    "local": "IA11"
+  },
+  "name": "Too Short Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.2939,
+    "longitude": -93.665497,
+    "elevation_ft": 980,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Indianola"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17690
+  }
+}

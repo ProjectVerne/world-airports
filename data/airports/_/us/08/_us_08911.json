@@ -1,0 +1,30 @@
+{
+  "key": "_us_08911",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "22PA",
+    "local": "22PA"
+  },
+  "name": "Uniontown Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.900902,
+    "longitude": -79.744797,
+    "elevation_ft": 1115,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Uniontown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8911
+  }
+}

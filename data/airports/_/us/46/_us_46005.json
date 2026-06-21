@@ -1,0 +1,32 @@
+{
+  "key": "_us_46005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Rayl Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.450001,
+    "longitude": -96.556702,
+    "elevation_ft": 1250,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Strong City"
+  },
+  "keywords": [
+    "US-0092"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46005
+  }
+}

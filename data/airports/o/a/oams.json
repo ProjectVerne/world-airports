@@ -1,0 +1,33 @@
+{
+  "key": "oams",
+  "codes": {
+    "icao": "OAMS",
+    "iata": "MZR",
+    "gps": "OAMS",
+    "local": null
+  },
+  "name": "Mazar-i-Sharif International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.70412,
+    "longitude": 67.210459,
+    "elevation_ft": 1284,
+    "iso_country": "AF",
+    "iso_region": "AF-BAL",
+    "municipality": "Mazar-i-Sharif"
+  },
+  "keywords": [
+    "Mazari Sharif"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mazar-i-Sharif_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5075
+  }
+}

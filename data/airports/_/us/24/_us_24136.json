@@ -1,0 +1,30 @@
+{
+  "key": "_us_24136",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PN27",
+    "local": "PN27"
+  },
+  "name": "Station 219 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.274799,
+    "longitude": -80.277298,
+    "elevation_ft": 1310,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Mercer"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24136
+  }
+}

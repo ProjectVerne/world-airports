@@ -1,0 +1,34 @@
+{
+  "key": "uwoo",
+  "codes": {
+    "icao": "UWOO",
+    "iata": "REN",
+    "gps": "UWOO",
+    "local": null
+  },
+  "name": "Orenburg Central Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.792668,
+    "longitude": 55.457229,
+    "elevation_ft": 387,
+    "iso_country": "RU",
+    "iso_region": "RU-ORE",
+    "municipality": "Orenburg"
+  },
+  "keywords": [
+    "Orenburg Tsentralny Airport",
+    "Аэропорт Центральный"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Orenburg_Tsentralny_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26408
+  }
+}

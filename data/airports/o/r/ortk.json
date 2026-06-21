@@ -1,0 +1,33 @@
+{
+  "key": "ortk",
+  "codes": {
+    "icao": "ORTK",
+    "iata": null,
+    "gps": "ORTK",
+    "local": null
+  },
+  "name": "Tikrit East Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.608257,
+    "longitude": 43.775711,
+    "elevation_ft": 0,
+    "iso_country": "IQ",
+    "iso_region": "IQ-SD",
+    "municipality": "Tikrit"
+  },
+  "keywords": [
+    "IQ-0052"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tikrit_East_Air_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44546
+  }
+}

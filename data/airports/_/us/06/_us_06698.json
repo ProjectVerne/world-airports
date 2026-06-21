@@ -1,0 +1,30 @@
+{
+  "key": "_us_06698",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "03AR",
+    "local": "03AR"
+  },
+  "name": "Hscmh Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.357601,
+    "longitude": -92.788498,
+    "elevation_ft": 350,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Malvern"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6698
+  }
+}

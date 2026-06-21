@@ -1,0 +1,30 @@
+{
+  "key": "_us_18297",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "JY38",
+    "local": "JY38"
+  },
+  "name": "Edison Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.5172,
+    "longitude": -74.345596,
+    "elevation_ft": 72,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Edison"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18297
+  }
+}

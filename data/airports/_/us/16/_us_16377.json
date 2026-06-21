@@ -1,0 +1,30 @@
+{
+  "key": "_us_16377",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AR90",
+    "local": "AR90"
+  },
+  "name": "Stephens Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.7365,
+    "longitude": -92.508797,
+    "elevation_ft": 550,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Little Rock"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16377
+  }
+}

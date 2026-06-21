@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01554",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSR5",
+    "local": "CSR5"
+  },
+  "name": "Île d'Orléans Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.990799,
+    "longitude": -70.826698,
+    "elevation_ft": 170,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Île d'Orléans"
+  },
+  "keywords": [
+    "SR5"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1554
+  }
+}

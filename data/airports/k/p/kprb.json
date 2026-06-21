@@ -1,0 +1,31 @@
+{
+  "key": "kprb",
+  "codes": {
+    "icao": "KPRB",
+    "iata": "PRB",
+    "gps": "KPRB",
+    "local": "PRB"
+  },
+  "name": "Paso Robles Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.672901,
+    "longitude": -120.626999,
+    "elevation_ft": 840,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Paso Robles"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Paso_Robles_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3788
+  }
+}

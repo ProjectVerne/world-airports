@@ -1,0 +1,31 @@
+{
+  "key": "ntge",
+  "codes": {
+    "icao": "NTGE",
+    "iata": "REA",
+    "gps": "NTGE",
+    "local": null
+  },
+  "name": "Reao Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -18.46652,
+    "longitude": -136.43855,
+    "elevation_ft": 12,
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Reao"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Reao_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4986
+  }
+}

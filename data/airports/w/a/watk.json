@@ -1,0 +1,34 @@
+{
+  "key": "watk",
+  "codes": {
+    "icao": "WATK",
+    "iata": "TMC",
+    "gps": "WATK",
+    "local": null
+  },
+  "name": "Tambolaka Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.409224,
+    "longitude": 119.242558,
+    "elevation_ft": 161,
+    "iso_country": "ID",
+    "iso_region": "ID-NT",
+    "municipality": "Radamata"
+  },
+  "keywords": [
+    "WRRT",
+    "WADT"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tambolaka_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26753
+  }
+}

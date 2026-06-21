@@ -1,0 +1,33 @@
+{
+  "key": "rplv",
+  "codes": {
+    "icao": "RPLV",
+    "iata": null,
+    "gps": "RPLV",
+    "local": null
+  },
+  "name": "Fort Magsaysay Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.4347,
+    "longitude": 121.091003,
+    "elevation_ft": 200,
+    "iso_country": "PH",
+    "iso_region": "PH-NUE",
+    "municipality": "Santa Rosa"
+  },
+  "keywords": [
+    "Fort Magsaysay"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Magsaysay",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5693
+  }
+}

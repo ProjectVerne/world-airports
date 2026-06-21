@@ -1,0 +1,31 @@
+{
+  "key": "kukt",
+  "codes": {
+    "icao": "KUKT",
+    "iata": "UKT",
+    "gps": "KUKT",
+    "local": "UKT"
+  },
+  "name": "Quakertown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.4352,
+    "longitude": -75.381897,
+    "elevation_ft": 526,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Quakertown"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Quakertown_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21293
+  }
+}

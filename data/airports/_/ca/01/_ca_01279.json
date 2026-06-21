@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01279",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CMC3",
+    "local": "CMC3"
+  },
+  "name": "Mayerthorpe (Healthcare Centre) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 53.948711,
+    "longitude": -115.133017,
+    "elevation_ft": 2432,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Mayerthorpe"
+  },
+  "keywords": [
+    "MC3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1279
+  }
+}

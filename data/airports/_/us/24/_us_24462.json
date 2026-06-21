@@ -1,0 +1,30 @@
+{
+  "key": "_us_24462",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SC64",
+    "local": "SC64"
+  },
+  "name": "Regional Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.538551,
+    "longitude": -80.830016,
+    "elevation_ft": 300,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Orangeburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24462
+  }
+}

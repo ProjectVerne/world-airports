@@ -1,0 +1,30 @@
+{
+  "key": "_us_09758",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2SD5",
+    "local": "2SD5"
+  },
+  "name": "Sturgis Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.3978,
+    "longitude": -103.509003,
+    "elevation_ft": 3510,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Sturgis"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9758
+  }
+}

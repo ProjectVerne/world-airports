@@ -1,0 +1,30 @@
+{
+  "key": "_us_505762",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OK57",
+    "local": "OK57"
+  },
+  "name": "Boeing MROTC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.409307,
+    "longitude": -97.368425,
+    "elevation_ft": 1286,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Oklahoma City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 505762
+  }
+}

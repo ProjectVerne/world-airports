@@ -1,0 +1,31 @@
+{
+  "key": "usss",
+  "codes": {
+    "icao": "USSS",
+    "iata": "SVX",
+    "gps": "USSS",
+    "local": null
+  },
+  "name": "Koltsovo Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.743099,
+    "longitude": 60.8027,
+    "elevation_ft": 764,
+    "iso_country": "RU",
+    "iso_region": "RU-SVE",
+    "municipality": "Yekaterinburg"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Koltsovo_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26378
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "kfst",
+  "codes": {
+    "icao": "KFST",
+    "iata": "FST",
+    "gps": "KFST",
+    "local": "FST"
+  },
+  "name": "Fort Stockton Pecos County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.915701,
+    "longitude": -102.916,
+    "elevation_ft": 3011,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Stockton"
+  },
+  "keywords": [
+    "Gibbs Field",
+    "Fort Stockton Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Stockton%E2%80%93Pecos_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19900
+  }
+}

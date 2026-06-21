@@ -1,0 +1,31 @@
+{
+  "key": "ksns",
+  "codes": {
+    "icao": "KSNS",
+    "iata": "SNS",
+    "gps": "KSNS",
+    "local": "SNS"
+  },
+  "name": "Salinas Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.6628,
+    "longitude": -121.606003,
+    "elevation_ft": 85,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Salinas"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Salinas_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3895
+  }
+}

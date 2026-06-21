@@ -1,0 +1,32 @@
+{
+  "key": "_us_510742",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Kennedy Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.78648,
+    "longitude": -91.79876,
+    "elevation_ft": 94,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Mer Rouge"
+  },
+  "keywords": [
+    "US-7881"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 510742
+  }
+}

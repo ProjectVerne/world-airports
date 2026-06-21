@@ -1,0 +1,34 @@
+{
+  "key": "esta",
+  "codes": {
+    "icao": "ESTA",
+    "iata": "AGH",
+    "gps": "ESTA",
+    "local": null
+  },
+  "name": "Ängelholm-Helsingborg Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.296101,
+    "longitude": 12.8471,
+    "elevation_ft": 68,
+    "iso_country": "SE",
+    "iso_region": "SE-M",
+    "municipality": "Ängelholm"
+  },
+  "keywords": [
+    "ESDB",
+    "Ängelholm Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/%C3%84ngelholm-Helsingborg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2711
+  }
+}

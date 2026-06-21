@@ -1,0 +1,32 @@
+{
+  "key": "hkrk",
+  "codes": {
+    "icao": "HKRK",
+    "iata": null,
+    "gps": "HKRK",
+    "local": null
+  },
+  "name": "Rusinga Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.415645,
+    "longitude": 34.141445,
+    "elevation_ft": 3800,
+    "iso_country": "KE",
+    "iso_region": "KE-43",
+    "municipality": "Rusinga"
+  },
+  "keywords": [
+    "KE-0003"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42646
+  }
+}

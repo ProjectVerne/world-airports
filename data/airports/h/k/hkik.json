@@ -1,0 +1,33 @@
+{
+  "key": "hkik",
+  "codes": {
+    "icao": "HKIK",
+    "iata": null,
+    "gps": "HKIK",
+    "local": null
+  },
+  "name": "Orly Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -1.581194,
+    "longitude": 36.812832,
+    "elevation_ft": 5600,
+    "iso_country": "KE",
+    "iso_region": "KE-34",
+    "municipality": "Olooloitikosh"
+  },
+  "keywords": [
+    "Olooitikosh",
+    "KE-0034"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42677
+  }
+}

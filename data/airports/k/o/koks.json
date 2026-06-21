@@ -1,0 +1,30 @@
+{
+  "key": "koks",
+  "codes": {
+    "icao": "KOKS",
+    "iata": "OKS",
+    "gps": "KOKS",
+    "local": "OKS"
+  },
+  "name": "Garden County Airport/King Rhiley Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.401001,
+    "longitude": -102.355003,
+    "elevation_ft": 3394,
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Oshkosh"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20735
+  }
+}

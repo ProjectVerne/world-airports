@@ -1,0 +1,31 @@
+{
+  "key": "ftti",
+  "codes": {
+    "icao": "FTTI",
+    "iata": "ATV",
+    "gps": "FTTI",
+    "local": null
+  },
+  "name": "Ati Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.239778,
+    "longitude": 18.315893,
+    "elevation_ft": 1089,
+    "iso_country": "TD",
+    "iso_region": "TD-BA",
+    "municipality": "Ati"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ati_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30658
+  }
+}

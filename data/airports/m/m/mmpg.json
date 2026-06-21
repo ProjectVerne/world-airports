@@ -1,0 +1,31 @@
+{
+  "key": "mmpg",
+  "codes": {
+    "icao": "MMPG",
+    "iata": "PDS",
+    "gps": "MMPG",
+    "local": "PNG"
+  },
+  "name": "Piedras Negras International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.627873,
+    "longitude": -100.53524,
+    "elevation_ft": 901,
+    "iso_country": "MX",
+    "iso_region": "MX-COA",
+    "municipality": "Piedras Negras"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Piedras_Negras_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4741
+  }
+}

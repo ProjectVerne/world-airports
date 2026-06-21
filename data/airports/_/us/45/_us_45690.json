@@ -1,0 +1,30 @@
+{
+  "key": "_us_45690",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NR00",
+    "local": "NR00"
+  },
+  "name": "Valley Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.081111,
+    "longitude": -78.945833,
+    "elevation_ft": 232,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Fayetteville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45690
+  }
+}

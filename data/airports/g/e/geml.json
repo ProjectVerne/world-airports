@@ -1,0 +1,31 @@
+{
+  "key": "geml",
+  "codes": {
+    "icao": "GEML",
+    "iata": "MLN",
+    "gps": "GEML",
+    "local": null
+  },
+  "name": "Melilla Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.2798,
+    "longitude": -2.95626,
+    "elevation_ft": 156,
+    "iso_country": "ES",
+    "iso_region": "ES-ML",
+    "municipality": "Melilla"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Melilla_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3093
+  }
+}

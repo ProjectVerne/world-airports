@@ -1,0 +1,34 @@
+{
+  "key": "uess",
+  "codes": {
+    "icao": "UESS",
+    "iata": "CYX",
+    "gps": "UESS",
+    "local": null
+  },
+  "name": "Cherskiy Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 68.740601,
+    "longitude": 161.337997,
+    "elevation_ft": 20,
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Cherskiy"
+  },
+  "keywords": [
+    "Chersky Airport",
+    "Аэропорт Черский"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Chersky_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30870
+  }
+}

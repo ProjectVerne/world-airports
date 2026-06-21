@@ -1,0 +1,33 @@
+{
+  "key": "_ca_00998",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFT8",
+    "local": "CFT8"
+  },
+  "name": "Pelican Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.160801,
+    "longitude": -113.473999,
+    "elevation_ft": 2059,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Pelican"
+  },
+  "keywords": [
+    "FT8"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pelican_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 998
+  }
+}

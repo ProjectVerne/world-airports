@@ -1,0 +1,31 @@
+{
+  "key": "lers",
+  "codes": {
+    "icao": "LERS",
+    "iata": "REU",
+    "gps": "LERS",
+    "local": null
+  },
+  "name": "Reus Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.147509,
+    "longitude": 1.168354,
+    "elevation_ft": 233,
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Reus"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Reus_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4031
+  }
+}

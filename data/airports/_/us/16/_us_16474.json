@@ -1,0 +1,30 @@
+{
+  "key": "_us_16474",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AZ87",
+    "local": "AZ87"
+  },
+  "name": "Jeppesen Ranch Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.227317,
+    "longitude": -111.854424,
+    "elevation_ft": 1203,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Chandler"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16474
+  }
+}

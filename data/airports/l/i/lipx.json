@@ -1,0 +1,36 @@
+{
+  "key": "lipx",
+  "codes": {
+    "icao": "LIPX",
+    "iata": "VRN",
+    "gps": "LIPX",
+    "local": "VR10"
+  },
+  "name": "Verona Villafranca Valerio Catullo Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.394955,
+    "longitude": 10.887303,
+    "elevation_ft": 239,
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Caselle (VR)"
+  },
+  "keywords": [
+    "Valerio Catullo",
+    "Villafranca International Airport",
+    "Valerio Catullo Airport",
+    "Villafranca Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Verona_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4366
+  }
+}

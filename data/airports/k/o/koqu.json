@@ -1,0 +1,33 @@
+{
+  "key": "koqu",
+  "codes": {
+    "icao": "KOQU",
+    "iata": "NCO",
+    "gps": "KOQU",
+    "local": "OQU"
+  },
+  "name": "Quonset State Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.597099,
+    "longitude": -71.412102,
+    "elevation_ft": 18,
+    "iso_country": "US",
+    "iso_region": "US-RI",
+    "municipality": "North Kingstown"
+  },
+  "keywords": [
+    "Quonset Point NAS"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Quonset_State_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3753
+  }
+}

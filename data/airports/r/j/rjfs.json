@@ -1,0 +1,31 @@
+{
+  "key": "rjfs",
+  "codes": {
+    "icao": "RJFS",
+    "iata": "HSG",
+    "gps": "RJFS",
+    "local": null
+  },
+  "name": "Kyushu Saga International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.1497,
+    "longitude": 130.302002,
+    "elevation_ft": 6,
+    "iso_country": "JP",
+    "iso_region": "JP-41",
+    "municipality": "Saga"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Saga_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5571
+  }
+}

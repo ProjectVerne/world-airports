@@ -1,0 +1,34 @@
+{
+  "key": "urrt",
+  "codes": {
+    "icao": "URRT",
+    "iata": "TGK",
+    "gps": "URRT",
+    "local": null
+  },
+  "name": "Taganrog Yuzhny Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.198333,
+    "longitude": 38.849167,
+    "elevation_ft": 117,
+    "iso_country": "RU",
+    "iso_region": "RU-ROS",
+    "municipality": "Taganrog"
+  },
+  "keywords": [
+    "Taganrog South Airport",
+    "Аэропорт Таганрог Южный"
+  ],
+  "wikipedia": "https://ru.wikipedia.org/wiki/Таганрог-Южный_(аэропорт)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 44865
+  }
+}

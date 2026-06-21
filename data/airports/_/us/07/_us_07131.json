@@ -1,0 +1,30 @@
+{
+  "key": "_us_07131",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0CL4",
+    "local": "0CL4"
+  },
+  "name": "Glen Fed Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.157179,
+    "longitude": -118.254637,
+    "elevation_ft": 770,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Glendale"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7131
+  }
+}

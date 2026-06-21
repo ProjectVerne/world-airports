@@ -1,0 +1,33 @@
+{
+  "key": "omaa",
+  "codes": {
+    "icao": "OMAA",
+    "iata": "AUH",
+    "gps": "OMAA",
+    "local": null
+  },
+  "name": "Zayed International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.440966,
+    "longitude": 54.649237,
+    "elevation_ft": 88,
+    "iso_country": "AE",
+    "iso_region": "AE-AZ",
+    "municipality": "Abu Dhabi"
+  },
+  "keywords": [
+    "Abu Dhabi International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Abu_Dhabi_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5226
+  }
+}

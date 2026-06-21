@@ -1,0 +1,31 @@
+{
+  "key": "kslc",
+  "codes": {
+    "icao": "KSLC",
+    "iata": "SLC",
+    "gps": "KSLC",
+    "local": "SLC"
+  },
+  "name": "Salt Lake City International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.78886,
+    "longitude": -111.979866,
+    "elevation_ft": 4227,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Salt Lake City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Salt_Lake_City_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3887
+  }
+}

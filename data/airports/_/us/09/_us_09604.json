@@ -1,0 +1,30 @@
+{
+  "key": "_us_09604",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2NC3",
+    "local": "2NC3"
+  },
+  "name": "Sky-5 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.779598,
+    "longitude": -78.674202,
+    "elevation_ft": 400,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Raleigh"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9604
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_10356",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "39XS",
+    "local": "39XS"
+  },
+  "name": "Kimble Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.49818,
+    "longitude": -99.781076,
+    "elevation_ft": 1749,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Junction"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10356
+  }
+}

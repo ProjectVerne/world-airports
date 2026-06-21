@@ -1,0 +1,31 @@
+{
+  "key": "svbi",
+  "codes": {
+    "icao": "SVBI",
+    "iata": "BNS",
+    "gps": "SVBI",
+    "local": null
+  },
+  "name": "Barinas Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.615,
+    "longitude": -70.214167,
+    "elevation_ft": 615,
+    "iso_country": "VE",
+    "iso_region": "VE-E",
+    "municipality": "Barinas"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Barinas_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6256
+  }
+}

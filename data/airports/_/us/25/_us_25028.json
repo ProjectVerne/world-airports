@@ -1,0 +1,30 @@
+{
+  "key": "_us_25028",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS11",
+    "local": "TS11"
+  },
+  "name": "Glenmar Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.107101,
+    "longitude": -95.93,
+    "elevation_ft": 531,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Campbell"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25028
+  }
+}

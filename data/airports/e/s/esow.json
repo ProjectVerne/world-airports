@@ -1,0 +1,31 @@
+{
+  "key": "esow",
+  "codes": {
+    "icao": "ESOW",
+    "iata": "VST",
+    "gps": "ESOW",
+    "local": null
+  },
+  "name": "Stockholm Västerås Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.589401,
+    "longitude": 16.6336,
+    "elevation_ft": 21,
+    "iso_country": "SE",
+    "iso_region": "SE-U",
+    "municipality": "Stockholm / Västerås"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Stockholm-V%C3%A4ster%C3%A5s_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2696
+  }
+}

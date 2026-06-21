@@ -1,0 +1,32 @@
+{
+  "key": "_us_430712",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "US Border Patrol Harlingen Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 26.16082,
+    "longitude": -97.68872,
+    "elevation_ft": 47,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Harlingen"
+  },
+  "keywords": [
+    "US-7228"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 430712
+  }
+}

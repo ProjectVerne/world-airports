@@ -1,0 +1,30 @@
+{
+  "key": "ayyl",
+  "codes": {
+    "icao": "AYYL",
+    "iata": "TCK",
+    "gps": "AYYL",
+    "local": "TOI"
+  },
+  "name": "Tinboli Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -4.0949,
+    "longitude": 143.3838,
+    "elevation_ft": 59,
+    "iso_country": "PG",
+    "iso_region": "PG-ESW",
+    "municipality": "Tinboli"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 309955
+  }
+}

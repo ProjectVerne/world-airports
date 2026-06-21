@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01451",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPS4",
+    "local": "CPS4"
+  },
+  "name": "Lucan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.1633,
+    "longitude": -81.412498,
+    "elevation_ft": 960,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Lucan"
+  },
+  "keywords": [
+    "PS4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lucan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1451
+  }
+}

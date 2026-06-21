@@ -1,0 +1,33 @@
+{
+  "key": "_us_16385",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Public Safety Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 33.537128,
+    "longitude": -112.18158,
+    "elevation_ft": 3995,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Glendale"
+  },
+  "keywords": [
+    "AS89",
+    "US-11120"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16385
+  }
+}

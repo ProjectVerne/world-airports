@@ -1,0 +1,31 @@
+{
+  "key": "humi",
+  "codes": {
+    "icao": "HUMI",
+    "iata": "KCU",
+    "gps": "HUMI",
+    "local": null
+  },
+  "name": "Masindi Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 1.75806,
+    "longitude": 31.7367,
+    "elevation_ft": 3850,
+    "iso_country": "UG",
+    "iso_region": "UG-W",
+    "municipality": "Masindi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Masindi_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31733
+  }
+}

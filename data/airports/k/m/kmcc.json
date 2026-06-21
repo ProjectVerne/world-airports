@@ -1,0 +1,33 @@
+{
+  "key": "kmcc",
+  "codes": {
+    "icao": "KMCC",
+    "iata": "MCC",
+    "gps": "KMCC",
+    "local": "MCC"
+  },
+  "name": "McClellan Airfield",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.667599,
+    "longitude": -121.401001,
+    "elevation_ft": 77,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Sacramento"
+  },
+  "keywords": [
+    "McClellan AFB"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/McClellan_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3666
+  }
+}

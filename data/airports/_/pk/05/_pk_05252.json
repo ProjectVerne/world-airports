@@ -1,0 +1,35 @@
+{
+  "key": "_pk_05252",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Gwadar International Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 25.23298,
+    "longitude": 62.328735,
+    "elevation_ft": 36,
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Gwadar"
+  },
+  "keywords": [
+    "GWD",
+    "OPGD",
+    "OPGW"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gwadar_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5252
+  }
+}

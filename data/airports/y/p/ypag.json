@@ -1,0 +1,31 @@
+{
+  "key": "ypag",
+  "codes": {
+    "icao": "YPAG",
+    "iata": "PUG",
+    "gps": "YPAG",
+    "local": null
+  },
+  "name": "Port Augusta Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -32.506901,
+    "longitude": 137.716995,
+    "elevation_ft": 56,
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Augusta_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27097
+  }
+}

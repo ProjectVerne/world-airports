@@ -1,0 +1,32 @@
+{
+  "key": "lpaf",
+  "codes": {
+    "icao": "LPAF",
+    "iata": null,
+    "gps": "LPAF",
+    "local": null
+  },
+  "name": "Alfragide Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.734316,
+    "longitude": -9.224445,
+    "elevation_ft": 545,
+    "iso_country": "PT",
+    "iso_region": "PT-11",
+    "municipality": "Alfragide"
+  },
+  "keywords": [
+    "PT-0001"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43769
+  }
+}

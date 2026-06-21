@@ -1,0 +1,31 @@
+{
+  "key": "yppd",
+  "codes": {
+    "icao": "YPPD",
+    "iata": "PHE",
+    "gps": "YPPD",
+    "local": null
+  },
+  "name": "Port Hedland International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.382787,
+    "longitude": 118.629789,
+    "elevation_ft": 33,
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Port Hedland"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Port_Hedland_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27117
+  }
+}

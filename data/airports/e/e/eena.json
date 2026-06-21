@@ -1,0 +1,31 @@
+{
+  "key": "eena",
+  "codes": {
+    "icao": "EENA",
+    "iata": null,
+    "gps": "EENA",
+    "local": null
+  },
+  "name": "Narva Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.388599,
+    "longitude": 28.1136,
+    "elevation_ft": 92,
+    "iso_country": "EE",
+    "iso_region": "EE-44",
+    "municipality": "Narva"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Narva_Airfield",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30181
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "heal",
+  "codes": {
+    "icao": "HEAL",
+    "iata": "DBB",
+    "gps": "HEAL",
+    "local": null
+  },
+  "name": "El Alamein International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.924324,
+    "longitude": 28.46161,
+    "elevation_ft": 154,
+    "iso_country": "EG",
+    "iso_region": "EG-MT",
+    "municipality": "El Alamein"
+  },
+  "keywords": [
+    "Al Alamain",
+    "Al Alamayn",
+    "العلمين‎"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Alamein_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3175
+  }
+}

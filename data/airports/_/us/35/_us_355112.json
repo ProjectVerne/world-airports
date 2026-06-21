@@ -1,0 +1,32 @@
+{
+  "key": "_us_355112",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FL26",
+    "local": "FL26"
+  },
+  "name": "MP25 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 26.488417,
+    "longitude": -81.829519,
+    "elevation_ft": 30,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Fort Myers"
+  },
+  "keywords": [
+    "US-6885"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 355112
+  }
+}

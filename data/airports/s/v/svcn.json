@@ -1,0 +1,31 @@
+{
+  "key": "svcn",
+  "codes": {
+    "icao": "SVCN",
+    "iata": "CAJ",
+    "gps": "SVCN",
+    "local": null
+  },
+  "name": "Canaima Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.231989,
+    "longitude": -62.85485,
+    "elevation_ft": 1450,
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Canaima"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Canaima_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6268
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "scpm",
+  "codes": {
+    "icao": "SCPM",
+    "iata": null,
+    "gps": "SCPM",
+    "local": null
+  },
+  "name": "Pichilemu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.395719,
+    "longitude": -72.019633,
+    "elevation_ft": 82,
+    "iso_country": "CL",
+    "iso_region": "CL-LI",
+    "municipality": "Pichilemu"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pichilemu_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39245
+  }
+}

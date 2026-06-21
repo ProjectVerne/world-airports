@@ -1,0 +1,33 @@
+{
+  "key": "ltau",
+  "codes": {
+    "icao": "LTAU",
+    "iata": "ASR",
+    "gps": "LTAU",
+    "local": null
+  },
+  "name": "Kayseri Erkilet International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.770401,
+    "longitude": 35.495399,
+    "elevation_ft": 3463,
+    "iso_country": "TR",
+    "iso_region": "TR-38",
+    "municipality": "Kayseri"
+  },
+  "keywords": [
+    "Erkilet"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Erkilet_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4523
+  }
+}

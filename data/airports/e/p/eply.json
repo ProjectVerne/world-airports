@@ -1,0 +1,33 @@
+{
+  "key": "eply",
+  "codes": {
+    "icao": "EPLY",
+    "iata": null,
+    "gps": "EPLY",
+    "local": null
+  },
+  "name": "Leźnica Wielka Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.004945,
+    "longitude": 19.143792,
+    "elevation_ft": 404,
+    "iso_country": "PL",
+    "iso_region": "PL-LD",
+    "municipality": "Leźnica Wielka"
+  },
+  "keywords": [
+    "Leczyca",
+    "Łęczyca"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31015
+  }
+}

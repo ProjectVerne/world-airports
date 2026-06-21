@@ -1,0 +1,31 @@
+{
+  "key": "sbuf",
+  "codes": {
+    "icao": "SBUF",
+    "iata": "PAV",
+    "gps": "SBUF",
+    "local": "BA0007"
+  },
+  "name": "Paulo Afonso Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -9.40088,
+    "longitude": -38.250599,
+    "elevation_ft": 883,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Paulo Afonso"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Paulo_Afonso_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5991
+  }
+}

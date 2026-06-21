@@ -1,0 +1,33 @@
+{
+  "key": "kpqi",
+  "codes": {
+    "icao": "KPQI",
+    "iata": "PQI",
+    "gps": "KPQI",
+    "local": "PQI"
+  },
+  "name": "Presque Isle International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.688999,
+    "longitude": -68.0448,
+    "elevation_ft": 534,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Presque Isle"
+  },
+  "keywords": [
+    "Northern Maine Regional"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Presque_Isle_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3787
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_15343",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Lagrange Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.202801,
+    "longitude": -82.115196,
+    "elevation_ft": 843,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Lagrange"
+  },
+  "keywords": [
+    "92D",
+    "US-10936"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15343
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_06866",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "06CL",
+    "local": "06CL"
+  },
+  "name": "ABC7-TV Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.15732,
+    "longitude": -118.2888,
+    "elevation_ft": 520,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Glendale"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6866
+  }
+}

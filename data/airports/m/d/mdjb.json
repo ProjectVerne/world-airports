@@ -1,0 +1,35 @@
+{
+  "key": "mdjb",
+  "codes": {
+    "icao": "MDJB",
+    "iata": "JBQ",
+    "gps": "MDJB",
+    "local": null
+  },
+  "name": "La Isabela International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.5725,
+    "longitude": -69.985603,
+    "elevation_ft": 98,
+    "iso_country": "DO",
+    "iso_region": "DO-01",
+    "municipality": "La Isabela"
+  },
+  "keywords": [
+    "MDLI",
+    "SDI",
+    "Dr Joaquin Balaguer International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Isabela_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4634
+  }
+}

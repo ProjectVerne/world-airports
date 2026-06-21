@@ -1,0 +1,31 @@
+{
+  "key": "gosp",
+  "codes": {
+    "icao": "GOSP",
+    "iata": "POD",
+    "gps": "GOSP",
+    "local": null
+  },
+  "name": "Podor Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 16.678155,
+    "longitude": -14.964957,
+    "elevation_ft": 20,
+    "iso_country": "SN",
+    "iso_region": "SN-SL",
+    "municipality": "Podor"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Podor_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32169
+  }
+}

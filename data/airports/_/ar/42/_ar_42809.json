@@ -1,0 +1,32 @@
+{
+  "key": "_ar_42809",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": "BEX"
+  },
+  "name": "Buenos Aires Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.859722,
+    "longitude": -59.468887,
+    "elevation_ft": 85,
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Pueblo Alsina, Baradero"
+  },
+  "keywords": [
+    "AR-0387"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42809
+  }
+}

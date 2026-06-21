@@ -1,0 +1,31 @@
+{
+  "key": "ntam",
+  "codes": {
+    "icao": "NTAM",
+    "iata": "RMT",
+    "gps": "NTAM",
+    "local": null
+  },
+  "name": "Rimatara Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.63725,
+    "longitude": -152.8059,
+    "elevation_ft": 60,
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Rimatara Island"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rimatara_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 309518
+  }
+}

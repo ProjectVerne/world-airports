@@ -1,0 +1,30 @@
+{
+  "key": "seaj",
+  "codes": {
+    "icao": "SEAJ",
+    "iata": null,
+    "gps": "SEAJ",
+    "local": null
+  },
+  "name": "San Alejandro Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.881361,
+    "longitude": -79.396645,
+    "elevation_ft": 407,
+    "iso_country": "EC",
+    "iso_region": "EC-R",
+    "municipality": "Valencia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 514254
+  }
+}

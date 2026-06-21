@@ -1,0 +1,33 @@
+{
+  "key": "_us_09708",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Zettlemoyer Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.557336,
+    "longitude": -75.693785,
+    "elevation_ft": 550,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Breinigsville"
+  },
+  "keywords": [
+    "2PA0",
+    "US-9907"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9708
+  }
+}

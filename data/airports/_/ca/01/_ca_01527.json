@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01527",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSJ5",
+    "local": "CSJ5"
+  },
+  "name": "St-Louis-de-France Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.436903,
+    "longitude": -72.630079,
+    "elevation_ft": 225,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "St-Louis-de-France"
+  },
+  "keywords": [
+    "SJ5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/St-Louis-De-France_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1527
+  }
+}

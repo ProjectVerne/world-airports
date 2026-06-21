@@ -1,0 +1,30 @@
+{
+  "key": "_us_06896",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "06O1",
+    "local": "06O1"
+  },
+  "name": "Saint Elizabeth Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.114799,
+    "longitude": -80.656998,
+    "elevation_ft": 1020,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Youngstown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6896
+  }
+}

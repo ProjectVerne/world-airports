@@ -1,0 +1,30 @@
+{
+  "key": "esue",
+  "codes": {
+    "icao": "ESUE",
+    "iata": "IDB",
+    "gps": "ESUE",
+    "local": null
+  },
+  "name": "Idre Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.869701,
+    "longitude": 12.6894,
+    "elevation_ft": 1480,
+    "iso_country": "SE",
+    "iso_region": "SE-W",
+    "municipality": "Idre"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29375
+  }
+}

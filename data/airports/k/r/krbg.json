@@ -1,0 +1,33 @@
+{
+  "key": "krbg",
+  "codes": {
+    "icao": "KRBG",
+    "iata": "RBG",
+    "gps": "KRBG",
+    "local": "RBG"
+  },
+  "name": "Roseburg Regional Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.2388,
+    "longitude": -123.356003,
+    "elevation_ft": 529,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Roseburg"
+  },
+  "keywords": [
+    "Major General Marion E. Carl Memorial Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Roseburg_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20912
+  }
+}

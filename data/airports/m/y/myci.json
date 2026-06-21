@@ -1,0 +1,33 @@
+{
+  "key": "myci",
+  "codes": {
+    "icao": "MYCI",
+    "iata": "CRI",
+    "gps": "MYCI",
+    "local": null
+  },
+  "name": "Colonel Hill Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.7456,
+    "longitude": -74.182404,
+    "elevation_ft": 5,
+    "iso_country": "BS",
+    "iso_region": "BS-CK",
+    "municipality": "Colonel Hill"
+  },
+  "keywords": [
+    "Crooked Island Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Colonial_Hill_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4938
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "oitr",
+  "codes": {
+    "icao": "OITR",
+    "iata": "OMH",
+    "gps": "OITR",
+    "local": null
+  },
+  "name": "Urmia Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.668098,
+    "longitude": 45.068699,
+    "elevation_ft": 4343,
+    "iso_country": "IR",
+    "iso_region": "IR-04",
+    "municipality": "Urmia"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Urmia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5203
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "key": "_ca_00850",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Acme Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 51.456402,
+    "longitude": -113.514999,
+    "elevation_ft": 3035,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Acme"
+  },
+  "keywords": [
+    "EG2",
+    "CEG2",
+    "CA-1024"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Acme_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 850
+  }
+}

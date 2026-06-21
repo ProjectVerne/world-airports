@@ -1,0 +1,30 @@
+{
+  "key": "_us_23241",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM22",
+    "local": "NM22"
+  },
+  "name": "Sierra Vista Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.140661,
+    "longitude": -107.24096,
+    "elevation_ft": 4250,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Truth or Consequences"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23241
+  }
+}

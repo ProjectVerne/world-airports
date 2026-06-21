@@ -1,0 +1,33 @@
+{
+  "key": "hala",
+  "codes": {
+    "icao": "HALA",
+    "iata": "AWA",
+    "gps": "HALA",
+    "local": null
+  },
+  "name": "Hawassa International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.100611,
+    "longitude": 38.396455,
+    "elevation_ft": 5450,
+    "iso_country": "ET",
+    "iso_region": "ET-XSD",
+    "municipality": "Hawassa"
+  },
+  "keywords": [
+    "Awasa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Awasa_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30664
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_541660",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TN86",
+    "local": "TN86"
+  },
+  "name": "Emergency Air Lift Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.618738,
+    "longitude": -87.227333,
+    "elevation_ft": 568,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Clarksville"
+  },
+  "keywords": [
+    "US-8965"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 541660
+  }
+}

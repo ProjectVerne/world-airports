@@ -1,0 +1,30 @@
+{
+  "key": "_us_09531",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2MA2",
+    "local": "2MA2"
+  },
+  "name": "Digital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.3265,
+    "longitude": -71.4095,
+    "elevation_ft": 450,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Hudson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9531
+  }
+}

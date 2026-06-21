@@ -1,0 +1,30 @@
+{
+  "key": "_us_24141",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PN32",
+    "local": "PN32"
+  },
+  "name": "Indiana Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.608398,
+    "longitude": -79.135597,
+    "elevation_ft": 1285,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Indiana"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24141
+  }
+}

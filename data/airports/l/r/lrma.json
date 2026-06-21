@@ -1,0 +1,30 @@
+{
+  "key": "lrma",
+  "codes": {
+    "icao": "LRMA",
+    "iata": null,
+    "gps": "LRMA",
+    "local": null
+  },
+  "name": "Mir Aero Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.687288,
+    "longitude": 25.527105,
+    "elevation_ft": 1765,
+    "iso_country": "RO",
+    "iso_region": "RO-BV",
+    "municipality": "Ghimbav"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600113
+  }
+}

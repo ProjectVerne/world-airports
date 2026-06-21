@@ -1,0 +1,30 @@
+{
+  "key": "_us_17796",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ID18",
+    "local": "ID18"
+  },
+  "name": "Eirmc Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.471001,
+    "longitude": -111.991997,
+    "elevation_ft": 4713,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Idaho Falls"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17796
+  }
+}

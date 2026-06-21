@@ -1,0 +1,34 @@
+{
+  "key": "usto",
+  "codes": {
+    "icao": "USTO",
+    "iata": "TOX",
+    "gps": "USTO",
+    "local": null
+  },
+  "name": "Tobolsk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 58.135799,
+    "longitude": 68.231903,
+    "elevation_ft": 167,
+    "iso_country": "RU",
+    "iso_region": "RU-TYU",
+    "municipality": "Tobolsk"
+  },
+  "keywords": [
+    "УСТО",
+    "Тобольск"
+  ],
+  "wikipedia": "https://ro.wikipedia.org/wiki/Aeroportul_Tobolsk",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32471
+  }
+}

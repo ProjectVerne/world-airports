@@ -1,0 +1,33 @@
+{
+  "key": "oaog",
+  "codes": {
+    "icao": "OAOG",
+    "iata": "URN",
+    "gps": "OAOG",
+    "local": null
+  },
+  "name": "Urgun Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.931135,
+    "longitude": 69.153167,
+    "elevation_ft": 7300,
+    "iso_country": "AF",
+    "iso_region": "AF-PKA",
+    "municipality": "Urgun"
+  },
+  "keywords": [
+    "Urgoon",
+    "Camp Harriman FOB"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 35379
+  }
+}

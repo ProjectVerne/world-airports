@@ -1,0 +1,33 @@
+{
+  "key": "_cl_601204",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Cabo de Hornos Naval Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -55.962927,
+    "longitude": -67.224942,
+    "elevation_ft": 102,
+    "iso_country": "CL",
+    "iso_region": "CL-MA",
+    "municipality": "Hornos Island"
+  },
+  "keywords": [
+    "CHI-006",
+    "CL-0037"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 601204
+  }
+}

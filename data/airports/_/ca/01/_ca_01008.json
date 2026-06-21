@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01008",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CFV8",
+    "local": "CFV8"
+  },
+  "name": "Brooks (Community Health Centre) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.568649,
+    "longitude": -111.888312,
+    "elevation_ft": 2496,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Brooks"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1008
+  }
+}

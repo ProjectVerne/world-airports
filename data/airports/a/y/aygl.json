@@ -1,0 +1,33 @@
+{
+  "key": "aygl",
+  "codes": {
+    "icao": "AYGL",
+    "iata": "GOE",
+    "gps": "AYGL",
+    "local": "GON"
+  },
+  "name": "Gonaili Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.527717,
+    "longitude": 151.573333,
+    "elevation_ft": 40,
+    "iso_country": "PG",
+    "iso_region": "PG-EBR",
+    "municipality": "Gonaili"
+  },
+  "keywords": [
+    "Gonali",
+    "Gonalia"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46180
+  }
+}

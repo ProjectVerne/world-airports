@@ -1,0 +1,33 @@
+{
+  "key": "kpgr",
+  "codes": {
+    "icao": "KPGR",
+    "iata": "PGR",
+    "gps": "KPGR",
+    "local": "PGR"
+  },
+  "name": "Kirk Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.062901,
+    "longitude": -90.507797,
+    "elevation_ft": 290,
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Paragould"
+  },
+  "keywords": [
+    "Paragould Municipal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kirk_Field",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20823
+  }
+}

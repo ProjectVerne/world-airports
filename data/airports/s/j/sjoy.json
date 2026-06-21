@@ -1,0 +1,32 @@
+{
+  "key": "sjoy",
+  "codes": {
+    "icao": "SJOY",
+    "iata": null,
+    "gps": "SJOY",
+    "local": "PR0058"
+  },
+  "name": "Jorge Luiz Stocco Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.40068,
+    "longitude": -49.80028,
+    "elevation_ft": 3438,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Palmeira"
+  },
+  "keywords": [
+    "SJOY"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 336997
+  }
+}

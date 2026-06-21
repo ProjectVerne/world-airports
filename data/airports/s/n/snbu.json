@@ -1,0 +1,30 @@
+{
+  "key": "snbu",
+  "codes": {
+    "icao": "SNBU",
+    "iata": null,
+    "gps": "SNBU",
+    "local": "MG0249"
+  },
+  "name": "Fazenda Alegria Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -19.359449,
+    "longitude": -44.056764,
+    "elevation_ft": 2211,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Funilândia"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331767
+  }
+}

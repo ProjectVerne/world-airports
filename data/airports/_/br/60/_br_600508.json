@@ -1,0 +1,30 @@
+{
+  "key": "_br_600508",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SIC1",
+    "local": "PR0256"
+  },
+  "name": "Ciceri Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -23.368855,
+    "longitude": -52.008618,
+    "elevation_ft": 1726,
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Maringá"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600508
+  }
+}

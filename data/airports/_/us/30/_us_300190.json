@@ -1,0 +1,30 @@
+{
+  "key": "_us_300190",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KZ24",
+    "local": "Z24"
+  },
+  "name": "Naval Medical Center Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.848333,
+    "longitude": -76.313889,
+    "elevation_ft": 5,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Portsmouth"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300190
+  }
+}

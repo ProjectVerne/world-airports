@@ -1,0 +1,30 @@
+{
+  "key": "_us_20485",
+  "codes": {
+    "icao": null,
+    "iata": "MDA",
+    "gps": "KMDA",
+    "local": "MDA"
+  },
+  "name": "Martindale Army Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.431299,
+    "longitude": -98.3778,
+    "elevation_ft": 674,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "San Antonio"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20485
+  }
+}

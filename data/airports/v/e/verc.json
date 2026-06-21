@@ -1,0 +1,31 @@
+{
+  "key": "verc",
+  "codes": {
+    "icao": "VERC",
+    "iata": "IXR",
+    "gps": "VERC",
+    "local": null
+  },
+  "name": "Birsa Munda Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.314301,
+    "longitude": 85.321701,
+    "elevation_ft": 2148,
+    "iso_country": "IN",
+    "iso_region": "IN-JH",
+    "municipality": "Ranchi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Birsa_Munda_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26519
+  }
+}

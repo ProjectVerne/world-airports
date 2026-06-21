@@ -1,0 +1,31 @@
+{
+  "key": "yorb",
+  "codes": {
+    "icao": "YORB",
+    "iata": "RBS",
+    "gps": "YORB",
+    "local": null
+  },
+  "name": "Orbost Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -37.790001,
+    "longitude": 148.610001,
+    "elevation_ft": 28,
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Orbost_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27871
+  }
+}

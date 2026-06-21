@@ -1,0 +1,34 @@
+{
+  "key": "nttm",
+  "codes": {
+    "icao": "NTTM",
+    "iata": "MOZ",
+    "gps": "NTTM",
+    "local": null
+  },
+  "name": "Moorea Temae Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -17.48979,
+    "longitude": -149.761777,
+    "elevation_ft": 9,
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Moorea-Maiao"
+  },
+  "keywords": [
+    "Temae Airport",
+    "Moorea Temae Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moorea_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5006
+  }
+}

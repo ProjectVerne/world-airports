@@ -1,0 +1,32 @@
+{
+  "key": "aybl",
+  "codes": {
+    "icao": "AYBL",
+    "iata": "BAA",
+    "gps": "AYBL",
+    "local": "BIA"
+  },
+  "name": "Bialla Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -5.33056,
+    "longitude": 151.007996,
+    "elevation_ft": 51,
+    "iso_country": "PG",
+    "iso_region": "PG-WBK",
+    "municipality": "Bialla, Matalilu, Ewase"
+  },
+  "keywords": [
+    "Babu"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30675
+  }
+}

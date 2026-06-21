@@ -1,0 +1,30 @@
+{
+  "key": "heoc",
+  "codes": {
+    "icao": "HEOC",
+    "iata": null,
+    "gps": "HEOC",
+    "local": null
+  },
+  "name": "October Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 29.812707,
+    "longitude": 30.823461,
+    "elevation_ft": 774,
+    "iso_country": "EG",
+    "iso_region": "EG-C",
+    "municipality": "6th of October"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3194
+  }
+}

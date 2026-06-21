@@ -1,0 +1,33 @@
+{
+  "key": "cyid",
+  "codes": {
+    "icao": "CYID",
+    "iata": "YDG",
+    "gps": "CYID",
+    "local": null
+  },
+  "name": "Digby / Annapolis Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.545845,
+    "longitude": -65.785425,
+    "elevation_ft": 499,
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Digby"
+  },
+  "keywords": [
+    "YID"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Digby_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1772
+  }
+}

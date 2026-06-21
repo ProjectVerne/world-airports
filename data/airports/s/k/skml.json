@@ -1,0 +1,31 @@
+{
+  "key": "skml",
+  "codes": {
+    "icao": "SKML",
+    "iata": "MTB",
+    "gps": "SKML",
+    "local": "MTB"
+  },
+  "name": "Montelibano Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.97174,
+    "longitude": -75.4325,
+    "elevation_ft": 160,
+    "iso_country": "CO",
+    "iso_region": "CO-COR",
+    "municipality": "Montelíbano"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Montel%C3%ADbano_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6136
+  }
+}

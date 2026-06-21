@@ -1,0 +1,33 @@
+{
+  "key": "kfsu",
+  "codes": {
+    "icao": "KFSU",
+    "iata": "FSU",
+    "gps": "KFSU",
+    "local": "FSU"
+  },
+  "name": "Fort Sumner Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.483398,
+    "longitude": -104.217003,
+    "elevation_ft": 4165,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Fort Sumner"
+  },
+  "keywords": [
+    "Fort Sumner Army Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Fort_Sumner_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19901
+  }
+}

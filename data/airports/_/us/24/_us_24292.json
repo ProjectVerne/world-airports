@@ -1,0 +1,30 @@
+{
+  "key": "_us_24292",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS56",
+    "local": "PS56"
+  },
+  "name": "Morris Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.779301,
+    "longitude": -77.251404,
+    "elevation_ft": 500,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Gettysburg"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24292
+  }
+}

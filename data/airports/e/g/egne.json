@@ -1,0 +1,33 @@
+{
+  "key": "egne",
+  "codes": {
+    "icao": "EGNE",
+    "iata": null,
+    "gps": "EGNE",
+    "local": null
+  },
+  "name": "Retford Gamston Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.280602,
+    "longitude": -0.951389,
+    "elevation_ft": 91,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Retford, Nottinghamshire"
+  },
+  "keywords": [
+    "RAF Gamston"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Retford_Gamston_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2440
+  }
+}

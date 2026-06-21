@@ -1,0 +1,30 @@
+{
+  "key": "_us_16975",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CT18",
+    "local": "CT18"
+  },
+  "name": "State Emergency Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.764801,
+    "longitude": -72.681999,
+    "elevation_ft": 65,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Hartford"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16975
+  }
+}

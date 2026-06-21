@@ -1,0 +1,30 @@
+{
+  "key": "opkf",
+  "codes": {
+    "icao": "OPKF",
+    "iata": null,
+    "gps": "OPKF",
+    "local": null
+  },
+  "name": "Gharo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 24.729,
+    "longitude": 67.587601,
+    "elevation_ft": 20,
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Gharo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41617
+  }
+}

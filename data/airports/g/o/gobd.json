@@ -1,0 +1,33 @@
+{
+  "key": "gobd",
+  "codes": {
+    "icao": "GOBD",
+    "iata": "DSS",
+    "gps": "GOBD",
+    "local": null
+  },
+  "name": "Blaise Diagne International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 14.670878,
+    "longitude": -17.072829,
+    "elevation_ft": 290,
+    "iso_country": "SN",
+    "iso_region": "SN-DK",
+    "municipality": "Dakar"
+  },
+  "keywords": [
+    "diass airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Diagne_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 325736
+  }
+}

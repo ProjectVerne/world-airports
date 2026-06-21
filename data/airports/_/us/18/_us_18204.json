@@ -1,0 +1,30 @@
+{
+  "key": "_us_18204",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "IS44",
+    "local": "IS44"
+  },
+  "name": "Illini Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.6073,
+    "longitude": -90.814003,
+    "elevation_ft": 740,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Pittsfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18204
+  }
+}

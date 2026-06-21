@@ -1,0 +1,31 @@
+{
+  "key": "kcll",
+  "codes": {
+    "icao": "KCLL",
+    "iata": "CLL",
+    "gps": "KCLL",
+    "local": "CLL"
+  },
+  "name": "Easterwood Field",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.5886,
+    "longitude": -96.3638,
+    "elevation_ft": 320,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "College Station"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Easterwood_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3455
+  }
+}

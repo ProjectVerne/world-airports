@@ -1,0 +1,30 @@
+{
+  "key": "lhkc",
+  "codes": {
+    "icao": "LHKC",
+    "iata": null,
+    "gps": "LHKC",
+    "local": null
+  },
+  "name": "Kecel Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.536443,
+    "longitude": 19.241458,
+    "elevation_ft": 323,
+    "iso_country": "HU",
+    "iso_region": "HU-BK",
+    "municipality": "Kecel"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43984
+  }
+}

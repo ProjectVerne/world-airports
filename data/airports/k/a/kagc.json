@@ -1,0 +1,31 @@
+{
+  "key": "kagc",
+  "codes": {
+    "icao": "KAGC",
+    "iata": "AGC",
+    "gps": "KAGC",
+    "local": "AGC"
+  },
+  "name": "Allegheny County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.354401,
+    "longitude": -79.930199,
+    "elevation_ft": 1252,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Pittsburgh"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Allegheny_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3367
+  }
+}

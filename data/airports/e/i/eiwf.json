@@ -1,0 +1,31 @@
+{
+  "key": "eiwf",
+  "codes": {
+    "icao": "EIWF",
+    "iata": "WAT",
+    "gps": "EIWF",
+    "local": null
+  },
+  "name": "Waterford Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.187199,
+    "longitude": -7.08696,
+    "elevation_ft": 119,
+    "iso_country": "IE",
+    "iso_region": "IE-WD",
+    "municipality": "Waterford"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Waterford_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2539
+  }
+}

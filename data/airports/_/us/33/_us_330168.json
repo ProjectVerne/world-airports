@@ -1,0 +1,33 @@
+{
+  "key": "_us_330168",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "68FL",
+    "local": "68FL"
+  },
+  "name": "HCA Florida Capital Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.475936,
+    "longitude": -84.231006,
+    "elevation_ft": 150,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Tallahassee"
+  },
+  "keywords": [
+    "Tallahassee Community Hospital Heliport",
+    "US-1065"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 330168
+  }
+}

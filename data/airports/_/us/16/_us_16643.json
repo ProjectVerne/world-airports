@@ -1,0 +1,30 @@
+{
+  "key": "_us_16643",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CD12",
+    "local": "CD12"
+  },
+  "name": "Gunnison Valley Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.551701,
+    "longitude": -106.925003,
+    "elevation_ft": 7715,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Gunnison"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 16643
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_338794",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Eagle Pass TARS Site",
+  "type": "balloonport",
+  "status": "open",
+  "location": {
+    "latitude": 28.38537,
+    "longitude": -100.28594,
+    "elevation_ft": 709,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Eagle Pass"
+  },
+  "keywords": [
+    "US-2455"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 338794
+  }
+}

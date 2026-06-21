@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01511",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSE4",
+    "local": "CSE4"
+  },
+  "name": "Lachute Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.6394,
+    "longitude": -74.370598,
+    "elevation_ft": 221,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Lachute"
+  },
+  "keywords": [
+    "SE4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lachute_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1511
+  }
+}

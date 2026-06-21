@@ -1,0 +1,30 @@
+{
+  "key": "_us_24273",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS34",
+    "local": "PS34"
+  },
+  "name": "North Penn Usarc Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.191799,
+    "longitude": -75.341301,
+    "elevation_ft": 450,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Worcester"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24273
+  }
+}

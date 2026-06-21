@@ -1,0 +1,31 @@
+{
+  "key": "sumo",
+  "codes": {
+    "icao": "SUMO",
+    "iata": "MLZ",
+    "gps": "SUMO",
+    "local": null
+  },
+  "name": "Cerro Largo International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -32.337898,
+    "longitude": -54.216702,
+    "elevation_ft": 364,
+    "iso_country": "UY",
+    "iso_region": "UY-CL",
+    "municipality": "Melo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cerro_Largo_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31920
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "faoh",
+  "codes": {
+    "icao": "FAOH",
+    "iata": "OUH",
+    "gps": "FAOH",
+    "local": "FAOH"
+  },
+  "name": "Oudtshoorn Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.606998,
+    "longitude": 22.188999,
+    "elevation_ft": 1063,
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Oudtshoorn"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2819
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01128",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CJT5",
+    "local": "CJT5"
+  },
+  "name": "Melita Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 49.2617,
+    "longitude": -101.014,
+    "elevation_ft": 1475,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Melita"
+  },
+  "keywords": [
+    "JT5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Melita_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1128
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08870",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "21WA",
+    "local": "21WA"
+  },
+  "name": "St Joseph Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.624802,
+    "longitude": -122.575996,
+    "elevation_ft": 313,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Vancouver"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8870
+  }
+}

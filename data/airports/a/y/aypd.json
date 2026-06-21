@@ -1,0 +1,30 @@
+{
+  "key": "aypd",
+  "codes": {
+    "icao": "AYPD",
+    "iata": "PDI",
+    "gps": "AYPD",
+    "local": "PDU"
+  },
+  "name": "Pindiu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.445139,
+    "longitude": 147.515833,
+    "elevation_ft": 2995,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Pindiu"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 307076
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08221",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1CA0",
+    "local": "1CA0"
+  },
+  "name": "Boeing Santa Susana Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.237577,
+    "longitude": -118.696561,
+    "elevation_ft": 1800,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Simi Valley"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8221
+  }
+}

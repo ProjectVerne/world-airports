@@ -1,0 +1,31 @@
+{
+  "key": "klru",
+  "codes": {
+    "icao": "KLRU",
+    "iata": "LRU",
+    "gps": "KLRU",
+    "local": "LRU"
+  },
+  "name": "Las Cruces International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.289398,
+    "longitude": -106.921997,
+    "elevation_ft": 4456,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Las Cruces"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Las_Cruces_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3653
+  }
+}

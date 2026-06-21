@@ -1,0 +1,33 @@
+{
+  "key": "krca",
+  "codes": {
+    "icao": "KRCA",
+    "iata": "RCA",
+    "gps": "KRCA",
+    "local": "RCA"
+  },
+  "name": "Ellsworth Air Force Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.145,
+    "longitude": -103.103996,
+    "elevation_ft": 3276,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Rapid City"
+  },
+  "keywords": [
+    "28th Bomb Wing"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ellsworth_Air_Force_Base",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3840
+  }
+}

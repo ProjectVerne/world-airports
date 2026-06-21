@@ -1,0 +1,32 @@
+{
+  "key": "_us_08781",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "20CO",
+    "local": "20CO"
+  },
+  "name": "Lookout Center Field Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.73465,
+    "longitude": -105.205024,
+    "elevation_ft": 5918,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Golden"
+  },
+  "keywords": [
+    "Lookout Center Rooftop Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8781
+  }
+}

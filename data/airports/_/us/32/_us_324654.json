@@ -1,0 +1,32 @@
+{
+  "key": "_us_324654",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TA92",
+    "local": "TA92"
+  },
+  "name": "HDC1 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.919634,
+    "longitude": -97.309771,
+    "elevation_ft": 774,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth"
+  },
+  "keywords": [
+    "US-0604"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 324654
+  }
+}

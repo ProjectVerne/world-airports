@@ -1,0 +1,32 @@
+{
+  "key": "svha",
+  "codes": {
+    "icao": "SVHA",
+    "iata": null,
+    "gps": "SVHA",
+    "local": "SVIQ8"
+  },
+  "name": "Ávila Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 10.480592,
+    "longitude": -66.708051,
+    "elevation_ft": 1838,
+    "iso_country": "VE",
+    "iso_region": "VE-M",
+    "municipality": "Caracas"
+  },
+  "keywords": [
+    "VE-0017"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 40366
+  }
+}

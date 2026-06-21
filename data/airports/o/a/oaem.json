@@ -1,0 +1,34 @@
+{
+  "key": "oaem",
+  "codes": {
+    "icao": "OAEM",
+    "iata": null,
+    "gps": "OAEM",
+    "local": null
+  },
+  "name": "Ishkashim Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.71272,
+    "longitude": 71.61261,
+    "elevation_ft": 8420,
+    "iso_country": "AF",
+    "iso_region": "AF-BDS",
+    "municipality": "Ishkashim"
+  },
+  "keywords": [
+    "Eshkashem Airport",
+    "Sultan Ishkashim"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Eshkashem_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333168
+  }
+}

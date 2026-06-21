@@ -1,0 +1,30 @@
+{
+  "key": "_us_331707",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "ME98",
+    "local": "ME98"
+  },
+  "name": "Long Island Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.685853,
+    "longitude": -70.167286,
+    "elevation_ft": 65,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Long Island"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 331707
+  }
+}

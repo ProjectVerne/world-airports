@@ -1,0 +1,31 @@
+{
+  "key": "rcmt",
+  "codes": {
+    "icao": "RCMT",
+    "iata": "MFK",
+    "gps": "RCMT",
+    "local": null
+  },
+  "name": "Matsu Beigan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.22414,
+    "longitude": 120.002679,
+    "elevation_ft": 41,
+    "iso_country": "TW",
+    "iso_region": "TW-LIE",
+    "municipality": "Matsu (Beigan)"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Matsu_Beigan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5521
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_46002",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Emergency Medical Heliport Number 1",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.719101,
+    "longitude": -116.986,
+    "elevation_ft": 2602,
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Moscow"
+  },
+  "keywords": [
+    "US-0089"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46002
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_06998",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "08NH",
+    "local": "08NH"
+  },
+  "name": "Memorial Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 44.061298,
+    "longitude": -71.135803,
+    "elevation_ft": 574,
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "North Conway"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6998
+  }
+}

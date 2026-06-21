@@ -1,0 +1,30 @@
+{
+  "key": "_us_25990",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WV07",
+    "local": "WV07"
+  },
+  "name": "State Police Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.382599,
+    "longitude": -81.759598,
+    "elevation_ft": 650,
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Charleston"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25990
+  }
+}

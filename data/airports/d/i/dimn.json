@@ -1,0 +1,31 @@
+{
+  "key": "dimn",
+  "codes": {
+    "icao": "DIMN",
+    "iata": "MJC",
+    "gps": "DIMN",
+    "local": null
+  },
+  "name": "Man Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 7.27207,
+    "longitude": -7.58736,
+    "elevation_ft": 1089,
+    "iso_country": "CI",
+    "iso_region": "CI-MG",
+    "municipality": null
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Man_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2100
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_br_36129",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SWOD",
+    "local": "BA0234"
+  },
+  "name": "Ondina Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -13.009093,
+    "longitude": -38.503983,
+    "elevation_ft": 177,
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Salvador"
+  },
+  "keywords": [
+    "SIND"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36129
+  }
+}

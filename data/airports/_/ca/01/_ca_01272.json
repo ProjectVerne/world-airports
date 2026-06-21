@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01272",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CLM2",
+    "local": "CLM2"
+  },
+  "name": "Leamington Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.025002,
+    "longitude": -82.525002,
+    "elevation_ft": 576,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Leamington"
+  },
+  "keywords": [
+    "LM2"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Leamington_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1272
+  }
+}

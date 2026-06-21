@@ -1,0 +1,33 @@
+{
+  "key": "myam",
+  "codes": {
+    "icao": "MYAM",
+    "iata": "MHH",
+    "gps": "MYAM",
+    "local": null
+  },
+  "name": "Leonard M. Thompson International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.510711,
+    "longitude": -77.084262,
+    "elevation_ft": 6,
+    "iso_country": "BS",
+    "iso_region": "BS-CO",
+    "municipality": "Marsh Harbour"
+  },
+  "keywords": [
+    "Marsh Harbour International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Marsh_Harbour_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4927
+  }
+}

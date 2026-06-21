@@ -1,0 +1,30 @@
+{
+  "key": "_us_23181",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NK49",
+    "local": "NK49"
+  },
+  "name": "IBM Owego Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.102442,
+    "longitude": -76.222945,
+    "elevation_ft": 907,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Owego"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23181
+  }
+}

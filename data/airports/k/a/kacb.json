@@ -1,0 +1,31 @@
+{
+  "key": "kacb",
+  "codes": {
+    "icao": "KACB",
+    "iata": "ACB",
+    "gps": "KACB",
+    "local": "ACB"
+  },
+  "name": "Antrim County Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.988602,
+    "longitude": -85.198402,
+    "elevation_ft": 623,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Bellaire"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Antrim_County_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19228
+  }
+}

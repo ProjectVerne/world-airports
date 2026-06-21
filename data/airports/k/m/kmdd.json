@@ -1,0 +1,31 @@
+{
+  "key": "kmdd",
+  "codes": {
+    "icao": "KMDD",
+    "iata": "MDD",
+    "gps": "KMDD",
+    "local": "MDD"
+  },
+  "name": "Midland Airpark",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.036499,
+    "longitude": -102.100998,
+    "elevation_ft": 2803,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Midland"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Midland_Airpark",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20486
+  }
+}

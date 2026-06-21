@@ -1,0 +1,31 @@
+{
+  "key": "pfka",
+  "codes": {
+    "icao": "PFKA",
+    "iata": "KUK",
+    "gps": "PFKA",
+    "local": "Z09"
+  },
+  "name": "Kasigluk Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.872747,
+    "longitude": -162.5247,
+    "elevation_ft": 48,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Kasigluk"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kasigluk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26344
+  }
+}

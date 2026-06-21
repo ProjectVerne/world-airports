@@ -1,0 +1,32 @@
+{
+  "key": "_fr_43388",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Centre Hospitalier Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.638889,
+    "longitude": -2.008333,
+    "elevation_ft": 26,
+    "iso_country": "FR",
+    "iso_region": "FR-BRE",
+    "municipality": "Saint-Malo"
+  },
+  "keywords": [
+    "FR-0048"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43388
+  }
+}

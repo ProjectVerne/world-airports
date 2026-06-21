@@ -1,0 +1,30 @@
+{
+  "key": "loap",
+  "codes": {
+    "icao": "LOAP",
+    "iata": null,
+    "gps": "LOAP",
+    "local": null
+  },
+  "name": "Waidhofen an der Ybbs Hospital Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.952692,
+    "longitude": 14.788011,
+    "elevation_ft": 1279,
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Waidhofen an der Ybbs"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43811
+  }
+}

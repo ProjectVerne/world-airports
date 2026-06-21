@@ -1,0 +1,30 @@
+{
+  "key": "_br_520801",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SID2",
+    "local": "SC0237"
+  },
+  "name": "Caju Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -26.838989,
+    "longitude": -49.228267,
+    "elevation_ft": 292,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Timbó"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 520801
+  }
+}

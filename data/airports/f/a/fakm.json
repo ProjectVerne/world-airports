@@ -1,0 +1,31 @@
+{
+  "key": "fakm",
+  "codes": {
+    "icao": "FAKM",
+    "iata": "KIM",
+    "gps": "FAKM",
+    "local": null
+  },
+  "name": "Kimberley Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -28.805401,
+    "longitude": 24.764872,
+    "elevation_ft": 3950,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Kimberley"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kimberley_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2794
+  }
+}

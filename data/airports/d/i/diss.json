@@ -1,0 +1,31 @@
+{
+  "key": "diss",
+  "codes": {
+    "icao": "DISS",
+    "iata": "ZSS",
+    "gps": "DISS",
+    "local": null
+  },
+  "name": "Sassandra Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 4.928888,
+    "longitude": -6.133156,
+    "elevation_ft": 203,
+    "iso_country": "CI",
+    "iso_region": "CI-BS",
+    "municipality": "Sassandra"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sassandra_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32750
+  }
+}

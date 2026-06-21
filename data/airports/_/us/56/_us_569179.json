@@ -1,0 +1,32 @@
+{
+  "key": "_us_569179",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "NETC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.69458,
+    "longitude": -77.33038,
+    "elevation_ft": 415,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Emmitsburg"
+  },
+  "keywords": [
+    "US-9139"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 569179
+  }
+}

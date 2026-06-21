@@ -1,0 +1,32 @@
+{
+  "key": "_us_24116",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Carlson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.903268,
+    "longitude": -80.103142,
+    "elevation_ft": 1490,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Washington Township"
+  },
+  "keywords": [
+    "PN06"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24116
+  }
+}

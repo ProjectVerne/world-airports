@@ -1,0 +1,30 @@
+{
+  "key": "_us_10895",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3XS4",
+    "local": "3XS4"
+  },
+  "name": "Jenkins Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.134399,
+    "longitude": -93.935997,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Vidor"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10895
+  }
+}

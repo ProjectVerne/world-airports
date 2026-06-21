@@ -1,0 +1,30 @@
+{
+  "key": "shtc",
+  "codes": {
+    "icao": "SHTC",
+    "iata": null,
+    "gps": "SHTC",
+    "local": null
+  },
+  "name": "Edificio Corporativo CTC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -33.437046,
+    "longitude": -70.632573,
+    "elevation_ft": 2389,
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39407
+  }
+}

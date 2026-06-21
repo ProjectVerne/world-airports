@@ -1,0 +1,32 @@
+{
+  "key": "_hn_42025",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Los Pollos Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 13.06,
+    "longitude": -86.957497,
+    "elevation_ft": 126,
+    "iso_country": "HN",
+    "iso_region": "HN-CH",
+    "municipality": "El Limón"
+  },
+  "keywords": [
+    "HN-MOP"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42025
+  }
+}

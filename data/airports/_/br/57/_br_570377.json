@@ -1,0 +1,30 @@
+{
+  "key": "_br_570377",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SS2K",
+    "local": "RS0215"
+  },
+  "name": "CBMRS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -30.04174,
+    "longitude": -51.20325,
+    "elevation_ft": 55,
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Porto Alegre"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 570377
+  }
+}

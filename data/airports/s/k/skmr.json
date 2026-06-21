@@ -1,0 +1,31 @@
+{
+  "key": "skmr",
+  "codes": {
+    "icao": "SKMR",
+    "iata": "MTR",
+    "gps": "SKMR",
+    "local": "MTR"
+  },
+  "name": "Los Garzones Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 8.82374,
+    "longitude": -75.8258,
+    "elevation_ft": 41,
+    "iso_country": "CO",
+    "iso_region": "CO-COR",
+    "municipality": "Montería"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Los_Garzones_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6138
+  }
+}

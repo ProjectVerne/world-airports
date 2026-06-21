@@ -1,0 +1,33 @@
+{
+  "key": "khib",
+  "codes": {
+    "icao": "KHIB",
+    "iata": "HIB",
+    "gps": "KHIB",
+    "local": "HIB"
+  },
+  "name": "Range Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.384831,
+    "longitude": -92.836905,
+    "elevation_ft": 1354,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Hibbing"
+  },
+  "keywords": [
+    "Chisholm Hibbing Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Range_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3579
+  }
+}

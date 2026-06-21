@@ -1,0 +1,31 @@
+{
+  "key": "patk",
+  "codes": {
+    "icao": "PATK",
+    "iata": "TKA",
+    "gps": "PATK",
+    "local": "TKA"
+  },
+  "name": "Talkeetna Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 62.320499,
+    "longitude": -150.093994,
+    "elevation_ft": 358,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Talkeetna"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Talkeetna_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24910
+  }
+}

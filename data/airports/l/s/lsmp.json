@@ -1,0 +1,33 @@
+{
+  "key": "lsmp",
+  "codes": {
+    "icao": "LSMP",
+    "iata": "VIP",
+    "gps": "LSMP",
+    "local": null
+  },
+  "name": "Payerne Air Base",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.8432,
+    "longitude": 6.91506,
+    "elevation_ft": 1465,
+    "iso_country": "CH",
+    "iso_region": "CH-FR",
+    "municipality": "Payerne"
+  },
+  "keywords": [
+    "Payerne Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Payerne_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4498
+  }
+}

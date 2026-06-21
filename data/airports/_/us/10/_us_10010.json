@@ -1,0 +1,30 @@
+{
+  "key": "_us_10010",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "32MD",
+    "local": "32MD"
+  },
+  "name": "Roseland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.1894,
+    "longitude": -75.876801,
+    "elevation_ft": 70,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Sudlersville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10010
+  }
+}

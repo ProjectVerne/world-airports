@@ -1,0 +1,30 @@
+{
+  "key": "_us_06939",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "07ME",
+    "local": "07ME"
+  },
+  "name": "Westbrook Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 43.7383,
+    "longitude": -70.339203,
+    "elevation_ft": 250,
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Westbrook"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6939
+  }
+}

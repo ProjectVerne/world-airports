@@ -1,0 +1,31 @@
+{
+  "key": "lszh",
+  "codes": {
+    "icao": "LSZH",
+    "iata": "ZRH",
+    "gps": "LSZH",
+    "local": null
+  },
+  "name": "Zürich Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.458056,
+    "longitude": 8.548056,
+    "elevation_ft": 1417,
+    "iso_country": "CH",
+    "iso_region": "CH-ZH",
+    "municipality": "Zurich"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Zurich_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4505
+  }
+}

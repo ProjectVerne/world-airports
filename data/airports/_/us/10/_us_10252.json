@@ -1,0 +1,30 @@
+{
+  "key": "_us_10252",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "37TA",
+    "local": "37TA"
+  },
+  "name": "Texas Health Presbyterian Hospital Dallas Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.880451,
+    "longitude": -96.761044,
+    "elevation_ft": 563,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dallas"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10252
+  }
+}

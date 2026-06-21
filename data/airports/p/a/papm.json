@@ -1,0 +1,31 @@
+{
+  "key": "papm",
+  "codes": {
+    "icao": "PAPM",
+    "iata": "PTU",
+    "gps": "PAPM",
+    "local": "PTU"
+  },
+  "name": "Platinum Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.017675,
+    "longitude": -161.827927,
+    "elevation_ft": 15,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Platinum"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Platinum_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5400
+  }
+}

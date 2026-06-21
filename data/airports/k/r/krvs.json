@@ -1,0 +1,34 @@
+{
+  "key": "krvs",
+  "codes": {
+    "icao": "KRVS",
+    "iata": "RVS",
+    "gps": "KRVS",
+    "local": "RVS"
+  },
+  "name": "Tulsa Riverside Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.0396,
+    "longitude": -95.984596,
+    "elevation_ft": 638,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Tulsa"
+  },
+  "keywords": [
+    "Riverside Airport",
+    "Tulsa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Richard_Lloyd_Jones_Jr._Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20972
+  }
+}

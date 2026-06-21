@@ -1,0 +1,33 @@
+{
+  "key": "zbhd",
+  "codes": {
+    "icao": "ZBHD",
+    "iata": "HDG",
+    "gps": "ZBHD",
+    "local": null
+  },
+  "name": "Handan Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.524824,
+    "longitude": 114.424126,
+    "elevation_ft": 229,
+    "iso_country": "CN",
+    "iso_region": "CN-13",
+    "municipality": "Handan"
+  },
+  "keywords": [
+    "Handan Matou Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Handan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300860
+  }
+}

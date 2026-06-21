@@ -1,0 +1,31 @@
+{
+  "key": "pabv",
+  "codes": {
+    "icao": "PABV",
+    "iata": null,
+    "gps": "PABV",
+    "local": "BCV"
+  },
+  "name": "Birchwood Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 61.4165,
+    "longitude": -149.507004,
+    "elevation_ft": 83,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Birchwood"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Birchwood_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5344
+  }
+}

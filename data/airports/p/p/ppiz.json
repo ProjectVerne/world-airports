@@ -1,0 +1,31 @@
+{
+  "key": "ppiz",
+  "codes": {
+    "icao": "PPIZ",
+    "iata": "PIZ",
+    "gps": "PPIZ",
+    "local": "PIZ"
+  },
+  "name": "Point Lay LRRS Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 69.732903,
+    "longitude": -163.005005,
+    "elevation_ft": 22,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Point Lay"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Point_Lay_LRRS_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5495
+  }
+}

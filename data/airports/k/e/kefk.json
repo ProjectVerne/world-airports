@@ -1,0 +1,33 @@
+{
+  "key": "kefk",
+  "codes": {
+    "icao": "KEFK",
+    "iata": "EFK",
+    "gps": "KEFK",
+    "local": "EFK"
+  },
+  "name": "Northeast Kingdom International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.888802,
+    "longitude": -72.229202,
+    "elevation_ft": 930,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Newport"
+  },
+  "keywords": [
+    "Newport State Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Newport_State_Airport_(Vermont)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19732
+  }
+}

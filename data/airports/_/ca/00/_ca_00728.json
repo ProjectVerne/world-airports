@@ -1,0 +1,30 @@
+{
+  "key": "_ca_00728",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CBV8",
+    "local": "CBV8"
+  },
+  "name": "Comox (St. Joseph's Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.675075,
+    "longitude": -124.941185,
+    "elevation_ft": 60,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Comox"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 728
+  }
+}

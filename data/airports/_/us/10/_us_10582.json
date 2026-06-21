@@ -1,0 +1,30 @@
+{
+  "key": "_us_10582",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3MA0",
+    "local": "3MA0"
+  },
+  "name": "Compaq Woburn Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.5098,
+    "longitude": -71.136398,
+    "elevation_ft": 80,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Woburn"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10582
+  }
+}

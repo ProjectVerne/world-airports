@@ -1,0 +1,30 @@
+{
+  "key": "_us_23744",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OK00",
+    "local": "OK00"
+  },
+  "name": "Jacktown Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.5163,
+    "longitude": -97.022102,
+    "elevation_ft": 954,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Jacktown"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23744
+  }
+}

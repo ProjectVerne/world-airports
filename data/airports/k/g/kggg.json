@@ -1,0 +1,31 @@
+{
+  "key": "kggg",
+  "codes": {
+    "icao": "KGGG",
+    "iata": "GGG",
+    "gps": "KGGG",
+    "local": "GGG"
+  },
+  "name": "East Texas Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.383999,
+    "longitude": -94.711502,
+    "elevation_ft": 365,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Longview"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/East_Texas_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3555
+  }
+}

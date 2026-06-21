@@ -1,0 +1,32 @@
+{
+  "key": "scad",
+  "codes": {
+    "icao": "SCAD",
+    "iata": null,
+    "gps": "SCAD",
+    "local": null
+  },
+  "name": "Grupo Tamarena Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -33.716163,
+    "longitude": -70.973665,
+    "elevation_ft": 875,
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Talagante"
+  },
+  "keywords": [
+    "CL-0045"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 608077
+  }
+}

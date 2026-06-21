@@ -1,0 +1,32 @@
+{
+  "key": "_us_317203",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CA10",
+    "local": "CA10"
+  },
+  "name": "John C. Fremont Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.499753,
+    "longitude": -119.977789,
+    "elevation_ft": 2204,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Mariposa"
+  },
+  "keywords": [
+    "US-0294"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 317203
+  }
+}

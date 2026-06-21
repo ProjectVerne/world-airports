@@ -1,0 +1,31 @@
+{
+  "key": "kbty",
+  "codes": {
+    "icao": "KBTY",
+    "iata": "BTY",
+    "gps": "KBTY",
+    "local": "BTY"
+  },
+  "name": "Beatty Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.861099,
+    "longitude": -116.787003,
+    "elevation_ft": 3170,
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Beatty"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Beatty_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19412
+  }
+}

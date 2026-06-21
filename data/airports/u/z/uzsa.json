@@ -1,0 +1,33 @@
+{
+  "key": "uzsa",
+  "codes": {
+    "icao": "UZSA",
+    "iata": "NVI",
+    "gps": "UZSA",
+    "local": null
+  },
+  "name": "Navoi International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.117599,
+    "longitude": 65.172658,
+    "elevation_ft": 1140,
+    "iso_country": "UZ",
+    "iso_region": "UZ-NW",
+    "municipality": "Navoi"
+  },
+  "keywords": [
+    "UTSA"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Navoi_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32561
+  }
+}

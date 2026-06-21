@@ -1,0 +1,34 @@
+{
+  "key": "ksql",
+  "codes": {
+    "icao": "KSQL",
+    "iata": "SQL",
+    "gps": "KSQL",
+    "local": "SQL"
+  },
+  "name": "San Carlos Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.51313,
+    "longitude": -122.250838,
+    "elevation_ft": 5,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Carlos"
+  },
+  "keywords": [
+    "San Carlos-Belmont Airport",
+    "San Mateo Country Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Carlos_Airport_(California)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21105
+  }
+}

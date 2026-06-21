@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01358",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNW9",
+    "local": "CNW9"
+  },
+  "name": "New Westminster (Royal Columbian Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.226671,
+    "longitude": -122.892291,
+    "elevation_ft": 124,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "New Westminster"
+  },
+  "keywords": [
+    "NW9"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1358
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_06835",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "05MS",
+    "local": "05MS"
+  },
+  "name": "VA Medical Center Jackson Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.32973,
+    "longitude": -90.16273,
+    "elevation_ft": 359,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Jackson"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6835
+  }
+}

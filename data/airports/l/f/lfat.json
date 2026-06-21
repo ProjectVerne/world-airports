@@ -1,0 +1,33 @@
+{
+  "key": "lfat",
+  "codes": {
+    "icao": "LFAT",
+    "iata": "LTQ",
+    "gps": "LFAT",
+    "local": null
+  },
+  "name": "Le Touquet-Côte d'Opale Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.518284,
+    "longitude": 1.621656,
+    "elevation_ft": 36,
+    "iso_country": "FR",
+    "iso_region": "FR-HDF",
+    "municipality": "Le Touquet-Paris-Plage"
+  },
+  "keywords": [
+    "Paris-Plage"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Le_Touquet_%E2%80%93_C%C3%B4te_d%27Opale_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4055
+  }
+}

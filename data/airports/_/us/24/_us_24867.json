@@ -1,0 +1,30 @@
+{
+  "key": "_us_24867",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE59",
+    "local": "TE59"
+  },
+  "name": "Holler Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.813333,
+    "longitude": -98.363333,
+    "elevation_ft": 1100,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Bulverde"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24867
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "egbb",
+  "codes": {
+    "icao": "EGBB",
+    "iata": "BHX",
+    "gps": "EGBB",
+    "local": null
+  },
+  "name": "Birmingham Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.453899,
+    "longitude": -1.74803,
+    "elevation_ft": 327,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Birmingham, West Midlands"
+  },
+  "keywords": [
+    "Birmingham International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Birmingham_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2389
+  }
+}

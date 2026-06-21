@@ -1,0 +1,33 @@
+{
+  "key": "_us_08549",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Westtown Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 41.3615,
+    "longitude": -74.5243,
+    "elevation_ft": 600,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Westtown"
+  },
+  "keywords": [
+    "1NK5",
+    "US-9698"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8549
+  }
+}

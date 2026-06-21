@@ -1,0 +1,31 @@
+{
+  "key": "esms",
+  "codes": {
+    "icao": "ESMS",
+    "iata": "MMX",
+    "gps": "ESMS",
+    "local": null
+  },
+  "name": "Malmö Sturup Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 55.535564,
+    "longitude": 13.376327,
+    "elevation_ft": 236,
+    "iso_country": "SE",
+    "iso_region": "SE-M",
+    "municipality": "Malmö"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Malm%C3%B6_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2669
+  }
+}

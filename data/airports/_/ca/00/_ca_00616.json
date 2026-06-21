@@ -1,0 +1,32 @@
+{
+  "key": "_ca_00616",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CAE2",
+    "local": "CAE2"
+  },
+  "name": "Cranbrook (East Kootenay Regional Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.512501,
+    "longitude": -115.75,
+    "elevation_ft": 3050,
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Cranbrook"
+  },
+  "keywords": [
+    "AE2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 616
+  }
+}

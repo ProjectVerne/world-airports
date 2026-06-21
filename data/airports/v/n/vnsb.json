@@ -1,0 +1,33 @@
+{
+  "key": "vnsb",
+  "codes": {
+    "icao": "VNSB",
+    "iata": "SYH",
+    "gps": "VNSB",
+    "local": null
+  },
+  "name": "Syangboche Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.8112,
+    "longitude": 86.7124,
+    "elevation_ft": 12400,
+    "iso_country": "NP",
+    "iso_region": "NP-P1",
+    "municipality": "Namche Bazaar"
+  },
+  "keywords": [
+    "Syanboche"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Syangboche_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 315124
+  }
+}

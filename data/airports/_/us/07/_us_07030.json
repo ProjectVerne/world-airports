@@ -1,0 +1,30 @@
+{
+  "key": "_us_07030",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "09IN",
+    "local": "09IN"
+  },
+  "name": "Gordon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.123265,
+    "longitude": -85.42496,
+    "elevation_ft": 850,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Columbia City"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7030
+  }
+}

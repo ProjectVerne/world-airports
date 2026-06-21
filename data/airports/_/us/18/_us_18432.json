@@ -1,0 +1,31 @@
+{
+  "key": "_us_18432",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "K17K",
+    "local": "17K"
+  },
+  "name": "Boise City Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.7743,
+    "longitude": -102.510002,
+    "elevation_ft": 4178,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Boise City"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Boise_City_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 18432
+  }
+}

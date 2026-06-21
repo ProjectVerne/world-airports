@@ -1,0 +1,33 @@
+{
+  "key": "vadu",
+  "codes": {
+    "icao": "VADU",
+    "iata": "DIU",
+    "gps": "VADU",
+    "local": "VADU"
+  },
+  "name": "Diu Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 20.714185,
+    "longitude": 70.921855,
+    "elevation_ft": 31,
+    "iso_country": "IN",
+    "iso_region": "IN-DH",
+    "municipality": "Diu"
+  },
+  "keywords": [
+    "VA1P"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Diu_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3296
+  }
+}

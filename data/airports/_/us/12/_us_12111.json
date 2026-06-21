@@ -1,0 +1,32 @@
+{
+  "key": "_us_12111",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "WT89",
+    "local": "WT89"
+  },
+  "name": "Tri-State Hospital EMS Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 46.402096,
+    "longitude": -117.055574,
+    "elevation_ft": 880,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Clarkston"
+  },
+  "keywords": [
+    "56WA"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12111
+  }
+}

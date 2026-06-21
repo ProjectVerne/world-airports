@@ -1,0 +1,30 @@
+{
+  "key": "_us_08343",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1II4",
+    "local": "1II4"
+  },
+  "name": "Amy Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.125099,
+    "longitude": -86.162201,
+    "elevation_ft": 665,
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Corydon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8343
+  }
+}

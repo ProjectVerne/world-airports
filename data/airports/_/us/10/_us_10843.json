@@ -1,0 +1,31 @@
+{
+  "key": "_us_10843",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3U9",
+    "local": "3U9"
+  },
+  "name": "Boulder Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.211601,
+    "longitude": -112.106003,
+    "elevation_ft": 4968,
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Boulder"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Boulder_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 10843
+  }
+}

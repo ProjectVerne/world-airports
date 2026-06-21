@@ -1,0 +1,32 @@
+{
+  "key": "_br_345841",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SNNH",
+    "local": "MG0461"
+  },
+  "name": "Haskell Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -20.764606,
+    "longitude": -42.832033,
+    "elevation_ft": 2316,
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Viçosa"
+  },
+  "keywords": [
+    "BR-1590"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345841
+  }
+}

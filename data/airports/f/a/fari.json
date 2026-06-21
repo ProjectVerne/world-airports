@@ -1,0 +1,30 @@
+{
+  "key": "fari",
+  "codes": {
+    "icao": "FARI",
+    "iata": "RVO",
+    "gps": "FARI",
+    "local": null
+  },
+  "name": "Reivilo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.547199,
+    "longitude": 24.172501,
+    "elevation_ft": 4715,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NW",
+    "municipality": "Reivilo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30329
+  }
+}

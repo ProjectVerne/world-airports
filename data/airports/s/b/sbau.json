@@ -1,0 +1,33 @@
+{
+  "key": "sbau",
+  "codes": {
+    "icao": "SBAU",
+    "iata": "ARU",
+    "gps": "SBAU",
+    "local": "SP0009"
+  },
+  "name": "Araçatuba Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -21.141479,
+    "longitude": -50.424575,
+    "elevation_ft": 1358,
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Araçatuba"
+  },
+  "keywords": [
+    "Dario Guarita State Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ara%C3%A7atuba_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5865
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_11376",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "4CL1",
+    "local": "4CL1"
+  },
+  "name": "Lyon Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.6134,
+    "longitude": -117.591003,
+    "elevation_ft": 898,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Rancho Santa Margarita"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 11376
+  }
+}

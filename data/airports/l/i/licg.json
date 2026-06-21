@@ -1,0 +1,33 @@
+{
+  "key": "licg",
+  "codes": {
+    "icao": "LICG",
+    "iata": "PNL",
+    "gps": "LICG",
+    "local": "TP02"
+  },
+  "name": "Pantelleria Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.816502,
+    "longitude": 11.9689,
+    "elevation_ft": 628,
+    "iso_country": "IT",
+    "iso_region": "IT-82",
+    "municipality": "Pantelleria (TP)"
+  },
+  "keywords": [
+    "I D'Amico"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pantelleria_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4320
+  }
+}

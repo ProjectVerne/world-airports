@@ -1,0 +1,30 @@
+{
+  "key": "_ca_01524",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSH9",
+    "local": "CSH9"
+  },
+  "name": "Montréal East (AIM) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.635193,
+    "longitude": -73.562138,
+    "elevation_ft": 179,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1524
+  }
+}

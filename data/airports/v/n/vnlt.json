@@ -1,0 +1,30 @@
+{
+  "key": "vnlt",
+  "codes": {
+    "icao": "VNLT",
+    "iata": "LTG",
+    "gps": "VNLT",
+    "local": null
+  },
+  "name": "Langtang Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.200001,
+    "longitude": 85.583,
+    "elevation_ft": 12000,
+    "iso_country": "NP",
+    "iso_region": "NP-P3",
+    "municipality": "Langtang"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31856
+  }
+}

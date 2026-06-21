@@ -1,0 +1,33 @@
+{
+  "key": "ktmk",
+  "codes": {
+    "icao": "KTMK",
+    "iata": "OTK",
+    "gps": "KTMK",
+    "local": "TMK"
+  },
+  "name": "Tillamook Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.418201,
+    "longitude": -123.814003,
+    "elevation_ft": 36,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Tillamook"
+  },
+  "keywords": [
+    "S47"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tillamook_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24915
+  }
+}

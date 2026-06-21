@@ -1,0 +1,31 @@
+{
+  "key": "kcrp",
+  "codes": {
+    "icao": "KCRP",
+    "iata": "CRP",
+    "gps": "KCRP",
+    "local": "CRP"
+  },
+  "name": "Corpus Christi International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.770399,
+    "longitude": -97.501198,
+    "elevation_ft": 44,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Corpus Christi"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Corpus_Christi_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3466
+  }
+}

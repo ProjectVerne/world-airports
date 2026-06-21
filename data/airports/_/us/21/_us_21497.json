@@ -1,0 +1,30 @@
+{
+  "key": "_us_21497",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LA30",
+    "local": "LA30"
+  },
+  "name": "Phoenix Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.248199,
+    "longitude": -92.241699,
+    "elevation_ft": 31,
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Rayne"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21497
+  }
+}

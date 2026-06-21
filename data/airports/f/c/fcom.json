@@ -1,0 +1,31 @@
+{
+  "key": "fcom",
+  "codes": {
+    "icao": "FCOM",
+    "iata": "MKJ",
+    "gps": "FCOM",
+    "local": null
+  },
+  "name": "Makoua Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -0.020842,
+    "longitude": 15.577746,
+    "elevation_ft": 1293,
+    "iso_country": "CG",
+    "iso_region": "CG-8",
+    "municipality": "Makoua"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Makoua_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31917
+  }
+}

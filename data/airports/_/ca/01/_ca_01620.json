@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01620",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CTY5",
+    "local": "CTY5"
+  },
+  "name": "Rougemont Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.438301,
+    "longitude": -73.037804,
+    "elevation_ft": 80,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Rougemont"
+  },
+  "keywords": [
+    "TY5"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rougemont_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1620
+  }
+}

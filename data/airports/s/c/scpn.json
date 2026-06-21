@@ -1,0 +1,31 @@
+{
+  "key": "scpn",
+  "codes": {
+    "icao": "SCPN",
+    "iata": null,
+    "gps": "SCPN",
+    "local": null
+  },
+  "name": "Pillán Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -42.546989,
+    "longitude": -72.494884,
+    "elevation_ft": 33,
+    "iso_country": "CL",
+    "iso_region": "CL-LL",
+    "municipality": "Chaiten"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pill%C3%A1n_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 39246
+  }
+}

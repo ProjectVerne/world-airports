@@ -1,0 +1,35 @@
+{
+  "key": "kshd",
+  "codes": {
+    "icao": "KSHD",
+    "iata": "SHD",
+    "gps": "KSHD",
+    "local": "SHD"
+  },
+  "name": "Shenandoah Valley Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.263802,
+    "longitude": -78.8964,
+    "elevation_ft": 1201,
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Weyers Cave"
+  },
+  "keywords": [
+    "Harrisonburg",
+    "Staunton",
+    "Waynesboro"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shenandoah_Valley_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21066
+  }
+}

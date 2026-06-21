@@ -1,0 +1,30 @@
+{
+  "key": "_us_09413",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2GE1",
+    "local": "2GE1"
+  },
+  "name": "Burke County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.0844,
+    "longitude": -82.0131,
+    "elevation_ft": 264,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Waynesboro"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9413
+  }
+}

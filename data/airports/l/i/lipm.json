@@ -1,0 +1,31 @@
+{
+  "key": "lipm",
+  "codes": {
+    "icao": "LIPM",
+    "iata": null,
+    "gps": "LIPM",
+    "local": "MO11"
+  },
+  "name": "Modena-Marzaglia Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.631389,
+    "longitude": 10.808611,
+    "elevation_ft": 184,
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Marzaglia (MO)"
+  },
+  "keywords": [],
+  "wikipedia": "https://it.wikipedia.org/wiki/Aeroporto_di_Modena",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29437
+  }
+}

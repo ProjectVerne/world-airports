@@ -1,0 +1,30 @@
+{
+  "key": "famo",
+  "codes": {
+    "icao": "FAMO",
+    "iata": "MZY",
+    "gps": "FAMO",
+    "local": null
+  },
+  "name": "Mossel Bay Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -34.158746,
+    "longitude": 22.055676,
+    "elevation_ft": 531,
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Mossel Bay"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30164
+  }
+}

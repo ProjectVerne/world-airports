@@ -1,0 +1,33 @@
+{
+  "key": "edac",
+  "codes": {
+    "icao": "EDAC",
+    "iata": "AOC",
+    "gps": "EDAC",
+    "local": null
+  },
+  "name": "Leipzig–Altenburg Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 50.981945,
+    "longitude": 12.506389,
+    "elevation_ft": 640,
+    "iso_country": "DE",
+    "iso_region": "DE-TH",
+    "municipality": "Nobitz"
+  },
+  "keywords": [
+    "Altenburg-Nobitz"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Leipzig%E2%80%93Altenburg_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2184
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_25502",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VT06",
+    "local": "VT06"
+  },
+  "name": "Santa's Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.004398,
+    "longitude": -72.473701,
+    "elevation_ft": 673,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Putney"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25502
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "kege",
+  "codes": {
+    "icao": "KEGE",
+    "iata": "EGE",
+    "gps": "KEGE",
+    "local": "EGE"
+  },
+  "name": "Eagle County Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.642601,
+    "longitude": -106.917999,
+    "elevation_ft": 6548,
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Eagle"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3505
+  }
+}

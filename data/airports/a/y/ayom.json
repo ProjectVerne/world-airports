@@ -1,0 +1,30 @@
+{
+  "key": "ayom",
+  "codes": {
+    "icao": "AYOM",
+    "iata": "OSE",
+    "gps": "AYOM",
+    "local": "OOA"
+  },
+  "name": "Omora Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -7.827778,
+    "longitude": 147.080639,
+    "elevation_ft": 2540,
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Omora"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 306992
+  }
+}

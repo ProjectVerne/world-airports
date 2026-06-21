@@ -1,0 +1,30 @@
+{
+  "key": "_us_08191",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1AL6",
+    "local": "1AL6"
+  },
+  "name": "Monroe County Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.497801,
+    "longitude": -87.321098,
+    "elevation_ft": 425,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Monroeville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8191
+  }
+}

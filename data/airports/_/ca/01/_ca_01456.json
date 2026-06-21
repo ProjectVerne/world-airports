@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01456",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CPT3",
+    "local": "CPT3"
+  },
+  "name": "Rockton Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.322201,
+    "longitude": -80.176399,
+    "elevation_ft": 846,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Rockton"
+  },
+  "keywords": [
+    "PT3"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Rockton_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1456
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_br_36111",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Codenorte Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -3.292265,
+    "longitude": -49.213596,
+    "elevation_ft": 220,
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Moju"
+  },
+  "keywords": [
+    "SIML",
+    "BR-2443"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 36111
+  }
+}

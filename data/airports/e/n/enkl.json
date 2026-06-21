@@ -1,0 +1,31 @@
+{
+  "key": "enkl",
+  "codes": {
+    "icao": "ENKL",
+    "iata": "GLL",
+    "gps": "ENKL",
+    "local": null
+  },
+  "name": "Gol Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.791066,
+    "longitude": 9.048672,
+    "elevation_ft": 2770,
+    "iso_country": "NO",
+    "iso_region": "NO-33",
+    "municipality": "Klanten flyplass"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gol_Airport,_Klanten",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30032
+  }
+}

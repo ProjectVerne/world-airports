@@ -1,0 +1,31 @@
+{
+  "key": "savd",
+  "codes": {
+    "icao": "SAVD",
+    "iata": "EMX",
+    "gps": "SAVD",
+    "local": "EMA"
+  },
+  "name": "El Maitén Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -42.029202,
+    "longitude": -71.172501,
+    "elevation_ft": 2355,
+    "iso_country": "AR",
+    "iso_region": "AR-U",
+    "municipality": "El Maitén"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/El_Mait%C3%A9n_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29847
+  }
+}

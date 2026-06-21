@@ -1,0 +1,31 @@
+{
+  "key": "pamy",
+  "codes": {
+    "icao": "PAMY",
+    "iata": "MYU",
+    "gps": "PAMY",
+    "local": "MYU"
+  },
+  "name": "Mekoryuk Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.372338,
+    "longitude": -166.269751,
+    "elevation_ft": 48,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Mekoryuk"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mekoryuk_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5387
+  }
+}

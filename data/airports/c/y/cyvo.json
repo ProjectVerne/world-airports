@@ -1,0 +1,31 @@
+{
+  "key": "cyvo",
+  "codes": {
+    "icao": "CYVO",
+    "iata": "YVO",
+    "gps": "CYVO",
+    "local": null
+  },
+  "name": "Val-d'Or Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.053299,
+    "longitude": -77.782799,
+    "elevation_ft": 1107,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Val-d'Or"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Val-d'Or_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1938
+  }
+}

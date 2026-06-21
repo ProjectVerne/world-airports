@@ -1,0 +1,32 @@
+{
+  "key": "_us_598898",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "3IL2",
+    "local": "3IL2"
+  },
+  "name": "IDOC-Menard Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.911926,
+    "longitude": -89.837817,
+    "elevation_ft": 478,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Kaskaskia"
+  },
+  "keywords": [
+    "US-12731"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 598898
+  }
+}

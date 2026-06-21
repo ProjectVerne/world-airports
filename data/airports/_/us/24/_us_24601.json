@@ -1,0 +1,33 @@
+{
+  "key": "_us_24601",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Overmiller Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.911999,
+    "longitude": -98.665604,
+    "elevation_ft": 2010,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Smith Center"
+  },
+  "keywords": [
+    "SN23",
+    "US-12164"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24601
+  }
+}

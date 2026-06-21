@@ -1,0 +1,30 @@
+{
+  "key": "_us_22507",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MU10",
+    "local": "MU10"
+  },
+  "name": "Southeast Mo Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.3106,
+    "longitude": -89.540604,
+    "elevation_ft": 450,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Cape Girardeau"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22507
+  }
+}

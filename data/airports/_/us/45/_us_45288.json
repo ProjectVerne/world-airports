@@ -1,0 +1,30 @@
+{
+  "key": "_us_45288",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "75AZ",
+    "local": "75AZ"
+  },
+  "name": "Emergency Medical Evacuation Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 34.754428,
+    "longitude": -112.119614,
+    "elevation_ft": 5212,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Jerome"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45288
+  }
+}

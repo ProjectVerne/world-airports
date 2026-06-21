@@ -1,0 +1,31 @@
+{
+  "key": "krld",
+  "codes": {
+    "icao": "KRLD",
+    "iata": "RLD",
+    "gps": "KRLD",
+    "local": "RLD"
+  },
+  "name": "Richland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 46.305599,
+    "longitude": -119.304001,
+    "elevation_ft": 394,
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Richland"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Richland_Airport_(Washington)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20939
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "ktmb",
+  "codes": {
+    "icao": "KTMB",
+    "iata": "TMB",
+    "gps": "KTMB",
+    "local": "TMB"
+  },
+  "name": "Miami Executive Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 25.6479,
+    "longitude": -80.4328,
+    "elevation_ft": 8,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Miami"
+  },
+  "keywords": [
+    "Kendall-Tamiami Executive Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Miami_Executive_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21204
+  }
+}

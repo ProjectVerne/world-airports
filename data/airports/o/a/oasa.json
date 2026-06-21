@@ -1,0 +1,33 @@
+{
+  "key": "oasa",
+  "codes": {
+    "icao": "OASA",
+    "iata": "OAS",
+    "gps": "OASA",
+    "local": null
+  },
+  "name": "Sharana Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.12575,
+    "longitude": 68.838517,
+    "elevation_ft": 7340,
+    "iso_country": "AF",
+    "iso_region": "AF-PKA",
+    "municipality": "Sharana"
+  },
+  "keywords": [
+    "Sharana Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sharana_Airstrip",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32081
+  }
+}

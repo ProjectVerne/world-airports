@@ -1,0 +1,30 @@
+{
+  "key": "_ca_00775",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CCR5",
+    "local": "CCR5"
+  },
+  "name": "Cline River Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 52.178902,
+    "longitude": -116.478996,
+    "elevation_ft": 4386,
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Cline River"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 775
+  }
+}

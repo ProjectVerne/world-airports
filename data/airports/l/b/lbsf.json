@@ -1,0 +1,34 @@
+{
+  "key": "lbsf",
+  "codes": {
+    "icao": "LBSF",
+    "iata": "SOF",
+    "gps": "LBSF",
+    "local": null
+  },
+  "name": "Sofia Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.696357,
+    "longitude": 23.417671,
+    "elevation_ft": 1742,
+    "iso_country": "BG",
+    "iso_region": "BG-22",
+    "municipality": "Sofia"
+  },
+  "keywords": [
+    "Sofia International Airport",
+    "Vrazhdebna Air Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sofia_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3977
+  }
+}

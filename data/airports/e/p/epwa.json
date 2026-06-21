@@ -1,0 +1,34 @@
+{
+  "key": "epwa",
+  "codes": {
+    "icao": "EPWA",
+    "iata": "WAW",
+    "gps": "EPWA",
+    "local": null
+  },
+  "name": "Warsaw Chopin Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.165699,
+    "longitude": 20.9671,
+    "elevation_ft": 362,
+    "iso_country": "PL",
+    "iso_region": "PL-MZ",
+    "municipality": "Warsaw"
+  },
+  "keywords": [
+    "Okęcie",
+    "Warszawa"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Warsaw_Frederic_Chopin_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2637
+  }
+}

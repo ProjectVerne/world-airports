@@ -1,0 +1,31 @@
+{
+  "key": "egen",
+  "codes": {
+    "icao": "EGEN",
+    "iata": "NRL",
+    "gps": "EGEN",
+    "local": null
+  },
+  "name": "North Ronaldsay Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.3675,
+    "longitude": -2.43444,
+    "elevation_ft": 40,
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "North Ronaldsay"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Ronaldsay_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 29129
+  }
+}

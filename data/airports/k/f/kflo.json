@@ -1,0 +1,31 @@
+{
+  "key": "kflo",
+  "codes": {
+    "icao": "KFLO",
+    "iata": "FLO",
+    "gps": "KFLO",
+    "local": "FLO"
+  },
+  "name": "Florence Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.185398,
+    "longitude": -79.7239,
+    "elevation_ft": 146,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Florence"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Florence_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3532
+  }
+}

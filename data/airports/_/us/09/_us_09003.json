@@ -1,0 +1,33 @@
+{
+  "key": "_us_09003",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Blocker Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 37.858299,
+    "longitude": -97.817802,
+    "elevation_ft": 1523,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Haven"
+  },
+  "keywords": [
+    "24KS",
+    "US-9784"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9003
+  }
+}

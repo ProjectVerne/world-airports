@@ -1,0 +1,31 @@
+{
+  "key": "yrom",
+  "codes": {
+    "icao": "YROM",
+    "iata": "RMA",
+    "gps": "YROM",
+    "local": null
+  },
+  "name": "Roma Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.545,
+    "longitude": 148.774994,
+    "elevation_ft": 1032,
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Roma"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Roma_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27128
+  }
+}

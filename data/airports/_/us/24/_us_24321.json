@@ -1,0 +1,30 @@
+{
+  "key": "_us_24321",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS92",
+    "local": "PS92"
+  },
+  "name": "Va Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.315399,
+    "longitude": -76.403,
+    "elevation_ft": 510,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Lebanon"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24321
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "myef",
+  "codes": {
+    "icao": "MYEF",
+    "iata": "GGT",
+    "gps": "MYEF",
+    "local": null
+  },
+  "name": "Exuma International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 23.562599,
+    "longitude": -75.877998,
+    "elevation_ft": 9,
+    "iso_country": "BS",
+    "iso_region": "BS-EX",
+    "municipality": "Moss Town"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Exuma_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4939
+  }
+}

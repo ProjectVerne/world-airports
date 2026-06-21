@@ -1,0 +1,32 @@
+{
+  "key": "_us_338800",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Deming TARS Site",
+  "type": "balloonport",
+  "status": "open",
+  "location": {
+    "latitude": 32.02655,
+    "longitude": -107.86418,
+    "elevation_ft": 4216,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Deming"
+  },
+  "keywords": [
+    "US-2461"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 338800
+  }
+}

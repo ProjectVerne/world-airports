@@ -1,0 +1,34 @@
+{
+  "key": "_us_17179",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KEOD",
+    "local": "EOD"
+  },
+  "name": "Sabre Army Heliport (Fort Campbell)",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.568199,
+    "longitude": -87.480797,
+    "elevation_ft": 593,
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Clarksville (Fort Campbell)"
+  },
+  "keywords": [
+    "Fort Campbell",
+    "Sabre Army Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sabre_Army_Heliport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17179
+  }
+}

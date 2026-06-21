@@ -1,0 +1,34 @@
+{
+  "key": "ksac",
+  "codes": {
+    "icao": "KSAC",
+    "iata": "SAC",
+    "gps": "KSAC",
+    "local": "SAC"
+  },
+  "name": "Sacramento Executive Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 38.512501,
+    "longitude": -121.492996,
+    "elevation_ft": 24,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Sacramento"
+  },
+  "keywords": [
+    "Sutterville Aerodrome",
+    "Sacramento Municipal"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sacramento_Executive_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3861
+  }
+}

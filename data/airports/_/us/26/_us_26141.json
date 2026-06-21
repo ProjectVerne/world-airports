@@ -1,0 +1,30 @@
+{
+  "key": "_us_26141",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "XA06",
+    "local": "XA06"
+  },
+  "name": "MDR 1 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.475238,
+    "longitude": -101.987413,
+    "elevation_ft": 3295,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Wolfforth"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26141
+  }
+}

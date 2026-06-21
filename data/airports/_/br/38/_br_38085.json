@@ -1,0 +1,33 @@
+{
+  "key": "_br_38085",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Porto Moura Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -4.550278,
+    "longitude": -65.567223,
+    "elevation_ft": 195,
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Tefé"
+  },
+  "keywords": [
+    "SWTF",
+    "BR-3139"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 38085
+  }
+}

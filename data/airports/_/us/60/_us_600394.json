@@ -1,0 +1,32 @@
+{
+  "key": "_us_600394",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE54",
+    "local": "TE54"
+  },
+  "name": "Wright Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.138124,
+    "longitude": -100.274885,
+    "elevation_ft": 2440,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "San Angelo"
+  },
+  "keywords": [
+    "US-12755"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600394
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_24887",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE79",
+    "local": "TE79"
+  },
+  "name": "Hig Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.995701,
+    "longitude": -96.929298,
+    "elevation_ft": 455,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Carrollton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 24887
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_08466",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1MN6",
+    "local": "1MN6"
+  },
+  "name": "Cook Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.853001,
+    "longitude": -92.6791,
+    "elevation_ft": 1315,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Cook"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8466
+  }
+}

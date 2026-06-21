@@ -1,0 +1,32 @@
+{
+  "key": "_pk_41643",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Nushki Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 29.540199,
+    "longitude": 66.024498,
+    "elevation_ft": 3271,
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Nushki"
+  },
+  "keywords": [
+    "PK-0010"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41643
+  }
+}

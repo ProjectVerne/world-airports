@@ -1,0 +1,33 @@
+{
+  "key": "_us_21608",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Schott Airport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 40.883163,
+    "longitude": -88.589631,
+    "elevation_ft": 659,
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Pontiac"
+  },
+  "keywords": [
+    "LL56",
+    "US-11589"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21608
+  }
+}

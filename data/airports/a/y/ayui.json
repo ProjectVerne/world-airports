@@ -1,0 +1,34 @@
+{
+  "key": "ayui",
+  "codes": {
+    "icao": "AYUI",
+    "iata": "UBI",
+    "gps": "AYUI",
+    "local": "BUIN"
+  },
+  "name": "Buin Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -6.729167,
+    "longitude": 155.683333,
+    "elevation_ft": 230,
+    "iso_country": "PG",
+    "iso_region": "PG-NSB",
+    "municipality": "Buin"
+  },
+  "keywords": [
+    "Kara Airfield",
+    "Toripoil Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Buin_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 301982
+  }
+}

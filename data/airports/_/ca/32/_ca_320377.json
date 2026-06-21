@@ -1,0 +1,30 @@
+{
+  "key": "_ca_320377",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CHS5",
+    "local": "CHS5"
+  },
+  "name": "Heliport Senneville",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.4428,
+    "longitude": -73.9605,
+    "elevation_ft": 94,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320377
+  }
+}

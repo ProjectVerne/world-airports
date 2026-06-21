@@ -1,0 +1,36 @@
+{
+  "key": "egbp",
+  "codes": {
+    "icao": "EGBP",
+    "iata": "GBA",
+    "gps": "EGBP",
+    "local": null
+  },
+  "name": "Cotswold Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.668528,
+    "longitude": -2.056599,
+    "elevation_ft": 433,
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Cirencester, Gloucestershire"
+  },
+  "keywords": [
+    "RAF Kemble",
+    "Kemble Airfield",
+    "Kemble Airport",
+    "Cotswold Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Cotswold_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2395
+  }
+}

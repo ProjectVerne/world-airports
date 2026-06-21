@@ -1,0 +1,31 @@
+{
+  "key": "mkng",
+  "codes": {
+    "icao": "MKNG",
+    "iata": "NEG",
+    "gps": "MKNG",
+    "local": null
+  },
+  "name": "Negril Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.341712,
+    "longitude": -78.334164,
+    "elevation_ft": 9,
+    "iso_country": "JM",
+    "iso_region": "JM-09",
+    "municipality": "Negril"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Negril_Aerodrome",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32020
+  }
+}

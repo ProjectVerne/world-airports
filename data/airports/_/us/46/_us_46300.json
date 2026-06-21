@@ -1,0 +1,30 @@
+{
+  "key": "_us_46300",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "78PA",
+    "local": "78PA"
+  },
+  "name": "SAP America Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.987028,
+    "longitude": -75.415944,
+    "elevation_ft": 417,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Newtown Square"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 46300
+  }
+}

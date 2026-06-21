@@ -1,0 +1,31 @@
+{
+  "key": "kmds",
+  "codes": {
+    "icao": "KMDS",
+    "iata": "XMD",
+    "gps": "KMDS",
+    "local": "MDS"
+  },
+  "name": "Madison Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 44.015999,
+    "longitude": -97.085899,
+    "elevation_ft": 1718,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Madison"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Madison_Municipal_Airport_(South_Dakota)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20489
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "_us_08267",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "1E7",
+    "local": "1E7"
+  },
+  "name": "Buffalo Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.064999,
+    "longitude": -101.878998,
+    "elevation_ft": 3640,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Amarillo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Buffalo_Airport_(Texas)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 8267
+  }
+}

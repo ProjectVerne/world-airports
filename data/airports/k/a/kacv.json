@@ -1,0 +1,34 @@
+{
+  "key": "kacv",
+  "codes": {
+    "icao": "KACV",
+    "iata": "ACV",
+    "gps": "KACV",
+    "local": "ACV"
+  },
+  "name": "California Redwood Coast-Humboldt County Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.978101,
+    "longitude": -124.109,
+    "elevation_ft": 221,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Arcata/Eureka"
+  },
+  "keywords": [
+    "Arcata Airport",
+    "Arcata–Eureka Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Arcata-Eureka_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3362
+  }
+}

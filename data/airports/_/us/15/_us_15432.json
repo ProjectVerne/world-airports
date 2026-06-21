@@ -1,0 +1,32 @@
+{
+  "key": "_us_15432",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "94OK",
+    "local": "94OK"
+  },
+  "name": "Saint Francis Hospital Muskogee Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.75183,
+    "longitude": -95.406365,
+    "elevation_ft": 604,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Muskogee"
+  },
+  "keywords": [
+    "Muskogee Regional Medical Center Heliport"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 15432
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_510880",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Robinson Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.85786,
+    "longitude": -97.32241,
+    "elevation_ft": 1429,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Valley Center"
+  },
+  "keywords": [
+    "US-7930"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 510880
+  }
+}

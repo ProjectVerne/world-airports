@@ -1,0 +1,30 @@
+{
+  "key": "_us_07485",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0PA9",
+    "local": "0PA9"
+  },
+  "name": "Carson Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.333401,
+    "longitude": -75.216301,
+    "elevation_ft": 415,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Perkasie"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7485
+  }
+}

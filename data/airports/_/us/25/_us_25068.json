@@ -1,0 +1,30 @@
+{
+  "key": "_us_25068",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TS52",
+    "local": "TS52"
+  },
+  "name": "Tomball Regional Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.0867,
+    "longitude": -95.621399,
+    "elevation_ft": 182,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Tomball"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25068
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "mhcs",
+  "codes": {
+    "icao": "MHCS",
+    "iata": "CYL",
+    "gps": "MHCS",
+    "local": null
+  },
+  "name": "Coyoles Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 15.445556,
+    "longitude": -86.675278,
+    "elevation_ft": 492,
+    "iso_country": "HN",
+    "iso_region": "HN-YO",
+    "municipality": "Coyoles"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Coyoles_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42052
+  }
+}

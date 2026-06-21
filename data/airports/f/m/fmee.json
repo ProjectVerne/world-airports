@@ -1,0 +1,33 @@
+{
+  "key": "fmee",
+  "codes": {
+    "icao": "FMEE",
+    "iata": "RUN",
+    "gps": "FMEE",
+    "local": null
+  },
+  "name": "Roland Garros Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": -20.890087,
+    "longitude": 55.518894,
+    "elevation_ft": 66,
+    "iso_country": "RE",
+    "iso_region": "RE-SD",
+    "municipality": "Sainte-Marie"
+  },
+  "keywords": [
+    "Gillot Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Roland_Garros_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2905
+  }
+}

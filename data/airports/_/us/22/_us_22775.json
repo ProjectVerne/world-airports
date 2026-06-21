@@ -1,0 +1,33 @@
+{
+  "key": "_us_22775",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NC33",
+    "local": "NC33"
+  },
+  "name": "Mission Hospital McDowell Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.662439,
+    "longitude": -82.029419,
+    "elevation_ft": 1470,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Marion"
+  },
+  "keywords": [
+    "02NC",
+    "McDowell Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22775
+  }
+}

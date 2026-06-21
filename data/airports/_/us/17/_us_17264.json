@@ -1,0 +1,32 @@
+{
+  "key": "_us_17264",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FA76",
+    "local": "FA76"
+  },
+  "name": "Nicklaus Childrens Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 25.74093,
+    "longitude": -80.294641,
+    "elevation_ft": 54,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Miami"
+  },
+  "keywords": [
+    "Miami Childrens Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17264
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "ktcc",
+  "codes": {
+    "icao": "KTCC",
+    "iata": "TCC",
+    "gps": "KTCC",
+    "local": "TCC"
+  },
+  "name": "Tucumcari Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 35.1828,
+    "longitude": -103.602997,
+    "elevation_ft": 4065,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Tucumcari"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tucumcari_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3916
+  }
+}

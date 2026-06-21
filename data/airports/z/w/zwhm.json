@@ -1,0 +1,34 @@
+{
+  "key": "zwhm",
+  "codes": {
+    "icao": "ZWHM",
+    "iata": "HMI",
+    "gps": "ZWHM",
+    "local": null
+  },
+  "name": "Hami Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.8414,
+    "longitude": 93.669197,
+    "elevation_ft": 2703,
+    "iso_country": "CN",
+    "iso_region": "CN-65",
+    "municipality": "Hami"
+  },
+  "keywords": [
+    "Kumul",
+    "Qumul"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hami_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31609
+  }
+}

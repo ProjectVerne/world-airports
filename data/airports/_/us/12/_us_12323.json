@@ -1,0 +1,30 @@
+{
+  "key": "_us_12323",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5CT3",
+    "local": "5CT3"
+  },
+  "name": "South Glastonbury Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.644501,
+    "longitude": -72.572304,
+    "elevation_ft": 550,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "South Glastonbury"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12323
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "_us_23700",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OI53",
+    "local": "OI53"
+  },
+  "name": "St Vincent Hospital & Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.667159,
+    "longitude": -83.541196,
+    "elevation_ft": 640,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Toledo"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23700
+  }
+}

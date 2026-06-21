@@ -1,0 +1,31 @@
+{
+  "key": "dnds",
+  "codes": {
+    "icao": "DNDS",
+    "iata": null,
+    "gps": "DNDS",
+    "local": null
+  },
+  "name": "Dutse International Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 11.795131,
+    "longitude": 9.301164,
+    "elevation_ft": 1365,
+    "iso_country": "NG",
+    "iso_region": "NG-JI",
+    "municipality": "Dutse"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dutse_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323025
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_23832",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OL05",
+    "local": "OL05"
+  },
+  "name": "Skydive Oregon Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 45.145363,
+    "longitude": -122.618544,
+    "elevation_ft": 360,
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Molalla"
+  },
+  "keywords": [
+    "01S"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23832
+  }
+}

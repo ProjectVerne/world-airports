@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01509",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CSE2",
+    "local": "CSE2"
+  },
+  "name": "Chibougamau (Hydro-Québec) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 49.887798,
+    "longitude": -74.400299,
+    "elevation_ft": 1270,
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Chibougamau"
+  },
+  "keywords": [
+    "SE2"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1509
+  }
+}

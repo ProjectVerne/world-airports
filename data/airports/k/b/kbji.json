@@ -1,0 +1,31 @@
+{
+  "key": "kbji",
+  "codes": {
+    "icao": "KBJI",
+    "iata": "BJI",
+    "gps": "KBJI",
+    "local": "BJI"
+  },
+  "name": "Bemidji Regional Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 47.509399,
+    "longitude": -94.933701,
+    "elevation_ft": 1391,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Bemidji"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bemidji_Regional_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19380
+  }
+}

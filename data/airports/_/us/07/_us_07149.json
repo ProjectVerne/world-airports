@@ -1,0 +1,30 @@
+{
+  "key": "_us_07149",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "0CT2",
+    "local": "0CT2"
+  },
+  "name": "Windham Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.716999,
+    "longitude": -72.225899,
+    "elevation_ft": 330,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Willimantic"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7149
+  }
+}

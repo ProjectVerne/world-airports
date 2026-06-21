@@ -1,0 +1,34 @@
+{
+  "key": "oimm",
+  "codes": {
+    "icao": "OIMM",
+    "iata": "MHD",
+    "gps": "OIMM",
+    "local": null
+  },
+  "name": "Mashhad International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.234821,
+    "longitude": 59.642949,
+    "elevation_ft": 3263,
+    "iso_country": "IR",
+    "iso_region": "IR-09",
+    "municipality": "Mashhad"
+  },
+  "keywords": [
+    "Shahid Hashemi Nejad Airport",
+    "Mashhad Shahid Hasheminejad International Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mashhad_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5183
+  }
+}

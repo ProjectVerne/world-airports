@@ -1,0 +1,32 @@
+{
+  "key": "_us_510405",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "PS35",
+    "local": "PS35"
+  },
+  "name": "Stone Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.943056,
+    "longitude": -76.594722,
+    "elevation_ft": 875,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "York"
+  },
+  "keywords": [
+    "US-7853"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 510405
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "kral",
+  "codes": {
+    "icao": "KRAL",
+    "iata": "RAL",
+    "gps": "KRAL",
+    "local": "RAL"
+  },
+  "name": "Riverside Municipal Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.9519,
+    "longitude": -117.445,
+    "elevation_ft": 819,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Riverside"
+  },
+  "keywords": [
+    "Riverside Arlington"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Riverside_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3837
+  }
+}

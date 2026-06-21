@@ -1,0 +1,31 @@
+{
+  "key": "skpr",
+  "codes": {
+    "icao": "SKPR",
+    "iata": "PBE",
+    "gps": "SKPR",
+    "local": "PBE"
+  },
+  "name": "Puerto Berrio Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.46034,
+    "longitude": -74.4105,
+    "elevation_ft": 445,
+    "iso_country": "CO",
+    "iso_region": "CO-ANT",
+    "municipality": "Puerto Berrio"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Morela_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 6153
+  }
+}

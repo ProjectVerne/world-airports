@@ -1,0 +1,31 @@
+{
+  "key": "gltn",
+  "codes": {
+    "icao": "GLTN",
+    "iata": "THC",
+    "gps": "GLTN",
+    "local": null
+  },
+  "name": "Tchien Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 6.04565,
+    "longitude": -8.138723,
+    "elevation_ft": 790,
+    "iso_country": "LR",
+    "iso_region": "LR-GG",
+    "municipality": "Zwedru"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tchien_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32443
+  }
+}

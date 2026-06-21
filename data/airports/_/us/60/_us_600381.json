@@ -1,0 +1,32 @@
+{
+  "key": "_us_600381",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "TE02",
+    "local": "TE02"
+  },
+  "name": "Rivet Ranch Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.988565,
+    "longitude": -98.223067,
+    "elevation_ft": 1400,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Dublin"
+  },
+  "keywords": [
+    "US-12753"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 600381
+  }
+}

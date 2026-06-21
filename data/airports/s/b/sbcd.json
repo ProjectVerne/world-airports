@@ -1,0 +1,33 @@
+{
+  "key": "sbcd",
+  "codes": {
+    "icao": "SBCD",
+    "iata": "CFC",
+    "gps": "SBCD",
+    "local": "SC0006"
+  },
+  "name": "Doctor Carlos Alberto da Costa Neves Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.787423,
+    "longitude": -50.939942,
+    "elevation_ft": 3376,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Caçador"
+  },
+  "keywords": [
+    "Carlos Alberto da Costa Neves Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Ca%C3%A7ador_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5881
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "ksbd",
+  "codes": {
+    "icao": "KSBD",
+    "iata": "SBD",
+    "gps": "KSBD",
+    "local": "SBD"
+  },
+  "name": "San Bernardino International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.096717,
+    "longitude": -117.236596,
+    "elevation_ft": 1159,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Bernardino"
+  },
+  "keywords": [
+    "Norton AFB",
+    "San Bernardino Air Depot"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/San_Bernardino_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3867
+  }
+}

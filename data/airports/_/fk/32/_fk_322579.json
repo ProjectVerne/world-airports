@@ -1,0 +1,37 @@
+{
+  "key": "_fk_322579",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Fox Bay Helicopter Landing Site",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -51.948893,
+    "longitude": -60.066041,
+    "elevation_ft": 10,
+    "iso_country": "FK",
+    "iso_region": "FK-U-A",
+    "municipality": "Fox Bay East"
+  },
+  "keywords": [
+    "HELIOPS",
+    "Harrier",
+    "Refuelling Station",
+    "Tactical Supply Wing",
+    "Military",
+    "FK-0037"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 322579
+  }
+}

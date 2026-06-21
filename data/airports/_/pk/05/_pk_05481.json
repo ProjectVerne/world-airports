@@ -1,0 +1,30 @@
+{
+  "key": "_pk_05481",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OP32",
+    "local": "OP32"
+  },
+  "name": "Khairpur Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.0361,
+    "longitude": 69.674896,
+    "elevation_ft": 300,
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Khairpur"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5481
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01209",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKM6",
+    "local": "CKM6"
+  },
+  "name": "Easterville Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.116699,
+    "longitude": -99.800003,
+    "elevation_ft": 850,
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Easterville"
+  },
+  "keywords": [
+    "KM6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Easterville_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1209
+  }
+}

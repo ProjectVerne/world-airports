@@ -1,0 +1,34 @@
+{
+  "key": "oakb",
+  "codes": {
+    "icao": "OAKB",
+    "iata": "KBL",
+    "gps": "OAKB",
+    "local": null
+  },
+  "name": "Kabul International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.565899,
+    "longitude": 69.212303,
+    "elevation_ft": 5877,
+    "iso_country": "AF",
+    "iso_region": "AF-KAB",
+    "municipality": "Kabul"
+  },
+  "keywords": [
+    "Hamid Karzai International Airport",
+    "Khwaja Rawash Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kabul_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5072
+  }
+}

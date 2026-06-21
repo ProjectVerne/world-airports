@@ -1,0 +1,30 @@
+{
+  "key": "_us_22075",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MI63",
+    "local": "MI63"
+  },
+  "name": "St Mary's Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.95928,
+    "longitude": -85.663797,
+    "elevation_ft": 660,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Grand Rapids"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22075
+  }
+}

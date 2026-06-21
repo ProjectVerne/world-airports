@@ -1,0 +1,33 @@
+{
+  "key": "khsv",
+  "codes": {
+    "icao": "KHSV",
+    "iata": "HSV",
+    "gps": "KHSV",
+    "local": "HSV"
+  },
+  "name": "Huntsville International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 34.636244,
+    "longitude": -86.774378,
+    "elevation_ft": 629,
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Huntsville"
+  },
+  "keywords": [
+    "Carl T. Jones Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Huntsville_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3594
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "zunc",
+  "codes": {
+    "icao": "ZUNC",
+    "iata": "NAO",
+    "gps": "ZUNC",
+    "local": null
+  },
+  "name": "Nanchong Gaoping Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 30.798104,
+    "longitude": 106.16415,
+    "elevation_ft": 1145,
+    "iso_country": "CN",
+    "iso_region": "CN-51",
+    "municipality": "Nanchong (Gaoping)"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Nanchong_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32003
+  }
+}

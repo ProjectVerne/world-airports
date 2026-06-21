@@ -1,0 +1,33 @@
+{
+  "key": "_us_20008",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "KVGC",
+    "local": "VGC"
+  },
+  "name": "Hamilton Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.8438,
+    "longitude": -75.561401,
+    "elevation_ft": 1137,
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Hamilton"
+  },
+  "keywords": [
+    "Formerly H30"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hamilton_Municipal_Airport_(New_York)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20008
+  }
+}

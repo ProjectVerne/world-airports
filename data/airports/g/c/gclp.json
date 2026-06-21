@@ -1,0 +1,35 @@
+{
+  "key": "gclp",
+  "codes": {
+    "icao": "GCLP",
+    "iata": "LPA",
+    "gps": "GCLP",
+    "local": null
+  },
+  "name": "Gran Canaria Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 27.9319,
+    "longitude": -15.3866,
+    "elevation_ft": 78,
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "Gran Canaria Island"
+  },
+  "keywords": [
+    "Canary Islands",
+    "Las Palmas Airport",
+    "Gando Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gran_Canaria_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3081
+  }
+}

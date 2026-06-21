@@ -1,0 +1,33 @@
+{
+  "key": "kuuu",
+  "codes": {
+    "icao": "KUUU",
+    "iata": "NPT",
+    "gps": "KUUU",
+    "local": "UUU"
+  },
+  "name": "Newport State Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.532207,
+    "longitude": -71.281039,
+    "elevation_ft": 172,
+    "iso_country": "US",
+    "iso_region": "US-RI",
+    "municipality": "Newport"
+  },
+  "keywords": [
+    "2B4"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Newport_State_Airport_(Rhode_Island)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 21305
+  }
+}

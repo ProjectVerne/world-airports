@@ -1,0 +1,31 @@
+{
+  "key": "kazo",
+  "codes": {
+    "icao": "KAZO",
+    "iata": "AZO",
+    "gps": "KAZO",
+    "local": "AZO"
+  },
+  "name": "Kalamazoo/Battle Creek International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.232105,
+    "longitude": -85.549637,
+    "elevation_ft": 874,
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Kalamazoo"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kalamazoo-Battle_Creek_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3390
+  }
+}

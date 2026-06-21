@@ -1,0 +1,32 @@
+{
+  "key": "_es_320512",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "LEIR",
+    "local": null
+  },
+  "name": "Air Marugán",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.9111,
+    "longitude": -4.370917,
+    "elevation_ft": 3068,
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Marugán"
+  },
+  "keywords": [
+    "ES-0069"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 320512
+  }
+}

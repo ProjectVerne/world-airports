@@ -1,0 +1,30 @@
+{
+  "key": "_us_22321",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MS17",
+    "local": "MS17"
+  },
+  "name": "Memorial Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 30.367872,
+    "longitude": -89.116879,
+    "elevation_ft": 33,
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Gulfport"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22321
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_ca_01337",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CNS3",
+    "local": "CNS3"
+  },
+  "name": "Englehart (District Hospital) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.82324,
+    "longitude": -79.880047,
+    "elevation_ft": 679,
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Englehart"
+  },
+  "keywords": [
+    "NS3"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1337
+  }
+}

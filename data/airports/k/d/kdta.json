@@ -1,0 +1,31 @@
+{
+  "key": "kdta",
+  "codes": {
+    "icao": "KDTA",
+    "iata": "DTA",
+    "gps": "KDTA",
+    "local": "DTA"
+  },
+  "name": "Delta Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.3806,
+    "longitude": -112.508003,
+    "elevation_ft": 4759,
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Delta"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Delta_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 19657
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "key": "epto",
+  "codes": {
+    "icao": "EPTO",
+    "iata": null,
+    "gps": "EPTO",
+    "local": null
+  },
+  "name": "Toruń Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.029202,
+    "longitude": 18.5459,
+    "elevation_ft": 164,
+    "iso_country": "PL",
+    "iso_region": "PL-KP",
+    "municipality": "Toruń"
+  },
+  "keywords": [
+    "Aeroklub Pomorski",
+    "Toruń-Bielany Airfield"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Toru%C5%84_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2636
+  }
+}

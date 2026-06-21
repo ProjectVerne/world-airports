@@ -1,0 +1,33 @@
+{
+  "key": "pawi",
+  "codes": {
+    "icao": "PAWI",
+    "iata": "AIN",
+    "gps": "PAWI",
+    "local": "AWI"
+  },
+  "name": "Wainwright Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 70.638,
+    "longitude": -159.994995,
+    "elevation_ft": 41,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Wainwright"
+  },
+  "keywords": [
+    "5WW"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wainwright_Airport_(Alaska)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5422
+  }
+}

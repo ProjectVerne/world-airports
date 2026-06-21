@@ -1,0 +1,31 @@
+{
+  "key": "oasn",
+  "codes": {
+    "icao": "OASN",
+    "iata": "SGA",
+    "gps": "OASN",
+    "local": null
+  },
+  "name": "Sheghnan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.497642,
+    "longitude": 71.508484,
+    "elevation_ft": 6700,
+    "iso_country": "AF",
+    "iso_region": "AF-BDS",
+    "municipality": "Shiveh"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Sheghnan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32288
+  }
+}

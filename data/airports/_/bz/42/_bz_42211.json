@@ -1,0 +1,32 @@
+{
+  "key": "_bz_42211",
+  "codes": {
+    "icao": null,
+    "iata": "STU",
+    "gps": null,
+    "local": null
+  },
+  "name": "Santa Cruz Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 18.2721,
+    "longitude": -88.456299,
+    "elevation_ft": 18,
+    "iso_country": "BZ",
+    "iso_region": "BZ-CZL",
+    "municipality": "Santa Cruz"
+  },
+  "keywords": [
+    "BZ-STU"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42211
+  }
+}

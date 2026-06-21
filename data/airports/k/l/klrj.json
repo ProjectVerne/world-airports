@@ -1,0 +1,33 @@
+{
+  "key": "klrj",
+  "codes": {
+    "icao": "KLRJ",
+    "iata": "LRJ",
+    "gps": "KLRJ",
+    "local": "LRJ"
+  },
+  "name": "Le Mars Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 42.778,
+    "longitude": -96.193703,
+    "elevation_ft": 1197,
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Le Mars"
+  },
+  "keywords": [
+    "http://www.lemarsiowa.com/citygov/airport.htm"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Le_Mars_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20372
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_345800",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "92KS",
+    "local": "92KS"
+  },
+  "name": "North Central Kansas Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 39.554146,
+    "longitude": -97.660276,
+    "elevation_ft": 1442,
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Concordia"
+  },
+  "keywords": [
+    "Cloud County Hospital"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 345800
+  }
+}

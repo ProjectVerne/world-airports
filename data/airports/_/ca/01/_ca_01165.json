@@ -1,0 +1,33 @@
+{
+  "key": "_ca_01165",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "CKC6",
+    "local": "CKC6"
+  },
+  "name": "Lanigan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.845299,
+    "longitude": -104.991997,
+    "elevation_ft": 1750,
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Lanigan"
+  },
+  "keywords": [
+    "KC6"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lanigan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 1165
+  }
+}

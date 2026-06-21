@@ -1,0 +1,33 @@
+{
+  "key": "kmhe",
+  "codes": {
+    "icao": "KMHE",
+    "iata": "MHE",
+    "gps": "KMHE",
+    "local": "MHE"
+  },
+  "name": "Mitchell Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 43.774799,
+    "longitude": -98.038597,
+    "elevation_ft": 1304,
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Mitchell"
+  },
+  "keywords": [
+    "Mitchell AAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mitchell_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20503
+  }
+}

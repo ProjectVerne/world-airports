@@ -1,0 +1,31 @@
+{
+  "key": "satm",
+  "codes": {
+    "icao": "SATM",
+    "iata": "MDX",
+    "gps": "SATM",
+    "local": "RCE"
+  },
+  "name": "Mercedes Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -29.221399,
+    "longitude": -58.087799,
+    "elevation_ft": 358,
+    "iso_country": "AR",
+    "iso_region": "AR-W",
+    "municipality": "Mercedes"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Mercedes_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30131
+  }
+}

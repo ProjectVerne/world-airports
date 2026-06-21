@@ -1,0 +1,33 @@
+{
+  "key": "mucf",
+  "codes": {
+    "icao": "MUCF",
+    "iata": "CFG",
+    "gps": "MUCF",
+    "local": null
+  },
+  "name": "Jaime Gonzalez Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 22.15,
+    "longitude": -80.4142,
+    "elevation_ft": 102,
+    "iso_country": "CU",
+    "iso_region": "CU-06",
+    "municipality": "Cienfuegos"
+  },
+  "keywords": [
+    "Las Villas Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jaime_Gonz%C3%A1lez_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4832
+  }
+}

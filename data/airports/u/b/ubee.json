@@ -1,0 +1,33 @@
+{
+  "key": "ubee",
+  "codes": {
+    "icao": "UBEE",
+    "iata": "YLV",
+    "gps": "UBEE",
+    "local": null
+  },
+  "name": "Yevlakh Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 40.631901,
+    "longitude": 47.141899,
+    "elevation_ft": 49,
+    "iso_country": "AZ",
+    "iso_region": "AZ-YE",
+    "municipality": "Yevlakh"
+  },
+  "keywords": [
+    "Аэропорт Евлах"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Yevlakh_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 32504
+  }
+}

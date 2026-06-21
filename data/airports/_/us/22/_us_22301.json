@@ -1,0 +1,32 @@
+{
+  "key": "_us_22301",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MO97",
+    "local": "MO97"
+  },
+  "name": "SSM Health St. Joseph Hospital-Wentzville Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.822722,
+    "longitude": -90.881483,
+    "elevation_ft": 620,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Wentzville"
+  },
+  "keywords": [
+    "Doctors Hospital-Wentzville"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 22301
+  }
+}

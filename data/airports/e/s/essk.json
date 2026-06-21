@@ -1,0 +1,31 @@
+{
+  "key": "essk",
+  "codes": {
+    "icao": "ESSK",
+    "iata": "GVX",
+    "gps": "ESSK",
+    "local": null
+  },
+  "name": "Gävle Sandviken Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 60.5933,
+    "longitude": 16.951401,
+    "elevation_ft": 224,
+    "iso_country": "SE",
+    "iso_region": "SE-X",
+    "municipality": "Gävle / Sandviken"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/G%C3%A4vle-Sandviken_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2705
+  }
+}

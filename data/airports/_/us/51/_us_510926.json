@@ -1,0 +1,32 @@
+{
+  "key": "_us_510926",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Albany Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 31.55618,
+    "longitude": -84.17147,
+    "elevation_ft": 190,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Albany"
+  },
+  "keywords": [
+    "US-7943"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 510926
+  }
+}

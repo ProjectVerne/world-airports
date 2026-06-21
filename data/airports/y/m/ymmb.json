@@ -1,0 +1,33 @@
+{
+  "key": "ymmb",
+  "codes": {
+    "icao": "YMMB",
+    "iata": "MBW",
+    "gps": "YMMB",
+    "local": null
+  },
+  "name": "Melbourne Moorabbin Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": -37.977765,
+    "longitude": 145.099799,
+    "elevation_ft": 50,
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Melbourne"
+  },
+  "keywords": [
+    "Harry Hawker Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Moorabbin_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 27064
+  }
+}

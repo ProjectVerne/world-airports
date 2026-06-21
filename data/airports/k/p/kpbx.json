@@ -1,0 +1,33 @@
+{
+  "key": "kpbx",
+  "codes": {
+    "icao": "KPBX",
+    "iata": "PVL",
+    "gps": "KPBX",
+    "local": "PBX"
+  },
+  "name": "Pike County Airport Hatcher Field",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 37.560795,
+    "longitude": -82.570051,
+    "elevation_ft": 1473,
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Pikeville"
+  },
+  "keywords": [
+    "Hatcher Field"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pike_County_Airport_(Kentucky)",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20810
+  }
+}

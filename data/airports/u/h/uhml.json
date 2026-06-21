@@ -1,0 +1,35 @@
+{
+  "key": "uhml",
+  "codes": {
+    "icao": "UHML",
+    "iata": null,
+    "gps": "UHML",
+    "local": null
+  },
+  "name": "Lavrentiya Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 65.580426,
+    "longitude": -170.999177,
+    "elevation_ft": 30,
+    "iso_country": "RU",
+    "iso_region": "RU-CHU",
+    "municipality": "Lavrentiya"
+  },
+  "keywords": [
+    "УХМЛ",
+    "Залив Лаврентия",
+    "Lavrentiya Bay"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Lavrentiya_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 42925
+  }
+}

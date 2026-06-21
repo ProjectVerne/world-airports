@@ -1,0 +1,31 @@
+{
+  "key": "kbbg",
+  "codes": {
+    "icao": "KBBG",
+    "iata": "BKG",
+    "gps": "KBBG",
+    "local": "BBG"
+  },
+  "name": "Branson Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.532082,
+    "longitude": -93.200544,
+    "elevation_ft": 1302,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Branson"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Branson_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45961
+  }
+}

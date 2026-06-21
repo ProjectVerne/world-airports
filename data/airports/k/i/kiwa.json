@@ -1,0 +1,37 @@
+{
+  "key": "kiwa",
+  "codes": {
+    "icao": "KIWA",
+    "iata": "AZA",
+    "gps": "KIWA",
+    "local": "IWA"
+  },
+  "name": "Mesa Gateway Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.3078,
+    "longitude": -111.654999,
+    "elevation_ft": 1382,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Mesa"
+  },
+  "keywords": [
+    "Higley Field",
+    "CHD",
+    "Phoenix-Mesa Gateway Airport",
+    "Williams Air Force Base",
+    "Williams Gateway Airport"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Phoenix%E2%80%93Mesa_Gateway_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3617
+  }
+}

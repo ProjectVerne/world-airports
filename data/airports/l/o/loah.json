@@ -1,0 +1,32 @@
+{
+  "key": "loah",
+  "codes": {
+    "icao": "LOAH",
+    "iata": null,
+    "gps": "LOAH",
+    "local": null
+  },
+  "name": "Horn Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.669249,
+    "longitude": 15.660705,
+    "elevation_ft": 1012,
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Horn"
+  },
+  "keywords": [
+    "AT-0052"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43809
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "_us_25100",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Texoma Medical Center Heliport",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 33.766028,
+    "longitude": -96.550316,
+    "elevation_ft": 765,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Denison"
+  },
+  "keywords": [
+    "TS84",
+    "US-12278"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25100
+  }
+}

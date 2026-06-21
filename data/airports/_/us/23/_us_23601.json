@@ -1,0 +1,33 @@
+{
+  "key": "_us_23601",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Mission Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.4309,
+    "longitude": -82.822452,
+    "elevation_ft": 900,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Hallsville"
+  },
+  "keywords": [
+    "OH35",
+    "US-11986"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 23601
+  }
+}

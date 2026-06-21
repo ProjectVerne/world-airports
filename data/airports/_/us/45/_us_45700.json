@@ -1,0 +1,30 @@
+{
+  "key": "_us_45700",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "OA17",
+    "local": "OA17"
+  },
+  "name": "Bucyrus Community Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.818164,
+    "longitude": -82.980136,
+    "elevation_ft": 1004,
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Bucyrus"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 45700
+  }
+}

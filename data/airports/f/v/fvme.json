@@ -1,0 +1,32 @@
+{
+  "key": "fvme",
+  "codes": {
+    "icao": "FVME",
+    "iata": null,
+    "gps": "FVME",
+    "local": null
+  },
+  "name": "Masuwe Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -17.96588,
+    "longitude": 25.81055,
+    "elevation_ft": 3005,
+    "iso_country": "ZW",
+    "iso_region": "ZW-MN",
+    "municipality": "Masuwe"
+  },
+  "keywords": [
+    "ZW-0057"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 351679
+  }
+}

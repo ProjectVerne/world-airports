@@ -1,0 +1,31 @@
+{
+  "key": "lfga",
+  "codes": {
+    "icao": "LFGA",
+    "iata": "CMR",
+    "gps": "LFGA",
+    "local": null
+  },
+  "name": "Colmar Houssen airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 48.109901,
+    "longitude": 7.35901,
+    "elevation_ft": 628,
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "Colmar"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Colmar_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4104
+  }
+}

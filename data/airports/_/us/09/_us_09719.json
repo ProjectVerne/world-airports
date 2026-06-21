@@ -1,0 +1,30 @@
+{
+  "key": "_us_09719",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "2PN1",
+    "local": "2PN1"
+  },
+  "name": "Malco Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 41.983398,
+    "longitude": -77.524696,
+    "elevation_ft": 1990,
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Westfield"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 9719
+  }
+}

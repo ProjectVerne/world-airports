@@ -1,0 +1,30 @@
+{
+  "key": "_us_25501",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "VT04",
+    "local": "VT04"
+  },
+  "name": "Southwestern Vermont Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.8745,
+    "longitude": -73.207603,
+    "elevation_ft": 800,
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Bennington"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 25501
+  }
+}

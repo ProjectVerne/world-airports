@@ -1,0 +1,32 @@
+{
+  "key": "_us_328492",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "GA07",
+    "local": "GA07"
+  },
+  "name": "Air Evac 86 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.066792,
+    "longitude": -84.252884,
+    "elevation_ft": 411,
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Americus"
+  },
+  "keywords": [
+    "US-0918"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 328492
+  }
+}

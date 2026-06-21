@@ -1,0 +1,33 @@
+{
+  "key": "_us_12480",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Marsh Field",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 39.576698,
+    "longitude": -78.9186,
+    "elevation_ft": 2600,
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Frostburg"
+  },
+  "keywords": [
+    "5MD2",
+    "US-10394"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12480
+  }
+}

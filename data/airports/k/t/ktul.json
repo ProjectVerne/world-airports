@@ -1,0 +1,31 @@
+{
+  "key": "ktul",
+  "codes": {
+    "icao": "KTUL",
+    "iata": "TUL",
+    "gps": "KTUL",
+    "local": "TUL"
+  },
+  "name": "Tulsa International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 36.197084,
+    "longitude": -95.886225,
+    "elevation_ft": 677,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Tulsa"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tulsa_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3930
+  }
+}

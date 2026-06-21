@@ -1,0 +1,30 @@
+{
+  "key": "_us_17323",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "FD52",
+    "local": "FD52"
+  },
+  "name": "Orlando Health St Cloud Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 28.24389,
+    "longitude": -81.303454,
+    "elevation_ft": 70,
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "St Cloud"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 17323
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "key": "ensn",
+  "codes": {
+    "icao": "ENSN",
+    "iata": null,
+    "gps": "ENSN",
+    "local": null
+  },
+  "name": "Skien Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 59.185001,
+    "longitude": 9.56694,
+    "elevation_ft": 463,
+    "iso_country": "NO",
+    "iso_region": "NO-40",
+    "municipality": "Geiteryggen"
+  },
+  "keywords": [
+    "SKE"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Skien_Airport%2C_Geiteryggen",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2594
+  }
+}

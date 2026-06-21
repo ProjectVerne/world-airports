@@ -1,0 +1,34 @@
+{
+  "key": "ekas",
+  "codes": {
+    "icao": "EKAS",
+    "iata": null,
+    "gps": "EKAS",
+    "local": null
+  },
+  "name": "True Gliderfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 56.178925,
+    "longitude": 10.076621,
+    "elevation_ft": 220,
+    "iso_country": "DK",
+    "iso_region": "DK-82",
+    "municipality": "Tilst"
+  },
+  "keywords": [
+    "Aarhus Svæveflyveklub",
+    "DK-0010"
+  ],
+  "wikipedia": "https://da.wikipedia.org/wiki/True_Sv%C3%A6veflyveplads",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 319130
+  }
+}

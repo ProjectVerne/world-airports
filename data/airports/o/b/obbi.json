@@ -1,0 +1,36 @@
+{
+  "key": "obbi",
+  "codes": {
+    "icao": "OBBI",
+    "iata": "BAH",
+    "gps": "OBBI",
+    "local": null
+  },
+  "name": "Bahrain International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 26.267295,
+    "longitude": 50.63764,
+    "elevation_ft": 6,
+    "iso_country": "BH",
+    "iso_region": "BH-15",
+    "municipality": "Manama"
+  },
+  "keywords": [
+    "مطار البحرين الدولي",
+    "EGYR",
+    "RAF Bahrain",
+    "RAF Muharraq"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Bahrain_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5079
+  }
+}

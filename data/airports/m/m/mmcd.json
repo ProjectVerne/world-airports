@@ -1,0 +1,33 @@
+{
+  "key": "mmcd",
+  "codes": {
+    "icao": "MMCD",
+    "iata": null,
+    "gps": "MMCD",
+    "local": "ICD"
+  },
+  "name": "Isla Cedros Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 28.039031,
+    "longitude": -115.189419,
+    "elevation_ft": 98,
+    "iso_country": "MX",
+    "iso_region": "MX-BCN",
+    "municipality": "Cedros Island"
+  },
+  "keywords": [
+    "MM10"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Isla_de_Cedros_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 4864
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "loae",
+  "codes": {
+    "icao": "LOAE",
+    "iata": null,
+    "gps": "LOAE",
+    "local": null
+  },
+  "name": "Eisenstadt Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.84677,
+    "longitude": 16.51345,
+    "elevation_ft": 748,
+    "iso_country": "AT",
+    "iso_region": "AT-1",
+    "municipality": "Eisenstadt"
+  },
+  "keywords": [
+    "AT-0050"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43807
+  }
+}

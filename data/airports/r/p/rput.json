@@ -1,0 +1,33 @@
+{
+  "key": "rput",
+  "codes": {
+    "icao": "RPUT",
+    "iata": "TUG",
+    "gps": "RPUT",
+    "local": null
+  },
+  "name": "Tuguegarao Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 17.643368,
+    "longitude": 121.73315,
+    "elevation_ft": 70,
+    "iso_country": "PH",
+    "iso_region": "PH-CAG",
+    "municipality": "Tuguegarao City"
+  },
+  "keywords": [
+    "Tugegarao"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tuguegarao_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 5727
+  }
+}

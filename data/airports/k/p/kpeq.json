@@ -1,0 +1,33 @@
+{
+  "key": "kpeq",
+  "codes": {
+    "icao": "KPEQ",
+    "iata": "PEQ",
+    "gps": "KPEQ",
+    "local": "PEQ"
+  },
+  "name": "Pecos Municipal Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 31.382401,
+    "longitude": -103.511002,
+    "elevation_ft": 2613,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Pecos"
+  },
+  "keywords": [
+    "Pecos AAF"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Pecos_Municipal_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20818
+  }
+}

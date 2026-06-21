@@ -1,0 +1,33 @@
+{
+  "key": "ktus",
+  "codes": {
+    "icao": "KTUS",
+    "iata": "TUS",
+    "gps": "KTUS",
+    "local": "TUS"
+  },
+  "name": "Tucson International Airport",
+  "type": "large_airport",
+  "status": "open",
+  "location": {
+    "latitude": 32.115004,
+    "longitude": -110.938053,
+    "elevation_ft": 2643,
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Tucson"
+  },
+  "keywords": [
+    "Morris Air National Guard Base"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Tucson_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 3932
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "_us_323225",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NM04",
+    "local": "NM04"
+  },
+  "name": "Mimbres Memorial Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 32.259279,
+    "longitude": -107.767505,
+    "elevation_ft": 4315,
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Deming"
+  },
+  "keywords": [
+    "US-0550"
+  ],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323225
+  }
+}

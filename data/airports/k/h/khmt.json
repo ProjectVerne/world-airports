@@ -1,0 +1,31 @@
+{
+  "key": "khmt",
+  "codes": {
+    "icao": "KHMT",
+    "iata": "HMT",
+    "gps": "KHMT",
+    "local": "HMT"
+  },
+  "name": "Hemet Ryan Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 33.734001,
+    "longitude": -117.023003,
+    "elevation_ft": 1512,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Hemet"
+  },
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/Hemet-Ryan_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 20064
+  }
+}

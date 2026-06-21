@@ -1,0 +1,37 @@
+{
+  "key": "uuoo",
+  "codes": {
+    "icao": "UUOO",
+    "iata": "VOZ",
+    "gps": "UUOO",
+    "local": null
+  },
+  "name": "Voronezh International Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 51.814324,
+    "longitude": 39.230948,
+    "elevation_ft": 514,
+    "iso_country": "RU",
+    "iso_region": "RU-VOR",
+    "municipality": "Voronezh"
+  },
+  "keywords": [
+    "УУОО",
+    "Chertovitskoye Airport",
+    "Chertovitskoe Airport",
+    "Аэропорт Воронеж",
+    "Аэропорт Чертовицкое"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Voronezh_International_Airport",
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26400
+  }
+}

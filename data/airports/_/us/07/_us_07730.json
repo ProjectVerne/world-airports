@@ -1,0 +1,30 @@
+{
+  "key": "_us_07730",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "11NJ",
+    "local": "11NJ"
+  },
+  "name": "Southdown Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 40.640701,
+    "longitude": -74.6642,
+    "elevation_ft": 128,
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Pluckemin"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 7730
+  }
+}

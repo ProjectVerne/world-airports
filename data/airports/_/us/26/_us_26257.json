@@ -1,0 +1,30 @@
+{
+  "key": "_us_26257",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "XS32",
+    "local": "XS32"
+  },
+  "name": "Nucor Ems Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 31.344999,
+    "longitude": -96.165001,
+    "elevation_ft": 443,
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Jewett"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26257
+  }
+}

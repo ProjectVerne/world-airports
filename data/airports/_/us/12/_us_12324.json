@@ -1,0 +1,30 @@
+{
+  "key": "_us_12324",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "5CT4",
+    "local": "5CT4"
+  },
+  "name": "Norwalk Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 41.112105,
+    "longitude": -73.422541,
+    "elevation_ft": 156,
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Norwalk"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 12324
+  }
+}

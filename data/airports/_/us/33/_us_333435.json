@@ -1,0 +1,30 @@
+{
+  "key": "_us_333435",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MU79",
+    "local": "MU79"
+  },
+  "name": "Delta Center Heliport #1",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.416042,
+    "longitude": -89.700885,
+    "elevation_ft": 284,
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Portageville"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-21",
+    "updated": "2026-06-21",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 333435
+  }
+}
