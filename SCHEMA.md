@@ -1,10 +1,7 @@
 # Schema Reference (v2)
 
-Each record is a single JSON object. There are two kinds of record:
-
-- **Airport** (`kind: "airport"`) — a physical airfield. Lives in `data/airports/`.
-- **Metro** (`kind: "metro"`) — a city / metropolitan grouping that resolves to
-  several airports (e.g. `LON`, `NYC`). Lives in `data/metros/`.
+Each record is a single JSON object describing one physical airport, stored under
+`data/airports/`.
 
 > **v2 changed the identity model.** Identity is now a stable opaque `key`, and
 > every human-typed code (ICAO, IATA, GPS, local) is a **non-unique attribute**
@@ -47,35 +44,17 @@ historic ICAO across a reassignment. Lookups by any code are therefore
 
 ---
 
-## 3. Common fields (airport & metro)
+## 3. Descriptive fields
 
 | Field | Type | Required | Description |
 |---|---|---|---|
-| `kind` | string | Yes | `"airport"` or `"metro"`. |
 | `name` | string | Yes | Official name. |
+| `type` | string | Yes | See [Airport Types](#airport-types). |
 | `status` | string | Yes | See [Statuses](#statuses). |
-| `location` | object | Yes | See [Location](#location). For a metro, the city centroid. |
+| `location` | object | Yes | See [Location](#location). |
 | `keywords` | string[] | Yes | Alternative names / search aliases (may be empty). |
 | `wikipedia` | string \| null | No | Wikipedia article URL. |
 | `metadata` | object | Yes | See [Metadata](#metadata). |
-
----
-
-## 4. Airport-only fields (`kind: "airport"`)
-
-| Field | Type | Required | Description |
-|---|---|---|---|
-| `type` | string | Yes | See [Airport Types](#airport-types). |
-| `scheduled_service` | boolean | Yes | Whether the airport has scheduled commercial service. |
-
-## 5. Metro-only fields (`kind: "metro"`)
-
-| Field | Type | Required | Description |
-|---|---|---|---|
-| `members` | string[] | Yes | Non-empty list of airport **`key`s** in this metro grouping. |
-
-A metro never represents a single airport; it is *defined* as ambiguous and
-always resolves to its `members` for the caller to disambiguate.
 
 ---
 
@@ -112,7 +91,7 @@ always resolves to its `members` for the caller to disambiguate.
 |---|---|---|---|
 | `latitude` | number | Yes | WGS84 decimal degrees, range [-90, 90] |
 | `longitude` | number | Yes | WGS84 decimal degrees, range [-180, 180] |
-| `elevation_ft` | number | Yes | Elevation above MSL in feet (city centroid elevation for a metro) |
+| `elevation_ft` | number | Yes | Elevation above MSL in feet |
 | `iso_country` | string | Yes | ISO 3166-1 alpha-2 country code |
 | `iso_region` | string | Yes | ISO 3166-2 region code |
 | `municipality` | string \| null | Yes | Nearest city or town |
@@ -148,7 +127,6 @@ and no single directory grows past GitHub's 1,000-entry web-UI truncation limit:
 data/airports/k/l/klax.json          # key "klax"
 data/airports/e/d/eddf.json          # key "eddf"
 data/airports/_/us/00/_us_00001.json # key "_us_00001"
-data/metros/l/o/lon.json             # key "lon"
 ```
 
 Bucketing rule:
@@ -172,12 +150,10 @@ Rules:
 ```json
 {
   "key": "ksgr",
-  "kind": "airport",
   "codes": { "icao": "KSGR", "iata": "SGR", "gps": "KSGR", "local": "SGR" },
   "name": "Sugar Land Regional Airport",
   "type": "small_airport",
   "status": "open",
-  "scheduled_service": false,
   "location": {
     "latitude": 29.622334,
     "longitude": -95.656555,

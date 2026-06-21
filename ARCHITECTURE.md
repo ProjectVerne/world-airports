@@ -33,7 +33,7 @@ So `key` is assigned once, is immutable, and is never reused. See
 
 Because no code is unique, **resolving a typed token is inherently a
 one-to-many operation.** A user typing `MMAX` may match two different physical
-airports; a user typing `LON` matches a whole metro area.
+airports.
 
 We make this explicit with a **generated collision index**, `dist/codes.json`,
 built in CI from all records:
@@ -41,21 +41,20 @@ built in CI from all records:
 ```jsonc
 {
   "MMAX": [
-    { "key": "mmax",        "name": "Maxville Rgnl",  "iso_country": "US", "type": "small_airport", "status": "open"   },
-    { "key": "_mx_07731",   "name": "Maxtown Helipad", "iso_country": "MX", "type": "heliport",       "status": "open"   }
-  ],
-  "LON": [ { "key": "lon", "kind": "metro", "members": ["egll","egkk","eglc","egss","eggw","eglc"] } ]
+    { "key": "mmax",        "name": "Maxville Rgnl",  "iso_country": "US", "type": "small_airport", "status": "open" },
+    { "key": "_mx_07731",   "name": "Maxtown Helipad", "iso_country": "MX", "type": "heliport",       "status": "open" }
+  ]
 }
 ```
 
-The index maps **every code, in every code-type, plus metro codes** to the list
-of records that answer to it, each entry carrying just enough to disambiguate
-(name, country, type, status). Consumers resolve a token like this:
+The index maps **every code, in every code-type** to the list of records that
+answer to it, each entry carrying just enough to disambiguate (name, country,
+type, status). Consumers resolve a token like this:
 
 1. Look up the token in `codes.json`.
 2. **0 matches** → unknown code.
 3. **exactly 1 match** → resolve silently to that `key`.
-4. **>1 match (or a metro)** → return the candidates so the UI can ask
+4. **>1 match** → return the candidates so the UI can ask
    *"which one did you mean?"* — never guess.
 
 This is where Verne's disambiguation UX is rooted: the clarify prompt is a direct
@@ -169,8 +168,6 @@ Contributor / FAA auto-sync PR
 
 ## 7. Open decisions (to confirm before the migration PR)
 
-- **Metro coverage** — do we seed metro records now (LON/NYC/…), or add the
-  `kind: "metro"` machinery but defer populating it until Verne's search needs it?
 - **DB richness** — does Verne store the full record (type, status, elevation,
   municipality, keywords) or only the fields its current table needs (name,
   country, region, lat/lon) plus `key` + `codes`?
