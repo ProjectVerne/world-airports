@@ -5,9 +5,10 @@
   "description": "Open dataset of airports worldwide (v2 identity model).",
   "license": "CC0-1.0",
   "scripts": {
-    "validate": "node scripts/validate.js",
+    "validate": "node scripts/validate.js data/airports",
     "validate:changed": "node scripts/validate.js --changed",
     "import:ourairports": "node scripts/import/from-ourairports.js",
+    "build:dist": "node scripts/build-dist.js",
     "export:codes": "node scripts/export/to-codes.js"
   },
   "dependencies": {

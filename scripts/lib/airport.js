@@ -1,9 +1,12 @@
 "use strict";
 /**
  * Shared helpers for the v2 airport dataset: CSV parsing, key minting,
- * code mapping, record construction, sharded paths, and normalization.
- * Pure functions, no I/O (except parseCsv which takes a string).
+ * code mapping, record construction, sharded paths, normalization, and a
+ * recursive record walker.
  */
+
+const fs = require("fs");
+const path = require("path");
 
 const ICAO_RE = /^[A-Z]{4}$/;
 
@@ -193,6 +196,34 @@ function serialize(rec) {
   return JSON.stringify(normalize(rec), null, 2) + "\n";
 }
 
+/** Recursively collect all .json record file paths under dir. */
+function walk(dir) {
+  const out = [];
+  if (!fs.existsSync(dir)) return out;
+  for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+    const p = path.join(dir, e.name);
+    if (e.isDirectory()) out.push(...walk(p));
+    else if (e.isFile() && e.name.endsWith(".json")) out.push(p);
+  }
+  return out;
+}
+
+/** Read and parse every record under dir, sorted by key for stable output. */
+function readAll(dir) {
+  return walk(dir)
+    .map((f) => JSON.parse(fs.readFileSync(f, "utf8")))
+    .sort((a, b) => a.key.localeCompare(b.key));
+}
+
+let _continents = null;
+/** Continent (NA/EU/AS/…) derived from ISO country code. "" if unknown. */
+function deriveContinent(iso_country) {
+  if (!_continents) {
+    _continents = JSON.parse(fs.readFileSync(path.join(__dirname, "continents.json"), "utf8"));
+  }
+  return _continents[(iso_country || "").toUpperCase()] || "";
+}
+
 module.exports = {
   ICAO_RE,
   parseCsv,
@@ -203,4 +234,7 @@ module.exports = {
   relPathFor,
   normalize,
   serialize,
+  walk,
+  readAll,
+  deriveContinent,
 };

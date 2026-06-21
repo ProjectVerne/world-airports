@@ -5,9 +5,19 @@ All notable changes to this dataset will be documented here.
 ## [Unreleased]
 
 ### Added
-- `scripts/import/from-faa-us.js` — incremental sync of all US airports from FAA data via OurAirports (CC0). Filters to `iso_country=US`, detects changes against existing files, and preserves manually-curated records. Supports `--check` mode for CI diff reporting.
-- `.github/workflows/sync-us-airports.yml` — weekly GitHub Actions workflow (Mondays 06:00 UTC) that downloads the latest FAA/OurAirports data, runs the sync script, validates the result, and opens a pull request if any records changed. Also supports `workflow_dispatch` for on-demand runs.
-- Initial repository scaffold with schema, validator, and sample airports (KLAX, no-ICAO sample)
+- **v2 identity model** — stable opaque `key`, non-unique `codes` (icao/iata/gps/local), key-derived sharding. See `SCHEMA.md` and `ARCHITECTURE.md`.
+- `schema/airport.schema.json` + schema-driven `scripts/validate.js` (also enforces `key == filename` and shard path; reports code collisions).
+- `scripts/import/from-ourairports.js` — global importer; upsert-only, preserves `created` and curated records, never deletes.
+- `scripts/export/{to-csv,to-geojson,to-ndjson,to-codes}.js` + `scripts/build-dist.js` — generated consumption artifacts.
+- `.github/workflows/release.yml` — on `v*` tags, validates, builds `dist/*`, and publishes them as release assets.
+- `.github/workflows/sync-ourairports.yml` — weekly global OurAirports sync (PR on change). Replaces the US-only sync.
+- `.github/workflows/no-delete.yml` — blocks record deletions (bypass with the `migration` label).
+
+### Changed
+- Regenerated the full worldwide dataset (85,615 records) in the v2 layout.
+
+### Removed
+- `scripts/import/from-faa-us.js` and `.github/workflows/sync-us-airports.yml` — superseded by the global OurAirports sync.
 
 ## Format
 

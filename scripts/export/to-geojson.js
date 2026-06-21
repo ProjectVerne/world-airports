@@ -1,67 +1,49 @@
 #!/usr/bin/env node
+"use strict";
 /**
- * to-geojson.js — exports all airport data as a GeoJSON FeatureCollection
+ * to-geojson.js — export all records as a GeoJSON FeatureCollection.
  *
  * Usage:
- *   node scripts/export/to-geojson.js [output-path]
- *
- * Output defaults to exports/airports.geojson
+ *   node scripts/export/to-geojson.js [dir] [--out <file>]
+ *     dir    records root (default: data/airports)
+ *     --out  output path (default: dist/airports.geojson)
  */
 
 const fs = require("fs");
 const path = require("path");
+const lib = require("../lib/airport");
 
-const AIRPORTS_DIR = path.join(__dirname, "..", "..", "data", "airports");
-const DEFAULT_OUT = path.join(__dirname, "..", "..", "exports", "airports.geojson");
-const outPath = process.argv[2] || DEFAULT_OUT;
-
-const files = fs.readdirSync(AIRPORTS_DIR).filter((f) => f.endsWith(".json"));
-
-const features = [];
-
-for (const file of files) {
-  let airport;
-  try {
-    airport = JSON.parse(fs.readFileSync(path.join(AIRPORTS_DIR, file), "utf8"));
-  } catch (e) {
-    console.error(`Skipping ${file}: ${e.message}`);
-    continue;
-  }
-
-  const { location, icao, iata, name, type, status, scheduled_service } = airport;
-  if (!location || typeof location.longitude !== "number" || typeof location.latitude !== "number") {
-    console.warn(`Skipping ${file}: missing/invalid coordinates`);
-    continue;
-  }
-
-  features.push({
+function feature(rec) {
+  const l = rec.location || {};
+  return {
     type: "Feature",
-    geometry: {
-      type: "Point",
-      coordinates: [location.longitude, location.latitude],
-    },
+    geometry: { type: "Point", coordinates: [l.longitude, l.latitude] },
     properties: {
-      icao,
-      iata,
-      name,
-      type,
-      status,
-      scheduled_service,
-      elevation_ft: location.elevation_ft,
-      iso_country: location.iso_country,
-      iso_region: location.iso_region,
-      municipality: location.municipality,
-      continent: location.continent,
-      runway_count: airport.runways?.length ?? 0,
+      key: rec.key,
+      icao: rec.codes?.icao ?? null,
+      iata: rec.codes?.iata ?? null,
+      name: rec.name,
+      type: rec.type,
+      status: rec.status,
+      iso_country: l.iso_country,
+      municipality: l.municipality ?? null,
     },
-  });
+  };
 }
 
-const geojson = {
-  type: "FeatureCollection",
-  features,
-};
+function main() {
+  const argv = process.argv.slice(2);
+  let dir = "data/airports";
+  let out = "dist/airports.geojson";
+  for (let i = 0; i < argv.length; i++) {
+    if (argv[i] === "--out") out = argv[++i];
+    else dir = argv[i];
+  }
+  const records = lib.readAll(dir);
+  const fc = { type: "FeatureCollection", features: records.map(feature) };
+  fs.mkdirSync(path.dirname(out), { recursive: true });
+  fs.writeFileSync(out, JSON.stringify(fc) + "\n");
+  console.log(`wrote ${records.length} feature(s) -> ${out}`);
+}
 
-fs.mkdirSync(path.dirname(outPath), { recursive: true });
-fs.writeFileSync(outPath, JSON.stringify(geojson, null, 2));
-console.log(`Exported ${features.length} airports to ${outPath}`);
+main();

@@ -49,7 +49,7 @@ function main() {
   rows.sort((x, y) => Number(x.id) - Number(y.id));
 
   const usedKeys = new Set();
-  let written = 0, skipped = 0, changed = 0, unchanged = 0;
+  let created = 0, updated = 0, unchanged = 0, curatedKept = 0, skipped = 0;
 
   for (const row of rows) {
     const country = (row.iso_country || "").toUpperCase();
@@ -59,29 +59,42 @@ function main() {
 
     if (wanted && !wanted.has(country)) { skipped++; continue; }
 
-    const rel = lib.relPathFor(rec.key);
-    const dest = path.join(args.out, rel);
-    const serialized = lib.serialize(rec);
+    const dest = path.join(args.out, lib.relPathFor(rec.key));
+    const prevRaw = fs.existsSync(dest) ? fs.readFileSync(dest, "utf8") : null;
 
-    if (args.check) {
-      const prev = fs.existsSync(dest) ? fs.readFileSync(dest, "utf8") : null;
-      if (prev === null || prev !== serialized) changed++;
-      else unchanged++;
+    // NEW record
+    if (prevRaw === null) {
+      if (!args.check) {
+        fs.mkdirSync(path.dirname(dest), { recursive: true });
+        fs.writeFileSync(dest, lib.serialize(rec));
+      }
+      created++;
       continue;
     }
 
-    fs.mkdirSync(path.dirname(dest), { recursive: true });
-    fs.writeFileSync(dest, serialized);
-    written++;
+    const prev = JSON.parse(prevRaw);
+
+    // Never clobber a human-curated record.
+    if (prev.metadata && prev.metadata.curated === true) { curatedKept++; continue; }
+
+    // Preserve original created date; only bump `updated` when content changes.
+    rec.metadata.created = prev.metadata?.created || rec.metadata.created;
+    rec.metadata.updated = prev.metadata?.updated || rec.metadata.updated;
+    if (lib.serialize(rec) === prevRaw) { unchanged++; continue; }
+
+    rec.metadata.updated = args.date;
+    if (!args.check) fs.writeFileSync(dest, lib.serialize(rec));
+    updated++;
   }
 
-  if (args.check) {
-    console.log(`check: ${changed} would change/add, ${unchanged} unchanged` +
-      (wanted ? `, ${skipped} outside filter` : ""));
-  } else {
-    console.log(`wrote ${written} record(s) to ${args.out}` +
-      (wanted ? ` (filtered to ${[...wanted].join(",")}, skipped ${skipped})` : ""));
-  }
+  const verb = args.check ? "check (no writes):" : "done:";
+  console.log(
+    `${verb} ${created} new, ${updated} updated, ${unchanged} unchanged, ` +
+    `${curatedKept} curated-kept` + (wanted ? `, ${skipped} outside filter` : "") +
+    ` -> ${args.out}`
+  );
+  // Note: never deletes. Records absent from upstream are left in place (retire
+  // via status, per the no-delete invariant).
 }
 
 main();
