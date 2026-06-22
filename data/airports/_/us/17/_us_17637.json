@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "HI28",
-    "local": "HI28"
+    "gps": null,
+    "local": null
   },
   "name": "Pahala Airstrip",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 19.215392,
     "longitude": -155.468559,
@@ -17,10 +17,12 @@
     "iso_region": "US-HI",
     "municipality": "Pahala"
   },
-  "keywords": [],
+  "keywords": [
+    "HI28"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-22",
     "sources": [
       "ourairports"
     ],
