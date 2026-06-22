@@ -1,9 +1,9 @@
 {
   "key": "_bs_04940",
   "codes": {
-    "icao": null,
+    "icao": "MYEG",
     "iata": null,
-    "gps": null,
+    "gps": "MYEG",
     "local": null
   },
   "name": "George Town Airport",
@@ -18,17 +18,16 @@
     "municipality": "George Town"
   },
   "keywords": [
-    "MYEG",
     "BS-0018"
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/George_Town_Airport",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-22",
     "sources": [
       "ourairports"
     ],
-    "curated": false,
+    "curated": true,
     "source_id": 4940
   }
 }
