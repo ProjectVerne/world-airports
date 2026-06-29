@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "9OA9",
-    "local": "9OA9"
+    "gps": null,
+    "local": null
   },
   "name": "Bender Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 40.621399,
-    "longitude": -82.533798,
+    "latitude": 40.62216,
+    "longitude": -82.533276,
     "elevation_ft": 1140,
     "iso_country": "US",
     "iso_region": "US-OH",
     "municipality": "Bellville"
   },
-  "keywords": [],
+  "keywords": [
+    "9OA9"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

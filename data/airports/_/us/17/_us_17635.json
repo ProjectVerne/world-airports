@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "HI25",
-    "local": "HI25"
+    "gps": null,
+    "local": null
   },
   "name": "Kaalaiki Airstrip",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 19.122507,
     "longitude": -155.578398,
@@ -17,10 +17,12 @@
     "iso_region": "US-HI",
     "municipality": "Naalehu"
   },
-  "keywords": [],
+  "keywords": [
+    "HI25"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "6TA3",
-    "local": "6TA3"
+    "gps": null,
+    "local": null
   },
   "name": "Culp Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 32.721401,
     "longitude": -96.7239,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Lawrence"
   },
-  "keywords": [],
+  "keywords": [
+    "6TA3"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

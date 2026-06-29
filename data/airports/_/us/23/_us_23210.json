@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "NK84",
-    "local": "NK84"
+    "gps": null,
+    "local": null
   },
   "name": "Safe Flight Instrument Corporation Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 41.081568,
     "longitude": -73.712997,
@@ -17,10 +17,12 @@
     "iso_region": "US-NY",
     "municipality": "White Plains"
   },
-  "keywords": [],
+  "keywords": [
+    "NK84"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

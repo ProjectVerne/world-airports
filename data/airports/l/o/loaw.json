@@ -1,0 +1,33 @@
+{
+  "key": "loaw",
+  "codes": {
+    "icao": "LOAW",
+    "iata": null,
+    "gps": "LOAW",
+    "local": null
+  },
+  "name": "Wiener Neustadt ÖAMTC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.845135,
+    "longitude": 16.251601,
+    "elevation_ft": 900,
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Wiener Neustadt"
+  },
+  "keywords": [
+    "Christophorus 3",
+    "AT-0055"
+  ],
+  "metadata": {
+    "created": "2026-06-29",
+    "updated": "2026-06-29",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43813
+  }
+}

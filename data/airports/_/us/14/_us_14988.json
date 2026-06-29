@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "8KS2",
-    "local": "8KS2"
+    "gps": null,
+    "local": null
   },
   "name": "King Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 37.9389,
-    "longitude": -96.230797,
+    "latitude": 37.938282,
+    "longitude": -96.229539,
     "elevation_ft": 1160,
     "iso_country": "US",
     "iso_region": "US-KS",
     "municipality": "Hamilton"
   },
-  "keywords": [],
+  "keywords": [
+    "8KS2"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

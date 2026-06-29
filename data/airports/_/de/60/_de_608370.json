@@ -3,10 +3,10 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "D304",
-    "local": null
+    "gps": null,
+    "local": "KKHN"
   },
-  "name": "Nagold Hospital Rooftop Helipad",
+  "name": "Nagold Hospital Helitop",
   "type": "heliport",
   "status": "open",
   "location": {
@@ -17,10 +17,12 @@
     "iso_region": "DE-BW",
     "municipality": "Nagold"
   },
-  "keywords": [],
+  "keywords": [
+    "D304"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

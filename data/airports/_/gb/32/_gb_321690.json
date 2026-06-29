@@ -3,27 +3,27 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
+    "gps": "EGKC",
     "local": null
   },
   "name": "Bognor Regis Lec Airfield",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 50.801667,
-    "longitude": -0.658847,
+    "latitude": 50.80243,
+    "longitude": -0.657787,
     "elevation_ft": 1,
     "iso_country": "GB",
     "iso_region": "GB-ENG",
     "municipality": "Bognor Regis, West Sussex"
   },
   "keywords": [
-    "EGKC",
     "GB-1280"
   ],
+  "wikipedia": "https://en.wikipedia.org/wiki/LEC_Airfield",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

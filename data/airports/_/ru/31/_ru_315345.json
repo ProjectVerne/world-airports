@@ -3,15 +3,15 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": "URKF"
+    "gps": "URKF",
+    "local": null
   },
   "name": "Afipsky Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 44.873,
-    "longitude": 38.829,
+    "latitude": 44.87303,
+    "longitude": 38.82855,
     "elevation_ft": 80,
     "iso_country": "RU",
     "iso_region": "RU-KDA",
@@ -24,7 +24,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

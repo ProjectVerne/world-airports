@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "4XS0",
-    "local": "4XS0"
+    "gps": null,
+    "local": null
   },
   "name": "Pfeffer & Son Farms Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 29.931357,
-    "longitude": -95.95871,
+    "latitude": 29.931239,
+    "longitude": -95.967408,
     "elevation_ft": 210,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Waller"
   },
-  "keywords": [],
+  "keywords": [
+    "4XS0"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

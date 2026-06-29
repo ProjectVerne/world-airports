@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "CO30",
-    "local": "CO30"
+    "gps": null,
+    "local": null
   },
   "name": "Gates Rubber County Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 39.698002,
     "longitude": -104.987,
@@ -17,10 +17,12 @@
     "iso_region": "US-CO",
     "municipality": "Denver"
   },
-  "keywords": [],
+  "keywords": [
+    "CO30"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

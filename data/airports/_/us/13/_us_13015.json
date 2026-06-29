@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "65XS",
-    "local": "65XS"
+    "gps": null,
+    "local": null
   },
   "name": "Birdnest Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 32.223202,
     "longitude": -97.2817,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Parker"
   },
-  "keywords": [],
+  "keywords": [
+    "65XS"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

@@ -4,9 +4,9 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "SNFY"
+    "local": null
   },
-  "name": "Compesa Heliport",
+  "name": "Compesa Helipad",
   "type": "heliport",
   "status": "open",
   "location": {
@@ -19,11 +19,12 @@
   },
   "keywords": [
     "SNFY",
+    "Gas distribution center",
     "BR-3232"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

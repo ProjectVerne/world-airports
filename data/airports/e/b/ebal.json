@@ -1,0 +1,33 @@
+{
+  "key": "ebal",
+  "codes": {
+    "icao": "EBAL",
+    "iata": null,
+    "gps": "EBAL",
+    "local": null
+  },
+  "name": "Aalst Hospital Helistop",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 50.943087,
+    "longitude": 4.055763,
+    "elevation_ft": 141,
+    "iso_country": "BE",
+    "iso_region": "BE-VOV",
+    "municipality": "Aalst"
+  },
+  "keywords": [
+    "OLV-Ziekenhuis",
+    "BE-0075"
+  ],
+  "metadata": {
+    "created": "2026-06-29",
+    "updated": "2026-06-29",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 298604
+  }
+}

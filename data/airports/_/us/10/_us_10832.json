@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "3TX3",
-    "local": "3TX3"
+    "gps": null,
+    "local": null
   },
   "name": "Sitton Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 33.119598,
     "longitude": -97.319702,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Justin"
   },
-  "keywords": [],
+  "keywords": [
+    "3TX3"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

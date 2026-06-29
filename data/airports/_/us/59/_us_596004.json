@@ -4,11 +4,11 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "9KS9"
+    "local": null
   },
   "name": "South Fork Airpark",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 37.615036,
     "longitude": -97.787435,
@@ -18,11 +18,12 @@
     "municipality": "Cheney"
   },
   "keywords": [
+    "9KS9",
     "US-12687"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

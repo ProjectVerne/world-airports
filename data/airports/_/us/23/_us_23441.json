@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "NY60",
-    "local": "NY60"
+    "gps": null,
+    "local": null
   },
   "name": "Vasile Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 44.762501,
     "longitude": -73.559303,
@@ -17,10 +17,12 @@
     "iso_region": "US-NY",
     "municipality": "Beekmanton"
   },
-  "keywords": [],
+  "keywords": [
+    "NY60"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

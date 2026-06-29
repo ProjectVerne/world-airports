@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SDUY",
-    "local": null
+    "gps": "SDAZ",
+    "local": "RJ0029"
   },
   "name": "Rio Alpha Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": -22.91722,
-    "longitude": -43.18139,
+    "latitude": -22.909133,
+    "longitude": -43.181367,
     "elevation_ft": 495,
     "iso_country": "BR",
     "iso_region": "BR-RJ",
-    "municipality": "Rio De Janeiro"
+    "municipality": "Rio de Janeiro"
   },
-  "keywords": [],
+  "keywords": [
+    "SDUY"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

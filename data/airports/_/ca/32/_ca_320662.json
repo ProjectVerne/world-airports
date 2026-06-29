@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "CRM3",
-    "local": "CRM3"
+    "gps": null,
+    "local": null
   },
   "name": "Richelieu/Messier Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 45.3779,
     "longitude": -73.2267,
@@ -17,11 +17,13 @@
     "iso_region": "CA-QC",
     "municipality": "Richelieu"
   },
-  "keywords": [],
+  "keywords": [
+    "CRM3"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Richelieu/Messier_Aerodrome",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

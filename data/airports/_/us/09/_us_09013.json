@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "24MN",
-    "local": "24MN"
+    "gps": null,
+    "local": null
   },
   "name": "Bergemann Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 44.004101,
     "longitude": -94.178001,
@@ -17,10 +17,12 @@
     "iso_region": "US-MN",
     "municipality": "Garden City"
   },
-  "keywords": [],
+  "keywords": [
+    "24MN"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

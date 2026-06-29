@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "22TS",
-    "local": "22TS"
+    "gps": null,
+    "local": null
   },
   "name": "Gray Steel Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 29.791041,
     "longitude": -95.438761,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Houston"
   },
-  "keywords": [],
+  "keywords": [
+    "22TS"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

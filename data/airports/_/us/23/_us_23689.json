@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "OI42",
-    "local": "OI42"
+    "gps": null,
+    "local": null
   },
   "name": "D. A. Chandler Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 41.132492,
     "longitude": -82.459565,
@@ -17,10 +17,12 @@
     "iso_region": "US-OH",
     "municipality": "New London"
   },
-  "keywords": [],
+  "keywords": [
+    "OI42"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

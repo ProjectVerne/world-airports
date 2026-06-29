@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "25OH",
-    "local": "25OH"
+    "gps": null,
+    "local": null
   },
   "name": "Hammond Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.913101,
     "longitude": -81.259804,
@@ -17,10 +17,12 @@
     "iso_region": "US-OH",
     "municipality": "Louisville"
   },
-  "keywords": [],
+  "keywords": [
+    "25OH"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

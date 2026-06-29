@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "TE04",
-    "local": "TE04"
+    "gps": null,
+    "local": null
   },
   "name": "Split B Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 35.702499,
     "longitude": -100.285004,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Canadian"
   },
-  "keywords": [],
+  "keywords": [
+    "TE04"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

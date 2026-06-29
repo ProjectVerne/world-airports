@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "5XS2",
-    "local": "5XS2"
+    "gps": null,
+    "local": null
   },
   "name": "Kimball Farm Service Inc Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 35.033401,
     "longitude": -102.199997,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Hereford"
   },
-  "keywords": [],
+  "keywords": [
+    "5XS2"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

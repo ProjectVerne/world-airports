@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "18WI",
-    "local": "18WI"
+    "gps": null,
+    "local": null
   },
   "name": "Leach Farms Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 44.088001,
     "longitude": -88.9254,
@@ -17,10 +17,12 @@
     "iso_region": "US-WI",
     "municipality": "Poy Sippi"
   },
-  "keywords": [],
+  "keywords": [
+    "18WI"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

@@ -4,14 +4,14 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "SNLE"
+    "local": null
   },
-  "name": "Hospital Geral de Barueri Heliport",
+  "name": "Barueri General Hospital Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": -23.496667,
-    "longitude": -46.872222,
+    "latitude": -23.496725,
+    "longitude": -46.872371,
     "elevation_ft": 2556,
     "iso_country": "BR",
     "iso_region": "BR-SP",
@@ -23,7 +23,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

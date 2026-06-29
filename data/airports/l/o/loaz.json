@@ -1,0 +1,32 @@
+{
+  "key": "loaz",
+  "codes": {
+    "icao": "LOAZ",
+    "iata": null,
+    "gps": "LOAZ",
+    "local": null
+  },
+  "name": "Zwettl Hospital Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.599721,
+    "longitude": 15.163697,
+    "elevation_ft": 1900,
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Zwettl"
+  },
+  "keywords": [
+    "AT-0058"
+  ],
+  "metadata": {
+    "created": "2026-06-29",
+    "updated": "2026-06-29",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43816
+  }
+}

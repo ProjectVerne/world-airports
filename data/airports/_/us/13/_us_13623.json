@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "6XS3",
-    "local": "6XS3"
+    "gps": null,
+    "local": null
   },
   "name": "Mullins Landing Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 33.1385,
     "longitude": -96.385498,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Farmersville"
   },
-  "keywords": [],
+  "keywords": [
+    "6XS3"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

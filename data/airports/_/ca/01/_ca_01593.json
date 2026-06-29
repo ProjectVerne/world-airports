@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "CTE5",
-    "local": "CTE5"
+    "gps": null,
+    "local": null
   },
   "name": "Lac à la Perchaude Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 46.622501,
     "longitude": -72.848297,
@@ -18,12 +18,13 @@
     "municipality": "Lac à la Perchaude"
   },
   "keywords": [
-    "TE5"
+    "TE5",
+    "CTE5"
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Lac_%C3%A0_la_Perchaude_Airport",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

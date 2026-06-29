@@ -1,0 +1,30 @@
+{
+  "key": "_us_609534",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "AA17",
+    "local": "AA17"
+  },
+  "name": "Little Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 61.620977,
+    "longitude": -149.663822,
+    "elevation_ft": 400,
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Wasilla"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-06-29",
+    "updated": "2026-06-29",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 609534
+  }
+}

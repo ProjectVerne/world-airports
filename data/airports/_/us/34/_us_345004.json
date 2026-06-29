@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "78KY",
-    "local": "78KY"
+    "gps": null,
+    "local": null
   },
   "name": "Mountain View Airfield",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 37.900694,
     "longitude": -84.177778,
@@ -18,11 +18,12 @@
     "municipality": "Winchester,"
   },
   "keywords": [
+    "78KY",
     "US-4303"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

@@ -1,0 +1,33 @@
+{
+  "key": "loil",
+  "codes": {
+    "icao": "LOIL",
+    "iata": null,
+    "gps": "LOIL",
+    "local": null
+  },
+  "name": "Zams ÖAMTC Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 47.176235,
+    "longitude": 10.611887,
+    "elevation_ft": 2513,
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Zams"
+  },
+  "keywords": [
+    "Christophorus 5",
+    "AT-0065"
+  ],
+  "metadata": {
+    "created": "2026-06-29",
+    "updated": "2026-06-29",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43835
+  }
+}

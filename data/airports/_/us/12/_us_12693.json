@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "5TS9",
-    "local": "5TS9"
+    "gps": null,
+    "local": null
   },
   "name": "Big Duke's Place Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 28.5303,
-    "longitude": -96.527496,
+    "latitude": 28.529292,
+    "longitude": -96.525587,
     "elevation_ft": 5,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Indianola"
   },
-  "keywords": [],
+  "keywords": [
+    "5TS9"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

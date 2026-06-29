@@ -4,11 +4,11 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "SN63"
+    "local": null
   },
   "name": "Gail Ballard Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 37.608758,
     "longitude": -99.115518,
@@ -17,10 +17,12 @@
     "iso_region": "US-KS",
     "municipality": "Haviland"
   },
-  "keywords": [],
+  "keywords": [
+    "SN63"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

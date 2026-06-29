@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "HI23",
-    "local": "HI23"
+    "gps": null,
+    "local": null
   },
   "name": "Mountain View Airstrip",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 19.546359,
     "longitude": -155.108116,
@@ -17,10 +17,12 @@
     "iso_region": "US-HI",
     "municipality": "Mountain View"
   },
-  "keywords": [],
+  "keywords": [
+    "HI23"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

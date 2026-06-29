@@ -4,14 +4,14 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "SSRP"
+    "local": null
   },
   "name": "Vitrotec Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": -23.200001,
-    "longitude": -46.783333,
+    "latitude": -23.199547,
+    "longitude": -46.779684,
     "elevation_ft": 2559,
     "iso_country": "BR",
     "iso_region": "BR-SP",
@@ -23,7 +23,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

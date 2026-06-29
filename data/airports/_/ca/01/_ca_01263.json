@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "CLA2",
-    "local": "CLA2"
+    "gps": null,
+    "local": null
   },
   "name": "L'Assomption Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 45.823101,
     "longitude": -73.460602,
@@ -18,12 +18,13 @@
     "municipality": "L'Assomption"
   },
   "keywords": [
-    "LA2"
+    "LA2",
+    "CLA2"
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/L'Assomption_Airport",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

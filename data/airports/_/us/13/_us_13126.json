@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "68TA",
-    "local": "68TA"
+    "gps": null,
+    "local": null
   },
   "name": "AVSI Sugar Land Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 29.642535,
-    "longitude": -95.607409,
+    "latitude": 29.642761,
+    "longitude": -95.606947,
     "elevation_ft": 85,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Sugar Land"
   },
-  "keywords": [],
+  "keywords": [
+    "68TA"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

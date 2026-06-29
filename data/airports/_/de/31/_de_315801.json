@@ -3,26 +3,27 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "D441",
-    "local": null
+    "gps": null,
+    "local": "BGUKT"
   },
-  "name": "Tübingen Trauma Hospital Rooftop Helipad",
+  "name": "Tübingen Trauma Hospital Helistop",
   "type": "heliport",
   "status": "open",
   "location": {
     "latitude": 48.532977,
     "longitude": 9.03551,
-    "elevation_ft": 1489,
+    "elevation_ft": 1541,
     "iso_country": "DE",
     "iso_region": "DE-BW",
     "municipality": "Tübingen"
   },
   "keywords": [
+    "D441",
     "DE-0267"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

@@ -1,0 +1,33 @@
+{
+  "key": "loay",
+  "codes": {
+    "icao": "LOAY",
+    "iata": null,
+    "gps": "LOAY",
+    "local": null
+  },
+  "name": "Kilb Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.086067,
+    "longitude": 15.428381,
+    "elevation_ft": 1388,
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Kilb"
+  },
+  "keywords": [
+    "Heli-Line",
+    "AT-0057"
+  ],
+  "metadata": {
+    "created": "2026-06-29",
+    "updated": "2026-06-29",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 43815
+  }
+}

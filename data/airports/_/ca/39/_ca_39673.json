@@ -4,11 +4,11 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": null
+    "local": "CDN2"
   },
-  "name": "Asbestos Airport",
-  "type": "closed",
-  "status": "closed",
+  "name": "Danville Airport",
+  "type": "small_airport",
+  "status": "open",
   "location": {
     "latitude": 45.79425,
     "longitude": -71.995339,
@@ -19,12 +19,12 @@
   },
   "keywords": [
     "SA2",
-    "Danville",
+    "Asbestos",
     "CA-0027"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],

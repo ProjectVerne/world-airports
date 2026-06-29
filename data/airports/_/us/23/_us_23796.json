@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "OK59",
-    "local": "OK59"
+    "gps": null,
+    "local": null
   },
   "name": "Wolf Mountain Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 35.022301,
-    "longitude": -94.704399,
+    "latitude": 35.019403,
+    "longitude": -94.705236,
     "elevation_ft": 860,
     "iso_country": "US",
     "iso_region": "US-OK",
     "municipality": "Poteau"
   },
-  "keywords": [],
+  "keywords": [
+    "OK59"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-06-29",
     "sources": [
       "ourairports"
     ],
