@@ -1,0 +1,34 @@
+{
+  "key": "rktw",
+  "codes": {
+    "icao": "RKTW",
+    "iata": null,
+    "gps": "RKTW",
+    "local": null
+  },
+  "name": "Woong Cheon Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.219321,
+    "longitude": 126.54962,
+    "elevation_ft": 53,
+    "iso_country": "KR",
+    "iso_region": "KR-44",
+    "municipality": "Sohwang"
+  },
+  "keywords": [
+    "Woong Cheon",
+    "Sohwang",
+    "Ongcheon"
+  ],
+  "metadata": {
+    "created": "2026-07-20",
+    "updated": "2026-07-20",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 323563
+  }
+}

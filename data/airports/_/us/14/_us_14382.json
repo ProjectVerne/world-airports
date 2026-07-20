@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "7TA0",
-    "local": "7TA0"
+    "gps": null,
+    "local": null
   },
   "name": "Field's Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 30.09289,
     "longitude": -95.651487,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Tomball"
   },
-  "keywords": [],
+  "keywords": [
+    "7TA0"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-07-20",
     "sources": [
       "ourairports"
     ],

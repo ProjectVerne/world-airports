@@ -3,10 +3,10 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "COB4",
-    "local": null
+    "gps": null,
+    "local": "COB4"
   },
-  "name": "Orangeville / Brundle Field",
+  "name": "Brundle Field",
   "type": "small_airport",
   "status": "open",
   "location": {
@@ -15,14 +15,13 @@
     "elevation_ft": 1630,
     "iso_country": "CA",
     "iso_region": "CA-ON",
-    "municipality": null
+    "municipality": "Orangeville"
   },
-  "keywords": [
-    "ob4"
-  ],
+  "keywords": [],
+  "wikipedia": "https://en.wikipedia.org/wiki/List_of_airports_in_Ontario#Orangeville/Brundle_Field_Aerodrome",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-07-20",
     "sources": [
       "ourairports"
     ],
