@@ -2,13 +2,13 @@
   "key": "_pk_41629",
   "codes": {
     "icao": null,
-    "iata": "CWP",
+    "iata": null,
     "gps": null,
     "local": null
   },
   "name": "Campbellpore Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 33.766701,
     "longitude": 72.366898,
@@ -18,11 +18,12 @@
     "municipality": "Campbellpore"
   },
   "keywords": [
+    "CWP",
     "PK-CWP"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-07-27",
     "sources": [
       "ourairports"
     ],

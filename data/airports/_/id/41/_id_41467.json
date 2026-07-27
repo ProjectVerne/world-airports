@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "WIPF",
+    "gps": null,
     "local": null
   },
   "name": "Kuala Tungkal Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": -0.816667,
     "longitude": 103.466667,
@@ -17,10 +17,12 @@
     "iso_region": "ID-JA",
     "municipality": "Kuala Tungkal-Sumatra Island"
   },
-  "keywords": [],
+  "keywords": [
+    "WIPF"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-07-27",
     "sources": [
       "ourairports"
     ],

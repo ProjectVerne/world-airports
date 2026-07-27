@@ -3,27 +3,28 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": "SDRW"
+    "gps": "SI55",
+    "local": "MG0676"
   },
-  "name": "Fazenda Pirapitinga Airport",
+  "name": "Canápolis Açúcar & Etanol S.A. Airport",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": -18.7775,
-    "longitude": -49.231667,
-    "elevation_ft": 2172,
+    "latitude": -18.777439,
+    "longitude": -49.229372,
+    "elevation_ft": 2110,
     "iso_country": "BR",
     "iso_region": "BR-MG",
     "municipality": "Canápolis"
   },
   "keywords": [
     "SDRW",
+    "Fazenda Pirapitinga",
     "BR-3192"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-07-27",
     "sources": [
       "ourairports"
     ],
