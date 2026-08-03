@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "MM74",
+    "gps": null,
     "local": null
   },
-  "name": "Aeródromo de Chichen Itzá",
-  "type": "small_airport",
-  "status": "open",
+  "name": "Old Chichen Itzá Airport",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 20.68973,
     "longitude": -88.566817,
@@ -18,11 +18,13 @@
     "municipality": "Tinum"
   },
   "keywords": [
-    "Pisté"
+    "MM74",
+    "Pisté",
+    "Kaua Intl"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-03",
     "sources": [
       "ourairports"
     ],

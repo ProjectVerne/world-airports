@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "1TN7",
-    "local": "1TN7"
+    "gps": null,
+    "local": null
   },
   "name": "Brendle's Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 36.547901,
     "longitude": -82.5224,
@@ -17,10 +17,12 @@
     "iso_region": "US-TN",
     "municipality": "Kingsport"
   },
-  "keywords": [],
+  "keywords": [
+    "1TN7"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-03",
     "sources": [
       "ourairports"
     ],
