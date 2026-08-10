@@ -1,0 +1,35 @@
+{
+  "key": "rkbs",
+  "codes": {
+    "icao": "RKBS",
+    "iata": null,
+    "gps": "RKBS",
+    "local": null
+  },
+  "name": "Korea Broadcasting System (KBS) Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.524159,
+    "longitude": 126.916573,
+    "elevation_ft": 49,
+    "iso_country": "KR",
+    "iso_region": "KR-11",
+    "municipality": "Seoul"
+  },
+  "keywords": [
+    "Korea Broadcasting System",
+    "KBS",
+    "Yeouido",
+    "KR-0857"
+  ],
+  "metadata": {
+    "created": "2026-08-10",
+    "updated": "2026-08-10",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 328343
+  }
+}

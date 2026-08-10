@@ -1,0 +1,33 @@
+{
+  "key": "edvm",
+  "codes": {
+    "icao": "EDVM",
+    "iata": null,
+    "gps": "EDVM",
+    "local": null
+  },
+  "name": "Hildesheim Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.179819,
+    "longitude": 9.945803,
+    "elevation_ft": 292,
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Hildesheim"
+  },
+  "keywords": [
+    "ZNO"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Flugplatz_Hildesheim-Drispenstedt",
+  "metadata": {
+    "created": "2026-08-10",
+    "updated": "2026-08-10",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 2286
+  }
+}

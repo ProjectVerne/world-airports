@@ -3,16 +3,16 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": null
+    "gps": "TX65",
+    "local": "TX65"
   },
   "name": "Pinto Creek Airport",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 29.3952,
-    "longitude": -100.46863,
-    "elevation_ft": 1172,
+    "latitude": 29.3951,
+    "longitude": -100.468701,
+    "elevation_ft": 1192,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Brackettville"
@@ -22,7 +22,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-10",
     "sources": [
       "ourairports"
     ],

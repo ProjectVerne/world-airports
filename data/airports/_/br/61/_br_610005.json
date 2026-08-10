@@ -1,0 +1,30 @@
+{
+  "key": "_br_610005",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SI53",
+    "local": "PB0045"
+  },
+  "name": "BPX 2 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -7.202061,
+    "longitude": -35.875175,
+    "elevation_ft": 1814,
+    "iso_country": "BR",
+    "iso_region": "BR-PE",
+    "municipality": "Campina Grande"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-08-10",
+    "updated": "2026-08-10",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610005
+  }
+}
