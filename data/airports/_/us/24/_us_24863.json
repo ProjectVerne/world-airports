@@ -3,8 +3,8 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": "55E"
+    "gps": "55TT",
+    "local": "55TT"
   },
   "name": "Flyin Armadillo Airport",
   "type": "small_airport",
@@ -18,11 +18,12 @@
     "municipality": "Jacksboro"
   },
   "keywords": [
-    "TE55"
+    "TE55",
+    "55E"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-17",
     "sources": [
       "ourairports"
     ],

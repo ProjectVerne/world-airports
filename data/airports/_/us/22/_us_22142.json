@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "MN36",
-    "local": "MN36"
+    "gps": null,
+    "local": null
   },
   "name": "Mosquito Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 45.686199,
     "longitude": -94.199997,
@@ -17,10 +17,12 @@
     "iso_region": "US-MN",
     "municipality": "Rice"
   },
-  "keywords": [],
+  "keywords": [
+    "MN36"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-17",
     "sources": [
       "ourairports"
     ],

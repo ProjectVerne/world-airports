@@ -3,10 +3,10 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
+    "gps": "UHGE",
     "local": null
   },
-  "name": "Yagodnoye",
+  "name": "Yagodnoye Airfield",
   "type": "small_airport",
   "status": "open",
   "location": {
@@ -18,11 +18,13 @@
     "municipality": "Yagodnoye"
   },
   "keywords": [
+    "УХГЕ",
+    "Ягодное",
     "RU-10132"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-17",
     "sources": [
       "ourairports"
     ],

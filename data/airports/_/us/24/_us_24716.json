@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "TA08",
-    "local": "TA08"
+    "gps": null,
+    "local": null
   },
   "name": "Flying M Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 33.149601,
-    "longitude": -96.273903,
+    "latitude": 33.149588,
+    "longitude": -96.273787,
     "elevation_ft": 585,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Floyd"
   },
-  "keywords": [],
+  "keywords": [
+    "TA08"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-17",
     "sources": [
       "ourairports"
     ],

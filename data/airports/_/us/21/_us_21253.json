@@ -3,7 +3,7 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "KU10",
+    "gps": "U10",
     "local": "U10"
   },
   "name": "Preston Airport",
@@ -17,10 +17,12 @@
     "iso_region": "US-ID",
     "municipality": "Preston"
   },
-  "keywords": [],
+  "keywords": [
+    "KU10"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-17",
     "sources": [
       "ourairports"
     ],
