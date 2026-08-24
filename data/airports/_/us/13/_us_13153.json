@@ -3,24 +3,27 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "69MO",
-    "local": "69MO"
+    "gps": null,
+    "local": null
   },
-  "name": "Hess-McKeown Airport",
-  "type": "small_airport",
-  "status": "open",
+  "name": "Brilhart's Farmport Airport",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 39.308399,
-    "longitude": -92.454102,
+    "latitude": 39.308552,
+    "longitude": -92.453091,
     "elevation_ft": 885,
     "iso_country": "US",
     "iso_region": "US-MO",
     "municipality": "Higbee"
   },
-  "keywords": [],
+  "keywords": [
+    "69MO",
+    "Hess-McKeown"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-24",
     "sources": [
       "ourairports"
     ],

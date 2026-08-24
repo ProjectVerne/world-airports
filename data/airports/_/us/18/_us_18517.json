@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "K1U2",
+    "gps": null,
     "local": "1U2"
   },
   "name": "Mud Lake/West Jefferson County/ Airport",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 43.848202,
-    "longitude": -112.499001,
+    "latitude": 43.851014,
+    "longitude": -112.501359,
     "elevation_ft": 4787,
     "iso_country": "US",
     "iso_region": "US-ID",
     "municipality": "Mud Lake"
   },
-  "keywords": [],
+  "keywords": [
+    "K1U2"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-24",
     "sources": [
       "ourairports"
     ],

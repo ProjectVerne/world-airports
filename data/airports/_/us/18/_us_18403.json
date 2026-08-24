@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "K11",
-    "local": "K11"
+    "gps": null,
+    "local": null
   },
   "name": "Sam Riggs Airpark",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 36.218201,
     "longitude": -95.651901,
@@ -17,11 +17,13 @@
     "iso_region": "US-OK",
     "municipality": "Claremore"
   },
-  "keywords": [],
+  "keywords": [
+    "K11"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Sam_Riggs_Airpark",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-24",
     "sources": [
       "ourairports"
     ],

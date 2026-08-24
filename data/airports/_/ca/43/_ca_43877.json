@@ -4,11 +4,11 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "CBN7"
+    "local": null
   },
   "name": "Beaverton North",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 44.459513,
     "longitude": -79.125896,
@@ -17,11 +17,13 @@
     "iso_region": "CA-ON",
     "municipality": null
   },
-  "keywords": [],
+  "keywords": [
+    "CBN7"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Beaverton_North_Aerodrome",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-24",
     "sources": [
       "ourairports"
     ],

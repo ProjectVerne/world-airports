@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "0TX8",
-    "local": "0TX8"
+    "gps": null,
+    "local": null
   },
   "name": "Dornak Braden Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 29.70872,
     "longitude": -96.36847,
@@ -18,11 +18,12 @@
     "municipality": "Alleyton"
   },
   "keywords": [
+    "0TX8",
     "US-4768"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-24",
     "sources": [
       "ourairports"
     ],

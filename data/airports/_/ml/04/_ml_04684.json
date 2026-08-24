@@ -3,24 +3,28 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "GA1A",
-    "local": "GA1A"
+    "gps": null,
+    "local": null
   },
   "name": "Kayes Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 14.4313,
     "longitude": -11.4397,
     "elevation_ft": 161,
     "iso_country": "ML",
     "iso_region": "ML-1",
-    "municipality": null
+    "municipality": "Kayes"
   },
-  "keywords": [],
+  "keywords": [
+    "GA1A",
+    "GAKY",
+    "KYS"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-24",
     "sources": [
       "ourairports"
     ],

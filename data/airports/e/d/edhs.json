@@ -1,0 +1,34 @@
+{
+  "key": "edhs",
+  "codes": {
+    "icao": "EDHS",
+    "iata": null,
+    "gps": "EDHS",
+    "local": null
+  },
+  "name": "Stade Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 53.561111,
+    "longitude": 9.499167,
+    "elevation_ft": 63,
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Stade"
+  },
+  "keywords": [
+    "ZQD",
+    "Flugplatz Stade"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Stade",
+  "metadata": {
+    "created": "2026-08-24",
+    "updated": "2026-08-24",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28735
+  }
+}

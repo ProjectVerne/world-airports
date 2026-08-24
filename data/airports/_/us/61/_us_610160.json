@@ -1,0 +1,30 @@
+{
+  "key": "_us_610160",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "NR49",
+    "local": "NR49"
+  },
+  "name": "Otto Fire and Rescue Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.059669,
+    "longitude": -83.388469,
+    "elevation_ft": 2096,
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Otto"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-08-24",
+    "updated": "2026-08-24",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610160
+  }
+}

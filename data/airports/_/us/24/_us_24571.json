@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SD97",
-    "local": "SD97"
+    "gps": null,
+    "local": null
   },
   "name": "Oller Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 43.8778,
-    "longitude": -100.362,
+    "latitude": 43.881935,
+    "longitude": -100.363598,
     "elevation_ft": 2100,
     "iso_country": "US",
     "iso_region": "US-SD",
     "municipality": "Vivian"
   },
-  "keywords": [],
+  "keywords": [
+    "SD97"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-24",
     "sources": [
       "ourairports"
     ],

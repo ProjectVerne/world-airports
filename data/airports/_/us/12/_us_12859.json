@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "62CO",
-    "local": "62CO"
+    "gps": null,
+    "local": null
   },
   "name": "The Farm Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.098301,
     "longitude": -104.425003,
@@ -17,10 +17,12 @@
     "iso_region": "US-CO",
     "municipality": "Keenesburg"
   },
-  "keywords": [],
+  "keywords": [
+    "62CO"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-24",
     "sources": [
       "ourairports"
     ],

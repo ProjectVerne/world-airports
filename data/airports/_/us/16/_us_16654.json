@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "CD23",
-    "local": "CD23"
+    "gps": null,
+    "local": null
   },
   "name": "Aero Bear Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 39.198299,
-    "longitude": -104.329002,
+    "latitude": 39.19694,
+    "longitude": -104.329222,
     "elevation_ft": 6300,
     "iso_country": "US",
     "iso_region": "US-CO",
     "municipality": "Calhan"
   },
-  "keywords": [],
+  "keywords": [
+    "CD23"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-24",
     "sources": [
       "ourairports"
     ],

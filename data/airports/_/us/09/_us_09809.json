@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "2TX3",
-    "local": "2TX3"
+    "gps": null,
+    "local": null
   },
   "name": "La Fonda Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 29.2169,
-    "longitude": -100.616997,
+    "latitude": 29.220643,
+    "longitude": -100.61622,
     "elevation_ft": 1020,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Brackettville"
   },
-  "keywords": [],
+  "keywords": [
+    "2TX3"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-24",
     "sources": [
       "ourairports"
     ],
