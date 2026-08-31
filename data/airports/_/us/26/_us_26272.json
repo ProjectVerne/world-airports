@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "XS49",
-    "local": "XS49"
+    "gps": null,
+    "local": null
   },
   "name": "Dean Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 29.4902,
     "longitude": -97.121902,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Shiner"
   },
-  "keywords": [],
+  "keywords": [
+    "XS49"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

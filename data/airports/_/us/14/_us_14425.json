@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "7TX3",
-    "local": "7TX3"
+    "gps": null,
+    "local": null
   },
   "name": "Big Town Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 32.791801,
     "longitude": -96.563599,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Mesquite"
   },
-  "keywords": [],
+  "keywords": [
+    "7TX3"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

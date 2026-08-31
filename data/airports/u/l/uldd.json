@@ -4,24 +4,29 @@
     "icao": "ULDD",
     "iata": "AMV",
     "gps": "ULDD",
-    "local": null
+    "local": "XLDD"
   },
   "name": "Amderma Airport",
   "type": "medium_airport",
   "status": "open",
   "location": {
-    "latitude": 69.763298,
-    "longitude": 61.5564,
+    "latitude": 69.763712,
+    "longitude": 61.556711,
     "elevation_ft": 13,
     "iso_country": "RU",
     "iso_region": "RU-NEN",
     "municipality": "Amderma"
   },
-  "keywords": [],
+  "keywords": [
+    "УЛДД",
+    "ЬЛДД",
+    "Амдерма",
+    "АМД"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Amderma_Airport",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

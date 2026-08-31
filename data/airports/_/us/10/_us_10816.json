@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "3TN7",
-    "local": "3TN7"
+    "gps": null,
+    "local": null
   },
   "name": "Pigeon Forge Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 35.7243,
     "longitude": -83.639297,
@@ -17,10 +17,12 @@
     "iso_region": "US-TN",
     "municipality": "Pigeon Forge"
   },
-  "keywords": [],
+  "keywords": [
+    "3TN7"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

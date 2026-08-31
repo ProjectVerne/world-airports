@@ -3,7 +3,7 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "RKTS",
+    "gps": null,
     "local": null
   },
   "name": "Sangju Airfield",
@@ -17,10 +17,12 @@
     "iso_region": "KR-47",
     "municipality": "Sangju"
   },
-  "keywords": [],
+  "keywords": [
+    "RKTS"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

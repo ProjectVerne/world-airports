@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "3FL4",
-    "local": "3FL4"
+    "gps": null,
+    "local": null
   },
   "name": "Knobel Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 28.248501,
-    "longitude": -80.662003,
+    "latitude": 28.248663,
+    "longitude": -80.661713,
     "elevation_ft": 38,
     "iso_country": "US",
     "iso_region": "US-FL",
     "municipality": "Cocoa"
   },
-  "keywords": [],
+  "keywords": [
+    "3FL4"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

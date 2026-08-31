@@ -3,24 +3,27 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "FADE",
+    "gps": null,
     "local": null
   },
-  "name": "Delmas Airport",
-  "type": "small_airport",
-  "status": "open",
+  "name": "Delmas Municipal Aerodrome",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": -26.141666,
-    "longitude": 28.691668,
+    "latitude": -26.121855,
+    "longitude": 28.690238,
     "elevation_ft": 5075,
     "iso_country": "ZA",
     "iso_region": "ZA-MP",
     "municipality": "Delmas"
   },
-  "keywords": [],
+  "keywords": [
+    "FADE"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Delmas_Municipal_Aerodrome",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

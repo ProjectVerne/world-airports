@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "MD43",
-    "local": "MD43"
+    "gps": null,
+    "local": null
   },
   "name": "Mountain Road Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 39.118401,
     "longitude": -76.496597,
@@ -17,10 +17,12 @@
     "iso_region": "US-MD",
     "municipality": "Lakeshore"
   },
-  "keywords": [],
+  "keywords": [
+    "MD43"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "68LA",
-    "local": "68LA"
+    "gps": null,
+    "local": null
   },
   "name": "Pilkinton Airstrip",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 32.329938,
     "longitude": -93.518169,
@@ -17,10 +17,12 @@
     "iso_region": "US-LA",
     "municipality": "Bossier City"
   },
-  "keywords": [],
+  "keywords": [
+    "68LA"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

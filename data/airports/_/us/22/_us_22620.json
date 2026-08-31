@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "MY55",
-    "local": "MY55"
+    "gps": null,
+    "local": null
   },
   "name": "B I R Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 46.419701,
     "longitude": -94.275299,
     "elevation_ft": 1210,
     "iso_country": "US",
     "iso_region": "US-MN",
-    "municipality": null
+    "municipality": "Brainerd"
   },
-  "keywords": [],
+  "keywords": [
+    "MY55"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "TX37",
-    "local": "TX37"
+    "gps": null,
+    "local": null
   },
   "name": "Flying S Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 33.131802,
     "longitude": -97.7686,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Paradise"
   },
-  "keywords": [],
+  "keywords": [
+    "TX37"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

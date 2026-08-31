@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "55G",
-    "local": "55G"
+    "gps": null,
+    "local": null
   },
   "name": "Arnold Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 43.29748,
     "longitude": -82.607703,
@@ -17,11 +17,13 @@
     "iso_region": "US-MI",
     "municipality": "Croswell"
   },
-  "keywords": [],
+  "keywords": [
+    "55G"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Field_(Michigan)",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

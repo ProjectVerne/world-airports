@@ -4,7 +4,7 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "PP11"
+    "local": "ZCH6"
   },
   "name": "Ivashka Airport",
   "type": "small_airport",
@@ -12,17 +12,20 @@
   "location": {
     "latitude": 58.571046,
     "longitude": 162.304749,
-    "elevation_ft": 0,
+    "elevation_ft": 20,
     "iso_country": "RU",
     "iso_region": "RU-KAM",
     "municipality": "Ivashka"
   },
   "keywords": [
+    "ЗЦХ6",
+    "Ивашка",
+    "PP11",
     "RU-0600"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],

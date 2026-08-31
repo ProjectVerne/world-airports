@@ -3,15 +3,15 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "UIAG",
-    "local": null
+    "gps": null,
+    "local": "XIAG"
   },
   "name": "Chindant Air Base",
   "type": "medium_airport",
   "status": "open",
   "location": {
-    "latitude": 50.396702,
-    "longitude": 116.347,
+    "latitude": 50.396823,
+    "longitude": 116.346114,
     "elevation_ft": 2201,
     "iso_country": "RU",
     "iso_region": "RU-ZAB",
@@ -22,13 +22,14 @@
     "Borzia",
     "Borzyu",
     "Borzya Northwest",
-    "XIAG",
+    "ЬИАГ",
+    "Чиндант",
     "RU-0023"
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Chindant",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-08-31",
     "sources": [
       "ourairports"
     ],
