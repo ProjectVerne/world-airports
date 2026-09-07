@@ -1,0 +1,30 @@
+{
+  "key": "fqes",
+  "codes": {
+    "icao": "FQES",
+    "iata": null,
+    "gps": "FQES",
+    "local": null
+  },
+  "name": "Estima Airbase",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -15.733987,
+    "longitude": 32.756267,
+    "elevation_ft": 1101,
+    "iso_country": "MZ",
+    "iso_region": "MZ-T",
+    "municipality": "Chitima"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-09-07",
+    "updated": "2026-09-07",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610288
+  }
+}

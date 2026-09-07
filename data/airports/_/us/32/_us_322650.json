@@ -3,26 +3,27 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "89IL",
-    "local": "89IL"
+    "gps": null,
+    "local": null
   },
   "name": "Dean Schwenk RLA Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 39.916889,
-    "longitude": -88.304833,
+    "latitude": 39.917685,
+    "longitude": -88.304913,
     "elevation_ft": 693,
     "iso_country": "US",
     "iso_region": "US-IL",
     "municipality": "Pesotum"
   },
   "keywords": [
+    "89IL",
     "US-0506"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

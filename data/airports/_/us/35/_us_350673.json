@@ -3,26 +3,28 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": null
+    "gps": "18TT",
+    "local": "18TT"
   },
-  "name": "Fair Ranch Airport",
-  "type": "closed",
-  "status": "closed",
+  "name": "Butterbottom Airstrip",
+  "type": "small_airport",
+  "status": "open",
   "location": {
-    "latitude": 29.92695,
-    "longitude": -99.90788,
-    "elevation_ft": 2089,
+    "latitude": 29.927815,
+    "longitude": -99.907979,
+    "elevation_ft": 2110,
     "iso_country": "US",
     "iso_region": "US-TX",
-    "municipality": "Leakey"
+    "municipality": "ROCKSPRINGS"
   },
   "keywords": [
+    "Fair Ranch",
+    "Leakey",
     "US-6124"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

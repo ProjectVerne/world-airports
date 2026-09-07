@@ -4,26 +4,27 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": null
+    "local": "ZAX8"
   },
   "name": "Vokhma Airport",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 58.917,
-    "longitude": 46.727001,
-    "elevation_ft": 0,
+    "latitude": 58.917332,
+    "longitude": 46.725373,
+    "elevation_ft": 506,
     "iso_country": "RU",
     "iso_region": "RU-KOS",
     "municipality": "Vokhma"
   },
   "keywords": [
+    "ЗАЬ8",
     "Аэропорт Вохма",
     "RU-0216"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

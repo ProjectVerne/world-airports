@@ -1,0 +1,30 @@
+{
+  "key": "_us_610513",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MA19",
+    "local": "MA19"
+  },
+  "name": "UMass Mem Health Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.621389,
+    "longitude": -71.584542,
+    "elevation_ft": 244,
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Groton"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-09-07",
+    "updated": "2026-09-07",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610513
+  }
+}

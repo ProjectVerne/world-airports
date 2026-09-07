@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "XSCD",
+    "gps": null,
     "local": null
   },
   "name": "Shadrinsk Air Base",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 56.039207,
     "longitude": 63.681995,
@@ -18,12 +18,15 @@
     "municipality": "Shadrinsk"
   },
   "keywords": [
+    "XSCD",
+    "ЬСЦД",
+    "Ша́дринск",
     "RU-3095"
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Shadrinsk_(air_base)",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

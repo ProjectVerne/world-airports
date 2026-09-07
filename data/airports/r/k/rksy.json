@@ -1,0 +1,30 @@
+{
+  "key": "rksy",
+  "codes": {
+    "icao": "RKSY",
+    "iata": null,
+    "gps": "RKSY",
+    "local": null
+  },
+  "name": "H 264 Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 37.528355,
+    "longitude": 126.975799,
+    "elevation_ft": 67,
+    "iso_country": "KR",
+    "iso_region": "KR-11",
+    "municipality": "Yongsan, Seoul"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-09-07",
+    "updated": "2026-09-07",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 300125
+  }
+}

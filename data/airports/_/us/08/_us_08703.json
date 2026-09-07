@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "1TX7",
-    "local": "1TX7"
+    "gps": null,
+    "local": null
   },
   "name": "Killion Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 32.805698,
-    "longitude": -100.183998,
+    "latitude": 32.805661,
+    "longitude": -100.18416,
     "elevation_ft": 1845,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Hamlin"
   },
-  "keywords": [],
+  "keywords": [
+    "1TX7"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

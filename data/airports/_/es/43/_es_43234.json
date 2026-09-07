@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "LELM",
+    "gps": null,
     "local": null
   },
   "name": "Almansa Airfield",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 38.895,
     "longitude": -1.11318,
@@ -17,11 +17,13 @@
     "iso_region": "ES-CM",
     "municipality": "Almansa"
   },
-  "keywords": [],
+  "keywords": [
+    "LELM"
+  ],
   "wikipedia": "https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Almansa",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

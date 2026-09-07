@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "TX65",
-    "local": "TX65"
+    "gps": null,
+    "local": null
   },
   "name": "Beechwood Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 33.023102,
     "longitude": -97.2883,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Fort Worth"
   },
-  "keywords": [],
+  "keywords": [
+    "TX65"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

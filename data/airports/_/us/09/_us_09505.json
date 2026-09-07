@@ -3,27 +3,28 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": null
+    "gps": "7KY7",
+    "local": "7KY7"
   },
-  "name": "Seldom Scene Airport",
-  "type": "closed",
-  "status": "closed",
+  "name": "Woodford Aviation Airport",
+  "type": "small_airport",
+  "status": "open",
   "location": {
     "latitude": 38.105805,
     "longitude": -84.849063,
-    "elevation_ft": 860,
+    "elevation_ft": 806,
     "iso_country": "US",
     "iso_region": "US-KY",
     "municipality": "Millville"
   },
   "keywords": [
     "2KY8",
+    "Seldom Scene",
     "US-9882"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

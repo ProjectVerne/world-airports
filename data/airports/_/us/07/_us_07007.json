@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "08TA",
-    "local": "08TA"
+    "gps": null,
+    "local": null
   },
   "name": "Rancho Del Lago Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 29.97842,
     "longitude": -98.258418,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Fischer"
   },
-  "keywords": [],
+  "keywords": [
+    "08TA"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

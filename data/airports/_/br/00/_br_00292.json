@@ -4,7 +4,7 @@
     "icao": null,
     "iata": null,
     "gps": "SNCT",
-    "local": "SNCT"
+    "local": "MG0056"
   },
   "name": "Ubaporanga Airport",
   "type": "small_airport",
@@ -17,11 +17,13 @@
     "iso_region": "BR-MG",
     "municipality": "Caratinga"
   },
-  "keywords": [],
+  "keywords": [
+    "QTL"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Ubaporanga_Airport",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

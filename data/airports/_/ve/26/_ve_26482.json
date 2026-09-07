@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SVPB",
+    "gps": null,
     "local": null
   },
   "name": "Punta Brava Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 10.7839,
     "longitude": -68.343697,
@@ -17,10 +17,12 @@
     "iso_region": "VE-I",
     "municipality": null
   },
-  "keywords": [],
+  "keywords": [
+    "SVPB"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

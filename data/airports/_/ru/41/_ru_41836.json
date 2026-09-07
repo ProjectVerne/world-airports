@@ -3,26 +3,28 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
+    "gps": "UHSJ",
     "local": null
   },
   "name": "Korsakov Pushistyy Aerodrome",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 46.616726,
-    "longitude": 142.812395,
+    "latitude": 46.618315,
+    "longitude": 142.812759,
     "elevation_ft": 210,
     "iso_country": "RU",
     "iso_region": "RU-SAK",
     "municipality": "Korsakov"
   },
   "keywords": [
+    "УХСЙ",
+    "Пушистый",
     "RU-0021"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

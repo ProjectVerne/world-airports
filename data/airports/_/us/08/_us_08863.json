@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "21TA",
-    "local": "21TA"
+    "gps": null,
+    "local": null
   },
   "name": "Cypress Fairbanks Medical Center Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 29.928028,
     "longitude": -95.588944,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Houston"
   },
-  "keywords": [],
+  "keywords": [
+    "21TA"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

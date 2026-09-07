@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "WMAL",
+    "gps": null,
     "local": null
   },
   "name": "Kuala Kerai Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 5.53868,
     "longitude": 102.195,
@@ -17,10 +17,12 @@
     "iso_region": "MY-03",
     "municipality": "Kuala Kerai"
   },
-  "keywords": [],
+  "keywords": [
+    "WMAL"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

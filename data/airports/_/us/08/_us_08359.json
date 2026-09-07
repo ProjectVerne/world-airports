@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "1IN2",
-    "local": "1IN2"
+    "gps": null,
+    "local": null
   },
   "name": "Meharry Ag Service Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.203899,
     "longitude": -87.055801,
@@ -17,10 +17,12 @@
     "iso_region": "US-IN",
     "municipality": "Wingate"
   },
-  "keywords": [],
+  "keywords": [
+    "1IN2"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

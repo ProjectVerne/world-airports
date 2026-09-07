@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "TS03",
-    "local": "TS03"
+    "gps": null,
+    "local": null
   },
   "name": "Bryant's Landing Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 32.061501,
     "longitude": -97.737801,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Walnut Springs"
   },
-  "keywords": [],
+  "keywords": [
+    "TS03"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "89GE",
-    "local": "89GE"
+    "gps": null,
+    "local": null
   },
   "name": "South Fulton Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 33.537601,
     "longitude": -84.638802,
@@ -18,11 +18,12 @@
     "municipality": "Palmetto"
   },
   "keywords": [
-    "Formerly 8A9"
+    "Formerly 8A9",
+    "89GE"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],

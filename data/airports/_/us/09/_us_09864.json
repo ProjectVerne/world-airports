@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "2WI9",
-    "local": "2WI9"
+    "gps": null,
+    "local": null
   },
   "name": "Bulldog Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 43.759998,
-    "longitude": -89.634804,
+    "latitude": 43.760023,
+    "longitude": -89.634515,
     "elevation_ft": 955,
     "iso_country": "US",
     "iso_region": "US-WI",
     "municipality": "Oxford"
   },
-  "keywords": [],
+  "keywords": [
+    "2WI9"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-07",
     "sources": [
       "ourairports"
     ],
