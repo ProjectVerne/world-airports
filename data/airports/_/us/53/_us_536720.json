@@ -3,26 +3,27 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": null
+    "gps": "1AZ4",
+    "local": "1AZ4"
   },
-  "name": "Florence Hospital Heliport",
+  "name": "HH Florence Helistop",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 33.07311,
-    "longitude": -111.48589,
-    "elevation_ft": 0,
+    "latitude": 33.073063,
+    "longitude": -111.485875,
+    "elevation_ft": 1492,
     "iso_country": "US",
     "iso_region": "US-AZ",
     "municipality": "Florence"
   },
   "keywords": [
+    "HonorHealth",
     "US-8655"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

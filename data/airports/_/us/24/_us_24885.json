@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "TE77",
-    "local": "TE77"
+    "gps": null,
+    "local": null
   },
   "name": "Clover Lake Farms Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 29.2337,
-    "longitude": -95.4767,
+    "latitude": 29.233687,
+    "longitude": -95.476329,
     "elevation_ft": 38,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Angleton"
   },
-  "keywords": [],
+  "keywords": [
+    "TE77"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

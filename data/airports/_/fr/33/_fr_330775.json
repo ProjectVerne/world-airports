@@ -4,11 +4,11 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "LF4864"
+    "local": null
   },
   "name": "Les Bories Ultralight Airfield",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 44.511353,
     "longitude": 3.270996,
@@ -19,11 +19,12 @@
   },
   "keywords": [
     "Base ULM des Bories",
+    "LF4864",
     "FR-0380"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

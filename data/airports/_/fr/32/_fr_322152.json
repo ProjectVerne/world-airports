@@ -4,11 +4,11 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "LF0926"
+    "local": null
   },
   "name": "Cérizols Balloonport",
-  "type": "balloonport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 43.128889,
     "longitude": 1.069444,
@@ -18,11 +18,12 @@
     "municipality": "Cérizols"
   },
   "keywords": [
+    "LF0926",
     "FR-0354"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

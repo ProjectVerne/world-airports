@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "5WN8",
-    "local": "5WN8"
+    "gps": null,
+    "local": null
   },
   "name": "Knight Sky Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 45.032398,
-    "longitude": -89.401802,
+    "latitude": 45.032678,
+    "longitude": -89.401792,
     "elevation_ft": 1475,
     "iso_country": "US",
     "iso_region": "US-WI",
     "municipality": "Wausau"
   },
-  "keywords": [],
+  "keywords": [
+    "5WN8"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "1IA4",
-    "local": "1IA4"
+    "gps": null,
+    "local": null
   },
   "name": "Wallace Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 41.0555,
-    "longitude": -94.394699,
+    "latitude": 41.055212,
+    "longitude": -94.395424,
     "elevation_ft": 1290,
     "iso_country": "US",
     "iso_region": "US-IA",
     "municipality": "Creston"
   },
-  "keywords": [],
+  "keywords": [
+    "1IA4"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

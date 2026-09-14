@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": null
+    "gps": "9A4",
+    "local": "9A4"
   },
   "name": "Courtland Airport",
-  "type": "closed",
-  "status": "closed",
+  "type": "small_airport",
+  "status": "open",
   "location": {
     "latitude": 34.659028,
     "longitude": -87.350206,
@@ -18,7 +18,6 @@
     "municipality": "Courtland"
   },
   "keywords": [
-    "9A4",
     "Courtland Army Airfield",
     "Lawrence County Airport",
     "K9A4"
@@ -26,7 +25,7 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Courtland_Airport",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

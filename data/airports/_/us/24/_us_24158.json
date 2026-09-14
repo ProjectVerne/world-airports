@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "PN51",
-    "local": "PN51"
+    "gps": null,
+    "local": null
   },
-  "name": "Summers Psnl Use Heliport",
-  "type": "heliport",
-  "status": "open",
+  "name": "Summers Personal Use Heliport",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 41.666698,
-    "longitude": -80.416496,
+    "latitude": 41.667162,
+    "longitude": -80.416448,
     "elevation_ft": 1040,
     "iso_country": "US",
     "iso_region": "US-PA",
     "municipality": "Linesville"
   },
-  "keywords": [],
+  "keywords": [
+    "PN51"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

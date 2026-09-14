@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "35MI",
-    "local": "35MI"
+    "gps": null,
+    "local": null
   },
   "name": "Law Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 42.6339,
-    "longitude": -84.985802,
+    "latitude": 42.637447,
+    "longitude": -84.998678,
     "elevation_ft": 920,
     "iso_country": "US",
     "iso_region": "US-MI",
     "municipality": "Vermontville"
   },
-  "keywords": [],
+  "keywords": [
+    "35MI"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

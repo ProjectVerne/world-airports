@@ -1,0 +1,32 @@
+{
+  "key": "rkts",
+  "codes": {
+    "icao": "RKTS",
+    "iata": null,
+    "gps": "RKTS",
+    "local": null
+  },
+  "name": "POSCO Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 35.999759,
+    "longitude": 129.384915,
+    "elevation_ft": 19,
+    "iso_country": "KR",
+    "iso_region": "KR-47",
+    "municipality": "Pohang"
+  },
+  "keywords": [
+    "KR-1123"
+  ],
+  "metadata": {
+    "created": "2026-09-14",
+    "updated": "2026-09-14",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 609738
+  }
+}

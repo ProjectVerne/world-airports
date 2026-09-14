@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "3CA9",
-    "local": "3CA9"
+    "gps": null,
+    "local": null
   },
   "name": "Clark Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 36.3633,
     "longitude": -121.309998,
@@ -17,10 +17,12 @@
     "iso_region": "US-CA",
     "municipality": "Soledad"
   },
-  "keywords": [],
+  "keywords": [
+    "3CA9"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

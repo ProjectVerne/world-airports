@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "8TX2",
-    "local": "8TX2"
+    "gps": null,
+    "local": null
   },
   "name": "Freeman Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 29.9785,
-    "longitude": -100.202003,
+    "latitude": 29.978635,
+    "longitude": -100.202217,
     "elevation_ft": 2380,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Rocksprings"
   },
-  "keywords": [],
+  "keywords": [
+    "8TX2"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

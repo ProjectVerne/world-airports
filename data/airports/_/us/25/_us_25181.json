@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "TX66",
-    "local": "TX66"
+    "gps": null,
+    "local": null
   },
   "name": "Rebel Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 29.3988,
     "longitude": -95.078499,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Alta Loma"
   },
-  "keywords": [],
+  "keywords": [
+    "TX66"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

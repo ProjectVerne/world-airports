@@ -1,0 +1,30 @@
+{
+  "key": "_us_610650",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "30SC",
+    "local": "30SC"
+  },
+  "name": "Conway Medical Center Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 33.784371,
+    "longitude": -79.001374,
+    "elevation_ft": 38,
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Conway"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-09-14",
+    "updated": "2026-09-14",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610650
+  }
+}

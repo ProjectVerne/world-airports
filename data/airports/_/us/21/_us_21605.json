@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "LL53",
-    "local": "LL53"
+    "gps": null,
+    "local": null
   },
   "name": "Olson Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 42.008617,
     "longitude": -88.457773,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Elgin"
   },
-  "keywords": [],
+  "keywords": [
+    "LL53"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

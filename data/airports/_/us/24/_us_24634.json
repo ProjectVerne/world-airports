@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SN57",
-    "local": "SN57"
+    "gps": null,
+    "local": null
   },
   "name": "Witham Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 38.698601,
     "longitude": -95.300301,
@@ -17,10 +17,12 @@
     "iso_region": "US-KS",
     "municipality": "Ottawa"
   },
-  "keywords": [],
+  "keywords": [
+    "SN57"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

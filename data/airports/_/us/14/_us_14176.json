@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "7KS3",
-    "local": "7KS3"
+    "gps": null,
+    "local": null
   },
   "name": "Youvan Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 37.529202,
-    "longitude": -94.696098,
+    "latitude": 37.529399,
+    "longitude": -94.696738,
     "elevation_ft": 1000,
     "iso_country": "US",
     "iso_region": "US-KS",
     "municipality": "Arma"
   },
-  "keywords": [],
+  "keywords": [
+    "7KS3"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

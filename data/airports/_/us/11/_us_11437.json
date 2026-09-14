@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "4GE2",
-    "local": "4GE2"
+    "gps": null,
+    "local": null
   },
   "name": "Gorden E Bellah International Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 33.550098,
     "longitude": -84.166603,
@@ -17,10 +17,13 @@
     "iso_region": "US-GA",
     "municipality": "Stockbridge"
   },
-  "keywords": [],
+  "keywords": [
+    "8A5",
+    "4GE2"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],

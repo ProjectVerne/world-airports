@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "8KS9",
-    "local": "8KS9"
+    "gps": null,
+    "local": null
   },
   "name": "The Wilderness Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 38.4445,
     "longitude": -95.425301,
@@ -17,10 +17,12 @@
     "iso_region": "US-KS",
     "municipality": "Williamsburg"
   },
-  "keywords": [],
+  "keywords": [
+    "8KS9"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-14",
     "sources": [
       "ourairports"
     ],
