@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "9OA4",
-    "local": "9OA4"
+    "gps": null,
+    "local": null
   },
   "name": "Gilmer Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 39.830299,
     "longitude": -84.509697,
@@ -17,10 +17,12 @@
     "iso_region": "US-OH",
     "municipality": "Lewisburg"
   },
-  "keywords": [],
+  "keywords": [
+    "9OA4"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],

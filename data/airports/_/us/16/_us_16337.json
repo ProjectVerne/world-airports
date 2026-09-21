@@ -6,21 +6,24 @@
     "gps": "AR48",
     "local": "AR48"
   },
-  "name": "Union Medical Center Heliport",
+  "name": "BHMC-El Dorado Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 33.2146,
-    "longitude": -92.6679,
-    "elevation_ft": 265,
+    "latitude": 33.221573,
+    "longitude": -92.670414,
+    "elevation_ft": 231,
     "iso_country": "US",
     "iso_region": "US-AR",
     "municipality": "El Dorado"
   },
-  "keywords": [],
+  "keywords": [
+    "Union Med. Ctr",
+    "South Arkansas Rgnl Hosp"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],

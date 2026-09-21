@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "88OR",
-    "local": "88OR"
+    "gps": null,
+    "local": null
   },
   "name": "Tallman Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 44.568298,
-    "longitude": -122.971001,
+    "latitude": 44.567792,
+    "longitude": -122.972145,
     "elevation_ft": 303,
     "iso_country": "US",
     "iso_region": "US-OR",
     "municipality": "Lebanon"
   },
-  "keywords": [],
+  "keywords": [
+    "88OR"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],

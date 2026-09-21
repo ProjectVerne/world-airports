@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "51IL",
-    "local": "51IL"
+    "gps": null,
+    "local": null
   },
   "name": "Marvin D Bradd Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.271702,
     "longitude": -88.494499,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Mansfield"
   },
-  "keywords": [],
+  "keywords": [
+    "51IL"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],

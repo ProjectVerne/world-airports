@@ -3,15 +3,15 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SD92",
+    "gps": null,
     "local": "SD92"
   },
   "name": "Telstar Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 43.698299,
-    "longitude": -98.0215,
+    "latitude": 43.697333,
+    "longitude": -98.022392,
     "elevation_ft": 1310,
     "iso_country": "US",
     "iso_region": "US-SD",
@@ -20,7 +20,7 @@
   "keywords": [],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],

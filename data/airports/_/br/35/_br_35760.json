@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SDUM",
+    "gps": null,
     "local": null
   },
-  "name": "Uniban Heliport",
-  "type": "heliport",
-  "status": "open",
+  "name": "Uniban Helipad",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": -23.50639,
-    "longitude": -46.596943,
+    "latitude": -23.506986,
+    "longitude": -46.597388,
     "elevation_ft": 2568,
     "iso_country": "BR",
     "iso_region": "BR-SP",
     "municipality": "São Paulo"
   },
-  "keywords": [],
+  "keywords": [
+    "SDUM"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],

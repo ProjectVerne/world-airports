@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "18XS",
-    "local": "18XS"
+    "gps": null,
+    "local": null
   },
   "name": "Gardner Farm Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 33.797991,
     "longitude": -101.026554,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Mc Adoo"
   },
-  "keywords": [],
+  "keywords": [
+    "18XS"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],

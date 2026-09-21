@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "2CO0",
-    "local": "2CO0"
+    "gps": null,
+    "local": null
   },
   "name": "Heli-One American Support, LLC Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.583585,
     "longitude": -106.985331,
@@ -18,11 +18,12 @@
     "municipality": "Fort Collins"
   },
   "keywords": [
+    "2CO0",
     "Heli-Support II Heliport"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],

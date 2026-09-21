@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "3LA2",
-    "local": "3LA2"
+    "gps": null,
+    "local": null
   },
   "name": "Southern Natural Gas Co. Seaplane Base",
-  "type": "seaplane_base",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 30.2808,
-    "longitude": -89.954201,
+    "latitude": 30.280831,
+    "longitude": -89.953243,
     "elevation_ft": 0,
     "iso_country": "US",
     "iso_region": "US-LA",
     "municipality": "Lacombe"
   },
-  "keywords": [],
+  "keywords": [
+    "3LA2"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],

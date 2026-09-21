@@ -3,7 +3,7 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "LEPZ",
+    "gps": null,
     "local": null
   },
   "name": "Los Pozuelos De Calatrava Airfield",
@@ -17,10 +17,12 @@
     "iso_region": "ES-CM",
     "municipality": "Los Pozuelos De Calatrava"
   },
-  "keywords": [],
+  "keywords": [
+    "LEPZ"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],

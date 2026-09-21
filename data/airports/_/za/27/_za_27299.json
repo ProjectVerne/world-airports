@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "FAWD",
+    "gps": null,
     "local": null
   },
   "name": "Wolmeransstad Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": -27.17,
-    "longitude": 25.98,
+    "latitude": -27.173195,
+    "longitude": 25.976252,
     "elevation_ft": 4513,
     "iso_country": "ZA",
     "iso_region": "ZA-NW",
     "municipality": "Wolmeransstad"
   },
-  "keywords": [],
+  "keywords": [
+    "FAWD"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],

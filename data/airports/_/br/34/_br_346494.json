@@ -3,15 +3,15 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": "SD97"
+    "gps": "SD97",
+    "local": "BA0373"
   },
   "name": "Fazenda Juerana Airport",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": -14.658333,
-    "longitude": -39.079167,
+    "latitude": -14.656795,
+    "longitude": -39.077298,
     "elevation_ft": 33,
     "iso_country": "BR",
     "iso_region": "BR-BA",
@@ -22,7 +22,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-21",
     "sources": [
       "ourairports"
     ],
