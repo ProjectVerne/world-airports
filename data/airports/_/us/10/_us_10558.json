@@ -3,25 +3,28 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "3L7",
-    "local": "3L7"
+    "gps": "37MI",
+    "local": "37MI"
   },
-  "name": "Flying M Ranch Airport",
+  "name": "Milwrick Flying M Airport",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 44.7383,
-    "longitude": -83.3797,
+    "latitude": 44.73853,
+    "longitude": -83.379619,
     "elevation_ft": 830,
     "iso_country": "US",
     "iso_region": "US-MI",
     "municipality": "Lincoln"
   },
-  "keywords": [],
+  "keywords": [
+    "3L7",
+    "Flying M Ranch Airport"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Milwrick_Flying_%22M%22_Airport",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

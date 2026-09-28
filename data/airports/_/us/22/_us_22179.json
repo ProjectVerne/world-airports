@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "MN75",
-    "local": "MN75"
+    "gps": null,
+    "local": null
   },
   "name": "Krezowski Seaplane Base",
-  "type": "seaplane_base",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 46.758202,
     "longitude": -93.282303,
@@ -17,10 +17,12 @@
     "iso_region": "US-MN",
     "municipality": "Mcgregor"
   },
-  "keywords": [],
+  "keywords": [
+    "MN75"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

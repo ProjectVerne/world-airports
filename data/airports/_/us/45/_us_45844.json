@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "26XA",
-    "local": "26XA"
+    "gps": null,
+    "local": null
   },
   "name": "Solana North Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 32.984444,
     "longitude": -97.171667,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Westlake"
   },
-  "keywords": [],
+  "keywords": [
+    "26XA"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

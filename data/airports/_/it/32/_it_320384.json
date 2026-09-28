@@ -4,20 +4,21 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "MT05"
+    "local": null
   },
   "name": "Policoro Saline Flying Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 40.216161,
-    "longitude": 16.731721,
-    "elevation_ft": 0,
+    "latitude": 40.21582,
+    "longitude": 16.731682,
+    "elevation_ft": 7,
     "iso_country": "IT",
     "iso_region": "IT-77",
     "municipality": "Policoro (MT)"
   },
   "keywords": [
+    "MT05",
     "Saline",
     "Policoro",
     "Campo di Volo Policoro \"Saline\"",
@@ -25,7 +26,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

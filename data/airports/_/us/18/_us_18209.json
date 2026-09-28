@@ -6,21 +6,23 @@
     "gps": "IS49",
     "local": "IS49"
   },
-  "name": "Illinois Valley Community Hospital Heliport",
+  "name": "Saint Elizabeth Medical Center-Peru Helistop",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 41.329201,
-    "longitude": -89.123703,
-    "elevation_ft": 600,
+    "latitude": 41.329006,
+    "longitude": -89.123784,
+    "elevation_ft": 595,
     "iso_country": "US",
     "iso_region": "US-IL",
     "municipality": "Peru"
   },
-  "keywords": [],
+  "keywords": [
+    "Illinois Valley Community Hospital"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

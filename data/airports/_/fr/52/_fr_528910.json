@@ -4,11 +4,11 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "LF6660"
+    "local": null
   },
   "name": "Canterrane Airfield",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 42.596944,
     "longitude": 2.735278,
@@ -18,11 +18,12 @@
     "municipality": null
   },
   "keywords": [
+    "LF6660",
     "FR-0823"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

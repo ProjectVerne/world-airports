@@ -3,7 +3,7 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SWJY",
+    "gps": null,
     "local": null
   },
   "name": "Fazenda Campo Alegre III Airport",
@@ -17,10 +17,12 @@
     "iso_region": "BR-MT",
     "municipality": "Alto Garças"
   },
-  "keywords": [],
+  "keywords": [
+    "SWJY"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

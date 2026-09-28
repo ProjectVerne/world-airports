@@ -2,13 +2,13 @@
   "key": "_ye_340202",
   "codes": {
     "icao": null,
-    "iata": "DHL",
+    "iata": null,
     "gps": null,
-    "local": "DHL"
+    "local": null
   },
   "name": "Ad-Dali Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 13.73846,
     "longitude": 44.72719,
@@ -17,10 +17,12 @@
     "iso_region": "YE-DA",
     "municipality": "Ad-Dali"
   },
-  "keywords": [],
+  "keywords": [
+    "DHL"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

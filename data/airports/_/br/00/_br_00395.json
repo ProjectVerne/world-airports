@@ -2,26 +2,28 @@
   "key": "_br_00395",
   "codes": {
     "icao": null,
-    "iata": null,
+    "iata": "IAL",
     "gps": "SNSS",
-    "local": "SNSS"
+    "local": "MG0029"
   },
-  "name": "Salinas Airport",
+  "name": "Salinas Municipal Airport",
   "type": "small_airport",
   "status": "open",
   "location": {
     "latitude": -16.2083,
     "longitude": -42.321999,
-    "elevation_ft": 2504,
+    "elevation_ft": 2503,
     "iso_country": "BR",
     "iso_region": "BR-MG",
     "municipality": "Salinas"
   },
-  "keywords": [],
+  "keywords": [
+    "Dr. Cándida José do Costa"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Salinas_Airport_(Brazil)",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

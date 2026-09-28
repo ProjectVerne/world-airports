@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "0TE6",
-    "local": "0TE6"
+    "gps": null,
+    "local": null
   },
   "name": "Gorman Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 32.2043,
     "longitude": -98.665604,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Gorman"
   },
-  "keywords": [],
+  "keywords": [
+    "0TE6"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

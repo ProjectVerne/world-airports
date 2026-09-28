@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "6TN0",
-    "local": "6TN0"
+    "gps": null,
+    "local": null
   },
   "name": "Waldens Creek Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 35.790401,
     "longitude": -83.606796,
@@ -17,10 +17,12 @@
     "iso_region": "US-TN",
     "municipality": "Pigeon Forge"
   },
-  "keywords": [],
+  "keywords": [
+    "6TN0"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

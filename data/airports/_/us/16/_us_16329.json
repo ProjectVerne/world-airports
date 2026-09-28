@@ -6,21 +6,23 @@
     "gps": "AR40",
     "local": "AR40"
   },
-  "name": "Sparks Regional Medical Center Heliport",
+  "name": "Baptist Health-Fort Smith Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 35.376999,
-    "longitude": -94.420197,
+    "latitude": 35.37316,
+    "longitude": -94.419328,
     "elevation_ft": 460,
     "iso_country": "US",
     "iso_region": "US-AR",
     "municipality": "Fort Smith"
   },
-  "keywords": [],
+  "keywords": [
+    "Sparks Rgnl Med Ctr"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

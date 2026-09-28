@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "4CO6",
-    "local": "4CO6"
+    "gps": null,
+    "local": null
   },
   "name": "Lutheran Medical Center Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 39.76588,
-    "longitude": -105.09264,
+    "latitude": 39.765893,
+    "longitude": -105.092651,
     "elevation_ft": 5500,
     "iso_country": "US",
     "iso_region": "US-CO",
     "municipality": "Wheat Ridge"
   },
-  "keywords": [],
+  "keywords": [
+    "4CO6"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

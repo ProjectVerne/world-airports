@@ -3,27 +3,28 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": null
+    "gps": "SJ1L",
+    "local": "MG0677"
   },
-  "name": "Triálcool Airport",
+  "name": "Campo Limpo Airport",
   "type": "small_airport",
   "status": "open",
   "location": {
     "latitude": -18.891433,
     "longitude": -49.287043,
-    "elevation_ft": 2231,
+    "elevation_ft": 2218,
     "iso_country": "BR",
     "iso_region": "BR-MG",
     "municipality": "Canápolis"
   },
   "keywords": [
     "SJVQ",
+    "Triálcool Airport",
     "BR-2723"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

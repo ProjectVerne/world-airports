@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "24NK",
-    "local": "24NK"
+    "gps": null,
+    "local": null
   },
   "name": "Jet-Line Products Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.7855,
     "longitude": -73.1754,
@@ -17,10 +17,12 @@
     "iso_region": "US-NY",
     "municipality": "Islandia"
   },
-  "keywords": [],
+  "keywords": [
+    "24NK"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

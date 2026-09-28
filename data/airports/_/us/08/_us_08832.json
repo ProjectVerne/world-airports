@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "21GE",
-    "local": "21GE"
+    "gps": null,
+    "local": null
   },
   "name": "Deer Crossing Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 34.549702,
-    "longitude": -83.822197,
+    "latitude": 34.552216,
+    "longitude": -83.824604,
     "elevation_ft": 1390,
     "iso_country": "US",
     "iso_region": "US-GA",
     "municipality": "Cleveland"
   },
-  "keywords": [],
+  "keywords": [
+    "21GE"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

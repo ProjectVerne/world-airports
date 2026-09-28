@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "19WI",
-    "local": "19WI"
+    "gps": null,
+    "local": null
   },
   "name": "Erickson Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 45.195202,
-    "longitude": -92.057098,
+    "latitude": 45.196192,
+    "longitude": -92.060674,
     "elevation_ft": 1180,
     "iso_country": "US",
     "iso_region": "US-WI",
     "municipality": "Prairie Farm"
   },
-  "keywords": [],
+  "keywords": [
+    "19WI"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

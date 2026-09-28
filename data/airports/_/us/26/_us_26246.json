@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "XS21",
-    "local": "XS21"
+    "gps": null,
+    "local": null
   },
   "name": "H & S Airfield",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 29.3311,
-    "longitude": -95.704697,
+    "latitude": 29.33105,
+    "longitude": -95.703938,
     "elevation_ft": 100,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Damon"
   },
-  "keywords": [],
+  "keywords": [
+    "XS21"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-09-28",
     "sources": [
       "ourairports"
     ],

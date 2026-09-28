@@ -1,0 +1,30 @@
+{
+  "key": "_us_610320",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "19CN",
+    "local": "19CN"
+  },
+  "name": "Stewarts Point Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 38.666969,
+    "longitude": -123.413461,
+    "elevation_ft": 82,
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Stewarts Point"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-09-28",
+    "updated": "2026-09-28",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610320
+  }
+}
