@@ -1,0 +1,32 @@
+{
+  "key": "_br_610083",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "SI52",
+    "local": "SC0266"
+  },
+  "name": "Morro da Águia Airstrip",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -26.537219,
+    "longitude": -53.004394,
+    "elevation_ft": 2428,
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "São Bernardino"
+  },
+  "keywords": [
+    "https://aisweb.decea.mil.br/?i=aerodromos&codigo=SI52&amdt=2002"
+  ],
+  "metadata": {
+    "created": "2026-10-05",
+    "updated": "2026-10-05",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610083
+  }
+}

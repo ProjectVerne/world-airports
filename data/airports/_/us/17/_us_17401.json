@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "FL31",
-    "local": "FL31"
+    "gps": null,
+    "local": null
   },
-  "name": "MJD Airport (Closed?)",
-  "type": "small_airport",
-  "status": "open",
+  "name": "MJD Airport (Theoretically closed)",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 25.552307,
     "longitude": -80.555781,
@@ -18,11 +18,12 @@
     "municipality": "Miami"
   },
   "keywords": [
-    "MJD STOLport"
+    "MJD STOLport",
+    "FL31"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

@@ -1,0 +1,30 @@
+{
+  "key": "fatm",
+  "codes": {
+    "icao": "FATM",
+    "iata": null,
+    "gps": "FATM",
+    "local": null
+  },
+  "name": "Stutterheim Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -32.563173,
+    "longitude": 27.374932,
+    "elevation_ft": 2675,
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Stutterheim"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-10-05",
+    "updated": "2026-10-05",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 41150
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "key": "nthb",
+  "codes": {
+    "icao": "NTHB",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "PAGO HELIPAD",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -16.51825,
+    "longitude": -151.734939,
+    "elevation_ft": 10,
+    "iso_country": "PF",
+    "iso_region": "PF-LI",
+    "municipality": "Pago"
+  },
+  "keywords": [
+    "PF-0004"
+  ],
+  "metadata": {
+    "created": "2026-10-05",
+    "updated": "2026-10-05",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610756
+  }
+}

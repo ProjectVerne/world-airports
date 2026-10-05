@@ -6,21 +6,23 @@
     "gps": "TX22",
     "local": "TX22"
   },
-  "name": "Leroux Airport",
+  "name": "US Trinity Airport",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 33.101799,
-    "longitude": -97.154999,
+    "latitude": 33.10217,
+    "longitude": -97.15676,
     "elevation_ft": 670,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Argyle"
   },
-  "keywords": [],
+  "keywords": [
+    "Leroux"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

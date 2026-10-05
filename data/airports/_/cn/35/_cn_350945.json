@@ -2,17 +2,17 @@
   "key": "_cn_350945",
   "codes": {
     "icao": null,
-    "iata": null,
+    "iata": "LSG",
     "gps": null,
     "local": null
   },
-  "name": "New Sichuan Leshan Airport (under construction)",
-  "type": "closed",
-  "status": "closed",
+  "name": "Leshan Airport",
+  "type": "medium_airport",
+  "status": "open",
   "location": {
     "latitude": 29.438627,
     "longitude": 103.749218,
-    "elevation_ft": 0,
+    "elevation_ft": 1189,
     "iso_country": "CN",
     "iso_region": "CN-51",
     "municipality": "Leshan (Wutongqiao)"
@@ -22,7 +22,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

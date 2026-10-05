@@ -2,7 +2,7 @@
   "key": "oyqn",
   "codes": {
     "icao": "OYQN",
-    "iata": "IHN",
+    "iata": null,
     "gps": "OYQN",
     "local": null
   },
@@ -17,11 +17,13 @@
     "iso_region": "YE-MR",
     "municipality": "Qishn"
   },
-  "keywords": [],
+  "keywords": [
+    "IHN"
+  ],
   "wikipedia": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D9%82%D8%B4%D9%86",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

@@ -1,0 +1,33 @@
+{
+  "key": "lein",
+  "codes": {
+    "icao": "LEIN",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Portomarin Forest Fire Base Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 42.81316,
+    "longitude": -7.61962,
+    "elevation_ft": 1560,
+    "iso_country": "ES",
+    "iso_region": "ES-GA",
+    "municipality": "Portomarin, Galicia, Spain"
+  },
+  "keywords": [
+    "ES-0383"
+  ],
+  "wikipedia": "https://gl.wikipedia.org/wiki/Heliportos_de_Galicia",
+  "metadata": {
+    "created": "2026-10-05",
+    "updated": "2026-10-05",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 609759
+  }
+}

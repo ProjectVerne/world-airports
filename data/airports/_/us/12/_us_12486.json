@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "5MD8",
-    "local": "5MD8"
+    "gps": null,
+    "local": null
   },
   "name": "Edelen Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 38.491001,
     "longitude": -77.011597,
@@ -17,10 +17,12 @@
     "iso_region": "US-MD",
     "municipality": "La Plata"
   },
-  "keywords": [],
+  "keywords": [
+    "5MD8"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

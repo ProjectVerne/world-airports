@@ -6,21 +6,23 @@
     "gps": "AR85",
     "local": "AR85"
   },
-  "name": "Drew Memorial Hospital Heliport",
+  "name": "BHMC-Drew County Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 33.620098,
-    "longitude": -91.825996,
+    "latitude": 33.611742,
+    "longitude": -91.81731,
     "elevation_ft": 296,
     "iso_country": "US",
     "iso_region": "US-AR",
     "municipality": "Monticello"
   },
-  "keywords": [],
+  "keywords": [
+    "Drew Memorial Hospital"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

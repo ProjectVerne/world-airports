@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "8IL7",
-    "local": "8IL7"
+    "gps": null,
+    "local": null
   },
   "name": "Dutch Creek Seaplane Base",
-  "type": "seaplane_base",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 42.371101,
     "longitude": -88.247002,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Mc Henry"
   },
-  "keywords": [],
+  "keywords": [
+    "8IL7"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

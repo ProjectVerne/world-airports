@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "IL84",
-    "local": "IL84"
+    "gps": null,
+    "local": null
   },
   "name": "Douglas Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.576401,
     "longitude": -91.102898,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Colusa"
   },
-  "keywords": [],
+  "keywords": [
+    "IL84"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

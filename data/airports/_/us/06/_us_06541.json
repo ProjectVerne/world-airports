@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "00IS",
-    "local": "00IS"
+    "gps": null,
+    "local": null
   },
   "name": "Hayenga's Cant Find Farms Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.0256,
     "longitude": -89.122902,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Kings"
   },
-  "keywords": [],
+  "keywords": [
+    "00IS"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

@@ -1,0 +1,32 @@
+{
+  "key": "leak",
+  "codes": {
+    "icao": "LEAK",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Campo de Vuelo Aliaguilla",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 39.7585,
+    "longitude": -1.33642,
+    "elevation_ft": 0,
+    "iso_country": "ES",
+    "iso_region": "ES-CM",
+    "municipality": null
+  },
+  "keywords": [
+    "ES-0385"
+  ],
+  "metadata": {
+    "created": "2026-10-05",
+    "updated": "2026-10-05",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 609894
+  }
+}

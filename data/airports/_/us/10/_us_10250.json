@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "37PA",
-    "local": "37PA"
+    "gps": null,
+    "local": null
   },
   "name": "Roadcap Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.788399,
     "longitude": -77.106102,
@@ -17,10 +17,12 @@
     "iso_region": "US-PA",
     "municipality": "Middleburg"
   },
-  "keywords": [],
+  "keywords": [
+    "37PA"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

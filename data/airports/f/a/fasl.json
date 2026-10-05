@@ -1,0 +1,30 @@
+{
+  "key": "fasl",
+  "codes": {
+    "icao": "FASL",
+    "iata": null,
+    "gps": "FASL",
+    "local": null
+  },
+  "name": "Sutherland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -32.493205,
+    "longitude": 20.701762,
+    "elevation_ft": 5247,
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Sutherland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-10-05",
+    "updated": "2026-10-05",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 31059
+  }
+}

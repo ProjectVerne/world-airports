@@ -3,7 +3,7 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "KT00",
+    "gps": "T00",
     "local": "T00"
   },
   "name": "Chambers County Airport",
@@ -17,11 +17,13 @@
     "iso_region": "US-TX",
     "municipality": "Anahuac"
   },
-  "keywords": [],
-  "wikipedia": "https://en.wikipedia.org/wiki/Chambers_County_Airport",
+  "keywords": [
+    "KT00"
+  ],
+  "wikipedia": "https://web.archive.org/web/20240927171136/http://en.wikipedia.org/wiki/Chambers_County_Airport",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

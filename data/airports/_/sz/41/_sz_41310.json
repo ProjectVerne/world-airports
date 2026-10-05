@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "FDGL",
+    "gps": null,
     "local": null
   },
   "name": "Lavumisa Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": -27.320101,
-    "longitude": 31.889799,
+    "latitude": -27.311158,
+    "longitude": 31.892581,
     "elevation_ft": 563,
     "iso_country": "SZ",
     "iso_region": "SZ-SH",
     "municipality": "Lavumisa"
   },
-  "keywords": [],
+  "keywords": [
+    "FDGL"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

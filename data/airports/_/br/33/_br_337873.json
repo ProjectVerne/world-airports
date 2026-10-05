@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SJQU",
-    "local": "BA0121"
+    "gps": null,
+    "local": null
   },
   "name": "Fazenda Formosa Airstrip",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": -10.703416,
     "longitude": -45.389524,
@@ -18,11 +18,13 @@
     "municipality": "Formosa do Rio Preto"
   },
   "keywords": [
+    "SJQU",
+    "BA0121",
     "BR-1276"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "IL88",
-    "local": "IL88"
+    "gps": null,
+    "local": null
   },
   "name": "Earl Barnickel Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 41.674999,
     "longitude": -89.116798,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Compton"
   },
-  "keywords": [],
+  "keywords": [
+    "IL88"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

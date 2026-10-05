@@ -1,0 +1,32 @@
+{
+  "key": "_us_610247",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "21OK",
+    "local": "21OK"
+  },
+  "name": "Kellogg Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 36.516287,
+    "longitude": -95.785273,
+    "elevation_ft": 692,
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Talala"
+  },
+  "keywords": [
+    "US-13012"
+  ],
+  "metadata": {
+    "created": "2026-10-05",
+    "updated": "2026-10-05",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610247
+  }
+}

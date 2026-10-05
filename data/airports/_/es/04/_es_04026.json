@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "LEPZ",
+    "gps": null,
     "local": null
   },
-  "name": "Los Pozuelos De Calatrava Airfield",
+  "name": "Los Pozuelos de Calatrava Airfield",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": 38.912201,
-    "longitude": -4.19111,
+    "latitude": 38.911681,
+    "longitude": -4.189729,
     "elevation_ft": 1850,
     "iso_country": "ES",
     "iso_region": "ES-CM",
-    "municipality": "Los Pozuelos De Calatrava"
+    "municipality": "Los Pozuelos de Calatrava, Ciudad Real"
   },
-  "keywords": [],
+  "keywords": [
+    "LEPZ"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

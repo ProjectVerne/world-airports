@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "2IL8",
-    "local": "2IL8"
+    "gps": null,
+    "local": null
   },
   "name": "Illinois Department of Transportation Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 42.019938,
-    "longitude": -88.281253,
+    "latitude": 42.019995,
+    "longitude": -88.281265,
     "elevation_ft": 730,
     "iso_country": "US",
     "iso_region": "US-IL",
     "municipality": "Elgin"
   },
-  "keywords": [],
+  "keywords": [
+    "2IL8"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

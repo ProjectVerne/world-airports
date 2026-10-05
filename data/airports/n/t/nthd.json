@@ -1,0 +1,32 @@
+{
+  "key": "nthd",
+  "codes": {
+    "icao": "NTHD",
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "TAIOHAE HELIPAD",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -8.919554,
+    "longitude": -140.092887,
+    "elevation_ft": 125,
+    "iso_country": "PF",
+    "iso_region": "PF-MI",
+    "municipality": "TAIOHAE"
+  },
+  "keywords": [
+    "PF-0005"
+  ],
+  "metadata": {
+    "created": "2026-10-05",
+    "updated": "2026-10-05",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610757
+  }
+}

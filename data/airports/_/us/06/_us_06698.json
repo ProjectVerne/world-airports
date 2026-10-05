@@ -6,21 +6,23 @@
     "gps": "03AR",
     "local": "03AR"
   },
-  "name": "Hscmh Heliport",
+  "name": "BHMC-HSC Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 34.357601,
-    "longitude": -92.788498,
+    "latitude": 34.357992,
+    "longitude": -92.78608,
     "elevation_ft": 350,
     "iso_country": "US",
     "iso_region": "US-AR",
     "municipality": "Malvern"
   },
-  "keywords": [],
+  "keywords": [
+    "HSCMH"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

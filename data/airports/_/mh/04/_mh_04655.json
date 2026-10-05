@@ -2,7 +2,7 @@
   "key": "_mh_04655",
   "codes": {
     "icao": null,
-    "iata": "IMI",
+    "iata": null,
     "gps": "N20",
     "local": "N20"
   },
@@ -17,11 +17,13 @@
     "iso_region": "MH-ARN",
     "municipality": "Arno Atoll"
   },
-  "keywords": [],
+  "keywords": [
+    "IMI"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Ine_Airport",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

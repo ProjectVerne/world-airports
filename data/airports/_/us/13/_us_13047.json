@@ -3,10 +3,10 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "66TS",
-    "local": "66TS"
+    "gps": null,
+    "local": null
   },
-  "name": "Khou-Tv Heliport",
+  "name": "KHOU-TV Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Houston"
   },
-  "keywords": [],
+  "keywords": [
+    "66TS"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

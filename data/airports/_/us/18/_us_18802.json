@@ -3,7 +3,7 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "K4A4",
+    "gps": "4A4",
     "local": "4A4"
   },
   "name": "Polk County Airport- Cornelius Moore Field",
@@ -12,15 +12,17 @@
   "location": {
     "latitude": 34.0187,
     "longitude": -85.1465,
-    "elevation_ft": 974,
+    "elevation_ft": 979,
     "iso_country": "US",
     "iso_region": "US-GA",
     "municipality": "Cedartown"
   },
-  "keywords": [],
+  "keywords": [
+    "K4A4"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

@@ -4,25 +4,27 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": null
+    "local": "H208"
   },
   "name": "Opalikha Traffic Safety Helipad",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 56.195311,
-    "longitude": 44.120718,
-    "elevation_ft": 0,
+    "latitude": 56.195249,
+    "longitude": 44.120552,
+    "elevation_ft": 280,
     "iso_country": "RU",
     "iso_region": "RU-NIZ",
     "municipality": "Opalikha"
   },
   "keywords": [
+    "Х208",
+    "Опаликха",
     "RU-0431"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "1AZ4",
-    "local": "1AZ4"
+    "gps": null,
+    "local": null
   },
   "name": "Schuff Aviation Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 33.44258,
     "longitude": -112.099222,
@@ -17,10 +17,12 @@
     "iso_region": "US-AZ",
     "municipality": "Phoenix"
   },
-  "keywords": [],
+  "keywords": [
+    "1AZ4"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

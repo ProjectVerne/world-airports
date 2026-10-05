@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "4FL2",
-    "local": "4FL2"
+    "gps": null,
+    "local": null
   },
   "name": "Ko-Kee Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 28.605233,
     "longitude": -82.159567,
@@ -17,10 +17,12 @@
     "iso_region": "US-FL",
     "municipality": "Webster"
   },
-  "keywords": [],
+  "keywords": [
+    "4FL2"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

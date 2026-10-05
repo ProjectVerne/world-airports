@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "63TS",
-    "local": "63TS"
+    "gps": null,
+    "local": null
   },
   "name": "The America Tower Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 29.760799,
     "longitude": -95.397697,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Houston"
   },
-  "keywords": [],
+  "keywords": [
+    "63TS"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "XS50",
-    "local": "XS50"
+    "gps": null,
+    "local": null
   },
   "name": "4G Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 27.380468,
     "longitude": -98.308134,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Concepcion"
   },
-  "keywords": [],
+  "keywords": [
+    "XS50"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],

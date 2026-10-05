@@ -2,7 +2,7 @@
   "key": "_mz_311991",
   "codes": {
     "icao": null,
-    "iata": "INE",
+    "iata": null,
     "gps": null,
     "local": null
   },
@@ -17,10 +17,12 @@
     "iso_region": "MZ-Q",
     "municipality": "Chinde"
   },
-  "keywords": [],
+  "keywords": [
+    "INE"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-05",
     "sources": [
       "ourairports"
     ],
