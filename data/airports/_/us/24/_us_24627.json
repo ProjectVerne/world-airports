@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SN50",
+    "gps": null,
     "local": "SN50"
   },
-  "name": "Mt Carmel Medical Center Heliport",
+  "name": "Mercy Hospital Pittsburg Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 37.380299,
-    "longitude": -94.685204,
+    "latitude": 37.37973,
+    "longitude": -94.685532,
     "elevation_ft": 915,
     "iso_country": "US",
     "iso_region": "US-KS",
     "municipality": "Pittsburg"
   },
-  "keywords": [],
+  "keywords": [
+    "Mt Carmel Medical Center"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

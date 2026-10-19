@@ -1,0 +1,35 @@
+{
+  "key": "edwn",
+  "codes": {
+    "icao": "EDWN",
+    "iata": null,
+    "gps": "EDWN",
+    "local": null
+  },
+  "name": "Nordhorn-Lingen Airfield",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": 52.4575,
+    "longitude": 7.182222,
+    "elevation_ft": 89,
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Klausheide"
+  },
+  "keywords": [
+    "ZOW",
+    "ETUN",
+    "Nordhorn Range Airport"
+  ],
+  "wikipedia": "https://de.wikipedia.org/wiki/Flugplatz_Nordhorn-Lingen",
+  "metadata": {
+    "created": "2026-10-19",
+    "updated": "2026-10-19",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 28672
+  }
+}

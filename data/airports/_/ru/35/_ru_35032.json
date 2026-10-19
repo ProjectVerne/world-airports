@@ -3,8 +3,8 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "XHST",
-    "local": null
+    "gps": null,
+    "local": "XHST"
   },
   "name": "Matrosovo Air Base",
   "type": "small_airport",
@@ -18,12 +18,13 @@
     "municipality": "Leonidovo"
   },
   "keywords": [
+    "ЬХСТ. Матросово",
     "RU-7218"
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Matrosovo",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "54AL",
-    "local": "54AL"
+    "gps": null,
+    "local": null
   },
   "name": "Belforest Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 30.597517,
     "longitude": -87.821419,
@@ -17,10 +17,12 @@
     "iso_region": "US-AL",
     "municipality": "Daphne"
   },
-  "keywords": [],
+  "keywords": [
+    "54AL"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

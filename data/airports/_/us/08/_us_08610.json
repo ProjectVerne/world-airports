@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "1OR8",
-    "local": "1OR8"
+    "gps": null,
+    "local": null
   },
   "name": "Clackamas County Redsoils Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 45.334801,
     "longitude": -122.597,
@@ -17,10 +17,12 @@
     "iso_region": "US-OR",
     "municipality": "Oregon City"
   },
-  "keywords": [],
+  "keywords": [
+    "1OR8"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

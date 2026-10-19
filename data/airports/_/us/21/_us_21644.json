@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "LS10",
-    "local": "LS10"
+    "gps": null,
+    "local": null
   },
   "name": "Reynolds Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 30.2721,
     "longitude": -93.311798,
@@ -17,10 +17,12 @@
     "iso_region": "US-LA",
     "municipality": "Westlake"
   },
-  "keywords": [],
+  "keywords": [
+    "LS10"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

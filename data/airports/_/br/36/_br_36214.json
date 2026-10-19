@@ -3,16 +3,16 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": null
+    "gps": "SI08",
+    "local": "RJ0406"
   },
   "name": "Minerva Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": -22.8661,
-    "longitude": -43.214411,
-    "elevation_ft": 8,
+    "latitude": -22.866089,
+    "longitude": -43.214431,
+    "elevation_ft": 7,
     "iso_country": "BR",
     "iso_region": "BR-RJ",
     "municipality": "Rio de Janeiro"
@@ -23,7 +23,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

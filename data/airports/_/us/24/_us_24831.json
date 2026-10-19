@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "TE23",
-    "local": "TE23"
+    "gps": null,
+    "local": null
   },
   "name": "Santa Rosa Northwest Hospital Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 29.511101,
-    "longitude": -98.5886,
+    "latitude": 29.513356,
+    "longitude": -98.588891,
     "elevation_ft": 932,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "San Antonio"
   },
-  "keywords": [],
+  "keywords": [
+    "TE23"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

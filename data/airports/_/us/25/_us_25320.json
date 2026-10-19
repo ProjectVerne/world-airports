@@ -3,26 +3,27 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "UT77",
-    "local": "UT77"
+    "gps": null,
+    "local": null
   },
   "name": "Aladdin Air Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 37.698287,
-    "longitude": -112.183392,
+    "latitude": 37.698251,
+    "longitude": -112.183163,
     "elevation_ft": 7540,
     "iso_country": "US",
     "iso_region": "US-UT",
     "municipality": "Bryce Canyon City"
   },
   "keywords": [
+    "UT77",
     "US-UT77"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

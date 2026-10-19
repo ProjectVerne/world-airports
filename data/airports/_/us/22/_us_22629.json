@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "MY66",
-    "local": "MY66"
+    "gps": null,
+    "local": null
   },
   "name": "North Star Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 46.070499,
     "longitude": -93.847198,
@@ -17,10 +17,12 @@
     "iso_region": "US-MN",
     "municipality": "Onamia"
   },
-  "keywords": [],
+  "keywords": [
+    "MY66"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

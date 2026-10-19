@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "9TX1",
-    "local": "9TX1"
+    "gps": null,
+    "local": null
   },
   "name": "Bar S Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 30.143299,
-    "longitude": -96.856102,
+    "latitude": 30.143181,
+    "longitude": -96.856159,
     "elevation_ft": 465,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Giddings"
   },
-  "keywords": [],
+  "keywords": [
+    "9TX1"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

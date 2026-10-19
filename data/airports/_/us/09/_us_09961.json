@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "31IL",
-    "local": "31IL"
+    "gps": null,
+    "local": null
   },
   "name": "Tamms Correctional Center Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 37.2528,
     "longitude": -89.280602,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Tamms"
   },
-  "keywords": [],
+  "keywords": [
+    "31IL"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

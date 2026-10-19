@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "YSDW",
+    "gps": null,
     "local": null
   },
   "name": "Strathdownie Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": -37.731701,
-    "longitude": 141.125,
-    "elevation_ft": 0,
+    "latitude": -37.732263,
+    "longitude": 141.130154,
+    "elevation_ft": 217,
     "iso_country": "AU",
     "iso_region": "AU-VIC",
     "municipality": null
   },
-  "keywords": [],
+  "keywords": [
+    "YSDW"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

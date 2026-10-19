@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "YCOL",
+    "gps": null,
     "local": null
   },
   "name": "Coleraine Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": -37.599998,
     "longitude": 141.699997,
@@ -17,10 +17,12 @@
     "iso_region": "AU-VIC",
     "municipality": null
   },
-  "keywords": [],
+  "keywords": [
+    "YCOL"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

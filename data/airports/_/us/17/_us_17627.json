@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "HI05",
-    "local": "HI05"
+    "gps": null,
+    "local": null
   },
-  "name": "Honokaa Airstrip [UNUSABLE]",
-  "type": "small_airport",
-  "status": "open",
+  "name": "Honokaa Airstrip",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 20.08334,
     "longitude": -155.502252,
     "elevation_ft": 1440,
     "iso_country": "US",
     "iso_region": "US-HI",
-    "municipality": "Honokaa, Hawaiʻi"
+    "municipality": "Honokaa"
   },
-  "keywords": [],
+  "keywords": [
+    "HI05"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

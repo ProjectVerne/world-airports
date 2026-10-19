@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "9OK5",
-    "local": "9OK5"
+    "gps": null,
+    "local": null
   },
   "name": "Diamond C Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 34.778301,
     "longitude": -96.927498,
@@ -17,10 +17,12 @@
     "iso_region": "US-OK",
     "municipality": "Stratford"
   },
-  "keywords": [],
+  "keywords": [
+    "9OK5"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

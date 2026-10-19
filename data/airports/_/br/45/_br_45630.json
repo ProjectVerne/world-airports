@@ -3,16 +3,16 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": "SDVX"
+    "gps": "SI05",
+    "local": "SP1524"
   },
   "name": "Estância Flamboyants Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": -21.866866,
-    "longitude": -47.628715,
-    "elevation_ft": 2336,
+    "latitude": -21.866817,
+    "longitude": -47.628692,
+    "elevation_ft": 2365,
     "iso_country": "BR",
     "iso_region": "BR-SP",
     "municipality": "Descalvado"
@@ -23,7 +23,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

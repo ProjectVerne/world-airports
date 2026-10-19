@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "1AA0",
-    "local": "1AA0"
+    "gps": null,
+    "local": null
   },
   "name": "Dallas Bay Sky Park Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 35.18797,
     "longitude": -85.176755,
@@ -19,12 +19,13 @@
   },
   "keywords": [
     "1A0",
+    "1AA0",
     "K1A0"
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Dallas_Bay_Skypark",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

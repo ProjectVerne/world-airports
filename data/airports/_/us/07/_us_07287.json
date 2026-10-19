@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "0LL4",
-    "local": "0LL4"
+    "gps": null,
+    "local": null
   },
   "name": "Flaherty Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 41.419592,
     "longitude": -89.121394,
@@ -18,11 +18,12 @@
     "municipality": "La Salle"
   },
   "keywords": [
+    "0LL4",
     "Tri-City"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

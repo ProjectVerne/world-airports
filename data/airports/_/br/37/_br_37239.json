@@ -3,26 +3,28 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SSOF",
+    "gps": "SI5D",
     "local": "PR0143"
   },
-  "name": "Ouro Verde Heliport",
+  "name": "Morro Chato Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
     "latitude": -25.507931,
     "longitude": -49.332202,
-    "elevation_ft": 3155,
+    "elevation_ft": 2912,
     "iso_country": "BR",
     "iso_region": "BR-PR",
     "municipality": "Curitiba"
   },
   "keywords": [
-    "SNRC"
+    "SNRC",
+    "Ouro Verde",
+    "SSOF"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

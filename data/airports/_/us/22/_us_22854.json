@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "ND24",
-    "local": "ND24"
+    "gps": null,
+    "local": null
   },
   "name": "Inkster Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 48.140301,
     "longitude": -97.6726,
@@ -17,10 +17,12 @@
     "iso_region": "US-ND",
     "municipality": "Inkster"
   },
-  "keywords": [],
+  "keywords": [
+    "ND24"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

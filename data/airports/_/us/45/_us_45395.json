@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "2ID6",
-    "local": "2ID6"
+    "gps": null,
+    "local": null
   },
   "name": "Lemons Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 43.927336,
-    "longitude": -116.946475,
+    "latitude": 43.927246,
+    "longitude": -116.947539,
     "elevation_ft": 2280,
     "iso_country": "US",
     "iso_region": "US-ID",
     "municipality": "Fruitland"
   },
-  "keywords": [],
+  "keywords": [
+    "2ID6"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

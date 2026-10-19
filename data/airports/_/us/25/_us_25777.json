@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "WI83",
-    "local": "WI83"
+    "gps": null,
+    "local": null
   },
   "name": "St Mary's Kewaunee Area Memorial Hospital Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 44.450001,
     "longitude": -87.510902,
@@ -17,10 +17,12 @@
     "iso_region": "US-WI",
     "municipality": "Kewaunee"
   },
-  "keywords": [],
+  "keywords": [
+    "WI83"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

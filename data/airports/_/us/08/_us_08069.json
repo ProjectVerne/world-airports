@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "17TA",
-    "local": "17TA"
+    "gps": null,
+    "local": null
   },
   "name": "Heli-Dyne Systems Inc Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 32.800999,
-    "longitude": -97.179497,
+    "latitude": 32.800942,
+    "longitude": -97.179743,
     "elevation_ft": 500,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Hurst"
   },
-  "keywords": [],
+  "keywords": [
+    "17TA"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

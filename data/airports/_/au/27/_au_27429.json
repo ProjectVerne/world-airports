@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "YBXH",
+    "gps": null,
     "local": null
   },
   "name": "Branxholme Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": -37.867298,
     "longitude": 141.701996,
@@ -17,10 +17,12 @@
     "iso_region": "AU-VIC",
     "municipality": null
   },
-  "keywords": [],
+  "keywords": [
+    "YBXH"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

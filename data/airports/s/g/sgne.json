@@ -1,0 +1,30 @@
+{
+  "key": "sgne",
+  "codes": {
+    "icao": "SGNE",
+    "iata": null,
+    "gps": "SGNE",
+    "local": null
+  },
+  "name": "Neuland Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.676926,
+    "longitude": -60.118473,
+    "elevation_ft": 447,
+    "iso_country": "PY",
+    "iso_region": "PY-19",
+    "municipality": "Neuland"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-10-19",
+    "updated": "2026-10-19",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 611281
+  }
+}

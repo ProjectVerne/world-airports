@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "12IL",
-    "local": "12IL"
+    "gps": null,
+    "local": null
   },
   "name": "Hawker Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 41.200001,
     "longitude": -88.016701,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Kankakee"
   },
-  "keywords": [],
+  "keywords": [
+    "12IL"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

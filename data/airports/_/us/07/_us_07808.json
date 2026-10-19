@@ -6,7 +6,7 @@
     "gps": "13AL",
     "local": "13AL"
   },
-  "name": "Hatch Stagefield Army Heliport",
+  "name": "Hatch Army Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
@@ -15,12 +15,14 @@
     "elevation_ft": 225,
     "iso_country": "US",
     "iso_region": "US-AL",
-    "municipality": "Fort Rucker/Ozark"
+    "municipality": "Fort Rucker (Ozark)"
   },
-  "keywords": [],
+  "keywords": [
+    "Fort Novosel"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

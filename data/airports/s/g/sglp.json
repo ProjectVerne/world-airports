@@ -1,0 +1,33 @@
+{
+  "key": "sglp",
+  "codes": {
+    "icao": "SGLP",
+    "iata": null,
+    "gps": "SGLP",
+    "local": null
+  },
+  "name": "Loma Plata Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -22.357604,
+    "longitude": -59.838879,
+    "elevation_ft": 70,
+    "iso_country": "PY",
+    "iso_region": "PY-19",
+    "municipality": "Loma Plata"
+  },
+  "keywords": [
+    "Aeródromo de Loma Plata",
+    "PY-0032"
+  ],
+  "metadata": {
+    "created": "2026-10-19",
+    "updated": "2026-10-19",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 318552
+  }
+}

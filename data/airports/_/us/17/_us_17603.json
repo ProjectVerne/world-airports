@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "H27",
-    "local": "H27"
+    "gps": null,
+    "local": null
   },
   "name": "Gainesville Memorial Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 36.612598,
-    "longitude": -92.399902,
+    "latitude": 36.614133,
+    "longitude": -92.399511,
     "elevation_ft": 1070,
     "iso_country": "US",
     "iso_region": "US-MO",
     "municipality": "Gainesville"
   },
-  "keywords": [],
+  "keywords": [
+    "H27"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "22IS",
-    "local": "22IS"
+    "gps": null,
+    "local": null
   },
   "name": "Johnson Farm Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.7262,
     "longitude": -91.069901,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Carman"
   },
-  "keywords": [],
+  "keywords": [
+    "22IS"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

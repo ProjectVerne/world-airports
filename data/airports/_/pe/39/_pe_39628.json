@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SPHU",
+    "gps": null,
     "local": null
   },
   "name": "Huancayo Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": -12.0699,
     "longitude": -75.198502,
@@ -17,10 +17,12 @@
     "iso_region": "PE-JUN",
     "municipality": "Huancayo"
   },
-  "keywords": [],
+  "keywords": [
+    "SPHU"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

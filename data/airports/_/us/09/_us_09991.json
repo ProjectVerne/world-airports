@@ -6,7 +6,7 @@
     "gps": "32AR",
     "local": "32AR"
   },
-  "name": "Stuttgart Memorial Hospital Heliport",
+  "name": "BHMC-Stuttgart Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
@@ -17,10 +17,12 @@
     "iso_region": "US-AR",
     "municipality": "Stuttgart"
   },
-  "keywords": [],
+  "keywords": [
+    "Stuttgart Memorial Hospital"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

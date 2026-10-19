@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "CMB8",
-    "local": "CMB8"
+    "gps": null,
+    "local": null
   },
   "name": "Bonnie Brae Airfield",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 45.374212,
     "longitude": -77.723115,
@@ -18,12 +18,13 @@
     "municipality": "Combermere"
   },
   "keywords": [
+    "CMB8",
     "CA-0502"
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Combermere/Bonnie_Brae_Airfield",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

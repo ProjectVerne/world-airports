@@ -3,8 +3,8 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "W56",
-    "local": "W56"
+    "gps": "17WA",
+    "local": "17WA"
   },
   "name": "Fly For Fun Airport",
   "type": "small_airport",
@@ -17,11 +17,13 @@
     "iso_region": "US-WA",
     "municipality": "Vancouver"
   },
-  "keywords": [],
+  "keywords": [
+    "W56"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Fly_for_Fun_Airport",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

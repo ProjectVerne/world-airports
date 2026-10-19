@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "8PA3",
-    "local": "8PA3"
+    "gps": null,
+    "local": null
   },
   "name": "Deer Meadows Airstrip",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 40.995899,
-    "longitude": -75.740501,
+    "latitude": 40.996418,
+    "longitude": -75.740266,
     "elevation_ft": 1210,
     "iso_country": "US",
     "iso_region": "US-PA",
     "municipality": "Weatherly"
   },
-  "keywords": [],
+  "keywords": [
+    "8PA3"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "WN03",
-    "local": "WN03"
+    "gps": null,
+    "local": null
   },
   "name": "Van Der Vaart Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 43.6786,
-    "longitude": -87.725601,
+    "latitude": 43.678554,
+    "longitude": -87.726292,
     "elevation_ft": 622,
     "iso_country": "US",
     "iso_region": "US-WI",
     "municipality": "Sheboygan"
   },
-  "keywords": [],
+  "keywords": [
+    "WN03"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

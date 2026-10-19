@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "OR64",
-    "local": "OR64"
+    "gps": null,
+    "local": null
   },
   "name": "Beach Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 45.963799,
     "longitude": -117.235001,
@@ -17,10 +17,12 @@
     "iso_region": "US-OR",
     "municipality": "Enterprise"
   },
-  "keywords": [],
+  "keywords": [
+    "OR64"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

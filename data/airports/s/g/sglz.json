@@ -1,0 +1,32 @@
+{
+  "key": "sglz",
+  "codes": {
+    "icao": "SGLZ",
+    "iata": null,
+    "gps": "SGLZ",
+    "local": null
+  },
+  "name": "La Paz Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -27.001647,
+    "longitude": -55.883965,
+    "elevation_ft": 620,
+    "iso_country": "PY",
+    "iso_region": "PY-7",
+    "municipality": "La Paz"
+  },
+  "keywords": [
+    "Aeródromo La Paz"
+  ],
+  "metadata": {
+    "created": "2026-10-19",
+    "updated": "2026-10-19",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 515481
+  }
+}

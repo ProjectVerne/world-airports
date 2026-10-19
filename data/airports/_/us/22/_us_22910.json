@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "NE12",
-    "local": "NE12"
+    "gps": null,
+    "local": null
   },
   "name": "Sullivan Airstrip",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 41.238899,
     "longitude": -98.228104,
@@ -17,10 +17,12 @@
     "iso_region": "US-NE",
     "municipality": "Palmer"
   },
-  "keywords": [],
+  "keywords": [
+    "NE12"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

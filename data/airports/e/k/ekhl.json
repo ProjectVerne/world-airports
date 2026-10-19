@@ -1,0 +1,32 @@
+{
+  "key": "ekhl",
+  "codes": {
+    "icao": "EKHL",
+    "iata": null,
+    "gps": "EKHL",
+    "local": null
+  },
+  "name": "Holsted Helipad",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 55.496667,
+    "longitude": 8.910833,
+    "elevation_ft": 141,
+    "iso_country": "DK",
+    "iso_region": "DK-83",
+    "municipality": "Holsted"
+  },
+  "keywords": [
+    "Ben Air"
+  ],
+  "metadata": {
+    "created": "2026-10-19",
+    "updated": "2026-10-19",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 318902
+  }
+}

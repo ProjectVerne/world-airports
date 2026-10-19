@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "90IL",
-    "local": "90IL"
+    "gps": null,
+    "local": null
   },
   "name": "Johnson Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 41.198101,
     "longitude": -87.558899,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Momence"
   },
-  "keywords": [],
+  "keywords": [
+    "90IL"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-19",
     "sources": [
       "ourairports"
     ],

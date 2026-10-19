@@ -1,0 +1,30 @@
+{
+  "key": "sgit",
+  "codes": {
+    "icao": "SGIT",
+    "iata": null,
+    "gps": "SGIT",
+    "local": null
+  },
+  "name": "Itapé Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -25.857321,
+    "longitude": -56.617864,
+    "elevation_ft": 343,
+    "iso_country": "PY",
+    "iso_region": "PY-4",
+    "municipality": "Itapé"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-10-19",
+    "updated": "2026-10-19",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 611278
+  }
+}
