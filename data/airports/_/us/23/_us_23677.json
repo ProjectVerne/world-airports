@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "OI28",
-    "local": "OI28"
+    "gps": null,
+    "local": null
   },
   "name": "Lanker Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.5839,
     "longitude": -82.679298,
@@ -17,10 +17,12 @@
     "iso_region": "US-OH",
     "municipality": "Mount Gilead"
   },
-  "keywords": [],
+  "keywords": [
+    "OI28"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

@@ -3,7 +3,7 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "FAGA",
+    "gps": null,
     "local": "FA0068"
   },
   "name": "The Grange Airport",
@@ -17,10 +17,12 @@
     "iso_region": "ZA-NL",
     "municipality": "Umzimkulu"
   },
-  "keywords": [],
+  "keywords": [
+    "FAGA"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

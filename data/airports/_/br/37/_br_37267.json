@@ -3,24 +3,27 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SNTM",
+    "gps": null,
     "local": null
   },
-  "name": "Turmalina Airport",
-  "type": "small_airport",
-  "status": "open",
+  "name": "Turmalina Regional Airport",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": -17.233889,
-    "longitude": -42.733891,
-    "elevation_ft": 2894,
+    "latitude": -17.267198,
+    "longitude": -42.726794,
+    "elevation_ft": 2629,
     "iso_country": "BR",
     "iso_region": "BR-MG",
     "municipality": "Turmalina"
   },
-  "keywords": [],
+  "keywords": [
+    "SNTM",
+    "MG0068"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

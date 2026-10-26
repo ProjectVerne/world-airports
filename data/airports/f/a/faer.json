@@ -2,29 +2,31 @@
   "key": "faer",
   "codes": {
     "icao": "FAER",
-    "iata": "ELL",
+    "iata": null,
     "gps": "FAER",
     "local": null
   },
-  "name": "Ellisras Matimba Airport",
+  "name": "Ekland Ranch Airstrip",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": -23.7267,
-    "longitude": 27.688299,
-    "elevation_ft": 2799,
+    "latitude": -22.857096,
+    "longitude": 29.868264,
+    "elevation_ft": 2415,
     "iso_country": "ZA",
-    "iso_region": "ZA-NP",
-    "municipality": "Ellisras"
+    "iso_region": "ZA-LP",
+    "municipality": null
   },
-  "keywords": [],
+  "keywords": [
+    "ZA-0374"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],
     "curated": false,
-    "source_id": 29846
+    "source_id": 611445
   }
 }

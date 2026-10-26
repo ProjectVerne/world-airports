@@ -3,7 +3,7 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SJID",
+    "gps": null,
     "local": null
   },
   "name": "Fazenda Goiaba Airport",
@@ -17,10 +17,12 @@
     "iso_region": "BR-MS",
     "municipality": "Três Lagoas"
   },
-  "keywords": [],
+  "keywords": [
+    "SJID"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "MI67",
-    "local": "MI67"
+    "gps": null,
+    "local": null
   },
   "name": "Tyrone Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 43.2892,
     "longitude": -85.781197,
@@ -17,10 +17,12 @@
     "iso_region": "US-MI",
     "municipality": "Bailey"
   },
-  "keywords": [],
+  "keywords": [
+    "MI67"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

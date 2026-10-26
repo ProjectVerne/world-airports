@@ -1,0 +1,33 @@
+{
+  "key": "fage",
+  "codes": {
+    "icao": "FAGE",
+    "iata": null,
+    "gps": "FAGE",
+    "local": "FHGH"
+  },
+  "name": "Gough Island Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -40.347933,
+    "longitude": -9.881306,
+    "elevation_ft": 204,
+    "iso_country": "SH",
+    "iso_region": "SH-TA",
+    "municipality": "Gough Island"
+  },
+  "keywords": [
+    "SH-0001"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gough_Island#Weather_station",
+  "metadata": {
+    "created": "2026-10-26",
+    "updated": "2026-10-26",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 340420
+  }
+}

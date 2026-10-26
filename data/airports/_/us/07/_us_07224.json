@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "0II7",
-    "local": "0II7"
+    "gps": null,
+    "local": null
   },
   "name": "Frost Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 39.795601,
-    "longitude": -85.786102,
+    "latitude": 39.795613,
+    "longitude": -85.786523,
     "elevation_ft": 900,
     "iso_country": "US",
     "iso_region": "US-IN",
     "municipality": "Greenfield"
   },
-  "keywords": [],
+  "keywords": [
+    "0II7"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

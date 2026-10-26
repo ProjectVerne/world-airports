@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "NE64",
-    "local": "NE64"
+    "gps": null,
+    "local": null
   },
   "name": "Hershey Flying Service Field Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 41.162433,
     "longitude": -100.97845,
@@ -18,11 +18,12 @@
     "municipality": "Hershey"
   },
   "keywords": [
+    "NE64",
     "US-0612"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

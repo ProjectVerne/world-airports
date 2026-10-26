@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "MU16",
-    "local": "MU16"
+    "gps": null,
+    "local": null
   },
   "name": "Spillman Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.000301,
     "longitude": -93.789902,
@@ -17,10 +17,12 @@
     "iso_region": "US-MO",
     "municipality": "Jamesport"
   },
-  "keywords": [],
+  "keywords": [
+    "MU16"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

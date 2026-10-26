@@ -3,16 +3,16 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": "SSUZ"
+    "gps": "SJ18",
+    "local": "SP1521"
   },
   "name": "Fazenda Vista Alegre Airport",
   "type": "small_airport",
   "status": "open",
   "location": {
-    "latitude": -20.661667,
-    "longitude": -50.841667,
-    "elevation_ft": 1322,
+    "latitude": -20.661529,
+    "longitude": -50.843975,
+    "elevation_ft": 1329,
     "iso_country": "BR",
     "iso_region": "BR-SP",
     "municipality": "Sud Menucci"
@@ -23,7 +23,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

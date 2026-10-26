@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SN58",
-    "local": "SN58"
+    "gps": null,
+    "local": null
   },
   "name": "Foster Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 37.869999,
-    "longitude": -96.646698,
+    "latitude": 37.871401,
+    "longitude": -96.646879,
     "elevation_ft": 1440,
     "iso_country": "US",
     "iso_region": "US-KS",
     "municipality": "El Dorado"
   },
-  "keywords": [],
+  "keywords": [
+    "SN58"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

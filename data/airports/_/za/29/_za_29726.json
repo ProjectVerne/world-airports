@@ -3,7 +3,7 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "FABV",
+    "gps": null,
     "local": null
   },
   "name": "Brandviei Airfield",
@@ -17,10 +17,12 @@
     "iso_region": "ZA-NC",
     "municipality": "Brandviei"
   },
-  "keywords": [],
+  "keywords": [
+    "FABV"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

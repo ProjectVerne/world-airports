@@ -1,0 +1,32 @@
+{
+  "key": "_us_610313",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MY55",
+    "local": "MY55"
+  },
+  "name": "Sanford Health Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 48.089877,
+    "longitude": -96.194967,
+    "elevation_ft": 1120,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Three River Falls"
+  },
+  "keywords": [
+    "US-13018"
+  ],
+  "metadata": {
+    "created": "2026-10-26",
+    "updated": "2026-10-26",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610313
+  }
+}

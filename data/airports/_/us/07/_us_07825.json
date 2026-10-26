@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "13KY",
-    "local": "13KY"
+    "gps": null,
+    "local": null
   },
   "name": "Miles Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 37.704812,
     "longitude": -87.158586,
@@ -17,10 +17,12 @@
     "iso_region": "US-KY",
     "municipality": "Owensboro"
   },
-  "keywords": [],
+  "keywords": [
+    "13KY"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

@@ -4,11 +4,11 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "FADR"
+    "local": null
   },
   "name": "Dunnottar Airfield",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": -26.354316,
     "longitude": 28.466791,
@@ -18,11 +18,12 @@
     "municipality": "Dunnottar"
   },
   "keywords": [
+    "FADR",
     "ZA-0341"
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

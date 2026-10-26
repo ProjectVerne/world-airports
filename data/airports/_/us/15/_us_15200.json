@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "8TS1",
-    "local": "8TS1"
+    "gps": null,
+    "local": null
   },
   "name": "Retta Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 32.541801,
     "longitude": -97.241997,
@@ -17,10 +17,12 @@
     "iso_region": "US-TX",
     "municipality": "Burleson"
   },
-  "keywords": [],
+  "keywords": [
+    "8TS1"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

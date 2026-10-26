@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "70CO",
-    "local": "70CO"
+    "gps": null,
+    "local": null
   },
   "name": "Greystone Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 39.6408,
-    "longitude": -105.396004,
+    "latitude": 39.640295,
+    "longitude": -105.396558,
     "elevation_ft": 7540,
     "iso_country": "US",
     "iso_region": "US-CO",
     "municipality": "Evergreen"
   },
-  "keywords": [],
+  "keywords": [
+    "70CO"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

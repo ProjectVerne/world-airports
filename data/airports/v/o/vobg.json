@@ -1,0 +1,36 @@
+{
+  "key": "vobg",
+  "codes": {
+    "icao": "VOBG",
+    "iata": null,
+    "gps": "VOBG",
+    "local": null
+  },
+  "name": "HAL Airport",
+  "type": "medium_airport",
+  "status": "open",
+  "location": {
+    "latitude": 12.95,
+    "longitude": 77.668198,
+    "elevation_ft": 2912,
+    "iso_country": "IN",
+    "iso_region": "IN-KA",
+    "municipality": "Bangalore"
+  },
+  "keywords": [
+    "Bengaluru",
+    "Hindustan Airport",
+    "HAL Airport",
+    "Hindustan Aeronautics"
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/HAL_Bangalore_International_Airport",
+  "metadata": {
+    "created": "2026-10-26",
+    "updated": "2026-10-26",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 26603
+  }
+}

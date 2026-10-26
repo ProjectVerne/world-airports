@@ -1,0 +1,30 @@
+{
+  "key": "fawr",
+  "codes": {
+    "icao": "FAWR",
+    "iata": null,
+    "gps": "FAWR",
+    "local": null
+  },
+  "name": "Wavecrest Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -32.589318,
+    "longitude": 28.519384,
+    "elevation_ft": 89,
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Wavecrest"
+  },
+  "keywords": [],
+  "metadata": {
+    "created": "2026-10-26",
+    "updated": "2026-10-26",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 30555
+  }
+}

@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "70IL",
-    "local": "70IL"
+    "gps": null,
+    "local": null
   },
   "name": "Murphy Farms Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 39.423464,
     "longitude": -89.565696,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Farmersville"
   },
-  "keywords": [],
+  "keywords": [
+    "70IL"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

@@ -6,23 +6,25 @@
     "gps": "CNW8",
     "local": "CNW8"
   },
-  "name": "Toronto (Hospital For Sick Children) Heliport",
+  "name": "The Hospital for Sick Children Helistop",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 43.656846,
-    "longitude": -79.38788,
+    "latitude": 43.656673,
+    "longitude": -79.387629,
     "elevation_ft": 498,
     "iso_country": "CA",
     "iso_region": "CA-ON",
     "municipality": "Toronto"
   },
   "keywords": [
-    "NW8"
+    "NW8",
+    "SickKids"
   ],
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Hospital_for_Sick_Children_(Toronto)",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

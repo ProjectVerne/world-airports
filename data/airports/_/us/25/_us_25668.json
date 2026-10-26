@@ -3,16 +3,16 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": null,
-    "local": null
+    "gps": "1WA3",
+    "local": "1WA3"
   },
   "name": "Columbia Crest Winery Airport",
-  "type": "closed",
-  "status": "closed",
+  "type": "small_airport",
+  "status": "open",
   "location": {
     "latitude": 45.955386,
     "longitude": -119.622381,
-    "elevation_ft": 640,
+    "elevation_ft": 679,
     "iso_country": "US",
     "iso_region": "US-WA",
     "municipality": "Paterson"
@@ -23,7 +23,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

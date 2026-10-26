@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "17WA",
-    "local": "17WA"
+    "gps": null,
+    "local": null
   },
   "name": "Roesler Timber Company Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 47.868198,
     "longitude": -121.752998,
@@ -17,10 +17,12 @@
     "iso_region": "US-WA",
     "municipality": "Startup"
   },
-  "keywords": [],
+  "keywords": [
+    "17WA"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "FACX",
+    "gps": null,
     "local": null
   },
   "name": "Cathcart Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": -32.287102,
-    "longitude": 27.1388,
+    "latitude": -32.283832,
+    "longitude": 27.149448,
     "elevation_ft": 3959,
     "iso_country": "ZA",
     "iso_region": "ZA-EC",
     "municipality": "Cathcart"
   },
-  "keywords": [],
+  "keywords": [
+    "FACX"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

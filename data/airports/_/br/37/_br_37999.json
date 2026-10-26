@@ -3,24 +3,27 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SWOK",
+    "gps": null,
     "local": null
   },
   "name": "Fazenda Pontal Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": -17.305555,
-    "longitude": -53.935555,
+    "latitude": -17.306886,
+    "longitude": -53.936447,
     "elevation_ft": 2164,
     "iso_country": "BR",
     "iso_region": "BR-MT",
     "municipality": "Itiquira"
   },
-  "keywords": [],
+  "keywords": [
+    "SWOK",
+    "MT0373"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

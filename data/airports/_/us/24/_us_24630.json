@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "SN53",
-    "local": "SN53"
+    "gps": null,
+    "local": null
   },
   "name": "Bonner Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 37.433399,
     "longitude": -95.916901,
@@ -17,10 +17,12 @@
     "iso_region": "US-KS",
     "municipality": "Fredonia"
   },
-  "keywords": [],
+  "keywords": [
+    "SN53"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

@@ -3,10 +3,10 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "K4U9",
+    "gps": "4U9",
     "local": "4U9"
   },
-  "name": "Dell Flight Strip",
+  "name": "Hyak Airbase",
   "type": "small_airport",
   "status": "open",
   "location": {
@@ -17,11 +17,14 @@
     "iso_region": "US-MT",
     "municipality": "Dell"
   },
-  "keywords": [],
+  "keywords": [
+    "Dell Flight Strip",
+    "K4U9"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Dell_Flight_Strip",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

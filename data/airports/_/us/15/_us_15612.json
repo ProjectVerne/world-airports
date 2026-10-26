@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "99KS",
-    "local": "99KS"
+    "gps": null,
+    "local": null
   },
   "name": "Elm Creek Farms Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 37.410995,
     "longitude": -98.649306,
@@ -17,10 +17,12 @@
     "iso_region": "US-KS",
     "municipality": "Medicine Lodge"
   },
-  "keywords": [],
+  "keywords": [
+    "99KS"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

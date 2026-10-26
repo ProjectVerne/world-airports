@@ -1,0 +1,32 @@
+{
+  "key": "fadw",
+  "codes": {
+    "icao": "FADW",
+    "iata": null,
+    "gps": "FADW",
+    "local": null
+  },
+  "name": "Cape Town Waterfront Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": -33.900515,
+    "longitude": 18.426998,
+    "elevation_ft": 9,
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Cape Town"
+  },
+  "keywords": [
+    "ZA-0119"
+  ],
+  "metadata": {
+    "created": "2026-10-26",
+    "updated": "2026-10-26",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 312624
+  }
+}

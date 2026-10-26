@@ -1,0 +1,32 @@
+{
+  "key": "_us_609856",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": "MN36",
+    "local": "MN36"
+  },
+  "name": "Essentia Health Graceville Heliport",
+  "type": "heliport",
+  "status": "open",
+  "location": {
+    "latitude": 45.562101,
+    "longitude": -96.43431,
+    "elevation_ft": 1103,
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Graceville"
+  },
+  "keywords": [
+    "US-13000"
+  ],
+  "metadata": {
+    "created": "2026-10-26",
+    "updated": "2026-10-26",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 609856
+  }
+}

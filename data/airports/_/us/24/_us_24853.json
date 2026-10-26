@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "TE45",
-    "local": "TE45"
+    "gps": null,
+    "local": null
   },
   "name": "Buffalo Chips Airpark",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 32.469898,
-    "longitude": -97.465302,
+    "latitude": 32.466471,
+    "longitude": -97.46525,
     "elevation_ft": 960,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Joshua"
   },
-  "keywords": [],
+  "keywords": [
+    "TE45"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

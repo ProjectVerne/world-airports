@@ -6,13 +6,13 @@
     "gps": null,
     "local": null
   },
-  "name": "Salyazı Airport",
-  "type": "small_airport",
-  "status": "open",
+  "name": "Salyazı Airport (Under Construction)",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 40.2229,
-    "longitude": 39.793098,
-    "elevation_ft": 0,
+    "latitude": 40.225148,
+    "longitude": 39.802251,
+    "elevation_ft": 5448,
     "iso_country": "TR",
     "iso_region": "TR-29",
     "municipality": "Köse"
@@ -20,9 +20,10 @@
   "keywords": [
     "TR-0032"
   ],
+  "wikipedia": "https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fhane-Bayburt_Havaliman%C4%B1",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

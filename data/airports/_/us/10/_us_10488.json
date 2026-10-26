@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "3IA3",
-    "local": "3IA3"
+    "gps": null,
+    "local": null
   },
   "name": "Des Moines General Hospital Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 41.5942,
     "longitude": -93.6008,
@@ -17,10 +17,12 @@
     "iso_region": "US-IA",
     "municipality": "Des Moines"
   },
-  "keywords": [],
+  "keywords": [
+    "3IA3"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

@@ -1,0 +1,32 @@
+{
+  "key": "sgpc",
+  "codes": {
+    "icao": "SGPC",
+    "iata": null,
+    "gps": "SGPC",
+    "local": null
+  },
+  "name": "Pozo Colorado Airport",
+  "type": "small_airport",
+  "status": "open",
+  "location": {
+    "latitude": -23.49892,
+    "longitude": -58.786097,
+    "elevation_ft": 325,
+    "iso_country": "PY",
+    "iso_region": "PY-15",
+    "municipality": "Pozo Colorado"
+  },
+  "keywords": [
+    "Aeropuerto de Pozo Colorado"
+  ],
+  "metadata": {
+    "created": "2026-10-26",
+    "updated": "2026-10-26",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 308260
+  }
+}

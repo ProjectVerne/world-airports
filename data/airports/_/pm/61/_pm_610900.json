@@ -1,0 +1,34 @@
+{
+  "key": "_pm_610900",
+  "codes": {
+    "icao": null,
+    "iata": null,
+    "gps": null,
+    "local": null
+  },
+  "name": "Saint-Pierre Airport OLD",
+  "type": "closed",
+  "status": "closed",
+  "location": {
+    "latitude": 46.773641,
+    "longitude": -56.168157,
+    "elevation_ft": 20,
+    "iso_country": "PM",
+    "iso_region": "PM-SP",
+    "municipality": "Saint-Pierre"
+  },
+  "keywords": [
+    "FSP",
+    "LFVP",
+    "PM-0001"
+  ],
+  "metadata": {
+    "created": "2026-10-26",
+    "updated": "2026-10-26",
+    "sources": [
+      "ourairports"
+    ],
+    "curated": false,
+    "source_id": 610900
+  }
+}

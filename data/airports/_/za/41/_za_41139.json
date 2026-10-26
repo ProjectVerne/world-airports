@@ -3,7 +3,7 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "FAHD",
+    "gps": null,
     "local": null
   },
   "name": "Humansdorp Airport",
@@ -17,10 +17,12 @@
     "iso_region": "ZA-EC",
     "municipality": "Humansdorp"
   },
-  "keywords": [],
+  "keywords": [
+    "FAHD"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

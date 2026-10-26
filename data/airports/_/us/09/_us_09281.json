@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "29XS",
-    "local": "29XS"
+    "gps": null,
+    "local": null
   },
   "name": "Temple Eastex Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 31.1831,
-    "longitude": -94.780602,
+    "latitude": 31.18318,
+    "longitude": -94.780529,
     "elevation_ft": 240,
     "iso_country": "US",
     "iso_region": "US-TX",
     "municipality": "Diboll"
   },
-  "keywords": [],
+  "keywords": [
+    "29XS"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

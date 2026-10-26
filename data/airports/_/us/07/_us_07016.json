@@ -6,21 +6,23 @@
     "gps": "09AR",
     "local": "09AR"
   },
-  "name": "Magnolia Hospital Heliport",
+  "name": "BHMC-Magnolia Heliport",
   "type": "heliport",
   "status": "open",
   "location": {
-    "latitude": 33.273201,
-    "longitude": -93.239899,
+    "latitude": 33.273914,
+    "longitude": -93.239785,
     "elevation_ft": 310,
     "iso_country": "US",
     "iso_region": "US-AR",
     "municipality": "Magnolia"
   },
-  "keywords": [],
+  "keywords": [
+    "Magnolia Rgnl Med Ctr"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

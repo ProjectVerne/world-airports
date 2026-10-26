@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "Y34",
-    "local": "Y34"
+    "gps": null,
+    "local": null
   },
   "name": "Lake Preston Municipal Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 44.3573,
     "longitude": -97.384804,
@@ -17,10 +17,12 @@
     "iso_region": "US-SD",
     "municipality": "Lake Preston"
   },
-  "keywords": [],
+  "keywords": [
+    "Y34"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

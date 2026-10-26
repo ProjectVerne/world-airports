@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "EFKN",
+    "gps": null,
     "local": null
   },
   "name": "Kannus Airfield",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 63.920601,
     "longitude": 24.0867,
@@ -17,11 +17,13 @@
     "iso_region": "FI-07",
     "municipality": "Kannus"
   },
-  "keywords": [],
+  "keywords": [
+    "EFKN"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Kannus_Airfield",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

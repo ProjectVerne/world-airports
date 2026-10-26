@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "WS77",
-    "local": "WS77"
+    "gps": null,
+    "local": null
   },
   "name": "Circle T Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 45.683998,
     "longitude": -92.687103,
@@ -17,10 +17,12 @@
     "iso_region": "US-WI",
     "municipality": "Grantsburg"
   },
-  "keywords": [],
+  "keywords": [
+    "WS77"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

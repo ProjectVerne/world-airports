@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "4CL3",
-    "local": "4CL3"
+    "gps": null,
+    "local": null
   },
   "name": "Antelope Valley Ranch Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 39.14605,
-    "longitude": -122.356716,
+    "latitude": 39.146459,
+    "longitude": -122.356956,
     "elevation_ft": 530,
     "iso_country": "US",
     "iso_region": "US-CA",
     "municipality": "Williams"
   },
-  "keywords": [],
+  "keywords": [
+    "4CL3"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

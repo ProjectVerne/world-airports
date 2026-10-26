@@ -2,7 +2,7 @@
   "key": "oanz",
   "codes": {
     "icao": "OANZ",
-    "iata": "IMZ",
+    "iata": null,
     "gps": "OANZ",
     "local": null
   },
@@ -17,10 +17,12 @@
     "iso_region": "AF-NIM",
     "municipality": "Ziarat-e Amiran Saseb"
   },
-  "keywords": [],
+  "keywords": [
+    "IMZ"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

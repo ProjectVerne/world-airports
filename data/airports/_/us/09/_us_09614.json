@@ -3,24 +3,26 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "2ND3",
-    "local": "2ND3"
+    "gps": null,
+    "local": null
   },
   "name": "Casslindan Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 48.000842,
-    "longitude": -97.121934,
+    "latitude": 48.000922,
+    "longitude": -97.122359,
     "elevation_ft": 832,
     "iso_country": "US",
     "iso_region": "US-ND",
     "municipality": "Grand Forks"
   },
-  "keywords": [],
+  "keywords": [
+    "2ND3"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

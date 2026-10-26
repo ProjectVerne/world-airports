@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "99IL",
-    "local": "99IL"
+    "gps": null,
+    "local": null
   },
   "name": "Providence Place Field",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 42.286701,
     "longitude": -89.957497,
@@ -17,10 +17,12 @@
     "iso_region": "US-IL",
     "municipality": "Stockton"
   },
-  "keywords": [],
+  "keywords": [
+    "99IL"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

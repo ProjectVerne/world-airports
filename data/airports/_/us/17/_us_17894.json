@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "II08",
-    "local": "II08"
+    "gps": null,
+    "local": null
   },
   "name": "Rheude Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 40.6609,
     "longitude": -87.439697,
@@ -17,10 +17,12 @@
     "iso_region": "US-IN",
     "municipality": "Earl Park"
   },
-  "keywords": [],
+  "keywords": [
+    "II08"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

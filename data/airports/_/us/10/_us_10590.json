@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "3MA8",
-    "local": "3MA8"
+    "gps": null,
+    "local": null
   },
   "name": "Sadler Hill Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 42.622299,
     "longitude": -70.652298,
@@ -17,10 +17,12 @@
     "iso_region": "US-MA",
     "municipality": "Gloucester"
   },
-  "keywords": [],
+  "keywords": [
+    "3MA8"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

@@ -4,7 +4,7 @@
     "icao": "UIII",
     "iata": "IKT",
     "gps": "UIII",
-    "local": null
+    "local": "XIII"
   },
   "name": "Irkutsk International Airport",
   "type": "large_airport",
@@ -17,11 +17,15 @@
     "iso_region": "RU-IRK",
     "municipality": "Irkutsk"
   },
-  "keywords": [],
+  "keywords": [
+    "УИИИ",
+    "ЬИИИ",
+    "Иркутск"
+  ],
   "wikipedia": "https://en.wikipedia.org/wiki/Irkutsk_Airport",
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

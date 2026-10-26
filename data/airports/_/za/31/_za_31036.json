@@ -3,7 +3,7 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "FACA",
+    "gps": null,
     "local": null
   },
   "name": "Monte Carlo Airport",
@@ -17,10 +17,12 @@
     "iso_region": "ZA-FS",
     "municipality": "Monte Carlo"
   },
-  "keywords": [],
+  "keywords": [
+    "FACA"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

@@ -4,14 +4,14 @@
     "icao": null,
     "iata": null,
     "gps": null,
-    "local": "PA39"
+    "local": null
   },
   "name": "Beaver Springs Airport",
-  "type": "small_airport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
-    "latitude": 40.776501,
-    "longitude": -77.2164,
+    "latitude": 40.775737,
+    "longitude": -77.216479,
     "elevation_ft": 642,
     "iso_country": "US",
     "iso_region": "US-PA",
@@ -22,7 +22,7 @@
   ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

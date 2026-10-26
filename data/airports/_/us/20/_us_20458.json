@@ -3,10 +3,10 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "KM83",
+    "gps": "M83",
     "local": "M83"
   },
-  "name": "Mccharen Field",
+  "name": "McCharen Field",
   "type": "small_airport",
   "status": "open",
   "location": {
@@ -17,10 +17,12 @@
     "iso_region": "US-MS",
     "municipality": "West Point"
   },
-  "keywords": [],
+  "keywords": [
+    "KM83"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],

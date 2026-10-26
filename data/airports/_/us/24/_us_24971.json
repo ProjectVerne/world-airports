@@ -3,12 +3,12 @@
   "codes": {
     "icao": null,
     "iata": null,
-    "gps": "TN55",
-    "local": "TN55"
+    "gps": null,
+    "local": null
   },
   "name": "Ginny 'B' Heliport",
-  "type": "heliport",
-  "status": "open",
+  "type": "closed",
+  "status": "closed",
   "location": {
     "latitude": 36.093102,
     "longitude": -86.654701,
@@ -17,10 +17,12 @@
     "iso_region": "US-TN",
     "municipality": "Nashville"
   },
-  "keywords": [],
+  "keywords": [
+    "TN55"
+  ],
   "metadata": {
     "created": "2026-06-21",
-    "updated": "2026-06-21",
+    "updated": "2026-10-26",
     "sources": [
       "ourairports"
     ],
